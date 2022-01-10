@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 02:03:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 03:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남자배구보다 인기 높은 여자배구 '상금차별'은 그대로]]></title>
+            <link>https://www.khan.co.kr/sports/sports-general/article/202201101128001</link>
+            <guid>https://www.khan.co.kr/sports/sports-general/article/202201101128001</guid>
+            <pubDate>Mon, 10 Jan 2022 03:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[지난여름 열린 2020 도쿄 올림픽에서 한국 여자 배구 대표팀은 ‘4강’이라는 놀라운 성적을 거뒀다. 일각에선 ‘기적’이라 표현하기도 했다. ‘월드 스타’ 김연경을 필두로 경기가 끝날 때까지 포기하지 않는 선수들의 모습은 많은 이들을 감동시켰다. 자연스럽게 배구에 대한 대중의 관심이 커졌다. 특히 올림픽에서 활약했던 대표팀 선수들이 뛰는 여자 프로배구의 인기도 남자 배구를 능가하고 있다. 관중 수나 시청률 같은 지표상 여자 배구의 인기가 남자 배구를 넘은...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/10/l_2022010701000872000071182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마지막 집회를 기다리는 수요시위의 30번째 생일]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201071416001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 07 Jan 2022 19:18:24 GMT</pubDate>
             <content:encoded><![CDATA[“김민정씨, 나 최승잔데요, 나 최승자라고요, 내가요, 책을 읽고 있었는데요……. 그때 말한 내 책 두 권 있잖아요, 그거 내주세요.”2019년 11월27일, 출판사 난다의 대표 김민정 시인은 오래 기다린 전화를 받았다. 모든 시인의 첫사랑, 최승자 시인(69)이었다. 2015년 그의 산문집을 다시 펴내고 싶다는 제안을 건넨 후 4년 만에 돌아온 답이었다. “그거 내주세요.” 한마디와 함께 최승자 산문집 &lt;한 게으른 시인의 이야기&gt; &lt;어떤 나무들은&gt;이 잇달아 우리...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/31/l_2021122701003443200298811.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탈북민 인권운동가 박지현씨, 더 타임스 '올해의 영웅']]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202112310955001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202112310955001</guid>
-            <pubDate>Fri, 07 Jan 2022 19:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[탈북민 출신의 인권운동가 박지현씨(53)가 영국 일간 더타임스 일요판이 선정한 ‘올해의 영웅’에 이름을 올렸다. 타임스는 북한에서의 고난을 극복하고 인권 증진에 힘써온 그의 모습이 많은 이들에게 영감을 불어넣었다고 평가했다.타임스는 26일(현지시간) 더 공정하고 안전한 사회를 만들기 위해 싸운 이들과 생명을 살리기 위해 개인적 희생을 한 이들, 코로나19 팬데믹 와중에 묵묵히 선을 행한 이들을 대상으로 올해의 영웅 20여명을 선정했다고 밝혔다.올해의 영웅 명단...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/31/l_2021122901003710200323051.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
