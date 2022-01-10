@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 05:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 06:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대책없는 여가부 폐지론이 외면한 사람들]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202201101427001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202201101427001</guid>
+            <pubDate>Mon, 10 Jan 2022 06:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 국민의힘 대선후보가 지난 7일 “여성가족부 폐지” 7글자를 페이스북에 올리면서, 대선 후보와 각 캠프에서는 존폐론과 개편론 등 여가부를 둘러싼 갑론을박이 이어지고 있다. 한편에서는 이 같은 정치권의 움직임을 초조한 마음으로 지켜보는 이들이 있다. 한부모가정이나 저소득층 청소년, 성폭력 피해자 등 주로 여가부의 지원을 받고 있는 이들이 그들이다. 정부조직을 어떻게 바꿀지에 대한 찬반 목소리는 드높지만 정작 논의 대상인 부처 업무와 직접적인 이해관...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/10/l_2022011001001122600094231.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남자배구보다 인기 높은 여자배구 '상금차별'은 그대로]]></title>
             <link>https://www.khan.co.kr/sports/sports-general/article/202201101128001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 07 Jan 2022 19:18:24 GMT</pubDate>
             <content:encoded><![CDATA[지난 3일 문재인 대통령과 김정숙 여사의 손을 잡고 청와대 복도를 지나 ‘기부·나눔단체 초청 행사장’에 들어서며 박춘자 할머니(92)는 젊은 날 돌아가신 홀아버지를 생각했다. 평생 모은 재산 6억3000여만원을 기부한 그를 향해 기자들의 플래시가 갈채 소리처럼 터졌고 박 할머니는 행사 내내 울었다.“나는 여기 와서 청와대 구경도 하는데…” 고생만 하다 돌아가신 아버지와 박씨가 두 살 때 세상을 떠난 어머니 생각에 환담장에 앉아서도 굽은 어깨를 내내 출렁였다...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/03/l_2021123101003998400348791.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세월이 흘러도 갓 지른 비명처럼 생생하게, 최승자가 돌아왔다]]></title>
-            <link>https://www.khan.co.kr/culture/book/article/202112311456001</link>
-            <guid>https://www.khan.co.kr/culture/book/article/202112311456001</guid>
-            <pubDate>Fri, 07 Jan 2022 19:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[“김민정씨, 나 최승잔데요, 나 최승자라고요, 내가요, 책을 읽고 있었는데요……. 그때 말한 내 책 두 권 있잖아요, 그거 내주세요.”2019년 11월27일, 출판사 난다의 대표 김민정 시인은 오래 기다린 전화를 받았다. 모든 시인의 첫사랑, 최승자 시인(69)이었다. 2015년 그의 산문집을 다시 펴내고 싶다는 제안을 건넨 후 4년 만에 돌아온 답이었다. “그거 내주세요.” 한마디와 함께 최승자 산문집 &lt;한 게으른 시인의 이야기&gt; &lt;어떤 나무들은&gt;이 잇달아 우리...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2021/12/31/l_2021122701003443200298811.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
