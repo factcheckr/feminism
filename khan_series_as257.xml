@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 00:43:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 02:04:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘이한열 열사 어머니’ 배은심 여사, 35년 만에 아들 곁으로]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202201111011001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202201111011001</guid>
+            <pubDate>Tue, 11 Jan 2022 02:04:09 GMT</pubDate>
+            <content:encoded><![CDATA[1987년 6월 민주항쟁의 도화선이 됐던 고 이한열 열사의 모친 배은심 여사가 9일 오전 5시28분 광주 조선대병원에서 별세했다. 향년 82세.배 여사는 지난 3일 심근경색으로 쓰러져 병원에서 치료를 받다가 8일 퇴원했으나 다시 쓰러져 병원으로 옮겨진 뒤 끝내 회복하지 못했다. 그는 아들이 떠난 지 약 35년 만에 아들 곁으로 갔다.배 여사의 인생은 아들이 민주화 시위 과정에서 최루탄에 맞아 사망한 뒤 송두리째 바뀌었다. 배 여사는 전국민족민주유가족협의회(유가협)에...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/11/l_2022011001001183700098451.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대책없는 여가부 폐지론이 외면한 사람들]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201101427001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 07 Jan 2022 19:18:24 GMT</pubDate>
             <content:encoded><![CDATA[새해를 앞둔 지난 달 31일 서울시가 주최한 ‘보신각, 제야의 종’ 온라인 타종식 축하 무대에서 성소수자를 언급한 가사 내용이 삭제돼 논란이 일고 있다. 서울시는 타 방송사에서 쓰인 음원을 그대로 사용했다며 “의도적으로 성소수자를 배제한 것은 아니”라고 해명했다.사전 제작된 당일 축하무대에는 퓨전국악밴드 ‘훌’과 ‘서도밴드’, 댄스팀 ‘라치카’가 참여했다. 공연은 오후 11시40분부터 서울시 유튜브·페이스북은 물론 tbs교통방송, 지상파·케이블 방송사를 통해 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/04/l_2022010301000329500023111.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아흔이 넘어도 계속되는 '김밥 할머니'의 나누는 삶]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202201031116001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202201031116001</guid>
-            <pubDate>Fri, 07 Jan 2022 19:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[지난 3일 문재인 대통령과 김정숙 여사의 손을 잡고 청와대 복도를 지나 ‘기부·나눔단체 초청 행사장’에 들어서며 박춘자 할머니(92)는 젊은 날 돌아가신 홀아버지를 생각했다. 평생 모은 재산 6억3000여만원을 기부한 그를 향해 기자들의 플래시가 갈채 소리처럼 터졌고 박 할머니는 행사 내내 울었다.“나는 여기 와서 청와대 구경도 하는데…” 고생만 하다 돌아가신 아버지와 박씨가 두 살 때 세상을 떠난 어머니 생각에 환담장에 앉아서도 굽은 어깨를 내내 출렁였다...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/03/l_2021123101003998400348791.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
