@@ -4,17 +4,9 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 04:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 05:13:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[남자배구보다 인기 높은 여자배구 '상금차별'은 그대로[플랫]]]></title>
-            <link>https://www.khan.co.kr/sports/sports-general/article/202201101128001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/sports/sports-general/article/202201101128001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022. 01. 10]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/10/l_2022010701000872000071182.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[대책없는 여가부 폐지론이 외면한 사람들[플랫]]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201101427001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -30,6 +22,14 @@
             <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022. 01. 11]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/11/l_2022011001001183700098451.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이세영 “덕임처럼 있는 힘껏 선택하며 살고 있나 돌아보게 됐다”[플랫]]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202201111403001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202201111403001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022. 01. 11]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/11/l_2022010701000870800071071.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
