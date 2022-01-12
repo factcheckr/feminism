@@ -4,7 +4,7 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 07:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 08:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/11/l_2022010701000870800071071.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘이한열 열사 어머니’ 배은심 여사, 35년 만에 아들 곁으로[플랫]]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202201111011001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202201111011001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022. 01. 11]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/11/l_2022011001001183700098451.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA["객관성을 위해 개입하지 않았다"는 폭력의 방관자들[플랫]]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202201121347001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/culture/culture-general/article/202201121347001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Wed, 12 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022. 01. 12]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/12/l_2022011101001379600115072.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여성 무시하는 정치권에, 샤우트 아웃(SHOUT-OUT)![플랫]]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202201121646001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202201121646001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Wed, 12 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022. 01. 12]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/12/l_2022010701000888400072621.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
