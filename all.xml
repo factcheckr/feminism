@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 05:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 06:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -132,7 +132,7 @@
             <title><![CDATA["객관성을 위해 개입하지 않았다"는 폭력의 방관자들[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202201121347001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/culture/culture-general/article/202201121347001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Wed, 12 Jan 2022 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 12 Jan 2022 05:13:12 GMT</pubDate>
             <content:encoded><![CDATA[2022. 01. 12]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/12/l_2022011101001379600115072.jpg" length="0" type="image/jpg"/>
         </item>
@@ -297,6 +297,14 @@
             <enclosure url="https://image.hankookilbo.com/board/eac05ee4-3cb6-45b5-9705-8ecb9e6fb224.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[성범죄 피해자가 잘 살아갈 수 있는 나라 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9245</link>
+            <guid>https://ildaro.com/9245</guid>
+            <pubDate>Wed, 12 Jan 2022 06:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[계속 유포되는 피해물의 굴레에, 매일밤 자신의 피해물을 찾아 헤매는 이들도 있다. 자신의 피해물을 보려면, 불법성착취사이트에 일정 비용을 지불해야만 한다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022011223455321.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘생존신고’ 우리 서로 살아있음을 확인하자 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9244</link>
             <guid>https://ildaro.com/9244</guid>
@@ -447,14 +455,6 @@
             <pubDate>Fri, 17 Dec 2021 10:12:00 GMT</pubDate>
             <content:encoded><![CDATA[여기서 내 현실이란, 아빠의 폭력이기도 하고 이 폭력을 크게 생각하지 않았던 친가 친척들과 마을 사람들이기도 해....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021121722532869.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세종호텔 정리해고가 ‘여성 노동’의 문제인 이유 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9225</link>
-            <guid>https://ildaro.com/9225</guid>
-            <pubDate>Mon, 10 Jan 2022 00:42:28 GMT</pubDate>
-            <content:encoded><![CDATA[내보내기 쉬운 여성이 없었다면, 저임금-불안정 노동을 감수하는 여성들로 채워진 용역업체가 없었다면, 세종호텔의 정리해고는 가능하지 않은 일이었다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021121520353440.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
