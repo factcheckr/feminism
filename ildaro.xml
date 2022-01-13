@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 07:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 08:18:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[격무에 시달리는데도 우릴 ‘잉여 인력’이라고 했다]]></title>
+            <link>https://ildaro.com/9246</link>
+            <guid>https://ildaro.com/9246</guid>
+            <pubDate>Thu, 13 Jan 2022 08:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[“우리 자긍심 높게 잘 싸웠어요. 저희 진짜 잘 싸웠어요.우리 다 40이 넘은 사람들이었는데. 그런 걸 어떻게 했을까. 이런 생각을 하면, 굉장히 자존심이 높아져요.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/202201131727891.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성범죄 피해자가 잘 살아갈 수 있는 나라]]></title>
             <link>https://ildaro.com/9245</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 10 Jan 2022 00:42:28 GMT</pubDate>
             <content:encoded><![CDATA[여성을 노린 페미사이드 사건에 대해 글을 썼더니 범행에 사용된 것과 똑같은 칼과 내 사진을 나란히 붙인 이미지가 댓글로 달렸다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021121901424629.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이주여성 엄마를 때린 아빠, 딸은 경찰서에 갔다]]></title>
-            <link>https://ildaro.com/9226</link>
-            <guid>https://ildaro.com/9226</guid>
-            <pubDate>Fri, 17 Dec 2021 10:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[여기서 내 현실이란, 아빠의 폭력이기도 하고 이 폭력을 크게 생각하지 않았던 친가 친척들과 마을 사람들이기도 해....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021121722532869.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
