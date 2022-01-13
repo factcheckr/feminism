@@ -4,17 +4,9 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 00:44:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 02:07:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이세영 “덕임처럼 있는 힘껏 선택하며 살고 있나 돌아보게 됐다”[플랫]]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202201111403001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202201111403001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022. 01. 11]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/11/l_2022010701000870800071071.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[여성 무시하는 정치권에, 샤우트 아웃(SHOUT-OUT)![플랫]]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201121646001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -30,6 +22,14 @@
             <pubDate>Wed, 12 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022. 01. 12]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/12/l_2022011101001379600115072.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['자살' 없는 대선[플랫]]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202201131004001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202201131004001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022. 01. 13]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/13/l_2022010701000888500072631.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
