@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 03:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 04:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -114,20 +114,20 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/05/2022010501000501400040161.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여성 무시하는 정치권에, 샤우트 아웃(SHOUT-OUT)![플랫] (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202201121646001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202201121646001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Wed, 12 Jan 2022 08:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022. 01. 12]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/12/l_2022010701000888400072621.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA["객관성을 위해 개입하지 않았다"는 폭력의 방관자들[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202201121347001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/culture/culture-general/article/202201121347001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Wed, 12 Jan 2022 05:13:12 GMT</pubDate>
             <content:encoded><![CDATA[2022. 01. 12]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/12/l_2022011101001379600115072.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여성 무시하는 정치권에, 샤우트 아웃(SHOUT-OUT)![플랫] (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202201121646001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202201121646001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Wed, 12 Jan 2022 08:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022. 01. 12]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/12/l_2022010701000888400072621.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['자살' 없는 대선[플랫] (경향신문 ─ 플랫)]]></title>
