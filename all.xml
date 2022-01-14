@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 13:23:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 14:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -298,6 +298,14 @@
             <enclosure url="https://image.hankookilbo.com/board/c8d691c3-3ea2-404b-928d-013673ddc021.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Searching for the Language of the World of Illness (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9247</link>
+            <guid>https://ildaro.com/9247</guid>
+            <pubDate>Fri, 14 Jan 2022 14:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[Everyone who is born holds dual citizenship, in the kingdom of the well and in the kingdom of the sick....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/225437_2022011447019350.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[격무에 시달리는데도 우릴 ‘잉여 인력’이라고 했다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9246</link>
             <guid>https://ildaro.com/9246</guid>
@@ -448,14 +456,6 @@
             <pubDate>Mon, 20 Dec 2021 10:22:00 GMT</pubDate>
             <content:encoded><![CDATA[Starting from now, I am going to unveil the nightmare—or the reality that I wish was a dream—of our workplace, which men would never dream of....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021122030537294.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[목소리 내는 여성들에 대한 혐오와 린치를 멈춰라 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9227</link>
-            <guid>https://ildaro.com/9227</guid>
-            <pubDate>Mon, 10 Jan 2022 00:42:28 GMT</pubDate>
-            <content:encoded><![CDATA[여성을 노린 페미사이드 사건에 대해 글을 썼더니 범행에 사용된 것과 똑같은 칼과 내 사진을 나란히 붙인 이미지가 댓글로 달렸다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021121901424629.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
