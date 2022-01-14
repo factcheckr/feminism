@@ -4,9 +4,18 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 07:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 08:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Fri, 14 Jan 2022 08:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[한 여고생이 군에 보낸 위문편지 내용이 공개된 이후 해당 학생과 소속 학교를 상대로 온·오프라인에서 폭력이 이어지고 있다. 여고생의 ‘정서적 위로’로 장병 사기를 끌어올리겠다는 취지의 구시대적 행사를 60년 넘게 이어오고 있는 학교와 교육당국의 방관이 피해를 키우고 있다는 지적이 나온다.
+13일 한 온라인 커뮤니티에는 편지를 쓴 것으로 추정되는 학생의 이름, 나이, 사진 등 신상정보가 올라왔다. 같은 커뮤니티에는 해당 여고에 찾아갔다는 ‘인증샷’이 게재되는가 하면, 사회관계망서비스(SNS)와 이 논란을 다룬 기사에는 욕설과 성희롱이 난무했다. 해당 학교가 위치한 지역의 보습학원에서는 같은 학교 학생 1명을 퇴원시키는 일도 있었다. 원장 A씨는 기자와의 통화에서 “논란의 편지를 작성한 사람과 생각이 비슷하다는 취지로 이야기한 학생을 더 이상 지도하기 어렵다고 판단했다”고 말했다.]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/14/2022011401001765400149951.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아동 성폭력 피해자의 '영상진술' 위헌 결정… 법무부 "대책 찾겠다"]]></title>
             <link>https://www.khan.co.kr/national/court-law/article/202201141033001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
@@ -103,15 +112,6 @@
             <content:encoded><![CDATA[국내 최대 앱마켓 구글플레이 등에서 한때 1위를 차지했다 ‘숨김’ 처리된 게임 ‘와이푸’(Waifu)를 둘러싼 논란이 커지고 있다. 한국게임학회는 6일 “구글은 자체 게임 심의 기준을 공개하라”고 촉구하고 나섰다. 게임물관리위원회(게임위)의 부실 대응도 도마에 올랐다.
 와이푸는 싱가포르 개발사 ‘팔콘 글로벌’이 출시한 모바일 게임이다. 이용자와 게임 속 여성 캐릭터가 ‘가위바위보’를 하고, 이용자가 이기면 여성 캐릭터의 옷이 하나씩 사라진다.]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/07/2022010601000736300060601.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[익명출산제는 '미명이'들을 위한 선택일까]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202201061422001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202201061422001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Fri, 07 Jan 2022 19:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[출산 사실을 숨기고 싶은 부모와 자신의 출생부모가 누구인지 알고 싶은 아이 중 어느 쪽을 더 중요하게 고려해야 할까. 논의가 한창인 익명출산제(보호출산제) 이야기다.
-익명출산제는 아동의 출생신고 누락 문제, 미혼모 등 위기 임산부의 출산 문제 등에 대한 대안격으로 언급돼왔다. 출산에서 임산부 개인정보를 감춤으로써 여러 사정 때문에 의료기관에서의 출산을 꺼리는 산모를 보호하겠다는 것이 익명출산제의 골자다. ‘익명화’가 핵심이기 때문에 보호출산제 또한 익명출산제로 통칭할 수 있다.]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/06/2022010301000206900014201.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
