@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 08:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 09:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -114,6 +114,14 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/07/2022010601000736300060601.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
+            <pubDate>Fri, 14 Jan 2022 08:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022. 01. 14]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/14/l_2022011401001765400149951.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아동 성폭력 피해자의 '영상진술' 위헌 결정… 법무부 "대책 찾겠다"[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/court-law/article/202201141033001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/court-law/article/202201141033001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
@@ -122,20 +130,20 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/14/l_2022011301001581400134371.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
-            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022. 01. 14]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/14/l_2022011401001765400149951.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['합성 사진' '트렌스젠더설'… 여성 정치인 공격하는 성차별적 가짜뉴스[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202201131444001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/world/world-general/article/202201131444001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
             <pubDate>Thu, 13 Jan 2022 06:14:45 GMT</pubDate>
             <content:encoded><![CDATA[2022. 01. 13]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/13/l_2022010601000739600060751.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202201141628001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202201141628001</guid>
+            <pubDate>Fri, 14 Jan 2022 09:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[한 여고생이 군에 보낸 위문편지 내용이 공개된 이후 해당 학생과 소속 학교를 상대로 온·오프라인에서 폭력이 이어지고 있다. 여고생의 ‘정서적 위로’로 장병 사기를 끌어올리겠다는 취지의 구시대적 행사를 60년 넘게 이어오고 있는 학교와 교육당국의 방관이 피해를 키우고 있다는 지적이 나온다.13일 한 온라인 커뮤니티에는 편지를 쓴 것으로 추정되는 학생의 이름, 나이, 사진 등 신상정보가 올라왔다. 같은 커뮤니티에는 해당 여고에 찾아갔다는 ‘인증샷’이 게재되...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/14/l_2022011401001765400149951.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아동 성폭력 피해자의 '영상진술' 위헌 결정… 법무부 "대책 찾겠다" (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -208,14 +216,6 @@
             <pubDate>Mon, 10 Jan 2022 03:15:14 GMT</pubDate>
             <content:encoded><![CDATA[지난여름 열린 2020 도쿄 올림픽에서 한국 여자 배구 대표팀은 ‘4강’이라는 놀라운 성적을 거뒀다. 일각에선 ‘기적’이라 표현하기도 했다. ‘월드 스타’ 김연경을 필두로 경기가 끝날 때까지 포기하지 않는 선수들의 모습은 많은 이들을 감동시켰다. 자연스럽게 배구에 대한 대중의 관심이 커졌다. 특히 올림픽에서 활약했던 대표팀 선수들이 뛰는 여자 프로배구의 인기도 남자 배구를 능가하고 있다. 관중 수나 시청률 같은 지표상 여자 배구의 인기가 남자 배구를 넘은...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/10/l_2022010701000872000071182.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마지막 집회를 기다리는 수요시위의 30번째 생일 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202201071416001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202201071416001</guid>
-            <pubDate>Fri, 07 Jan 2022 19:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[TV 화면에서 할머니들을 본 게 벌써 30년 전이다. 일제강점기, 소녀였던 그들은 일본군에 의해 낯선 땅으로 끌려가 성착취를 당했다. 그러곤 할머니가 되어 일제의 만행을 폭로했다. 전쟁은 약자에게, 특히 여성에게 잔혹했다. 전쟁 성폭력에 짓밟히고도 꿋꿋하게 생존해 고통을 증언하는 그들에게 경외심을 느꼈다.위안부 피해 할머니들과 시민사회가 서울 종로구 옛 주한 일본대사관 앞에서 일본 정부의 사과를 요구하는 시위를 시작한 것은 1992년 1월8일 수요일이었다. 이...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/07/l_2022010701000883800072291.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['여성가족부 폐지' 단 7글자 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
