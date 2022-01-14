@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 00:42:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 02:05:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아동 성폭력 피해자의 '영상진술' 위헌 결정… 법무부 "대책 찾겠다"]]></title>
+            <link>https://www.khan.co.kr/national/court-law/article/202201141033001</link>
+            <guid>https://www.khan.co.kr/national/court-law/article/202201141033001</guid>
+            <pubDate>Fri, 14 Jan 2022 02:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[법무부가 5일 ‘젠더폭력처벌법 개정 특별분과위원회’를 발족하고 ‘미성년 성폭력 피해자 진술 영상 증거능력 위헌 결정’에 대한 대책 마련에 나섰다. 이 위원회는 성폭력처벌법, 가정폭력처벌법, 스토킹처벌법 등 ‘젠더폭력’을 처벌하는 법률을 제·개정하기 위해 만들어졌다.법무부는 이날 위원들을 위촉한 뒤 1차 회의를 열어 성폭력처벌법 개정 방안에 대해 논의했다. 헌법재판소가 지난 달 19세 미만 성폭력 피해자가 법정에서 진술하지 않아도 진술 영상에 증거능력을 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/14/l_2022011301001581400134371.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['합성 사진' '트렌스젠더설'… 여성 정치인 공격하는 성차별적 가짜뉴스]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202201131444001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 07 Jan 2022 19:18:24 GMT</pubDate>
             <content:encoded><![CDATA[TV 화면에서 할머니들을 본 게 벌써 30년 전이다. 일제강점기, 소녀였던 그들은 일본군에 의해 낯선 땅으로 끌려가 성착취를 당했다. 그러곤 할머니가 되어 일제의 만행을 폭로했다. 전쟁은 약자에게, 특히 여성에게 잔혹했다. 전쟁 성폭력에 짓밟히고도 꿋꿋하게 생존해 고통을 증언하는 그들에게 경외심을 느꼈다.위안부 피해 할머니들과 시민사회가 서울 종로구 옛 주한 일본대사관 앞에서 일본 정부의 사과를 요구하는 시위를 시작한 것은 1992년 1월8일 수요일이었다. 이...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/07/l_2022010701000883800072291.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성 옷벗기기 게임이 15세 등급?]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202201071028001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202201071028001</guid>
-            <pubDate>Fri, 07 Jan 2022 19:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 앱마켓 구글플레이 등에서 한때 1위를 차지했다 ‘숨김’ 처리된 게임 ‘와이푸’(Waifu)를 둘러싼 논란이 커지고 있다. 한국게임학회는 6일 “구글은 자체 게임 심의 기준을 공개하라”고 촉구하고 나섰다. 게임물관리위원회(게임위)의 부실 대응도 도마에 올랐다.와이푸는 싱가포르 개발사 ‘팔콘 글로벌’이 출시한 모바일 게임이다. 이용자와 게임 속 여성 캐릭터가 ‘가위바위보’를 하고, 이용자가 이기면 여성 캐릭터의 옷이 하나씩 사라진다.문제는 이 게임이 국내...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/07/l_2022010601000736300060601.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
