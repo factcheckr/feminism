@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 04:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 05:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에서  까지 여성서사 약진]]></title>
+            <link>https://ildaro.com/9249</link>
+            <guid>https://ildaro.com/9249</guid>
+            <pubDate>Sun, 16 Jan 2022 05:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2021년을 대표하는 키워드를 꼽아보았을 때 빠질 수 없는 건 방송/미디어에서 여성캐릭터/여성서사의 약진이다. 그야말로 “잘봐, 언니들 싸움이다”였다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022011655532093.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이야기에 기입된 여성의 역사]]></title>
             <link>https://ildaro.com/9248</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 10 Jan 2022 00:42:28 GMT</pubDate>
             <content:encoded><![CDATA[“법원에서 강도영 씨가 복지 서비스가 있다는 걸 알았음에도 신청하지 않았다는 것이 죄처럼 언급이 된 점에 놀랐다”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021122217493343.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[킬러 마녀에게 끌리는 이유]]></title>
-            <link>https://ildaro.com/9229</link>
-            <guid>https://ildaro.com/9229</guid>
-            <pubDate>Tue, 21 Dec 2021 10:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[너를 괴롭게 하는 사람을 모두 죽여주겠다며 웃는 마녀 앞에서 나는 과연 놀라서 고개를 가로저을까, 악당 같은 얼굴로 한 번 가 보자고 손을 잡을까?...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021122152067396.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
