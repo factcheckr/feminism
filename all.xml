@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 15:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 16:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[세상의 틀에 갇히지 않은 '10대 댄서'들의 화려한 탄생 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202201171602001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202201171602001</guid>
+            <pubDate>Mon, 17 Jan 2022 07:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[“보다 조금 언니라는 이유로 여러분의 성장과정을 함께 할 수 있어서 영광이다.”지난 4일 방영된 엠넷의 댄스 서바이벌 프로그램 &lt;스트릿댄스 걸스 파이터&gt; 마지막 회에서 심사위원 리정이 ‘턴즈’의 무대를 보고 남긴 말이다. 그동안 가수 뒤에 가려졌던 여성 댄서들을 전면에 내세워 스트릿 댄스 열풍을 일으켰던 &lt;스트릿 우먼 파이터&gt;(스우파)에 이어 여자 고등학생 댄서들의 도전을 보여 준 &lt;스트릿댄스 걸스 파이터&gt;(스걸파)가 자체 최고시청률을 경...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/17/l_2022011401001767000150211.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[흑인 여성 최초로 미국 25센트 동전에 얼굴 실리는 마야 앤젤루 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202201171024001</link>
             <guid>https://www.khan.co.kr/world/world-general/article/202201171024001</guid>
@@ -182,14 +190,6 @@
             <pubDate>Tue, 11 Jan 2022 02:04:09 GMT</pubDate>
             <content:encoded><![CDATA[“이제 한열이 곁에서 편히 쉬세요.”이한열 열사의 어머니로 평생을 민주화운동에 헌신했던 고(故) 배은심 여사가 11일 아들의 묘가 멀리 바라다보이는 광주 망월묘역에서 영원한 안식에 들었다.민주의 길 배은심 어머니 사회장 장례위원회는 이날 오전 11시 광주 동구 옛 전남도청 앞 5·18민주광장에서 노제를 진행했다. 고인은 시민 200여명의 배웅을 받으며 마지막 길을 떠났다.그는 1987년 6월 민주항쟁의 도화선이 됐던 고 이한열 열사의 모친이다. 지난 3일 심근경색으로...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/11/l_2022011001001183700098451.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대책없는 여가부 폐지론이 외면한 사람들 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202201101427001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202201101427001</guid>
-            <pubDate>Mon, 10 Jan 2022 06:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 국민의힘 대선후보가 지난 7일 “여성가족부 폐지” 7글자를 페이스북에 올리면서, 대선 후보와 각 캠프에서는 존폐론과 개편론 등 여가부를 둘러싼 갑론을박이 이어지고 있다. 한편에서는 이 같은 정치권의 움직임을 초조한 마음으로 지켜보는 이들이 있다. 한부모가정이나 저소득층 청소년, 성폭력 피해자 등 주로 여가부의 지원을 받고 있는 이들이 그들이다. 정부조직을 어떻게 바꿀지에 대한 찬반 목소리는 드높지만 정작 논의 대상인 부처 업무와 직접적인 이해관...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/10/l_2022011001001122600094231.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['여성가족부 폐지' 단 7글자 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
