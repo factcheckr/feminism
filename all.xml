@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 00:45:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 02:09:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,7 +280,7 @@
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022011756474795.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에서  까지 여성서사 약진 (일다 ─ 전체기사)]]></title>
+            <title><![CDATA[<마인> <골때녀>에서 <구경이> <스우파>까지 여성서사 약진 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9249</link>
             <guid>https://ildaro.com/9249</guid>
             <pubDate>Sun, 16 Jan 2022 05:13:07 GMT</pubDate>
