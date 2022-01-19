@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 10:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 11:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팬데믹 장기화…떡볶이 노점상은 어떻게 지내나요?]]></title>
+            <link>https://ildaro.com/9252</link>
+            <guid>https://ildaro.com/9252</guid>
+            <pubDate>Wed, 19 Jan 2022 11:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[“코로나19로 인해 영업시간이 짧아진 노점상이 많았음에도, 설문에 참여한 이들의 평균 영업 시간은 하루 7시간에서 12시간이었다”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022011941565742.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리에겐 이미 서사가 있다]]></title>
             <link>https://ildaro.com/9251</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 10 Jan 2022 00:42:28 GMT</pubDate>
             <content:encoded><![CDATA[“말도 안 돼!라고 생각했죠. 가장 불안했던 건, 그게 이상하다는 목소리가 전혀 들리지 않는 점이었어요.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021122637481863.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가장 가까이 스치는 칼날, 엄마]]></title>
-            <link>https://ildaro.com/9232</link>
-            <guid>https://ildaro.com/9232</guid>
-            <pubDate>Sat, 25 Dec 2021 10:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[세상이 나 죽지 말라고 내 딸을 내렸다. 우리는 세상에서 하나였다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021122544091498.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
