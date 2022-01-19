@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 05:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 06:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["당신 죽으면 내 밥줄도 끊긴다" 상관 성폭력 신고한 여군에게 돌아온 말]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202201191452001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202201191452001</guid>
+            <pubDate>Wed, 19 Jan 2022 06:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 6월 국방부 성폭력 특별신고기간 중 성폭행·성추행을 당한 여군들이 군 성고충상담관으로부터 ‘2차 가해’를 당했다는 주장이 나왔다. 피해자들은 사건 신고 직후 해당 상담관과의 근무지 분리를 요구했지만 군은 “상담관은 민간인이라 처분 권한이 없다”며 이를 받아들이지 않았다.12일 경향신문 취재 결과 육군 모 보병사단 소속 강모 소령으로부터 성범죄 피해를 입은 여군 A씨와 B씨는 신고 다음날인 지난해 6월28일 군 성고충상담관 C씨를 만났다. B씨가 육군...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/19/l_2022011401001766100150052.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['피고인 방어권'과 '2차 피해'의 충돌… 해외는 어떻게 해결했나]]></title>
             <link>https://www.khan.co.kr/national/court-law/article/202201191018001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 17 Jan 2022 07:11:55 GMT</pubDate>
             <content:encoded><![CDATA[브리지트 마크롱, 미셸 오바마, 카멀라 해리스. 세계에서 가장 힘 있는 여성들로 손꼽히는 이들도 대선 길목에 들어서면 괴상한 음모론의 희생자로 전락하고 만다. 최근 몇 년간 여성 정치인을 겨냥한 악의적인 가짜뉴스가 기승을 부리면서다.에마뉘엘 마크롱 프랑스 대통령의 부인인 브리지트 마크롱은 프랑스 대선을 약 100일 앞두고 최근 트위터를 중심으로 본인이 트랜스젠더라는 거짓 소문이 퍼지자 강경 대응에 나섰다. 프랑스의 한 극우 월간지는 지난해 9월 브리지트가...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/13/l_2022010601000739600060751.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['자살' 없는 대선]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202201131004001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202201131004001</guid>
-            <pubDate>Mon, 17 Jan 2022 07:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[수많은 자살이 쌓인 위에 치러지고 있는 대선이다. 비유가 아니라 실제로 그렇다. 각종 부패, 비리, 횡령, 성범죄와 연루되어 수사를 앞두고 목숨을 끊은 정치인과 고위공직자의 연이은 자살은 단지 벼랑 끝에 몰린 일부의 ‘극단적 선택’이 아니라 십수 년 동안 뚜렷하게 이어져온 사회적 실체다. &lt;숭배 애도 적대&gt;에서 천정환이 지적했듯 한국 사회에서 ‘세속의 승리자’인 고위층 중장년 남성의 잇따른 자살은 2000년대 이후 가시화된 흐름으로, 한국 사회의 지배...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/13/l_2022010701000888500072631.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
