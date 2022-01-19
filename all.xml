@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 22:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 23:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,6 +192,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/13/l_2022010601000739600060751.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[군부대 위안은 여성의 몫이 아니다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/648</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/648</guid>
+            <pubDate>Wed, 19 Jan 2022 23:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[많은 분들이 공분하고, 행동에 나서기도 한 이슈가 있었는데요. 바로 서울 진명여고 '위문 편지' 논란입니다. 모르시는 분들을 위해 간단히 설명드리자면 이렇습니다. 💬 지난 11일 한 온라인 커뮤니티에 위문편지 한 장이 올라왔습니다. 편지에는 "인생에 시련이 많을 건데 이 정도는 이겨줘야 사나이가 아닐까요" "눈 오면 열심히 치우세요"라는 내용이 담겼습니다. 일부 누리꾼은 "군인에 대한 조롱"이라며 즉각 반발했습니다. 남초 커뮤니티 유저를 중심으로 해당 학교를 찾아가고, 여고생의 신상을 터는 극단적 행위도 이어졌습니다. 여학생들에 대한 도 넘은 성희롱 악플도 달렸어요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/977f3439-fb72-41f8-a3f1-e7fb4452ecc3.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA['여성가족부 폐지' 단 7글자 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/637</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/637</guid>
@@ -262,14 +270,6 @@
             <pubDate>Fri, 07 Jan 2022 19:18:39 GMT</pubDate>
             <content:encoded><![CDATA[오늘 드디어 '여자를 돕는 여자들(여.돕.여)' 크라우드 펀딩이 열렸습니다! 18일 오전 9시부터 시작되는 크라우드 펀딩은 12월 23일까지 35일간 진행됩니다. 지금을 살아가는 여러분들께 어떤 여성의 이야기가 필요할까 고민하면서, 매 회마다 진심을 꾹꾹 눌러 담았어요. 그리고 이 문장이 우리를 단단하게 엮는 하나의 열쇳말이 되기를 바라요. "당신을 도운 여성은 누구인가요?"]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/c4899ca6-19be-4c7f-89b7-6aeccb521590.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남자도 총리 할 수 있나요? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/529</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/529</guid>
-            <pubDate>Fri, 07 Jan 2022 19:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 허스토리에서는 메르켈 총리를 비롯해 세계 곳곳의 '여성 정치 지도자' 소식을 그러모아 소개합니다. 어떤 정치적 토양 속에서 여성 정치 지도자가 탄생할 수 있는지, 2022년 대통령 선거와 지방선거를 앞두고 있는 우리에게 필요한 건 무엇인지도 함께 고민해 봐요.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/c8d691c3-3ea2-404b-928d-013673ddc021.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[팬데믹 장기화…떡볶이 노점상은 어떻게 지내나요? (일다 ─ 전체기사)]]></title>
