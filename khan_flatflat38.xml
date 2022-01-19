@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 02:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 03:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['피고인 방어권'과 '2차 피해'의 충돌… 해외는 어떻게 해결했나]]></title>
+            <link>https://www.khan.co.kr/national/court-law/article/202201191018001</link>
+            <guid>https://www.khan.co.kr/national/court-law/article/202201191018001</guid>
+            <pubDate>Wed, 19 Jan 2022 03:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[미성년 성범죄 피해자의 진술 영상을 증거로 쓸 수 있도록 한 성폭력처벌법 조항에 위헌 결정을 내린 헌법재판소는 이 결정으로 사회 각계로부터 집중포화를 받고 있다. 아동·청소년 피해자를 2차 피해에 무방비 노출시켰다는 것이 주된 비판이지만, 헌재도 이 같은 사정을 고려하지 않은 것은 아니다. 헌재는 지난달 위헌 결정 당시 피고인의 방어권 보장과 함께 피해자 보호가 함께 이뤄져야 한다는 점을 강조하면서, 2차 가해를 막기 위한 “조화로운 대안”을 찾아야 ...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/19/l_2022011401001765900150021.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여성 서사 아카이브 '플랫'이 홈페이지를 오픈합니다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201181406001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 17 Jan 2022 07:11:55 GMT</pubDate>
             <content:encoded><![CDATA[수많은 자살이 쌓인 위에 치러지고 있는 대선이다. 비유가 아니라 실제로 그렇다. 각종 부패, 비리, 횡령, 성범죄와 연루되어 수사를 앞두고 목숨을 끊은 정치인과 고위공직자의 연이은 자살은 단지 벼랑 끝에 몰린 일부의 ‘극단적 선택’이 아니라 십수 년 동안 뚜렷하게 이어져온 사회적 실체다. &lt;숭배 애도 적대&gt;에서 천정환이 지적했듯 한국 사회에서 ‘세속의 승리자’인 고위층 중장년 남성의 잇따른 자살은 2000년대 이후 가시화된 흐름으로, 한국 사회의 지배...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/13/l_2022010701000888500072631.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성 무시하는 정치권에, 샤우트 아웃(SHOUT-OUT)!]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202201121646001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202201121646001</guid>
-            <pubDate>Mon, 17 Jan 2022 07:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[#반페미니즘은_청년의_목소리가_아니다#빼앗긴_여성의_목소리를_되찾자#우리는_여성혐오에_투표하지_않겠다지난 5일 오후 9시가 되자 트위터·인스타그램 등 사회관계망서비스(SNS)에는 이 같은 해시태그를 단 게시물이 하나 둘 올라오기 시작했다. 여성유권자 단체인 ‘샤우트 아웃(SHOUT-OUT)’이 주최한 해시태그 총공(총공격의 줄임말)이 시작된 것이다. 트위터에 따르면 6일 오전 1시까지 약 4시간 동안 관련 해시태그를 담은 게시물 5500건 이상이 공유됐다.샤우트 아웃은 앞서 지난달...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/12/l_2022010701000888400072621.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
