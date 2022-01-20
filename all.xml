@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 03:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 04:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[흥신소 뒷조사, 클리셰로 남기엔 현실이 너무 무겁다 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202201201003001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202201201003001</guid>
+            <pubDate>Thu, 20 Jan 2022 03:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[이번 칼럼에선 두괄식으로 미리 핵심 결론을 이야기하겠다. 앞으로 한국의 드라마나 영화에서 흥신소를 통해 누군가의 신원이나 행적을 파악하는 장면은 나오지 않거나, 철저히 비판적인 거리를 두고 재현되거나, (가능한 것인지 모르겠지만) 충분히 합법적으로 처리되는 과정을 보여주어야 한다고 생각한다.적어도 현실 세계에서 한 스토킹 범죄자가 신변보호 중이던 여성의 거주지를 흥신소를 통해 알아내 그의 모친을 살해하고, 흥신소에 그 정보를 2만원에 팔았던 구청 직원은...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/20/l_2022011901002321900200961.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["당신 죽으면 내 밥줄도 끊긴다" 상관 성폭력 신고한 여군에게 돌아온 말 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201191452001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202201191452001</guid>
@@ -182,14 +190,6 @@
             <pubDate>Fri, 14 Jan 2022 02:04:35 GMT</pubDate>
             <content:encoded><![CDATA[법무부가 5일 ‘젠더폭력처벌법 개정 특별분과위원회’를 발족하고 ‘미성년 성폭력 피해자 진술 영상 증거능력 위헌 결정’에 대한 대책 마련에 나섰다. 이 위원회는 성폭력처벌법, 가정폭력처벌법, 스토킹처벌법 등 ‘젠더폭력’을 처벌하는 법률을 제·개정하기 위해 만들어졌다.법무부는 이날 위원들을 위촉한 뒤 1차 회의를 열어 성폭력처벌법 개정 방안에 대해 논의했다. 헌법재판소가 지난 달 19세 미만 성폭력 피해자가 법정에서 진술하지 않아도 진술 영상에 증거능력을 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/14/l_2022011301001581400134371.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['합성 사진' '트렌스젠더설'… 여성 정치인 공격하는 성차별적 가짜뉴스 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202201131444001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202201131444001</guid>
-            <pubDate>Thu, 13 Jan 2022 06:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[브리지트 마크롱, 미셸 오바마, 카멀라 해리스. 세계에서 가장 힘 있는 여성들로 손꼽히는 이들도 대선 길목에 들어서면 괴상한 음모론의 희생자로 전락하고 만다. 최근 몇 년간 여성 정치인을 겨냥한 악의적인 가짜뉴스가 기승을 부리면서다.에마뉘엘 마크롱 프랑스 대통령의 부인인 브리지트 마크롱은 프랑스 대선을 약 100일 앞두고 최근 트위터를 중심으로 본인이 트랜스젠더라는 거짓 소문이 퍼지자 강경 대응에 나섰다. 프랑스의 한 극우 월간지는 지난해 9월 브리지트가...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/13/l_2022010601000739600060751.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[군부대 위안은 여성의 몫이 아니다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
