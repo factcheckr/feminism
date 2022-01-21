@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 05:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 06:14:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["여성 비하 광고는 협력사 잘못" 쿠팡의 꼬리자르기]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202201211508001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202201211508001</guid>
+            <pubDate>Fri, 21 Jan 2022 06:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[어플리케이션(앱)에 성적 비하 표현이 등장해 논란을 빚은 쿠팡이츠가 “외부 협력사의 잘못”이라며 “법적 조치를 취할 예정”이라고 밝히자 ‘꼬리 자르기’ ‘유체이탈 화법’이라는 지적이 이어지고 있다.지난 19일 쿠팡이츠 앱의 테스트 페이지에 여성을 비하하고 성관계를 연상시키는 표현들이 올라온 이후 20일 사회관계망서비스(SNS)에서는 쿠팡이츠와 그 모회사인 쿠팡에 대한 ‘보이콧’ 운동이 벌어졌다. 트위터 등에는 “(쿠팡을) 어떻게 응징할 방법이 없네. 노동자를 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/21/l_2022012101002662000230931.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['K-임산부'로 돌아온 '며느라기2']]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202201211017001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 17 Jan 2022 16:19:55 GMT</pubDate>
             <content:encoded><![CDATA[“보다 조금 언니라는 이유로 여러분의 성장과정을 함께 할 수 있어서 영광이다.”지난 4일 방영된 엠넷의 댄스 서바이벌 프로그램 &lt;스트릿댄스 걸스 파이터&gt; 마지막 회에서 심사위원 리정이 ‘턴즈’의 무대를 보고 남긴 말이다. 그동안 가수 뒤에 가려졌던 여성 댄서들을 전면에 내세워 스트릿 댄스 열풍을 일으켰던 &lt;스트릿 우먼 파이터&gt;(스우파)에 이어 여자 고등학생 댄서들의 도전을 보여 준 &lt;스트릿댄스 걸스 파이터&gt;(스걸파)가 자체 최고시청률을 경...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/17/l_2022011401001767000150211.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흑인 여성 최초로 미국 25센트 동전에 얼굴 실리는 마야 앤젤루]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202201171024001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202201171024001</guid>
-            <pubDate>Mon, 17 Jan 2022 02:05:42 GMT</pubDate>
-            <content:encoded><![CDATA[미국의 시인이자 인권운동가인 마야 앤젤루(1928~2014)의 얼굴이 새겨진 쿼터 동전(25센트)이 10일(현지시간) 미국에서 정식으로 발행됐다. 흑인 여성의 얼굴이 미국 화폐에 실린 것은 앤젤루가 처음이다.미 조폐국은 이날 미국의 발전에 기여한 각계 여성들을 기리는 ‘미국의 여성 프로그램’의 일환으로 앤젤루의 얼굴이 새겨진 쿼터 동전을 발행했다고 발표했다. 재닛 옐런 재무장관도 이날 별도의 성명에서 “화폐를 새로 디자인하는 일은 미국이라는 나라와 우리가 중시하는 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
