@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 07:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 08:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/c4899ca6-19be-4c7f-89b7-6aeccb521590.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[평화시장엔 ‘시다 7번’이 아니라 투쟁하는 여성이 있었다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9254</link>
+            <guid>https://ildaro.com/9254</guid>
+            <pubDate>Sat, 22 Jan 2022 08:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[들판에서 여성들이 발견하는 건 세 대의 미싱기다. 이들은 함께 이야기를 나누고 웃으며 미싱기 앞에 앉는다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022012213117993.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[내가 할머니가 되면 ‘국민연금’ 받을 수 있을까? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9253</link>
             <guid>https://ildaro.com/9253</guid>
@@ -422,14 +430,6 @@
             <pubDate>Wed, 29 Dec 2021 11:03:00 GMT</pubDate>
             <content:encoded><![CDATA[(여성으로서) 이 운동에 진입 장벽이 있다고 느낀 이후로, 전 이 운동을 페미니즘 운동이라고 생각했어요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021122910246968.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[번호안내원들, 골병을 ‘직업병’으로 인정받기까지 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9234</link>
-            <guid>https://ildaro.com/9234</guid>
-            <pubDate>Tue, 28 Dec 2021 10:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[이재숙 씨기 체신부 번호안내원으로 취직한 것은 스물한 살 때였다. 앞서 일한 선배들은 전화번호 500개쯤은 능숙히 외워 책자도 보지 않고 말했다고 했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021122825201727.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
