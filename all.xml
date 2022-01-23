@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 11:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 12:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/c4899ca6-19be-4c7f-89b7-6aeccb521590.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[호랑이를 쫓아낸 건 곶감이 아니었다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9255</link>
+            <guid>https://ildaro.com/9255</guid>
+            <pubDate>Sun, 23 Jan 2022 12:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[여기까지는 아기 버전이며, 이야기의 프롤로그에 해당한다. 호랑이는 달아나지 않았고, 주인공은 아직 등장하지 않았다. 긴긴 겨울밤의 이야기는 울던 아기가 잠든 뒤...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022012318352926.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[평화시장엔 ‘시다 7번’이 아니라 투쟁하는 여성이 있었다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9254</link>
             <guid>https://ildaro.com/9254</guid>
@@ -422,14 +430,6 @@
             <pubDate>Mon, 10 Jan 2022 00:42:28 GMT</pubDate>
             <content:encoded><![CDATA[인도네시아의 한 마을에서 쓰레기 분류 노동을 하는 여자 아이들을 봤어요. 세계 곳곳에서 ‘수출한' 쓰레기를 떠안은 아이들이 ‘미래를 위한 금요일’ 시위를 벌이...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021123042572507.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[병역거부, 무기거래 감시…금기에 도전한 사람들! (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9235</link>
-            <guid>https://ildaro.com/9235</guid>
-            <pubDate>Wed, 29 Dec 2021 11:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[(여성으로서) 이 운동에 진입 장벽이 있다고 느낀 이후로, 전 이 운동을 페미니즘 운동이라고 생각했어요....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021122910246968.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
