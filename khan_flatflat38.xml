@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 05:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 06:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['젠더 갈등' 네 글자만 남은 대선, 언론이 사라졌다]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202201241436001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202201241436001</guid>
+            <pubDate>Mon, 24 Jan 2022 06:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[‘젠더 갈등’이라는 용어가 적절한지에 대한 논의가 우선되어야 하겠지만, 일단 이렇게 지칭되는 현상, 즉 성별 간의 성평등에 대한 인식 격차, 온라인 공간에서의 적대가 극화되는 데 책임을 져야 할 주체 중 하나로 언론이 꼽히곤 한다. 표현의 문제로 성차별 문제의 의미를 축소하고, 하위문화적인 온라인 공간에 떠도는 각종 표현을 공적으로 부각하여 이를 논란이라고 부르는 보도를 해왔기 때문이다.이러한 문제는 최근 대통령 선거 보도 국면에서도 마찬가지이다. 사...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/24/l_2022012001002495400216641.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[낙태한 여성은 불행하다는 주장은 '객관적으로' 틀렸다]]></title>
             <link>https://www.khan.co.kr/culture/book/article/202201241020001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 18 Jan 2022 05:13:49 GMT</pubDate>
             <content:encoded><![CDATA[1995년 3월27일, 구찌 회장 마우리치오 구찌가 자신의 사무실 계단에서 시신으로 발견됐다. 그를 죽인 장본인은 이혼한 아내 파트리치아 레지아니다. 헤어진 지 4년째 되던 해, 파트리치아는 청부살인업자를 고용해 마우리치오를 살해한다. 그는 징역 29년을 선고받고 18년의 형을 산다. 지난 12일 개봉한 영화 &lt;하우스 오브 구찌&gt;는 구찌 가문과 파트리치아의 실화를 다뤘다. 감독 리들리 스콧은 허영심과 의부증 때문에 재벌 남편을 살해해 ‘세기의 악녀’로 여겨졌던...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/18/l_2022011401001766500150121.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["사과하라. 당신들이 생각없이 내뱉은 말이 2차 가해의 씨앗이 됐다."]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202201181040001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202201181040001</guid>
-            <pubDate>Tue, 18 Jan 2022 05:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[안희정 전 충남지사에게 성폭력 피해를 입은 김지은씨가 윤석열 국민의힘 대선 후보의 배우자 김건희씨(코바나컨텐츠 대표)에게 사과를 요구했다.김지은씨는 17일 한국성폭력상담소를 통해 입장문을 내고 “법원 판결로 유죄가 확정된 사건에조차 음모론과 비아냥으로 대하는 김건희씨의 태도를 보았다. 피해자들의 울부짖음이 담긴 ‘미투’(Me too)를 그렇게 쉽게 폄훼하는 말들도 들었다”고 했다. 그러면서 “사과하시라. 당신들이 생각없이 내뱉은 말들이 결국 2차 가해의 씨앗이...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/18/l_2022011701002129600181192.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
