@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 10:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 11:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[느슨해도 좋으니까 ‘안전한 마을’을 만들어가자]]></title>
+            <link>https://ildaro.com/9256</link>
+            <guid>https://ildaro.com/9256</guid>
+            <pubDate>Mon, 24 Jan 2022 11:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[머시기마을이 진짜 마을이 된다면, 거점의 공간과 거점으로 삼을 수 있는 철학이 생긴다면, 어떤 일이 벌어질까?...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022012448455060.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[호랑이를 쫓아낸 건 곶감이 아니었다]]></title>
             <link>https://ildaro.com/9255</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 01 Jan 2022 11:42:00 GMT</pubDate>
             <content:encoded><![CDATA[나무꾼은 가난한 산골 총각이다. 노루를 숨겨주는 따뜻한 품성을 지녔지만 총을 든 가부장 사회의 일원이기도 하다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022010145409060.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기후위기 시대의 생존방식은 ‘탈성장’, ‘연결’되는 삶]]></title>
-            <link>https://ildaro.com/9236</link>
-            <guid>https://ildaro.com/9236</guid>
-            <pubDate>Mon, 10 Jan 2022 00:42:28 GMT</pubDate>
-            <content:encoded><![CDATA[인도네시아의 한 마을에서 쓰레기 분류 노동을 하는 여자 아이들을 봤어요. 세계 곳곳에서 ‘수출한' 쓰레기를 떠안은 아이들이 ‘미래를 위한 금요일’ 시위를 벌이...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202112/2021123042572507.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
