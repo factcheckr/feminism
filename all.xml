@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 05:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 06:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1954년 32만명의 딸들이 태어났다 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202201261427001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202201261427001</guid>
+            <pubDate>Wed, 26 Jan 2022 06:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[1954년. 전국에서 32만여명의 딸들이 태어났다. 정확히는 그보다 더 많은 아이가 출생했겠지만 통계는 없다. 1955년 실시된 인구주택총조사의 1세 여야(32만4018명)로 추정할 뿐이다. 1953년 정전협정 직후, 출생신고가 온전히 자리 잡지 못한 때였다.또 다른 ‘정애씨’들의 삶그들은 ‘1950년에 태어난 1954년생’ 손정애씨와 비슷한 모습으로 태어나고 자랐고 나이 들었다. 전쟁 직후 혼란과 엉성한 행정 속에서 자란 것, 서울 아닌 경상도에서 태어나 경상도 아닌 서울에서 ...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/26/l_20220126010032735002864710.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“나쁜 일이 파도처럼 밀려왔지만 도망가지 않았다” (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202201261424001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202201261424001</guid>
+            <pubDate>Wed, 26 Jan 2022 06:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[손정애씨(72)의 가게는 서울 남대문시장 칼국수 골목에 있다. 의자는 일렬로 네 개. 네 명이 동시에 앉으려면 어깨와 팔꿈치가 스칠 각오를 해야 할 만큼 아담한 규모다. 17개 국숫집이 모여 있는 이 골목에서 정애씨는 ‘훈이네’라는 간판 아래 20년째 밥을 짓고 국수를 만든다. 칼국수를 주문하면 비빔냉면을, 찰밥을 주문하면 수제비를 주는 이곳은 뭐든 ‘1+1’이다.정애씨는 인생의 많은 시간을 이곳에서 보냈지만, 국숫집만으로 그의 삶을 다 설명할 순 없다. 정애씨...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/26/l_20220126010032751002865311.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[708만 여성의 자부심, "우리가 명함이 없지 일을 안했냐" (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202201261423001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202201261423001</guid>
+            <pubDate>Wed, 26 Jan 2022 06:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[우리가 만난 여성들은 명함이 없다고 했다. 일을 쉰 적은 없다. 그들의 노동을 사회에서 ‘일’로 인정하지 않았을 뿐이다.전쟁부터 산업화, 외환·금융위기, 코로나19까지, 대한민국 노인세대의 삶은 급속한 변화를 겪었다. 이 굴곡진 현대사의 바탕엔 평생 일한 여성들이 있다. 이들은 학교에 들어가기 전부터 동생들을 돌보고, 집안일을 했다. 딸이라는 이유로 배움의 기회는 차단당했고, 살림 밑천이라 불리며 일찍 생계활동에 뛰어들었다. 운 좋게 고등교육을 받고 원하던 ...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/26/l_2022012601003276200286671.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[운동 가르치는 '위밋업' 언니들이 수어를 배우게 된 이유 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201251355001</link>
@@ -64,30 +88,6 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/20/l_2022011901002322500201021.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[흥신소 뒷조사, 클리셰로 남기엔 현실이 너무 무겁다 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202201201003001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202201201003001</guid>
-            <pubDate>Thu, 20 Jan 2022 03:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[이번 칼럼에선 두괄식으로 미리 핵심 결론을 이야기하겠다. 앞으로 한국의 드라마나 영화에서 흥신소를 통해 누군가의 신원이나 행적을 파악하는 장면은 나오지 않거나, 철저히 비판적인 거리를 두고 재현되거나, (가능한 것인지 모르겠지만) 충분히 합법적으로 처리되는 과정을 보여주어야 한다고 생각한다.적어도 현실 세계에서 한 스토킹 범죄자가 신변보호 중이던 여성의 거주지를 흥신소를 통해 알아내 그의 모친을 살해하고, 흥신소에 그 정보를 2만원에 팔았던 구청 직원은...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/20/l_2022011901002321900200961.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["당신 죽으면 내 밥줄도 끊긴다" 상관 성폭력 신고한 여군에게 돌아온 말 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202201191452001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202201191452001</guid>
-            <pubDate>Wed, 19 Jan 2022 06:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 6월 국방부 성폭력 특별신고기간 중 성폭행·성추행을 당한 여군들이 군 성고충상담관으로부터 ‘2차 가해’를 당했다는 주장이 나왔다. 피해자들은 사건 신고 직후 해당 상담관과의 근무지 분리를 요구했지만 군은 “상담관은 민간인이라 처분 권한이 없다”며 이를 받아들이지 않았다.12일 경향신문 취재 결과 육군 모 보병사단 소속 강모 소령으로부터 성범죄 피해를 입은 여군 A씨와 B씨는 신고 다음날인 지난해 6월28일 군 성고충상담관 C씨를 만났다. B씨가 육군...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/19/l_2022011401001766100150052.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['피고인 방어권'과 '2차 피해'의 충돌… 해외는 어떻게 해결했나 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/court-law/article/202201191018001</link>
-            <guid>https://www.khan.co.kr/national/court-law/article/202201191018001</guid>
-            <pubDate>Wed, 19 Jan 2022 01:53:41 GMT</pubDate>
-            <content:encoded><![CDATA[미성년 성범죄 피해자의 진술 영상을 증거로 쓸 수 있도록 한 성폭력처벌법 조항에 위헌 결정을 내린 헌법재판소는 이 결정으로 사회 각계로부터 집중포화를 받고 있다. 아동·청소년 피해자를 2차 피해에 무방비 노출시켰다는 것이 주된 비판이지만, 헌재도 이 같은 사정을 고려하지 않은 것은 아니다. 헌재는 지난달 위헌 결정 당시 피고인의 방어권 보장과 함께 피해자 보호가 함께 이뤄져야 한다는 점을 강조하면서, 2차 가해를 막기 위한 “조화로운 대안”을 찾아야 ...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/19/l_2022011401001765900150021.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
@@ -110,6 +110,30 @@
             <pubDate>Mon, 17 Jan 2022 10:24:00 GMT</pubDate>
             <content:encoded><![CDATA[2022. 01. 17]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1954년 32만명의 딸들이 태어났다 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202201261427001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202201261427001</guid>
+            <pubDate>Wed, 26 Jan 2022 06:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[1954년. 전국에서 32만여명의 딸들이 태어났다. 정확히는 그보다 더 많은 아이가 출생했겠지만 통계는 없다. 1955년 실시된 인구주택총조사의 1세 여야(32만4018명)로 추정할 뿐이다. 1953년 정전협정 직후, 출생신고가 온전히 자리 잡지 못한 때였다.또 다른 ‘정애씨’들의 삶그들은 ‘1950년에 태어난 1954년생’ 손정애씨와 비슷한 모습으로 태어나고 자랐고 나이 들었다. 전쟁 직후 혼란과 엉성한 행정 속에서 자란 것, 서울 아닌 경상도에서 태어나 경상도 아닌 서울에서 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/26/l_20220126010032735002864710.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“나쁜 일이 파도처럼 밀려왔지만 도망가지 않았다” (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202201261424001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202201261424001</guid>
+            <pubDate>Wed, 26 Jan 2022 06:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[손정애씨(72)의 가게는 서울 남대문시장 칼국수 골목에 있다. 의자는 일렬로 네 개. 네 명이 동시에 앉으려면 어깨와 팔꿈치가 스칠 각오를 해야 할 만큼 아담한 규모다. 17개 국숫집이 모여 있는 이 골목에서 정애씨는 ‘훈이네’라는 간판 아래 20년째 밥을 짓고 국수를 만든다. 칼국수를 주문하면 비빔냉면을, 찰밥을 주문하면 수제비를 주는 이곳은 뭐든 ‘1+1’이다.정애씨는 인생의 많은 시간을 이곳에서 보냈지만, 국숫집만으로 그의 삶을 다 설명할 순 없다. 정애씨...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/26/l_20220126010032751002865311.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[708만 여성의 자부심, "우리가 명함이 없지 일을 안했냐" (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202201261423001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202201261423001</guid>
+            <pubDate>Wed, 26 Jan 2022 06:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[우리가 만난 여성들은 명함이 없다고 했다. 일을 쉰 적은 없다. 그들의 노동을 사회에서 ‘일’로 인정하지 않았을 뿐이다.전쟁부터 산업화, 외환·금융위기, 코로나19까지, 대한민국 노인세대의 삶은 급속한 변화를 겪었다. 이 굴곡진 현대사의 바탕엔 평생 일한 여성들이 있다. 이들은 학교에 들어가기 전부터 동생들을 돌보고, 집안일을 했다. 딸이라는 이유로 배움의 기회는 차단당했고, 살림 밑천이라 불리며 일찍 생계활동에 뛰어들었다. 운 좋게 고등교육을 받고 원하던 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/26/l_2022012601003276200286671.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[운동 가르치는 '위밋업' 언니들이 수어를 배우게 된 이유 (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -166,30 +190,6 @@
             <pubDate>Thu, 20 Jan 2022 07:11:23 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 국민의힘 후보가 페이스북에 쓴 ‘여성가족부 폐지’ 때문에 주변이 시끄럽다. 정부 기구란 없앨 수도 있고 확대할 수도 있는 터라 그 정책 자체가 문제는 아닌 듯하다. 소란의 까닭은 말의 정치적 맥락 때문이다. 윤 후보는 이 말로 갈라치기를 하고 있다. 페미니즘에 대한 거부감을 조장하여 특정 집단의 지지를 얻으려는 정치기획이다. “페미니즘이 그렇게 혐오, 배제해야 할 대상인가? 성별 대결을 부추기는 것이 대통령이 되려는 사람의 도리인가?” 며칠째 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/20/l_2022011901002322500201021.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흥신소 뒷조사, 클리셰로 남기엔 현실이 너무 무겁다 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202201201003001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202201201003001</guid>
-            <pubDate>Thu, 20 Jan 2022 03:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[이번 칼럼에선 두괄식으로 미리 핵심 결론을 이야기하겠다. 앞으로 한국의 드라마나 영화에서 흥신소를 통해 누군가의 신원이나 행적을 파악하는 장면은 나오지 않거나, 철저히 비판적인 거리를 두고 재현되거나, (가능한 것인지 모르겠지만) 충분히 합법적으로 처리되는 과정을 보여주어야 한다고 생각한다.적어도 현실 세계에서 한 스토킹 범죄자가 신변보호 중이던 여성의 거주지를 흥신소를 통해 알아내 그의 모친을 살해하고, 흥신소에 그 정보를 2만원에 팔았던 구청 직원은...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/20/l_2022011901002321900200961.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["당신 죽으면 내 밥줄도 끊긴다" 상관 성폭력 신고한 여군에게 돌아온 말 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202201191452001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202201191452001</guid>
-            <pubDate>Wed, 19 Jan 2022 06:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 6월 국방부 성폭력 특별신고기간 중 성폭행·성추행을 당한 여군들이 군 성고충상담관으로부터 ‘2차 가해’를 당했다는 주장이 나왔다. 피해자들은 사건 신고 직후 해당 상담관과의 근무지 분리를 요구했지만 군은 “상담관은 민간인이라 처분 권한이 없다”며 이를 받아들이지 않았다.12일 경향신문 취재 결과 육군 모 보병사단 소속 강모 소령으로부터 성범죄 피해를 입은 여군 A씨와 B씨는 신고 다음날인 지난해 6월28일 군 성고충상담관 C씨를 만났다. B씨가 육군...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/19/l_2022011401001766100150052.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['피고인 방어권'과 '2차 피해'의 충돌… 해외는 어떻게 해결했나 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/court-law/article/202201191018001</link>
-            <guid>https://www.khan.co.kr/national/court-law/article/202201191018001</guid>
-            <pubDate>Wed, 19 Jan 2022 01:53:41 GMT</pubDate>
-            <content:encoded><![CDATA[미성년 성범죄 피해자의 진술 영상을 증거로 쓸 수 있도록 한 성폭력처벌법 조항에 위헌 결정을 내린 헌법재판소는 이 결정으로 사회 각계로부터 집중포화를 받고 있다. 아동·청소년 피해자를 2차 피해에 무방비 노출시켰다는 것이 주된 비판이지만, 헌재도 이 같은 사정을 고려하지 않은 것은 아니다. 헌재는 지난달 위헌 결정 당시 피고인의 방어권 보장과 함께 피해자 보호가 함께 이뤄져야 한다는 점을 강조하면서, 2차 가해를 막기 위한 “조화로운 대안”을 찾아야 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/19/l_2022011401001765900150021.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[군부대 위안은 여성의 몫이 아니다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
