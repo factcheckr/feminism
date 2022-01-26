@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 22:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 23:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 평등한 명절은 가능하다]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/660</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/660</guid>
+            <pubDate>Wed, 26 Jan 2022 23:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주말부터 설 연휴입니다. 언제부터일까요. 어린 시절에는 마냥 기다려지기만 했던 명절이, 어느 순간부터 부담스럽거나 피하고 싶은 순간이 되어버린 것 말이죠. 어쩌면 가족이라는 든든한 울타리 안에서 얻는 격려의 기쁨보다, 며느리 혹은 K-장녀 같은 역할이 주는 무게가 무거워지는 때부터 명절이 싫어지는 건 아닐지 생각해 봅니다. 오늘 허스토리는 한국일보의 과거 명절 기사로 들여다본 '성평등 명절 변천사'를 다뤄볼게요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/c19f2cf4-fc33-4174-80b7-e1d718943935.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[군부대 위안은 여성의 몫이 아니다]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/648</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 07 Jan 2022 19:18:39 GMT</pubDate>
             <content:encoded><![CDATA[지난달 21일부터 스토킹처벌법이 시행되고 있습니다. 하지만 지난 한 주간 우리는 스토킹과 데이트 폭력에 시달리다 사망한 여성들의 부고를 또 들어야 했습니다. 스토킹 피해 신고 후 신변보호를 받던 피해자는 긴급신고 버튼을 눌렀지만 생사의 갈림길에서 도움을 받지 못했습니다. 같은 사건이 되풀이되지 않도록 머리를 맞대도 모자라지만, 정치권에서는 '단순 살해 사건을 젠더와 엮지 말라'는 발언이 나옵니다. 우리가 제대로 목소리를 내야 하는 지점은 어디인지, 허스토리가 짚어봤습니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/86fed397-3309-42ca-bf55-994ce295228d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["악플을 모아 전시회를 열어볼까요?"]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/541</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/541</guid>
-            <pubDate>Fri, 07 Jan 2022 19:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 드디어 '여자를 돕는 여자들(여.돕.여)' 크라우드 펀딩이 열렸습니다! 18일 오전 9시부터 시작되는 크라우드 펀딩은 12월 23일까지 35일간 진행됩니다. 지금을 살아가는 여러분들께 어떤 여성의 이야기가 필요할까 고민하면서, 매 회마다 진심을 꾹꾹 눌러 담았어요. 그리고 이 문장이 우리를 단단하게 엮는 하나의 열쇳말이 되기를 바라요. "당신을 도운 여성은 누구인가요?"]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/c4899ca6-19be-4c7f-89b7-6aeccb521590.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
