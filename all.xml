@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 23:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 00:46:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/c4899ca6-19be-4c7f-89b7-6aeccb521590.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[법이 모른 척해도, 나는 노동자입니다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9257</link>
+            <guid>https://ildaro.com/9257</guid>
+            <pubDate>Wed, 26 Jan 2022 09:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[용역제공계약서를 쓴 적이 있는데, ‘다른 업무를 수행할 수 없다’는 조항이 있었어요. ‘우리는 프리랜서가 아니구나’. 오라면 오고 가라면 가는데 프리할 수 있나...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022012642426432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[느슨해도 좋으니까 ‘안전한 마을’을 만들어가자 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9256</link>
             <guid>https://ildaro.com/9256</guid>
@@ -422,14 +430,6 @@
             <pubDate>Sun, 02 Jan 2022 00:47:00 GMT</pubDate>
             <content:encoded><![CDATA[새해 첫 보름달이 뜨는 날이면 남도 끄트머리에 있는 바닷가 마을에 찾아가곤 한다. 헌식굿을 구경하러 농악단 친구들과 함께 간다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022010252455856.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수탉이 울어도 선녀는 닭장으로 돌아가지 않는다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9237</link>
-            <guid>https://ildaro.com/9237</guid>
-            <pubDate>Sat, 01 Jan 2022 11:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[나무꾼은 가난한 산골 총각이다. 노루를 숨겨주는 따뜻한 품성을 지녔지만 총을 든 가부장 사회의 일원이기도 하다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022010145409060.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
