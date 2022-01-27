@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 08:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 09:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/86fed397-3309-42ca-bf55-994ce295228d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[펜데믹 시대, 가난한 나라의 여성과 아이들이 처한 위기 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9258</link>
+            <guid>https://ildaro.com/9258</guid>
+            <pubDate>Thu, 27 Jan 2022 09:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[1년 전에 비해 카트만두 외곽 땅값은 거의 6배 이상 올랐다고 한다. 가난한 사람들에게 집값 상승은 임대료 상승을 의미한다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022012735413001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[법이 모른 척해도, 나는 노동자입니다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9257</link>
             <guid>https://ildaro.com/9257</guid>
@@ -422,14 +430,6 @@
             <pubDate>Mon, 10 Jan 2022 00:42:28 GMT</pubDate>
             <content:encoded><![CDATA[지금 우리는 대선 후보에게 물어야 한다. 당신이 생각하는 집다운 집은 무엇이냐고....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022010307188104.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낯선 이를 환대하는 마음은 바람을 따라 흐른다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9238</link>
-            <guid>https://ildaro.com/9238</guid>
-            <pubDate>Sun, 02 Jan 2022 00:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[새해 첫 보름달이 뜨는 날이면 남도 끄트머리에 있는 바닷가 마을에 찾아가곤 한다. 헌식굿을 구경하러 농악단 친구들과 함께 간다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022010252455856.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
