@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 06:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 07:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콜센터 상담사에게서 구로공단 여공들이 보였다 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202201271531001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202201271531001</guid>
+            <pubDate>Thu, 27 Jan 2022 07:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 유행 초기, 콜센터에는 그 어느 때보다 뜨거운 이목이 집중됐다. ‘밀접·밀집·밀폐’ 이른바 3밀 노동현장으로 인해 유행 초기부터 콜센터에서 집단감염이 잇따라 터져나왔다. 2020년 3월 서울 구로구 코리아 빌딩의 콜센터에서는 수도권 첫 번째 집단감염이 발생했다. 직원 97명과 이들로 인한 2차 전파 등 총 158명의 감염자가 나왔고, 2차 전파로 인해 콜센터 직원의 배우자가 사망하기까지 했다. 콜센터 집단감염은 지난해 말 인천의 120미추홀콜센터 집단감염까...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/27/l_2022012701003402300297441.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청계천의 여공들이 말한다, 우리의 투쟁은 실패가 아니었다고 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202201270954001</link>
@@ -80,14 +88,6 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/21/l_2022012101002662000230931.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['K-임산부'로 돌아온 '며느라기2' (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202201211017001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202201211017001</guid>
-            <pubDate>Fri, 21 Jan 2022 01:55:02 GMT</pubDate>
-            <content:encoded><![CDATA[인기 웹툰을 원작으로 한 카카오TV 오리지널 웹드라마 &lt;며느라기&gt;가 시즌 2로 돌아왔다. 시즌 1이 결혼과 함께 며느리가 된 여성의 이야기를 담았다면, 이번엔 ‘K-임산부의 성장일기’를 담을 예정이라고 한다. 매주 토요일 오전 10시에 한 회씩, 현재 2회까지 업로드됐다. 보통 주말 사이 편당 100만뷰를 넘는다. 댓글엔 ‘드라마보다 현실이 더 하다’ 혹은 ‘과장됐다’라는 글들이 오간다. 시집살이에 대한 아침드라마식 과장된 고발이 아니라, 이 시대 여성이 느...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/21/l_2022012001002493500216401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
@@ -110,6 +110,14 @@
             <pubDate>Mon, 17 Jan 2022 10:24:00 GMT</pubDate>
             <content:encoded><![CDATA[2022. 01. 17]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[콜센터 상담사에게서 구로공단 여공들이 보였다 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202201271531001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202201271531001</guid>
+            <pubDate>Thu, 27 Jan 2022 07:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 유행 초기, 콜센터에는 그 어느 때보다 뜨거운 이목이 집중됐다. ‘밀접·밀집·밀폐’ 이른바 3밀 노동현장으로 인해 유행 초기부터 콜센터에서 집단감염이 잇따라 터져나왔다. 2020년 3월 서울 구로구 코리아 빌딩의 콜센터에서는 수도권 첫 번째 집단감염이 발생했다. 직원 97명과 이들로 인한 2차 전파 등 총 158명의 감염자가 나왔고, 2차 전파로 인해 콜센터 직원의 배우자가 사망하기까지 했다. 콜센터 집단감염은 지난해 말 인천의 120미추홀콜센터 집단감염까...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/27/l_2022012701003402300297441.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[청계천의 여공들이 말한다, 우리의 투쟁은 실패가 아니었다고 (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -182,14 +190,6 @@
             <pubDate>Fri, 21 Jan 2022 06:13:46 GMT</pubDate>
             <content:encoded><![CDATA[어플리케이션(앱)에 성적 비하 표현이 등장해 논란을 빚은 쿠팡이츠가 “외부 협력사의 잘못”이라며 “법적 조치를 취할 예정”이라고 밝히자 ‘꼬리 자르기’ ‘유체이탈 화법’이라는 지적이 이어지고 있다.지난 19일 쿠팡이츠 앱의 테스트 페이지에 여성을 비하하고 성관계를 연상시키는 표현들이 올라온 이후 20일 사회관계망서비스(SNS)에서는 쿠팡이츠와 그 모회사인 쿠팡에 대한 ‘보이콧’ 운동이 벌어졌다. 트위터 등에는 “(쿠팡을) 어떻게 응징할 방법이 없네. 노동자를 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/21/l_2022012101002662000230931.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['K-임산부'로 돌아온 '며느라기2' (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202201211017001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202201211017001</guid>
-            <pubDate>Fri, 21 Jan 2022 01:55:02 GMT</pubDate>
-            <content:encoded><![CDATA[인기 웹툰을 원작으로 한 카카오TV 오리지널 웹드라마 &lt;며느라기&gt;가 시즌 2로 돌아왔다. 시즌 1이 결혼과 함께 며느리가 된 여성의 이야기를 담았다면, 이번엔 ‘K-임산부의 성장일기’를 담을 예정이라고 한다. 매주 토요일 오전 10시에 한 회씩, 현재 2회까지 업로드됐다. 보통 주말 사이 편당 100만뷰를 넘는다. 댓글엔 ‘드라마보다 현실이 더 하다’ 혹은 ‘과장됐다’라는 글들이 오간다. 시집살이에 대한 아침드라마식 과장된 고발이 아니라, 이 시대 여성이 느...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/21/l_2022012001002493500216401.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 평등한 명절은 가능하다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
