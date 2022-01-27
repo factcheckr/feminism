@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 00:41:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 01:56:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청계천의 여공들이 말한다, 우리의 투쟁은 실패가 아니었다고 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202201270954001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202201270954001</guid>
+            <pubDate>Thu, 27 Jan 2022 01:54:47 GMT</pubDate>
+            <content:encoded><![CDATA[전태일 이후에도 여공들이 있었다. ‘골방서 하루 16시간 노동’을 하던 청계피복노동조합 여공들은 퇴근 후 공부하던 노동교실을 지키기 위해 싸우고, 노동시간 단축과 임금 인상을 요구했다. 그러나 1977년 9월9일 노동교실 점거 결사투쟁 사건(9·9 사건)을 비롯한 이들의 투쟁은 노동사에 실패나 공백으로 기록됐다. 주도자들은 구속됐고, 노조원들은 흩어졌다. 정부는 사건 참여자들을 끈질기게 감시하고 괴롭혔다. 노조 경험은 당사자들에게도 잊고 싶은 기억으로 남았다.이들...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/27/l_2022012001002492800216341.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1954년 32만명의 딸들이 태어났다 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201261427001</link>
@@ -80,14 +88,6 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/21/l_2022012001002493500216401.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[갈라치고 비틀어도, 페미니즘은 모두를 위한 진보다 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202201201538001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202201201538001</guid>
-            <pubDate>Thu, 20 Jan 2022 07:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 국민의힘 후보가 페이스북에 쓴 ‘여성가족부 폐지’ 때문에 주변이 시끄럽다. 정부 기구란 없앨 수도 있고 확대할 수도 있는 터라 그 정책 자체가 문제는 아닌 듯하다. 소란의 까닭은 말의 정치적 맥락 때문이다. 윤 후보는 이 말로 갈라치기를 하고 있다. 페미니즘에 대한 거부감을 조장하여 특정 집단의 지지를 얻으려는 정치기획이다. “페미니즘이 그렇게 혐오, 배제해야 할 대상인가? 성별 대결을 부추기는 것이 대통령이 되려는 사람의 도리인가?” 며칠째 ...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/20/l_2022011901002322500201021.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
@@ -110,6 +110,14 @@
             <pubDate>Mon, 17 Jan 2022 10:24:00 GMT</pubDate>
             <content:encoded><![CDATA[2022. 01. 17]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청계천의 여공들이 말한다, 우리의 투쟁은 실패가 아니었다고 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202201270954001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202201270954001</guid>
+            <pubDate>Thu, 27 Jan 2022 01:55:34 GMT</pubDate>
+            <content:encoded><![CDATA[전태일 이후에도 여공들이 있었다. ‘골방서 하루 16시간 노동’을 하던 청계피복노동조합 여공들은 퇴근 후 공부하던 노동교실을 지키기 위해 싸우고, 노동시간 단축과 임금 인상을 요구했다. 그러나 1977년 9월9일 노동교실 점거 결사투쟁 사건(9·9 사건)을 비롯한 이들의 투쟁은 노동사에 실패나 공백으로 기록됐다. 주도자들은 구속됐고, 노조원들은 흩어졌다. 정부는 사건 참여자들을 끈질기게 감시하고 괴롭혔다. 노조 경험은 당사자들에게도 잊고 싶은 기억으로 남았다.이들...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/27/l_2022012001002492800216341.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1954년 32만명의 딸들이 태어났다 (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -182,14 +190,6 @@
             <pubDate>Fri, 21 Jan 2022 01:55:02 GMT</pubDate>
             <content:encoded><![CDATA[인기 웹툰을 원작으로 한 카카오TV 오리지널 웹드라마 &lt;며느라기&gt;가 시즌 2로 돌아왔다. 시즌 1이 결혼과 함께 며느리가 된 여성의 이야기를 담았다면, 이번엔 ‘K-임산부의 성장일기’를 담을 예정이라고 한다. 매주 토요일 오전 10시에 한 회씩, 현재 2회까지 업로드됐다. 보통 주말 사이 편당 100만뷰를 넘는다. 댓글엔 ‘드라마보다 현실이 더 하다’ 혹은 ‘과장됐다’라는 글들이 오간다. 시집살이에 대한 아침드라마식 과장된 고발이 아니라, 이 시대 여성이 느...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/21/l_2022012001002493500216401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갈라치고 비틀어도, 페미니즘은 모두를 위한 진보다 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202201201538001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202201201538001</guid>
-            <pubDate>Thu, 20 Jan 2022 07:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 국민의힘 후보가 페이스북에 쓴 ‘여성가족부 폐지’ 때문에 주변이 시끄럽다. 정부 기구란 없앨 수도 있고 확대할 수도 있는 터라 그 정책 자체가 문제는 아닌 듯하다. 소란의 까닭은 말의 정치적 맥락 때문이다. 윤 후보는 이 말로 갈라치기를 하고 있다. 페미니즘에 대한 거부감을 조장하여 특정 집단의 지지를 얻으려는 정치기획이다. “페미니즘이 그렇게 혐오, 배제해야 할 대상인가? 성별 대결을 부추기는 것이 대통령이 되려는 사람의 도리인가?” 며칠째 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/20/l_2022011901002322500201021.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 평등한 명절은 가능하다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
