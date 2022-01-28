@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 11:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 12:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/86fed397-3309-42ca-bf55-994ce295228d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Greetings from the Childhood Sexual Violence Survivor: “I Report That I Am Alive” (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9259</link>
+            <guid>https://ildaro.com/9259</guid>
+            <pubDate>Fri, 28 Jan 2022 12:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[It was a process to find an answer to the question, ‘How does a raped woman live in a society that makes it taboo to speak about sexual violence?’...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022012855191973.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[펜데믹 시대, 가난한 나라의 여성과 아이들이 처한 위기 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9258</link>
             <guid>https://ildaro.com/9258</guid>
@@ -422,14 +430,6 @@
             <pubDate>Mon, 10 Jan 2022 00:42:28 GMT</pubDate>
             <content:encoded><![CDATA[“여자들에게 제일 무서운 게, 직장 먼 데 보내버리겠다는 거잖아요. 그렇게 달달 볶으면 사람이 나가는 거예요.”(송윤숙 씨, 당시 한국통신 노조 복지부장)...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022010401115991.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불량식품은 안되는데 불량주거는 왜? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9239</link>
-            <guid>https://ildaro.com/9239</guid>
-            <pubDate>Mon, 10 Jan 2022 00:42:28 GMT</pubDate>
-            <content:encoded><![CDATA[지금 우리는 대선 후보에게 물어야 한다. 당신이 생각하는 집다운 집은 무엇이냐고....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022010307188104.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
