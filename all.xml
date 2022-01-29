@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 01:50:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 02:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/86fed397-3309-42ca-bf55-994ce295228d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[공공기관이 여성을 눈요깃감으로 만들고 있지 않습니까? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9260</link>
+            <guid>https://ildaro.com/9260</guid>
+            <pubDate>Sat, 29 Jan 2022 10:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[“이번 사건과 관련이 없는 여성의원에게까지 비난의 목소리가 쏟아지고 있어, 여성들의 발언과 활동이 위축될까봐 가장 걱정이다”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022012956181930.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Greetings from the Childhood Sexual Violence Survivor: “I Report That I Am Alive” (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9259</link>
             <guid>https://ildaro.com/9259</guid>
@@ -422,14 +430,6 @@
             <pubDate>Mon, 10 Jan 2022 00:42:28 GMT</pubDate>
             <content:encoded><![CDATA[가끔 누군가가 이렇게 말한다. “한쪽 눈이 아프다”고. 땅이는 지금 아프지 않다. 전에 아팠을 뿐이다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022010621571377.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“점심시간 1시간을 우리가 30년만에 찾은 거예요” (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9240</link>
-            <guid>https://ildaro.com/9240</guid>
-            <pubDate>Mon, 10 Jan 2022 00:42:28 GMT</pubDate>
-            <content:encoded><![CDATA[“여자들에게 제일 무서운 게, 직장 먼 데 보내버리겠다는 거잖아요. 그렇게 달달 볶으면 사람이 나가는 거예요.”(송윤숙 씨, 당시 한국통신 노조 복지부장)...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022010401115991.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
