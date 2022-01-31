@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 01:53:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 02:24:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/86fed397-3309-42ca-bf55-994ce295228d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[예술을 통해, 퀴어로서 스스로를 직접 정의하는 사람 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9261</link>
+            <guid>https://ildaro.com/9261</guid>
+            <pubDate>Mon, 31 Jan 2022 10:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[나는 대담한 사람이라고 할 수 있다. 확실히 적극적인 사람이다. 나는 자기 주장을 하지 않는 유색인종 여성이 성공하거나 생존하는 걸 본 적이 없다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022013106092269.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[공공기관이 여성을 눈요깃감으로 만들고 있지 않습니까? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9260</link>
             <guid>https://ildaro.com/9260</guid>
@@ -422,14 +430,6 @@
             <pubDate>Mon, 10 Jan 2022 00:42:28 GMT</pubDate>
             <content:encoded><![CDATA[“침대에서도 베이스기타를 칠 때의 얼굴을 하고 있냐”고 질문을 받았던 에스티의 실화를 바탕으로 곡을 만들었다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022010734139494.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어떤 삶은 존재 자체로 투쟁이다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9241</link>
-            <guid>https://ildaro.com/9241</guid>
-            <pubDate>Mon, 10 Jan 2022 00:42:28 GMT</pubDate>
-            <content:encoded><![CDATA[가끔 누군가가 이렇게 말한다. “한쪽 눈이 아프다”고. 땅이는 지금 아프지 않다. 전에 아팠을 뿐이다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022010621571377.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
