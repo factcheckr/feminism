@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 06:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 07:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/86fed397-3309-42ca-bf55-994ce295228d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘MZ 세대’를 넘어 ‘지구 세대’로 살아가는 청년들 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9262</link>
+            <guid>https://ildaro.com/9262</guid>
+            <pubDate>Tue, 01 Feb 2022 07:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[‘부자들은 자기가 먹는 토마토 하나 기를 줄 모르는데 그 사람들이 살아남을 수 있겠어?’ 하는 생각을 해요. 서로를 돌볼 줄 아는 사람들이 결국엔 살아있을 거예요...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022020156495732.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[예술을 통해, 퀴어로서 스스로를 직접 정의하는 사람 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9261</link>
             <guid>https://ildaro.com/9261</guid>
@@ -422,14 +430,6 @@
             <pubDate>Sun, 09 Jan 2022 00:42:00 GMT</pubDate>
             <content:encoded><![CDATA[2010년 전후부터 섬유유연제 등의 향료가 원인이 되는 ‘화학물질 과민증’(Chemical Sensitivity) 진단을 받는 사람이 늘어나고 있다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022010947168465.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우린 밴드지, 걸(girl) 밴드가 아니야 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9242</link>
-            <guid>https://ildaro.com/9242</guid>
-            <pubDate>Mon, 10 Jan 2022 00:42:28 GMT</pubDate>
-            <content:encoded><![CDATA[“침대에서도 베이스기타를 칠 때의 얼굴을 하고 있냐”고 질문을 받았던 에스티의 실화를 바탕으로 곡을 만들었다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022010734139494.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
