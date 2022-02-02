@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 08:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 09:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/86fed397-3309-42ca-bf55-994ce295228d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[팔려 가고 학대받는 소녀들…아이들만 남은 집 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9263</link>
+            <guid>https://ildaro.com/9263</guid>
+            <pubDate>Wed, 02 Feb 2022 09:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[입주 가사노동을 하며 학교에 다니다가 계부의 손에 끌려간 소녀의 이야기는 가난한 네팔 사람들의 현재를 보여주는 것 같아 가슴이 아팠다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022020234305675.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘MZ 세대’를 넘어 ‘지구 세대’로 살아가는 청년들 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9262</link>
             <guid>https://ildaro.com/9262</guid>
@@ -422,14 +430,6 @@
             <pubDate>Tue, 11 Jan 2022 10:15:00 GMT</pubDate>
             <content:encoded><![CDATA[위기 상황에 사회는 거리를 두라고 했지만 마냥 상황이 나아지길 기다릴 수는 없었다. 이런 상황이 계속되다 보면 우린 어떻게 만날 수 있을까?...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022011126344141.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘향기 공해’를 호소하는 사람들이 많아지고 있다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9243</link>
-            <guid>https://ildaro.com/9243</guid>
-            <pubDate>Sun, 09 Jan 2022 00:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[2010년 전후부터 섬유유연제 등의 향료가 원인이 되는 ‘화학물질 과민증’(Chemical Sensitivity) 진단을 받는 사람이 늘어나고 있다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022010947168465.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
