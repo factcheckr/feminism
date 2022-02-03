@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 00:40:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 01:52:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요조 “다방면의 능력자 돼야 한다는 강박에 저항하고 싶다”]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202202031017011</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202202031017011</guid>
+            <pubDate>Thu, 03 Feb 2022 01:52:19 GMT</pubDate>
+            <content:encoded><![CDATA[차가운 도시에 어둠이 내리기 시작할 무렵, 서울 홍대 앞 길모퉁이의 오두막 같은 그곳에선 따스한 기운의 노란 불빛이 은은하게 내비치고 있었다. 모퉁이를 돌아 민트색 격자무늬 유리문을 열고 마주한 7~8평 정도의 아담한 공간은 서점이라기보다 예쁜 편집숍처럼 보였다. 음반과 LP가 진열된 벽면 아래 턴테이블에선 독일 밴드 콰드로 누에보의 보사노바 재즈곡 ‘MARE(바다)’가 흘러나왔다. 크고 작은 탁상시계들과 구형 TV 등 엔틱한 소품들도 아날로그 감성을 자극했...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/03/l_2022012701003499300304881.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그 시절, 우리가 사랑했던 친구들과 함께 '리턴 투 호그와트']]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202201281447001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 25 Jan 2022 03:13:46 GMT</pubDate>
             <content:encoded><![CDATA[온라인에 의존하는 소년과 그렇지 않은 소년의 차이는 어디에서 올까. ‘젠더 전쟁’이라고 부를 만큼 성평등을 둘러싼 젊은 세대의 성별 인식 격차가 커지는 현실에서 소년들은 어디쯤 서 있을까. 이들을 지배하는 ‘게임 문화’는 무엇을 제공할까. 2000년대 초부터 성평등 강의, 마을 교육을 해온 지현은 ‘공존’을 위해, 평화로운 공동체로 나아갈 힌트를 찾기 위해 ‘소년’에 주목했다. 소년들이 사는 세상을 들여다본 &lt;소년문화탐방기&gt;는 소년들을 더 안전한 감...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/25/l_2022012001002483900215411.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['젠더 갈등' 네 글자만 남은 대선, 언론이 사라졌다]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202201241436001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202201241436001</guid>
-            <pubDate>Mon, 24 Jan 2022 06:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[‘젠더 갈등’이라는 용어가 적절한지에 대한 논의가 우선되어야 하겠지만, 일단 이렇게 지칭되는 현상, 즉 성별 간의 성평등에 대한 인식 격차, 온라인 공간에서의 적대가 극화되는 데 책임을 져야 할 주체 중 하나로 언론이 꼽히곤 한다. 표현의 문제로 성차별 문제의 의미를 축소하고, 하위문화적인 온라인 공간에 떠도는 각종 표현을 공적으로 부각하여 이를 논란이라고 부르는 보도를 해왔기 때문이다.이러한 문제는 최근 대통령 선거 보도 국면에서도 마찬가지이다. 사...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/24/l_2022012001002495400216641.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
