@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 07:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 08:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/86fed397-3309-42ca-bf55-994ce295228d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“차별금지법 있는 나라”에서 살고 싶다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9264</link>
+            <guid>https://ildaro.com/9264</guid>
+            <pubDate>Thu, 03 Feb 2022 08:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[차별금지법 제정 운동의 목표는 물론 법 제정이지만, 더 많은 시민들이 함께 차별금지 원칙을 지킬 수 있도록 하는 것이거든요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022020315596871.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[팔려 가고 학대받는 소녀들…아이들만 남은 집 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9263</link>
             <guid>https://ildaro.com/9263</guid>
@@ -422,14 +430,6 @@
             <pubDate>Wed, 12 Jan 2022 06:15:28 GMT</pubDate>
             <content:encoded><![CDATA[계속 유포되는 피해물의 굴레에, 매일밤 자신의 피해물을 찾아 헤매는 이들도 있다. 자신의 피해물을 보려면, 불법성착취사이트에 일정 비용을 지불해야만 한다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022011223455321.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘생존신고’ 우리 서로 살아있음을 확인하자 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9244</link>
-            <guid>https://ildaro.com/9244</guid>
-            <pubDate>Tue, 11 Jan 2022 10:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[위기 상황에 사회는 거리를 두라고 했지만 마냥 상황이 나아지길 기다릴 수는 없었다. 이런 상황이 계속되다 보면 우린 어떻게 만날 수 있을까?...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022011126344141.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
