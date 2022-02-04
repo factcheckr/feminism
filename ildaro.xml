@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 11:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 12:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“같이, 혼자 사는 사람들”]]></title>
+            <link>https://ildaro.com/9265</link>
+            <guid>https://ildaro.com/9265</guid>
+            <pubDate>Fri, 04 Feb 2022 12:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[혼자가 편하다고 말하는 시대다. 맞다 혼자는 편하다. 하지만 온전히 혼자인 것이 불가능한 시대이기도 하다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022020400527603.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“차별금지법 있는 나라”에서 살고 싶다]]></title>
             <link>https://ildaro.com/9264</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 13 Jan 2022 08:18:59 GMT</pubDate>
             <content:encoded><![CDATA[“우리 자긍심 높게 잘 싸웠어요. 저희 진짜 잘 싸웠어요.우리 다 40이 넘은 사람들이었는데. 그런 걸 어떻게 했을까. 이런 생각을 하면, 굉장히 자존심이 높아져요.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/202201131727891.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성범죄 피해자가 잘 살아갈 수 있는 나라]]></title>
-            <link>https://ildaro.com/9245</link>
-            <guid>https://ildaro.com/9245</guid>
-            <pubDate>Wed, 12 Jan 2022 06:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[계속 유포되는 피해물의 굴레에, 매일밤 자신의 피해물을 찾아 헤매는 이들도 있다. 자신의 피해물을 보려면, 불법성착취사이트에 일정 비용을 지불해야만 한다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022011223455321.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
