@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 00:42:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 01:45:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[희자씨를 다 담기에 '집사람'은 너무 작은 이름]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202202041004001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202202041004001</guid>
+            <pubDate>Fri, 04 Feb 2022 01:44:25 GMT</pubDate>
+            <content:encoded><![CDATA[장희자씨(62)는 5남매 중 맏딸이다. 한 남성의 아내, 두 아들의 엄마다. 며느리이자 시어머니다. 이것은 모두 ‘관계 속의 희자씨’에게 붙은 이름들이다. 희자씨는 운수회사의 뛰어난 경리사원이었다. 두 아들을 반듯하게 키워낸 양육전문가다. 부모를 돌보기 위해 요양보호사 자격증을 따고, 아픈 시부모를 간호한 돌봄전문가다. 20년 넘게 자원봉사를 한 봉사전문가다. 이것은 모두 희자씨가 해온 일들이 만든 이름이다. 기쁠 희(喜). 아들 자(子). 희자씨는 이름이 마음에 들...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/04/l_2022020301000265300020679.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요조 “다방면의 능력자 돼야 한다는 강박에 저항하고 싶다”]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202202031017011</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 25 Jan 2022 05:10:17 GMT</pubDate>
             <content:encoded><![CDATA[몸을 쓰는 게 익숙하지 않은 사람을 대상으로 운동을 가르칠 때 가장 필요한 것은 무엇일까? 근육에 제대로 힘을 주는 법, 기술을 익히는 법, 관절을 유연하게 푸는 법, 경기에서 점수를 잘 내는 법…. 스포츠를 잘하는 여러 법칙들이 떠오르지만 실제 현장에서 수업을 하는 강사들은 의외의 이야기를 했다. “상대를 잘 아는 게 제일 중요해요.”지난 15일 서울 동부여성발전센터에서 열린 장애인 인식 교육에 앞서 ‘위밋업스포츠’의 신혜미 대표는 이렇게 말했다. ‘...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/25/l_2022012001002495600216671.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["소년들에게 게임 밖 공동체를 만들어줘야 성평등이 가능하다"]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202201251142001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202201251142001</guid>
-            <pubDate>Tue, 25 Jan 2022 05:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[온라인에 의존하는 소년과 그렇지 않은 소년의 차이는 어디에서 올까. ‘젠더 전쟁’이라고 부를 만큼 성평등을 둘러싼 젊은 세대의 성별 인식 격차가 커지는 현실에서 소년들은 어디쯤 서 있을까. 이들을 지배하는 ‘게임 문화’는 무엇을 제공할까. 2000년대 초부터 성평등 강의, 마을 교육을 해온 지현은 ‘공존’을 위해, 평화로운 공동체로 나아갈 힌트를 찾기 위해 ‘소년’에 주목했다. 소년들이 사는 세상을 들여다본 &lt;소년문화탐방기&gt;는 소년들을 더 안전한 감...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/25/l_2022012001002483900215411.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
