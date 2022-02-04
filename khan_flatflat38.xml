@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 08:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 09:11:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['조주빈 블로그' 운영자는 아버지였다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202202041805001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202202041805001</guid>
+            <pubDate>Fri, 04 Feb 2022 09:10:33 GMT</pubDate>
+            <content:encoded><![CDATA[텔레그램에서 여성 성착취물을 제작·유포하고 범죄집단을 조직한 혐의로 징역 42년을 확정받은 조주빈(27)의 글이 올라오던 블로그는 그의 아버지가 운영하던 것으로 밝혀졌다. 법무부는 앞으로 조주빈의 편지를 검열하기로 했다.법무부는 4일 보도자료를 통해 “해당 블로그는 조주빈의 부친이 운영 중이며, 조주빈이 작성한 편지와 재판 관계 서류 등을 우편으로 받아 블로그에 게시한 것으로 확인됐다”고 밝혔다. 서울구치소는 이날 수형자의 교화나 건전한 사회 복귀를 해칠 ...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/04/l_2022020401000405700032691.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어느날 그들의 노동이 사라진다면]]></title>
             <link>https://www.khan.co.kr/national/health-welfare/article/202202041424001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 26 Jan 2022 06:14:09 GMT</pubDate>
             <content:encoded><![CDATA[손정애씨(72)의 가게는 서울 남대문시장 칼국수 골목에 있다. 의자는 일렬로 네 개. 네 명이 동시에 앉으려면 어깨와 팔꿈치가 스칠 각오를 해야 할 만큼 아담한 규모다. 17개 국숫집이 모여 있는 이 골목에서 정애씨는 ‘훈이네’라는 간판 아래 20년째 밥을 짓고 국수를 만든다. 칼국수를 주문하면 비빔냉면을, 찰밥을 주문하면 수제비를 주는 이곳은 뭐든 ‘1+1’이다.정애씨는 인생의 많은 시간을 이곳에서 보냈지만, 국숫집만으로 그의 삶을 다 설명할 순 없다. 정애씨...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/26/l_20220126010033150002893911.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[708만 여성의 자부심, "우리가 명함이 없지 일을 안했냐"]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202201261423001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202201261423001</guid>
-            <pubDate>Wed, 26 Jan 2022 06:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[우리가 만난 여성들은 명함이 없다고 했다. 일을 쉰 적은 없다. 그들의 노동을 사회에서 ‘일’로 인정하지 않았을 뿐이다.전쟁부터 산업화, 외환·금융위기, 코로나19까지, 대한민국 노인세대의 삶은 급속한 변화를 겪었다. 이 굴곡진 현대사의 바탕엔 평생 일한 여성들이 있다. 이들은 학교에 들어가기 전부터 동생들을 돌보고, 집안일을 했다. 딸이라는 이유로 배움의 기회는 차단당했고, 살림 밑천이라 불리며 일찍 생계활동에 뛰어들었다. 운 좋게 고등교육을 받고 원하던 ...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/26/l_2022012601003309800289111.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
