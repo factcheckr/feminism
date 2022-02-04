@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 05:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 06:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[어느날 그들의 노동이 사라진다면 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/health-welfare/article/202202041424001</link>
+            <guid>https://www.khan.co.kr/national/health-welfare/article/202202041424001</guid>
+            <pubDate>Fri, 04 Feb 2022 06:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[손가락을 ‘딱’ 부딪쳐 특정 집단을 사라지게 만들 수 있는 우주 빌런(악당)이 2022년 대한민국에 상륙했다고 가정해 보자. 이 빌런은 60세 이상 여성들을 잠시 데려가겠다고 마음먹었다. 많은 사람이 비탄에 빠졌을 때 어떤 이들은 ‘숫자’와 ‘손실’을 따졌다. 2021년 상반기 기준 임금근로자 2064만6569명 중 60세 이상 여성은 153만3410명. 노동력 7.4%의 증발을 두고 안도하는 이들도 있었다. 고령 여성이 경제에서 차지하는 비중이 크지 않으니 최악의 상황은 아니라...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/04/l_2022020301000281800021259.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[희자씨를 다 담기에 '집사람'은 너무 작은 이름 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202202041004001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202202041004001</guid>
@@ -182,14 +190,6 @@
             <pubDate>Wed, 26 Jan 2022 06:14:09 GMT</pubDate>
             <content:encoded><![CDATA[우리가 만난 여성들은 명함이 없다고 했다. 일을 쉰 적은 없다. 그들의 노동을 사회에서 ‘일’로 인정하지 않았을 뿐이다.전쟁부터 산업화, 외환·금융위기, 코로나19까지, 대한민국 노인세대의 삶은 급속한 변화를 겪었다. 이 굴곡진 현대사의 바탕엔 평생 일한 여성들이 있다. 이들은 학교에 들어가기 전부터 동생들을 돌보고, 집안일을 했다. 딸이라는 이유로 배움의 기회는 차단당했고, 살림 밑천이라 불리며 일찍 생계활동에 뛰어들었다. 운 좋게 고등교육을 받고 원하던 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/26/l_2022012601003309800289111.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[운동 가르치는 '위밋업' 언니들이 수어를 배우게 된 이유 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202201251355001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202201251355001</guid>
-            <pubDate>Tue, 25 Jan 2022 05:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[몸을 쓰는 게 익숙하지 않은 사람을 대상으로 운동을 가르칠 때 가장 필요한 것은 무엇일까? 근육에 제대로 힘을 주는 법, 기술을 익히는 법, 관절을 유연하게 푸는 법, 경기에서 점수를 잘 내는 법…. 스포츠를 잘하는 여러 법칙들이 떠오르지만 실제 현장에서 수업을 하는 강사들은 의외의 이야기를 했다. “상대를 잘 아는 게 제일 중요해요.”지난 15일 서울 동부여성발전센터에서 열린 장애인 인식 교육에 앞서 ‘위밋업스포츠’의 신혜미 대표는 이렇게 말했다. ‘...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/25/l_2022012001002495600216671.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 평등한 명절은 가능하다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
