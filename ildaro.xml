@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 11:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 12:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘I Fear Dying While Working in a Foreign Land’]]></title>
+            <link>https://ildaro.com/9266</link>
+            <guid>https://ildaro.com/9266</guid>
+            <pubDate>Sat, 05 Feb 2022 12:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[I live in a foreign country alone. What if I die in my sleep from overworking and exhaustion... I feel scared because my family is not here....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022020523262735.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“같이, 혼자 사는 사람들”]]></title>
             <link>https://ildaro.com/9265</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 14 Jan 2022 14:12:55 GMT</pubDate>
             <content:encoded><![CDATA[Everyone who is born holds dual citizenship, in the kingdom of the well and in the kingdom of the sick....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/225437_2022011447019350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[격무에 시달리는데도 우릴 ‘잉여 인력’이라고 했다]]></title>
-            <link>https://ildaro.com/9246</link>
-            <guid>https://ildaro.com/9246</guid>
-            <pubDate>Thu, 13 Jan 2022 08:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[“우리 자긍심 높게 잘 싸웠어요. 저희 진짜 잘 싸웠어요.우리 다 40이 넘은 사람들이었는데. 그런 걸 어떻게 했을까. 이런 생각을 하면, 굉장히 자존심이 높아져요.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/202201131727891.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
