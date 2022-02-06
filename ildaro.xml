@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 00:49:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 02:08:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쓰레기 정치를 시작하자]]></title>
+            <link>https://ildaro.com/9267</link>
+            <guid>https://ildaro.com/9267</guid>
+            <pubDate>Sun, 06 Feb 2022 10:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[빨대를 뺀 음료수, 플라스틱 뚜껑을 뺀 통조림 햄, 플라스틱 트레이를 뺀 김, 라벨을 뺀 생수와 같은 새로운 제품들을 만날 때면, 이 변화를 끌어낸 누군가에게 감사하...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022020639485560.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘I Fear Dying While Working in a Foreign Land’]]></title>
             <link>https://ildaro.com/9266</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 15 Jan 2022 00:48:00 GMT</pubDate>
             <content:encoded><![CDATA[감각이 돌아오고 있었다. 앞으로도 여성의 시간은 때때로 솟아올랐다가 곤두박질치고 멋대로 뒤엉키거나 수많은 과거와 미래로 뻗어나가기도 할 것이다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022011555588095.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Searching for the Language of the World of Illness]]></title>
-            <link>https://ildaro.com/9247</link>
-            <guid>https://ildaro.com/9247</guid>
-            <pubDate>Fri, 14 Jan 2022 14:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[Everyone who is born holds dual citizenship, in the kingdom of the well and in the kingdom of the sick....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/225437_2022011447019350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
