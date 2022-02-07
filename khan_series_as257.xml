@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 01:57:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 02:26:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['사이버 렉카'에 판을 깔아준 #유튜브도_공범이다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202202071114001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202202071114001</guid>
+            <pubDate>Mon, 07 Feb 2022 02:26:24 GMT</pubDate>
+            <content:encoded><![CDATA[지난 주말 프로 배구선수 김인혁씨(27)와 1인 방송 진행자 BJ잼미(27·본명 조장미)의 사망 소식이 잇따라 전해졌다. 이들이 평소 악성 댓글과 루머에 시달리며 피해를 호소해왔던 만큼 ‘온라인 괴롭힘’ 문제를 이대로 둬서는 안된다는 비판과 성찰의 목소리도 쏟아져 나오고 있다. 특히 괴롭힘을 확대 재생산해 온 이른바 ‘사이버 렉카(남의 사건·사고로 주목을 끄는 자)’들을 방치해 사태를 키운 주범으로 지목되는 ‘유튜브’에 대해 비판이 집중되고 있다.경찰과 유족에 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/07/l_2022020701000573700049581.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['조주빈 블로그' 운영자는 아버지였다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202202041805001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 04 Feb 2022 09:11:16 GMT</pubDate>
             <content:encoded><![CDATA[‘젠더 갈등’이라는 용어가 적절한지에 대한 논의가 우선되어야 하겠지만, 일단 이렇게 지칭되는 현상, 즉 성별 간의 성평등에 대한 인식 격차, 온라인 공간에서의 적대가 극화되는 데 책임을 져야 할 주체 중 하나로 언론이 꼽히곤 한다. 표현의 문제로 성차별 문제의 의미를 축소하고, 하위문화적인 온라인 공간에 떠도는 각종 표현을 공적으로 부각하여 이를 논란이라고 부르는 보도를 해왔기 때문이다.이러한 문제는 최근 대통령 선거 보도 국면에서도 마찬가지이다. 사...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/24/l_2022012001002495400216641.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낙태한 여성은 불행하다는 주장은 '객관적으로' 틀렸다]]></title>
-            <link>https://www.khan.co.kr/culture/book/article/202201241020001</link>
-            <guid>https://www.khan.co.kr/culture/book/article/202201241020001</guid>
-            <pubDate>Fri, 04 Feb 2022 09:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[임신과 출산의 고귀함과 기쁨에 대해 말하는 사람은 많다. 그러나 임신중지(낙태) 결과에 대해 말하는 사람은 흔치 않다. 임신중지 이후의 삶은 종종 터부시되는데, 그러한 여성의 삶은 불행하고 후회로 가득 차 있을 것이라는 지레짐작 때문일 것이다. 그러나 여성의 삶은 임신중지라는 선택 한 번으로 무너지지 않는다. 중요한 것은 여성이 자신의 삶에 선택권을 가졌느냐에 있다. &lt;턴어웨이&gt;는 그 기록이다.미국의 인구통계학자인 저자는 공중보건학·사회학·경제학 등 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/24/l_2022011901002323300201101.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

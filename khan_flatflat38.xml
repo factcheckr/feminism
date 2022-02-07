@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 01:57:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 02:26:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['사이버 렉카'에 판을 깔아준 #유튜브도_공범이다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202202071114001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202202071114001</guid>
+            <pubDate>Mon, 07 Feb 2022 02:25:38 GMT</pubDate>
+            <content:encoded><![CDATA[지난 주말 프로 배구선수 김인혁씨(27)와 1인 방송 진행자 BJ잼미(27·본명 조장미)의 사망 소식이 잇따라 전해졌다. 이들이 평소 악성 댓글과 루머에 시달리며 피해를 호소해왔던 만큼 ‘온라인 괴롭힘’ 문제를 이대로 둬서는 안된다는 비판과 성찰의 목소리도 쏟아져 나오고 있다. 특히 괴롭힘을 확대 재생산해 온 이른바 ‘사이버 렉카(남의 사건·사고로 주목을 끄는 자)’들을 방치해 사태를 키운 주범으로 지목되는 ‘유튜브’에 대해 비판이 집중되고 있다.경찰과 유족에 ...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/07/l_2022020701000573700049581.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['조주빈 블로그' 운영자는 아버지였다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202202041805001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 26 Jan 2022 06:14:09 GMT</pubDate>
             <content:encoded><![CDATA[1954년. 전국에서 32만여명의 딸들이 태어났다. 정확히는 그보다 더 많은 아이가 출생했겠지만 통계는 없다. 1955년 실시된 인구주택총조사의 1세 여야(32만4018명)로 추정할 뿐이다. 1953년 정전협정 직후, 출생신고가 온전히 자리 잡지 못한 때였다.또 다른 ‘정애씨’들의 삶그들은 ‘1950년에 태어난 1954년생’ 손정애씨와 비슷한 모습으로 태어나고 자랐고 나이 들었다. 전쟁 직후 혼란과 엉성한 행정 속에서 자란 것, 서울 아닌 경상도에서 태어나 경상도 아닌 서울에서 ...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/26/l_20220126010033166002894910.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“나쁜 일이 파도처럼 밀려왔지만 도망가지 않았다”]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202201261424001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202201261424001</guid>
-            <pubDate>Wed, 26 Jan 2022 06:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[손정애씨(72)의 가게는 서울 남대문시장 칼국수 골목에 있다. 의자는 일렬로 네 개. 네 명이 동시에 앉으려면 어깨와 팔꿈치가 스칠 각오를 해야 할 만큼 아담한 규모다. 17개 국숫집이 모여 있는 이 골목에서 정애씨는 ‘훈이네’라는 간판 아래 20년째 밥을 짓고 국수를 만든다. 칼국수를 주문하면 비빔냉면을, 찰밥을 주문하면 수제비를 주는 이곳은 뭐든 ‘1+1’이다.정애씨는 인생의 많은 시간을 이곳에서 보냈지만, 국숫집만으로 그의 삶을 다 설명할 순 없다. 정애씨...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/26/l_20220126010033150002893911.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
