@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 07:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 08:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[악플과 중계식 보도 ‘가학의 악순환’]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202202071533001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202202071533001</guid>
+            <pubDate>Mon, 07 Feb 2022 08:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월과 2019년 10월, 무엇이 달라졌을까요. 3년 전 가수 겸 배우 설리, 최근 배구선수 김인혁씨와 BJ잼미사건의 사망 사건을 취재한 이유진 기자는 “혐오 장사는 언론과 포털에서 유튜브와 커뮤니티로 옮겨갔을 뿐 혐오로 버는 돈은 더 많아졌고, 이에 가담하는 사람들은 정의감에 차있다”고 말합니다. 플랫팀이 설리 사망 당시 1년치 기사 키워드를 분석한 2019년 기사를 다시 소개합니다▼ ‘설리 기사’ 1년치 분석해보니  ▲ 가수 겸 배우 설리(25·본명 최진리...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/07/l_2022020701000618900053841.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['사이버 렉카'에 판을 깔아준 #유튜브도_공범이다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202202071114001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 04 Feb 2022 09:11:16 GMT</pubDate>
             <content:encoded><![CDATA[온라인에 의존하는 소년과 그렇지 않은 소년의 차이는 어디에서 올까. ‘젠더 전쟁’이라고 부를 만큼 성평등을 둘러싼 젊은 세대의 성별 인식 격차가 커지는 현실에서 소년들은 어디쯤 서 있을까. 이들을 지배하는 ‘게임 문화’는 무엇을 제공할까. 2000년대 초부터 성평등 강의, 마을 교육을 해온 지현은 ‘공존’을 위해, 평화로운 공동체로 나아갈 힌트를 찾기 위해 ‘소년’에 주목했다. 소년들이 사는 세상을 들여다본 &lt;소년문화탐방기&gt;는 소년들을 더 안전한 감...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/25/l_2022012001002483900215411.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['젠더 갈등' 네 글자만 남은 대선, 언론이 사라졌다]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202201241436001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202201241436001</guid>
-            <pubDate>Fri, 04 Feb 2022 09:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[‘젠더 갈등’이라는 용어가 적절한지에 대한 논의가 우선되어야 하겠지만, 일단 이렇게 지칭되는 현상, 즉 성별 간의 성평등에 대한 인식 격차, 온라인 공간에서의 적대가 극화되는 데 책임을 져야 할 주체 중 하나로 언론이 꼽히곤 한다. 표현의 문제로 성차별 문제의 의미를 축소하고, 하위문화적인 온라인 공간에 떠도는 각종 표현을 공적으로 부각하여 이를 논란이라고 부르는 보도를 해왔기 때문이다.이러한 문제는 최근 대통령 선거 보도 국면에서도 마찬가지이다. 사...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/24/l_2022012001002495400216641.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
