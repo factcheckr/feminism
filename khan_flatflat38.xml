@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 01:58:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 02:28:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[학폭 현실 다뤘다는 'K좀비 스펙터클'이 불편한 이유]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202202081123001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202202081123001</guid>
+            <pubDate>Tue, 08 Feb 2022 02:27:37 GMT</pubDate>
+            <content:encoded><![CDATA[#비 오는 날 저녁 한 건물 옥상에 학생들이 모여있다. 손명환(오희준), 윤귀남(유인수)을 비롯한 무리는 “제발 그만”이라고 말하는 이진수(이민구)를 무차별 폭행한다. 진수는 무리에게 일방적으로 맞고 차이고 밟히다 마지막으로 악을 쓰며 달려들지만 결국 옥상에서 추락한다. 카메라는 이 장면을 상하좌우로 비추고, 접사와 와이드샷을 넘나들며 다양한 각도로 촬영한다. 일방적인 폭행 장면을 마치 하나의 액션신처럼 화려하게 다뤘다.#명환 무리는 신축공사 중인 학교 건물 ...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/08/l_2022020401000400800032421.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[악플과 중계식 보도 ‘가학의 악순환’]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202202071533001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 27 Jan 2022 07:11:09 GMT</pubDate>
             <content:encoded><![CDATA[코로나19 유행 초기, 콜센터에는 그 어느 때보다 뜨거운 이목이 집중됐다. ‘밀접·밀집·밀폐’ 이른바 3밀 노동현장으로 인해 유행 초기부터 콜센터에서 집단감염이 잇따라 터져나왔다. 2020년 3월 서울 구로구 코리아 빌딩의 콜센터에서는 수도권 첫 번째 집단감염이 발생했다. 직원 97명과 이들로 인한 2차 전파 등 총 158명의 감염자가 나왔고, 2차 전파로 인해 콜센터 직원의 배우자가 사망하기까지 했다. 콜센터 집단감염은 지난해 말 인천의 120미추홀콜센터 집단감염까...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/27/l_2022012701003402300297441.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청계천의 여공들이 말한다, 우리의 투쟁은 실패가 아니었다고]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202201270954001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202201270954001</guid>
-            <pubDate>Thu, 27 Jan 2022 01:54:47 GMT</pubDate>
-            <content:encoded><![CDATA[전태일 이후에도 여공들이 있었다. ‘골방서 하루 16시간 노동’을 하던 청계피복노동조합 여공들은 퇴근 후 공부하던 노동교실을 지키기 위해 싸우고, 노동시간 단축과 임금 인상을 요구했다. 그러나 1977년 9월9일 노동교실 점거 결사투쟁 사건(9·9 사건)을 비롯한 이들의 투쟁은 노동사에 실패나 공백으로 기록됐다. 주도자들은 구속됐고, 노조원들은 흩어졌다. 정부는 사건 참여자들을 끈질기게 감시하고 괴롭혔다. 노조 경험은 당사자들에게도 잊고 싶은 기억으로 남았다.이들...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/27/l_2022012001002492800216341.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

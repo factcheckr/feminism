@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 01:58:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 02:28:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[학폭 현실 다뤘다는 'K좀비 스펙터클'이 불편한 이유 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202202081123001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202202081123001</guid>
+            <pubDate>Tue, 08 Feb 2022 02:27:37 GMT</pubDate>
+            <content:encoded><![CDATA[#비 오는 날 저녁 한 건물 옥상에 학생들이 모여있다. 손명환(오희준), 윤귀남(유인수)을 비롯한 무리는 “제발 그만”이라고 말하는 이진수(이민구)를 무차별 폭행한다. 진수는 무리에게 일방적으로 맞고 차이고 밟히다 마지막으로 악을 쓰며 달려들지만 결국 옥상에서 추락한다. 카메라는 이 장면을 상하좌우로 비추고, 접사와 와이드샷을 넘나들며 다양한 각도로 촬영한다. 일방적인 폭행 장면을 마치 하나의 액션신처럼 화려하게 다뤘다.#명환 무리는 신축공사 중인 학교 건물 ...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/08/l_2022020401000400800032421.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[악플과 중계식 보도 ‘가학의 악순환’ (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202202071533001</link>
@@ -80,14 +88,6 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/27/l_2022012701003402300297441.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[청계천의 여공들이 말한다, 우리의 투쟁은 실패가 아니었다고 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202201270954001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202201270954001</guid>
-            <pubDate>Thu, 27 Jan 2022 01:54:47 GMT</pubDate>
-            <content:encoded><![CDATA[전태일 이후에도 여공들이 있었다. ‘골방서 하루 16시간 노동’을 하던 청계피복노동조합 여공들은 퇴근 후 공부하던 노동교실을 지키기 위해 싸우고, 노동시간 단축과 임금 인상을 요구했다. 그러나 1977년 9월9일 노동교실 점거 결사투쟁 사건(9·9 사건)을 비롯한 이들의 투쟁은 노동사에 실패나 공백으로 기록됐다. 주도자들은 구속됐고, 노조원들은 흩어졌다. 정부는 사건 참여자들을 끈질기게 감시하고 괴롭혔다. 노조 경험은 당사자들에게도 잊고 싶은 기억으로 남았다.이들...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/27/l_2022012001002492800216341.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
@@ -110,6 +110,14 @@
             <pubDate>Mon, 17 Jan 2022 10:24:00 GMT</pubDate>
             <content:encoded><![CDATA[2022. 01. 17]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[학폭 현실 다뤘다는 'K좀비 스펙터클'이 불편한 이유 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202202081123001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202202081123001</guid>
+            <pubDate>Tue, 08 Feb 2022 02:28:21 GMT</pubDate>
+            <content:encoded><![CDATA[#비 오는 날 저녁 한 건물 옥상에 학생들이 모여있다. 손명환(오희준), 윤귀남(유인수)을 비롯한 무리는 “제발 그만”이라고 말하는 이진수(이민구)를 무차별 폭행한다. 진수는 무리에게 일방적으로 맞고 차이고 밟히다 마지막으로 악을 쓰며 달려들지만 결국 옥상에서 추락한다. 카메라는 이 장면을 상하좌우로 비추고, 접사와 와이드샷을 넘나들며 다양한 각도로 촬영한다. 일방적인 폭행 장면을 마치 하나의 액션신처럼 화려하게 다뤘다.#명환 무리는 신축공사 중인 학교 건물 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/08/l_2022020401000400800032421.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[악플과 중계식 보도 ‘가학의 악순환’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -182,14 +190,6 @@
             <pubDate>Fri, 04 Feb 2022 09:11:16 GMT</pubDate>
             <content:encoded><![CDATA[몸을 쓰는 게 익숙하지 않은 사람을 대상으로 운동을 가르칠 때 가장 필요한 것은 무엇일까? 근육에 제대로 힘을 주는 법, 기술을 익히는 법, 관절을 유연하게 푸는 법, 경기에서 점수를 잘 내는 법…. 스포츠를 잘하는 여러 법칙들이 떠오르지만 실제 현장에서 수업을 하는 강사들은 의외의 이야기를 했다. “상대를 잘 아는 게 제일 중요해요.”지난 15일 서울 동부여성발전센터에서 열린 장애인 인식 교육에 앞서 ‘위밋업스포츠’의 신혜미 대표는 이렇게 말했다. ‘...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/25/l_2022012001002495600216671.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["소년들에게 게임 밖 공동체를 만들어줘야 성평등이 가능하다" (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202201251142001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202201251142001</guid>
-            <pubDate>Fri, 04 Feb 2022 09:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[온라인에 의존하는 소년과 그렇지 않은 소년의 차이는 어디에서 올까. ‘젠더 전쟁’이라고 부를 만큼 성평등을 둘러싼 젊은 세대의 성별 인식 격차가 커지는 현실에서 소년들은 어디쯤 서 있을까. 이들을 지배하는 ‘게임 문화’는 무엇을 제공할까. 2000년대 초부터 성평등 강의, 마을 교육을 해온 지현은 ‘공존’을 위해, 평화로운 공동체로 나아갈 힌트를 찾기 위해 ‘소년’에 주목했다. 소년들이 사는 세상을 들여다본 &lt;소년문화탐방기&gt;는 소년들을 더 안전한 감...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/25/l_2022012001002483900215411.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 평등한 명절은 가능하다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
