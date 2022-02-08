@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 00:42:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 01:58:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/86fed397-3309-42ca-bf55-994ce295228d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[살아냄으로써 투쟁하는, 동물권 활동가 ‘새벽’과 ‘잔디’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9268</link>
+            <guid>https://ildaro.com/9268</guid>
+            <pubDate>Tue, 08 Feb 2022 10:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[착취당하는 돼지들만이 존재하는 세상 속 새벽이와 잔디는 존재 자체로 강렬한 메시지를 전한다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022020808192218.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[쓰레기 정치를 시작하자 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9267</link>
             <guid>https://ildaro.com/9267</guid>
@@ -422,14 +430,6 @@
             <pubDate>Sun, 16 Jan 2022 05:13:07 GMT</pubDate>
             <content:encoded><![CDATA[지난 2021년을 대표하는 키워드를 꼽아보았을 때 빠질 수 없는 건 방송/미디어에서 여성캐릭터/여성서사의 약진이다. 그야말로 “잘봐, 언니들 싸움이다”였다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022011655532093.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이야기에 기입된 여성의 역사 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9248</link>
-            <guid>https://ildaro.com/9248</guid>
-            <pubDate>Sat, 15 Jan 2022 00:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[감각이 돌아오고 있었다. 앞으로도 여성의 시간은 때때로 솟아올랐다가 곤두박질치고 멋대로 뒤엉키거나 수많은 과거와 미래로 뻗어나가기도 할 것이다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022011555588095.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
