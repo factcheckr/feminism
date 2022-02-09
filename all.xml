@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 02:02:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 03:13:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/86fed397-3309-42ca-bf55-994ce295228d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[성범죄 미성년 피해자를 가해자 앞에 세울 것인가? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9269</link>
+            <guid>https://ildaro.com/9269</guid>
+            <pubDate>Wed, 09 Feb 2022 11:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[19세 미만 성폭력 피해자도 소송과정에서 증인소환 시 직접 법정에 출석해 반대신문을 받아야 하는 상황에 놓였다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/202202092003552.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[살아냄으로써 투쟁하는, 동물권 활동가 ‘새벽’과 ‘잔디’ (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9268</link>
             <guid>https://ildaro.com/9268</guid>
@@ -422,14 +430,6 @@
             <pubDate>Mon, 17 Jan 2022 08:18:47 GMT</pubDate>
             <content:encoded><![CDATA[민우회 보라 활동가는 “현실을 미디어가 재현하기도 하지만, 반대로 미디어가 현실을 만들기도 한다”는 점을 강조했다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022011756474795.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<마인> <골때녀>에서 <구경이> <스우파>까지 여성서사 약진 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9249</link>
-            <guid>https://ildaro.com/9249</guid>
-            <pubDate>Sun, 16 Jan 2022 05:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2021년을 대표하는 키워드를 꼽아보았을 때 빠질 수 없는 건 방송/미디어에서 여성캐릭터/여성서사의 약진이다. 그야말로 “잘봐, 언니들 싸움이다”였다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022011655532093.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
