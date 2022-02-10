@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 09:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 10:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“우리 딸을 데려가 주시겠어요?”]]></title>
+            <link>https://ildaro.com/9270</link>
+            <guid>https://ildaro.com/9270</guid>
+            <pubDate>Thu, 10 Feb 2022 10:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[도시의 한 구석에서 굶주림과 싸우고 있는 아이들과 그 가족들을 만나면서, 가난한 자들의 고통은 모두 소리 없이 외롭게 세상에서 방치되는 구나 싶어 마음이 너무 아...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022021017019786.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성범죄 미성년 피해자를 가해자 앞에 세울 것인가?]]></title>
             <link>https://ildaro.com/9269</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 18 Jan 2022 11:12:33 GMT</pubDate>
             <content:encoded><![CDATA[월요일 자정이 가까워지면 사과와 격려로 분주해지는 카톡방이 있다. 이 사람들은 왜 누가 시키지도 않았는데 제 발로 글방을 찾아와 매주 자신을 괴롭힐까....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022011844317642.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다양한 여성 캐릭터는 다양한 여성을 만든다]]></title>
-            <link>https://ildaro.com/9250</link>
-            <guid>https://ildaro.com/9250</guid>
-            <pubDate>Mon, 17 Jan 2022 08:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[민우회 보라 활동가는 “현실을 미디어가 재현하기도 하지만, 반대로 미디어가 현실을 만들기도 한다”는 점을 강조했다...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022011756474795.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
