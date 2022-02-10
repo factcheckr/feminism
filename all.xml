@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 04:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 05:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["우리는 이대남이 아니란 말입니까" (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202202101025001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202202101025001</guid>
+            <pubDate>Thu, 10 Feb 2022 02:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[이번 대선의 가장 ‘논쟁적’ 세대는 ‘이대남(20대 남성)’이다. 보수적이고, 페미니즘을 반대하며, 주식·가상통화 투자에 열중하는 세대. 정치적으로 소비되는 이대남의 이미지는 대략 이렇다. 이대남의 실체가 정말 그럴까.‘그렇지 않다’고 말하는 이대남이 있다. ‘행동하는 보통 남자들’ 소속 청년들이 그들이다. 이들은 9일 서울 광화문 세종문화회관 앞에서 ‘우리는 이대남이 아니란 말입니까’라는 제목의 기자회견을 연다. ‘이대남이란 무엇인가’를 되묻는 자리이다. 이...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/10/l_2022020901000909400081302.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[그래서 여성가족부 폐지 다음엔 무엇을 할건가 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202202081350001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202202081350001</guid>
@@ -182,14 +190,6 @@
             <pubDate>Thu, 27 Jan 2022 07:11:09 GMT</pubDate>
             <content:encoded><![CDATA[코로나19 유행 초기, 콜센터에는 그 어느 때보다 뜨거운 이목이 집중됐다. ‘밀접·밀집·밀폐’ 이른바 3밀 노동현장으로 인해 유행 초기부터 콜센터에서 집단감염이 잇따라 터져나왔다. 2020년 3월 서울 구로구 코리아 빌딩의 콜센터에서는 수도권 첫 번째 집단감염이 발생했다. 직원 97명과 이들로 인한 2차 전파 등 총 158명의 감염자가 나왔고, 2차 전파로 인해 콜센터 직원의 배우자가 사망하기까지 했다. 콜센터 집단감염은 지난해 말 인천의 120미추홀콜센터 집단감염까...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/27/l_2022012701003402300297441.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청계천의 여공들이 말한다, 우리의 투쟁은 실패가 아니었다고 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202201270954001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202201270954001</guid>
-            <pubDate>Thu, 27 Jan 2022 01:54:47 GMT</pubDate>
-            <content:encoded><![CDATA[전태일 이후에도 여공들이 있었다. ‘골방서 하루 16시간 노동’을 하던 청계피복노동조합 여공들은 퇴근 후 공부하던 노동교실을 지키기 위해 싸우고, 노동시간 단축과 임금 인상을 요구했다. 그러나 1977년 9월9일 노동교실 점거 결사투쟁 사건(9·9 사건)을 비롯한 이들의 투쟁은 노동사에 실패나 공백으로 기록됐다. 주도자들은 구속됐고, 노조원들은 흩어졌다. 정부는 사건 참여자들을 끈질기게 감시하고 괴롭혔다. 노조 경험은 당사자들에게도 잊고 싶은 기억으로 남았다.이들...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/27/l_2022012001002492800216341.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['사이버 렉카'에 끌려 다니는 한국 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
