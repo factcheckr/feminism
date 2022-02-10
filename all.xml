@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 01:58:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 02:27:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["우리는 이대남이 아니란 말입니까" (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202202101025001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202202101025001</guid>
+            <pubDate>Thu, 10 Feb 2022 02:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[이번 대선의 가장 ‘논쟁적’ 세대는 ‘이대남(20대 남성)’이다. 보수적이고, 페미니즘을 반대하며, 주식·가상통화 투자에 열중하는 세대. 정치적으로 소비되는 이대남의 이미지는 대략 이렇다. 이대남의 실체가 정말 그럴까.‘그렇지 않다’고 말하는 이대남이 있다. ‘행동하는 보통 남자들’ 소속 청년들이 그들이다. 이들은 9일 서울 광화문 세종문화회관 앞에서 ‘우리는 이대남이 아니란 말입니까’라는 제목의 기자회견을 연다. ‘이대남이란 무엇인가’를 되묻는 자리이다. 이...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/10/l_2022020901000909400081302.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[딸들은 엄마의 노동에서 여성의 노동을 읽어냈다 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202202091039001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 04 Feb 2022 01:44:25 GMT</pubDate>
             <content:encoded><![CDATA[장희자씨(62)는 5남매 중 맏딸이다. 한 남성의 아내, 두 아들의 엄마다. 며느리이자 시어머니다. 이것은 모두 ‘관계 속의 희자씨’에게 붙은 이름들이다. 희자씨는 운수회사의 뛰어난 경리사원이었다. 두 아들을 반듯하게 키워낸 양육전문가다. 부모를 돌보기 위해 요양보호사 자격증을 따고, 아픈 시부모를 간호한 돌봄전문가다. 20년 넘게 자원봉사를 한 봉사전문가다. 이것은 모두 희자씨가 해온 일들이 만든 이름이다. 기쁠 희(喜). 아들 자(子). 희자씨는 이름이 마음에 들...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/04/l_2022020301000265300020679.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요조 “다방면의 능력자 돼야 한다는 강박에 저항하고 싶다” (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202202031017011</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202202031017011</guid>
-            <pubDate>Thu, 03 Feb 2022 01:51:35 GMT</pubDate>
-            <content:encoded><![CDATA[차가운 도시에 어둠이 내리기 시작할 무렵, 서울 홍대 앞 길모퉁이의 오두막 같은 그곳에선 따스한 기운의 노란 불빛이 은은하게 내비치고 있었다. 모퉁이를 돌아 민트색 격자무늬 유리문을 열고 마주한 7~8평 정도의 아담한 공간은 서점이라기보다 예쁜 편집숍처럼 보였다. 음반과 LP가 진열된 벽면 아래 턴테이블에선 독일 밴드 콰드로 누에보의 보사노바 재즈곡 ‘MARE(바다)’가 흘러나왔다. 크고 작은 탁상시계들과 구형 TV 등 엔틱한 소품들도 아날로그 감성을 자극했...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/03/l_2022012701003499300304881.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
