@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 00:48:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 02:00:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['보광동 꽃언니'에겐 여전히 생생한 한국전쟁 첫날의 기억 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202202110911001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202202110911001</guid>
+            <pubDate>Fri, 11 Feb 2022 00:45:09 GMT</pubDate>
+            <content:encoded><![CDATA[“지금도 여기 땅을 파면 사람 뼈가 그렇게 나온대요.” 조선시대부터 공동묘지였다던 동네는 어귀부터 낡았다. 서울 이태원에서 걸어서 고작 10분 남짓 거리지만, 분위기는 판이하다. 다닥다닥 붙은 오래된 집들 사이 개미굴 같은 골목이 퍼져있다. 오래 지연된 재개발로 빈 집, 빈 상점만 즐비하다. 곧 한남3구역 뉴타운만 남기고 사라질, 서울 보광동의 풍경이다. 설 연휴를 앞둔 지난 달 28일, 작가 김여정씨(48)와 함께 보광동의 비탈을 부지런히 오르내렸다. “이 동네...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/11/l_2022020701000596800052121.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뿌리를 찾고 싶은 이방인의 고민… '디즈니 주인공' 심청을 만들다 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202202101456001</link>
             <guid>https://www.khan.co.kr/culture/culture-general/article/202202101456001</guid>
@@ -182,14 +190,6 @@
             <pubDate>Fri, 28 Jan 2022 06:13:58 GMT</pubDate>
             <content:encoded><![CDATA[2022년 1월1일, 해리포터 20주년 기념 다큐멘터리 &lt;리턴 투 호그와트&gt;가 HBO 맥스를 통해 공개되었다. 국내에서는 웨이브(Wavve)를 통해 볼 수 있다. &lt;리턴 투 호그와트&gt;가 시작되면, 가뜩이나 비현실적인 2022년은 마법에 걸린다. ‘머글 세계’의 이곳저곳에 흩어져 있던 호그와트의 마법사들은 호그와트 문양이 찍힌 초대장을 받는다. 호그와트로 가는 기차가 출발하고, 연회장의 문이 열리면, 환상과 현실의 경계에서 ‘그 시절, 우리가 사랑했던’ 인물들이 훌...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/28/l_2022012801003605100315781.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['추적단 불꽃' 박지현 “피해자 보호 목소리 내고 싶어 민주당 합류” (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/politics/politics-general/article/202201281120001</link>
-            <guid>https://www.khan.co.kr/politics/politics-general/article/202201281120001</guid>
-            <pubDate>Fri, 28 Jan 2022 02:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[더불어민주당 대선 선거대책위원회가 27일 ‘n번방 성착취’ 문제를 처음 공론화한 대학생 기자 ‘추적단 불꽃’의 박지현씨(26)를 영입했다. 박씨는 민주당 선대위 여성위원회 디지털성범죄근절특별위원회 위원장으로 합류한다.박 위원장은 “이번 대선은 2030 여성들에게는 특히 배제됐다고 여겨지는 선거”라면서 “피해자 보호와 가해자 엄벌에 더 목소리를 내고 싶어서 민주당 선대위에 합류했다”고 말했다.그는 이재명 민주당 대선 후보에게 “20대 여성 유권자들이 왜 배제됐다...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/01/28/l_2022012701003527300306371.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['사이버 렉카'에 끌려 다니는 한국 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
