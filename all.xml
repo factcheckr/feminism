@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 11:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 12:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/888f2a23-b30e-4d30-bf8b-b711c673a0c7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[피해자 김지은, 김잔디…세상을 고발하고 바꾼 노동자 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9271</link>
+            <guid>https://ildaro.com/9271</guid>
+            <pubDate>Fri, 11 Feb 2022 12:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[이제는 멈춰야만 했다. “꿈 속에서도 나를 괴롭히는 박원순 시장”, “성폭력 이후에 ‘너도 미투 할거냐’고 묻는 안희정 도지사”에게서 벗어나야만 했다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022021155263632.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“우리 딸을 데려가 주시겠어요?” (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9270</link>
             <guid>https://ildaro.com/9270</guid>
@@ -422,14 +430,6 @@
             <pubDate>Wed, 19 Jan 2022 11:12:03 GMT</pubDate>
             <content:encoded><![CDATA[“코로나19로 인해 영업시간이 짧아진 노점상이 많았음에도, 설문에 참여한 이들의 평균 영업 시간은 하루 7시간에서 12시간이었다”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022011941565742.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리에겐 이미 서사가 있다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9251</link>
-            <guid>https://ildaro.com/9251</guid>
-            <pubDate>Tue, 18 Jan 2022 11:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[월요일 자정이 가까워지면 사과와 격려로 분주해지는 카톡방이 있다. 이 사람들은 왜 누가 시키지도 않았는데 제 발로 글방을 찾아와 매주 자신을 괴롭힐까....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022011844317642.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
