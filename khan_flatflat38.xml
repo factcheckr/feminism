@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 23:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 00:48:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['보광동 꽃언니'에겐 여전히 생생한 한국전쟁 첫날의 기억]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202202110911001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202202110911001</guid>
+            <pubDate>Fri, 11 Feb 2022 00:45:09 GMT</pubDate>
+            <content:encoded><![CDATA[“지금도 여기 땅을 파면 사람 뼈가 그렇게 나온대요.” 조선시대부터 공동묘지였다던 동네는 어귀부터 낡았다. 서울 이태원에서 걸어서 고작 10분 남짓 거리지만, 분위기는 판이하다. 다닥다닥 붙은 오래된 집들 사이 개미굴 같은 골목이 퍼져있다. 오래 지연된 재개발로 빈 집, 빈 상점만 즐비하다. 곧 한남3구역 뉴타운만 남기고 사라질, 서울 보광동의 풍경이다. 설 연휴를 앞둔 지난 달 28일, 작가 김여정씨(48)와 함께 보광동의 비탈을 부지런히 오르내렸다. “이 동네...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/11/l_2022020701000596800052121.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뿌리를 찾고 싶은 이방인의 고민… '디즈니 주인공' 심청을 만들다]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202202101456001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 04 Feb 2022 09:10:33 GMT</pubDate>
             <content:encoded><![CDATA[텔레그램에서 여성 성착취물을 제작·유포하고 범죄집단을 조직한 혐의로 징역 42년을 확정받은 조주빈(27)의 글이 올라오던 블로그는 그의 아버지가 운영하던 것으로 밝혀졌다. 법무부는 앞으로 조주빈의 편지를 검열하기로 했다.법무부는 4일 보도자료를 통해 “해당 블로그는 조주빈의 부친이 운영 중이며, 조주빈이 작성한 편지와 재판 관계 서류 등을 우편으로 받아 블로그에 게시한 것으로 확인됐다”고 밝혔다. 서울구치소는 이날 수형자의 교화나 건전한 사회 복귀를 해칠 ...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/04/l_2022020401000405700032691.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어느날 그들의 노동이 사라진다면]]></title>
-            <link>https://www.khan.co.kr/national/health-welfare/article/202202041424001</link>
-            <guid>https://www.khan.co.kr/national/health-welfare/article/202202041424001</guid>
-            <pubDate>Fri, 04 Feb 2022 07:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[손가락을 ‘딱’ 부딪쳐 특정 집단을 사라지게 만들 수 있는 우주 빌런(악당)이 2022년 대한민국에 상륙했다고 가정해 보자. 이 빌런은 60세 이상 여성들을 잠시 데려가겠다고 마음먹었다. 많은 사람이 비탄에 빠졌을 때 어떤 이들은 ‘숫자’와 ‘손실’을 따졌다. 2021년 상반기 기준 임금근로자 2064만6569명 중 60세 이상 여성은 153만3410명. 노동력 7.4%의 증발을 두고 안도하는 이들도 있었다. 고령 여성이 경제에서 차지하는 비중이 크지 않으니 최악의 상황은 아니라...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/04/l_2022020301000281800021259.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
