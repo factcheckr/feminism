@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 12:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 13:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘아들의 마더’에 관한 서늘한 탄생설화]]></title>
+            <link>https://ildaro.com/9272</link>
+            <guid>https://ildaro.com/9272</guid>
+            <pubDate>Sat, 12 Feb 2022 13:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[괴물의 형상을 지닌 한 여자, 여자의 형상을 지닌 한 괴물. 하늘은 그런 형상들로 가득 차 있지요...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022021205095688.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[피해자 김지은, 김잔디…세상을 고발하고 바꾼 노동자]]></title>
             <link>https://ildaro.com/9271</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 21 Jan 2022 09:22:00 GMT</pubDate>
             <content:encoded><![CDATA[한국의 많은 노인들은 가난을 버티기 위해, 은퇴 후에 재취업을 통해 생계를 이어나가다가, 일터에서 다치고 집에서, 직장에서 홀로 사망하는 인생을 산다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022012130238902.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팬데믹 장기화…떡볶이 노점상은 어떻게 지내나요?]]></title>
-            <link>https://ildaro.com/9252</link>
-            <guid>https://ildaro.com/9252</guid>
-            <pubDate>Wed, 19 Jan 2022 11:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[“코로나19로 인해 영업시간이 짧아진 노점상이 많았음에도, 설문에 참여한 이들의 평균 영업 시간은 하루 7시간에서 12시간이었다”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022011941565742.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
