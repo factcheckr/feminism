@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 02:25:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 03:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['시고르자브종'의 반려견 데뷔 성공시킨 소속사 대표의 큰 그림]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202202141140001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202202141140001</guid>
+            <pubDate>Mon, 14 Feb 2022 03:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[지난 1월 중순 서울 모처에서 데뷔를 앞둔 그룹 ‘제주탠져린즈’의 팬미팅이 있었다. 이토록 뜨거운 스포트라이트를 받은 연습생은 EBS 펭수 이후 처음이다. 멤버들의 현장 사진과 MBTI 등 개인정보는 사회관계망서비스(SNS)를 뜨겁게 달궜고, 마침내 ‘데뷔 꽃길’을 밟는 서울투어 데뷔 1호가 탄생했다. 지난해 11월18일 길거리 캐스팅으로 이들을 발탁해 엄격한 트레이닝을 거쳐 데뷔까지 이끈 귤엔터테인먼트의 구낙현 대표로부터 풀 스토리를 들었다.▼ 황금빛깔 금배, ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/14/l_2022020901000908500081264.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[좀처럼 늘지 않는 아빠 육아휴직, 무엇이 문제일까]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202202111443001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 04 Feb 2022 09:11:16 GMT</pubDate>
             <content:encoded><![CDATA[텔레그램에서 여성 성착취물을 제작·유포하고 범죄집단을 조직한 혐의로 징역 42년을 확정받은 조주빈(27)의 글이 올라오던 블로그는 그의 아버지가 운영하던 것으로 밝혀졌다. 법무부는 앞으로 조주빈의 편지를 검열하기로 했다.법무부는 4일 보도자료를 통해 “해당 블로그는 조주빈의 부친이 운영 중이며, 조주빈이 작성한 편지와 재판 관계 서류 등을 우편으로 받아 블로그에 게시한 것으로 확인됐다”고 밝혔다. 서울구치소는 이날 수형자의 교화나 건전한 사회 복귀를 해칠 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/04/l_2022020401000405700032691.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요조 “다방면의 능력자 돼야 한다는 강박에 저항하고 싶다”]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202202031017011</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202202031017011</guid>
-            <pubDate>Thu, 03 Feb 2022 01:52:19 GMT</pubDate>
-            <content:encoded><![CDATA[차가운 도시에 어둠이 내리기 시작할 무렵, 서울 홍대 앞 길모퉁이의 오두막 같은 그곳에선 따스한 기운의 노란 불빛이 은은하게 내비치고 있었다. 모퉁이를 돌아 민트색 격자무늬 유리문을 열고 마주한 7~8평 정도의 아담한 공간은 서점이라기보다 예쁜 편집숍처럼 보였다. 음반과 LP가 진열된 벽면 아래 턴테이블에선 독일 밴드 콰드로 누에보의 보사노바 재즈곡 ‘MARE(바다)’가 흘러나왔다. 크고 작은 탁상시계들과 구형 TV 등 엔틱한 소품들도 아날로그 감성을 자극했...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/03/l_2022012701003499300304881.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
