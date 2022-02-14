@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 05:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 06:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[낡은 언어를, 세상을 바꾸는 원주여고 학생들을 응원한다 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202202141417011</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202202141417011</guid>
+            <pubDate>Mon, 14 Feb 2022 06:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[얼마 전 원주여고의 신문 동아리 학생에게 연락이 왔다. 교훈을 개정하고픈데 동문들의 반대로 이루지 못하고 있다며 나를 인터뷰하고 싶다는 것이었다. 나는 &lt;훈의 시대&gt;라는 책을 쓰면서 공립고등학교의 교훈과 교가를 전수조사했고 ‘훈’이라는 언어가 얼마나 낡고 보수적인 형태로 그 구성원들에게 모멸감을 주고 있는가를 살폈다. 남학교의 ‘충성, 용기, 의리’, 여학교의 ‘순결, 고결, 정숙’과 같은 언어들. 산업화와 군부독재 시기에 만들어진 50년이 넘은 그 ...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/14/l_2022021401001493400134081.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['시고르자브종'의 반려견 데뷔 성공시킨 소속사 대표의 큰 그림 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202202141140001</link>
@@ -80,14 +88,6 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/08/l_2022020701000738000065231.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[악플과 중계식 보도 ‘가학의 악순환’ (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202202071533001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202202071533001</guid>
-            <pubDate>Mon, 07 Feb 2022 07:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 2월과 2019년 10월, 무엇이 달라졌을까요. 3년 전 가수 겸 배우 설리, 최근 배구선수 김인혁씨와 BJ잼미사건의 사망 사건을 취재한 이유진 기자는 “혐오 장사는 언론과 포털에서 유튜브와 커뮤니티로 옮겨갔을 뿐 혐오로 버는 돈은 더 많아졌고, 이에 가담하는 사람들은 정의감에 차있다”고 말합니다. 플랫팀이 설리 사망 당시 1년치 기사 키워드를 분석한 2019년 기사를 다시 소개합니다▼ ‘설리 기사’ 1년치 분석해보니  ▲ 가수 겸 배우 설리(25·본명 최진리...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/07/l_2022020701000618900053841.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
@@ -110,6 +110,14 @@
             <pubDate>Mon, 17 Jan 2022 10:24:00 GMT</pubDate>
             <content:encoded><![CDATA[2022. 01. 17]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[낡은 언어를, 세상을 바꾸는 원주여고 학생들을 응원한다 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202202141417011</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202202141417011</guid>
+            <pubDate>Mon, 14 Feb 2022 06:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[얼마 전 원주여고의 신문 동아리 학생에게 연락이 왔다. 교훈을 개정하고픈데 동문들의 반대로 이루지 못하고 있다며 나를 인터뷰하고 싶다는 것이었다. 나는 &lt;훈의 시대&gt;라는 책을 쓰면서 공립고등학교의 교훈과 교가를 전수조사했고 ‘훈’이라는 언어가 얼마나 낡고 보수적인 형태로 그 구성원들에게 모멸감을 주고 있는가를 살폈다. 남학교의 ‘충성, 용기, 의리’, 여학교의 ‘순결, 고결, 정숙’과 같은 언어들. 산업화와 군부독재 시기에 만들어진 50년이 넘은 그 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/14/l_2022021401001493400134081.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['시고르자브종'의 반려견 데뷔 성공시킨 소속사 대표의 큰 그림 (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -182,14 +190,6 @@
             <pubDate>Mon, 07 Feb 2022 02:25:38 GMT</pubDate>
             <content:encoded><![CDATA[지난 주말 프로 배구선수 김인혁씨(27)와 1인 방송 진행자 BJ잼미(27·본명 조장미)의 사망 소식이 잇따라 전해졌다. 이들이 평소 악성 댓글과 루머에 시달리며 피해를 호소해왔던 만큼 ‘온라인 괴롭힘’ 문제를 이대로 둬서는 안된다는 비판과 성찰의 목소리도 쏟아져 나오고 있다. 특히 괴롭힘을 확대 재생산해 온 이른바 ‘사이버 렉카(남의 사건·사고로 주목을 끄는 자)’들을 방치해 사태를 키운 주범으로 지목되는 ‘유튜브’에 대해 비판이 집중되고 있다.경찰과 유족에 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/07/l_2022020701000573700049581.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['조주빈 블로그' 운영자는 아버지였다 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202202041805001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202202041805001</guid>
-            <pubDate>Fri, 04 Feb 2022 09:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[텔레그램에서 여성 성착취물을 제작·유포하고 범죄집단을 조직한 혐의로 징역 42년을 확정받은 조주빈(27)의 글이 올라오던 블로그는 그의 아버지가 운영하던 것으로 밝혀졌다. 법무부는 앞으로 조주빈의 편지를 검열하기로 했다.법무부는 4일 보도자료를 통해 “해당 블로그는 조주빈의 부친이 운영 중이며, 조주빈이 작성한 편지와 재판 관계 서류 등을 우편으로 받아 블로그에 게시한 것으로 확인됐다”고 밝혔다. 서울구치소는 이날 수형자의 교화나 건전한 사회 복귀를 해칠 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/04/l_2022020401000405700032691.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['사이버 렉카'에 끌려 다니는 한국 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
