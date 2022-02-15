@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 08:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 09:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["일회용 컵처럼 쓰고 버려지는" 어린 선수들, 그 뒤에 숨은 어른들의 책임]]></title>
+            <link>https://www.khan.co.kr/sports/olympic-asian_games/article/202202151341001</link>
+            <guid>https://www.khan.co.kr/sports/olympic-asian_games/article/202202151341001</guid>
+            <pubDate>Tue, 15 Feb 2022 09:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[러시아올림픽위원회(ROC)의 피겨스케이팅 신동 카밀라 발리예바(16)의 도핑 논란으로 러시아가 전 세계의 비판을 면치 못하게 됐다. 2014년 소치 동계올림픽 당시 정부 차원에서 주도한 도핑 문제가 발각된 후 8년 만에 유사한 문제가 다시 불거졌기 때문이다. 특히 미성년자인 발리예바가 이런 상황에 내몰릴 때까지 손을 놓고 있던 코치나 의료진 등에게 책임을 물어야 한다는 여론이 커지고 있다.육상 선수 출신인 도리앤 콜먼 듀크대 로스쿨 교수는 “이 상황 자체가 아...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/15/l_2022021401001515400136291.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[천 개의 폐경기, 천 개의 이야기]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202202151012011</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 08 Feb 2022 02:28:21 GMT</pubDate>
             <content:encoded><![CDATA[#비 오는 날 저녁 한 건물 옥상에 학생들이 모여있다. 손명환(오희준), 윤귀남(유인수)을 비롯한 무리는 “제발 그만”이라고 말하는 이진수(이민구)를 무차별 폭행한다. 진수는 무리에게 일방적으로 맞고 차이고 밟히다 마지막으로 악을 쓰며 달려들지만 결국 옥상에서 추락한다. 카메라는 이 장면을 상하좌우로 비추고, 접사와 와이드샷을 넘나들며 다양한 각도로 촬영한다. 일방적인 폭행 장면을 마치 하나의 액션신처럼 화려하게 다뤘다.#명환 무리는 신축공사 중인 학교 건물 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/08/l_2022020701000738000065231.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[악플과 중계식 보도 ‘가학의 악순환’]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202202071533001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202202071533001</guid>
-            <pubDate>Mon, 07 Feb 2022 08:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 2월과 2019년 10월, 무엇이 달라졌을까요. 3년 전 가수 겸 배우 설리, 최근 배구선수 김인혁씨와 BJ잼미사건의 사망 사건을 취재한 이유진 기자는 “혐오 장사는 언론과 포털에서 유튜브와 커뮤니티로 옮겨갔을 뿐 혐오로 버는 돈은 더 많아졌고, 이에 가담하는 사람들은 정의감에 차있다”고 말합니다. 플랫팀이 설리 사망 당시 1년치 기사 키워드를 분석한 2019년 기사를 다시 소개합니다▼ ‘설리 기사’ 1년치 분석해보니  ▲ 가수 겸 배우 설리(25·본명 최진리...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/07/l_2022020701000618900053841.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
