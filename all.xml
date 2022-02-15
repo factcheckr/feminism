@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 00:48:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 02:07:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[천 개의 폐경기, 천 개의 이야기 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202202151012011</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202202151012011</guid>
+            <pubDate>Tue, 15 Feb 2022 02:05:22 GMT</pubDate>
+            <content:encoded><![CDATA[몇 년 전 복고열풍을 불러왔던 화제의 드라마 한 장면. 갱년기를 겪고 있던 주인공의 엄마는 매사에 짜증이 나고 우울하다. 그러다가 남편에게 하는 말, “나, 사형선고 받았다. 하느님이 내보고 여자로 그만 살란다. 당신, 이제 내캉 의리로 살아야 하는디 괘않겠나?” 시대착오적으로 보이지만 1990년대 중반까지도 폐경기는 여성성 상실, 여자로서 끝이라는 식의 통념이 지배적이었다. 이제 그런 낙후된 이야기를 하는 경우는 드물다. “얼굴이 붉어지길래 부끄러우냐고” ...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/15/l_2022021401001516300136361.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[낡은 언어를, 세상을 바꾸는 원주여고 학생들을 응원한다 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202202141417011</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 08 Feb 2022 05:12:02 GMT</pubDate>
             <content:encoded><![CDATA[그래서 여성가족부를 어떻게 하겠다는 건가. 윤석열 국민의힘 대선 후보가 지난달 7일 페이스북에 “여성가족부 폐지” 일곱 글자를 올리며 젠더 이슈를 핫 이슈로 끌어올린 지 한 달이 되어간다. 암호에 가까운 일곱 글자, 공약이라고 하기에도 민망하다. 한 달이 되도록 진지한 후속 논의나 설명은 없다. 원희룡 국민의힘 선대본부 정책본부장은 최근 “일단 해체부터 하고 어떻게 할 것인지 새롭게 접근해야 한다”(1월25일 세계일보 인터뷰)고 밝혔다. 무책임하다. 나머지...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/08/l_2022020401000401600032462.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[학폭 현실 다뤘다는 'K좀비 스펙터클'이 불편한 이유 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202202081123001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202202081123001</guid>
-            <pubDate>Tue, 08 Feb 2022 02:27:37 GMT</pubDate>
-            <content:encoded><![CDATA[#비 오는 날 저녁 한 건물 옥상에 학생들이 모여있다. 손명환(오희준), 윤귀남(유인수)을 비롯한 무리는 “제발 그만”이라고 말하는 이진수(이민구)를 무차별 폭행한다. 진수는 무리에게 일방적으로 맞고 차이고 밟히다 마지막으로 악을 쓰며 달려들지만 결국 옥상에서 추락한다. 카메라는 이 장면을 상하좌우로 비추고, 접사와 와이드샷을 넘나들며 다양한 각도로 촬영한다. 일방적인 폭행 장면을 마치 하나의 액션신처럼 화려하게 다뤘다.#명환 무리는 신축공사 중인 학교 건물 ...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/08/l_2022020701000738000065231.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
