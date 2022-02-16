@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 22:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 23:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,6 +192,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/08/l_2022020701000738000065231.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한 번도 경험해 보지 못한 '여캐' (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/685</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/685</guid>
+            <pubDate>Wed, 16 Feb 2022 23:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 조금 다른 관점의 뉴스레터를 준비했어요. 대선이 한 달도 채 남지 않은 상황에서, 정치 경제 등 다뤄야 하는 묵직한 주제가 산적해 있지만, 일상의 중요한 축인 문화 영역도 소홀해서는 안 된다는 생각이 들었어요. 특히 요즘 많은 사회 현상이, 여성들을 전면에 내세운 TV 프로그램 등으로 인해 견인된다는 점을 생각하면 말이에요. '더 이상 납작하게 그려지지 않는 화면 속 여성 캐릭터'라는 주제로 오늘 뉴스레터를 준비했어요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/0b23a280-88a0-4376-aad5-6b904241773b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['사이버 렉카'에 끌려 다니는 한국 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/676</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/676</guid>
@@ -262,14 +270,6 @@
             <pubDate>Fri, 07 Jan 2022 19:18:39 GMT</pubDate>
             <content:encoded><![CDATA['성별에 의해 차별받지 않는 성평등 민주주의 구현' '모든 영역에서 실질적인 성평등 대책 수립' '혐오와 폭력으로부터 여성이 안전한 사회' 등 당시 민주당 서약서에 등장했던 문구들은 이번 대선에서 중요하게 다뤄지고 있을까요? 기대와 달리 현재까지는 성평등 원칙이 무너진 장면을 더 많이 보고 있는 것 같습니다. 거대 양당의 대선 주자가 페미니즘을 공격하는 남초 커뮤니티의 글을 공유하는가 하면, 성범죄 무고죄를 강화하겠다는 공약을 내걸고 있기 때문이죠. 이제 대선까지 100일도 채 남지 않았습니다. 이번 주 허스토리는 지금까지 대선 경선 및 정치권에서 일어난 일들을 젠더 관점에서 톺아봅니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/b18ddf58-0153-4667-bf6b-a7da1c649000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지난 일주일을 리뷰해봤다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/564</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/564</guid>
-            <pubDate>Fri, 07 Jan 2022 19:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[지난달 25일부터 어제(1일)까지는 '세계 여성 폭력 추방 주간'이었습니다. 특별한 주간을 가진다고 해서, 8년 사이 8.2배 증가한 가정폭력의 증가세가, 남성이 94.1%를 차지하는 불법촬영 범죄 가해 비율이, 한해 1만 건에 가까운 데이트 폭력 건수가 줄거나 멈추는 것은 아닐 것입니다. 하지만 적어도 이 기간만큼은 '젠더 폭력' 희생자를 애도하고, 사회가 나아가야 할 길을 고민하는 계기가 되어야 할 것입니다. 지난 1주일 '세계 여성 폭력 추방 주간' 한국에서 일어난 일을 리뷰합니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/888f2a23-b30e-4d30-bf8b-b711c673a0c7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공정 담론을 넘어서는 페미니즘 교육을 모색하기 (일다 ─ 전체기사)]]></title>
