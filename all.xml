@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 23:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 00:49:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/b18ddf58-0153-4667-bf6b-a7da1c649000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[인생이 뒤집힌 것 같을 때 새로운 세계가 열린 건지도 몰라 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9276</link>
+            <guid>https://ildaro.com/9276</guid>
+            <pubDate>Fri, 18 Feb 2022 08:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[올가는 신문이나 잡지, 복권을 파는 가판대, 키오스크를 지키며 산다. 친절하고 일에 능숙한 올가는 단골손님들 취향도 다 꿰고 있다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022021810528058.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[공정 담론을 넘어서는 페미니즘 교육을 모색하기 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9275</link>
             <guid>https://ildaro.com/9275</guid>
@@ -422,14 +430,6 @@
             <pubDate>Wed, 26 Jan 2022 09:34:00 GMT</pubDate>
             <content:encoded><![CDATA[용역제공계약서를 쓴 적이 있는데, ‘다른 업무를 수행할 수 없다’는 조항이 있었어요. ‘우리는 프리랜서가 아니구나’. 오라면 오고 가라면 가는데 프리할 수 있나...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022012654097710.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[느슨해도 좋으니까 ‘안전한 마을’을 만들어가자 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9256</link>
-            <guid>https://ildaro.com/9256</guid>
-            <pubDate>Mon, 24 Jan 2022 11:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[머시기마을이 진짜 마을이 된다면, 거점의 공간과 거점으로 삼을 수 있는 철학이 생긴다면, 어떤 일이 벌어질까?...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022012448455060.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
