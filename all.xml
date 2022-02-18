@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 04:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 05:12:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몇 글자 밈이 되어 대선 판을 떠도는 혐오 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/politics/politics-general/article/202202181352001</link>
+            <guid>https://www.khan.co.kr/politics/politics-general/article/202202181352001</guid>
+            <pubDate>Fri, 18 Feb 2022 05:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[“주변에 지나가는 20대 남자들이 그냥 신고 처리하고 있었을 뿐인 저를 보고 ‘오또케’ ‘오또케’ 이러더라.” 추지현 서울대 사회학과 교수가 경찰청 의뢰로 시행한 ‘남녀 경찰관 초점집단 면접조사(FGI)’에서 일선 경찰관이 호소한 내용이다. 지난해 11월 ‘경찰 성평등 문화 조성을 위한 젠더 의제 토론회’에서 추 교수는 ‘여경 혐오 담론’이 여성은 물론 남성 경찰관들까지 직무 몰입이나 헌신도를 떨어뜨려 경찰행정서비스의 질 저하를 초래하고 있다고 지적했다....]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/18/l_2022021701002016600182042.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“부적절하지만 2차가해는 아냐" 죽음의 행렬 이어지는데 군은 바뀔 생각이 없다 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202202171419001</link>
@@ -80,14 +88,6 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/11/l_2022020701000596800052121.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뿌리를 찾고 싶은 이방인의 고민… '디즈니 주인공' 심청을 만들다 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202202101456001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202202101456001</guid>
-            <pubDate>Thu, 10 Feb 2022 06:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[“All of the fish in the sea can‘t stop me/ All of the waves in the world can’t rock me/ I’m on a mission and gee, just watch me/ Go! Dive, all that’s left is the dive(바다 물고기들도 나를 막을 수 없어/ 세상의 모든 파도도 날 흔들지 못 해/ 나에겐 임무가 있어. 지켜봐줘/ 가! 이제 남은 건 다이빙이야!)전래동화 &lt;심청전&gt;이 디즈니 애니메이션이 된다면 이런 느낌일까? 심청이 아버지를 위해 공양미 삼백석에 바다의 제물이 되어...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/10/l_2022021001001110500099651.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
@@ -110,6 +110,14 @@
             <pubDate>Mon, 17 Jan 2022 10:24:00 GMT</pubDate>
             <content:encoded><![CDATA[2022. 01. 17]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[몇 글자 밈이 되어 대선 판을 떠도는 혐오 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/politics/politics-general/article/202202181352001</link>
+            <guid>https://www.khan.co.kr/politics/politics-general/article/202202181352001</guid>
+            <pubDate>Fri, 18 Feb 2022 05:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[“주변에 지나가는 20대 남자들이 그냥 신고 처리하고 있었을 뿐인 저를 보고 ‘오또케’ ‘오또케’ 이러더라.” 추지현 서울대 사회학과 교수가 경찰청 의뢰로 시행한 ‘남녀 경찰관 초점집단 면접조사(FGI)’에서 일선 경찰관이 호소한 내용이다. 지난해 11월 ‘경찰 성평등 문화 조성을 위한 젠더 의제 토론회’에서 추 교수는 ‘여경 혐오 담론’이 여성은 물론 남성 경찰관들까지 직무 몰입이나 헌신도를 떨어뜨려 경찰행정서비스의 질 저하를 초래하고 있다고 지적했다....]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/18/l_2022021701002016600182042.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“부적절하지만 2차가해는 아냐" 죽음의 행렬 이어지는데 군은 바뀔 생각이 없다 (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -182,14 +190,6 @@
             <pubDate>Thu, 10 Feb 2022 06:15:10 GMT</pubDate>
             <content:encoded><![CDATA[“All of the fish in the sea can‘t stop me/ All of the waves in the world can’t rock me/ I’m on a mission and gee, just watch me/ Go! Dive, all that’s left is the dive(바다 물고기들도 나를 막을 수 없어/ 세상의 모든 파도도 날 흔들지 못 해/ 나에겐 임무가 있어. 지켜봐줘/ 가! 이제 남은 건 다이빙이야!)전래동화 &lt;심청전&gt;이 디즈니 애니메이션이 된다면 이런 느낌일까? 심청이 아버지를 위해 공양미 삼백석에 바다의 제물이 되어...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/10/l_2022021001001110500099651.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["우리는 이대남이 아니란 말입니까" (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202202101025001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202202101025001</guid>
-            <pubDate>Thu, 10 Feb 2022 02:25:07 GMT</pubDate>
-            <content:encoded><![CDATA[이번 대선의 가장 ‘논쟁적’ 세대는 ‘이대남(20대 남성)’이다. 보수적이고, 페미니즘을 반대하며, 주식·가상통화 투자에 열중하는 세대. 정치적으로 소비되는 이대남의 이미지는 대략 이렇다. 이대남의 실체가 정말 그럴까.‘그렇지 않다’고 말하는 이대남이 있다. ‘행동하는 보통 남자들’ 소속 청년들이 그들이다. 이들은 9일 서울 광화문 세종문화회관 앞에서 ‘우리는 이대남이 아니란 말입니까’라는 제목의 기자회견을 연다. ‘이대남이란 무엇인가’를 되묻는 자리이다. 이...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/10/l_2022020901000909400081302.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한 번도 경험해 보지 못한 '여캐' (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
