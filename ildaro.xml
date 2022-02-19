@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 08:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 09:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘기지촌엔 도깨비가 산다’ 어떤 죽음들의 이야기]]></title>
+            <link>https://ildaro.com/9277</link>
+            <guid>https://ildaro.com/9277</guid>
+            <pubDate>Sat, 19 Feb 2022 09:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[사실 임신한 나무와 도깨비는 인순 언니가 반복적으로 그려온 것들의 짬뽕이에요. 인순 언니 그림을 보면, 뭐든 임신을 시켜버리거든요. 새든 나무든 뭐든....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022021941336235.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인생이 뒤집힌 것 같을 때 새로운 세계가 열린 건지도 몰라]]></title>
             <link>https://ildaro.com/9276</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 27 Jan 2022 09:13:51 GMT</pubDate>
             <content:encoded><![CDATA[1년 전에 비해 카트만두 외곽 땅값은 거의 6배 이상 올랐다고 한다. 가난한 사람들에게 집값 상승은 임대료 상승을 의미한다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022012735413001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법이 모른 척해도, 나는 노동자입니다]]></title>
-            <link>https://ildaro.com/9257</link>
-            <guid>https://ildaro.com/9257</guid>
-            <pubDate>Wed, 26 Jan 2022 09:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[용역제공계약서를 쓴 적이 있는데, ‘다른 업무를 수행할 수 없다’는 조항이 있었어요. ‘우리는 프리랜서가 아니구나’. 오라면 오고 가라면 가는데 프리할 수 있나...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022012654097710.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
