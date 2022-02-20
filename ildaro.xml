@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 06:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 07:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Letter to Koreans Regarding Life as a Foreign Woman in South Korea]]></title>
+            <link>https://ildaro.com/9278</link>
+            <guid>https://ildaro.com/9278</guid>
+            <pubDate>Sun, 20 Feb 2022 07:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[I could tell you I went to Korea to find my “roots.” I could tell you I wanted to learn Korean so I could come back to the US and work on behalf of the Korean American community as an organizer....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022022010288975.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘기지촌엔 도깨비가 산다’ 어떤 죽음들의 이야기]]></title>
             <link>https://ildaro.com/9277</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 28 Jan 2022 12:19:29 GMT</pubDate>
             <content:encoded><![CDATA[It was a process to find an answer to the question, ‘How does a raped woman live in a society that makes it taboo to speak about sexual violence?’...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022012855191973.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펜데믹 시대, 가난한 나라의 여성과 아이들이 처한 위기]]></title>
-            <link>https://ildaro.com/9258</link>
-            <guid>https://ildaro.com/9258</guid>
-            <pubDate>Thu, 27 Jan 2022 09:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[1년 전에 비해 카트만두 외곽 땅값은 거의 6배 이상 올랐다고 한다. 가난한 사람들에게 집값 상승은 임대료 상승을 의미한다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022012735413001.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
