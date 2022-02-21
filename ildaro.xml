@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 04:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 05:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누군가를 희생양으로 삼는 경제 시스템을 멈춰야 한다]]></title>
+            <link>https://ildaro.com/9279</link>
+            <guid>https://ildaro.com/9279</guid>
+            <pubDate>Mon, 21 Feb 2022 05:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[누군가를 희생양으로 삼아 이익을 극대화하려는 정치와 경제(기업)의 모습이나, 하드웨어에는 돈을 들이지만 사람의 노동에는 돈을 지불하지 않는 시스템 말이에요...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022022148509945.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Letter to Koreans Regarding Life as a Foreign Woman in South Korea]]></title>
             <link>https://ildaro.com/9278</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 29 Jan 2022 10:52:00 GMT</pubDate>
             <content:encoded><![CDATA[“이번 사건과 관련이 없는 여성의원에게까지 비난의 목소리가 쏟아지고 있어, 여성들의 발언과 활동이 위축될까봐 가장 걱정이다”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022012956181930.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Greetings from the Childhood Sexual Violence Survivor: “I Report That I Am Alive”]]></title>
-            <link>https://ildaro.com/9259</link>
-            <guid>https://ildaro.com/9259</guid>
-            <pubDate>Fri, 28 Jan 2022 12:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[It was a process to find an answer to the question, ‘How does a raped woman live in a society that makes it taboo to speak about sexual violence?’...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022012855191973.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

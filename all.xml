@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 04:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 05:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['위안부', 피해자도 투사도 아닌 진짜 내 삶을 쓰다 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202202211358011</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202202211358011</guid>
+            <pubDate>Mon, 21 Feb 2022 05:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[일본군 ‘위안부’는 흔히 소녀 혹은 할머니의 모습으로 그려졌다. 수차례 영화 소재가 됐는데, 처음에는 주로 ‘일본군의 총검 앞에 강제로 끌려간 소녀’로 그려졌다. 몇몇 영화는 여성들의 피해자 면모를 부각시키려 이들이 겪은 폭력을 선정적이거나 노골적으로 표현하기도 했다. 이후 자신이 겪은 일을 세계에 알린, 투사·활동가가 된 여성들의 모습에 초점을 맞춘 영화들도 나오기 시작했다. 이런 시도에도 위안부 문제는 종종 유일한 가해자가 일본인 것처럼, 피해자가...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/21/l_2022021701002076500185971.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[변희수 하사 떠난지 1년, 그의 승소판결이 남긴 것 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202202181843001</link>
@@ -80,14 +88,6 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/14/l_2022020901000908500081264.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[좀처럼 늘지 않는 아빠 육아휴직, 무엇이 문제일까 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202202111443001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202202111443001</guid>
-            <pubDate>Fri, 11 Feb 2022 07:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[“한국은 육아를 하는 아버지들이 최대 1년의 유급 육아휴직을 쓸 수 있어 가장 후한 대접을 받는 나라이다. 그러나 이렇게 넉넉한 유급 육아휴직 기간에도 불구하고 이 제도를 활용하는 한국의 아버지들은 10명 중 1명도 되지 않는다.”지난달 18일 경제협력개발기구(OECD)에서 펴낸 &lt;글로벌 메가트렌드와 미래교육(Trends Shaping Education) 2022&gt; 보고서는 양 극단에 서 있는 한국의 남성 육아휴직 현실을 지목했다. 어린 아이를 키우는 한국의 남성 노동자들에게...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/11/l_2022020701000684600057651.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
@@ -110,6 +110,14 @@
             <pubDate>Mon, 17 Jan 2022 10:24:00 GMT</pubDate>
             <content:encoded><![CDATA[2022. 01. 17]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['위안부', 피해자도 투사도 아닌 진짜 내 삶을 쓰다 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202202211358011</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202202211358011</guid>
+            <pubDate>Mon, 21 Feb 2022 05:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[일본군 ‘위안부’는 흔히 소녀 혹은 할머니의 모습으로 그려졌다. 수차례 영화 소재가 됐는데, 처음에는 주로 ‘일본군의 총검 앞에 강제로 끌려간 소녀’로 그려졌다. 몇몇 영화는 여성들의 피해자 면모를 부각시키려 이들이 겪은 폭력을 선정적이거나 노골적으로 표현하기도 했다. 이후 자신이 겪은 일을 세계에 알린, 투사·활동가가 된 여성들의 모습에 초점을 맞춘 영화들도 나오기 시작했다. 이런 시도에도 위안부 문제는 종종 유일한 가해자가 일본인 것처럼, 피해자가...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/21/l_2022021701002076500185971.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[변희수 하사 떠난지 1년, 그의 승소판결이 남긴 것 (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -182,14 +190,6 @@
             <pubDate>Fri, 11 Feb 2022 07:10:48 GMT</pubDate>
             <content:encoded><![CDATA[“한국은 육아를 하는 아버지들이 최대 1년의 유급 육아휴직을 쓸 수 있어 가장 후한 대접을 받는 나라이다. 그러나 이렇게 넉넉한 유급 육아휴직 기간에도 불구하고 이 제도를 활용하는 한국의 아버지들은 10명 중 1명도 되지 않는다.”지난달 18일 경제협력개발기구(OECD)에서 펴낸 &lt;글로벌 메가트렌드와 미래교육(Trends Shaping Education) 2022&gt; 보고서는 양 극단에 서 있는 한국의 남성 육아휴직 현실을 지목했다. 어린 아이를 키우는 한국의 남성 노동자들에게...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/11/l_2022020701000684600057651.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['보광동 꽃언니'에겐 여전히 생생한 한국전쟁 첫날의 기억 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202202110911001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202202110911001</guid>
-            <pubDate>Fri, 11 Feb 2022 00:45:09 GMT</pubDate>
-            <content:encoded><![CDATA[“지금도 여기 땅을 파면 사람 뼈가 그렇게 나온대요.” 조선시대부터 공동묘지였다던 동네는 어귀부터 낡았다. 서울 이태원에서 걸어서 고작 10분 남짓 거리지만, 분위기는 판이하다. 다닥다닥 붙은 오래된 집들 사이 개미굴 같은 골목이 퍼져있다. 오래 지연된 재개발로 빈 집, 빈 상점만 즐비하다. 곧 한남3구역 뉴타운만 남기고 사라질, 서울 보광동의 풍경이다. 설 연휴를 앞둔 지난 달 28일, 작가 김여정씨(48)와 함께 보광동의 비탈을 부지런히 오르내렸다. “이 동네...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/11/l_2022020701000596800052121.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한 번도 경험해 보지 못한 '여캐' (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
@@ -270,6 +270,14 @@
             <pubDate>Fri, 07 Jan 2022 19:18:39 GMT</pubDate>
             <content:encoded><![CDATA['성별에 의해 차별받지 않는 성평등 민주주의 구현' '모든 영역에서 실질적인 성평등 대책 수립' '혐오와 폭력으로부터 여성이 안전한 사회' 등 당시 민주당 서약서에 등장했던 문구들은 이번 대선에서 중요하게 다뤄지고 있을까요? 기대와 달리 현재까지는 성평등 원칙이 무너진 장면을 더 많이 보고 있는 것 같습니다. 거대 양당의 대선 주자가 페미니즘을 공격하는 남초 커뮤니티의 글을 공유하는가 하면, 성범죄 무고죄를 강화하겠다는 공약을 내걸고 있기 때문이죠. 이제 대선까지 100일도 채 남지 않았습니다. 이번 주 허스토리는 지금까지 대선 경선 및 정치권에서 일어난 일들을 젠더 관점에서 톺아봅니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/b18ddf58-0153-4667-bf6b-a7da1c649000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누군가를 희생양으로 삼는 경제 시스템을 멈춰야 한다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9279</link>
+            <guid>https://ildaro.com/9279</guid>
+            <pubDate>Mon, 21 Feb 2022 05:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[누군가를 희생양으로 삼아 이익을 극대화하려는 정치와 경제(기업)의 모습이나, 하드웨어에는 돈을 들이지만 사람의 노동에는 돈을 지불하지 않는 시스템 말이에요...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022022148509945.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Letter to Koreans Regarding Life as a Foreign Woman in South Korea (일다 ─ 전체기사)]]></title>
@@ -422,14 +430,6 @@
             <pubDate>Sat, 29 Jan 2022 10:52:00 GMT</pubDate>
             <content:encoded><![CDATA[“이번 사건과 관련이 없는 여성의원에게까지 비난의 목소리가 쏟아지고 있어, 여성들의 발언과 활동이 위축될까봐 가장 걱정이다”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022012956181930.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Greetings from the Childhood Sexual Violence Survivor: “I Report That I Am Alive” (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9259</link>
-            <guid>https://ildaro.com/9259</guid>
-            <pubDate>Fri, 28 Jan 2022 12:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[It was a process to find an answer to the question, ‘How does a raped woman live in a society that makes it taboo to speak about sexual violence?’...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022012855191973.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 04:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 05:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['위안부', 피해자도 투사도 아닌 진짜 내 삶을 쓰다]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202202211358011</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202202211358011</guid>
+            <pubDate>Mon, 21 Feb 2022 05:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[일본군 ‘위안부’는 흔히 소녀 혹은 할머니의 모습으로 그려졌다. 수차례 영화 소재가 됐는데, 처음에는 주로 ‘일본군의 총검 앞에 강제로 끌려간 소녀’로 그려졌다. 몇몇 영화는 여성들의 피해자 면모를 부각시키려 이들이 겪은 폭력을 선정적이거나 노골적으로 표현하기도 했다. 이후 자신이 겪은 일을 세계에 알린, 투사·활동가가 된 여성들의 모습에 초점을 맞춘 영화들도 나오기 시작했다. 이런 시도에도 위안부 문제는 종종 유일한 가해자가 일본인 것처럼, 피해자가...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/21/l_2022021701002076500185971.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[변희수 하사 떠난지 1년, 그의 승소판결이 남긴 것]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202202181843001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 14 Feb 2022 03:11:39 GMT</pubDate>
             <content:encoded><![CDATA[지난 1월 중순 서울 모처에서 데뷔를 앞둔 그룹 ‘제주탠져린즈’의 팬미팅이 있었다. 이토록 뜨거운 스포트라이트를 받은 연습생은 EBS 펭수 이후 처음이다. 멤버들의 현장 사진과 MBTI 등 개인정보는 사회관계망서비스(SNS)를 뜨겁게 달궜고, 마침내 ‘데뷔 꽃길’을 밟는 서울투어 데뷔 1호가 탄생했다. 지난해 11월18일 길거리 캐스팅으로 이들을 발탁해 엄격한 트레이닝을 거쳐 데뷔까지 이끈 귤엔터테인먼트의 구낙현 대표로부터 풀 스토리를 들었다.▼ 황금빛깔 금배, ...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/14/l_2022020901000908500081264.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[좀처럼 늘지 않는 아빠 육아휴직, 무엇이 문제일까]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202202111443001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202202111443001</guid>
-            <pubDate>Fri, 11 Feb 2022 07:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[“한국은 육아를 하는 아버지들이 최대 1년의 유급 육아휴직을 쓸 수 있어 가장 후한 대접을 받는 나라이다. 그러나 이렇게 넉넉한 유급 육아휴직 기간에도 불구하고 이 제도를 활용하는 한국의 아버지들은 10명 중 1명도 되지 않는다.”지난달 18일 경제협력개발기구(OECD)에서 펴낸 &lt;글로벌 메가트렌드와 미래교육(Trends Shaping Education) 2022&gt; 보고서는 양 극단에 서 있는 한국의 남성 육아휴직 현실을 지목했다. 어린 아이를 키우는 한국의 남성 노동자들에게...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/11/l_2022020701000684600057651.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
