@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 02:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 03:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서로의 글을 읽고 성장을 지켜보며 용기를 길렀다, 그 방에서 함께]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202202221119001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202202221119001</guid>
+            <pubDate>Tue, 22 Feb 2022 03:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[이길보라의 논픽션과 세계 다큐멘터리 영화를 기획하고 제작하는 워크숍 수업에서였다. 기획 단계였는데 정말이지 잘하고 싶었다. 오랫동안 다루어보고 싶었던 소재를 중심으로 기획안을 썼다. 어떤 피드백을 들을까 긴장되어 괜히 다리를 들썩거렸다. 함께 수업을 듣는 수강생들이 무슨 이야기를 하고 싶은지 알겠지만 잘 와닿지는 않는다며 고개를 갸우뚱댔다. 쉽게 수긍할 수 없었다. 흥미롭고 중요한 이야기인데 어째서 이해할 수 없다는 거지. 누군가는 분명 긍정적인 피드...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/22/l_2022021801002177900196461.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[운명을 믿지 않는 서얼의 눈으로 다시 본 '열녀 이야기']]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202202211803001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 14 Feb 2022 06:14:33 GMT</pubDate>
             <content:encoded><![CDATA[얼마 전 원주여고의 신문 동아리 학생에게 연락이 왔다. 교훈을 개정하고픈데 동문들의 반대로 이루지 못하고 있다며 나를 인터뷰하고 싶다는 것이었다. 나는 &lt;훈의 시대&gt;라는 책을 쓰면서 공립고등학교의 교훈과 교가를 전수조사했고 ‘훈’이라는 언어가 얼마나 낡고 보수적인 형태로 그 구성원들에게 모멸감을 주고 있는가를 살폈다. 남학교의 ‘충성, 용기, 의리’, 여학교의 ‘순결, 고결, 정숙’과 같은 언어들. 산업화와 군부독재 시기에 만들어진 50년이 넘은 그 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/14/l_2022021401001493400134081.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['시고르자브종'의 반려견 데뷔 성공시킨 소속사 대표의 큰 그림]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202202141140001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202202141140001</guid>
-            <pubDate>Mon, 14 Feb 2022 03:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[지난 1월 중순 서울 모처에서 데뷔를 앞둔 그룹 ‘제주탠져린즈’의 팬미팅이 있었다. 이토록 뜨거운 스포트라이트를 받은 연습생은 EBS 펭수 이후 처음이다. 멤버들의 현장 사진과 MBTI 등 개인정보는 사회관계망서비스(SNS)를 뜨겁게 달궜고, 마침내 ‘데뷔 꽃길’을 밟는 서울투어 데뷔 1호가 탄생했다. 지난해 11월18일 길거리 캐스팅으로 이들을 발탁해 엄격한 트레이닝을 거쳐 데뷔까지 이끈 귤엔터테인먼트의 구낙현 대표로부터 풀 스토리를 들었다.▼ 황금빛깔 금배, ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/14/l_2022020901000908500081264.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
