@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 05:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 06:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["정치 전략이 된 반페미니즘은 한국 민주주의에 대한 도전"]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202202221420001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202202221420001</guid>
+            <pubDate>Tue, 22 Feb 2022 06:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[여성가족부 폐지, 성폭력 무고죄 처벌 강화, “구조적 성차별은 없다. 차별은 개인적 문제” 발언, 공약 보도자료에 여성 혐오 단어인 ‘오또케’ 사용…윤석열 국민의힘 대선 후보가 20대 대선 과정에서 젠더 이슈와 관련해 논란을 일으킨 대목들이다. 젠더는 이번 대선의 최대 이슈 중 하나이지만, 성평등 제고가 아니라 젠더간 분열을 조장하고 갈등을 부각시키는 구도로 다뤄지고 있다. 소위 ‘이대남(20대 남성)’이 선거의 주요 공략 표심으로 여겨지면서 페미니즘은 극...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/22/l_2022022101002505300224461.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서로의 글을 읽고 성장을 지켜보며 용기를 길렀다, 그 방에서 함께]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202202221119001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 15 Feb 2022 05:11:15 GMT</pubDate>
             <content:encoded><![CDATA[러시아올림픽위원회(ROC)의 피겨스케이팅 신동 카밀라 발리예바(16)의 도핑 논란으로 러시아가 전 세계의 비판을 면치 못하게 됐다. 2014년 소치 동계올림픽 당시 정부 차원에서 주도한 도핑 문제가 발각된 후 8년 만에 유사한 문제가 다시 불거졌기 때문이다. 특히 미성년자인 발리예바가 이런 상황에 내몰릴 때까지 손을 놓고 있던 코치나 의료진 등에게 책임을 물어야 한다는 여론이 커지고 있다.육상 선수 출신인 도리앤 콜먼 듀크대 로스쿨 교수는 “이 상황 자체가 아...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/15/l_2022021401001515400136291.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천 개의 폐경기, 천 개의 이야기]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202202151012011</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202202151012011</guid>
-            <pubDate>Tue, 15 Feb 2022 02:05:22 GMT</pubDate>
-            <content:encoded><![CDATA[몇 년 전 복고열풍을 불러왔던 화제의 드라마 한 장면. 갱년기를 겪고 있던 주인공의 엄마는 매사에 짜증이 나고 우울하다. 그러다가 남편에게 하는 말, “나, 사형선고 받았다. 하느님이 내보고 여자로 그만 살란다. 당신, 이제 내캉 의리로 살아야 하는디 괘않겠나?” 시대착오적으로 보이지만 1990년대 중반까지도 폐경기는 여성성 상실, 여자로서 끝이라는 식의 통념이 지배적이었다. 이제 그런 낙후된 이야기를 하는 경우는 드물다. “얼굴이 붉어지길래 부끄러우냐고” ...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/15/l_2022021401001516300136361.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
