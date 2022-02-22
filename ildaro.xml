@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 03:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 04:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[순환경제를 통해 노숙인 일자리 창출! ‘밤의 빵집’을 열어요]]></title>
+            <link>https://ildaro.com/9280</link>
+            <guid>https://ildaro.com/9280</guid>
+            <pubDate>Tue, 22 Feb 2022 00:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[밤의 빵집은 사업의 취지에 동의하는 빵집들에서 팔고 남은 빵을 빅이슈 판매자들이 픽업하여 판매하는 구조입니다. 이 활동에 동의하는 이웃들이 손님으로 옵니다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022022242229229.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[누군가를 희생양으로 삼는 경제 시스템을 멈춰야 한다]]></title>
             <link>https://ildaro.com/9279</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 31 Jan 2022 10:55:00 GMT</pubDate>
             <content:encoded><![CDATA[나는 대담한 사람이라고 할 수 있다. 확실히 적극적인 사람이다. 나는 자기 주장을 하지 않는 유색인종 여성이 성공하거나 생존하는 걸 본 적이 없다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022013106092269.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공공기관이 여성을 눈요깃감으로 만들고 있지 않습니까?]]></title>
-            <link>https://ildaro.com/9260</link>
-            <guid>https://ildaro.com/9260</guid>
-            <pubDate>Sat, 29 Jan 2022 10:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[“이번 사건과 관련이 없는 여성의원에게까지 비난의 목소리가 쏟아지고 있어, 여성들의 발언과 활동이 위축될까봐 가장 걱정이다”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202201/2022012956181930.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
