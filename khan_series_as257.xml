@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 06:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 07:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한진중공업 마지막 해고노동자 김진숙, 37년 만에 공장으로]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202202231554011</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202202231554011</guid>
+            <pubDate>Wed, 23 Feb 2022 07:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[박창수, 김주익, 곽재규, 최강서. 죽은 동료들이 가장 많이 생각이 났어요. 복직을 하면 먼저 하고 싶었던 게 이들이 일한 공장을 가보고 싶었거든요." 한진중공업의 마지막 해고자인 김진숙 민주노총 부산본부 지도위원(62)이 23일 기자와 통화에서 해고 37년 만에 복직한 소회를 이렇게 말했다.김 지도위원은 복직투쟁을 하면서 늘 4명의 동지들 이름을 언급했다. 한진중공업에서 의문사로, 노조탄압 등에 맞서다 스스로 목숨을 끊은 이들이다. 김 지도위원은 “노동자 탄압으...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/23/l_2022022301002792600251871.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인류 최초로 '구조적 성차별을 철폐한' 나라?]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202202231331001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 17 Feb 2022 08:14:12 GMT</pubDate>
             <content:encoded><![CDATA[군이 성추행 피해 여군을 ‘헤롱이’라 부르고 “(네가) 죽으면 내 밥줄도 끊긴다”고 말한 성고충상담관의 발언에 대해 ‘부적절하지만 2차 가해는 아니다’라는 판단을 내놨다. 수차례 성폭력 사건 사고를 겪고도 군의 성인지 감수성이 여전히 과거에 머물러 있다는 지적이 나온다.10일 경향신문 취재 결과 최근 국방부 소속 ‘성희롱 및 2차 피해 고충심의위원회’는 성고충상담관 A씨의 언행에 대해 “2차 가해에 해당하지 않으나 상담 과정 간 사용한 언어들이 부적절함...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/17/l_2022021401001514800136231.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['훌훌' 털어버리고 싶은 관계가 구원이 될때]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202202171129001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202202171129001</guid>
-            <pubDate>Thu, 17 Feb 2022 08:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[알아서 제 살길 찾기 바쁜 세상, 관계는 때로 짐처럼 여겨진다. 가족처럼 긴밀한 사이일수록 더 그렇다. 가까운 이의 슬픔과 고통이 내 것과 타래처럼 얽힐 때, 연을 싹둑 끊어버리고 자유로워지고 싶을 때가 있다. 최근 ‘손절’이란 단어가 ‘관계의 단절’이란 의미로 자주 사용되는 것을 보면, 그러한 욕망은 이미 시대적 경향이 된 것만 같다. 문경민 작가의 청소년 소설 &lt;훌훌&gt;은 손절 대신 도리어 연을 만들고 더하는 이야기다. 훌훌 털어버리고 싶었던 관...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/17/l_2022021401001514100136171.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
