@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 05:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 06:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인류 최초로 '구조적 성차별을 철폐한' 나라?]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202202231331001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202202231331001</guid>
+            <pubDate>Wed, 23 Feb 2022 06:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[대선에서 차별금지법이 쟁점이 된 것은 다행이다. 어쨌거나 유력 후보들은 자신의 입장을 밝혔다. 입법을 적극적으로 지지하는 후보, 입법은 필요하나 사회적 합의를 거쳐야 한다는 후보, 반대하는 후보가 있다. 누구에게 표를 던질 것인지, 판단기준이 하나 생겼다. 그런데 차별금지법이 전부는 아니다. 차별에 대해 어떤 현실 인식과 어떤 비전을 가지고 있는지 또한 중요한 문제다.윤석열 후보는 “더 이상 구조적인 성차별은 없다”고 했다. 다음날에는 “구조적 남녀 차별...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/23/l_2022022201002560500231191.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[40년을 일해도 유령 취급을 받는 '미싱타는 여자들']]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202202231102001</link>
@@ -44,7 +52,7 @@
             <link>https://www.khan.co.kr/culture/culture-general/article/202202211358011</link>
             <guid>https://www.khan.co.kr/culture/culture-general/article/202202211358011</guid>
             <pubDate>Mon, 21 Feb 2022 05:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[일본군 ‘위안부’는 흔히 소녀 혹은 할머니의 모습으로 그려졌다. 수차례 영화 소재가 됐는데, 처음에는 주로 ‘일본군의 총검 앞에 강제로 끌려간 소녀’로 그려졌다. 몇몇 영화는 여성들의 피해자 면모를 부각시키려 이들이 겪은 폭력을 선정적이거나 노골적으로 표현하기도 했다. 이후 자신이 겪은 일을 세계에 알린, 투사·활동가가 된 여성들의 모습에 초점을 맞춘 영화들도 나오기 시작했다. 이런 시도에도 위안부 문제는 종종 유일한 가해자가 일본인 것처럼, 피해자가...]]></content:encoded>
+            <content:encoded><![CDATA[플랫팀이 새로운 시선과 시도로 완성된 콘텐츠를 ‘플랫pick’으로 추천합니다. 여성의 시각으로 세상을 담은 영상과 서적 등을 소개합니다. 이번 ‘pick’은 국가 성폭력 피해자들의 경험을 당사자의 목소리로 기록한 두 편의 영화 와 입니다. 일본군 ‘위안부’는 흔히 소녀 혹은 할머니의 모습으로 그려졌다. 수차례 영화 소재가 됐는데, 처음에는 주로 ‘일본군의 총검 앞에 강제로 끌려간 소녀’로 그려졌다. 몇몇 영화는 여성들의 피해자 면모를 부각시키려 이들이 겪은 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/21/l_2022021701002076500185971.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 17 Feb 2022 08:14:12 GMT</pubDate>
             <content:encoded><![CDATA[알아서 제 살길 찾기 바쁜 세상, 관계는 때로 짐처럼 여겨진다. 가족처럼 긴밀한 사이일수록 더 그렇다. 가까운 이의 슬픔과 고통이 내 것과 타래처럼 얽힐 때, 연을 싹둑 끊어버리고 자유로워지고 싶을 때가 있다. 최근 ‘손절’이란 단어가 ‘관계의 단절’이란 의미로 자주 사용되는 것을 보면, 그러한 욕망은 이미 시대적 경향이 된 것만 같다. 문경민 작가의 청소년 소설 &lt;훌훌&gt;은 손절 대신 도리어 연을 만들고 더하는 이야기다. 훌훌 털어버리고 싶었던 관...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/17/l_2022021401001514100136171.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["일회용 컵처럼 쓰고 버려지는" 어린 선수들, 그 뒤에 숨은 어른들의 책임]]></title>
-            <link>https://www.khan.co.kr/sports/olympic-asian_games/article/202202151341001</link>
-            <guid>https://www.khan.co.kr/sports/olympic-asian_games/article/202202151341001</guid>
-            <pubDate>Tue, 15 Feb 2022 09:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[러시아올림픽위원회(ROC)의 피겨스케이팅 신동 카밀라 발리예바(16)의 도핑 논란으로 러시아가 전 세계의 비판을 면치 못하게 됐다. 2014년 소치 동계올림픽 당시 정부 차원에서 주도한 도핑 문제가 발각된 후 8년 만에 유사한 문제가 다시 불거졌기 때문이다. 특히 미성년자인 발리예바가 이런 상황에 내몰릴 때까지 손을 놓고 있던 코치나 의료진 등에게 책임을 물어야 한다는 여론이 커지고 있다.육상 선수 출신인 도리앤 콜먼 듀크대 로스쿨 교수는 “이 상황 자체가 아...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/15/l_2022021401001515400136291.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
