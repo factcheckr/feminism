@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 04:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 05:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인류 최초로 '구조적 성차별을 철폐한' 나라?]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202202231331001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202202231331001</guid>
+            <pubDate>Wed, 23 Feb 2022 05:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[대선에서 차별금지법이 쟁점이 된 것은 다행이다. 어쨌거나 유력 후보들은 자신의 입장을 밝혔다. 입법을 적극적으로 지지하는 후보, 입법은 필요하나 사회적 합의를 거쳐야 한다는 후보, 반대하는 후보가 있다. 누구에게 표를 던질 것인지, 판단기준이 하나 생겼다. 그런데 차별금지법이 전부는 아니다. 차별에 대해 어떤 현실 인식과 어떤 비전을 가지고 있는지 또한 중요한 문제다.윤석열 후보는 “더 이상 구조적인 성차별은 없다”고 했다. 다음날에는 “구조적 남녀 차별...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/23/l_2022022201002560500231191.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[40년을 일해도 유령 취급을 받는 '미싱타는 여자들']]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202202231102001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 17 Feb 2022 03:12:36 GMT</pubDate>
             <content:encoded><![CDATA[알아서 제 살길 찾기 바쁜 세상, 관계는 때로 짐처럼 여겨진다. 가족처럼 긴밀한 사이일수록 더 그렇다. 가까운 이의 슬픔과 고통이 내 것과 타래처럼 얽힐 때, 연을 싹둑 끊어버리고 자유로워지고 싶을 때가 있다. 최근 ‘손절’이란 단어가 ‘관계의 단절’이란 의미로 자주 사용되는 것을 보면, 그러한 욕망은 이미 시대적 경향이 된 것만 같다. 문경민 작가의 청소년 소설 &lt;훌훌&gt;은 손절 대신 도리어 연을 만들고 더하는 이야기다. 훌훌 털어버리고 싶었던 관...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/17/l_2022021401001514100136171.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[춘자, 광월, 계화씨···산·들·바다에서 일하고 울고 위로받았다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202202161134001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202202161134001</guid>
-            <pubDate>Wed, 16 Feb 2022 03:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[전라남도 진도군 수역리의 주종목은 대파와 배추다. 두 달 전 심은 대파가 김춘자씨(73)의 허리 높이까지 자랐다. 바람이 불 때마다 초록색 대파밭이 너울거렸다. 춘자씨의 대파밭은 1000평 남짓이다. 동네에서는 소농으로 꼽힌다. 대농으로 분류되는 이들은 만평 이상의 밭을 가지고 있다.지난해 12월20일 진도에서 만난 춘자씨가 고랑에 난 잡초를 뽑기 위해 허리를 숙였다. 대파에 가려 사람이 보이지 않았다. 농촌에서 여성의 일은 이런 식이다.여성 농민의 삶을 그린 소...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/16/l_2022021601001824900164961.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
