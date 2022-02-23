@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 22:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 23:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,6 +192,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/17/l_2022021401001514800136231.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["나도 이대남입니다" (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/697</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/697</guid>
+            <pubDate>Wed, 23 Feb 2022 23:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 '이대남'에 대한 이야기로 뉴스레터를 채우고자 해요. 지난해 허스토리는 정치권에서 '이대남'에 대해 과한 의미를 부여하는 것에 대해 여러 차례 지적한 바 있습니다. 당시에는 혐오와 갈라치기를 동원해 이대남을 포섭하려는 정치권, 특히 몇몇 정치인의 행동에 대해 꼬집었었죠. 오늘 뉴스레터는 '이대남'이라 불리는 분들에게 보내는 편지가 될지도 모르겠습니다. 물론 '이대남'을 탄생시키고 그들에게 비대한 자아를 주입한 언론과 정치가 먼저 자성할 일이지만, 이렇게 된 이상 스스로 알을 깨고 나올 수 있는 건 '이대남' 자신일 테니까요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/9c1ff960-318d-4da5-a2dd-9b1b15b24671.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한 번도 경험해 보지 못한 '여캐' (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/685</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/685</guid>
@@ -262,14 +270,6 @@
             <pubDate>Fri, 07 Jan 2022 19:18:39 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 한 주를 강타한 '서울우유 광고'를 주제로 가져왔어요. 물론 후진 감수성 그 자체는 비난받아야 마땅하나, 허스토리가 이미 반복되는 비판 한 마디를 더 얹을 필요는 없겠지요. 대신 허스토리는 이 부분에 주목합니다. 왜 서울우유라는 기업의 공적 의사결정은 잘못된 판단을 걸러내지 못했을까요?]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/67a248e9-d263-4720-b331-33aae651ce97.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사라진 젠더 감수성을 찾아서 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/577</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/577</guid>
-            <pubDate>Fri, 07 Jan 2022 19:18:39 GMT</pubDate>
-            <content:encoded><![CDATA['성별에 의해 차별받지 않는 성평등 민주주의 구현' '모든 영역에서 실질적인 성평등 대책 수립' '혐오와 폭력으로부터 여성이 안전한 사회' 등 당시 민주당 서약서에 등장했던 문구들은 이번 대선에서 중요하게 다뤄지고 있을까요? 기대와 달리 현재까지는 성평등 원칙이 무너진 장면을 더 많이 보고 있는 것 같습니다. 거대 양당의 대선 주자가 페미니즘을 공격하는 남초 커뮤니티의 글을 공유하는가 하면, 성범죄 무고죄를 강화하겠다는 공약을 내걸고 있기 때문이죠. 이제 대선까지 100일도 채 남지 않았습니다. 이번 주 허스토리는 지금까지 대선 경선 및 정치권에서 일어난 일들을 젠더 관점에서 톺아봅니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/b18ddf58-0153-4667-bf6b-a7da1c649000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘낙태죄’ 없다고 임신중지 권리가 보장된 건 아니다 (일다 ─ 전체기사)]]></title>
