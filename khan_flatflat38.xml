@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 03:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 04:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여전히 남성 월급이 여성보다 '1.5배' 많다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202202241037001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202202241037001</guid>
+            <pubDate>Thu, 24 Feb 2022 04:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[여성 직장인의 소득이 늘고 있지만 남성과의 임금 격차는 여전한 것으로 나타났다. 대기업과 중소기업 간 격차도 좁혀지지 않았다. 통계청이 21일 발표한 ‘2020 임금근로 일자리 소득 결과’를 보면 2020년 직장인 월평균 소득은 320만원(회사가 지급하는 임금, 상여, 수당 등의 합)으로 1년 전보다 11만원(3.6%)늘었다. 중위소득은 1년 전보다 8만원(3.5%)오른 242만원이었다. 중위소득은 소득 순서대로 줄을 세웠을 때 한가운데 위치하는 값이다. 전체 노동자를 100명으로 가정...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/24/l_2022022201002564700231681.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한진중공업 마지막 해고노동자 김진숙, 37년 만에 공장으로]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202202231554011</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 18 Feb 2022 05:11:06 GMT</pubDate>
             <content:encoded><![CDATA[“주변에 지나가는 20대 남자들이 그냥 신고 처리하고 있었을 뿐인 저를 보고 ‘오또케’ ‘오또케’ 이러더라.” 추지현 서울대 사회학과 교수가 경찰청 의뢰로 시행한 ‘남녀 경찰관 초점집단 면접조사(FGI)’에서 일선 경찰관이 호소한 내용이다. 지난해 11월 ‘경찰 성평등 문화 조성을 위한 젠더 의제 토론회’에서 추 교수는 ‘여경 혐오 담론’이 여성은 물론 남성 경찰관들까지 직무 몰입이나 헌신도를 떨어뜨려 경찰행정서비스의 질 저하를 초래하고 있다고 지적했다....]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/18/l_2022021801002245200202642.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“부적절하지만 2차가해는 아냐" 죽음의 행렬 이어지는데 군은 바뀔 생각이 없다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202202171419001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202202171419001</guid>
-            <pubDate>Thu, 17 Feb 2022 06:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[군이 성추행 피해 여군을 ‘헤롱이’라 부르고 “(네가) 죽으면 내 밥줄도 끊긴다”고 말한 성고충상담관의 발언에 대해 ‘부적절하지만 2차 가해는 아니다’라는 판단을 내놨다. 수차례 성폭력 사건 사고를 겪고도 군의 성인지 감수성이 여전히 과거에 머물러 있다는 지적이 나온다.10일 경향신문 취재 결과 최근 국방부 소속 ‘성희롱 및 2차 피해 고충심의위원회’는 성고충상담관 A씨의 언행에 대해 “2차 가해에 해당하지 않으나 상담 과정 간 사용한 언어들이 부적절함...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/17/l_2022021401001514800136231.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
