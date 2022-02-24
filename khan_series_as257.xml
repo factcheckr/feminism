@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 04:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 05:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[왓챠는 어떻게 '다양성 영화'의 새 강자가 됐나]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202202241342001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202202241342001</guid>
+            <pubDate>Thu, 24 Feb 2022 05:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 개봉한 칸영화제 황금종려상 수상작 &lt;티탄&gt;과 감독상 수상작 &lt;아네트&gt;, 다음달 개봉하는 베니스영화제 황금사자상 수상작 &lt;레벤느망&gt;에는 공통점이 있다. 모두 온라인동영상서비스(OTT) 왓챠에서 수입한 영화라는 사실이다.영화 수입은 돈만 많다고 되는 일이 아니다. 영화제 마켓에 쏟아져 나오는 수많은 영화 중 좋은 작품을 알아보는 안목, 분위기에 휩쓸리지 않고 냉정하게 거래할 수 있는 판단력, 해외 영화관계자와의 네트워크가 모두 필요하다. ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/24/l_2022022201002563700231571.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여전히 남성 월급이 여성보다 '1.5배' 많다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202202241037001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 18 Feb 2022 10:15:01 GMT</pubDate>
             <content:encoded><![CDATA[트랜스젠더 군인의 성적 정체성을 고려하지 않고 전역처분한 군의 처분은 위법하다.” 지난해 10월7일, 대전지방법원 행정2부는 군 복무 중 여성으로 성전환한 트랜스젠더 변희수 하사를 강제전역시킨 군의 처분이 위법하다고 판결했다. 법원 판결에 따라 전역처분은 취소됐고 법무부는 육군에 항소포기를 지휘했다. 트랜스젠더 군인의 성적 자기결정권을 인정한 중요한 판례임에도 정작 당사자인 변 하사는 승소의 기쁨을 맛볼 수 없었다. 그는 소송이 시작되기 한 달 전인 20...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/18/l_2022021801002233900200561.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['몇 글자 밈'이 되어 대선 판을 떠도는 혐오]]></title>
-            <link>https://www.khan.co.kr/politics/politics-general/article/202202181352001</link>
-            <guid>https://www.khan.co.kr/politics/politics-general/article/202202181352001</guid>
-            <pubDate>Fri, 18 Feb 2022 05:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[“주변에 지나가는 20대 남자들이 그냥 신고 처리하고 있었을 뿐인 저를 보고 ‘오또케’ ‘오또케’ 이러더라.” 추지현 서울대 사회학과 교수가 경찰청 의뢰로 시행한 ‘남녀 경찰관 초점집단 면접조사(FGI)’에서 일선 경찰관이 호소한 내용이다. 지난해 11월 ‘경찰 성평등 문화 조성을 위한 젠더 의제 토론회’에서 추 교수는 ‘여경 혐오 담론’이 여성은 물론 남성 경찰관들까지 직무 몰입이나 헌신도를 떨어뜨려 경찰행정서비스의 질 저하를 초래하고 있다고 지적했다....]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/18/l_2022021801002245200202642.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
