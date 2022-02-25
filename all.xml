@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 10:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 11:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/67a248e9-d263-4720-b331-33aae651ce97.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[구름마을 노인들의 단추 비빔밥 안에 든 것 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9283</link>
+            <guid>https://ildaro.com/9283</guid>
+            <pubDate>Fri, 25 Feb 2022 11:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[하루에 꼭 필요한 말만, 그것도 같이 사는 개, ‘수명이’에게만 한다는 정순 씨의 한 마디, “중요한 건데…”가 노인들을 매일 구름방에 모이게 만들었다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022022540259659.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나는 내가 원하는 모습으로 죽을 수 있을까? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9282</link>
             <guid>https://ildaro.com/9282</guid>
@@ -422,14 +430,6 @@
             <pubDate>Thu, 03 Feb 2022 08:15:32 GMT</pubDate>
             <content:encoded><![CDATA[차별금지법 제정 운동의 목표는 물론 법 제정이지만, 더 많은 시민들이 함께 차별금지 원칙을 지킬 수 있도록 하는 것이거든요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022020315596871.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팔려 가고 학대받는 소녀들…아이들만 남은 집 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9263</link>
-            <guid>https://ildaro.com/9263</guid>
-            <pubDate>Wed, 02 Feb 2022 09:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[입주 가사노동을 하며 학교에 다니다가 계부의 손에 끌려간 소녀의 이야기는 가난한 네팔 사람들의 현재를 보여주는 것 같아 가슴이 아팠다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022020234305675.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
