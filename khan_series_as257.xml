@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 00:48:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 02:04:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소설가 박서련 "'임파워링' 되지 않는 여성서사에 관심이 있다"]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202202251019001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202202251019001</guid>
+            <pubDate>Fri, 25 Feb 2022 02:04:17 GMT</pubDate>
+            <content:encoded><![CDATA[“열받으면 너도 너네 XX한테 게임해 달라고 해”.엄마인 ‘당신’이 쓰고 싶었던 단어는 ‘엄마’다. 그러나 욕설을 자동 필터링하는 게임 대화창에서 엄마는 그저 ‘XX’일 뿐이다. 당신의 초등학생 아들은 게임을 못한다는 이유로 친구들에게 따돌림을 당한다. 당신은 아들을 위해 게임을 배웠다. 아들을 위해 할 수 있는 일은 다 하고 싶었다. 마침내 아들을 대신해 게임을 하게 된 그 날, 당신은 ‘엄마’가 욕설이 되는 기이한 세계를 마주한다. 황망한 당신은 대...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/25/l_2022022201002561200231262.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[왓챠는 어떻게 '다양성 영화'의 새 강자가 됐나]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202202241342001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 21 Feb 2022 05:12:16 GMT</pubDate>
             <content:encoded><![CDATA[플랫팀이 새로운 시선과 시도로 완성된 콘텐츠를 ‘플랫pick’으로 추천합니다. 여성의 시각으로 세상을 담은 영상과 서적 등을 소개합니다. 이번 ‘pick’은 국가 성폭력 피해자들의 경험을 당사자의 목소리로 기록한 두 편의 영화 와 입니다. 일본군 ‘위안부’는 흔히 소녀 혹은 할머니의 모습으로 그려졌다. 수차례 영화 소재가 됐는데, 처음에는 주로 ‘일본군의 총검 앞에 강제로 끌려간 소녀’로 그려졌다. 몇몇 영화는 여성들의 피해자 면모를 부각시키려 이들이 겪은 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/21/l_2022021701002076500185971.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[변희수 하사 떠난지 1년, 그의 승소판결이 남긴 것]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202202181843001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202202181843001</guid>
-            <pubDate>Fri, 18 Feb 2022 10:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[트랜스젠더 군인의 성적 정체성을 고려하지 않고 전역처분한 군의 처분은 위법하다.” 지난해 10월7일, 대전지방법원 행정2부는 군 복무 중 여성으로 성전환한 트랜스젠더 변희수 하사를 강제전역시킨 군의 처분이 위법하다고 판결했다. 법원 판결에 따라 전역처분은 취소됐고 법무부는 육군에 항소포기를 지휘했다. 트랜스젠더 군인의 성적 자기결정권을 인정한 중요한 판례임에도 정작 당사자인 변 하사는 승소의 기쁨을 맛볼 수 없었다. 그는 소송이 시작되기 한 달 전인 20...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/18/l_2022021801002233900200561.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
