@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 04:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 05:12:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정치보복 31번, 부정부패 76번 외칠 동안 사라진 단어들]]></title>
+            <link>https://www.khan.co.kr/politics/politics-general/article/202202251406001</link>
+            <guid>https://www.khan.co.kr/politics/politics-general/article/202202251406001</guid>
+            <pubDate>Fri, 25 Feb 2022 05:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[20대 대통령 선거 공식 선거운동이 23일로 9일째에 접어들었다. 공식선거운동의 백미는 공개된 거리에서의 대중 연설이다. 대선 후보들의 국정 철학과 비전, 자신이 대통령이 돼야 하는 이유, 상대가 돼선 안되는 이유 등 유권자들에게 전하려는 핵심 메시지가 여기에 담긴다. 무엇을 담았는가만큼 무엇을 담지 않았는지가 중요하다. 연설의 빈 공간을 살펴보면 비호감, 네거티브 대결로 불린 이번 대선에서 조명받지 못한 의제, 차기 정부에서 한국 사회의 과제로 다시 등장...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/25/l_2022022501003118100281703.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소설가 박서련 "'임파워링' 되지 않는 여성서사에 관심이 있다"]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202202251019001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 21 Feb 2022 09:13:43 GMT</pubDate>
             <content:encoded><![CDATA[조선시대의 서얼이라고 하면 우리는 ‘불평등’이나 ‘억울함’을 제일 먼저 떠올리곤 한다. 인간은 모두 본질적으로 평등하다는 성리학의 전제에도 불구하고 정작 성리학에 기초한 사회였던 조선은 불평등을 양산했다. 의학, 언어, 수학 등의 전문가로 관직에 올랐으나 양반의 반열에 오르지 못한 중인, 사회적 욕망을 거세당한 여성, 인간이지만 누군가의 소유였던 노비, 그리고 양반의 자식으로 태어났으나 능력이 있어도 펼쳐볼 기회를 갖지 못한 서얼은 조선사회의 구조적 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/21/l_2022021801002179100196521.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['위안부', 피해자도 투사도 아닌 진짜 내 삶을 쓰다]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202202211358011</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202202211358011</guid>
-            <pubDate>Mon, 21 Feb 2022 05:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[플랫팀이 새로운 시선과 시도로 완성된 콘텐츠를 ‘플랫pick’으로 추천합니다. 여성의 시각으로 세상을 담은 영상과 서적 등을 소개합니다. 이번 ‘pick’은 국가 성폭력 피해자들의 경험을 당사자의 목소리로 기록한 두 편의 영화 와 입니다. 일본군 ‘위안부’는 흔히 소녀 혹은 할머니의 모습으로 그려졌다. 수차례 영화 소재가 됐는데, 처음에는 주로 ‘일본군의 총검 앞에 강제로 끌려간 소녀’로 그려졌다. 몇몇 영화는 여성들의 피해자 면모를 부각시키려 이들이 겪은 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/21/l_2022021701002076500185971.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
