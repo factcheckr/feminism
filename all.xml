@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 08:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 09:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/67a248e9-d263-4720-b331-33aae651ce97.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[항공기 빛내던 청소노동자 “일터에서 정년을 맞고 싶죠” (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9284</link>
+            <guid>https://ildaro.com/9284</guid>
+            <pubDate>Sat, 26 Feb 2022 09:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[국내 항공기의 운항 횟수는 늘어나고 있다. 더구나 코로나 시기에 청소는 방역의 필수다. 아시아나케이오는 신규 인력을 뽑으면서도 정작 해고자들은 복직시키지 않고...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022022629057930.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[구름마을 노인들의 단추 비빔밥 안에 든 것 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9283</link>
             <guid>https://ildaro.com/9283</guid>
@@ -422,14 +430,6 @@
             <pubDate>Fri, 04 Feb 2022 12:16:33 GMT</pubDate>
             <content:encoded><![CDATA[혼자가 편하다고 말하는 시대다. 맞다 혼자는 편하다. 하지만 온전히 혼자인 것이 불가능한 시대이기도 하다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022020400527603.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“차별금지법 있는 나라”에서 살고 싶다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9264</link>
-            <guid>https://ildaro.com/9264</guid>
-            <pubDate>Thu, 03 Feb 2022 08:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[차별금지법 제정 운동의 목표는 물론 법 제정이지만, 더 많은 시민들이 함께 차별금지 원칙을 지킬 수 있도록 하는 것이거든요....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022020315596871.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
