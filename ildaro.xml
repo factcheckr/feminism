@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 02:05:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 03:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나는 이주여성이다, 나는 20대 대선 유권자다]]></title>
+            <link>https://ildaro.com/9286</link>
+            <guid>https://ildaro.com/9286</guid>
+            <pubDate>Mon, 28 Feb 2022 10:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[대통령 선거가 축제 분위기로 변했다. 처음부터 한국에서 태어나고 성장한 한국 시민에게는 당연한 일인지 모르겠지만, 귀화 이주민에게는 각별한 경험이다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022022809279672.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[No Matter How Hard I Tried, I Wasn’t Able to Become a “Korean”]]></title>
             <link>https://ildaro.com/9285</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 06 Feb 2022 10:31:00 GMT</pubDate>
             <content:encoded><![CDATA[빨대를 뺀 음료수, 플라스틱 뚜껑을 뺀 통조림 햄, 플라스틱 트레이를 뺀 김, 라벨을 뺀 생수와 같은 새로운 제품들을 만날 때면, 이 변화를 끌어낸 누군가에게 감사하...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022020639485560.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘I Fear Dying While Working in a Foreign Land’]]></title>
-            <link>https://ildaro.com/9266</link>
-            <guid>https://ildaro.com/9266</guid>
-            <pubDate>Sat, 05 Feb 2022 12:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[I live in a foreign country alone. What if I die in my sleep from overworking and exhaustion... I feel scared because my family is not here....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022020523262735.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 02:05:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 03:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이동권 확대는 '장애인만을' 위한 일이 아니다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202202281132001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202202281132001</guid>
+            <pubDate>Mon, 28 Feb 2022 03:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[사람과 사람이 만나고, 배우고, 일하고, 사랑하는 모든 경험은 이동을 바탕으로 한다. 인간은 이동을 통해 타인 및 사회와 온전히 연결될 수 있다. 그래서 자신을 묶어놓은 시·공간적 제약을 벗어날 수 있는 이동 능력은 현대사회의 필수자원이고, 이동할 수 있는 권리는 기본권으로 꼽힌다. 이 당연한 얘기가 120만명, 그러니까 광역시 인구에 맞먹는 국내 지체장애인에게는 아직도 먼 얘기다.1984년 휠체어 이용 장애인 김순석씨가 ‘서울 거리의 턱을 없애달라’는 유서를...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/28/l_2022022501003158200284621.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정치보복 31번, 부정부패 76번 외칠 동안 사라진 단어들]]></title>
             <link>https://www.khan.co.kr/politics/politics-general/article/202202251406001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 22 Feb 2022 03:14:32 GMT</pubDate>
             <content:encoded><![CDATA[이길보라의 논픽션과 세계 다큐멘터리 영화를 기획하고 제작하는 워크숍 수업에서였다. 기획 단계였는데 정말이지 잘하고 싶었다. 오랫동안 다루어보고 싶었던 소재를 중심으로 기획안을 썼다. 어떤 피드백을 들을까 긴장되어 괜히 다리를 들썩거렸다. 함께 수업을 듣는 수강생들이 무슨 이야기를 하고 싶은지 알겠지만 잘 와닿지는 않는다며 고개를 갸우뚱댔다. 쉽게 수긍할 수 없었다. 흥미롭고 중요한 이야기인데 어째서 이해할 수 없다는 거지. 누군가는 분명 긍정적인 피드...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/22/l_2022021801002177900196461.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[운명을 믿지 않는 서얼의 눈으로 다시 본 '열녀 이야기']]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202202211803001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202202211803001</guid>
-            <pubDate>Mon, 21 Feb 2022 09:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[조선시대의 서얼이라고 하면 우리는 ‘불평등’이나 ‘억울함’을 제일 먼저 떠올리곤 한다. 인간은 모두 본질적으로 평등하다는 성리학의 전제에도 불구하고 정작 성리학에 기초한 사회였던 조선은 불평등을 양산했다. 의학, 언어, 수학 등의 전문가로 관직에 올랐으나 양반의 반열에 오르지 못한 중인, 사회적 욕망을 거세당한 여성, 인간이지만 누군가의 소유였던 노비, 그리고 양반의 자식으로 태어났으나 능력이 있어도 펼쳐볼 기회를 갖지 못한 서얼은 조선사회의 구조적 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/21/l_2022021801002179100196521.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
