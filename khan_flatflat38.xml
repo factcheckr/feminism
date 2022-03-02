@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 07:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 08:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세상이 몰라도 나는 알지, 당신이 얼마나 큰일을 했는지]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202203021412001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202203021412001</guid>
+            <pubDate>Wed, 02 Mar 2022 08:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;우리가 명함이 없지 일을 안 했냐&gt;는 독자 여러분과 함께 만든 기획입니다. 1회 ‘잘 봐, 언니들 인생이다’가 보도된 이후 많은 분들이 뜨거운 관심과 사랑을 보내주셨습니다. 지면에 다 담지 못한 콘텐츠를 책으로 만들기 위해 진행한 크라우드펀딩 프로젝트에는 2158분이 4326만원 을 모금해주셨습니다.경향신문 젠더기획 특별취재팀은 더 많은 분들의 이야기를 기록하고 나누고 싶었습니다. 늘 가치있는 노동을 해온 우리 곁의 많은 여성들과 함께하고 싶었습니다.여...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/02/l_2022030201000227500014391.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘도 출근하는 언니들 "나는 내가 명함이에요. 내 자신이"]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202203021351001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 23 Feb 2022 07:11:42 GMT</pubDate>
             <content:encoded><![CDATA[박창수, 김주익, 곽재규, 최강서. 죽은 동료들이 가장 많이 생각이 났어요. 복직을 하면 먼저 하고 싶었던 게 이들이 일한 공장을 가보고 싶었거든요." 한진중공업의 마지막 해고자인 김진숙 민주노총 부산본부 지도위원(62)이 23일 기자와 통화에서 해고 37년 만에 복직한 소회를 이렇게 말했다.김 지도위원은 복직투쟁을 하면서 늘 4명의 동지들 이름을 언급했다. 한진중공업에서 의문사로, 노조탄압 등에 맞서다 스스로 목숨을 끊은 이들이다. 김 지도위원은 “노동자 탄압으...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/23/l_2022022301002792600251871.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인류 최초로 '구조적 성차별을 철폐한' 나라?]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202202231331001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202202231331001</guid>
-            <pubDate>Wed, 23 Feb 2022 05:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[대선에서 차별금지법이 쟁점이 된 것은 다행이다. 어쨌거나 유력 후보들은 자신의 입장을 밝혔다. 입법을 적극적으로 지지하는 후보, 입법은 필요하나 사회적 합의를 거쳐야 한다는 후보, 반대하는 후보가 있다. 누구에게 표를 던질 것인지, 판단기준이 하나 생겼다. 그런데 차별금지법이 전부는 아니다. 차별에 대해 어떤 현실 인식과 어떤 비전을 가지고 있는지 또한 중요한 문제다.윤석열 후보는 “더 이상 구조적인 성차별은 없다”고 했다. 다음날에는 “구조적 남녀 차별...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/23/l_2022022201002560500231191.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
