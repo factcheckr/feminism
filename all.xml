@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 04:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 05:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘도 출근하는 언니들 "나는 내가 명함이에요. 내 자신이" (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202203021351001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202203021351001</guid>
+            <pubDate>Wed, 02 Mar 2022 05:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[명함이란 무엇일까. 누군가에겐 쉽게 주어지는 것, 누군가에겐 동경의 대상, 하루에도 수천장씩 뿌려지고 버려지는 것, ‘나 이런 사람이야’ 하고 자리를 과시하는 것, 능력을 증명하는 것, 최소한의 안전장치, 이만큼 열심히 살아왔다는 위로. 한 장의 명함엔 여러 정보가 담겨있지만 그 사람의 진짜 이야기는 보여줄 수 없을지 모른다. 그래도 우리는 평생 일한 여성들에게 명함을 찾아주고 싶었다. 그림자가 아니라 삶의 주체이자 진짜 일꾼으로 살아온 그들의 가치를 뽐...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/02/l_2022030201000221900013738.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성인지감수성 예산이 30조? 윤석열표 '가짜뉴스' (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/politics/politics-general/article/202202281411001</link>
@@ -80,14 +88,6 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/23/l_2022022201002560500231191.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[40년을 일해도 유령 취급을 받는 '미싱타는 여자들' (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202202231102001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202202231102001</guid>
-            <pubDate>Wed, 23 Feb 2022 03:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[우리가 입는 옷은 어디서 만들어졌을까. 옷 한 벌이 완성되려면 사람의 손을 거쳐야 한다. 바로 미싱사들이다. 디자이너나 옷 브랜드는 대중에 알려지지만, 미싱사들의 이름은 제대로 호명된 적이 없다. 수 십년 동안 같은 작업을 한 미싱사의 손가락 마디는 구부러져 있다. 집안 사정이 어려워 10대부터 봉제공장에 출근한 소녀들은 어느덧 40~50대 숙련공이 됐다. 한땀 한땀 박힌 바느질에는 미싱사들의 삶이 담겨있다.50년 동안 미싱사로 일한 조미자씨(64)는 “전태일 열...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/23/l_2022022201002557800230921.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
@@ -110,6 +110,14 @@
             <pubDate>Mon, 17 Jan 2022 10:24:00 GMT</pubDate>
             <content:encoded><![CDATA[2022. 01. 17]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘도 출근하는 언니들 "나는 내가 명함이에요. 내 자신이" (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202203021351001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202203021351001</guid>
+            <pubDate>Wed, 02 Mar 2022 05:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[명함이란 무엇일까. 누군가에겐 쉽게 주어지는 것, 누군가에겐 동경의 대상, 하루에도 수천장씩 뿌려지고 버려지는 것, ‘나 이런 사람이야’ 하고 자리를 과시하는 것, 능력을 증명하는 것, 최소한의 안전장치, 이만큼 열심히 살아왔다는 위로. 한 장의 명함엔 여러 정보가 담겨있지만 그 사람의 진짜 이야기는 보여줄 수 없을지 모른다. 그래도 우리는 평생 일한 여성들에게 명함을 찾아주고 싶었다. 그림자가 아니라 삶의 주체이자 진짜 일꾼으로 살아온 그들의 가치를 뽐...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/02/l_2022030201000221900013738.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성인지감수성 예산이 30조? 윤석열표 '가짜뉴스' (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -182,14 +190,6 @@
             <pubDate>Wed, 23 Feb 2022 05:11:20 GMT</pubDate>
             <content:encoded><![CDATA[대선에서 차별금지법이 쟁점이 된 것은 다행이다. 어쨌거나 유력 후보들은 자신의 입장을 밝혔다. 입법을 적극적으로 지지하는 후보, 입법은 필요하나 사회적 합의를 거쳐야 한다는 후보, 반대하는 후보가 있다. 누구에게 표를 던질 것인지, 판단기준이 하나 생겼다. 그런데 차별금지법이 전부는 아니다. 차별에 대해 어떤 현실 인식과 어떤 비전을 가지고 있는지 또한 중요한 문제다.윤석열 후보는 “더 이상 구조적인 성차별은 없다”고 했다. 다음날에는 “구조적 남녀 차별...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/23/l_2022022201002560500231191.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[40년을 일해도 유령 취급을 받는 '미싱타는 여자들' (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202202231102001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202202231102001</guid>
-            <pubDate>Wed, 23 Feb 2022 03:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[우리가 입는 옷은 어디서 만들어졌을까. 옷 한 벌이 완성되려면 사람의 손을 거쳐야 한다. 바로 미싱사들이다. 디자이너나 옷 브랜드는 대중에 알려지지만, 미싱사들의 이름은 제대로 호명된 적이 없다. 수 십년 동안 같은 작업을 한 미싱사의 손가락 마디는 구부러져 있다. 집안 사정이 어려워 10대부터 봉제공장에 출근한 소녀들은 어느덧 40~50대 숙련공이 됐다. 한땀 한땀 박힌 바느질에는 미싱사들의 삶이 담겨있다.50년 동안 미싱사로 일한 조미자씨(64)는 “전태일 열...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/23/l_2022022201002557800230921.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["나도 이대남입니다" (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
