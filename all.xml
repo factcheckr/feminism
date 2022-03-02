@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 23:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 00:52:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/67a248e9-d263-4720-b331-33aae651ce97.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[체육복까지만 ‘허락’한다? 허락받지 않을 ‘권리’를 내놔 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9287</link>
+            <guid>https://ildaro.com/9287</guid>
+            <pubDate>Wed, 02 Mar 2022 09:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[2030 여성의 표가 갈 곳이 없다면, 10대 여성의 표는 갈 ‘수’가 없는 대선이다. 그러나 우리는 더 이상의 유예를 기다릴 수 없다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022030251236112.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나는 이주여성이다, 나는 20대 대선 유권자다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9286</link>
             <guid>https://ildaro.com/9286</guid>
@@ -422,14 +430,6 @@
             <pubDate>Tue, 08 Feb 2022 10:01:00 GMT</pubDate>
             <content:encoded><![CDATA[착취당하는 돼지들만이 존재하는 세상 속 새벽이와 잔디는 존재 자체로 강렬한 메시지를 전한다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022020808192218.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쓰레기 정치를 시작하자 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9267</link>
-            <guid>https://ildaro.com/9267</guid>
-            <pubDate>Sun, 06 Feb 2022 10:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[빨대를 뺀 음료수, 플라스틱 뚜껑을 뺀 통조림 햄, 플라스틱 트레이를 뺀 김, 라벨을 뺀 생수와 같은 새로운 제품들을 만날 때면, 이 변화를 끌어낸 누군가에게 감사하...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022020639485560.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
