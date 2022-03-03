@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 05:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 06:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['오또케'와 '페페'의 공통점… 밈 정치는 어떻게 주류가 되었나 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202203031451001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202203031451001</guid>
+            <pubDate>Thu, 03 Mar 2022 06:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[인싸를 죽여라앤절라 네이글 지음·김내훈 옮김 | 오월의봄 | 252쪽 | 1만6000원 대선 공약에 여성혐오 ‘밈(meme·본래의 맥락에서 벗어난 인터넷 유행어 혹은 이미지)’이 등장했다. 윤석열 국민의힘 대선 후보의 사법정책 공약 보도자료엔 “경찰관이 ‘오또케’ 하면서 사건 현장에서 범죄를 외면했다는 비난도 있(다)”는 문장이 쓰였다. ‘어떡해’의 변용인 ‘오또케’는 2019년 서울 대림동 여성 경찰관 진압 영상과 함께 유포된 말로, 성별을 근거로 여경 전체의 무능을 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/03/l_2022022501003150400284171.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[플랫폼 노동에서도 여성은 남성보다 적게 번다 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202203031039001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202203031039001</guid>
@@ -182,14 +190,6 @@
             <pubDate>Thu, 24 Feb 2022 05:11:30 GMT</pubDate>
             <content:encoded><![CDATA[지난해 개봉한 칸영화제 황금종려상 수상작 &lt;티탄&gt;과 감독상 수상작 &lt;아네트&gt;, 다음달 개봉하는 베니스영화제 황금사자상 수상작 &lt;레벤느망&gt;에는 공통점이 있다. 모두 온라인동영상서비스(OTT) 왓챠에서 수입한 영화라는 사실이다.영화 수입은 돈만 많다고 되는 일이 아니다. 영화제 마켓에 쏟아져 나오는 수많은 영화 중 좋은 작품을 알아보는 안목, 분위기에 휩쓸리지 않고 냉정하게 거래할 수 있는 판단력, 해외 영화관계자와의 네트워크가 모두 필요하다. ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/24/l_2022022201002563700231571.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여전히 남성 월급이 여성보다 '1.5배' 많다 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202202241037001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202202241037001</guid>
-            <pubDate>Thu, 24 Feb 2022 03:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[여성 직장인의 소득이 늘고 있지만 남성과의 임금 격차는 여전한 것으로 나타났다. 대기업과 중소기업 간 격차도 좁혀지지 않았다. 통계청이 21일 발표한 ‘2020 임금근로 일자리 소득 결과’를 보면 2020년 직장인 월평균 소득은 320만원(회사가 지급하는 임금, 상여, 수당 등의 합)으로 1년 전보다 11만원(3.6%)늘었다. 중위소득은 1년 전보다 8만원(3.5%)오른 242만원이었다. 중위소득은 소득 순서대로 줄을 세웠을 때 한가운데 위치하는 값이다. 전체 노동자를 100명으로 가정...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/24/l_2022022201002564700231681.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[37년 만에 회사로 돌아간 여성 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
