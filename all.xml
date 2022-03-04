@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 08:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 09:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/e4ca174e-75ae-4977-80d5-691024ccafff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[성판매 여성을 처벌하는 현행법 개정해야 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9289</link>
+            <guid>https://ildaro.com/9289</guid>
+            <pubDate>Fri, 04 Mar 2022 09:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[자원이 없는, 선택지가 얼마 없는, 자본이 원하는 임금노동자의 역할을 수행하기 어려운, 선택지를 늘려나갈 자원과 여유가 부족한 여성들을 불러 모은다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022030420543936.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[새 시대의 록스타는 she/he 아닌 they라 불리길 원한다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9288</link>
             <guid>https://ildaro.com/9288</guid>
@@ -422,14 +430,6 @@
             <pubDate>Thu, 10 Feb 2022 10:13:55 GMT</pubDate>
             <content:encoded><![CDATA[도시의 한 구석에서 굶주림과 싸우고 있는 아이들과 그 가족들을 만나면서, 가난한 자들의 고통은 모두 소리 없이 외롭게 세상에서 방치되는 구나 싶어 마음이 너무 아...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022021017019786.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성범죄 미성년 피해자를 가해자 앞에 세울 것인가? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9269</link>
-            <guid>https://ildaro.com/9269</guid>
-            <pubDate>Wed, 09 Feb 2022 11:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[19세 미만 성폭력 피해자도 소송과정에서 증인소환 시 직접 법정에 출석해 반대신문을 받아야 하는 상황에 놓였다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/202202092003552.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
