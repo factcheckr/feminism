@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 04:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 05:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성폭력 예방 대선 공약, 가장 구체적인 후보는]]></title>
+            <link>https://www.khan.co.kr/politics/politics-general/article/202203041327001</link>
+            <guid>https://www.khan.co.kr/politics/politics-general/article/202203041327001</guid>
+            <pubDate>Fri, 04 Mar 2022 05:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[20대 대통령 선거에 출마한 여야 후보들은 대체로 성폭력 범죄를 현행보다 엄격하게 예방하고 처벌하겠다는 공약을 제시했다. 다만 윤석열 국민의힘 대선 후보가 내놓은 성범죄 무고죄 조항 신설 공약은 성범죄 피해 해결에 중점을 둔 다른 후보들의 공약과 결이 달랐다.28일 주요 대선 후보의 성폭력 공약을 살펴보니 이재명 더불어민주당 후보는 데이트폭력처벌법을 제정해 처벌을 법제화하겠다고 했다. 최근 데이트 폭력으로 피해 여성이 사망한 사례가 잇따르자 내놓은 공...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/04/l_2022030301000541500040671.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['세계 여자 바둑 1위' 최정의 다음 목표는 '세계 바둑 1위']]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202203041125001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 25 Feb 2022 05:11:16 GMT</pubDate>
             <content:encoded><![CDATA[이재명·윤석열, 대선 유세 연설 키워드 전수 분석 20대 대통령 선거 공식 선거운동이 23일로 9일째에 접어들었다. 공식선거운동의 백미는 공개된 거리에서의 대중 연설이다. 대선 후보들의 국정 철학과 비전, 자신이 대통령이 돼야 하는 이유, 상대가 돼선 안되는 이유 등 유권자들에게 전하려는 핵심 메시지가 여기에 담긴다. 무엇을 담았는가만큼 무엇을 담지 않았는지가 중요하다. 연설의 빈 공간을 살펴보면 비호감, 네거티브 대결로 불린 이번 대선에서 조명받지 못한 ...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/25/l_2022022501003119500281783.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소설가 박서련 "'임파워링' 되지 않는 여성서사에 관심이 있다"]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202202251019001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202202251019001</guid>
-            <pubDate>Fri, 25 Feb 2022 02:03:34 GMT</pubDate>
-            <content:encoded><![CDATA[“열받으면 너도 너네 XX한테 게임해 달라고 해”.엄마인 ‘당신’이 쓰고 싶었던 단어는 ‘엄마’다. 그러나 욕설을 자동 필터링하는 게임 대화창에서 엄마는 그저 ‘XX’일 뿐이다. 당신의 초등학생 아들은 게임을 못한다는 이유로 친구들에게 따돌림을 당한다. 당신은 아들을 위해 게임을 배웠다. 아들을 위해 할 수 있는 일은 다 하고 싶었다. 마침내 아들을 대신해 게임을 하게 된 그 날, 당신은 ‘엄마’가 욕설이 되는 기이한 세계를 마주한다. 황망한 당신은 대...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/25/l_2022022201002561200231262.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
