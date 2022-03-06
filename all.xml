@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 02:05:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 03:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/e4ca174e-75ae-4977-80d5-691024ccafff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여자의 욕망을 통제하는 가부장제에 대한 섬뜩한 풍자 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9291</link>
+            <guid>https://ildaro.com/9291</guid>
+            <pubDate>Sun, 06 Mar 2022 11:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[요샛말로 ‘된장녀’나 ‘김치녀’처럼 제 몫을 챙기고 입치레를 하면 집안 살림, 나라 살림을 어떻게 불리겠는가....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022030621586624.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Historical Female Figures to Remember (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9290</link>
             <guid>https://ildaro.com/9290</guid>
@@ -422,14 +430,6 @@
             <pubDate>Sat, 12 Feb 2022 13:13:38 GMT</pubDate>
             <content:encoded><![CDATA[괴물의 형상을 지닌 한 여자, 여자의 형상을 지닌 한 괴물. 하늘은 그런 형상들로 가득 차 있지요...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022021205095688.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피해자 김지은, 김잔디…세상을 고발하고 바꾼 노동자 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9271</link>
-            <guid>https://ildaro.com/9271</guid>
-            <pubDate>Fri, 11 Feb 2022 12:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[이제는 멈춰야만 했다. “꿈 속에서도 나를 괴롭히는 박원순 시장”, “성폭력 이후에 ‘너도 미투 할거냐’고 묻는 안희정 도지사”에게서 벗어나야만 했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022021155263632.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
