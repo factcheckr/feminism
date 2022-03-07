@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 08:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 09:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/e4ca174e-75ae-4977-80d5-691024ccafff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[하이틴은 가볍지 않다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9292</link>
+            <guid>https://ildaro.com/9292</guid>
+            <pubDate>Mon, 07 Mar 2022 09:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[는 장르적 공식을 충분히 따르면서도 완벽히 새로운 영화다. 주인공의 갈등은 사랑과 우정도 있지만, 주된 갈등은 바로 교내 성차별이다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022030736441087.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여자의 욕망을 통제하는 가부장제에 대한 섬뜩한 풍자 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9291</link>
             <guid>https://ildaro.com/9291</guid>
@@ -422,14 +430,6 @@
             <pubDate>Sun, 13 Feb 2022 12:17:20 GMT</pubDate>
             <content:encoded><![CDATA[우리 사회는 대학 진학이 아닌 다른 길을 준비하는 청소년들에 대해 주목하지 않는다. 가끔 현장실습생의 사고나 사망 소식을 접할 때를 제외하면 특성화고가 무엇인...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022021345477667.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘아들의 마더’에 관한 서늘한 탄생설화 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9272</link>
-            <guid>https://ildaro.com/9272</guid>
-            <pubDate>Sat, 12 Feb 2022 13:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[괴물의 형상을 지닌 한 여자, 여자의 형상을 지닌 한 괴물. 하늘은 그런 형상들로 가득 차 있지요...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022021205095688.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
