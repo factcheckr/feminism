@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 05:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 06:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["범죄를 택한 건 소년이지만 그 소년은 결코 홀로 자라지 않는다" (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202203071450001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202203071450001</guid>
+            <pubDate>Mon, 07 Mar 2022 06:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[“저는 소년범을 혐오합니다.” 넷플릭스 오리지널 드라마 &lt;소년심판&gt;은 방영 전부터 강렬한 카피로 화제가 되었다. 소년법과 형사미성년자 제도를 주제로 하는 드라마로, 김혜수가 소년범을 혐오하는 판사 심은석 역을 맡았다.지방법원 소년부에 부임한 우배석 심은석은 냉철하고 엄격한 인물이다. 대놓고 소년범을 혐오한다고 밝히며, 그들은 갱생 불가라고 단정짓는다. (작가가 가상으로 만든 ‘소년형사합의부’에는 재판장, 좌배석, 우배석 총 3명의 판사가 재판에 참여한...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/07/l_2022030701000900900076701.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여성 건설 노동자 3명 중 1명은 화장실에 가고 싶어도 갈 수 없었다 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202203071027001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 28 Feb 2022 06:16:07 GMT</pubDate>
             <content:encoded><![CDATA[경찰이 지난해 1월 ‘성범죄 피해 아동·청소년의 신고 사실을 부모에게 통지하지 않아도 된다’는 기존 수사규칙의 조항을 삭제한 탓에 피해 청소년들이 신고 자체를 포기한다는 지적이 나왔다.사단법인 ‘탁틴내일’은 ‘아동 성폭력 추방의 날’인 22일 서울 여의도 국회에서 ‘성범죄 피해 아동·청소년 최상의 이익을 고려하는 수사절차 개선’ 토론회를 열었다. 단체는 “경찰청 범죄수사규칙 개정으로 성폭력 피해 아동·청소년의 신고 사실을 보호자에게 통지하는 게 원칙으...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/28/l_2022022501003154900284431.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이동권 확대는 '장애인만을' 위한 일이 아니다 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202202281132001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202202281132001</guid>
-            <pubDate>Mon, 28 Feb 2022 03:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[사람과 사람이 만나고, 배우고, 일하고, 사랑하는 모든 경험은 이동을 바탕으로 한다. 인간은 이동을 통해 타인 및 사회와 온전히 연결될 수 있다. 그래서 자신을 묶어놓은 시·공간적 제약을 벗어날 수 있는 이동 능력은 현대사회의 필수자원이고, 이동할 수 있는 권리는 기본권으로 꼽힌다. 이 당연한 얘기가 120만명, 그러니까 광역시 인구에 맞먹는 국내 지체장애인에게는 아직도 먼 얘기다.1984년 휠체어 이용 장애인 김순석씨가 ‘서울 거리의 턱을 없애달라’는 유서를...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/02/28/l_2022022801003473200030981.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
