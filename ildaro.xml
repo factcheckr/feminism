@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 05:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 06:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘전시 성폭력’은 계속되고 있다, 연대도 계속돼야 한다]]></title>
+            <link>https://ildaro.com/9293</link>
+            <guid>https://ildaro.com/9293</guid>
+            <pubDate>Tue, 08 Mar 2022 06:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[전시 성폭력 문제를 해소하기 위해선 “지속적으로 피해자와 연대하고, 피해자들의 회복과 재활을 돕는 것, 법정 투쟁을 지지하는 것뿐만 아니라 가해자를 적극적으로...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022030818469073.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하이틴은 가볍지 않다]]></title>
             <link>https://ildaro.com/9292</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 15 Feb 2022 00:31:00 GMT</pubDate>
             <content:encoded><![CDATA[밀링이란 공간을 천천히 걸어 다니면서 나의 발끝을 바라보고 서로의 눈을 마주보며 교감하는 것을 말해. 오롯이 상대에 집중해야만 인사의 시작과 끝을 알아챌 수 있...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022021539571461.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고졸 노동자, 우리는 부족한 사람이 아닙니다]]></title>
-            <link>https://ildaro.com/9273</link>
-            <guid>https://ildaro.com/9273</guid>
-            <pubDate>Sun, 13 Feb 2022 12:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[우리 사회는 대학 진학이 아닌 다른 길을 준비하는 청소년들에 대해 주목하지 않는다. 가끔 현장실습생의 사고나 사망 소식을 접할 때를 제외하면 특성화고가 무엇인...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022021345477667.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
