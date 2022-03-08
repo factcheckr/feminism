@@ -4,9 +4,25 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 03:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 04:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19로 일터에서 밀려나는 여성들… 경력단절 사유 1위는 '육아']]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202203081304001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202203081304001</guid>
+            <pubDate>Tue, 08 Mar 2022 04:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[3월8일은 여성의 날입니다. 여성의 날은 1908년 2월28일 열악한 조건에서 일하다 끔찍하게 희생된 미국 여성 섬유노동자들을 기리는 시위에서 시작됐습니다. 100여년이 지난 후 한국의 여성들도 ‘미투 운동’ ‘낙태죄 폐지’ 등 선명한 색깔을 내걸며 세상을 바꾸어왔습니다. 그러나 정치는 언제나 더디게 움직였습니다. 이번 대선에서는 2022년이 맞나 싶을 정도로 젠더 관점에선 퇴행적 모습이 두드러졌죠.어지러운 상황에서도 묵묵히 한발씩 내딛는 사람들은 있습니다. 서울 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/08/l_2022030801001038900089681.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["육아를 경력으로 인정해드립니다" 한 뼘 나은 세상을 만드는 여성들]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202203081302001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202203081302001</guid>
+            <pubDate>Tue, 08 Mar 2022 04:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[3월8일은 여성의 날입니다. 여성의날은 1908년 2월28일 열악한 조건에서 일하다 끔찍하게 희생된 미국 여성 섬유노동자들을 기리는 시위에서 시작됐습니다. 100여년이 지난 후 한국의 여성들도 ‘미투 운동’ ‘낙태죄 폐지’ 등 선명한 색깔을 내걸며 세상을 바꾸어왔습니다. 그러나 정치는 언제나 더디게 움직였습니다. 이번 대선에서는 2022년이 맞나 싶을 정도로 젠더 관점에선 퇴행적 모습이 두드러졌죠.어지러운 상황에서도 묵묵히 한발씩 내딛는 사람들은 있습니다. 서울 성...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/08/l_2022030801001038600089641.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["범죄를 택한 건 소년이지만 그 소년은 결코 홀로 자라지 않는다"]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202203071450001</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 02 Mar 2022 05:11:56 GMT</pubDate>
             <content:encoded><![CDATA[명함이란 무엇일까. 누군가에겐 쉽게 주어지는 것, 누군가에겐 동경의 대상, 하루에도 수천장씩 뿌려지고 버려지는 것, ‘나 이런 사람이야’ 하고 자리를 과시하는 것, 능력을 증명하는 것, 최소한의 안전장치, 이만큼 열심히 살아왔다는 위로. 한 장의 명함엔 여러 정보가 담겨있지만 그 사람의 진짜 이야기는 보여줄 수 없을지 모른다. 그래도 우리는 평생 일한 여성들에게 명함을 찾아주고 싶었다. 그림자가 아니라 삶의 주체이자 진짜 일꾼으로 살아온 그들의 가치를 뽐...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/02/l_2022030201000221900013738.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성인지감수성 예산이 30조? 윤석열표 '가짜뉴스']]></title>
-            <link>https://www.khan.co.kr/politics/politics-general/article/202202281411001</link>
-            <guid>https://www.khan.co.kr/politics/politics-general/article/202202281411001</guid>
-            <pubDate>Mon, 28 Feb 2022 06:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 국민의힘 대선 후보는 지난 27일 경북 포항시 북구 신흥동 북포항우체국 앞 유세에서 이렇게 말했다.이 정부가 뭐, 성인지감수성 예산이란 걸 30조 썼다고 알려져 있습니다. 그 돈이면 그 중에 일부만 떼어내도 우리가 이북의 저런 말도 안 되는 핵위협을 저희가 안전하게 중층적으로 막아낼 수 있습니다!” 윤 후보가 언급한 ‘성인지감수성 예산’은 성인지 예산을 뜻하는 것으로 보이는데, 성인지 예산에 대한 잘못된 이해를 드러낸 것이란 지적이 나온다.여성가족...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/28/l_2022022801003407100308311.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“부모에게 통지한다”는 수사규칙에… 성폭력 신고 포기하는 아이들]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202202281347001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202202281347001</guid>
-            <pubDate>Mon, 28 Feb 2022 06:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[경찰이 지난해 1월 ‘성범죄 피해 아동·청소년의 신고 사실을 부모에게 통지하지 않아도 된다’는 기존 수사규칙의 조항을 삭제한 탓에 피해 청소년들이 신고 자체를 포기한다는 지적이 나왔다.사단법인 ‘탁틴내일’은 ‘아동 성폭력 추방의 날’인 22일 서울 여의도 국회에서 ‘성범죄 피해 아동·청소년 최상의 이익을 고려하는 수사절차 개선’ 토론회를 열었다. 단체는 “경찰청 범죄수사규칙 개정으로 성폭력 피해 아동·청소년의 신고 사실을 보호자에게 통지하는 게 원칙으...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/02/28/l_2022022501003154900284431.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
