@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 22:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 23:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제20대 대통령 윤석열 당선]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/722</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/722</guid>
+            <pubDate>Wed, 09 Mar 2022 23:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[20대 대선에서 윤석열 국민의힘 후보가 대통령으로 당선됐습니다. 하루 전 여러분은 어떤 세상을 열망하며 소중한 한 표를 던지셨나요. 각자의 위치와 생각은 모두 다 다르지만, 그럼에도 민주주의 사회의 시민이라면 성평등이 거스를 수 없는 시대적 흐름이라는 점에는 공감하실 겁니다. 오늘 허스토리에서는 윤 당선인이 후보 시절 내세운 성평등 관련 공약을 다시 한번 상기하고자 합니다. 그리고 이에 더해 대선 관련 한국일보 기사를 함께 엮어 드릴게요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/af1c5a53-eb82-43e5-83b9-0d78b932e938.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[37년 만에 회사로 돌아간 여성]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/709</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 07 Jan 2022 19:18:39 GMT</pubDate>
             <content:encoded><![CDATA[올해 4월 첫 뉴스레터를 보낸 후 우리가 함께 보낸 첫 해가 벌써 이렇게 지나갔어요. 다음 뉴스레터를 보낼 때면 우리의 두 번째 해를 맞이하겠죠? 올 한 해 정말 고생 많으셨습니다. 이번 뉴스레터는 주제 별로 올해의 화두를 요약해 봤습니다. 다 읽고 나면 틀림없이 올해도 우리 참 잘 버텼다는 마음이 들 것입니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/c3439e5c-5b4c-44a0-bf55-00372763ed4c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여자를 돕는 여자, 댄서 아이키]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/601</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/601</guid>
-            <pubDate>Fri, 07 Jan 2022 19:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 허스토리의 '여자를 돕는 여자들(여.돕.여)' 크라우드 펀딩이 종료됩니다. 한 달 넘게 진행된 허스토리의 깜짝 프로젝트에 정말 많은 분들이 응원의 마음을 보태주셨어요. 그에 보답하는 마음으로, 여.돕.여 번외 인터뷰를 준비했습니다. 이미 많은 분이 지난주 뉴스레터로 눈치채셨겠지만, 이번 인터뷰의 주인공은 댄서 아이키인데요.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/e4ca174e-75ae-4977-80d5-691024ccafff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
