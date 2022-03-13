@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 05:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 06:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/c3439e5c-5b4c-44a0-bf55-00372763ed4c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Life Free From Criticism of My Appearance (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9296</link>
+            <guid>https://ildaro.com/9296</guid>
+            <pubDate>Sun, 13 Mar 2022 06:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[In Korea, we quickly become both the subject and object of appearance critiques, but I wasn’t either while I was in France....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022031347539905.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[병원에서 무시와 차별을 겪는 젊은 여성들 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9295</link>
             <guid>https://ildaro.com/9295</guid>
@@ -422,14 +430,6 @@
             <pubDate>Sat, 19 Feb 2022 09:15:19 GMT</pubDate>
             <content:encoded><![CDATA[사실 임신한 나무와 도깨비는 인순 언니가 반복적으로 그려온 것들의 짬뽕이에요. 인순 언니 그림을 보면, 뭐든 임신을 시켜버리거든요. 새든 나무든 뭐든....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022021941336235.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인생이 뒤집힌 것 같을 때 새로운 세계가 열린 건지도 몰라 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9276</link>
-            <guid>https://ildaro.com/9276</guid>
-            <pubDate>Fri, 18 Feb 2022 08:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[올가는 신문이나 잡지, 복권을 파는 가판대, 키오스크를 지키며 산다. 친절하고 일에 능숙한 올가는 단골손님들 취향도 다 꿰고 있다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022021810528058.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
