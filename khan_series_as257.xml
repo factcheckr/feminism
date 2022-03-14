@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 02:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 03:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['여성가족부 폐지' 윤석열의 한줄 공약, 실현 가능성은]]></title>
+            <link>https://www.khan.co.kr/politics/politics-general/article/202203141011001</link>
+            <guid>https://www.khan.co.kr/politics/politics-general/article/202203141011001</guid>
+            <pubDate>Mon, 14 Mar 2022 03:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령 당선인의 ‘여성가족부 폐지’ 공약은 실현 가능할까. 윤 당선인의 의지와 관계없이 쉽지 않을 것이라는 의견이 나온다. 거대 야당이 될 더불어민주당이 여성가족부 존치 입장이 확고한 데다 폐지 추진에 대한 시민사회의 반발이 강력하기 때문이다.정부 부처를 설립·폐지하거나 개편하려면 입법권을 가진 국회의 동의가 필요하다. 중앙행정기관 등 정부 부처가 설립 근거를 둔 근거법령인 정부조직법을 바꿔야 하기 때문이다. 여성가족부의 경우 이 법 제26조와...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/14/l_2022031401001706200150001.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022년 '김진숙들'의 싸움은 계속된다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202203111349001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 07 Mar 2022 07:13:09 GMT</pubDate>
             <content:encoded><![CDATA[“저는 소년범을 혐오합니다.” 넷플릭스 오리지널 드라마 &lt;소년심판&gt;은 방영 전부터 강렬한 카피로 화제가 되었다. 소년법과 형사미성년자 제도를 주제로 하는 드라마로, 김혜수가 소년범을 혐오하는 판사 심은석 역을 맡았다.지방법원 소년부에 부임한 우배석 심은석은 냉철하고 엄격한 인물이다. 대놓고 소년범을 혐오한다고 밝히며, 그들은 갱생 불가라고 단정짓는다. (작가가 가상으로 만든 ‘소년형사합의부’에는 재판장, 좌배석, 우배석 총 3명의 판사가 재판에 참여한...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/07/l_2022030701000900900076701.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성 건설 노동자 3명 중 1명은 화장실에 가고 싶어도 갈 수 없었다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202203071027001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202203071027001</guid>
-            <pubDate>Mon, 07 Mar 2022 03:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[“현장에 남자 화장실과 여자 화장실을 한 개씩 만들어서 남자들이 자꾸 여자화장실을 사용합니다. 숫자를 늘려주세요.” “원청이든 하청 노동자든, 여자든 남자든 같은 인간입니다. 이런 화장실을 본인들이 쓴다고 생각하면 이렇게 방치하지는 않을 텐데요.”민주노총 건설노조가 건설현장의 여성 노동자들에게 화장실에 대해 묻자 나온 답변들이다. 화장실은 인간으로서 중요하고 건강에 직결되는 중요한 문제이지만, 남성 직종으로 분류되는 건설업에서 10% 가량 되는 여성 노...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/07/l_2022030401000617800050081.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

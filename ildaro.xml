@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 02:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 03:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[딸들에게 “예뻐져야 해” 대신 자아를 탐구하라는 격려를]]></title>
+            <link>https://ildaro.com/9297</link>
+            <guid>https://ildaro.com/9297</guid>
+            <pubDate>Mon, 14 Mar 2022 11:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[오늘의 사회에서 여자아이들은 ‘여자는 날씬해야 한다’는 말을 들을 게 아니라, 자아에 대해 탐구하고 쓰고 이야기하자는 격려를 받아야 한다고 믿는다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022031433215251.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Life Free From Criticism of My Appearance]]></title>
             <link>https://ildaro.com/9296</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 20 Feb 2022 07:13:06 GMT</pubDate>
             <content:encoded><![CDATA[I could tell you I went to Korea to find my “roots.” I could tell you I wanted to learn Korean so I could come back to the US and work on behalf of the Korean American community as an organizer....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022022010288975.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘기지촌엔 도깨비가 산다’ 어떤 죽음들의 이야기]]></title>
-            <link>https://ildaro.com/9277</link>
-            <guid>https://ildaro.com/9277</guid>
-            <pubDate>Sat, 19 Feb 2022 09:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[사실 임신한 나무와 도깨비는 인순 언니가 반복적으로 그려온 것들의 짬뽕이에요. 인순 언니 그림을 보면, 뭐든 임신을 시켜버리거든요. 새든 나무든 뭐든....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022021941336235.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

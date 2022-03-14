@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 02:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 03:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['여성가족부 폐지' 윤석열의 한줄 공약, 실현 가능성은 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/politics/politics-general/article/202203141011001</link>
+            <guid>https://www.khan.co.kr/politics/politics-general/article/202203141011001</guid>
+            <pubDate>Mon, 14 Mar 2022 03:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령 당선인의 ‘여성가족부 폐지’ 공약은 실현 가능할까. 윤 당선인의 의지와 관계없이 쉽지 않을 것이라는 의견이 나온다. 거대 야당이 될 더불어민주당이 여성가족부 존치 입장이 확고한 데다 폐지 추진에 대한 시민사회의 반발이 강력하기 때문이다.정부 부처를 설립·폐지하거나 개편하려면 입법권을 가진 국회의 동의가 필요하다. 중앙행정기관 등 정부 부처가 설립 근거를 둔 근거법령인 정부조직법을 바꿔야 하기 때문이다. 여성가족부의 경우 이 법 제26조와...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/14/l_2022031401001706200150001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022년 '김진숙들'의 싸움은 계속된다 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202203111349001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202203111349001</guid>
@@ -182,14 +190,6 @@
             <pubDate>Mon, 07 Mar 2022 06:15:13 GMT</pubDate>
             <content:encoded><![CDATA[“저는 소년범을 혐오합니다.” 넷플릭스 오리지널 드라마 &lt;소년심판&gt;은 방영 전부터 강렬한 카피로 화제가 되었다. 소년법과 형사미성년자 제도를 주제로 하는 드라마로, 김혜수가 소년범을 혐오하는 판사 심은석 역을 맡았다.지방법원 소년부에 부임한 우배석 심은석은 냉철하고 엄격한 인물이다. 대놓고 소년범을 혐오한다고 밝히며, 그들은 갱생 불가라고 단정짓는다. (작가가 가상으로 만든 ‘소년형사합의부’에는 재판장, 좌배석, 우배석 총 3명의 판사가 재판에 참여한...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/07/l_2022030701000900900076701.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성 건설 노동자 3명 중 1명은 화장실에 가고 싶어도 갈 수 없었다 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202203071027001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202203071027001</guid>
-            <pubDate>Mon, 07 Mar 2022 03:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[“현장에 남자 화장실과 여자 화장실을 한 개씩 만들어서 남자들이 자꾸 여자화장실을 사용합니다. 숫자를 늘려주세요.” “원청이든 하청 노동자든, 여자든 남자든 같은 인간입니다. 이런 화장실을 본인들이 쓴다고 생각하면 이렇게 방치하지는 않을 텐데요.”민주노총 건설노조가 건설현장의 여성 노동자들에게 화장실에 대해 묻자 나온 답변들이다. 화장실은 인간으로서 중요하고 건강에 직결되는 중요한 문제이지만, 남성 직종으로 분류되는 건설업에서 10% 가량 되는 여성 노...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/07/l_2022030401000617800050081.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제20대 대통령 윤석열 당선 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
@@ -270,6 +270,14 @@
             <pubDate>Fri, 07 Jan 2022 19:18:39 GMT</pubDate>
             <content:encoded><![CDATA[올해 4월 첫 뉴스레터를 보낸 후 우리가 함께 보낸 첫 해가 벌써 이렇게 지나갔어요. 다음 뉴스레터를 보낼 때면 우리의 두 번째 해를 맞이하겠죠? 올 한 해 정말 고생 많으셨습니다. 이번 뉴스레터는 주제 별로 올해의 화두를 요약해 봤습니다. 다 읽고 나면 틀림없이 올해도 우리 참 잘 버텼다는 마음이 들 것입니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/c3439e5c-5b4c-44a0-bf55-00372763ed4c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[딸들에게 “예뻐져야 해” 대신 자아를 탐구하라는 격려를 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9297</link>
+            <guid>https://ildaro.com/9297</guid>
+            <pubDate>Mon, 14 Mar 2022 11:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[오늘의 사회에서 여자아이들은 ‘여자는 날씬해야 한다’는 말을 들을 게 아니라, 자아에 대해 탐구하고 쓰고 이야기하자는 격려를 받아야 한다고 믿는다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022031433215251.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Life Free From Criticism of My Appearance (일다 ─ 전체기사)]]></title>
@@ -422,14 +430,6 @@
             <pubDate>Sun, 20 Feb 2022 07:13:06 GMT</pubDate>
             <content:encoded><![CDATA[I could tell you I went to Korea to find my “roots.” I could tell you I wanted to learn Korean so I could come back to the US and work on behalf of the Korean American community as an organizer....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022022010288975.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘기지촌엔 도깨비가 산다’ 어떤 죽음들의 이야기 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9277</link>
-            <guid>https://ildaro.com/9277</guid>
-            <pubDate>Sat, 19 Feb 2022 09:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[사실 임신한 나무와 도깨비는 인순 언니가 반복적으로 그려온 것들의 짬뽕이에요. 인순 언니 그림을 보면, 뭐든 임신을 시켜버리거든요. 새든 나무든 뭐든....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022021941336235.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
