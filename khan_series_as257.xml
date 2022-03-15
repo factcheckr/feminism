@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 03:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 04:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애증을 오가는 '치매 엄마와 딸 이야기'가 건네는 위로]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202203151304001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202203151304001</guid>
+            <pubDate>Tue, 15 Mar 2022 04:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[엄마와 딸이 있다. 사이가 괜찮은 것 같다가도 금세 안 괜찮아진다. 불시에 찾아온 ‘알츠하이머(치매)’라는 단어는 상황을 더욱 불안정하게 한다. 웹툰 &lt;괜찮다, 안 괜찮다&gt;는 그런 모녀의 이야기를 그린다. 2018년 4월부터 2020년 8월까지 온라인 웹툰 사이트 ‘투믹스’에서 연재되며, 소소한 인기를 끌었다. 지난달 사계절 출판사에서 두 권짜리 단행본으로 출간됐다. 작가는 절망적인 상황에서도 삶을 이겨내는 여성의 이야기를 그려온 ‘휘이’다. 그를 대중에 알린...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/15/l_2022022501003159700284721.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리가 겪고 들은 것이 '구조적 성차별'의 증거다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202203150952001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 08 Mar 2022 06:15:33 GMT</pubDate>
             <content:encoded><![CDATA[3월8일은 여성의 날입니다. 여성의 날은 1908년 2월28일 열악한 조건에서 일하다 끔찍하게 희생된 미국 여성 섬유노동자들을 기리는 시위에서 시작됐습니다. 100여년이 지난 후 한국의 여성들도 ‘미투 운동’ ‘낙태죄 폐지’ 등 선명한 색깔을 내걸며 세상을 바꾸어왔습니다. 그러나 정치는 언제나 더디게 움직였습니다. 이번 대선에서는 2022년이 맞나 싶을 정도로 젠더 관점에선 퇴행적 모습이 두드러졌죠.어지러운 상황에서도 묵묵히 한발씩 내딛는 사람들은 있습니다. 서울 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/08/l_2022030801001057000091441.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19로 일터에서 밀려나는 여성들… 경력단절 사유 1위는 '육아']]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202203081304001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202203081304001</guid>
-            <pubDate>Tue, 08 Mar 2022 04:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[3월8일은 여성의 날입니다. 여성의 날은 1908년 2월28일 열악한 조건에서 일하다 끔찍하게 희생된 미국 여성 섬유노동자들을 기리는 시위에서 시작됐습니다. 100여년이 지난 후 한국의 여성들도 ‘미투 운동’ ‘낙태죄 폐지’ 등 선명한 색깔을 내걸며 세상을 바꾸어왔습니다. 그러나 정치는 언제나 더디게 움직였습니다. 이번 대선에서는 2022년이 맞나 싶을 정도로 젠더 관점에선 퇴행적 모습이 두드러졌죠.어지러운 상황에서도 묵묵히 한발씩 내딛는 사람들은 있습니다. 서울 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/08/l_2022030801001038900089681.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

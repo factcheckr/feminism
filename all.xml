@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 03:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 04:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[애증을 오가는 '치매 엄마와 딸 이야기'가 건네는 위로 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202203151304001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202203151304001</guid>
+            <pubDate>Tue, 15 Mar 2022 04:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[엄마와 딸이 있다. 사이가 괜찮은 것 같다가도 금세 안 괜찮아진다. 불시에 찾아온 ‘알츠하이머(치매)’라는 단어는 상황을 더욱 불안정하게 한다. 웹툰 &lt;괜찮다, 안 괜찮다&gt;는 그런 모녀의 이야기를 그린다. 2018년 4월부터 2020년 8월까지 온라인 웹툰 사이트 ‘투믹스’에서 연재되며, 소소한 인기를 끌었다. 지난달 사계절 출판사에서 두 권짜리 단행본으로 출간됐다. 작가는 절망적인 상황에서도 삶을 이겨내는 여성의 이야기를 그려온 ‘휘이’다. 그를 대중에 알린...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/15/l_2022022501003159700284721.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우리가 겪고 들은 것이 '구조적 성차별'의 증거다 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202203150952001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202203150952001</guid>
@@ -182,14 +190,6 @@
             <pubDate>Tue, 08 Mar 2022 06:14:49 GMT</pubDate>
             <content:encoded><![CDATA[3월8일은 여성의 날입니다. 여성의 날은 1908년 2월28일 열악한 조건에서 일하다 끔찍하게 희생된 미국 여성 섬유노동자들을 기리는 시위에서 시작됐습니다. 100여년이 지난 후 한국의 여성들도 ‘미투 운동’ ‘낙태죄 폐지’ 등 선명한 색깔을 내걸며 세상을 바꾸어왔습니다. 그러나 정치는 언제나 더디게 움직였습니다. 이번 대선에서는 2022년이 맞나 싶을 정도로 젠더 관점에선 퇴행적 모습이 두드러졌죠.어지러운 상황에서도 묵묵히 한발씩 내딛는 사람들은 있습니다. 서울 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/08/l_2022030801001057000091441.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19로 일터에서 밀려나는 여성들… 경력단절 사유 1위는 '육아' (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202203081304001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202203081304001</guid>
-            <pubDate>Tue, 08 Mar 2022 04:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[3월8일은 여성의 날입니다. 여성의 날은 1908년 2월28일 열악한 조건에서 일하다 끔찍하게 희생된 미국 여성 섬유노동자들을 기리는 시위에서 시작됐습니다. 100여년이 지난 후 한국의 여성들도 ‘미투 운동’ ‘낙태죄 폐지’ 등 선명한 색깔을 내걸며 세상을 바꾸어왔습니다. 그러나 정치는 언제나 더디게 움직였습니다. 이번 대선에서는 2022년이 맞나 싶을 정도로 젠더 관점에선 퇴행적 모습이 두드러졌죠.어지러운 상황에서도 묵묵히 한발씩 내딛는 사람들은 있습니다. 서울 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/08/l_2022030801001038900089681.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제20대 대통령 윤석열 당선 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
@@ -270,6 +270,14 @@
             <pubDate>Fri, 07 Jan 2022 19:18:39 GMT</pubDate>
             <content:encoded><![CDATA[올해 4월 첫 뉴스레터를 보낸 후 우리가 함께 보낸 첫 해가 벌써 이렇게 지나갔어요. 다음 뉴스레터를 보낼 때면 우리의 두 번째 해를 맞이하겠죠? 올 한 해 정말 고생 많으셨습니다. 이번 뉴스레터는 주제 별로 올해의 화두를 요약해 봤습니다. 다 읽고 나면 틀림없이 올해도 우리 참 잘 버텼다는 마음이 들 것입니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/c3439e5c-5b4c-44a0-bf55-00372763ed4c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘반페미니즘’ 혐오선동의 정치 한가운데서 던지는 질문 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9298</link>
+            <guid>https://ildaro.com/9298</guid>
+            <pubDate>Tue, 15 Mar 2022 00:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[반페미니즘 현상이나 혐오선동의 정치는 한국만의 문제가 아니다. 전 세계 곳곳에서 최근 꾸준히 증가하고 있는 문제다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022031501357214.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[딸들에게 “예뻐져야 해” 대신 자아를 탐구하라는 격려를 (일다 ─ 전체기사)]]></title>
@@ -422,14 +430,6 @@
             <pubDate>Mon, 21 Feb 2022 05:12:41 GMT</pubDate>
             <content:encoded><![CDATA[누군가를 희생양으로 삼아 이익을 극대화하려는 정치와 경제(기업)의 모습이나, 하드웨어에는 돈을 들이지만 사람의 노동에는 돈을 지불하지 않는 시스템 말이에요...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022022148509945.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Letter to Koreans Regarding Life as a Foreign Woman in South Korea (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9278</link>
-            <guid>https://ildaro.com/9278</guid>
-            <pubDate>Sun, 20 Feb 2022 07:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[I could tell you I went to Korea to find my “roots.” I could tell you I wanted to learn Korean so I could come back to the US and work on behalf of the Korean American community as an organizer....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022022010288975.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
