@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 00:53:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 02:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리가 겪고 들은 것이 '구조적 성차별'의 증거다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202203150952001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202203150952001</guid>
+            <pubDate>Tue, 15 Mar 2022 02:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[“회사가 젊은 여직원에게 허드렛일을 시킵니다. 설거지도, 음식물 쓰레기 치우는 일도 여직원이 하게 합니다.”“사장님이 ‘연애할 생각이 없냐’, ‘여자는 나이 먹으면 퇴물 취급 당한다’는 황당한 말을 했습니다. 업무를 잘했다고 칭찬하면서 제 머리카락을 만졌습니다.”직장갑질119가 3·8 세계 여성의 날을 맞아 여성 직장인들로부터 제보 받은 갑질 사례를 6일 공개했다. 20대 대선 국면에서 젠더 이슈는 갈등과 분열을 조장하는 방식으로 다뤄졌고, 윤석열 국민의힘 대...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/15/l_2022030701000847400071631.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["여성영화는 여자들만 본다"는 편견을 날려버린 퍼플레이의 성장[플랫]]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202203141237001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 08 Mar 2022 04:16:07 GMT</pubDate>
             <content:encoded><![CDATA[3월8일은 여성의 날입니다. 여성의 날은 1908년 2월28일 열악한 조건에서 일하다 끔찍하게 희생된 미국 여성 섬유노동자들을 기리는 시위에서 시작됐습니다. 100여년이 지난 후 한국의 여성들도 ‘미투 운동’ ‘낙태죄 폐지’ 등 선명한 색깔을 내걸며 세상을 바꾸어왔습니다. 그러나 정치는 언제나 더디게 움직였습니다. 이번 대선에서는 2022년이 맞나 싶을 정도로 젠더 관점에선 퇴행적 모습이 두드러졌죠.어지러운 상황에서도 묵묵히 한발씩 내딛는 사람들은 있습니다. 서울 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/08/l_2022030801001038900089681.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["육아를 경력으로 인정해드립니다" 한 뼘 나은 세상을 만드는 여성들]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202203081302001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202203081302001</guid>
-            <pubDate>Tue, 08 Mar 2022 04:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[3월8일은 여성의 날입니다. 여성의날은 1908년 2월28일 열악한 조건에서 일하다 끔찍하게 희생된 미국 여성 섬유노동자들을 기리는 시위에서 시작됐습니다. 100여년이 지난 후 한국의 여성들도 ‘미투 운동’ ‘낙태죄 폐지’ 등 선명한 색깔을 내걸며 세상을 바꾸어왔습니다. 그러나 정치는 언제나 더디게 움직였습니다. 이번 대선에서는 2022년이 맞나 싶을 정도로 젠더 관점에선 퇴행적 모습이 두드러졌죠.어지러운 상황에서도 묵묵히 한발씩 내딛는 사람들은 있습니다. 서울 성...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/08/l_2022030801001038600089641.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
