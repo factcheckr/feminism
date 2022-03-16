@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 05:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 06:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이대남, 일번남, 이번남…메갈리아 때로 돌아간 것 같다]]></title>
+            <link>https://ildaro.com/9299</link>
+            <guid>https://ildaro.com/9299</guid>
+            <pubDate>Wed, 16 Mar 2022 06:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[다시 메갈 때로 돌아갔다는 생각이 들어서 벼랑 끝으로 내몰렸다는 느낌, 한편으로 ‘이제 우릴 막을 사람은 없어!’라는 느낌도 들어요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/202203161350371.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘반페미니즘’ 혐오선동의 정치 한가운데서 던지는 질문]]></title>
             <link>https://ildaro.com/9298</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 22 Feb 2022 00:35:00 GMT</pubDate>
             <content:encoded><![CDATA[밤의 빵집은 사업의 취지에 동의하는 빵집들에서 팔고 남은 빵을 빅이슈 판매자들이 픽업하여 판매하는 구조입니다. 이 활동에 동의하는 이웃들이 손님으로 옵니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022022242229229.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누군가를 희생양으로 삼는 경제 시스템을 멈춰야 한다]]></title>
-            <link>https://ildaro.com/9279</link>
-            <guid>https://ildaro.com/9279</guid>
-            <pubDate>Mon, 21 Feb 2022 05:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[누군가를 희생양으로 삼아 이익을 극대화하려는 정치와 경제(기업)의 모습이나, 하드웨어에는 돈을 들이지만 사람의 노동에는 돈을 지불하지 않는 시스템 말이에요...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022022148509945.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
