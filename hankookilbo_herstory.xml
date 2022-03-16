@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 22:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 23:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["20대 여성도 유권자다!"]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/733</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/733</guid>
+            <pubDate>Wed, 16 Mar 2022 23:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[지난주 허스토리는 오전 5시가 되어서야 일단락된 개표 결과를 본 뒤, 곧바로 발송하느라 20대 대선 결과에 대해 충분히 담지 못했어요. 이에 일주일이 지난 지금, 조금 늦었을지 몰라도 지난 선거가 내포하고 있는 민심을 '젠더 관점'으로 촘촘하게 분석하려 합니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/074e78df-d5fd-4c3f-a932-5def15d913fc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제20대 대통령 윤석열 당선]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/722</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 07 Jan 2022 19:18:39 GMT</pubDate>
             <content:encoded><![CDATA[해의 첫 허스토리 뉴스레터를 이렇게 보내드리게 되어 무척 반갑습니다. 누가 뭐라 해도 올해 가장 중요한 이벤트는 3월 9일 대통령 선거일 겁니다. 지난해 마지막 뉴스레터에서 정치, 사회뿐 아니라 다양한 분야를 다루고 싶다고 했지만, 민망하게도 신년 첫 메일부터 정치를 다루는 이유입니다. 대통령을 뽑는다는 것은 우리 삶의 근간을 이루는 많은 법과 제도, 관점이 바뀔 정도로 중요한 일이니까요!]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/a5f20f11-a242-4b2d-817f-67b3c1442f72.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 방식대로 2021년 총결산!]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/613</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/613</guid>
-            <pubDate>Fri, 07 Jan 2022 19:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[올해 4월 첫 뉴스레터를 보낸 후 우리가 함께 보낸 첫 해가 벌써 이렇게 지나갔어요. 다음 뉴스레터를 보낼 때면 우리의 두 번째 해를 맞이하겠죠? 올 한 해 정말 고생 많으셨습니다. 이번 뉴스레터는 주제 별로 올해의 화두를 요약해 봤습니다. 다 읽고 나면 틀림없이 올해도 우리 참 잘 버텼다는 마음이 들 것입니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/c3439e5c-5b4c-44a0-bf55-00372763ed4c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
