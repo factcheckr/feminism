@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 05:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 06:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리베카 솔닛은 '대선 전후의 한국'에서 '트럼프 시대의 미국'을 떠올린다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202203171446001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202203171446001</guid>
+            <pubDate>Thu, 17 Mar 2022 06:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[미국의 작가이자 역사가 리베카 솔닛(61)은 최근 출간된 첫 회고록 &lt;세상에 없는 나의 기억들&gt;(창비)을 통해 여성에 대한 폭력과 위협에 맞서 자신만의 목소리를 내기까지 19세부터 지난 40여년의 삶을 돌아본다. 여타 회고록에서처럼 그의 역경은 극복되지 않는다. 솔닛을 포함한 많은 이들의 삶을 옥죈 여성 혐오는 “개인의 노력”이 아닌 “사회의 변혁”을 통해서만 해결될 수 있는 구조적 문제이기 때문이다.솔닛은 15일 한국 기자들과 온라인으로 만나 “오로지 ...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/17/l_2022031601002120900186243.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['구여성' 할머니의 삶과 내 삶의 좌표]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202203171000011</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 11 Mar 2022 04:15:52 GMT</pubDate>
             <content:encoded><![CDATA[박지현씨(26)에겐 42일이 있었다. 무언가 망치기엔 충분하지만, 이뤄내기엔 길지 않은 시간. 대학생 기자로 일하며 2019년 디지털성범죄집단 N번방의 실체를 추적해 알린 그는 지난 1월말 민주당 이재명 대통령 후보 선거대책위원회에 합류했다. 선거까지 42일동안 민주당 여성위원회 부위원장이자 디지털성범죄근절특별위원장으로 활동했다. N번방을 고발할 때 안전을 위해 ‘불’이라는 아이디로만 활동하던 그는 선거 때문에 이름과 얼굴을 공개했다. 정치인이 됐다. 선거는 끝났...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/11/l_2022031101001473500127842.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혐오를 막기 위한 '전략투표', 2030 여성의 권력을 보여주다]]></title>
-            <link>https://www.khan.co.kr/politics/politics-general/article/202203101914001</link>
-            <guid>https://www.khan.co.kr/politics/politics-general/article/202203101914001</guid>
-            <pubDate>Thu, 10 Mar 2022 13:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[제20대 대통령 선거는 2030 여성이 전략적 투표를 한 헌정사 첫 선거라는 평가를 받는다. KBS·MBC·SBS 등 방송 3사의 출구조사 결과를 보면 20대 여성의 58%가, 30대 여성의 49.7%가 이재명 더불어민주당 후보를 선택했다.2030 여성들은 이 후보에게도 선뜻 표를 던지기 어려웠다고 했다. ‘민주당 지자체장 3인 성범죄’ 딱지가 무거웠고, 피해자에게 2차 피해를 준 ‘피해호소인’ 발언의 상처가 아물지 않았기 때문이다.하지만 국민의힘 윤석열 당선자의 “구조적 성차별...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/10/l_2022031001001340200115661.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
