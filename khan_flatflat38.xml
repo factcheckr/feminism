@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 00:50:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 02:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모두가 외면했던 기지촌 여성들의 곁에 서다, 두레방 창립자 문혜림]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202203181047001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202203181047001</guid>
+            <pubDate>Fri, 18 Mar 2022 02:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[한국 민주화운동과 기지촌 여성 인권운동에 헌신한 운동가 문혜림씨(본명 헤리엇 페이 핀치벡, Harriett Faye Pinchbeck)가 지난 11일(현지시간) 미국 뉴저지 자택에서 별세했다. 향년 86세. 문씨는 고 문동환 목사(1921~2019)의 부인이다.고인의 딸 문영미 사단법인 늦봄문익환기념사업회 이사는 “미국에 계신 어머님이 소천하셨다. 주무시다 편안하게 가셨다”고 지난 11일 페이스북에 알렸다. 고인은 1936년 미국 코네티컷주 장미 농장에서 태어났다.문 이사는 지난해 계간지 ...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/18/l_2022031601002130300186701.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리베카 솔닛은 '대선 전후의 한국'에서 '트럼프 시대의 미국'을 떠올린다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202203171446001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 11 Mar 2022 05:11:06 GMT</pubDate>
             <content:encoded><![CDATA[“더 이상 울지 않고 더 이상 죽지 않는 이 단결의 광장에 조합원들의 함성으로 다시 꽉 차는 그 미래로 거침없이 당당하게 가십시오.” 노조 활동을 했다는 이유로 해고당한 뒤 37년 만에 복직한 김진숙 민주노총 부산본부 지도위원(61)은 지난달 25일 부산 영도구 HJ중공업(옛 한진중공업) 내 단결의광장에서 열린 명예복직 및 퇴직식에서 이렇게 말했다. 하지만 2022년에도 복직투쟁을 이어가는 ‘김진숙들’이 있다.▼ 남성복 입은 여성 용접공 ▲ 변주현씨(28)는 2019년 ...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/11/l_2022031001001331700114971.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박지현 "민주당은 졌지만 2030 여성들은 이겼다. 우리는 더 강해질 것"]]></title>
-            <link>https://www.khan.co.kr/politics/politics-general/article/202203111015011</link>
-            <guid>https://www.khan.co.kr/politics/politics-general/article/202203111015011</guid>
-            <pubDate>Fri, 11 Mar 2022 04:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[박지현씨(26)에겐 42일이 있었다. 무언가 망치기엔 충분하지만, 이뤄내기엔 길지 않은 시간. 대학생 기자로 일하며 2019년 디지털성범죄집단 N번방의 실체를 추적해 알린 그는 지난 1월말 민주당 이재명 대통령 후보 선거대책위원회에 합류했다. 선거까지 42일동안 민주당 여성위원회 부위원장이자 디지털성범죄근절특별위원장으로 활동했다. N번방을 고발할 때 안전을 위해 ‘불’이라는 아이디로만 활동하던 그는 선거 때문에 이름과 얼굴을 공개했다. 정치인이 됐다. 선거는 끝났...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/11/l_2022031101001473500127842.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
