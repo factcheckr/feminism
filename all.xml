@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 00:51:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 02:27:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['3월의 광란' 속 여자농구의 자리는 있는가 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/sports/sports-general/article/202203211018001</link>
+            <guid>https://www.khan.co.kr/sports/sports-general/article/202203211018001</guid>
+            <pubDate>Mon, 21 Mar 2022 02:26:47 GMT</pubDate>
+            <content:encoded><![CDATA[‘3월의 광란’ 시즌이다. 미국대학농구 최고 축제인 미국대학스포츠협회(NCAA) 주최 전미 대학농구선수권대회에서 대학농구선수들은 프로 못지않은 인기를 누린다. 여자농구 챔피언십과 남자농구 챔피언십을 포괄하는 대회이지만, 1년 전까지만 해도 ‘3월의 광란’은 남자농구만을 지칭하는 브랜드였다. 공식 사회관계망서비스(SNS) 계정에도 남자농구 콘텐츠만이 업로드됐다.지난해 3월, 세도나 프린스(21·오리건대 여자농구부)가 자신의 SNS에 업로드한 38초짜리 동영상은 근본적인 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/21/l_2022031801002359200209581.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["윤석열 인수위 27명 중 여성은 고작 4명, 청년은 0명” (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/politics/politics-general/article/202203181523011</link>
             <guid>https://www.khan.co.kr/politics/politics-general/article/202203181523011</guid>
@@ -182,14 +190,6 @@
             <pubDate>Mon, 14 Mar 2022 04:18:16 GMT</pubDate>
             <content:encoded><![CDATA[거대 공룡들의 각축전으로 비유되는 온라인동영상서비스(OTT) 시장에서 작지만 제 색깔을 확실하게 보여주며 약진하는 OTT가 있다. 바로 국내 유일의 여성영화 전문 스트리밍 플랫폼 ‘퍼플레이(Purplay)’다. 기존의 영화 유통시장에서 소외됐던 여성영화를 발굴해 적극적으로 알려온 퍼플레이는 지난해 3월 OTT 업계 최초로 고용노동부로부터 사회적기업으로 인증받았다.지난달 28일 서울 중구 정동의 한 카페에서 만난 조일지 퍼플레이 대표(35)는 “여성영화를 호명하지 않으면 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/14/l_2022030401000637600051711.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['여성가족부 폐지' 윤석열의 한줄 공약, 실현 가능성은 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/politics/politics-general/article/202203141011001</link>
-            <guid>https://www.khan.co.kr/politics/politics-general/article/202203141011001</guid>
-            <pubDate>Mon, 14 Mar 2022 03:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 대통령 당선인의 ‘여성가족부 폐지’ 공약은 실현 가능할까. 윤 당선인의 의지와 관계없이 쉽지 않을 것이라는 의견이 나온다. 거대 야당이 될 더불어민주당이 여성가족부 존치 입장이 확고한 데다 폐지 추진에 대한 시민사회의 반발이 강력하기 때문이다.정부 부처를 설립·폐지하거나 개편하려면 입법권을 가진 국회의 동의가 필요하다. 중앙행정기관 등 정부 부처가 설립 근거를 둔 근거법령인 정부조직법을 바꿔야 하기 때문이다. 여성가족부의 경우 이 법 제26조와...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/14/l_2022031401001706200150001.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["20대 여성도 유권자다!" (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
