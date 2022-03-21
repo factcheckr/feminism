@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 07:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 08:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["아카데미는 날 변화시키지 않는다. 나로 살다 죽을 것이다."]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202203211308001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202203211308001</guid>
+            <pubDate>Mon, 21 Mar 2022 08:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[“난 너무 힘들게 살고 힘들게 촬영하기 때문에 다른 순간엔 웃고 쉬고 싶어요. 그 장면을 찍을 때만 진지하면 되지, 나중에 감독이랑 막 진지하게 토론하고 그런 거 너무 스투핏(stupid). 연기는 토론이 아니라, 유 저스트 두 잇 데어(You just do it, there·그냥 거기서 하는 것).…어떤 사람은 그래서 날 싫어하고, 어떤 사람들은 그래서 날 좋아하고. 그게 세상이죠, 뭐.”애플tv플러스의 새 오리지널 드라마 &lt;파친코&gt; 공개를 앞두고 18일 오전(한국시간) 진행된...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/21/l_2022032101002607000232561.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['3월의 광란' 속 여자농구의 자리는 있는가]]></title>
             <link>https://www.khan.co.kr/sports/sports-general/article/202203211018001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 15 Mar 2022 02:14:32 GMT</pubDate>
             <content:encoded><![CDATA[“회사가 젊은 여직원에게 허드렛일을 시킵니다. 설거지도, 음식물 쓰레기 치우는 일도 여직원이 하게 합니다.”“사장님이 ‘연애할 생각이 없냐’, ‘여자는 나이 먹으면 퇴물 취급 당한다’는 황당한 말을 했습니다. 업무를 잘했다고 칭찬하면서 제 머리카락을 만졌습니다.”직장갑질119가 3·8 세계 여성의 날을 맞아 여성 직장인들로부터 제보 받은 갑질 사례를 6일 공개했다. 20대 대선 국면에서 젠더 이슈는 갈등과 분열을 조장하는 방식으로 다뤄졌고, 윤석열 국민의힘 대...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/15/l_2022030701000847400071631.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["여성영화는 여자들만 본다"는 편견을 날려버린 퍼플레이의 성장[플랫]]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202203141237001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202203141237001</guid>
-            <pubDate>Mon, 14 Mar 2022 11:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[거대 공룡들의 각축전으로 비유되는 온라인동영상서비스(OTT) 시장에서 작지만 제 색깔을 확실하게 보여주며 약진하는 OTT가 있다. 바로 국내 유일의 여성영화 전문 스트리밍 플랫폼 ‘퍼플레이(Purplay)’다. 기존의 영화 유통시장에서 소외됐던 여성영화를 발굴해 적극적으로 알려온 퍼플레이는 지난해 3월 OTT 업계 최초로 고용노동부로부터 사회적기업으로 인증받았다.지난달 28일 서울 중구 정동의 한 카페에서 만난 조일지 퍼플레이 대표(35)는 “여성영화를 호명하지 않으면 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/14/l_2022030401000637600051711.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
