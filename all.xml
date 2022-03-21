@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 02:27:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 03:23:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/a5f20f11-a242-4b2d-817f-67b3c1442f72.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘몸’에 대해 당신이 믿고 있던 것들이 부서질 때 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9303</link>
+            <guid>https://ildaro.com/9303</guid>
+            <pubDate>Mon, 21 Mar 2022 11:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[사회규범과 몸에 내재화된 권력 구조, 고정적인 자기동일성… 우리를 얽매는 몇 겹이나 되는 틀과 경계를 모모세 작가는 픽션을 통해 의식하게 한다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022032143077427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[보이지도 말해지지도 않았던 어떤 시간의 결 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9302</link>
             <guid>https://ildaro.com/9302</guid>
@@ -422,14 +430,6 @@
             <pubDate>Sat, 26 Feb 2022 09:14:26 GMT</pubDate>
             <content:encoded><![CDATA[국내 항공기의 운항 횟수는 늘어나고 있다. 더구나 코로나 시기에 청소는 방역의 필수다. 아시아나케이오는 신규 인력을 뽑으면서도 정작 해고자들은 복직시키지 않고...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022022629057930.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구름마을 노인들의 단추 비빔밥 안에 든 것 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9283</link>
-            <guid>https://ildaro.com/9283</guid>
-            <pubDate>Fri, 25 Feb 2022 11:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[하루에 꼭 필요한 말만, 그것도 같이 사는 개, ‘수명이’에게만 한다는 정순 씨의 한 마디, “중요한 건데…”가 노인들을 매일 구름방에 모이게 만들었다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022022540259659.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
