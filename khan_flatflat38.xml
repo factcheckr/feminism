@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 00:54:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 02:26:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 기업의 40%는 여성이 경영 중이다]]></title>
+            <link>https://www.khan.co.kr/economy/economy-general/article/202203221015001</link>
+            <guid>https://www.khan.co.kr/economy/economy-general/article/202203221015001</guid>
+            <pubDate>Tue, 22 Mar 2022 02:24:41 GMT</pubDate>
+            <content:encoded><![CDATA[국내기업 5개 중 2개는 여성이 실질적으로 소유하거나 경영하는 ‘여성기업’인 것으로 나타났다.중소벤처기업부는 14일 국내 여성기업이 2019년 기준 277만개로 전년보다 4.4% 증가했다고 밝혔다. 이는 전체 기업(689만개)의 40.2%에 달하는 것으로 역대 최대다. 도매·소매업(26.3%), 부동산업(22.5%), 숙박·음식업(17.8%) 등 3가지 업종이 전체의 66.6%로 다수를 차지했다.2019년 여성기업 고용인력은 497만명으로 전체 종사자의 23.6%를 차지했다. 여성기업의 여성고용비율(69.3%)은 남...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/22/l_2022031801002359900209611.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["아카데미는 날 변화시키지 않는다. 나로 살다 죽을 것이다."]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202203211308001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 15 Mar 2022 06:15:23 GMT</pubDate>
             <content:encoded><![CDATA[엄마와 딸이 있다. 사이가 괜찮은 것 같다가도 금세 안 괜찮아진다. 불시에 찾아온 ‘알츠하이머(치매)’라는 단어는 상황을 더욱 불안정하게 한다. 웹툰 &lt;괜찮다, 안 괜찮다&gt;는 그런 모녀의 이야기를 그린다. 2018년 4월부터 2020년 8월까지 온라인 웹툰 사이트 ‘투믹스’에서 연재되며, 소소한 인기를 끌었다. 지난달 사계절 출판사에서 두 권짜리 단행본으로 출간됐다. 작가는 절망적인 상황에서도 삶을 이겨내는 여성의 이야기를 그려온 ‘휘이’다. 그를 대중에 알린...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/15/l_2022022501003159700284721.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리가 겪고 들은 것이 '구조적 성차별'의 증거다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202203150952001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202203150952001</guid>
-            <pubDate>Tue, 15 Mar 2022 02:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[“회사가 젊은 여직원에게 허드렛일을 시킵니다. 설거지도, 음식물 쓰레기 치우는 일도 여직원이 하게 합니다.”“사장님이 ‘연애할 생각이 없냐’, ‘여자는 나이 먹으면 퇴물 취급 당한다’는 황당한 말을 했습니다. 업무를 잘했다고 칭찬하면서 제 머리카락을 만졌습니다.”직장갑질119가 3·8 세계 여성의 날을 맞아 여성 직장인들로부터 제보 받은 갑질 사례를 6일 공개했다. 20대 대선 국면에서 젠더 이슈는 갈등과 분열을 조장하는 방식으로 다뤄졌고, 윤석열 국민의힘 대...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/15/l_2022030701000847400071631.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
