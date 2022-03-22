@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 05:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 06:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새드 엔딩을 거부하는 백수 가족의 '플랫폼 노동 생존기']]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202203221408001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202203221408001</guid>
+            <pubDate>Tue, 22 Mar 2022 06:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[“이젠 때가 되었다. 그들 모두 정신을 차릴 때가.” 15평 낡은 집에 여섯 명이 부대끼며 산다. 어린이와 청소년, 두 명의 조카를 제외하고 네 명의 성인이 있는데 누구도 돈을 벌지 않는다. 이서수의 장편소설 &lt;헬프 미 시스터&gt;는 “아줌마는 왜 결혼했는데도 부모랑 살아요?”라는 중학생 은지의 질문에 난감해하는 서른아홉 수경의 이야기로 시작한다. 딱히 할 말이 없어 나온 답은, “나도 몰라”.이 가족의 사연은 이렇다. 먼저 수경의 남편 우재, 40세 ‘전...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/22/l_2022031801002363700209821.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국내 기업의 40%는 여성이 경영 중이다]]></title>
             <link>https://www.khan.co.kr/economy/economy-general/article/202203221015001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Mar 2022 02:18:52 GMT</pubDate>
             <content:encoded><![CDATA[아니 에르노는 자신의 소설 &lt;사건&gt;을 영화화하는 감독 오드리 디완에게 촬영 직전 안톤 체홉의 인용구를 보내주었다고 한다. “정확히 하라. 그러면 나머지는 적절한 때에 따라올 것이다.”에르노는 “체험하지 않은 허구를 쓴 적은 한 번도 없고 앞으로도 그럴 것”이라고 말하는 프랑스의 소설가다. 초기에는 전통적인 픽션으로서의 소설에 근접한 적도 있지만, &lt;자리&gt;(1984)부터는 작가 개인의 체험과 기억을 해부하듯 들여다보며 쓰고 있다. 2000년 출간된 &lt;...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/16/l_2022031101001553300134231.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애증을 오가는 '치매 엄마와 딸 이야기'가 건네는 위로]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202203151304001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202203151304001</guid>
-            <pubDate>Tue, 15 Mar 2022 06:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[엄마와 딸이 있다. 사이가 괜찮은 것 같다가도 금세 안 괜찮아진다. 불시에 찾아온 ‘알츠하이머(치매)’라는 단어는 상황을 더욱 불안정하게 한다. 웹툰 &lt;괜찮다, 안 괜찮다&gt;는 그런 모녀의 이야기를 그린다. 2018년 4월부터 2020년 8월까지 온라인 웹툰 사이트 ‘투믹스’에서 연재되며, 소소한 인기를 끌었다. 지난달 사계절 출판사에서 두 권짜리 단행본으로 출간됐다. 작가는 절망적인 상황에서도 삶을 이겨내는 여성의 이야기를 그려온 ‘휘이’다. 그를 대중에 알린...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/15/l_2022022501003159700284721.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
