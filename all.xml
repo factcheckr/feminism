@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 10:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 11:11:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,7 +112,7 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이 땅의 모든 '선자'에게 바치는 이야기, 영화 '파친코' (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <title><![CDATA[이 땅의 모든 '선자'에게 바치는 이야기, 드라마 '파친코' (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202203231341001</link>
             <guid>https://www.khan.co.kr/culture/culture-general/article/202203231341001</guid>
             <pubDate>Wed, 23 Mar 2022 05:11:31 GMT</pubDate>
