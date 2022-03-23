@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 22:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 23:13:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,6 +192,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/17/l_2022031601002011000177881.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[페미니스트는 어떻게 연애해? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/746</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/746</guid>
+            <pubDate>Wed, 23 Mar 2022 23:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 연애 혹은 사랑 그 사이를 넘나드는 관계 맺기에 대해 이야기를 나눠보고 싶어요. '아니, 이렇게 엄중한 때에 무슨 사랑 이야기!'라고 생각하실 수 있지만, 몇 주 연속 정치·사회 뉴스를 계속해서 봐야 했기에 이번 주는 머리를 식혀보도록 해요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/d73f39f9-5206-4f58-b03a-bc6686d21837.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["20대 여성도 유권자다!" (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/733</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/733</guid>
@@ -262,14 +270,6 @@
             <pubDate>Wed, 12 Jan 2022 23:13:17 GMT</pubDate>
             <content:encoded><![CDATA[월 9일 대선을 50여 일 앞두고 정치권에 넘쳐흐르는 혐오와 조롱의 언어에 유권자들이 모멸감을 느끼는 날들이 이어지고 있어요. 사회 유력 인사의 사회관계망서비스(SNS)를 채운 '멸치'와 '콩' 사진이 더 나은 사회를 이끄는 토론의 목소리를 압도하고 있고요. 제1야당의 대선 후보는 밑도 끝도 없이 '여성가족부 폐지'라는 일곱 자를 페이스북에 띄워 호응을 얻습니다. 유권자에 대한 예의도 아니며, 책임 있는 정치인의 모습도 아닙니다. 정치권이 왜 '밈(meme) 판'이 되어 버린 걸까요? 허스토리가 맥락을 더해 종합적으로 설명해 드릴게요.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/15ab77dd-7929-43d0-8331-2a40e53848ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여자를 위한 나라는... 있다? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herstory/Read/626</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herstory/Read/626</guid>
-            <pubDate>Fri, 07 Jan 2022 19:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[해의 첫 허스토리 뉴스레터를 이렇게 보내드리게 되어 무척 반갑습니다. 누가 뭐라 해도 올해 가장 중요한 이벤트는 3월 9일 대통령 선거일 겁니다. 지난해 마지막 뉴스레터에서 정치, 사회뿐 아니라 다양한 분야를 다루고 싶다고 했지만, 민망하게도 신년 첫 메일부터 정치를 다루는 이유입니다. 대통령을 뽑는다는 것은 우리 삶의 근간을 이루는 많은 법과 제도, 관점이 바뀔 정도로 중요한 일이니까요!]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/a5f20f11-a242-4b2d-817f-67b3c1442f72.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[페미니즘은 “윤석열이냐, 이재명이냐”를 뛰어넘는 질문이다 (일다 ─ 전체기사)]]></title>
