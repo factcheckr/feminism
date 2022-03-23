@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 05:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 06:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 땅의 모든 '선자'에게 바치는 이야기, 영화 '파친코']]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202203231341001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202203231341001</guid>
+            <pubDate>Wed, 23 Mar 2022 06:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[1915년 부산 영도에서 소녀가 태어난다. 한쪽 다리를 저는 아버지는 어렵게 얻은 딸 선자를 끔찍이 아낀다. 선자는 “계집애는 끼니만 챙길 줄 알면 된다”는 어머니 밑에서 학교에 가지는 못하지만 어머니의 단단한 마음을 배우며 자란다. 열여섯 살이 된 선자는 일본 오사카에서 새로 온 수산업자 고한수(이민호)와 사랑에 빠진다. 이들의 사랑은 순탄치 않다. 선자는 일본으로 가며 가족, 고향과 생이별할 운명에 놓인다.온라인동영상서비스(OTT) 애플tv플러스가 오리지널 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/23/l_2022032301002929100262581.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경찰, 위장 수사 5개월만에 아동 성착취범 96명 잡았다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202203231016001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 17 Mar 2022 02:15:53 GMT</pubDate>
             <content:encoded><![CDATA[나는 친할머니가 참 어려웠다. 내 할머니는 포용과 사랑이 아니라 까다로운 예절 교육의 아이콘이셨다. 할머니가 오시면 늘 절을 하며 인사를 드려야 했는데, 이렇게 절을 올리는 것은 내 세대에는 이미 일반적이지 않은 관습이었다. 절을 올릴 때면 상당히 긴장했던 기억도 생생하다. 팔의 각도, 어깨 자세 등을 놓고 또 한 소리를 들었고, 사촌들과 나란히 절을 할 때면 절에 대한 품평까지 각오해야 했다. 밥상머리에서 식사예절에 관한 잔소리도 한 무더기였다. 내가...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/17/l_2022031601002011000177881.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[또 다른 변희수·이예람의 죽음을 막지 못하면 '강한 군'은 없다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202203161445001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202203161445001</guid>
-            <pubDate>Wed, 16 Mar 2022 07:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 3월은 군 인권사에서 결코 지워질 수 없는 시간이다. 성전환 수술 후 강제전역 당한 고 변희수 하사가 극단적인 선택을 한 채로 발견됐다. 또 공군의 이예람 중사가 선임 부사관에게 강제추행을 당한 뒤 2개월 후 스스로 생을 마감했다. 이후 군 인권 상황을 폭로하는 사건들이 봇물 터지듯 뒤를 이었다. 1년이 흐른 지금, 방혜린 군인권센터 상담지원팀장(32)은 “그동안 무엇이 바뀌었느냐는 물음을 던질 수밖에 없다”고 말한다. 방 팀장은 고 변 하사를 ‘희...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/16/l_2022031401001727200151971.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
