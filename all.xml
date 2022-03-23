@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 02:32:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 03:25:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경찰, 위장 수사 5개월만에 아동 성착취범 96명 잡았다 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202203231016001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202203231016001</guid>
+            <pubDate>Wed, 23 Mar 2022 03:24:47 GMT</pubDate>
+            <content:encoded><![CDATA[경찰청 국가수사본부 사이버수사국은 아동·청소년 대상 디지털 성범죄 수사 분야에 위장 수사 제도를 도입한 이후 90건을 위장 수사해 총 96명을 검거하고 6명을 구속했다고 22일 밝혔다. ‘아동·청소년의 성보호에 관한 법률(청소년성보호법)’ 개정으로 지난해 9월24일부터 아동·청소년 대상 디지털 성범죄 분야에 한해 위장 수사가 허용됐다.디지털 성범죄에 대한 경찰의 위장 수사는 크게 두 가지로 나뉜다. 상급 경찰관서의 사전 승인만 받으면 되는 ‘신분 비공개 수사’와...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/23/l_2022032201002826400251191.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새드 엔딩을 거부하는 백수 가족의 '플랫폼 노동 생존기' (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202203221408001</link>
@@ -80,14 +88,6 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/16/l_2022031401001727200151971.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['재생산의 시간'에서 '나의 시간'을 되찾기 위한 투쟁 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202203161055001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202203161055001</guid>
-            <pubDate>Wed, 16 Mar 2022 02:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[아니 에르노는 자신의 소설 &lt;사건&gt;을 영화화하는 감독 오드리 디완에게 촬영 직전 안톤 체홉의 인용구를 보내주었다고 한다. “정확히 하라. 그러면 나머지는 적절한 때에 따라올 것이다.”에르노는 “체험하지 않은 허구를 쓴 적은 한 번도 없고 앞으로도 그럴 것”이라고 말하는 프랑스의 소설가다. 초기에는 전통적인 픽션으로서의 소설에 근접한 적도 있지만, &lt;자리&gt;(1984)부터는 작가 개인의 체험과 기억을 해부하듯 들여다보며 쓰고 있다. 2000년 출간된 &lt;...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/16/l_2022031101001553300134231.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
@@ -110,6 +110,14 @@
             <pubDate>Mon, 17 Jan 2022 10:24:00 GMT</pubDate>
             <content:encoded><![CDATA[2022. 01. 17]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경찰, 위장 수사 5개월만에 아동 성착취범 96명 잡았다 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202203231016001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202203231016001</guid>
+            <pubDate>Wed, 23 Mar 2022 03:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[경찰청 국가수사본부 사이버수사국은 아동·청소년 대상 디지털 성범죄 수사 분야에 위장 수사 제도를 도입한 이후 90건을 위장 수사해 총 96명을 검거하고 6명을 구속했다고 22일 밝혔다. ‘아동·청소년의 성보호에 관한 법률(청소년성보호법)’ 개정으로 지난해 9월24일부터 아동·청소년 대상 디지털 성범죄 분야에 한해 위장 수사가 허용됐다.디지털 성범죄에 대한 경찰의 위장 수사는 크게 두 가지로 나뉜다. 상급 경찰관서의 사전 승인만 받으면 되는 ‘신분 비공개 수사’와...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/23/l_2022032201002826400251191.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새드 엔딩을 거부하는 백수 가족의 '플랫폼 노동 생존기' (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -182,14 +190,6 @@
             <pubDate>Wed, 16 Mar 2022 06:15:03 GMT</pubDate>
             <content:encoded><![CDATA[2021년 3월은 군 인권사에서 결코 지워질 수 없는 시간이다. 성전환 수술 후 강제전역 당한 고 변희수 하사가 극단적인 선택을 한 채로 발견됐다. 또 공군의 이예람 중사가 선임 부사관에게 강제추행을 당한 뒤 2개월 후 스스로 생을 마감했다. 이후 군 인권 상황을 폭로하는 사건들이 봇물 터지듯 뒤를 이었다. 1년이 흐른 지금, 방혜린 군인권센터 상담지원팀장(32)은 “그동안 무엇이 바뀌었느냐는 물음을 던질 수밖에 없다”고 말한다. 방 팀장은 고 변 하사를 ‘희...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/16/l_2022031401001727200151971.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['재생산의 시간'에서 '나의 시간'을 되찾기 위한 투쟁 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202203161055001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202203161055001</guid>
-            <pubDate>Wed, 16 Mar 2022 02:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[아니 에르노는 자신의 소설 &lt;사건&gt;을 영화화하는 감독 오드리 디완에게 촬영 직전 안톤 체홉의 인용구를 보내주었다고 한다. “정확히 하라. 그러면 나머지는 적절한 때에 따라올 것이다.”에르노는 “체험하지 않은 허구를 쓴 적은 한 번도 없고 앞으로도 그럴 것”이라고 말하는 프랑스의 소설가다. 초기에는 전통적인 픽션으로서의 소설에 근접한 적도 있지만, &lt;자리&gt;(1984)부터는 작가 개인의 체험과 기억을 해부하듯 들여다보며 쓰고 있다. 2000년 출간된 &lt;...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/16/l_2022031101001553300134231.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["20대 여성도 유권자다!" (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
