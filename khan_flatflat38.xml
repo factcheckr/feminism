@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 09:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 10:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성희롱→성적괴롭힘, 수치심→불쾌감… 법조계 '언어'가 달라진다]]></title>
+            <link>https://www.khan.co.kr/national/court-law/article/202203251843001</link>
+            <guid>https://www.khan.co.kr/national/court-law/article/202203251843001</guid>
+            <pubDate>Fri, 25 Mar 2022 10:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[법무부 디지털성범죄 등 전문위원회가 성폭력처벌법 등 법령에 남아 있는 ‘성적 수치심’ 등 부적절한 용어를 개정하라고 24일 법무부 등에 권고했다.위원회는 성폭력처벌법 등에 명시된 ‘성적 수치심’을 ‘사람의 신체를 성적 대상으로 하는’으로 대체하라고 권고했다. 청소년성보호법, 아동복지법 등에 남아 있는 ‘성적 수치심’ 역시 삭제될 필요가 있다고 했다. 법무부령(대통령령)인 인권보호수사규칙·형집행법시행규칙에서도 ‘성적 수치심’을 삭제하고 다른 용어로 대체하...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/25/l_2022032501003253500291813.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['살아남은' 우리는 서로의 목격자, 생존자 그리고 메신저였다]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202203251117001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 21 Mar 2022 04:15:14 GMT</pubDate>
             <content:encoded><![CDATA[‘3월의 광란’ 시즌이다. 미국대학농구 최고 축제인 미국대학스포츠협회(NCAA) 주최 전미 대학농구선수권대회에서 대학농구선수들은 프로 못지않은 인기를 누린다. 여자농구 챔피언십과 남자농구 챔피언십을 포괄하는 대회이지만, 1년 전까지만 해도 ‘3월의 광란’은 남자농구만을 지칭하는 브랜드였다. 공식 사회관계망서비스(SNS) 계정에도 남자농구 콘텐츠만이 업로드됐다.지난해 3월, 세도나 프린스(21·오리건대 여자농구부)가 자신의 SNS에 업로드한 38초짜리 동영상은 근본적인 ...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/21/l_2022031801002359200209581.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["윤석열 인수위 27명 중 여성은 고작 4명, 청년은 0명”]]></title>
-            <link>https://www.khan.co.kr/politics/politics-general/article/202203181523011</link>
-            <guid>https://www.khan.co.kr/politics/politics-general/article/202203181523011</guid>
-            <pubDate>Fri, 18 Mar 2022 07:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[박지현 더불어민주당 공동비상대책위원장은 18일 윤석열 대통령 당선인의 대통령직인수위원회 인선과 관련해 “27명 중 여성은 고작 4명이고, 2030대 청년은 한 명도 자리하지 못했다”고 비판했다.박 위원장은 이날 오전 코로나19 확진 격리 이후 처음으로 비대위 회의에 직접 참석해 “윤 당선인은 여성 할당이나 지역 안배를 고려하지 않겠다고 말한 것과 같은 결과였다”며 인수위 인선을 조목조목 지적했다.박 위원장은 먼저 “안철수 인수위원장 역시 지속적으로 대한민국의...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/18/l_2022031801002362000209711.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
