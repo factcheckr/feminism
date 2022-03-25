@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 11:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 12:46:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/15ab77dd-7929-43d0-8331-2a40e53848ce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Sexual Harassment of Alba Workers: “Pretty girl, Why Aren’t You Smiling?” (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9306</link>
+            <guid>https://ildaro.com/9306</guid>
+            <pubDate>Fri, 25 Mar 2022 12:46:10 GMT</pubDate>
+            <content:encoded><![CDATA[I’ve had to smile and do emotional labor that wasn’t in my labor contract, and I’ve often been treated like a product in a display....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022032520342707.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[심판만으로는 설명되지 않는 소년의 삶이 있다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9305</link>
             <guid>https://ildaro.com/9305</guid>
@@ -422,14 +430,6 @@
             <pubDate>Wed, 02 Mar 2022 09:46:00 GMT</pubDate>
             <content:encoded><![CDATA[2030 여성의 표가 갈 곳이 없다면, 10대 여성의 표는 갈 ‘수’가 없는 대선이다. 그러나 우리는 더 이상의 유예를 기다릴 수 없다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022030251236112.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 이주여성이다, 나는 20대 대선 유권자다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9286</link>
-            <guid>https://ildaro.com/9286</guid>
-            <pubDate>Mon, 28 Feb 2022 10:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[대통령 선거가 축제 분위기로 변했다. 처음부터 한국에서 태어나고 성장한 한국 시민에게는 당연한 일인지 모르겠지만, 귀화 이주민에게는 각별한 경험이다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202202/2022022809279672.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
