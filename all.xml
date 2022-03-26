@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 00:51:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 02:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/15ab77dd-7929-43d0-8331-2a40e53848ce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘방망이’ 들고 ‘감투’ 써도 도깨비는 동트면 사라진다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9307</link>
+            <guid>https://ildaro.com/9307</guid>
+            <pubDate>Sat, 26 Mar 2022 09:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[도깨비 씨름판 같았던 지난 선거에서도 멋진 장면이 있었다. ‘아닌 밤중에 도깨비’라더니 난데없이 절반의 유권자를 겁박하던 낮도깨비들을 젊은 여성들이 멈춰 세...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022032603068024.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Sexual Harassment of Alba Workers: “Pretty girl, Why Aren’t You Smiling?” (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9306</link>
             <guid>https://ildaro.com/9306</guid>
@@ -422,14 +430,6 @@
             <pubDate>Thu, 03 Mar 2022 10:15:21 GMT</pubDate>
             <content:encoded><![CDATA[킹 프린세스의 가사에서는 he나 she를 쓰는 일이 거의 없다. 성별을 지칭하는 인칭대명사를 쓰지 않는 것은 곧 특정 성별을 대상으로 쓴 곡이 아니게 된다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022030326424176.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[체육복까지만 ‘허락’한다? 허락받지 않을 ‘권리’를 내놔 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9287</link>
-            <guid>https://ildaro.com/9287</guid>
-            <pubDate>Wed, 02 Mar 2022 09:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[2030 여성의 표가 갈 곳이 없다면, 10대 여성의 표는 갈 ‘수’가 없는 대선이다. 그러나 우리는 더 이상의 유예를 기다릴 수 없다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022030251236112.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
