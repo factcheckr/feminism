@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 02:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 03:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/15ab77dd-7929-43d0-8331-2a40e53848ce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[민주화 열망하며 ‘노랑 경제권’ 만드는 홍콩 사람들 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9308</link>
+            <guid>https://ildaro.com/9308</guid>
+            <pubDate>Sun, 27 Mar 2022 11:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[민주화를 요구하며 정부에 저항하는 활동을 하는 사람들을 응원하는 ‘노랑 경제권’ 가게들 앞에는, 코로나 팬데믹으로 거리에 사람이 뜸한 지금도 손님들의 긴 행렬...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022032749411279.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘방망이’ 들고 ‘감투’ 써도 도깨비는 동트면 사라진다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9307</link>
             <guid>https://ildaro.com/9307</guid>
@@ -422,14 +430,6 @@
             <pubDate>Fri, 04 Mar 2022 09:13:54 GMT</pubDate>
             <content:encoded><![CDATA[자원이 없는, 선택지가 얼마 없는, 자본이 원하는 임금노동자의 역할을 수행하기 어려운, 선택지를 늘려나갈 자원과 여유가 부족한 여성들을 불러 모은다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022030420543936.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새 시대의 록스타는 she/he 아닌 they라 불리길 원한다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9288</link>
-            <guid>https://ildaro.com/9288</guid>
-            <pubDate>Thu, 03 Mar 2022 10:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[킹 프린세스의 가사에서는 he나 she를 쓰는 일이 거의 없다. 성별을 지칭하는 인칭대명사를 쓰지 않는 것은 곧 특정 성별을 대상으로 쓴 곡이 아니게 된다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022030326424176.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
