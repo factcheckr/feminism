@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 00:56:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 02:38:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['여학생 등교 허용' 하루도 안 되어 깨진 탈레반의 약속 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202203281003001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202203281003001</guid>
+            <pubDate>Mon, 28 Mar 2022 02:36:59 GMT</pubDate>
+            <content:encoded><![CDATA[3월 하순부터 여중·고생의 등교를 허용하겠다고 밝혔던 탈레반 정부가 새 학기가 시작한 23일(현지시간) 이들의 등교 일정을 갑자기 취소했다.로이터통신 등 외신에 따르면 탈레반 정부 교육부는 새 학기 첫날인 이날 등교가 시작된 지 몇 시간 만에 여중·고생들의 등교는 다음 고지가 있을 때까지 연기한다고 밝혔다. 교육부는 “여학생들의 복장과 관련해 정부 지도자들이 결정을 내린 후 학교 문을 다시 열겠다”며 샤리아(이슬람 율법)와 아프가니스탄 전통에 따라 복장을...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/28/l_2022032501003254100291891.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성희롱→성적괴롭힘, 수치심→불쾌감… 법조계 '언어'가 달라진다 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/court-law/article/202203251843001</link>
@@ -80,14 +88,6 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/21/l_2022032101002607000232561.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['3월의 광란' 속 여자농구의 자리는 있는가 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/sports/sports-general/article/202203211018001</link>
-            <guid>https://www.khan.co.kr/sports/sports-general/article/202203211018001</guid>
-            <pubDate>Mon, 21 Mar 2022 02:26:47 GMT</pubDate>
-            <content:encoded><![CDATA[‘3월의 광란’ 시즌이다. 미국대학농구 최고 축제인 미국대학스포츠협회(NCAA) 주최 전미 대학농구선수권대회에서 대학농구선수들은 프로 못지않은 인기를 누린다. 여자농구 챔피언십과 남자농구 챔피언십을 포괄하는 대회이지만, 1년 전까지만 해도 ‘3월의 광란’은 남자농구만을 지칭하는 브랜드였다. 공식 사회관계망서비스(SNS) 계정에도 남자농구 콘텐츠만이 업로드됐다.지난해 3월, 세도나 프린스(21·오리건대 여자농구부)가 자신의 SNS에 업로드한 38초짜리 동영상은 근본적인 ...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/21/l_2022031801002359200209581.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
@@ -110,6 +110,14 @@
             <pubDate>Mon, 17 Jan 2022 10:24:00 GMT</pubDate>
             <content:encoded><![CDATA[2022. 01. 17]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['여학생 등교 허용' 하루도 안 되어 깨진 탈레반의 약속 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202203281003001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202203281003001</guid>
+            <pubDate>Mon, 28 Mar 2022 02:37:44 GMT</pubDate>
+            <content:encoded><![CDATA[3월 하순부터 여중·고생의 등교를 허용하겠다고 밝혔던 탈레반 정부가 새 학기가 시작한 23일(현지시간) 이들의 등교 일정을 갑자기 취소했다.로이터통신 등 외신에 따르면 탈레반 정부 교육부는 새 학기 첫날인 이날 등교가 시작된 지 몇 시간 만에 여중·고생들의 등교는 다음 고지가 있을 때까지 연기한다고 밝혔다. 교육부는 “여학생들의 복장과 관련해 정부 지도자들이 결정을 내린 후 학교 문을 다시 열겠다”며 샤리아(이슬람 율법)와 아프가니스탄 전통에 따라 복장을...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/28/l_2022032501003254100291891.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성희롱→성적괴롭힘, 수치심→불쾌감… 법조계 '언어'가 달라진다 (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -182,14 +190,6 @@
             <pubDate>Mon, 21 Mar 2022 04:15:14 GMT</pubDate>
             <content:encoded><![CDATA[“난 너무 힘들게 살고 힘들게 촬영하기 때문에 다른 순간엔 웃고 쉬고 싶어요. 그 장면을 찍을 때만 진지하면 되지, 나중에 감독이랑 막 진지하게 토론하고 그런 거 너무 스투핏(stupid). 연기는 토론이 아니라, 유 저스트 두 잇 데어(You just do it, there·그냥 거기서 하는 것).…어떤 사람은 그래서 날 싫어하고, 어떤 사람들은 그래서 날 좋아하고. 그게 세상이죠, 뭐.”애플tv플러스의 새 오리지널 드라마 &lt;파친코&gt; 공개를 앞두고 18일 오전(한국시간) 진행된...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/21/l_2022032101002607000232561.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['3월의 광란' 속 여자농구의 자리는 있는가 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/sports/sports-general/article/202203211018001</link>
-            <guid>https://www.khan.co.kr/sports/sports-general/article/202203211018001</guid>
-            <pubDate>Mon, 21 Mar 2022 02:26:47 GMT</pubDate>
-            <content:encoded><![CDATA[‘3월의 광란’ 시즌이다. 미국대학농구 최고 축제인 미국대학스포츠협회(NCAA) 주최 전미 대학농구선수권대회에서 대학농구선수들은 프로 못지않은 인기를 누린다. 여자농구 챔피언십과 남자농구 챔피언십을 포괄하는 대회이지만, 1년 전까지만 해도 ‘3월의 광란’은 남자농구만을 지칭하는 브랜드였다. 공식 사회관계망서비스(SNS) 계정에도 남자농구 콘텐츠만이 업로드됐다.지난해 3월, 세도나 프린스(21·오리건대 여자농구부)가 자신의 SNS에 업로드한 38초짜리 동영상은 근본적인 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/21/l_2022031801002359200209581.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[페미니스트는 어떻게 연애해? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
@@ -270,6 +270,14 @@
             <pubDate>Wed, 12 Jan 2022 23:13:17 GMT</pubDate>
             <content:encoded><![CDATA[월 9일 대선을 50여 일 앞두고 정치권에 넘쳐흐르는 혐오와 조롱의 언어에 유권자들이 모멸감을 느끼는 날들이 이어지고 있어요. 사회 유력 인사의 사회관계망서비스(SNS)를 채운 '멸치'와 '콩' 사진이 더 나은 사회를 이끄는 토론의 목소리를 압도하고 있고요. 제1야당의 대선 후보는 밑도 끝도 없이 '여성가족부 폐지'라는 일곱 자를 페이스북에 띄워 호응을 얻습니다. 유권자에 대한 예의도 아니며, 책임 있는 정치인의 모습도 아닙니다. 정치권이 왜 '밈(meme) 판'이 되어 버린 걸까요? 허스토리가 맥락을 더해 종합적으로 설명해 드릴게요.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/15ab77dd-7929-43d0-8331-2a40e53848ce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[페미니즘은 ‘중앙’이 아닌 ‘변방’에서 태어난 사유이다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9309</link>
+            <guid>https://ildaro.com/9309</guid>
+            <pubDate>Mon, 28 Mar 2022 11:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[나에게 페미니즘은 먼 길을 가기 위한 지도다. 다만 아직 모든 길이 다 나와있지는 않고, 걸으면서 어디까지 왔는지, 어디에 무엇이 있었는지 표시하며 가야한다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022032813411914.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[민주화 열망하며 ‘노랑 경제권’ 만드는 홍콩 사람들 (일다 ─ 전체기사)]]></title>
@@ -422,14 +430,6 @@
             <pubDate>Sat, 05 Mar 2022 09:12:14 GMT</pubDate>
             <content:encoded><![CDATA["If there wer no men in this world, and only women, all the lowly troubles from our daily lives would disappear."...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022030506304265.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성판매 여성을 처벌하는 현행법 개정해야 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9289</link>
-            <guid>https://ildaro.com/9289</guid>
-            <pubDate>Fri, 04 Mar 2022 09:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[자원이 없는, 선택지가 얼마 없는, 자본이 원하는 임금노동자의 역할을 수행하기 어려운, 선택지를 늘려나갈 자원과 여유가 부족한 여성들을 불러 모은다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022030420543936.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

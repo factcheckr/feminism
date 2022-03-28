@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 00:56:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 02:38:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['여학생 등교 허용' 하루도 안 되어 깨진 탈레반의 약속]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202203281003001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202203281003001</guid>
+            <pubDate>Mon, 28 Mar 2022 02:36:59 GMT</pubDate>
+            <content:encoded><![CDATA[3월 하순부터 여중·고생의 등교를 허용하겠다고 밝혔던 탈레반 정부가 새 학기가 시작한 23일(현지시간) 이들의 등교 일정을 갑자기 취소했다.로이터통신 등 외신에 따르면 탈레반 정부 교육부는 새 학기 첫날인 이날 등교가 시작된 지 몇 시간 만에 여중·고생들의 등교는 다음 고지가 있을 때까지 연기한다고 밝혔다. 교육부는 “여학생들의 복장과 관련해 정부 지도자들이 결정을 내린 후 학교 문을 다시 열겠다”며 샤리아(이슬람 율법)와 아프가니스탄 전통에 따라 복장을...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/28/l_2022032501003254100291891.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성희롱→성적괴롭힘, 수치심→불쾌감… 법조계 '언어'가 달라진다]]></title>
             <link>https://www.khan.co.kr/national/court-law/article/202203251843001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 21 Mar 2022 04:15:14 GMT</pubDate>
             <content:encoded><![CDATA[“난 너무 힘들게 살고 힘들게 촬영하기 때문에 다른 순간엔 웃고 쉬고 싶어요. 그 장면을 찍을 때만 진지하면 되지, 나중에 감독이랑 막 진지하게 토론하고 그런 거 너무 스투핏(stupid). 연기는 토론이 아니라, 유 저스트 두 잇 데어(You just do it, there·그냥 거기서 하는 것).…어떤 사람은 그래서 날 싫어하고, 어떤 사람들은 그래서 날 좋아하고. 그게 세상이죠, 뭐.”애플tv플러스의 새 오리지널 드라마 &lt;파친코&gt; 공개를 앞두고 18일 오전(한국시간) 진행된...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/21/l_2022032101002607000232561.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['3월의 광란' 속 여자농구의 자리는 있는가]]></title>
-            <link>https://www.khan.co.kr/sports/sports-general/article/202203211018001</link>
-            <guid>https://www.khan.co.kr/sports/sports-general/article/202203211018001</guid>
-            <pubDate>Mon, 21 Mar 2022 04:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[‘3월의 광란’ 시즌이다. 미국대학농구 최고 축제인 미국대학스포츠협회(NCAA) 주최 전미 대학농구선수권대회에서 대학농구선수들은 프로 못지않은 인기를 누린다. 여자농구 챔피언십과 남자농구 챔피언십을 포괄하는 대회이지만, 1년 전까지만 해도 ‘3월의 광란’은 남자농구만을 지칭하는 브랜드였다. 공식 사회관계망서비스(SNS) 계정에도 남자농구 콘텐츠만이 업로드됐다.지난해 3월, 세도나 프린스(21·오리건대 여자농구부)가 자신의 SNS에 업로드한 38초짜리 동영상은 근본적인 ...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/21/l_2022031801002359200209581.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
