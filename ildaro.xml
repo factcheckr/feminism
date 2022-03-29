@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ildaro.com/sub_view.html</id>
-    <title>일다 ─ 전체기사</title>
-    <updated>2022-03-29T09:16:33.155Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ildaro.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>일다 ─ 전체기사</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 29 Mar 2022 10:16:49 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재생산은 권리이지 ‘인구정치’의 도구가 아니다]]></title>
+            <link>https://ildaro.com/9310</link>
+            <guid>https://ildaro.com/9310</guid>
+            <pubDate>Tue, 29 Mar 2022 10:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[재생산권과 관련한 활동을 하면서, 재생산이라는 단어가 너무 어렵다며 굳이 재생산이라는 말을 써야 하냐는 질문도 여러 번 받았다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/202203295901119.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[페미니즘은 ‘중앙’이 아닌 ‘변방’에서 태어난 사유이다]]></title>
+            <link>https://ildaro.com/9309</link>
+            <guid>https://ildaro.com/9309</guid>
+            <pubDate>Mon, 28 Mar 2022 11:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[나에게 페미니즘은 먼 길을 가기 위한 지도다. 다만 아직 모든 길이 다 나와있지는 않고, 걸으면서 어디까지 왔는지, 어디에 무엇이 있었는지 표시하며 가야한다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022032813411914.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민주화 열망하며 ‘노랑 경제권’ 만드는 홍콩 사람들]]></title>
+            <link>https://ildaro.com/9308</link>
+            <guid>https://ildaro.com/9308</guid>
+            <pubDate>Sun, 27 Mar 2022 11:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[민주화를 요구하며 정부에 저항하는 활동을 하는 사람들을 응원하는 ‘노랑 경제권’ 가게들 앞에는, 코로나 팬데믹으로 거리에 사람이 뜸한 지금도 손님들의 긴 행렬...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022032749411279.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘방망이’ 들고 ‘감투’ 써도 도깨비는 동트면 사라진다]]></title>
+            <link>https://ildaro.com/9307</link>
+            <guid>https://ildaro.com/9307</guid>
+            <pubDate>Sat, 26 Mar 2022 09:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[도깨비 씨름판 같았던 지난 선거에서도 멋진 장면이 있었다. ‘아닌 밤중에 도깨비’라더니 난데없이 절반의 유권자를 겁박하던 낮도깨비들을 젊은 여성들이 멈춰 세...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022032603068024.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sexual Harassment of Alba Workers: “Pretty girl, Why Aren’t You Smiling?”]]></title>
+            <link>https://ildaro.com/9306</link>
+            <guid>https://ildaro.com/9306</guid>
+            <pubDate>Tue, 29 Mar 2022 10:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[I’ve had to smile and do emotional labor that wasn’t in my labor contract, and I’ve often been treated like a product in a display....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022032520342707.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[심판만으로는 설명되지 않는 소년의 삶이 있다]]></title>
+            <link>https://ildaro.com/9305</link>
+            <guid>https://ildaro.com/9305</guid>
+            <pubDate>Tue, 29 Mar 2022 10:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[“촉법소년이니까 감옥 안 간다, 신난다!” 굳이 일일이 묻지 않아도 을 시청하는 이들에게 많은 분노를 불러올 장면임을 예상할 수 있다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022032443099238.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[페미니즘은 “윤석열이냐, 이재명이냐”를 뛰어넘는 질문이다]]></title>
+            <link>https://ildaro.com/9304</link>
+            <guid>https://ildaro.com/9304</guid>
+            <pubDate>Tue, 29 Mar 2022 10:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[“개인적인 것이 정치적인 것이다” 나는 그 구호를 '정치에 인간을 끼워 맞추는 것이 아니라, 수많은 사람들의 복잡한 삶 속에서 정치를 시작해야 한다'로 읽는다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022032227578969.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘몸’에 대해 당신이 믿고 있던 것들이 부서질 때]]></title>
+            <link>https://ildaro.com/9303</link>
+            <guid>https://ildaro.com/9303</guid>
+            <pubDate>Mon, 21 Mar 2022 11:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[사회규범과 몸에 내재화된 권력 구조, 고정적인 자기동일성… 우리를 얽매는 몇 겹이나 되는 틀과 경계를 모모세 작가는 픽션을 통해 의식하게 한다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022032143077427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보이지도 말해지지도 않았던 어떤 시간의 결]]></title>
+            <link>https://ildaro.com/9302</link>
+            <guid>https://ildaro.com/9302</guid>
+            <pubDate>Sun, 20 Mar 2022 11:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[너는 내가 나 같아? 거울 앞에서 가발을 쓰다 말고 언니가 나를 돌아보며 처음 물었던 날을 기억한다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022032005066753.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아파트가 철거되고 나면 고양이들은 어디로 가나요?]]></title>
+            <link>https://ildaro.com/9301</link>
+            <guid>https://ildaro.com/9301</guid>
+            <pubDate>Sat, 19 Mar 2022 10:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[“영역동물인 고양이들은 재개발/재건축 사업들로 인해 삶의 터전이 무너지고 영문도 모른채 죽음으로 내몰리고 있”지만 이들을 보호하고자 하는 목소리는 많지 않...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022031916004815.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['유리절벽’ ‘토큰’식 넘어 이제는 여성‧청년 정치로!]]></title>
+            <link>https://ildaro.com/9300</link>
+            <guid>https://ildaro.com/9300</guid>
+            <pubDate>Tue, 29 Mar 2022 10:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[정치 경력이 없어도 무려 대통령이 될 수 있는 거라면 진짜, 여자들이 정치 못할 이유가 있나 싶어요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022031747258493.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이대남, 일번남, 이번남…메갈리아 때로 돌아간 것 같다]]></title>
+            <link>https://ildaro.com/9299</link>
+            <guid>https://ildaro.com/9299</guid>
+            <pubDate>Tue, 29 Mar 2022 10:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[다시 메갈 때로 돌아갔다는 생각이 들어서 벼랑 끝으로 내몰렸다는 느낌, 한편으로 ‘이제 우릴 막을 사람은 없어!’라는 느낌도 들어요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/202203161350371.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘반페미니즘’ 혐오선동의 정치 한가운데서 던지는 질문]]></title>
+            <link>https://ildaro.com/9298</link>
+            <guid>https://ildaro.com/9298</guid>
+            <pubDate>Tue, 15 Mar 2022 00:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[반페미니즘 현상이나 혐오선동의 정치는 한국만의 문제가 아니다. 전 세계 곳곳에서 최근 꾸준히 증가하고 있는 문제다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022031501357214.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[딸들에게 “예뻐져야 해” 대신 자아를 탐구하라는 격려를]]></title>
+            <link>https://ildaro.com/9297</link>
+            <guid>https://ildaro.com/9297</guid>
+            <pubDate>Mon, 14 Mar 2022 11:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[오늘의 사회에서 여자아이들은 ‘여자는 날씬해야 한다’는 말을 들을 게 아니라, 자아에 대해 탐구하고 쓰고 이야기하자는 격려를 받아야 한다고 믿는다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022031433215251.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Life Free From Criticism of My Appearance]]></title>
+            <link>https://ildaro.com/9296</link>
+            <guid>https://ildaro.com/9296</guid>
+            <pubDate>Tue, 29 Mar 2022 10:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[In Korea, we quickly become both the subject and object of appearance critiques, but I wasn’t either while I was in France....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022031347539905.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[병원에서 무시와 차별을 겪는 젊은 여성들]]></title>
+            <link>https://ildaro.com/9295</link>
+            <guid>https://ildaro.com/9295</guid>
+            <pubDate>Sat, 12 Mar 2022 10:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[내가 설명하는 증상을 심각하게 받아들이지 않거나, 심리적인 문제라는 식으로 보거나, 어떤 부분에서 거짓말을 하고 있다고 의심 받는 경험....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022031228599364.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[페미니스트는 백래시를 두려워 않고 한발 더 나아간다]]></title>
+            <link>https://ildaro.com/9294</link>
+            <guid>https://ildaro.com/9294</guid>
+            <pubDate>Thu, 10 Mar 2022 09:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[남성우월 사회를 비판하는 이야기는 누군가를 적으로 만들어버릴지도 모른다는 두려움도 있었습니다. 하지만, 페미니스트들은 그런 것에 대해 각오를 하고 있는 거잖...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022031035396093.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘전시 성폭력’은 계속되고 있다, 연대도 계속돼야 한다]]></title>
+            <link>https://ildaro.com/9293</link>
+            <guid>https://ildaro.com/9293</guid>
+            <pubDate>Tue, 29 Mar 2022 10:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[전시 성폭력 문제를 해소하기 위해선 “지속적으로 피해자와 연대하고, 피해자들의 회복과 재활을 돕는 것, 법정 투쟁을 지지하는 것뿐만 아니라 가해자를 적극적으로...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022030818469073.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이틴은 가볍지 않다]]></title>
+            <link>https://ildaro.com/9292</link>
+            <guid>https://ildaro.com/9292</guid>
+            <pubDate>Tue, 29 Mar 2022 10:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[는 장르적 공식을 충분히 따르면서도 완벽히 새로운 영화다. 주인공의 갈등은 사랑과 우정도 있지만, 주된 갈등은 바로 교내 성차별이다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022030736441087.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여자의 욕망을 통제하는 가부장제에 대한 섬뜩한 풍자]]></title>
+            <link>https://ildaro.com/9291</link>
+            <guid>https://ildaro.com/9291</guid>
+            <pubDate>Sun, 06 Mar 2022 11:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[요샛말로 ‘된장녀’나 ‘김치녀’처럼 제 몫을 챙기고 입치레를 하면 집안 살림, 나라 살림을 어떻게 불리겠는가....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022030621586624.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
