@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 02:37:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 03:30:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[28살 배우 이연이 표현하고 싶었던 13살 소년범의 분노 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202203291012001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202203291012001</guid>
+            <pubDate>Tue, 29 Mar 2022 02:35:14 GMT</pubDate>
+            <content:encoded><![CDATA[‘백성우, 서 있다. 고개를 든다.’뒷골이 서늘한 넷플릭스 오리지널 드라마 &lt;소년심판&gt;의 마지막 장면은 한 줄의 지문에서 탄생했다. 초등생 살인사건 가해자인 소년범 백성우(이연)가 다른 범죄에 연루돼 다시 소년법정에 서서 판사석의 심은석(김혜수)을 노려보는 장면이다. 지난 17일 온라인으로 만난 배우 이연은 “첫 재판 때와 달라진 분노를 표현하고 싶었다”며 “청소년기에 처음에는 영문 모르고 억울해 하다 나중에 남 탓을 하는 일들이 생기지 않나. 백성우라...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/29/l_2022032501003254400291921.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“소수자·약자의 연결은 큰 파도가 된다” 배복주 정의당 부대표가 말하는 연대의 힘 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/politics/politics-general/article/202203281534001</link>
             <guid>https://www.khan.co.kr/politics/politics-general/article/202203281534001</guid>
@@ -182,14 +190,6 @@
             <pubDate>Tue, 22 Mar 2022 06:15:25 GMT</pubDate>
             <content:encoded><![CDATA[“이젠 때가 되었다. 그들 모두 정신을 차릴 때가.” 15평 낡은 집에 여섯 명이 부대끼며 산다. 어린이와 청소년, 두 명의 조카를 제외하고 네 명의 성인이 있는데 누구도 돈을 벌지 않는다. 이서수의 장편소설 &lt;헬프 미 시스터&gt;는 “아줌마는 왜 결혼했는데도 부모랑 살아요?”라는 중학생 은지의 질문에 난감해하는 서른아홉 수경의 이야기로 시작한다. 딱히 할 말이 없어 나온 답은, “나도 몰라”.이 가족의 사연은 이렇다. 먼저 수경의 남편 우재, 40세 ‘전...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/22/l_2022031801002363700209821.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 기업의 40%는 여성이 경영 중이다 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/economy/economy-general/article/202203221015001</link>
-            <guid>https://www.khan.co.kr/economy/economy-general/article/202203221015001</guid>
-            <pubDate>Tue, 22 Mar 2022 02:24:41 GMT</pubDate>
-            <content:encoded><![CDATA[국내기업 5개 중 2개는 여성이 실질적으로 소유하거나 경영하는 ‘여성기업’인 것으로 나타났다.중소벤처기업부는 14일 국내 여성기업이 2019년 기준 277만개로 전년보다 4.4% 증가했다고 밝혔다. 이는 전체 기업(689만개)의 40.2%에 달하는 것으로 역대 최대다. 도매·소매업(26.3%), 부동산업(22.5%), 숙박·음식업(17.8%) 등 3가지 업종이 전체의 66.6%로 다수를 차지했다.2019년 여성기업 고용인력은 497만명으로 전체 종사자의 23.6%를 차지했다. 여성기업의 여성고용비율(69.3%)은 남...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/22/l_2022031801002359900209611.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[페미니스트는 어떻게 연애해? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
