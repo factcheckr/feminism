@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 06:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 07:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[같은 마음으로 달려온 사람들]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202203301525001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202203301525001</guid>
+            <pubDate>Wed, 30 Mar 2022 07:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[59회를 맞은 볼로냐국제아동도서전은 세계의 일러스트레이터와 작가, 어린이책 출판 관계자가 모이는 대축제다. 2년에 한 번씩, 도서전 현장에는 한스 크리스티안 안데르센상의 수상자를 발표하는 자리가 마련된다. 세계 아동문학과 그림책의 역사는 이 상의 수상자 명단을 살펴보면 된다고 할 정도로 최고의 권위를 인정받는 상이다. 지난 3월21일에 발표된 2022년 수상자는 우리나라의 이수지 작가였다. 생방송을 지켜보던 사람들은 수상자 발표 순간에 너도나도 탄성을 질렀다....]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/30/l_2022032801003614400321082.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[휠체어 탄 엄마를 보며 딸은 '왜'라는 질문을 던지기 시작했다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202203301041011</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 24 Mar 2022 05:12:37 GMT</pubDate>
             <content:encoded><![CDATA[주주총회 시즌이다. 올해 주총을 앞두곤 여성 사외이사를 영입하는 대기업의 움직임이 분주했다. 자산 2조원 이상 상장기업은 이사회를 특정 성(性)으로만 구성하지 못하도록 한 개정 자본시장법이 오는 8월 시행되기 때문이다. 기업들은 사내이사 중에 여성이 거의 없다보니, 임기가 끝난 사외이사 자리에 여성을 채워 법을 지키려 했다. 수십년 역사에서 처음 여성 이사가 선임된다는 기업의 뉴스가 여기저기 쏟아졌다.같은 시기 대통령 당선인은 “여성가족부는 역사적 소명을...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/24/l_2022032201002749200245401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 땅의 모든 '선자'에게 바치는 이야기, 드라마 '파친코']]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202203231341001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202203231341001</guid>
-            <pubDate>Wed, 23 Mar 2022 06:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[1915년 부산 영도에서 소녀가 태어난다. 한쪽 다리를 저는 아버지는 어렵게 얻은 딸 선자를 끔찍이 아낀다. 선자는 “계집애는 끼니만 챙길 줄 알면 된다”는 어머니 밑에서 학교에 가지는 못하지만 어머니의 단단한 마음을 배우며 자란다. 열여섯 살이 된 선자는 일본 오사카에서 새로 온 수산업자 고한수(이민호)와 사랑에 빠진다. 이들의 사랑은 순탄치 않다. 선자는 일본으로 가며 가족, 고향과 생이별할 운명에 놓인다.온라인동영상서비스(OTT) 애플tv플러스가 오리지널 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/23/l_2022032301002929100262581.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
