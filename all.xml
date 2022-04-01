@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 03:00:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 03:44:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[과거의 투쟁이 만든 오늘, 우린 비폭력 직접 행동에 빚졌다 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202204011033001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202204011033001</guid>
+            <pubDate>Fri, 01 Apr 2022 02:58:10 GMT</pubDate>
+            <content:encoded><![CDATA[“우리 사회에서 특정 집단의 요구가 100% 관철되는 것은 어렵고, 선량한 시민 최대 다수의 불편을 야기해 뜻을 관철하겠다는 방식은 문명사회에서 받아들이기 어렵다.” 28일 오전 국회에서 열린 국민의힘 최고위원회의에서 이준석 당대표가 전국장애인차별철폐연대(전장연)가 서울지하철에서 벌이고 있는 장애인 이동권 투쟁을 두고 한 말이다. 최근 이 대표의 발언을 보면 ‘특정 집단 대 선량한 시민’으로 갈라칠 의도가 아닌지 의심스럽다. 하지만 (중증)장애인의 문제를 특...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/01/l_2022033001003905900348641.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여가부만 폐지하면 끝일까… '윤석열표 젠더정책'에 담긴 분열의 불씨들 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202203311515001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202203311515001</guid>
@@ -182,14 +190,6 @@
             <pubDate>Fri, 25 Mar 2022 10:14:56 GMT</pubDate>
             <content:encoded><![CDATA[법무부 디지털성범죄 등 전문위원회가 성폭력처벌법 등 법령에 남아 있는 ‘성적 수치심’ 등 부적절한 용어를 개정하라고 24일 법무부 등에 권고했다.위원회는 성폭력처벌법 등에 명시된 ‘성적 수치심’을 ‘사람의 신체를 성적 대상으로 하는’으로 대체하라고 권고했다. 청소년성보호법, 아동복지법 등에 남아 있는 ‘성적 수치심’ 역시 삭제될 필요가 있다고 했다. 법무부령(대통령령)인 인권보호수사규칙·형집행법시행규칙에서도 ‘성적 수치심’을 삭제하고 다른 용어로 대체하...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/25/l_2022032501003253500291813.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['살아남은' 우리는 서로의 목격자, 생존자 그리고 메신저였다 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202203251117001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202203251117001</guid>
-            <pubDate>Fri, 25 Mar 2022 03:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[제20대 대통령 선거가 끝났다. 반여성적 공약과 젠더 갈라치기 전략을 펼쳤던 당선인은 압승을 예상했으나, 0.7% 표차로 초접전을 벌였다. 차별과 혐오를 저지하려는 절박함, 디지털 성범죄 근절 활동을 펼쳤던 박지현 부위원장에 대한 지지 등 다양한 이유로 2030 여성들이 집결했기 때문이다. 2030 여성들이 소위 ‘전략투표’를 한 후, 미안함과 지지를 표하고자 심상정 후보에게 많은 후원금을 보냈다.선거 바로 직전까지 20대 남성만 주목하며 젠더 갈라치기 전략에 별다...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/25/l_2022032401003175600283311.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[짧은 휴식에 들어갑니다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
