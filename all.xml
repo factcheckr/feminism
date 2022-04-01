@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 05:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 06:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아동·청소년 성범죄자, 남성 98%·면식범 66%·평균 34세 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202204011339001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202204011339001</guid>
+            <pubDate>Fri, 01 Apr 2022 05:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[2020년 법원에서 유죄가 확정된 사건 기준으로 아동·청소년을 대상으로 한 성범죄자의 98.1%는 남성이고, 이들의 평균 연령은 34.2세인 것으로 나타났다.여성가족부는 이같은 내용의 ‘아동·청소년 대상 성범죄 발생 추세와 동향 분석’ 결과를 24일 발표했다.이 자료는 여가부 장관이 아동·청소년 대상 성범죄의 발생 추세와 동향 등 계도에 필요한 사항을 1년에 2회 이상 공표해야 한다는 아동·청소년의 성보호에 관한 법률에 따라 2020년 유죄 판결이 확정돼 신상 정보 등...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/01/l_2022033001003878400347161.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[과거의 투쟁이 만든 오늘, 우린 비폭력 직접 행동에 빚졌다 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202204011033001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 28 Mar 2022 02:36:59 GMT</pubDate>
             <content:encoded><![CDATA[3월 하순부터 여중·고생의 등교를 허용하겠다고 밝혔던 탈레반 정부가 새 학기가 시작한 23일(현지시간) 이들의 등교 일정을 갑자기 취소했다.로이터통신 등 외신에 따르면 탈레반 정부 교육부는 새 학기 첫날인 이날 등교가 시작된 지 몇 시간 만에 여중·고생들의 등교는 다음 고지가 있을 때까지 연기한다고 밝혔다. 교육부는 “여학생들의 복장과 관련해 정부 지도자들이 결정을 내린 후 학교 문을 다시 열겠다”며 샤리아(이슬람 율법)와 아프가니스탄 전통에 따라 복장을...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/28/l_2022032501003254100291891.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성희롱→성적괴롭힘, 수치심→불쾌감… 법조계 '언어'가 달라진다 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/court-law/article/202203251843001</link>
-            <guid>https://www.khan.co.kr/national/court-law/article/202203251843001</guid>
-            <pubDate>Fri, 25 Mar 2022 10:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[법무부 디지털성범죄 등 전문위원회가 성폭력처벌법 등 법령에 남아 있는 ‘성적 수치심’ 등 부적절한 용어를 개정하라고 24일 법무부 등에 권고했다.위원회는 성폭력처벌법 등에 명시된 ‘성적 수치심’을 ‘사람의 신체를 성적 대상으로 하는’으로 대체하라고 권고했다. 청소년성보호법, 아동복지법 등에 남아 있는 ‘성적 수치심’ 역시 삭제될 필요가 있다고 했다. 법무부령(대통령령)인 인권보호수사규칙·형집행법시행규칙에서도 ‘성적 수치심’을 삭제하고 다른 용어로 대체하...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/25/l_2022032501003253500291813.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
