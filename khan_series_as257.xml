@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 07:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 08:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여성 해방 꿈꾼 해녀 김진언의 4·3 증언 <선창은 언제나 나의 몫이었다>]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202204041539001</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202204041539001</guid>
+            <pubDate>Mon, 04 Apr 2022 08:16:36 GMT</pubDate>
+            <content:encoded><![CDATA[선창은 언제나 나의 몫이었다양경인 지음 | 은행나무 | 216쪽 | 1만2000원제주 4·3사건은 군부 독재와 반공 이데올로기로 인해 오랜 세월 공론화되지 못했다. 1947년부터 7년간 제주도민의 10분의 1에 해당하는 3만명이 희생됐지만 국가폭력 피해자들은 긴 시간 침묵해야 했고, 그 통곡의 세월을 세상에 꺼내놓지 못한 채 삶을 마감한 이들도 많았다. &lt;선창은 언제나 나의 몫이었다&gt;는 제주 4·3사건과 격변기 한국 현대사의 비극을 온몸으로 겪은 한 여성운동가의 삶...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/04/l_2022040401000315900024701.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['해군 성폭행' 피해자는 동일한데 가해자 한 명은 유죄, 한 명은 무죄?]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202204041052001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 29 Mar 2022 03:29:55 GMT</pubDate>
             <content:encoded><![CDATA[‘백성우, 서 있다. 고개를 든다.’뒷골이 서늘한 넷플릭스 오리지널 드라마 &lt;소년심판&gt;의 마지막 장면은 한 줄의 지문에서 탄생했다. 초등생 살인사건 가해자인 소년범 백성우(이연)가 다른 범죄에 연루돼 다시 소년법정에 서서 판사석의 심은석(김혜수)을 노려보는 장면이다. 지난 17일 온라인으로 만난 배우 이연은 “첫 재판 때와 달라진 분노를 표현하고 싶었다”며 “청소년기에 처음에는 영문 모르고 억울해 하다 나중에 남 탓을 하는 일들이 생기지 않나. 백성우라...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/29/l_2022032501003254400291921.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“소수자·약자의 연결은 큰 파도가 된다” 배복주 정의당 부대표가 말하는 연대의 힘]]></title>
-            <link>https://www.khan.co.kr/politics/politics-general/article/202203281534001</link>
-            <guid>https://www.khan.co.kr/politics/politics-general/article/202203281534001</guid>
-            <pubDate>Mon, 28 Mar 2022 10:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[세 살 때 소아마비로 잘 걷지 못하게 된 여자아이는 고민이 많았다. 나는 왜 장애인이 됐을까. 우리 집은 어쩌다 가난할까. 왜 나는 공부를 못할까. 게다가 이름마저 ‘복주’라니. 세상에 없는 듯 조용하게 살고 싶었는데, 선생님들은 걸핏하면 이 특이한 이름을 불렀다. 아이들은 절름거리는 그의 걸음걸이를 흉내 내며 놀려댔다. 학교가 싫었다. 고등학교를 졸업하면 공장에 취직할 계획이었다.배복주 정의당 부대표(50)는 그때만 해도 자신이 장애인 인권운동가이자 성폭력...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/28/l_2022032501003254300291911.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
