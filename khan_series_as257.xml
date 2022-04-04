@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 00:57:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 02:44:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['해군 성폭행' 피해자는 동일한데 가해자 한 명은 유죄, 한 명은 무죄?]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202204041052001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202204041052001</guid>
+            <pubDate>Mon, 04 Apr 2022 02:44:16 GMT</pubDate>
+            <content:encoded><![CDATA[성소수자 여성 장교를 성폭행한 혐의를 받는 해군 대령에게 군사법원이 내린 무죄 판결이 대법원에서 유죄 취지로 파기됐다. 반면 같은 피해자를 여러 차례 성폭행·성추행한 혐의로 기소된 소령에게는 무죄가 확정됐다. 동일인이 당한 연결된 사건을 두고 대법원 재판부별로 피해자 진술의 신빙성을 달리 판단한 것이다. 피해자 측은 “일련의 사건임에도 불구하고 대법원의 피해자 진술 신빙성에 대한 판단이 엇갈린 것은 모순”이라며 반발했다.대법원 1부(주심 박정화 대법관...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/04/l_2022040101000097800004051.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아동·청소년 성범죄자, 남성 98%·면식범 66%·평균 34세]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202204011339001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 28 Mar 2022 10:14:42 GMT</pubDate>
             <content:encoded><![CDATA[세 살 때 소아마비로 잘 걷지 못하게 된 여자아이는 고민이 많았다. 나는 왜 장애인이 됐을까. 우리 집은 어쩌다 가난할까. 왜 나는 공부를 못할까. 게다가 이름마저 ‘복주’라니. 세상에 없는 듯 조용하게 살고 싶었는데, 선생님들은 걸핏하면 이 특이한 이름을 불렀다. 아이들은 절름거리는 그의 걸음걸이를 흉내 내며 놀려댔다. 학교가 싫었다. 고등학교를 졸업하면 공장에 취직할 계획이었다.배복주 정의당 부대표(50)는 그때만 해도 자신이 장애인 인권운동가이자 성폭력...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/28/l_2022032501003254300291911.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['여학생 등교 허용' 하루도 안 되어 깨진 탈레반의 약속]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202203281003001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202203281003001</guid>
-            <pubDate>Mon, 28 Mar 2022 02:37:44 GMT</pubDate>
-            <content:encoded><![CDATA[3월 하순부터 여중·고생의 등교를 허용하겠다고 밝혔던 탈레반 정부가 새 학기가 시작한 23일(현지시간) 이들의 등교 일정을 갑자기 취소했다.로이터통신 등 외신에 따르면 탈레반 정부 교육부는 새 학기 첫날인 이날 등교가 시작된 지 몇 시간 만에 여중·고생들의 등교는 다음 고지가 있을 때까지 연기한다고 밝혔다. 교육부는 “여학생들의 복장과 관련해 정부 지도자들이 결정을 내린 후 학교 문을 다시 열겠다”며 샤리아(이슬람 율법)와 아프가니스탄 전통에 따라 복장을...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/03/28/l_2022032501003254100291891.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
