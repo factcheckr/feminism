@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 03:26:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 04:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['출생통보제' 도입 전에도 미신고 아동 지원받도록 보호한다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202204051302001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202204051302001</guid>
+            <pubDate>Tue, 05 Apr 2022 04:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 ‘출생통보제’ 도입 이전까지 출생신고가 안 된 채 방치된 아이들을 집중적으로 발굴하고, 미신고 아동이 필요한 지원을 받을 수 있도록 보호조치를 시행한다.행정안전부는 이 같은 내용의 ‘출생 미신고 아동 보호대책’을 보건복지부, 법무부 등과 함께 마련해 31일 국정현안점검조정회의에 보고했다. 이 대책은 의료기관이 출생 사실을 지자체에 직접 통보해 출생신고 누락을 막는 출생통보제가 도입되기 전까지 미신고 아동을 발굴, 지원하기 위한 내용이다. 앞서 정...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/05/l_2022040101000098000004071.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[광범위한 '전시 성폭력', 우크라이나 여성들에겐 보호망이 없다]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202204051056001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 30 Mar 2022 02:31:13 GMT</pubDate>
             <content:encoded><![CDATA[엄마는 세 살쯤 소아마비를 앓은 뒤 장애를 가졌다. 걷는 게 불편했다. 그러나 휠체어를 타지 않았다. 조금이라도 걸으려 했지만 수시로 넘어졌다. 장애가 지긋지긋했다. 엄마는 비장애인처럼 살기 위해 애썼다. 그게 인간다운 삶이라고 생각했다. 장애인에게 가해지는 제약은 ‘어쩔 수 없는 건가 보다’ 여겼다.엄마는 컴퓨터를 배우러 장애인복지관에 갔다가 장애인자립생활센터를 알게 됐다. 어쩌다 센터 소장을 맡았다. 마흔이 된 엄마는 그렇게 장애인 운동에 발을 들였다...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/30/l_2022032801003612300320971.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["다음 세대 여성들을 위한 한국 여성들의 싸움을 기록하고 싶었다"]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202203291348001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202203291348001</guid>
-            <pubDate>Tue, 29 Mar 2022 05:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[“여러분 것도 어딘가 촬영된 게 돌아다니고 있을 걸요?” 4~5년 전 한 매체에서 기자로 일했던 최지은씨는 불법촬영 관련 취재를 하다가 어느 활동가에게 이런 말을 들은 적이 있다. 설마 그 정도는 아니겠지. 내 것은 없겠지. 그렇게 생각했다. 어느날 새벽 누군가 초인종을 마구 눌렀다. 경찰이었다. 건물 밖에서 누군가 최씨의 집을 촬영했고, 그 영상물 속 피해자가 맞는지 확인하러 왔다고 했다. 오피스텔에서 300~400m 떨어진 건물 옥상에서 한 남성이 최씨를 수주...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/29/l_2022032801003542300317081.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
