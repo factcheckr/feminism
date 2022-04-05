@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 00:54:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 02:28:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웃는 여자? 아니 웃기는 여자!]]></title>
+            <link>https://ildaro.com/9315</link>
+            <guid>https://ildaro.com/9315</guid>
+            <pubDate>Tue, 05 Apr 2022 11:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[웃게 하는 사람은 남자고 웃는 사람은 여자였다. 수많은 사람들이 여자의 웃음을 원했다. 그러나 정작 웃기는 여자는 비호감으로 일축되었다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022040519588675.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Five Suitcases of My Coming Out]]></title>
             <link>https://ildaro.com/9314</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 29 Mar 2022 10:16:49 GMT</pubDate>
             <content:encoded><![CDATA[In Korea, we quickly become both the subject and object of appearance critiques, but I wasn’t either while I was in France....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022031347539905.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[병원에서 무시와 차별을 겪는 젊은 여성들]]></title>
-            <link>https://ildaro.com/9295</link>
-            <guid>https://ildaro.com/9295</guid>
-            <pubDate>Sat, 12 Mar 2022 10:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[내가 설명하는 증상을 심각하게 받아들이지 않거나, 심리적인 문제라는 식으로 보거나, 어떤 부분에서 거짓말을 하고 있다고 의심 받는 경험....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022031228599364.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
