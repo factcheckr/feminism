@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 00:58:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 02:31:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재건축 시대의 고양이들은 어디로 이사를 갈까]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202204061033031</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202204061033031</guid>
+            <pubDate>Wed, 06 Apr 2022 02:28:55 GMT</pubDate>
+            <content:encoded><![CDATA[1979년 준공된 서울 강동구의 둔촌주공아파트 164개동에는 5930세대가 살았다. 40년 세월동안 아이들은 어른이 됐고 묘목이었던 나무가 모여 울창한 숲을 이뤘다. 살기 좋은 아파트에 고양이들도 터를 잡았다. 주민들의 손을 탄 고양이들은 길고양이와 집고양이 사이 ‘아파트 고양이’로 거듭났다. 수년간 몇 번씩이나 동네를 뒤숭숭하게 만든 재건축 소식은 2017년 5월 관리처분계획 인가가 떨어지면서 그 일정이 확정됐다. 사람들은 이주를 준비하기 시작했다. 고양이들은 영문...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/06/l_2022040101000098500004123.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['출생통보제' 도입 전에도 미신고 아동 지원받도록 보호한다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202204051302001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 30 Mar 2022 09:12:26 GMT</pubDate>
             <content:encoded><![CDATA[59회를 맞은 볼로냐국제아동도서전은 세계의 일러스트레이터와 작가, 어린이책 출판 관계자가 모이는 대축제다. 2년에 한 번씩, 도서전 현장에는 한스 크리스티안 안데르센상의 수상자를 발표하는 자리가 마련된다. 세계 아동문학과 그림책의 역사는 이 상의 수상자 명단을 살펴보면 된다고 할 정도로 최고의 권위를 인정받는 상이다. 지난 3월21일에 발표된 2022년 수상자는 우리나라의 이수지 작가였다. 생방송을 지켜보던 사람들은 수상자 발표 순간에 너도나도 탄성을 질렀다....]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/30/l_2022032801003614400321082.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[휠체어 탄 엄마를 보며 딸은 '왜'라는 질문을 던지기 시작했다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202203301041011</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202203301041011</guid>
-            <pubDate>Wed, 30 Mar 2022 02:31:13 GMT</pubDate>
-            <content:encoded><![CDATA[엄마는 세 살쯤 소아마비를 앓은 뒤 장애를 가졌다. 걷는 게 불편했다. 그러나 휠체어를 타지 않았다. 조금이라도 걸으려 했지만 수시로 넘어졌다. 장애가 지긋지긋했다. 엄마는 비장애인처럼 살기 위해 애썼다. 그게 인간다운 삶이라고 생각했다. 장애인에게 가해지는 제약은 ‘어쩔 수 없는 건가 보다’ 여겼다.엄마는 컴퓨터를 배우러 장애인복지관에 갔다가 장애인자립생활센터를 알게 됐다. 어쩌다 센터 소장을 맡았다. 마흔이 된 엄마는 그렇게 장애인 운동에 발을 들였다...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/30/l_2022032801003612300320971.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
