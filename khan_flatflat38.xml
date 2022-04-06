@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 05:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 06:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["구조적 차별은 없다"라는 말에 "있다"라는 답으론 부족하다]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202204061447001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202204061447001</guid>
+            <pubDate>Wed, 06 Apr 2022 06:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[성평등을 위해서는 ‘이미 아무것도 안 하고 있지만 더 격렬하게 아무것도 안 하고 싶다.’ 윤석열 당선인의 여성가족부 폐지 고집은 한때 유행했던 광고 문구를 떠올리게 했다. 대통령직인수위원회는 여가부가 파견한 공무원은 받지 않았고 업무보고는 30분 만에 끝냈다. 이미 없는 부처로 취급하는 수준이다.성평등 실현을 위해 전담 부처가 필요하다는 점은 국제사회에서 상식이다. ‘역사적 소명’을 다해 축하받으며 전담 기구가 사라졌다는 소식은 들어보지 못했다. 우여곡...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/06/l_2022040601000674900057671.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재건축 시대의 고양이들은 어디로 이사를 갈까]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202204061033031</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 31 Mar 2022 00:56:31 GMT</pubDate>
             <content:encoded><![CDATA[최사라(19)는 4년 전 평창 동계패럴림픽에 선수로 뛰지 못했다. 국가대표이긴 했는데 나이가 어렸다. 규정상 대회 출전이 가능한 나이보다 한 살 적었다. 대신 그는 대회 개회식 현장에서 패럴림픽 유망 선수 10명과 함께 대회기 입장 세리머니에 참여해 씩씩하게 행진했다. 그리고 알파인스키 공식 경기 전 시범 레이스에 나서 시원하게 슬로프를 달렸다. 그때부터 2022 베이징 동계패럴림픽 무대를 그리고 또 그렸다.4년이 훌쩍 지나 올해 3월, 최사라는 중국 베이징 옌칭...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/31/l_2022033101003954100354581.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[같은 마음으로 달려온 사람들]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202203301525001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202203301525001</guid>
-            <pubDate>Wed, 30 Mar 2022 09:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[59회를 맞은 볼로냐국제아동도서전은 세계의 일러스트레이터와 작가, 어린이책 출판 관계자가 모이는 대축제다. 2년에 한 번씩, 도서전 현장에는 한스 크리스티안 안데르센상의 수상자를 발표하는 자리가 마련된다. 세계 아동문학과 그림책의 역사는 이 상의 수상자 명단을 살펴보면 된다고 할 정도로 최고의 권위를 인정받는 상이다. 지난 3월21일에 발표된 2022년 수상자는 우리나라의 이수지 작가였다. 생방송을 지켜보던 사람들은 수상자 발표 순간에 너도나도 탄성을 질렀다....]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/30/l_2022032801003614400321082.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
