@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 00:57:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 02:42:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[저 혼자만 잘 자라지 않는 희도와 함께, 김태리는 성장했다]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202204081004001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202204081004001</guid>
+            <pubDate>Fri, 08 Apr 2022 02:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[“넌 왜 나를 응원해?” 열아홉 펜싱선수 나희도(김태리)가 자신을 응원하는 백이진(남주혁)에게 묻는다. 이진은 대답한다. “모르겠어, 그냥 네가 노력하면 나도 노력하고 싶어져. 네가 해내면 나도 해내고 싶어져. 너는 너 말고도 다른 사람을 자라게 해. 내 응원은 그런 너에게 보내는 찬사야. 그러니까 마음껏 가져.” 희도는 응답한다. “네 응원, 다 가질게. 그리고 우리 같이 훌륭해지자.”3일 종영한 tvN 드라마 〈스물다섯 스물하나〉에서 주인공은 목표를 향해 질주...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/08/l_2022040801000951200082083.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["구조적 차별은 없다"라는 말에 "있다"라는 답으론 부족하다]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202204061447001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 31 Mar 2022 07:13:10 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 대통령 당선인은 선거 기간 내내 성별 갈라치기와 젠더 갈등을 부각해 논란의 중심에 섰다.윤 당선인은 당선 이후 “젠더, 성별로 갈라치기 한 적이 없다”고 했지만, 당장 여성가족부 폐지 방침을 재확인하면서 여성 배제와 성평등 정책의 후퇴를 우려하는 목소리가 높다.윤 당선인은 또 “성범죄와의 전쟁”을 약속하면서도 ‘성범죄 무고 조항 신설’을 앞세우면서 성범죄 피해자들의 신고를 더 위축시키고 입을 막을 수 있다는 비판도 있다. 결혼과 육아 등을 이...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/31/l_2022032901003703300331251.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패럴림픽 시상대 가장 높은 곳을 향해 질주하는 스키선수 최사라]]></title>
-            <link>https://www.khan.co.kr/sports/sports-general/article/202203310945001</link>
-            <guid>https://www.khan.co.kr/sports/sports-general/article/202203310945001</guid>
-            <pubDate>Thu, 31 Mar 2022 00:56:31 GMT</pubDate>
-            <content:encoded><![CDATA[최사라(19)는 4년 전 평창 동계패럴림픽에 선수로 뛰지 못했다. 국가대표이긴 했는데 나이가 어렸다. 규정상 대회 출전이 가능한 나이보다 한 살 적었다. 대신 그는 대회 개회식 현장에서 패럴림픽 유망 선수 10명과 함께 대회기 입장 세리머니에 참여해 씩씩하게 행진했다. 그리고 알파인스키 공식 경기 전 시범 레이스에 나서 시원하게 슬로프를 달렸다. 그때부터 2022 베이징 동계패럴림픽 무대를 그리고 또 그렸다.4년이 훌쩍 지나 올해 3월, 최사라는 중국 베이징 옌칭...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/03/31/l_2022033101003954100354581.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
