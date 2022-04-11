@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 23:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 00:57:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뒤바뀐 아이, 두 엄마, 이들을 잇는 핏줄의 의미 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202204110948011</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202204110948011</guid>
+            <pubDate>Mon, 11 Apr 2022 00:56:52 GMT</pubDate>
+            <content:encoded><![CDATA[‘뒤바뀐 아이’라는 소재는 숱한 설화, 동화, 소설, 드라마에서 활용됐다. 실수, 계략 혹은 운명에 의해 출생 직후 뒤바뀐 아이가 원래 속하지 않았던 가문에서 어떤 일을 겪는지 그려낸다. 인간의 성장에 영향을 미치는 것은 환경인가 태생인가 하는 문제도 종종 다뤄진다.지난달 31일 개봉한 영화 &lt;패러렐 마더스&gt;도 뒤바뀐 아이를 소재로 하되 조금 다른 길을 택했다. 스페인 영화를 대표하는 명장 페드로 알모도바르는 아이보다는 두 엄마의 이야기에 초점을 맞...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/11/l_2022040101000097900004061.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이주 여성의 '돌봄 돌려막기'가 한국의 절반을 지탱하고 있다 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202204081338001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202204081338001</guid>
@@ -182,14 +190,6 @@
             <pubDate>Fri, 01 Apr 2022 05:13:23 GMT</pubDate>
             <content:encoded><![CDATA[2020년 법원에서 유죄가 확정된 사건 기준으로 아동·청소년을 대상으로 한 성범죄자의 98.1%는 남성이고, 이들의 평균 연령은 34.2세인 것으로 나타났다.여성가족부는 이같은 내용의 ‘아동·청소년 대상 성범죄 발생 추세와 동향 분석’ 결과를 24일 발표했다.이 자료는 여가부 장관이 아동·청소년 대상 성범죄의 발생 추세와 동향 등 계도에 필요한 사항을 1년에 2회 이상 공표해야 한다는 아동·청소년의 성보호에 관한 법률에 따라 2020년 유죄 판결이 확정돼 신상 정보 등...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/01/l_2022033001003878400347161.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과거의 투쟁이 만든 오늘, 우린 비폭력 직접 행동에 빚졌다 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202204011033001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202204011033001</guid>
-            <pubDate>Fri, 01 Apr 2022 02:58:10 GMT</pubDate>
-            <content:encoded><![CDATA[“우리 사회에서 특정 집단의 요구가 100% 관철되는 것은 어렵고, 선량한 시민 최대 다수의 불편을 야기해 뜻을 관철하겠다는 방식은 문명사회에서 받아들이기 어렵다.” 28일 오전 국회에서 열린 국민의힘 최고위원회의에서 이준석 당대표가 전국장애인차별철폐연대(전장연)가 서울지하철에서 벌이고 있는 장애인 이동권 투쟁을 두고 한 말이다. 최근 이 대표의 발언을 보면 ‘특정 집단 대 선량한 시민’으로 갈라칠 의도가 아닌지 의심스럽다. 하지만 (중증)장애인의 문제를 특...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/01/l_2022033001003905900348641.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[짧은 휴식에 들어갑니다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
