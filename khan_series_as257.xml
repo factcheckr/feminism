@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 06:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 07:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미성년 성폭력 피해자, 법정 아닌 해바라기센터서 증언한다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202204111412001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202204111412001</guid>
+            <pubDate>Mon, 11 Apr 2022 07:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[미성년 성폭력 피해자들이 법정이 아닌 해바라기센터에서 증언을 하는 영상증인신문 시범사업이 추진된다.여성가족부와 법원행정처는 재판 때 아동·청소년 성폭력 피해자를 보호하기 위해 오는 11일부터 8개 해바라기센터에서 영상증인신문 시범사업을 추진한다고 6일 밝혔다.이는 지난해 12월 헌법재판소가 미성년 피해자의 영상녹화 진술을 증거로 인정하는 ‘성폭력범죄의 처벌 등에 관한 특례법’ 제30조 제6항이 위헌이라고 결정한 데 따른 조치다. 미성년 피해자들이 직접 법정...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/11/l_2022040701000888900075621.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뒤바뀐 아이, 두 엄마, 이들을 잇는 핏줄의 의미]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202204110948011</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 04 Apr 2022 02:44:16 GMT</pubDate>
             <content:encoded><![CDATA[성소수자 여성 장교를 성폭행한 혐의를 받는 해군 대령에게 군사법원이 내린 무죄 판결이 대법원에서 유죄 취지로 파기됐다. 반면 같은 피해자를 여러 차례 성폭행·성추행한 혐의로 기소된 소령에게는 무죄가 확정됐다. 동일인이 당한 연결된 사건을 두고 대법원 재판부별로 피해자 진술의 신빙성을 달리 판단한 것이다. 피해자 측은 “일련의 사건임에도 불구하고 대법원의 피해자 진술 신빙성에 대한 판단이 엇갈린 것은 모순”이라며 반발했다.대법원 1부(주심 박정화 대법관...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/04/l_2022040101000097800004051.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아동·청소년 성범죄자, 남성 98%·면식범 66%·평균 34세]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202204011339001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202204011339001</guid>
-            <pubDate>Fri, 01 Apr 2022 05:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[2020년 법원에서 유죄가 확정된 사건 기준으로 아동·청소년을 대상으로 한 성범죄자의 98.1%는 남성이고, 이들의 평균 연령은 34.2세인 것으로 나타났다.여성가족부는 이같은 내용의 ‘아동·청소년 대상 성범죄 발생 추세와 동향 분석’ 결과를 24일 발표했다.이 자료는 여가부 장관이 아동·청소년 대상 성범죄의 발생 추세와 동향 등 계도에 필요한 사항을 1년에 2회 이상 공표해야 한다는 아동·청소년의 성보호에 관한 법률에 따라 2020년 유죄 판결이 확정돼 신상 정보 등...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/01/l_2022033001003878400347161.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
