@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 08:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 09:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이성애자들이 허락한 공연 말고, 퀴어 공연을!]]></title>
+            <link>https://ildaro.com/9319</link>
+            <guid>https://ildaro.com/9319</guid>
+            <pubDate>Mon, 11 Apr 2022 09:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[이성애자 배우나 시스센더 배우가 퀴어 연기하는 건 가십성으로 소비되는 게 있잖아요. 근데 그 반대의 경우에 대해선 아무도 물어보지 않잖아요?...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022041137384232.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비키니 사건…‘죽음의 재’ 쏟아진 참치어선을 기억하라]]></title>
             <link>https://ildaro.com/9318</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 29 Mar 2022 10:16:49 GMT</pubDate>
             <content:encoded><![CDATA[정치 경력이 없어도 무려 대통령이 될 수 있는 거라면 진짜, 여자들이 정치 못할 이유가 있나 싶어요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022031747258493.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이대남, 일번남, 이번남…메갈리아 때로 돌아간 것 같다]]></title>
-            <link>https://ildaro.com/9299</link>
-            <guid>https://ildaro.com/9299</guid>
-            <pubDate>Tue, 29 Mar 2022 10:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[다시 메갈 때로 돌아갔다는 생각이 들어서 벼랑 끝으로 내몰렸다는 느낌, 한편으로 ‘이제 우릴 막을 사람은 없어!’라는 느낌도 들어요....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/202203161350371.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
