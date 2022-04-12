@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 10:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 11:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/977f3439-fb72-41f8-a3f1-e7fb4452ecc3.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[페미니즘이란, 차이를 드러내는 것이다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9320</link>
+            <guid>https://ildaro.com/9320</guid>
+            <pubDate>Tue, 12 Apr 2022 11:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[‘여성’은 균질한 집단이 아니다. 가난으로 비롯한 나의 경험은 늘 그랬듯이 사회 보편과 거리가 멀었다. 나는 새롭게 마주하게 된 세계와 나의 차이를 감추었다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022041223541225.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이성애자들이 허락한 공연 말고, 퀴어 공연을! (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9319</link>
             <guid>https://ildaro.com/9319</guid>
@@ -422,14 +430,6 @@
             <pubDate>Sat, 19 Mar 2022 10:08:00 GMT</pubDate>
             <content:encoded><![CDATA[“영역동물인 고양이들은 재개발/재건축 사업들로 인해 삶의 터전이 무너지고 영문도 모른채 죽음으로 내몰리고 있”지만 이들을 보호하고자 하는 목소리는 많지 않...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022031916004815.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['유리절벽’ ‘토큰’식 넘어 이제는 여성‧청년 정치로! (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9300</link>
-            <guid>https://ildaro.com/9300</guid>
-            <pubDate>Tue, 29 Mar 2022 10:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[정치 경력이 없어도 무려 대통령이 될 수 있는 거라면 진짜, 여자들이 정치 못할 이유가 있나 싶어요....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022031747258493.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
