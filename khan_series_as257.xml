@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 06:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 07:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['낙태죄 비범죄화' 3년, 다음 목표는 '안전한 임신중지'다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202204131426001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202204131426001</guid>
+            <pubDate>Wed, 13 Apr 2022 07:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[2019년 4월11일, 헌법재판소는 ‘여성의 신체 자기결정권’을 존중해야 한다며 형법의 낙태죄에 대해 헌법불합치 결정을 내렸다. 그러면서 2020년 12월31일까지 관련 법을 제정하라고 권고했다. 낙태죄는 2021년 1월1일부터 효력을 상실했지만 대체입법은 답보 상태다. 헌재는 결정문에서 “낙태 전후로 적절한 의료서비스와 돌봄이 제공돼야 한다”고 했지만 입법 공백 속에 ‘안전한 임신중단’은 아직도 요원하다.임신중단을 희망하는 여성에게 제공되는 정보는 제한적이다. 임신중...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/13/l_2022041101001246800109821.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임신중지 문의하자 "인터넷 검색해보라"는 정부 상담센터]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202204131034001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 06 Apr 2022 04:16:05 GMT</pubDate>
             <content:encoded><![CDATA[1979년 준공된 서울 강동구의 둔촌주공아파트 164개동에는 5930세대가 살았다. 40년 세월동안 아이들은 어른이 됐고 묘목이었던 나무가 모여 울창한 숲을 이뤘다. 살기 좋은 아파트에 고양이들도 터를 잡았다. 주민들의 손을 탄 고양이들은 길고양이와 집고양이 사이 ‘아파트 고양이’로 거듭났다. 수년간 몇 번씩이나 동네를 뒤숭숭하게 만든 재건축 소식은 2017년 5월 관리처분계획 인가가 떨어지면서 그 일정이 확정됐다. 사람들은 이주를 준비하기 시작했다. 고양이들은 영문...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/06/l_2022040101000098500004123.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['출생통보제' 도입 전에도 미신고 아동 지원받도록 보호한다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202204051302001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202204051302001</guid>
-            <pubDate>Tue, 05 Apr 2022 04:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 ‘출생통보제’ 도입 이전까지 출생신고가 안 된 채 방치된 아이들을 집중적으로 발굴하고, 미신고 아동이 필요한 지원을 받을 수 있도록 보호조치를 시행한다.행정안전부는 이 같은 내용의 ‘출생 미신고 아동 보호대책’을 보건복지부, 법무부 등과 함께 마련해 지난달 31일 국정현안점검조정회의에 보고했다. 이 대책은 의료기관이 출생 사실을 지자체에 직접 통보해 출생신고 누락을 막는 출생통보제가 도입되기 전까지 미신고 아동을 발굴, 지원하기 위한 내용이다. ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/05/l_2022040101000098000004071.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
