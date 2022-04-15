@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 06:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 07:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[노원구 일가족 살해 김태현 '무기징역' 확정 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/court-law/article/202204151400011</link>
+            <guid>https://www.khan.co.kr/national/court-law/article/202204151400011</guid>
+            <pubDate>Fri, 15 Apr 2022 05:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[서울 노원구의 한 아파트에서 세 모녀를 살해한 김태현의 무기징역이 확정됐다. 앞서 항소심 재판부는 김태현에게 무기징역을 선고하면서 이례적으로 ‘가석방 없는 무기징역의 집행’, 즉 절대적 종신형이 집행돼야 한다는 의견을 밝힌 바 있다.대법원 2부(주심 민유숙 대법관)는 14일 살인 혐의로 기소된 김태현의 상고심에서 무기징역을 선고한 원심을 확정했다.김태현은 지난해 3월23일 온라인 게임을 통해 알게 된 A씨의 집에 찾아가 A씨의 여동생과 모친을 살해한 뒤, 퇴...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/15/l_2022041501001860400164281.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["의사는 편견이 있어도 진료는 차별이 없어야 한다" (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202204151042021</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202204151042021</guid>
@@ -182,14 +190,6 @@
             <pubDate>Mon, 11 Apr 2022 00:56:52 GMT</pubDate>
             <content:encoded><![CDATA[‘뒤바뀐 아이’라는 소재는 숱한 설화, 동화, 소설, 드라마에서 활용됐다. 실수, 계략 혹은 운명에 의해 출생 직후 뒤바뀐 아이가 원래 속하지 않았던 가문에서 어떤 일을 겪는지 그려낸다. 인간의 성장에 영향을 미치는 것은 환경인가 태생인가 하는 문제도 종종 다뤄진다.지난달 31일 개봉한 영화 &lt;패러렐 마더스&gt;도 뒤바뀐 아이를 소재로 하되 조금 다른 길을 택했다. 스페인 영화를 대표하는 명장 페드로 알모도바르는 아이보다는 두 엄마의 이야기에 초점을 맞...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/11/l_2022040101000097900004061.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이주 여성의 '돌봄 돌려막기'가 한국의 절반을 지탱하고 있다 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202204081338001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202204081338001</guid>
-            <pubDate>Fri, 08 Apr 2022 05:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[지난 1월28일 오후 3시, 인천공항 국제선 카운터. 몽골행 항공권이 든 초록색 여권과 캐리어 가방 손잡이를 쥔 몽골계 한국인 마야씨(35·가명)의 얼굴은 여러 감정이 교차하는 듯 보였다. 위탁수하물 무게를 줄이기 위해 가방에서 꺼내든 것은 손때가 탄 몽골어 교재와 영어 교재. 울란바토르 국제대학으로 유학을 떠나는 참이다. 수하물로 부칠 수 없는 케이크 상자는 조심스레 품에 안았다. 임신 6개월째인 조카가 부탁한 한국의 생크림 케이크다.마야씨는 울란바토르에서 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/08/l_2022040601000706800060191.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[짧은 휴식에 들어갑니다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
