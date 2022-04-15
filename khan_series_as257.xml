@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 00:59:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 03:02:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["의사는 편견이 있어도 진료는 차별이 없어야 한다"]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202204151042021</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202204151042021</guid>
+            <pubDate>Fri, 15 Apr 2022 03:01:31 GMT</pubDate>
+            <content:encoded><![CDATA[트랜스젠더는 병원 이용을 꺼린다. 겉보기 성별과 주민등록상의 성별이 일치하지 않은 경우가 많아 본인 확인 절차를 거칠 때마다 원치 않는 아웃팅을 당하기 때문이다. 트랜스젠더에 편견을 가진 의료진을 만나면 진료를 거부당하거나 모욕적인 말을 듣기도 한다. 성정체성과 맞지 않는 입원실이나 탈의실을 이용하는 불편함도 감수해야 한다. 그래서 이들은 알음알음 젠더 친화적이라고 알려진 병원을 찾아 먼 거리를 오가는 수고를 마다하지 않는다. 몸의 불편함보다 시선의...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/15/l_2022041401001713100151731.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['성범죄 무고죄 신설' 추진에 담긴 메시지]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202204141339001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 08 Apr 2022 06:17:34 GMT</pubDate>
             <content:encoded><![CDATA[지난 1월28일 오후 3시, 인천공항 국제선 카운터. 몽골행 항공권이 든 초록색 여권과 캐리어 가방 손잡이를 쥔 몽골계 한국인 마야씨(35·가명)의 얼굴은 여러 감정이 교차하는 듯 보였다. 위탁수하물 무게를 줄이기 위해 가방에서 꺼내든 것은 손때가 탄 몽골어 교재와 영어 교재. 울란바토르 국제대학으로 유학을 떠나는 참이다. 수하물로 부칠 수 없는 케이크 상자는 조심스레 품에 안았다. 임신 6개월째인 조카가 부탁한 한국의 생크림 케이크다.마야씨는 울란바토르에서 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/08/l_2022040601000706800060191.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저 혼자만 잘 자라지 않는 희도와 함께, 김태리는 성장했다]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202204081004001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202204081004001</guid>
-            <pubDate>Fri, 08 Apr 2022 06:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[“넌 왜 나를 응원해?” 열아홉 펜싱선수 나희도(김태리)가 자신을 응원하는 백이진(남주혁)에게 묻는다. 이진은 대답한다. “모르겠어, 그냥 네가 노력하면 나도 노력하고 싶어져. 네가 해내면 나도 해내고 싶어져. 너는 너 말고도 다른 사람을 자라게 해. 내 응원은 그런 너에게 보내는 찬사야. 그러니까 마음껏 가져.” 희도는 응답한다. “네 응원, 다 가질게. 그리고 우리 같이 훌륭해지자.”3일 종영한 tvN 드라마 〈스물다섯 스물하나〉에서 주인공은 목표를 향해 질주...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/08/l_2022040801000951200082083.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
