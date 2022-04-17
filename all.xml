@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 08:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 09:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/977f3439-fb72-41f8-a3f1-e7fb4452ecc3.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[딸들은 ‘배꼽 밑에 선 검은 줄’의 힘으로 살아왔다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9324</link>
+            <guid>https://ildaro.com/9324</guid>
+            <pubDate>Sun, 17 Apr 2022 09:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[같은 부모 밑에서 태어나도 유난히 의사 표현을 똑 부러지게 하는 아이가 있다. 의 막내딸이 그런 아이다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022041725167976.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기후위기 시대의 출사표 ‘잃어가는 것들을 지키겠다’ (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9323</link>
             <guid>https://ildaro.com/9323</guid>
@@ -422,14 +430,6 @@
             <pubDate>Tue, 29 Mar 2022 10:16:49 GMT</pubDate>
             <content:encoded><![CDATA[“촉법소년이니까 감옥 안 간다, 신난다!” 굳이 일일이 묻지 않아도 을 시청하는 이들에게 많은 분노를 불러올 장면임을 예상할 수 있다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022032443099238.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[페미니즘은 “윤석열이냐, 이재명이냐”를 뛰어넘는 질문이다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9304</link>
-            <guid>https://ildaro.com/9304</guid>
-            <pubDate>Tue, 29 Mar 2022 10:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[“개인적인 것이 정치적인 것이다” 나는 그 구호를 '정치에 인간을 끼워 맞추는 것이 아니라, 수많은 사람들의 복잡한 삶 속에서 정치를 시작해야 한다'로 읽는다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022032227578969.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
