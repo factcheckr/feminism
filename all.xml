@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 03:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 04:21:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['정상적 인간'이라는 비정상적 기준에 대응하는 법 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202204181032001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202204181032001</guid>
+            <pubDate>Mon, 18 Apr 2022 03:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[처음 방문한 베이커리에서 중년의 사장님이 마감 시간이라며 이것저것 챙겨 주셨다. 값을 치르고 종이가방에 빵을 담으며 즐거워하고 있는데 갑자기 그분이 다정한 목소리로 “아가씨 짝은 왜 없냐”고 하셨다. 변화구였다. “그러게요. 왜일까요? 좋은 분 아시면 소개 좀 시켜주세요!” 나는 뚝 떨어지는 커브볼에 정신없이 헛스윙을 했다. ‘그런 질문은 무례하세요!’라고 받아쳐야 했는데…. 괜히 넉살 좋은 척을 하고 말았다. 이런 공격을 대비해 얼마나 많은 이미지 트레...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/18/l_2022041401001693500149711.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[노원구 일가족 살해 김태현 '무기징역' 확정 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/court-law/article/202204151400011</link>
             <guid>https://www.khan.co.kr/national/court-law/article/202204151400011</guid>
@@ -182,14 +190,6 @@
             <pubDate>Mon, 11 Apr 2022 06:16:29 GMT</pubDate>
             <content:encoded><![CDATA[미성년 성폭력 피해자들이 법정이 아닌 해바라기센터에서 증언을 하는 영상증인신문 시범사업이 추진된다.여성가족부와 법원행정처는 재판 때 아동·청소년 성폭력 피해자를 보호하기 위해 오는 11일부터 8개 해바라기센터에서 영상증인신문 시범사업을 추진한다고 6일 밝혔다.이는 지난해 12월 헌법재판소가 미성년 피해자의 영상녹화 진술을 증거로 인정하는 ‘성폭력범죄의 처벌 등에 관한 특례법’ 제30조 제6항이 위헌이라고 결정한 데 따른 조치다. 미성년 피해자들이 직접 법정...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/11/l_2022040701000888900075621.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뒤바뀐 아이, 두 엄마, 이들을 잇는 핏줄의 의미 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202204110948011</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202204110948011</guid>
-            <pubDate>Mon, 11 Apr 2022 00:56:52 GMT</pubDate>
-            <content:encoded><![CDATA[‘뒤바뀐 아이’라는 소재는 숱한 설화, 동화, 소설, 드라마에서 활용됐다. 실수, 계략 혹은 운명에 의해 출생 직후 뒤바뀐 아이가 원래 속하지 않았던 가문에서 어떤 일을 겪는지 그려낸다. 인간의 성장에 영향을 미치는 것은 환경인가 태생인가 하는 문제도 종종 다뤄진다.지난달 31일 개봉한 영화 &lt;패러렐 마더스&gt;도 뒤바뀐 아이를 소재로 하되 조금 다른 길을 택했다. 스페인 영화를 대표하는 명장 페드로 알모도바르는 아이보다는 두 엄마의 이야기에 초점을 맞...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/11/l_2022040101000097900004061.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[짧은 휴식에 들어갑니다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
