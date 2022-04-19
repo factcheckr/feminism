@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 10:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 11:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/977f3439-fb72-41f8-a3f1-e7fb4452ecc3.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[당신도 ‘글쓰기 공동체’를 만났나요? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9326</link>
+            <guid>https://ildaro.com/9326</guid>
+            <pubDate>Tue, 19 Apr 2022 11:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[최근 눈부신 활동을 보여주는 일군의 청년 여성 작가들은 재능과 함께 성실함을 기본기로 갖고 있는 듯하다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022041924503043.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[피해 중심의 서사가 아닌 ‘가해자의 자리를 묻다’ (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9325</link>
             <guid>https://ildaro.com/9325</guid>
@@ -422,14 +430,6 @@
             <pubDate>Sat, 26 Mar 2022 09:55:00 GMT</pubDate>
             <content:encoded><![CDATA[도깨비 씨름판 같았던 지난 선거에서도 멋진 장면이 있었다. ‘아닌 밤중에 도깨비’라더니 난데없이 절반의 유권자를 겁박하던 낮도깨비들을 젊은 여성들이 멈춰 세...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022032603068024.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sexual Harassment of Alba Workers: “Pretty girl, Why Aren’t You Smiling?” (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9306</link>
-            <guid>https://ildaro.com/9306</guid>
-            <pubDate>Tue, 29 Mar 2022 10:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[I’ve had to smile and do emotional labor that wasn’t in my labor contract, and I’ve often been treated like a product in a display....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022032520342707.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
