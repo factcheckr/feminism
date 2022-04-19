@@ -4,11 +4,19 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 01:07:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 03:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[27명의 여성들이 말한다, 여가부가 없어져선 안 되는 이유]]></title>
+            <title><![CDATA[부커상 최종후보 '저주토끼', 그 속에 담긴 정보라의 자유로운 마음]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202204191011001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202204191011001</guid>
+            <pubDate>Tue, 19 Apr 2022 03:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[“주목받지 못했던 때, 내 마음대로 써보자는 생각으로 썼어요.” 소설집 &lt;저주토끼&gt;로 세계 3대 문학상 가운데 하나인 영국 부커상 인터내셔널 부문 최종 후보에 오른 소설가 정보라(46)는 “처음으로 제 소설이 이런 관심을 받게 돼 아직 얼떨떨하다”며 이같이 말했다. 그는 14일 서울 중구 프레스센터에서 열린 기자회견에서 “마음 가는대로 쓴 소설인데 부커재단에서 높이 평가해줘 감사하고 감동했다”고 말했다. “대학시절 상금 100만원이 탐나서 교내 문학상에...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/19/l_2022041501001897200167981.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[27개의 목소리들이 말한다, 여가부가 없어져선 안 되는 이유]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202204181440001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202204181440001</guid>
             <pubDate>Mon, 18 Apr 2022 07:12:53 GMT</pubDate>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 12 Apr 2022 05:11:59 GMT</pubDate>
             <content:encoded><![CDATA[김현숙 여성가족부 장관 내정자가 지난해 언론에 기고한 칼럼에서 “(문재인 정부가) 성인지 예산을 국방 예산과 유사한 수준으로 증가시켰다”는 가짜뉴스를 유포한 것으로 확인됐다. 이 가짜뉴스는 여가부 폐지를 주장하는 남초 커뮤니티에서 주로 유통된 것이다.김 내정자는 지난해 4월16일 조선일보에 기고한 ‘남녀 편 가르기를 양념으로 추가한 문 정부’라는 칼럼에서 “문재인 대통령은 예산 지출이 남성과 여성 삶의 차이와 특성을 반영해 남성과 여성에게 평등하도록 ...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/12/l_2022041101001300000112811.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[축구공 대신 홍게 들고… 한국 최초 여자축구 국가대표의 인생 2막]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202204120942001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202204120942001</guid>
-            <pubDate>Tue, 12 Apr 2022 00:55:10 GMT</pubDate>
-            <content:encoded><![CDATA[경북 울진 죽변항에 고기잡이배가 들어오는 새벽 다섯 시, 그는 패스 전략 대신 ‘입찰 전략’을 짠다.축구공 대신 홍게와 우럭을 가득 들고 죽변수산물시장으로 들어온다. 2003년 미국 여자월드컵 사진을 배경으로 “인생 2막 수산물과 함께” 문구가 씌어 있는 현수막이 걸린 작은 횟집. 전 여자축구 국가대표인 이명화씨(49)의 ‘인생 2막’이 있는 곳이다.최초의 한국 여자축구 국가대표로 선수 생활을 시작해 실업팀, 생활축구 지도자를 두루 거쳐 온 이씨는 한국 여자축...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/12/l_2022040101000098200004091.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
