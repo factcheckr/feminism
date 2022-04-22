@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 06:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 07:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -115,7 +115,7 @@
             <title><![CDATA[최혜영 민주당 의원 “국회의 방관, 장애 당사자로서 참담했다” (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/politics/politics-general/article/202204221503001</link>
             <guid>https://www.khan.co.kr/politics/politics-general/article/202204221503001</guid>
-            <pubDate>Fri, 22 Apr 2022 06:16:56 GMT</pubDate>
+            <pubDate>Fri, 22 Apr 2022 06:16:11 GMT</pubDate>
             <content:encoded><![CDATA[“장애 당사자 의원을 많이 배출했더라면, 의원들이 장애와 관련해 관심을 좀 더 가졌더라면 이 문제는 일어나지 않았을 겁니다.”지난 11일 국회 의원회관에서 만난 최혜영 더불어민주당 의원은 이준석 국민의힘 대표의 비난으로 장애인 이동권 투쟁이 논란이 되자 “당사자로서 참담했다”고 말했다. 최 의원은 척수장애인이다. 발레리나였지만 25살이던 2003년 교통사고로 사지마비 척수장애 판정을 받았다. 장애인식개선교육센터 이사장을 지내다 지난 21대 총선에서 비례대표로...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/22/l_2022042101002612300233671.jpg" length="0" type="image/jpg"/>
         </item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/977f3439-fb72-41f8-a3f1-e7fb4452ecc3.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[I am here to make a difference (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9328</link>
+            <guid>https://ildaro.com/9328</guid>
+            <pubDate>Fri, 22 Apr 2022 07:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[One of the greatest lessons I have learned is that a leader must take care of herself before she can take care of others, whether it be family or community....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022042221031780.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여전히 불법인 타투…내겐 미술관 그림보다 가치 있어 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9327</link>
             <guid>https://ildaro.com/9327</guid>
@@ -422,14 +430,6 @@
             <pubDate>Mon, 28 Mar 2022 11:05:00 GMT</pubDate>
             <content:encoded><![CDATA[나에게 페미니즘은 먼 길을 가기 위한 지도다. 다만 아직 모든 길이 다 나와있지는 않고, 걸으면서 어디까지 왔는지, 어디에 무엇이 있었는지 표시하며 가야한다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022032813411914.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민주화 열망하며 ‘노랑 경제권’ 만드는 홍콩 사람들 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9308</link>
-            <guid>https://ildaro.com/9308</guid>
-            <pubDate>Sun, 27 Mar 2022 11:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[민주화를 요구하며 정부에 저항하는 활동을 하는 사람들을 응원하는 ‘노랑 경제권’ 가게들 앞에는, 코로나 팬데믹으로 거리에 사람이 뜸한 지금도 손님들의 긴 행렬...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022032749411279.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
