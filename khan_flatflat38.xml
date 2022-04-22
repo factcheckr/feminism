@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 01:02:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 03:43:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['성평등' 인식은 늘었지만 돌봄 부담은 여전히 '불평등']]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202204221017011</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202204221017011</guid>
+            <pubDate>Fri, 22 Apr 2022 03:40:51 GMT</pubDate>
+            <content:encoded><![CDATA[‘남성은 생계 부양, 여성은 자녀 양육’이라는 전통적인 성역할 고정관념이 과거보다 완화됐지만, 가사·돌봄 병행의 어려움은 여전히 여성이 남성보다 더 많이 겪는 것으로 나타났다.19일 여성가족부는 이같은 내용의 ‘2021년 양성평등 실태조사’ 결과를 발표했다. 양성평등 실태조사는 양성평등 정책 수립에 활용하기 위해 5년마다 실시하는 국가승인통계다. 여가부는 이번 실태조사에 대해 “지난 5년간 양성평등 인식과 수준이 대폭 개선됐다”고 밝혔다.실태조사 결과, ‘가...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/22/l_2022042001002475300220681.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['노키즈존' 점주에게 아동을 차별할 자유는 없다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202204211452001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 15 Apr 2022 05:18:18 GMT</pubDate>
             <content:encoded><![CDATA[서울 노원구의 한 아파트에서 세 모녀를 살해한 김태현의 무기징역이 확정됐다. 앞서 항소심 재판부는 김태현에게 무기징역을 선고하면서 이례적으로 ‘가석방 없는 무기징역의 집행’, 즉 절대적 종신형이 집행돼야 한다는 의견을 밝힌 바 있다.대법원 2부(주심 민유숙 대법관)는 14일 살인 혐의로 기소된 김태현의 상고심에서 무기징역을 선고한 원심을 확정했다.김태현은 지난해 3월23일 온라인 게임을 통해 알게 된 A씨의 집에 찾아가 A씨의 여동생과 모친을 살해한 뒤, 퇴...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/15/l_2022041501001860400164281.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["의사는 편견이 있어도 진료는 차별이 없어야 한다"]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202204151042021</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202204151042021</guid>
-            <pubDate>Fri, 15 Apr 2022 03:00:47 GMT</pubDate>
-            <content:encoded><![CDATA[트랜스젠더는 병원 이용을 꺼린다. 겉보기 성별과 주민등록상의 성별이 일치하지 않은 경우가 많아 본인 확인 절차를 거칠 때마다 원치 않는 아웃팅을 당하기 때문이다. 트랜스젠더에 편견을 가진 의료진을 만나면 진료를 거부당하거나 모욕적인 말을 듣기도 한다. 성정체성과 맞지 않는 입원실이나 탈의실을 이용하는 불편함도 감수해야 한다. 그래서 이들은 알음알음 젠더 친화적이라고 알려진 병원을 찾아 먼 거리를 오가는 수고를 마다하지 않는다. 몸의 불편함보다 시선의...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/15/l_2022041401001713100151731.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
