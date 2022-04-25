@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 23:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 00:56:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/977f3439-fb72-41f8-a3f1-e7fb4452ecc3.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[구석진 마음을 세상과 연결시켜 봐! (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9330</link>
+            <guid>https://ildaro.com/9330</guid>
+            <pubDate>Mon, 25 Apr 2022 08:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[무조건적인 지지를 보내는 사람을 단 한 번이라도 만난 경험이 있으면, 회복 탄력성이 높아진다고 했다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022042542253511.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[1인가구 많은 젊은 동네, 청년 정치인이 적극적 행정을! (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9329</link>
             <guid>https://ildaro.com/9329</guid>
@@ -422,14 +430,6 @@
             <pubDate>Thu, 31 Mar 2022 08:35:00 GMT</pubDate>
             <content:encoded><![CDATA[메건 디 스탤리언은 지금까지 남성 래퍼들은 여성을 성적 욕구의 대상으로 삼았음에도, 여성이 발화하는 이 한 곡에 대해 ‘괜찮지 않다’고 여기는 시선에 대해 일침...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022033110404891.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재생산은 권리이지 ‘인구정치’의 도구가 아니다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9310</link>
-            <guid>https://ildaro.com/9310</guid>
-            <pubDate>Tue, 29 Mar 2022 10:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[재생산권과 관련한 활동을 하면서, 재생산이라는 단어가 너무 어렵다며 굳이 재생산이라는 말을 써야 하냐는 질문도 여러 번 받았다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/202203295901119.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
