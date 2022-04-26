@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 03:06:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 04:26:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/977f3439-fb72-41f8-a3f1-e7fb4452ecc3.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[기독교인이자 페미니스트인 나는 ‘마녀’가 되어야 했다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9331</link>
+            <guid>https://ildaro.com/9331</guid>
+            <pubDate>Tue, 26 Apr 2022 00:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[여전히 ‘교회언니 페미토크’ 유튜브 채널에는 섬뜩한 댓글들이 달리고, “이단”이라는 소리를 듣기도 한다. 그래도, 나는 아직도 기다리며 초청한다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022042606228089.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[구석진 마음을 세상과 연결시켜 봐! (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9330</link>
             <guid>https://ildaro.com/9330</guid>
@@ -422,14 +430,6 @@
             <pubDate>Sat, 02 Apr 2022 09:47:00 GMT</pubDate>
             <content:encoded><![CDATA[서울의 저상버스 확보율은 높아졌지만, 버스를 장애인과 함께 이용하기 위해 필요한 기다림을 자연스럽게 여기는 시민의식은 아직은 저조해서, 우리는 그 공간이 불편...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022040259005935.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성 힙합 음악가에게 최대의 적은 '여성혐오’ (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9311</link>
-            <guid>https://ildaro.com/9311</guid>
-            <pubDate>Thu, 31 Mar 2022 08:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[메건 디 스탤리언은 지금까지 남성 래퍼들은 여성을 성적 욕구의 대상으로 삼았음에도, 여성이 발화하는 이 한 곡에 대해 ‘괜찮지 않다’고 여기는 시선에 대해 일침...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202203/2022033110404891.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
