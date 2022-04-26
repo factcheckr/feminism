@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 05:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 06:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[저항하는 몸들 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202204261349001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202204261349001</guid>
+            <pubDate>Tue, 26 Apr 2022 06:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[이 찬란한 봄, 밥알을 씹어 삼킬 때마다 떠오르는 두 얼굴이 있다. 미류와 이종걸이다. 그들이 국회 앞에서 단식 투쟁을 한 지 15일째다. 실제로 만난 적 없어도 그들의 단식이 나와 상관있다는 걸 안다. 당신과도 상관있을 것이다. 차별금지법 제정을 촉구하는 단식이기 때문이다.차별금지법과 무관한 사람은 아무도 없다. 이것은 소수자 우대법이 아니다. 선택할 수 없는 조건으로 태어나서 살아가다 죽는 생애 주기의 순리대로라면 모두가 한 번 이상 겪게 될 정체성을...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/26/l_2022042501003052300276541.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“새 정부 최우선 과제는 성장보다 복지” 답한 20대 여성들, 남성의 두 배 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202204261002001</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 23 Apr 2022 12:20:30 GMT</pubDate>
             <content:encoded><![CDATA[씨앗을 뿌리는 사람의 우화옥타비아 버틀러 지음·장성주 옮김 | 비채 | 588쪽 | 1만6800원 2006년 타계한 미국 소설가 옥타비아 버틀러는 SF 역사를 새로 쓴 작가로 꼽힌다. 과거 백인 남성의 전유물로 여겨졌던 서구 SF 문학에서 흑인과 여성이라는 자신의 소수자성을 보란 듯이 작품에 담아 1980년대 각종 문학상을 석권하며 파란을 일으켰다. 지금까지도 국내외 많은 SF 작가들이 자신에게 영향을 준 소설가로 버틀러를 꼽으며, 지난해 미국 항공우주국(NASA)은 화성...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/20/l_2022041901002341600207821.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장혜영 “돌봄에 종속된 장애인 가족의 삶, 그 구조 바꾸는 게 탈시설” (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/politics/politics-general/article/202204191357001</link>
-            <guid>https://www.khan.co.kr/politics/politics-general/article/202204191357001</guid>
-            <pubDate>Sat, 23 Apr 2022 12:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[장혜영 정의당 의원은 “장애인 가족이라는 이유만으로 자신이 원하는 삶이 아니라 돌봄에 종속된 삶을 살아야 하는 구조를 바꾸는 게 탈시설”이라고 말했다.장 의원은 지난 8일 경향신문 인터뷰에서 “탈시설이란 시설에 사는 장애인을 몇 월 며칠 몇 시까지 다 시설 밖으로 쫓아내는 게 아니라, 아무도 시설에 들어가지 않아도 그 사회에서 충분히 살아갈 수 있도록 지원하는 것이 핵심”이라고 설명했다.장 의원은 21대 국회에 입성하기 전까진 ‘생각 많은 둘째 언니’...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/19/l_2022041801002219200195031.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
