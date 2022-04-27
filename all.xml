@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 01:08:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 03:39:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우크라이나의 지하실, 떨리는 연필로 기록한 일상의 붕괴 '전쟁 일기' (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202204271039001</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202204271039001</guid>
+            <pubDate>Wed, 27 Apr 2022 03:38:39 GMT</pubDate>
+            <content:encoded><![CDATA[전쟁일기올가 그레벤니크 글·그림｜정소은 옮김｜이야기장수｜136쪽｜책1만2000원 “내 나이 서른다섯에 모든 것을 처음부터 시작해야 할 거라곤 생각하지 못했다.” 우크라이나의 그림책 작가 올가 그레벤니크의 책 &lt;전쟁일기&gt;는 이 같은 ‘작가의 말’로 문을 연다. 지난 2월24일 오전 5시, 그는 폭격 소리에 잠에서 깼다. 무슨 일이 벌어지고 있는지 완전히 파악하지도 못한 채 짐을 챙기기 시작한 그는 아홉 살과 네 살 아이의 팔에 이름과 생년월일, 연락처를 적는...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/27/l_2022042201002851000255151.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[저항하는 몸들 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202204261349001</link>
@@ -80,14 +88,6 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/20/l_2022041901002341800207871.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SF문학에 파격과 저항의 씨앗을 뿌린 작가, 옥타비아 버틀러 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202204201032001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202204201032001</guid>
-            <pubDate>Sat, 23 Apr 2022 12:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[씨앗을 뿌리는 사람의 우화옥타비아 버틀러 지음·장성주 옮김 | 비채 | 588쪽 | 1만6800원 2006년 타계한 미국 소설가 옥타비아 버틀러는 SF 역사를 새로 쓴 작가로 꼽힌다. 과거 백인 남성의 전유물로 여겨졌던 서구 SF 문학에서 흑인과 여성이라는 자신의 소수자성을 보란 듯이 작품에 담아 1980년대 각종 문학상을 석권하며 파란을 일으켰다. 지금까지도 국내외 많은 SF 작가들이 자신에게 영향을 준 소설가로 버틀러를 꼽으며, 지난해 미국 항공우주국(NASA)은 화성...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/20/l_2022041901002341600207821.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
@@ -110,6 +110,14 @@
             <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022. 01. 17]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나의 지하실, 떨리는 연필로 기록한 일상의 붕괴 '전쟁 일기' (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202204271039001</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202204271039001</guid>
+            <pubDate>Wed, 27 Apr 2022 03:39:23 GMT</pubDate>
+            <content:encoded><![CDATA[전쟁일기올가 그레벤니크 글·그림｜정소은 옮김｜이야기장수｜136쪽｜책1만2000원 “내 나이 서른다섯에 모든 것을 처음부터 시작해야 할 거라곤 생각하지 못했다.” 우크라이나의 그림책 작가 올가 그레벤니크의 책 &lt;전쟁일기&gt;는 이 같은 ‘작가의 말’로 문을 연다. 지난 2월24일 오전 5시, 그는 폭격 소리에 잠에서 깼다. 무슨 일이 벌어지고 있는지 완전히 파악하지도 못한 채 짐을 챙기기 시작한 그는 아홉 살과 네 살 아이의 팔에 이름과 생년월일, 연락처를 적는...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/27/l_2022042201002851000255151.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[저항하는 몸들 (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -182,14 +190,6 @@
             <pubDate>Sat, 23 Apr 2022 12:20:30 GMT</pubDate>
             <content:encoded><![CDATA[천우희(35)는 또래 여배우들 중 인상적이면서도 안정적인 경력을 이어가는 중이다. 봉준호의 &lt;마더&gt;(2009), 나홍진의 &lt;곡성&gt;(2016) 등 한국을 대표하는 영화감독들과 작업했고, &lt;써니&gt;(2011), &lt;해어화&gt;(2016) 같은 상업영화에서도 개성을 발휘했다. &lt;한공주&gt;(2014) 같은 우울한 독립영화를 이끄는가 하면, &lt;멜로가 체질&gt;(2019)처럼 재치 있는 멜로물에서도 주연이었다.20일 개봉하는 &lt;앵커&gt;(감독 정지연)에서도 천우희는 확연한 극의 중심이다. 베...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/20/l_2022041901002341800207871.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SF문학에 파격과 저항의 씨앗을 뿌린 작가, 옥타비아 버틀러 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202204201032001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202204201032001</guid>
-            <pubDate>Sat, 23 Apr 2022 12:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[씨앗을 뿌리는 사람의 우화옥타비아 버틀러 지음·장성주 옮김 | 비채 | 588쪽 | 1만6800원 2006년 타계한 미국 소설가 옥타비아 버틀러는 SF 역사를 새로 쓴 작가로 꼽힌다. 과거 백인 남성의 전유물로 여겨졌던 서구 SF 문학에서 흑인과 여성이라는 자신의 소수자성을 보란 듯이 작품에 담아 1980년대 각종 문학상을 석권하며 파란을 일으켰다. 지금까지도 국내외 많은 SF 작가들이 자신에게 영향을 준 소설가로 버틀러를 꼽으며, 지난해 미국 항공우주국(NASA)은 화성...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/20/l_2022041901002341600207821.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[짧은 휴식에 들어갑니다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
