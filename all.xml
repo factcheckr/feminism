@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 05:26:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 06:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[권인숙 의원 "문제의 중심에 성평등이 있음을 인식해야 미래가 있다" (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/politics/politics-general/article/202204271434001</link>
+            <guid>https://www.khan.co.kr/politics/politics-general/article/202204271434001</guid>
+            <pubDate>Wed, 27 Apr 2022 06:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령 당선인이 주요 공약인 ‘여성가족부 폐지’ 논의를 일단 뒤로 미뤘다. 차기 정부가 부서 폐지를 위해 정부조직법을 개정하려면 여전히 다수당을 차지하고 있는 더불어민주당이란 벽을 넘어야 한다. 민주당이 여성가족부 해체란 의제에 어떻게 대응할지, 어떤 방침을 갖고 있는지가 중요한 이유다.국회 여성가족위원회 소속 권인숙 민주당 의원을 지난 4월 20일 오후 서울 여의도 국회의원회관에서 만났다. 권 의원은 20대 대선 이재명 민주당 후보 캠프에서 공동...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/27/l_2022042601003209600290601.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우크라이나의 지하실, 떨리는 연필로 기록한 일상의 붕괴 '전쟁 일기' (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/book/article/202204271039001</link>
@@ -80,14 +88,6 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/21/l_2022042101002617700234401.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['앵커' 천우희가 틀 안에 갇힌 불안을 표현하는 법 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202204201400001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202204201400001</guid>
-            <pubDate>Sat, 23 Apr 2022 12:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[천우희(35)는 또래 여배우들 중 인상적이면서도 안정적인 경력을 이어가는 중이다. 봉준호의 &lt;마더&gt;(2009), 나홍진의 &lt;곡성&gt;(2016) 등 한국을 대표하는 영화감독들과 작업했고, &lt;써니&gt;(2011), &lt;해어화&gt;(2016) 같은 상업영화에서도 개성을 발휘했다. &lt;한공주&gt;(2014) 같은 우울한 독립영화를 이끄는가 하면, &lt;멜로가 체질&gt;(2019)처럼 재치 있는 멜로물에서도 주연이었다.20일 개봉하는 &lt;앵커&gt;(감독 정지연)에서도 천우희는 확연한 극의 중심이다. 베...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/20/l_2022041901002341800207871.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
@@ -110,6 +110,14 @@
             <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022. 01. 17]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권인숙 의원 "문제의 중심에 성평등이 있음을 인식해야 미래가 있다" (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/politics/politics-general/article/202204271434001</link>
+            <guid>https://www.khan.co.kr/politics/politics-general/article/202204271434001</guid>
+            <pubDate>Wed, 27 Apr 2022 06:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령 당선인이 주요 공약인 ‘여성가족부 폐지’ 논의를 일단 뒤로 미뤘다. 차기 정부가 부서 폐지를 위해 정부조직법을 개정하려면 여전히 다수당을 차지하고 있는 더불어민주당이란 벽을 넘어야 한다. 민주당이 여성가족부 해체란 의제에 어떻게 대응할지, 어떤 방침을 갖고 있는지가 중요한 이유다.국회 여성가족위원회 소속 권인숙 민주당 의원을 지난 4월 20일 오후 서울 여의도 국회의원회관에서 만났다. 권 의원은 20대 대선 이재명 민주당 후보 캠프에서 공동...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/27/l_2022042601003209600290601.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나의 지하실, 떨리는 연필로 기록한 일상의 붕괴 '전쟁 일기' (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -182,14 +190,6 @@
             <pubDate>Sat, 23 Apr 2022 12:20:30 GMT</pubDate>
             <content:encoded><![CDATA[‘청년 자살, 무엇이 그들을 죽음으로 내몰았는가.’ 이 부제에 답하긴 힘들다. 주지영 서울시자살예방센터 부센터장 글을 보면, 청년들은 가정사에서 비롯한 고통과 성장 과정, 자신의 무능력과 부족함 등을 토로한다. 문제 원인을 자신에게서 찾는다. 그는 “(상담을 청한 청년들이) 가정과 사회에서 상처받고, 아프고, 힘들고, 실패했던 것이 자기 탓이라며 자신들의 맨살을 내보이는 노출 같은 고백을 이어갔다”고 말한다.자살은 오롯이 개인이 감당할 문제인가. 에밀 뒤르켐...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/21/l_2022042101002617700234401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['앵커' 천우희가 틀 안에 갇힌 불안을 표현하는 법 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202204201400001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202204201400001</guid>
-            <pubDate>Sat, 23 Apr 2022 12:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[천우희(35)는 또래 여배우들 중 인상적이면서도 안정적인 경력을 이어가는 중이다. 봉준호의 &lt;마더&gt;(2009), 나홍진의 &lt;곡성&gt;(2016) 등 한국을 대표하는 영화감독들과 작업했고, &lt;써니&gt;(2011), &lt;해어화&gt;(2016) 같은 상업영화에서도 개성을 발휘했다. &lt;한공주&gt;(2014) 같은 우울한 독립영화를 이끄는가 하면, &lt;멜로가 체질&gt;(2019)처럼 재치 있는 멜로물에서도 주연이었다.20일 개봉하는 &lt;앵커&gt;(감독 정지연)에서도 천우희는 확연한 극의 중심이다. 베...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/20/l_2022041901002341800207871.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[짧은 휴식에 들어갑니다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
