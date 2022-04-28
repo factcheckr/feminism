@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 23:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 01:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[촉각, 우리가 잃어버린 인간다움의 감각]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202204281002001</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202204281002001</guid>
+            <pubDate>Thu, 28 Apr 2022 01:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[한없이 가까운 세계와의 포옹수시마 수브라마니안 지음·조은영 옮김｜동아시아｜328쪽｜1만7000원 이 책의 저자는 잡지사에서 프리랜서로 일한다. 일단 자신의 경험담부터 털어놓는다. 그는 스킨십을 좋아하지 않는 여성이다. “어린 시절에 아빠는 나를 ‘터치 미 낫’(touch me not)이라는 애칭으로 불렀다”고 말한다. 타인의 손길이 다가오면 “잎을 접는 식물처럼 움츠리는 버릇이 있었기 때문”이다. 성인이 돼서도 별로 달라지지 않았다. “상대가 먼저 청할 때만 악수나 포...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/28/l_2022042701003358100304261.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[권인숙 의원 "문제의 중심에 성평등이 있음을 인식해야 미래가 있다"]]></title>
             <link>https://www.khan.co.kr/politics/politics-general/article/202204271434001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 21 Apr 2022 06:16:15 GMT</pubDate>
             <content:encoded><![CDATA[“한 사회가 아이들을 다루는 방식보다 더 그 사회의 영혼을 정확하게 드러내 보여주는 것은 없다.” 남아프리카공화국의 인권운동가이자 최초의 흑인 대통령이었던 고 넬슨 만델라는 말했다. 이 말에 비추어본 우리 사회는 어떤 모습인가. 부모의 학대로 맞아죽고, 방치돼 굶어죽고, 태어나자마자 버려진 아이들의 비극이 끊이지 않는다. 지난해 아동학대 신고는 전년 대비 약 60% 증가했다고 경찰청은 집계한다. 아이들의 입장을 거부하는 ‘노키즈존’ 논란도 여전하다. 범죄...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/21/l_2022042101002609900233371.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무엇이 여성 청년들을 죽음으로 내몰고 있는가]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202204211032001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202204211032001</guid>
-            <pubDate>Thu, 21 Apr 2022 04:39:48 GMT</pubDate>
-            <content:encoded><![CDATA[‘청년 자살, 무엇이 그들을 죽음으로 내몰았는가.’ 이 부제에 답하긴 힘들다. 주지영 서울시자살예방센터 부센터장 글을 보면, 청년들은 가정사에서 비롯한 고통과 성장 과정, 자신의 무능력과 부족함 등을 토로한다. 문제 원인을 자신에게서 찾는다. 그는 “(상담을 청한 청년들이) 가정과 사회에서 상처받고, 아프고, 힘들고, 실패했던 것이 자기 탓이라며 자신들의 맨살을 내보이는 노출 같은 고백을 이어갔다”고 말한다.자살은 오롯이 개인이 감당할 문제인가. 에밀 뒤르켐...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/21/l_2022042101002617700234401.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
