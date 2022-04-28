@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 08:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 09:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘낙태죄’ 폐지 활동가들이 장애인 시위에 연대하는 이유]]></title>
+            <link>https://ildaro.com/9332</link>
+            <guid>https://ildaro.com/9332</guid>
+            <pubDate>Thu, 28 Apr 2022 09:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[이 지면을 빌어 분명히 이야기하고 싶은 건, 연대는 여러 문제를 섞어 요구를 흐릿하게 만드는 일이 아니라는 점이다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022042805051942.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기독교인이자 페미니스트인 나는 ‘마녀’가 되어야 했다]]></title>
             <link>https://ildaro.com/9331</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 03 Apr 2022 09:14:40 GMT</pubDate>
             <content:encoded><![CDATA[밖에 나가면 남성들이 말을 걸거든요. ‘어디가냐’, ‘놀러가냐’, ‘내가 도와줄게’ 이러면서요. 장애여성이라 만만하게 보는 거에요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022040308429023.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리의 ‘출근길 지하철 타기’ 시위가 불편하다고요?]]></title>
-            <link>https://ildaro.com/9312</link>
-            <guid>https://ildaro.com/9312</guid>
-            <pubDate>Sat, 02 Apr 2022 09:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[서울의 저상버스 확보율은 높아졌지만, 버스를 장애인과 함께 이용하기 위해 필요한 기다림을 자연스럽게 여기는 시민의식은 아직은 저조해서, 우리는 그 공간이 불편...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022040259005935.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
