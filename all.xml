@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 04:08:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 05:39:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['워킹맘은 힘들다'는 말을 믿지 않는 사람들에게 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202204281354001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202204281354001</guid>
+            <pubDate>Thu, 28 Apr 2022 05:36:58 GMT</pubDate>
+            <content:encoded><![CDATA[‘이건 못 믿어서 그러는 게 아니고 저를 안 믿는 거잖아요.’  타블로의 말이 갑자기 생각났다. 그들은 타블로가 적법한 자료를 제출해도 위조로 치부하고, 사람들이 증언을 해주어도 믿지 않으며, 그저 ‘믿을 만한 증거가 어디 있느냐’는 말만 반복했다. 아무리 타블로가 보여주고 드러내도 그들은 타블로를 거짓말쟁이로 몰았다. 10년이 흐른 지금 사람들은 누가 진실을 말했는지 알고 있다. 타블로와 그의 가족들이 받은 상처가 없어지진 않겠지만 말이다.오래전 일이 ...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/28/l_2022042701003358900304351.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[촉각, 우리가 잃어버린 인간다움의 감각 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/book/article/202204281002001</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 23 Apr 2022 12:20:30 GMT</pubDate>
             <content:encoded><![CDATA[‘남성은 생계 부양, 여성은 자녀 양육’이라는 전통적인 성역할 고정관념이 과거보다 완화됐지만, 가사·돌봄 병행의 어려움은 여전히 여성이 남성보다 더 많이 겪는 것으로 나타났다.19일 여성가족부는 이같은 내용의 ‘2021년 양성평등 실태조사’ 결과를 발표했다. 양성평등 실태조사는 양성평등 정책 수립에 활용하기 위해 5년마다 실시하는 국가승인통계다. 여가부는 이번 실태조사에 대해 “지난 5년간 양성평등 인식과 수준이 대폭 개선됐다”고 밝혔다.실태조사 결과, ‘가...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/22/l_2022042001002475300220681.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['노키즈존' 점주에게 아동을 차별할 자유는 없다 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202204211452001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202204211452001</guid>
-            <pubDate>Sat, 23 Apr 2022 12:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[“한 사회가 아이들을 다루는 방식보다 더 그 사회의 영혼을 정확하게 드러내 보여주는 것은 없다.” 남아프리카공화국의 인권운동가이자 최초의 흑인 대통령이었던 고 넬슨 만델라는 말했다. 이 말에 비추어본 우리 사회는 어떤 모습인가. 부모의 학대로 맞아죽고, 방치돼 굶어죽고, 태어나자마자 버려진 아이들의 비극이 끊이지 않는다. 지난해 아동학대 신고는 전년 대비 약 60% 증가했다고 경찰청은 집계한다. 아이들의 입장을 거부하는 ‘노키즈존’ 논란도 여전하다. 범죄...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/21/l_2022042101002609900233371.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
