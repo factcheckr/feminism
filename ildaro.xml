@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 09:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 10:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[People Are All Different, and Thus All Equal]]></title>
+            <link>https://ildaro.com/9334</link>
+            <guid>https://ildaro.com/9334</guid>
+            <pubDate>Sat, 30 Apr 2022 10:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[When I, as someone who’s experienced being a stranger in a foreign land, consider foreigners in Korea and the way that Koreans see them, I often think that Koreans don’t even know what racism is....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022043024448674.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘묻지마 범죄’가 아니라 ‘페미사이드’ 미수 사건이죠]]></title>
             <link>https://ildaro.com/9333</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 05 Apr 2022 11:11:00 GMT</pubDate>
             <content:encoded><![CDATA[웃게 하는 사람은 남자고 웃는 사람은 여자였다. 수많은 사람들이 여자의 웃음을 원했다. 그러나 정작 웃기는 여자는 비호감으로 일축되었다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022040519588675.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Five Suitcases of My Coming Out]]></title>
-            <link>https://ildaro.com/9314</link>
-            <guid>https://ildaro.com/9314</guid>
-            <pubDate>Mon, 04 Apr 2022 11:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[Because of the many stories I can tell about coming out, or staying in, every day, and how much of that is entangled with my adoption....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022040452106860.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
