@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 06:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 07:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[록 음악 정신은 자유, ‘젠더 프리’하게]]></title>
+            <link>https://ildaro.com/9335</link>
+            <guid>https://ildaro.com/9335</guid>
+            <pubDate>Sun, 01 May 2022 07:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[“우리는 우리가 옳다고 느끼는 것은 무엇이든 자유롭게 입을 수 있으며, 성별 규범과 물건 사이의 이러한 모든 고정관념을 흐리게 하는 메시지를 보내려고 한다”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022050113009452.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[People Are All Different, and Thus All Equal]]></title>
             <link>https://ildaro.com/9334</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 06 Apr 2022 10:17:01 GMT</pubDate>
             <content:encoded><![CDATA[내가 생각하는 페미니스트는 팔자가 드세고, 집안을 망하게 하고, 밖에 나다니길 좋아하고, 재수가 없고, 남편을 잡아먹을 동시대 여성들이다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022040645315676.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웃는 여자? 아니 웃기는 여자!]]></title>
-            <link>https://ildaro.com/9315</link>
-            <guid>https://ildaro.com/9315</guid>
-            <pubDate>Tue, 05 Apr 2022 11:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[웃게 하는 사람은 남자고 웃는 사람은 여자였다. 수많은 사람들이 여자의 웃음을 원했다. 그러나 정작 웃기는 여자는 비호감으로 일축되었다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022040519588675.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
