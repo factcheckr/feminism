@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 07:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 08:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/977f3439-fb72-41f8-a3f1-e7fb4452ecc3.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[지방 퀴어 페미니스트 ‘나 여기 있고, 너 거기 있지’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9336</link>
+            <guid>https://ildaro.com/9336</guid>
+            <pubDate>Mon, 02 May 2022 08:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[바로 거기에 내가 생각하는 페미니즘이 있었다. 내가 살고 싶은 곳에, 계속 버티며 살아갈 수 있게 해주는 힘....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022050228401881.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[록 음악 정신은 자유, ‘젠더 프리’하게 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9335</link>
             <guid>https://ildaro.com/9335</guid>
@@ -422,14 +430,6 @@
             <pubDate>Fri, 08 Apr 2022 09:57:00 GMT</pubDate>
             <content:encoded><![CDATA[휠체어를 타고 선거운동 하기 쉽지 않구나 절실하게 느꼈어요. 그러다 유세차에 리프트를 달자는 생각을 하게 됐죠....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022040832598658.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“내가 바로 60년마다 죽지 않고 돌아오는 백말띠올시다” (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9316</link>
-            <guid>https://ildaro.com/9316</guid>
-            <pubDate>Sat, 23 Apr 2022 12:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[내가 생각하는 페미니스트는 팔자가 드세고, 집안을 망하게 하고, 밖에 나다니길 좋아하고, 재수가 없고, 남편을 잡아먹을 동시대 여성들이다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022040645315676.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
