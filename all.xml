@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 01:04:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 03:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시민 10명 중 7명 이상 “여가부 사업 필요하다” (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202205031042001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202205031042001</guid>
+            <pubDate>Tue, 03 May 2022 03:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[시민 10명 중 7명 이상은 여성가족부의 주요 사업이 필요하다고 생각한다는 조사 결과가 나왔다.1일 한국여성정책연구원의 ‘KWDI 브리프’ 자료를 보면, 연구원이 지난 1월 전국 만 18~69세 성인 남녀 5000명을 대상으로 인식 조사를 실시한 결과 이같이 나타났다.여가부 주요 사업에 대한 필요도를 4점 척도(전혀 필요없다~매우 필요하다)로 물어본 결과 평균 3.02점이었다. 10명 중 7명 이상은 여가부의 주요 사업이 필요하다고 생각한다는 의미다. ‘성폭력·가정폭력 예방 ...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/05/03/l_2022050301000314100029022.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쓰레기를 버리는 날마다 쓰레기에 대해 고민하는 대학생 최지승씨 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/environment/environment-general/article/202205021344001</link>
@@ -80,14 +88,6 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/26/l_2022042501003052300276541.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[“새 정부 최우선 과제는 성장보다 복지” 답한 20대 여성들, 남성의 두 배 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202204261002001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202204261002001</guid>
-            <pubDate>Tue, 26 Apr 2022 03:04:14 GMT</pubDate>
-            <content:encoded><![CDATA[복지 증대를 원하는 20대 여성의 비율이 20대 남성의 두 배가 넘는다는 조사 결과가 나왔다. 20대 여성은 복지를 가장 중시한 반면 남성은 경제 성장을 꼽았다. 경향신문이 한국개발연구원(KDI)의 ‘새 정부에서 수행할 우선 정책과제’ 국민 여론조사의 원데이터를 분석한 결과, 20대 여성의 41.3%가 최우선 국정목표로 ‘복지 확대로 국민의 삶의 질 향상’을 꼽았다. 다음으로는 ‘공정한 경쟁과 기회보장’(18.5%), 깨끗하고 안전한 사회 구현(15.2%), 균형발전 및 사회적 ...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/26/l_2022042201002850800255121.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
@@ -110,6 +110,14 @@
             <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022. 01. 17]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시민 10명 중 7명 이상 “여가부 사업 필요하다” (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202205031042001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202205031042001</guid>
+            <pubDate>Tue, 03 May 2022 03:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[시민 10명 중 7명 이상은 여성가족부의 주요 사업이 필요하다고 생각한다는 조사 결과가 나왔다.1일 한국여성정책연구원의 ‘KWDI 브리프’ 자료를 보면, 연구원이 지난 1월 전국 만 18~69세 성인 남녀 5000명을 대상으로 인식 조사를 실시한 결과 이같이 나타났다.여가부 주요 사업에 대한 필요도를 4점 척도(전혀 필요없다~매우 필요하다)로 물어본 결과 평균 3.02점이었다. 10명 중 7명 이상은 여가부의 주요 사업이 필요하다고 생각한다는 의미다. ‘성폭력·가정폭력 예방 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/05/03/l_2022050301000314100029022.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쓰레기를 버리는 날마다 쓰레기에 대해 고민하는 대학생 최지승씨[플랫] (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -182,14 +190,6 @@
             <pubDate>Tue, 26 Apr 2022 06:16:13 GMT</pubDate>
             <content:encoded><![CDATA[이 찬란한 봄, 밥알을 씹어 삼킬 때마다 떠오르는 두 얼굴이 있다. 미류와 이종걸이다. 그들이 국회 앞에서 단식 투쟁을 한 지 15일째다. 실제로 만난 적 없어도 그들의 단식이 나와 상관있다는 걸 안다. 당신과도 상관있을 것이다. 차별금지법 제정을 촉구하는 단식이기 때문이다.차별금지법과 무관한 사람은 아무도 없다. 이것은 소수자 우대법이 아니다. 선택할 수 없는 조건으로 태어나서 살아가다 죽는 생애 주기의 순리대로라면 모두가 한 번 이상 겪게 될 정체성을...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/26/l_2022042501003052300276541.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“새 정부 최우선 과제는 성장보다 복지” 답한 20대 여성들, 남성의 두 배 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202204261002001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202204261002001</guid>
-            <pubDate>Tue, 26 Apr 2022 03:04:14 GMT</pubDate>
-            <content:encoded><![CDATA[복지 증대를 원하는 20대 여성의 비율이 20대 남성의 두 배가 넘는다는 조사 결과가 나왔다. 20대 여성은 복지를 가장 중시한 반면 남성은 경제 성장을 꼽았다. 경향신문이 한국개발연구원(KDI)의 ‘새 정부에서 수행할 우선 정책과제’ 국민 여론조사의 원데이터를 분석한 결과, 20대 여성의 41.3%가 최우선 국정목표로 ‘복지 확대로 국민의 삶의 질 향상’을 꼽았다. 다음으로는 ‘공정한 경쟁과 기회보장’(18.5%), 깨끗하고 안전한 사회 구현(15.2%), 균형발전 및 사회적 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/26/l_2022042201002850800255121.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[짧은 휴식에 들어갑니다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
