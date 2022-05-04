@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 07:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 08:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[살해되고 사라지는 멕시코 여성들 “페미사이드 처벌 강화하라”]]></title>
+            <link>https://www.khan.co.kr/world/america/article/202205041056001</link>
+            <guid>https://www.khan.co.kr/world/america/article/202205041056001</guid>
+            <pubDate>Wed, 04 May 2022 08:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[멕시코 하원이 여성살해(페미사이드) 미수범에 최대 40년 징역형을 내리도록 하는 형법 개정안을 가결했다. 여성을 노린 범죄가 증가하며 여성살해에 대한 국민적 공분이 커지자 의회가 처벌 강화에 나선 것이다.멕시코 일간 엘노르테는 26일(현지시간) 멕시코 하원이 이 같은 형법 개정안을 의원 대다수 찬성으로 가결했다고 보도했다. 개정안은 여성살해가 미수에 그친 경우에도 실제 여성살해 형량의 절반 이상, 최고 3분의 2까지의 형량으로 처벌하도록 하는 것이 골자다. 여...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/05/04/l_2022050301000358400033231.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘남성 생계부양자 모델’과 ‘가부장제’에 맞춰진 지방 떠나는 20대 여성들]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202205031444001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 27 Apr 2022 06:17:05 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 대통령 당선인이 주요 공약인 ‘여성가족부 폐지’ 논의를 일단 뒤로 미뤘다. 차기 정부가 부서 폐지를 위해 정부조직법을 개정하려면 여전히 다수당을 차지하고 있는 더불어민주당이란 벽을 넘어야 한다. 민주당이 여성가족부 해체란 의제에 어떻게 대응할지, 어떤 방침을 갖고 있는지가 중요한 이유다.국회 여성가족위원회 소속 권인숙 민주당 의원을 지난 4월 20일 오후 서울 여의도 국회의원회관에서 만났다. 권 의원은 20대 대선 이재명 민주당 후보 캠프에서 공동...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/27/l_2022042601003209600290601.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나의 지하실, 떨리는 연필로 기록한 일상의 붕괴 '전쟁 일기']]></title>
-            <link>https://www.khan.co.kr/culture/book/article/202204271039001</link>
-            <guid>https://www.khan.co.kr/culture/book/article/202204271039001</guid>
-            <pubDate>Wed, 27 Apr 2022 03:39:23 GMT</pubDate>
-            <content:encoded><![CDATA[전쟁일기올가 그레벤니크 글·그림｜정소은 옮김｜이야기장수｜136쪽｜책1만2000원 “내 나이 서른다섯에 모든 것을 처음부터 시작해야 할 거라곤 생각하지 못했다.” 우크라이나의 그림책 작가 올가 그레벤니크의 책 &lt;전쟁일기&gt;는 이 같은 ‘작가의 말’로 문을 연다. 지난 2월24일 오전 5시, 그는 폭격 소리에 잠에서 깼다. 무슨 일이 벌어지고 있는지 완전히 파악하지도 못한 채 짐을 챙기기 시작한 그는 아홉 살과 네 살 아이의 팔에 이름과 생년월일, 연락처를 적는...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/27/l_2022042201002851000255151.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
