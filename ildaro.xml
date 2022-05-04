@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 01:03:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 03:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동물에겐 표가 없다, ‘지구공유자’ 우리 손에 달렸다]]></title>
+            <link>https://ildaro.com/9337</link>
+            <guid>https://ildaro.com/9337</guid>
+            <pubDate>Wed, 04 May 2022 10:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[동물에게 투표권이 있는 게 아니니까 정치와 동물권은 무관한 것으로 여겨졌던 것 같아요. 인간도 다른 동물과 자연 생태계에 의존하고 있는 의존적인 존재잖아요?...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022050454507290.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지방 퀴어 페미니스트 ‘나 여기 있고, 너 거기 있지’]]></title>
             <link>https://ildaro.com/9336</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 10 Apr 2022 09:41:00 GMT</pubDate>
             <content:encoded><![CDATA["오이시 씨가 오랜 침묵을 깨고 말하기 시작한 것은 1983년부터입니다. 오이시 씨는 비키니 사건 후 ‘돈을 받았다’, ‘방사능이 전염된다’ 등의 말들 때문에 고향...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022041059485104.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[15% ‘종로의 기적’, 다양성 정치의 가능성 열었다]]></title>
-            <link>https://ildaro.com/9317</link>
-            <guid>https://ildaro.com/9317</guid>
-            <pubDate>Fri, 08 Apr 2022 09:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[휠체어를 타고 선거운동 하기 쉽지 않구나 절실하게 느꼈어요. 그러다 유세차에 리프트를 달자는 생각을 하게 됐죠....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022040832598658.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
