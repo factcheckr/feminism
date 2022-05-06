@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 07:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 08:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무능할수록 유능해보이는 아이러니]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202205061455001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202205061455001</guid>
+            <pubDate>Fri, 06 May 2022 08:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[요가를 배우며 궁금한 점이 있었다. 평소 안 쓰던 근육을 사용하는 고된 동작들이 끝나면 잠시 누워 휴식을 취한 후, “팔로 바닥을 누르며 천천히 일어나라”는 지시에 따라 몸을 일으킨다. 누워서 쉬다 일어나는 게 뭐 그리 어려운 일이라고 방법을 정해주는지 여쭤봤다. “연세 드시거나 허약한 분들 중엔 그 간단한 움직임조차 무리가 되는 경우가 있다”는 대답이 돌아왔다.얼마 전 집안일을 하다 허리를 크게 다쳤다. 단순한 뒤척임과 자세 바꾸는 일에도 엄청난 고...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/05/06/l_2022042901003755600340601.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['임신 중단을 선택할 권리' 뒤집겠다는 미국 대법원]]></title>
             <link>https://www.khan.co.kr/world/america/article/202205061057001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 28 Apr 2022 05:36:58 GMT</pubDate>
             <content:encoded><![CDATA[‘이건 못 믿어서 그러는 게 아니고 저를 안 믿는 거잖아요.’  타블로의 말이 갑자기 생각났다. 그들은 타블로가 적법한 자료를 제출해도 위조로 치부하고, 사람들이 증언을 해주어도 믿지 않으며, 그저 ‘믿을 만한 증거가 어디 있느냐’는 말만 반복했다. 아무리 타블로가 보여주고 드러내도 그들은 타블로를 거짓말쟁이로 몰았다. 10년이 흐른 지금 사람들은 누가 진실을 말했는지 알고 있다. 타블로와 그의 가족들이 받은 상처가 없어지진 않겠지만 말이다.오래전 일이 ...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/28/l_2022042701003358900304351.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[촉각, 우리가 잃어버린 인간다움의 감각]]></title>
-            <link>https://www.khan.co.kr/culture/book/article/202204281002001</link>
-            <guid>https://www.khan.co.kr/culture/book/article/202204281002001</guid>
-            <pubDate>Thu, 28 Apr 2022 01:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[한없이 가까운 세계와의 포옹수시마 수브라마니안 지음·조은영 옮김｜동아시아｜328쪽｜1만7000원 이 책의 저자는 잡지사에서 프리랜서로 일한다. 일단 자신의 경험담부터 털어놓는다. 그는 스킨십을 좋아하지 않는 여성이다. “어린 시절에 아빠는 나를 ‘터치 미 낫’(touch me not)이라는 애칭으로 불렀다”고 말한다. 타인의 손길이 다가오면 “잎을 접는 식물처럼 움츠리는 버릇이 있었기 때문”이다. 성인이 돼서도 별로 달라지지 않았다. “상대가 먼저 청할 때만 악수나 포...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/28/l_2022042701003358100304261.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
