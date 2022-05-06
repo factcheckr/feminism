@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 00:56:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 02:44:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['임신 중단을 선택할 권리' 뒤집겠다는 미국 대법원]]></title>
+            <link>https://www.khan.co.kr/world/america/article/202205061057001</link>
+            <guid>https://www.khan.co.kr/world/america/article/202205061057001</guid>
+            <pubDate>Fri, 06 May 2022 02:43:14 GMT</pubDate>
+            <content:encoded><![CDATA[미국 사회가 여성의 임신중단 권리를 둘러싸고 분열의 소용돌이로 빨려들고 있다. 연방 대법원이 1973년 여성의 임신중단 권리를 헌법상 기본권으로 인정한 ‘로 대 웨이드’ 판례를 뒤집기로 결정한 판결문 초안이 언론을 통해 유출되면서다. 임신중단 찬성·반대 단체와 시민은 물론이고 정치권까지 논쟁과 논란에 휩쓸렸다. 결정문 초안대로 대법원의 판결이 이뤄진다면 미국의 절반 가까운 주에서 여성의 임신중단 권리가 제약받게 될 전망이다.대법원의 판결문 초안이 공개된...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/05/06/l_2022050601000766700068411.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[살해되고 사라지는 멕시코 여성들 “페미사이드 처벌 강화하라”]]></title>
             <link>https://www.khan.co.kr/world/america/article/202205041056001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 28 Apr 2022 01:20:27 GMT</pubDate>
             <content:encoded><![CDATA[한없이 가까운 세계와의 포옹수시마 수브라마니안 지음·조은영 옮김｜동아시아｜328쪽｜1만7000원 이 책의 저자는 잡지사에서 프리랜서로 일한다. 일단 자신의 경험담부터 털어놓는다. 그는 스킨십을 좋아하지 않는 여성이다. “어린 시절에 아빠는 나를 ‘터치 미 낫’(touch me not)이라는 애칭으로 불렀다”고 말한다. 타인의 손길이 다가오면 “잎을 접는 식물처럼 움츠리는 버릇이 있었기 때문”이다. 성인이 돼서도 별로 달라지지 않았다. “상대가 먼저 청할 때만 악수나 포...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/28/l_2022042701003358100304261.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권인숙 의원 "문제의 중심에 성평등이 있음을 인식해야 미래가 있다"]]></title>
-            <link>https://www.khan.co.kr/politics/politics-general/article/202204271434001</link>
-            <guid>https://www.khan.co.kr/politics/politics-general/article/202204271434001</guid>
-            <pubDate>Wed, 27 Apr 2022 06:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 대통령 당선인이 주요 공약인 ‘여성가족부 폐지’ 논의를 일단 뒤로 미뤘다. 차기 정부가 부서 폐지를 위해 정부조직법을 개정하려면 여전히 다수당을 차지하고 있는 더불어민주당이란 벽을 넘어야 한다. 민주당이 여성가족부 해체란 의제에 어떻게 대응할지, 어떤 방침을 갖고 있는지가 중요한 이유다.국회 여성가족위원회 소속 권인숙 민주당 의원을 지난 4월 20일 오후 서울 여의도 국회의원회관에서 만났다. 권 의원은 20대 대선 이재명 민주당 후보 캠프에서 공동...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/27/l_2022042601003209600290601.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
