@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 00:58:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 02:35:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/977f3439-fb72-41f8-a3f1-e7fb4452ecc3.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[‘임신중지 접근성은 인권’ 에콰도르의 페미니스트들 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9339</link>
+            <guid>https://ildaro.com/9339</guid>
+            <pubDate>Sat, 07 May 2022 09:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[우리는 강제된 임신과 모성에 복종하지 않고 다른 인생을 걸을 권리가 있다는 점, 낳을지 말지를 정하는 데 가장 적합한 사람은 자기 자신이라는 점을 주장할 수 있다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022050700447845.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[톰보이는 금쪽이인가요? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9338</link>
             <guid>https://ildaro.com/9338</guid>
@@ -422,14 +430,6 @@
             <pubDate>Sat, 23 Apr 2022 12:21:42 GMT</pubDate>
             <content:encoded><![CDATA[‘여성’은 균질한 집단이 아니다. 가난으로 비롯한 나의 경험은 늘 그랬듯이 사회 보편과 거리가 멀었다. 나는 새롭게 마주하게 된 세계와 나의 차이를 감추었다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022041223541225.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이성애자들이 허락한 공연 말고, 퀴어 공연을! (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9319</link>
-            <guid>https://ildaro.com/9319</guid>
-            <pubDate>Sat, 23 Apr 2022 12:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[이성애자 배우나 시스센더 배우가 퀴어 연기하는 건 가십성으로 소비되는 게 있잖아요. 근데 그 반대의 경우에 대해선 아무도 물어보지 않잖아요?...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022041137384232.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
