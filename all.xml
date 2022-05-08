@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 02:56:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 03:42:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/977f3439-fb72-41f8-a3f1-e7fb4452ecc3.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[새로 태어난 어머니는 ‘모성’에 갇히지 않는다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9340</link>
+            <guid>https://ildaro.com/9340</guid>
+            <pubDate>Sun, 08 May 2022 11:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[옛이야기에는 여성이 일생 동안 겪을 수 있는 가부장제 폭력의 수많은 사례가 있다. 는 부모로부터 끔찍한 학대를 겪고 살아남은 여성의 생존기다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022050856248527.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘임신중지 접근성은 인권’ 에콰도르의 페미니스트들 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9339</link>
             <guid>https://ildaro.com/9339</guid>
@@ -422,14 +430,6 @@
             <pubDate>Sat, 23 Apr 2022 12:21:42 GMT</pubDate>
             <content:encoded><![CDATA[Becoming a parent has been one of the most isolating experiences I have had in Korea—I did not expect to have such feelings of loneliness or aloneness....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022041313053883.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페미니즘이란, 차이를 드러내는 것이다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9320</link>
-            <guid>https://ildaro.com/9320</guid>
-            <pubDate>Sat, 23 Apr 2022 12:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[‘여성’은 균질한 집단이 아니다. 가난으로 비롯한 나의 경험은 늘 그랬듯이 사회 보편과 거리가 멀었다. 나는 새롭게 마주하게 된 세계와 나의 차이를 감추었다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022041223541225.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
