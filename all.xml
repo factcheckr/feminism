@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 03:03:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 04:28:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -115,7 +115,7 @@
             <title><![CDATA['기후위기 대응'을 트렌디하게 말하는 <1.5℃> 에디터들[플랫] (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/environment/environment-general/article/202205091102001</link>
             <guid>https://www.khan.co.kr/environment/environment-general/article/202205091102001</guid>
-            <pubDate>Mon, 09 May 2022 03:03:16 GMT</pubDate>
+            <pubDate>Mon, 09 May 2022 03:02:32 GMT</pubDate>
             <content:encoded><![CDATA[기후위기는 보통 전문가들의 입을 통해 다뤄진다. 이들의 말은 대체로 비슷하다. ‘이대로라면 산업화 이전 시기 대비 지구평균기온은 1.5도 이상 상승할 가능성이 높다. 기후위기는 가속화되고 있다.’ 대응책도 이미 나와 있다. 화석연료 사용을 줄이고, 재생에너지 중심의 에너지 구조를 짜야 한다. 내연기관차 대신 전기차를 타야 한다. 생활 전반에서 탄소 배출을 줄이는 사회 구조를 만들어야 한다. 위기를 증명하는 과학적 근거는 차고 넘치며, 대응책 역시 있다. 그런...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/05/09/l_2022050901000992400091041.jpg" length="0" type="image/jpg"/>
         </item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/977f3439-fb72-41f8-a3f1-e7fb4452ecc3.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[내 글에 빨간 줄부터 긋지 말고 해석하려 애써봐요 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9341</link>
+            <guid>https://ildaro.com/9341</guid>
+            <pubDate>Mon, 09 May 2022 00:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[발달장애인이라고 하면 ‘지적인 문제로, 읽고 쓰는 데 어려움을 겪는 사람’이라는 말이 따라다닌다. 하지만, 김유리가 글을 쓰기 시작하면 그는 이러한 말을 파괴하...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022050937059959.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[새로 태어난 어머니는 ‘모성’에 갇히지 않는다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9340</link>
             <guid>https://ildaro.com/9340</guid>
@@ -422,14 +430,6 @@
             <pubDate>Thu, 14 Apr 2022 11:20:00 GMT</pubDate>
             <content:encoded><![CDATA[“어떤 인도주의적 비극이 더이상 언론 헤드라인에 오르지 않으면 국제적인 관심을 덜 받고, 인도적 지원금도 줄어든다. 도덕적 무책임일 뿐 아니라 우리 스스로 패배...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022041433196512.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Watching Adoptees Pass through Stages of Confusion and Sadness (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9321</link>
-            <guid>https://ildaro.com/9321</guid>
-            <pubDate>Sat, 23 Apr 2022 12:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[Becoming a parent has been one of the most isolating experiences I have had in Korea—I did not expect to have such feelings of loneliness or aloneness....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022041313053883.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

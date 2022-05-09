@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 03:03:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 04:28:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내 글에 빨간 줄부터 긋지 말고 해석하려 애써봐요]]></title>
+            <link>https://ildaro.com/9341</link>
+            <guid>https://ildaro.com/9341</guid>
+            <pubDate>Mon, 09 May 2022 00:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[발달장애인이라고 하면 ‘지적인 문제로, 읽고 쓰는 데 어려움을 겪는 사람’이라는 말이 따라다닌다. 하지만, 김유리가 글을 쓰기 시작하면 그는 이러한 말을 파괴하...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022050937059959.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새로 태어난 어머니는 ‘모성’에 갇히지 않는다]]></title>
             <link>https://ildaro.com/9340</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 14 Apr 2022 11:20:00 GMT</pubDate>
             <content:encoded><![CDATA[“어떤 인도주의적 비극이 더이상 언론 헤드라인에 오르지 않으면 국제적인 관심을 덜 받고, 인도적 지원금도 줄어든다. 도덕적 무책임일 뿐 아니라 우리 스스로 패배...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022041433196512.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Watching Adoptees Pass through Stages of Confusion and Sadness]]></title>
-            <link>https://ildaro.com/9321</link>
-            <guid>https://ildaro.com/9321</guid>
-            <pubDate>Wed, 13 Apr 2022 08:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[Becoming a parent has been one of the most isolating experiences I have had in Korea—I did not expect to have such feelings of loneliness or aloneness....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022041313053883.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
