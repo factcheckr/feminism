@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 01:02:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 03:03:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['기후위기 대응'을 트렌디하게 말하는 <1.5℃> 에디터들 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/environment/environment-general/article/202205091102001</link>
+            <guid>https://www.khan.co.kr/environment/environment-general/article/202205091102001</guid>
+            <pubDate>Mon, 09 May 2022 03:02:32 GMT</pubDate>
+            <content:encoded><![CDATA[기후위기는 보통 전문가들의 입을 통해 다뤄진다. 이들의 말은 대체로 비슷하다. ‘이대로라면 산업화 이전 시기 대비 지구평균기온은 1.5도 이상 상승할 가능성이 높다. 기후위기는 가속화되고 있다.’ 대응책도 이미 나와 있다. 화석연료 사용을 줄이고, 재생에너지 중심의 에너지 구조를 짜야 한다. 내연기관차 대신 전기차를 타야 한다. 생활 전반에서 탄소 배출을 줄이는 사회 구조를 만들어야 한다. 위기를 증명하는 과학적 근거는 차고 넘치며, 대응책 역시 있다. 그런...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/05/09/l_2022050901000992400091041.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무능할수록 유능해보이는 아이러니 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202205061455001</link>
@@ -80,14 +88,6 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/29/l_2022042801003536800320891.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['워킹맘은 힘들다'는 말을 믿지 않는 사람들에게 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202204281354001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202204281354001</guid>
-            <pubDate>Thu, 28 Apr 2022 05:36:58 GMT</pubDate>
-            <content:encoded><![CDATA[‘이건 못 믿어서 그러는 게 아니고 저를 안 믿는 거잖아요.’  타블로의 말이 갑자기 생각났다. 그들은 타블로가 적법한 자료를 제출해도 위조로 치부하고, 사람들이 증언을 해주어도 믿지 않으며, 그저 ‘믿을 만한 증거가 어디 있느냐’는 말만 반복했다. 아무리 타블로가 보여주고 드러내도 그들은 타블로를 거짓말쟁이로 몰았다. 10년이 흐른 지금 사람들은 누가 진실을 말했는지 알고 있다. 타블로와 그의 가족들이 받은 상처가 없어지진 않겠지만 말이다.오래전 일이 ...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/28/l_2022042701003358900304351.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
@@ -110,6 +110,14 @@
             <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022. 01. 17]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['기후위기 대응'을 트렌디하게 말하는 <1.5℃> 에디터들[플랫] (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/environment/environment-general/article/202205091102001</link>
+            <guid>https://www.khan.co.kr/environment/environment-general/article/202205091102001</guid>
+            <pubDate>Mon, 09 May 2022 03:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[기후위기는 보통 전문가들의 입을 통해 다뤄진다. 이들의 말은 대체로 비슷하다. ‘이대로라면 산업화 이전 시기 대비 지구평균기온은 1.5도 이상 상승할 가능성이 높다. 기후위기는 가속화되고 있다.’ 대응책도 이미 나와 있다. 화석연료 사용을 줄이고, 재생에너지 중심의 에너지 구조를 짜야 한다. 내연기관차 대신 전기차를 타야 한다. 생활 전반에서 탄소 배출을 줄이는 사회 구조를 만들어야 한다. 위기를 증명하는 과학적 근거는 차고 넘치며, 대응책 역시 있다. 그런...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/05/09/l_2022050901000992400091041.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무능할수록 유능해보이는 아이러니 (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -182,14 +190,6 @@
             <pubDate>Fri, 29 Apr 2022 03:06:06 GMT</pubDate>
             <content:encoded><![CDATA[몇 번을 보고 또 봐도 이게 실화인가 싶다. 소름 돋을 만큼 짜릿하고, 대단하다. 최민정(24·성남시청)의 ‘압도적 질주’이고 ‘기적의 반 바퀴’였다. 지난 11일 캐나다 몬트리올의 모리스 리처드 아레나. 쇼트트랙 세계선수권대회 3000m 계주 결승 레이스에서 벌어진 일이다.두 바퀴를 남기고 3등으로 처진 한국. 최종 주자로 나선 최민정은 이를 앙다물고 엄청난 속도로 내달렸다. 직선 주로에서 1·2위 선수들이 서너 걸음 달릴 때 최민정은 잰걸음으로 7번이나 스케이트를...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/29/l_2022042801003536800320891.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['워킹맘은 힘들다'는 말을 믿지 않는 사람들에게 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202204281354001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202204281354001</guid>
-            <pubDate>Thu, 28 Apr 2022 05:36:58 GMT</pubDate>
-            <content:encoded><![CDATA[‘이건 못 믿어서 그러는 게 아니고 저를 안 믿는 거잖아요.’  타블로의 말이 갑자기 생각났다. 그들은 타블로가 적법한 자료를 제출해도 위조로 치부하고, 사람들이 증언을 해주어도 믿지 않으며, 그저 ‘믿을 만한 증거가 어디 있느냐’는 말만 반복했다. 아무리 타블로가 보여주고 드러내도 그들은 타블로를 거짓말쟁이로 몰았다. 10년이 흐른 지금 사람들은 누가 진실을 말했는지 알고 있다. 타블로와 그의 가족들이 받은 상처가 없어지진 않겠지만 말이다.오래전 일이 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/04/28/l_2022042701003358900304351.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[짧은 휴식에 들어갑니다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
