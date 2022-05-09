@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 07:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 08:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위기청소년 절반은 “가족 피해 가출”]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202205091616001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202205091616001</guid>
+            <pubDate>Mon, 09 May 2022 08:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[가출·자살·비행과 같이 위기를 겪는 청소년의 절반가량은 부모 등에게 신체·언어 폭력을 당했다는 조사 결과가 나왔다. 위기 청소년 10명 중 1명은 최근 1년간 극단적 선택을 시도한 것으로 나타났다.여성가족부는 지난달 28일 이 같은 내용의 ‘2021년 위기 청소년 지원기관 이용자 생활실태조사’ 결과를 발표했다쉼터·상담복지센터·소년원·보호관찰소 등 위기 청소년 지원기관을 이용·입소한 경험이 있는 9~18세 청소년 4399명이 조사에 참여했다. 여가부는 위기 청소년을 대상...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/05/09/l_2022050901001039000095111.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['기후위기 대응'을 트렌디하게 말하는 <1.5℃> 에디터들]]></title>
             <link>https://www.khan.co.kr/environment/environment-general/article/202205091102001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 29 Apr 2022 06:16:38 GMT</pubDate>
             <content:encoded><![CDATA[‘여성가족부 폐지’, 단 일곱 글자로 던진 화두가 점점 무거워지고 있다. 정부 예산 0.2%에 불과한, 작디작은 부서 여가부는 선거판이 돌아올 때마다 정치인의 입길에 오르내린다. 때로는 청년층 공략으로, 때로는 전체 부처 개편의 일환으로 모습은 달리했지만 본질은 같다. 20대 대통령선거에서도 여가부 폐지론은 역시 표를 얻기 위한 정치적 계산을 타고 등장했다. 그 과정에서 윤석열 대통령 당선인은 “구조적 성차별은 없다”, “여가부는 역사적 소명을 다했다” 등...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/29/l_2022042801003549500321811.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['활짝 웃는 얼굴'로 질주할 최민정의 다음 4년]]></title>
-            <link>https://www.khan.co.kr/sports/sports-general/article/202204291034001</link>
-            <guid>https://www.khan.co.kr/sports/sports-general/article/202204291034001</guid>
-            <pubDate>Fri, 29 Apr 2022 03:06:06 GMT</pubDate>
-            <content:encoded><![CDATA[몇 번을 보고 또 봐도 이게 실화인가 싶다. 소름 돋을 만큼 짜릿하고, 대단하다. 최민정(24·성남시청)의 ‘압도적 질주’이고 ‘기적의 반 바퀴’였다. 지난 11일 캐나다 몬트리올의 모리스 리처드 아레나. 쇼트트랙 세계선수권대회 3000m 계주 결승 레이스에서 벌어진 일이다.두 바퀴를 남기고 3등으로 처진 한국. 최종 주자로 나선 최민정은 이를 앙다물고 엄청난 속도로 내달렸다. 직선 주로에서 1·2위 선수들이 서너 걸음 달릴 때 최민정은 잰걸음으로 7번이나 스케이트를...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/29/l_2022042801003536800320891.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
