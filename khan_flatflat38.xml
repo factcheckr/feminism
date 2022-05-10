@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 00:58:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 02:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비혼이고, 아이를 키우는 백지선 작가가 가장 잘한 일은 '입양']]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202205101007001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202205101007001</guid>
+            <pubDate>Tue, 10 May 2022 02:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;비혼이고 아이를 키웁니다&gt; 저자 백지선 작가가 사는 법바야흐로 가정의 달이다. 5월엔 어린이날과 어버이날 외에도, 한부모가정의 날(5월 10일)과 입양의 날(5월 11일)이 연이어 있다. 공식 ‘빨간 날’은 아니지만 우리 사회 속 가정을 대표한다. 여기에 이어 ‘비혼 입양가정’이라는 사뭇 낯선 교집합이 등장했다. 지난 2월 출간한 &lt;비혼이고 아이를 키웁니다&gt;(또다른우주)의 저자 백지선씨(49)와 큰딸(12), 작은딸(9)의 이야기다. 비혼인 백씨는 두 딸을 3년 터울...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/05/10/l_2022050901000996500091631.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위기청소년 절반은 “가족 피해 가출”]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202205091616001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 02 May 2022 04:47:12 GMT</pubDate>
             <content:encoded><![CDATA[tvN 드라마 &lt;우리들의 블루스&gt;는 지난 회차에서 청소년 임신 소재를 다루었다. 아버지들끼리 철천지 원수이자 학교에서는 전교 1, 2등의 경쟁자인 영주와 현이 주인공이다. 영주는 어머니가 일찍 도망가는 바람에 끈끈한 공동체 육아 속에서 자랐다. 가는 곳마다 자신을 모르는 곳 없는 제주도가 지긋지긋한 영주는 서울대 의대를 노리며 ‘인서울’, 정확히는 ‘탈제주’를 꿈꾼다. 그런 영주가 현과의 관계에서 임신하면서 이야기는 시작된다.한국 사회에서 결혼하지 않...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/05/02/l_2022042901003760700340871.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차별의 존재 부정 말고 여성가족부를 허하라]]></title>
-            <link>https://www.khan.co.kr/politics/politics-general/article/202204291437001</link>
-            <guid>https://www.khan.co.kr/politics/politics-general/article/202204291437001</guid>
-            <pubDate>Fri, 29 Apr 2022 06:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[‘여성가족부 폐지’, 단 일곱 글자로 던진 화두가 점점 무거워지고 있다. 정부 예산 0.2%에 불과한, 작디작은 부서 여가부는 선거판이 돌아올 때마다 정치인의 입길에 오르내린다. 때로는 청년층 공략으로, 때로는 전체 부처 개편의 일환으로 모습은 달리했지만 본질은 같다. 20대 대통령선거에서도 여가부 폐지론은 역시 표를 얻기 위한 정치적 계산을 타고 등장했다. 그 과정에서 윤석열 대통령 당선인은 “구조적 성차별은 없다”, “여가부는 역사적 소명을 다했다” 등...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/04/29/l_2022042801003549500321811.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
