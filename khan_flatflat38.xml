@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 05:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 06:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“발끝까지” 꽁꽁 싸맨 여성 인권, 20년전 규정 되살린 탈레반]]></title>
+            <link>https://www.khan.co.kr/world/mideast-africa/article/202205101427011</link>
+            <guid>https://www.khan.co.kr/world/mideast-africa/article/202205101427011</guid>
+            <pubDate>Tue, 10 May 2022 06:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[아프가니스탄 탈레반 정부가 결국 공공장소에서 여성들의 얼굴을 포함한 전신을 가리는 부르카 착용을 의무화했다. 20년 전 집권기의 여성 인권 탄압이 되풀이되는 모습이다.로이터통신 등 외신은 7일(현지시간) 아프간 권선징악부가 카불에서 기자회견을 열고 탈레반의 최고 지도자 히비툴라 아쿤드자다 명의로 여성들의 복장과 관련된 포고령을 발표했다고 보도했다. 아프간 여성들은 이슬람 율법 샤리아에 따라 공공장소에서 머리부터 발끝까지 가리는 부르카를 착용해야 한다는 ...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/05/10/l_2022050901001019900093841.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비혼이고, 아이를 키우는 백지선 작가가 가장 잘한 일은 '입양']]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202205101007001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 02 May 2022 04:47:12 GMT</pubDate>
             <content:encoded><![CDATA[기후위기는 보통 전문가들의 입을 통해 다뤄진다. 이들의 말은 대체로 비슷하다. ‘이대로라면 산업화 이전 시기 대비 지구평균기온은 1.5도 이상 상승할 가능성이 높다. 기후위기는 가속화되고 있다.’ 대응책도 이미 나와 있다. 화석연료 사용을 줄이고, 재생에너지 중심의 에너지 구조를 짜야 한다. 내연기관차 대신 전기차를 타야 한다. 생활 전반에서 탄소 배출을 줄이는 사회 구조를 만들어야 한다. 위기를 증명하는 과학적 근거는 차고 넘치며, 대응책 역시 있다. 그런...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/05/02/l_2022050201000175400015803.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임신중단하려는 여성을 죄인으로 만드는 서사, 이젠 지긋지긋하다]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202205021106001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202205021106001</guid>
-            <pubDate>Mon, 02 May 2022 04:47:12 GMT</pubDate>
-            <content:encoded><![CDATA[tvN 드라마 &lt;우리들의 블루스&gt;는 지난 회차에서 청소년 임신 소재를 다루었다. 아버지들끼리 철천지 원수이자 학교에서는 전교 1, 2등의 경쟁자인 영주와 현이 주인공이다. 영주는 어머니가 일찍 도망가는 바람에 끈끈한 공동체 육아 속에서 자랐다. 가는 곳마다 자신을 모르는 곳 없는 제주도가 지긋지긋한 영주는 서울대 의대를 노리며 ‘인서울’, 정확히는 ‘탈제주’를 꿈꾼다. 그런 영주가 현과의 관계에서 임신하면서 이야기는 시작된다.한국 사회에서 결혼하지 않...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/05/02/l_2022042901003760700340871.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
