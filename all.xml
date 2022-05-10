@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 02:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 03:25:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -115,7 +115,7 @@
             <title><![CDATA[비혼이고, 아이를 키우는 백지선 작가가 가장 잘한 일은 '입양' (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202205101007001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202205101007001</guid>
-            <pubDate>Tue, 10 May 2022 02:22:16 GMT</pubDate>
+            <pubDate>Tue, 10 May 2022 02:21:31 GMT</pubDate>
             <content:encoded><![CDATA[&lt;비혼이고 아이를 키웁니다&gt; 저자 백지선 작가가 사는 법바야흐로 가정의 달이다. 5월엔 어린이날과 어버이날 외에도, 한부모가정의 날(5월 10일)과 입양의 날(5월 11일)이 연이어 있다. 공식 ‘빨간 날’은 아니지만 우리 사회 속 가정을 대표한다. 여기에 이어 ‘비혼 입양가정’이라는 사뭇 낯선 교집합이 등장했다. 지난 2월 출간한 &lt;비혼이고 아이를 키웁니다&gt;(또다른우주)의 저자 백지선씨(49)와 큰딸(12), 작은딸(9)의 이야기다. 비혼인 백씨는 두 딸을 3년 터울...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/05/10/l_2022050901000996500091631.jpg" length="0" type="image/jpg"/>
         </item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/977f3439-fb72-41f8-a3f1-e7fb4452ecc3.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Youths who live independently face poverty and isolation (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9342</link>
+            <guid>https://ildaro.com/9342</guid>
+            <pubDate>Tue, 10 May 2022 11:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[Their independence is not the kind that feels voluntary and excitingly free. It is unstable and lonely....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022051042068182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[내 글에 빨간 줄부터 긋지 말고 해석하려 애써봐요 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9341</link>
             <guid>https://ildaro.com/9341</guid>
@@ -422,14 +430,6 @@
             <pubDate>Sat, 16 Apr 2022 10:05:00 GMT</pubDate>
             <content:encoded><![CDATA[10년 이상 서울에서 살고 있는데, 이웃도 없이 지내다가 ‘마포청년들 ㅁㅁㅁ’, 경의선공유지시민행동, 성미산지키기 등 지역 활동을 하면서 사람들을 만나게 되었거...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022041615332745.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 난민 수용과 ‘공감의 차이’ (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9322</link>
-            <guid>https://ildaro.com/9322</guid>
-            <pubDate>Thu, 14 Apr 2022 11:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[“어떤 인도주의적 비극이 더이상 언론 헤드라인에 오르지 않으면 국제적인 관심을 덜 받고, 인도적 지원금도 줄어든다. 도덕적 무책임일 뿐 아니라 우리 스스로 패배...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022041433196512.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
