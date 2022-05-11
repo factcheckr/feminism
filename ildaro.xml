@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 23:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 01:09:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[육아, 간병…돌봄의 시간도 ‘경력’으로 인정받아야]]></title>
+            <link>https://ildaro.com/9343</link>
+            <guid>https://ildaro.com/9343</guid>
+            <pubDate>Wed, 11 May 2022 09:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[저는 돌봄 노동 경력을 인정한다는 게, 돌봄을 노동으로 인정하는 한 과정이라고 봐요. 무엇보다 이 조례가 사회에 어떤 메시지를 전할 수 있는가를 주목하면 좋겠어요...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022051106012934.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Youths who live independently face poverty and isolation]]></title>
             <link>https://ildaro.com/9342</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 17 Apr 2022 09:14:42 GMT</pubDate>
             <content:encoded><![CDATA[같은 부모 밑에서 태어나도 유난히 의사 표현을 똑 부러지게 하는 아이가 있다. 의 막내딸이 그런 아이다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022041725167976.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기후위기 시대의 출사표 ‘잃어가는 것들을 지키겠다’]]></title>
-            <link>https://ildaro.com/9323</link>
-            <guid>https://ildaro.com/9323</guid>
-            <pubDate>Sat, 16 Apr 2022 10:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[10년 이상 서울에서 살고 있는데, 이웃도 없이 지내다가 ‘마포청년들 ㅁㅁㅁ’, 경의선공유지시민행동, 성미산지키기 등 지역 활동을 하면서 사람들을 만나게 되었거...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022041615332745.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
