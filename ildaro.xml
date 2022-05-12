@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 06:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 07:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도쿄올림픽의 빛과 그림자 다룬다더니…‘날조’ 방송 논란]]></title>
+            <link>https://ildaro.com/9344</link>
+            <guid>https://ildaro.com/9344</guid>
+            <pubDate>Thu, 12 May 2022 07:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[“실은 돈을 받고 동원되었다고 밝혔다”는 자막이 들어갔고, 얼굴이 모자이크 처리된 남성이 “집회는 전부 윗사람들이 하니까 (주최자가) 쓴 말을 따라 할 뿐…”이...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022051241506177.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[육아, 간병…돌봄의 시간도 ‘경력’으로 인정받아야]]></title>
             <link>https://ildaro.com/9343</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 18 Apr 2022 09:15:10 GMT</pubDate>
             <content:encoded><![CDATA[가해자는 애초에 존재하는 것이 아니라, ‘가해자성’을 인정하는 과정에서 비로소 존재하게 된다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022041831071279.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[딸들은 ‘배꼽 밑에 선 검은 줄’의 힘으로 살아왔다]]></title>
-            <link>https://ildaro.com/9324</link>
-            <guid>https://ildaro.com/9324</guid>
-            <pubDate>Sun, 17 Apr 2022 09:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[같은 부모 밑에서 태어나도 유난히 의사 표현을 똑 부러지게 하는 아이가 있다. 의 막내딸이 그런 아이다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022041725167976.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
