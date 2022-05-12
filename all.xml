@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 04:26:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 05:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['여가부 폐지' 동의하는 여가부 장관 후보자의 청문회 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202205121029001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202205121029001</guid>
+            <pubDate>Thu, 12 May 2022 03:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[김현숙 여성가족부 장관 후보자가 11일 국회 인사청문회에서 여가부 폐지 입장을 재확인했다. 하지만 여가부 폐지가 필요한 구체적인 근거나 계획에 대해선 충분한 설명을 내놓지 않아 야당 의원들의 질타가 이어졌다. 여성단체들은 윤석열 정부가 젠더갈등을 부추기지 말고 여가부를 보장·강화하라고 촉구했다.김 후보자는 이날 국회 여성가족위원회의 인사청문회 모두발언에서 “여가부가 젠더 갈등 해소 미흡, 권력형 성범죄에 대한 미온적 대처 등으로 실망을 드렸다”고 밝혔...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/05/12/l_2022051101001404700127141.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아직도 많은 '울고 있는 아이들'…무엇이 달랐다면, 지킬 수 있었을까 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/book/article/202205111352011</link>
             <guid>https://www.khan.co.kr/culture/book/article/202205111352011</guid>
@@ -182,14 +190,6 @@
             <pubDate>Wed, 04 May 2022 04:26:08 GMT</pubDate>
             <content:encoded><![CDATA[멕시코 하원이 여성살해(페미사이드) 미수범에 최대 40년 징역형을 내리도록 하는 형법 개정안을 가결했다. 여성을 노린 범죄가 증가하며 여성살해에 대한 국민적 공분이 커지자 의회가 처벌 강화에 나선 것이다.멕시코 일간 엘노르테는 26일(현지시간) 멕시코 하원이 이 같은 형법 개정안을 의원 대다수 찬성으로 가결했다고 보도했다. 개정안은 여성살해가 미수에 그친 경우에도 실제 여성살해 형량의 절반 이상, 최고 3분의 2까지의 형량으로 처벌하도록 하는 것이 골자다. 여...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/05/04/l_2022050301000358400033231.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘남성 생계부양자 모델’과 ‘가부장제’에 맞춰진 지방 떠나는 20대 여성들 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202205031444001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202205031444001</guid>
-            <pubDate>Tue, 03 May 2022 07:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[울산에서 나고 자란 김모씨(30)는 학창 시절 줄곧 서울살이를 꿈꿨다고 한다. 처음 입학한 지방 사립대에 이틀 만에 자퇴서를 내고 이듬해 들어간 인천의 한 대학도 한 달 만에 관둘 정도로 간절했다.“서울에 있으면 경쟁에서 앞서갈 수 있을 것 같았어요. 1등은 못 되더라도 그 언저리, 그러니까 2-1등, 2-2등은 될 것 같은 느낌이랄까….”3수 끝에 ‘서울 입성’에 성공한 그는 지금 서울의 한 광고대행사에서 일한다. 김씨는 “울산은 애초에 선택지가 될 수 없었다”...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/05/03/l_2022050301000326400030301.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[짧은 휴식에 들어갑니다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
