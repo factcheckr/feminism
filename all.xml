@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 05:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 06:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["여성에 대한 폭력 멈춰라" 칸 영화제 속 여성들의 목소리 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202205241422001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202205241422001</guid>
+            <pubDate>Tue, 24 May 2022 06:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[제75회 칸 국제영화제에서 여성들의 안전을 요구하는 시위가 잇따라 벌어졌다.르파리지앵 등 프랑스 현지매체는 22일(현지시간) 한 여성단체가 제75회 칸 영화제가 개최되는 팔레 드 페스티발 건물의 레드카펫 계단에서 시위를 벌였다고 보도했다. 검은색 드레스를 입은 시위대는 한 손으론 거대한 현수막을 들고, 다른 한 손으론 검은색 연기가 뿜어져 나오는 연막 수류탄을 든 채 ‘페미사이드(여성살해)’ 피해자들을 추모하는 퍼포먼스를 선보였다. 이들이 내건 현수막에는 지...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/05/24/l_2022052401002953200270791.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[축구 덕분에 내 몸을 더 사랑하게 되었다 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202205241024001</link>
             <guid>https://www.khan.co.kr/opinion/column/article/202205241024001</guid>
@@ -182,14 +190,6 @@
             <pubDate>Tue, 24 May 2022 03:20:28 GMT</pubDate>
             <content:encoded><![CDATA[일본에서 성인연령을 18세로 낮춘 이후 성인비디오(AV) 피해자가 대량 양산될 우려가 불거지면서 국회가 조만간 초당적 방지법안을 낼 계획이다. 일본의 AV산업이 여성인권을 침해하고 있다는 국제적 문제 제기가 이어져 온 상황에서 연령을 불문하고 AV 피해자를 구제할 수 있는 실효성 있는 법안이 나올지 주목된다.일본에서는 지난달 1일부터 개정 민법이 적용돼 성인의 기준이 기존 20세에서 18세로 바뀌었다. 성인의 개념을 다시 정의해 청년의 자립을 지원하고 경제활...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/05/17/l_2022051701002033900188082.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성추행이 '사내아이들의 자유'?…윤재순 총무비서관의 왜곡된 성인식 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/politics/politics-general/article/202205161133001</link>
-            <guid>https://www.khan.co.kr/politics/politics-general/article/202205161133001</guid>
-            <pubDate>Tue, 24 May 2022 03:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[검찰 수사관 출신 윤재순 총무비서관과거 출간 시집 속 문제적 표현 수두룩윤재순 대통령실 총무비서관이 검찰 수사관이던 시절 지하철 전동차를 ‘사내아이들의 자유가 보장된 곳’이라며 성추행 행위를 구체적으로 묘사하는 시 등을 써 출간한 것으로 확인됐다. 수사관의 일상을 소재로 한 시집에는 작가인 윤 비서관의 왜곡된 성 인식이 드러나거나 성적 은유를 주제로 하는 시가 여러 편 실렸다. 윤 비서관은 ‘대통령의 집사’로 불리는 총무비서관에 임명된 후 검찰 재...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/05/16/l_2022051601001857500171221.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[짧은 휴식에 들어갑니다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
