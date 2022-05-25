@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 01:06:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 03:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 이정은 “수면 아래서 반짝이는 후배 도와주는 선배가 되고 싶어요" (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202205251003001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202205251003001</guid>
+            <pubDate>Wed, 25 May 2022 03:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이정은에게 &lt;기생충&gt; 이전과 이후의 삶은 달라졌을까.“청년기에는 ‘돈은 안 되는데 의미 있는 일’을 하면서 보냈던 것 같아요. 의미가 너무 커서 돈 안 되는 걸 잊을 수 있었죠. 그것 때문에 동료들과 얼마나 설전을 벌이건, 무대에 올라가건 말건, 관객이 몇 명이 들건…. 온전히 몰두할 일이 있다는 게 흥분되고 그 덕에 버틸 수 있었어요. 나이가 먹고 부모님께 생활비도 드려야 하는 때가 되니까 ‘이대로 가야 하나’ 생각이 들었죠. 그런데 영화 ...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/05/25/l_2022051801002219700203411.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["여성에 대한 폭력 멈춰라" 칸 영화제 속 여성들의 목소리 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202205241422001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 24 May 2022 03:20:28 GMT</pubDate>
             <content:encoded><![CDATA[한 여성이 강남역 인근 상가 화장실에서 ‘여성이라는 이유로’ 살해당한 사건이 일어난 지 6년이 됐다. 이 사건 이후에도 여성혐오에서 비롯된 살인사건은 매년 꾸준히 일어나고 있다. 그러나 페미사이드(여성이라는 이유로 살해당하는 현상)와 관련한 정부의 공식 집계가 없어 실태 파악은 아직도 요원하다. 전문가들은 비슷한 범죄를 막으려면 페미사이드에 관한 정확한 통계를 토대로 정확하게 진단하고 대책을 마련해야 한다고 지적한다.유엔은 2012년 ‘국제 여성 폭력 추...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/05/18/l_2022051801002176200199731.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['성인' 연령 18세로 낮춘 일본, AV산업 '여성착취' 어떻게 방지할까 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/world/japan/article/202205171352001</link>
-            <guid>https://www.khan.co.kr/world/japan/article/202205171352001</guid>
-            <pubDate>Tue, 24 May 2022 03:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[일본에서 성인연령을 18세로 낮춘 이후 성인비디오(AV) 피해자가 대량 양산될 우려가 불거지면서 국회가 조만간 초당적 방지법안을 낼 계획이다. 일본의 AV산업이 여성인권을 침해하고 있다는 국제적 문제 제기가 이어져 온 상황에서 연령을 불문하고 AV 피해자를 구제할 수 있는 실효성 있는 법안이 나올지 주목된다.일본에서는 지난달 1일부터 개정 민법이 적용돼 성인의 기준이 기존 20세에서 18세로 바뀌었다. 성인의 개념을 다시 정의해 청년의 자립을 지원하고 경제활...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/05/17/l_2022051701002033900188082.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
