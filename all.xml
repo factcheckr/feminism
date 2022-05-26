@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 23:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 01:08:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/977f3439-fb72-41f8-a3f1-e7fb4452ecc3.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[‘선거일은 유급 휴일’ 우린 왜 출근해야 하지? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9354</link>
+            <guid>https://ildaro.com/9354</guid>
+            <pubDate>Thu, 26 May 2022 09:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[선거 날 학원의 전반적인 분위기는 ‘다들 쉬는데 왜 우리만 일할까?’였어요. 선거 당일에는 그 부당함에 화가 나 있던 게 기억납니다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022052631374877.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[고교 실습생도 노동자…‘학벌 정치’에 도전장 낸 이유 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9353</link>
             <guid>https://ildaro.com/9353</guid>
@@ -422,14 +430,6 @@
             <pubDate>Sun, 01 May 2022 07:16:38 GMT</pubDate>
             <content:encoded><![CDATA[“우리는 우리가 옳다고 느끼는 것은 무엇이든 자유롭게 입을 수 있으며, 성별 규범과 물건 사이의 이러한 모든 고정관념을 흐리게 하는 메시지를 보내려고 한다”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022050119295929.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[People Are All Different, and Thus All Equal (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9334</link>
-            <guid>https://ildaro.com/9334</guid>
-            <pubDate>Sat, 30 Apr 2022 10:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[When I, as someone who’s experienced being a stranger in a foreign land, consider foreigners in Korea and the way that Koreans see them, I often think that Koreans don’t even know what racism is....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202204/2022043024448674.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
