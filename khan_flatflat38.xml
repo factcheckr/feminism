@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 23:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 01:03:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“죽거나 다치지 않는다고 아동학대가 아닌 건 아니다”]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202205270957001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202205270957001</guid>
+            <pubDate>Fri, 27 May 2022 01:01:26 GMT</pubDate>
+            <content:encoded><![CDATA[올해 100번째 어린이날(5월5일)을 맞아, 방송에서도 다양한 프로그램을 내놨다. 특선 영화를 비롯해 동요 만들기, 신동 소개 등 밝은 분위기의 방송들이 넘쳤다. 교육채널 EBS는 조금 달랐다. &lt;다큐프라임&gt;에서 지난 9일부터 6부작 특집 프로그램을 내놨는데 제목은 ‘어린人권’이다. 대한민국 아동인권의 현주소를 살펴보는 기획으로, 초점은 아동학대에 맞춰져 있다. 조금은 무거운 주제를 어린이날 100주년에 들고 나온 이유는 무엇일까. 프로그램을 연출하고 있는 빈정...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/05/27/l_2022052601003326400304412.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[누가 심청을 ‘효녀’라 부르나…연극 ‘심청전을 짓다’]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202205261340001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 24 May 2022 03:20:28 GMT</pubDate>
             <content:encoded><![CDATA[재선에 성공한 에마뉘엘 마크롱 프랑스 대통령이 16일(현지시간) 신임 총리로 엘리자베트 보른 노동부 장관(61)을 임명했다.프랑스에서 여성이 총리를 맡는 것은 프랑수아 미테랑 전 대통령 재임 시절인 1992년 4월까지 내각을 이끌었던 에디트 크레송 이후 30년만이다. 보른 총리는 마크롱 대통령이 창당한 전진하는공화국(LREM)에 2017년 합류하기 전에는 중도 좌파 성향의 사회당 정부에서 일했다. 2007년 대선 당시 사회당 후보로 출마했다 낙선한 세골렌 루아얄 전 환경부 ...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/05/19/l_2022051801002206600202681.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가장 많은 형태의 디지털 성범죄…'아는 사람'에 의한 불법 촬영 다룬 두 영화]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202205181524001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202205181524001</guid>
-            <pubDate>Tue, 24 May 2022 03:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[‘잡히지도 처벌받지도 않던’ 디지털성폭력의 민낯이 지난 몇 년간 드러났다. 2019년 말부터 ‘n번방 사건’과 ‘웰컴 투 비디오(W2V) 사건’의 피해·가해 사실이 자세히 보도되자 디지털성범죄는 공분의 대상이 됐다. 사회적 관심과 경각심은 영화계에도 영향을 미쳤다. 지난 7일 막을 내린 제23회 전주국제영화제에서 디지털성범죄를 소재로 한 영화 두 편이 한국경쟁 부문에서 나란히 상을 거머쥐었다.상의 주인공은 정지혜 감독(27)의 &lt;정순&gt;과 김정은 감독(30)의 &lt;...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/05/18/l_2022051001001158200107431.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
