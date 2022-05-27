@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 05:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 06:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hate crimes against Asian women are not coincidental]]></title>
+            <link>https://ildaro.com/9355</link>
+            <guid>https://ildaro.com/9355</guid>
+            <pubDate>Fri, 27 May 2022 06:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[This incident also shows that we should start talking about the intersection of anti-Asian hate, racism, misogyny and class....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022052737119827.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘선거일은 유급 휴일’ 우린 왜 출근해야 하지?]]></title>
             <link>https://ildaro.com/9354</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 02 May 2022 08:19:55 GMT</pubDate>
             <content:encoded><![CDATA[바로 거기에 내가 생각하는 페미니즘이 있었다. 내가 살고 싶은 곳에, 계속 버티며 살아갈 수 있게 해주는 힘....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022050228401881.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[록 음악 정신은 자유, ‘젠더 프리’하게]]></title>
-            <link>https://ildaro.com/9335</link>
-            <guid>https://ildaro.com/9335</guid>
-            <pubDate>Sun, 01 May 2022 07:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[“우리는 우리가 옳다고 느끼는 것은 무엇이든 자유롭게 입을 수 있으며, 성별 규범과 물건 사이의 이러한 모든 고정관념을 흐리게 하는 메시지를 보내려고 한다”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022050119295929.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
