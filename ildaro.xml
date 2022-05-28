@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 01:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 02:50:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[거주할 권리, 재생산의 권리]]></title>
+            <link>https://ildaro.com/9356</link>
+            <guid>https://ildaro.com/9356</guid>
+            <pubDate>Sat, 28 May 2022 10:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[안정적인 주거가 보장되지 않는 곳에서 재생산권은 보장될 수 없다. 주거가 불안정한 상황에서 사람을 낳고 기르는 일이 쉽게 이루어질 리 없다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022052838387217.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Hate crimes against Asian women are not coincidental]]></title>
             <link>https://ildaro.com/9355</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 04 May 2022 10:46:00 GMT</pubDate>
             <content:encoded><![CDATA[동물에게 투표권이 있는 게 아니니까 정치와 동물권은 무관한 것으로 여겨졌던 것 같아요. 인간도 다른 동물과 자연 생태계에 의존하고 있는 의존적인 존재잖아요?...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022050454507290.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지방 퀴어 페미니스트 ‘나 여기 있고, 너 거기 있지’]]></title>
-            <link>https://ildaro.com/9336</link>
-            <guid>https://ildaro.com/9336</guid>
-            <pubDate>Mon, 02 May 2022 08:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[바로 거기에 내가 생각하는 페미니즘이 있었다. 내가 살고 싶은 곳에, 계속 버티며 살아갈 수 있게 해주는 힘....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022050228401881.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
