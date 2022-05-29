@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 05:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 06:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로운 음악의 갈래를 만드는 흑인 여성 로커]]></title>
+            <link>https://ildaro.com/9357</link>
+            <guid>https://ildaro.com/9357</guid>
+            <pubDate>Sun, 29 May 2022 06:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[잔드리아 F. 로빈슨은 에 기고한 글에서 “시스터 로제타 사프와 프린스의 자손이자 모든 장르의 소유자”라고 오늘 소개할 음악가를 평한다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022052955531141.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[거주할 권리, 재생산의 권리]]></title>
             <link>https://ildaro.com/9356</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 05 May 2022 00:46:00 GMT</pubDate>
             <content:encoded><![CDATA[정말 아빠와 관계가 안 좋으면 화장하기 좋아하고 치마 입기 좋아하는 남아가 될 수 있고, 역으로 엄마와 관계가 안 좋으면 톰보이가 되는 것일까?...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022050551171875.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동물에겐 표가 없다, ‘지구공유자’ 우리 손에 달렸다]]></title>
-            <link>https://ildaro.com/9337</link>
-            <guid>https://ildaro.com/9337</guid>
-            <pubDate>Wed, 04 May 2022 10:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[동물에게 투표권이 있는 게 아니니까 정치와 동물권은 무관한 것으로 여겨졌던 것 같아요. 인간도 다른 동물과 자연 생태계에 의존하고 있는 의존적인 존재잖아요?...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022050454507290.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
