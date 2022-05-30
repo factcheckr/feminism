@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 04:37:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 05:24:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/977f3439-fb72-41f8-a3f1-e7fb4452ecc3.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[‘안전한 공간’을 만드는 페미니즘 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9358</link>
+            <guid>https://ildaro.com/9358</guid>
+            <pubDate>Mon, 30 May 2022 05:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[본 적 없는 것을 표현하는 것은 상상의 영역이지만, 이미 한 번 본 것이나 겪었던 것을 재연해내는 것은 기술의 영역이라 한결 쉬워진다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022053050343110.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[새로운 음악의 갈래를 만드는 흑인 여성 로커 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9357</link>
             <guid>https://ildaro.com/9357</guid>
@@ -422,14 +430,6 @@
             <pubDate>Sat, 07 May 2022 09:55:00 GMT</pubDate>
             <content:encoded><![CDATA[우리는 강제된 임신과 모성에 복종하지 않고 다른 인생을 걸을 권리가 있다는 점, 낳을지 말지를 정하는 데 가장 적합한 사람은 자기 자신이라는 점을 주장할 수 있다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022050700447845.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[톰보이는 금쪽이인가요? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9338</link>
-            <guid>https://ildaro.com/9338</guid>
-            <pubDate>Thu, 05 May 2022 00:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[정말 아빠와 관계가 안 좋으면 화장하기 좋아하고 치마 입기 좋아하는 남아가 될 수 있고, 역으로 엄마와 관계가 안 좋으면 톰보이가 되는 것일까?...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022050551171875.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
