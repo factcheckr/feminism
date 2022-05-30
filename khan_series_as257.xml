@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 01:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 03:29:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선거법 속 숨은 차별…딸은 ‘출가외인’ 유세는 ‘기혼자 중심’]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202205301018001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202205301018001</guid>
+            <pubDate>Mon, 30 May 2022 03:29:14 GMT</pubDate>
+            <content:encoded><![CDATA[이틀 앞으로 다가온 6·1지방선거를 계기로 현행 공직선거법이 후보자의 결혼한 딸은 재산공개 대상에서 제외하는 등 ‘구시대적 가족관’을 담고 있다는 지적이 나온다. 지난해 정부가 ‘제4차 건강가정기본계획안’을 만들어 기존 제도 바깥의 다양한 가족 형태를 인정하겠다고 선언한 데 발맞춰 선거법도 바뀌어야 한다는 것이다.중앙선거관리위원회가 배포한 ‘제8회 전국동시지방선거 교육감선거 후보자를 위한 선거사무안내서’에는 후보자 등록 신청시 첨부할 서류에 대한 안내...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/05/30/l_2022053001003659900335571.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“죽거나 다치지 않는다고 아동학대가 아닌 건 아니다”]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202205270957001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 24 May 2022 03:21:10 GMT</pubDate>
             <content:encoded><![CDATA[찬조공연을 하러 학교를 방문한 여성그룹 에스파의 사진과 성희롱성 글을 사회관계망서비스(SNS)에 올린 경복고등학교 학생이 학교로부터 징계 처분을 받았다. 전문가들은 예방교육을 통해 청소년들이 SNS상 성희롱을 디지털 범죄로 인식하도록 해야 한다고 지적한다.18일 경향신문 취재 결과 서울 종로구 경복고 생활교육위원회는 지난 12일 회의를 열고 개인 SNS 계정에 에스파 사진과 성희롱성 글을 적어 올린 학생 1명을 ‘학칙 준법 위반’으로 징계 처분하기로 결정했다...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/05/19/l_2022051901002363500216461.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[30년 만의 프랑스 여성 총리 “꿈을 좇는 모든 소녀를 응원한다”]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202205191003001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202205191003001</guid>
-            <pubDate>Tue, 24 May 2022 03:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[재선에 성공한 에마뉘엘 마크롱 프랑스 대통령이 16일(현지시간) 신임 총리로 엘리자베트 보른 노동부 장관(61)을 임명했다.프랑스에서 여성이 총리를 맡는 것은 프랑수아 미테랑 전 대통령 재임 시절인 1992년 4월까지 내각을 이끌었던 에디트 크레송 이후 30년만이다. 보른 총리는 마크롱 대통령이 창당한 전진하는공화국(LREM)에 2017년 합류하기 전에는 중도 좌파 성향의 사회당 정부에서 일했다. 2007년 대선 당시 사회당 후보로 출마했다 낙선한 세골렌 루아얄 전 환경부 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/05/19/l_2022051801002206600202681.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
