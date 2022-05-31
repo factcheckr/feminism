@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 03:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 04:29:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[난생처음 ‘플라스틱 반성문’을 써 본 중학생 이은호씨[플랫]]]></title>
+            <link>https://www.khan.co.kr/environment/environment-general/article/202205310955001</link>
+            <guid>https://www.khan.co.kr/environment/environment-general/article/202205310955001</guid>
+            <pubDate>Tue, 31 May 2022 04:29:24 GMT</pubDate>
+            <content:encoded><![CDATA[기후위기는 보통 전문가들의 입을 통해 다뤄진다. 이들의 말은 대체로 비슷하다. ‘이대로라면 산업화 이전 시기 대비 지구평균기온은 1.5도 이상 상승할 가능성이 높다. 기후위기는 가속화되고 있다.’ 대응책도 이미 나와 있다. 화석연료 사용을 줄이고, 재생에너지 중심의 에너지 구조를 짜야 한다. 내연기관차 대신 전기차를 타야 한다. 생활 전반에서 탄소 배출을 줄이는 사회 구조를 만들어야 한다. 위기를 증명하는 과학적 근거는 차고 넘치며, 대응책 역시 있다. 그런...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/05/31/l_2022051701002053800189631.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['고등학생이 왜 콜센터에 갈까' 현장실습생의 현실 담긴 영화 '다음 소희']]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202205301423001</link>
@@ -76,16 +84,8 @@
             <link>https://www.khan.co.kr/environment/environment-general/article/202205231019001</link>
             <guid>https://www.khan.co.kr/environment/environment-general/article/202205231019001</guid>
             <pubDate>Tue, 24 May 2022 03:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[신발을 벗고 숙소에 들어간다. 큰 통창 바깥으로 대나무 숲이 보인다. 집을 둘러본다. 화장지 색이 누렇다. 나무를 베지 않고 만드는 대나무 화장지다. 커다란 샴푸, 바디워시 통은 없다. 대신 플라스틱 용기가 없는 고체 비누, 고체 치약이 있다. 플라스틱 재질의 수세미도 없다. 대신 주방에는 삼베로 만든 수세미, 친환경 주방 세제가 보인다. 수납장을 여니 다회용기가 가득하다. 숙소 근처 음식점에서 포장한 음식을 가져올 때 ‘용기내’ 빈 용기를 내고 음식을 받...]]></content:encoded>
+            <content:encoded><![CDATA[기후위기는 보통 전문가들의 입을 통해 다뤄진다. 이들의 말은 대체로 비슷하다. ‘이대로라면 산업화 이전 시기 대비 지구평균기온은 1.5도 이상 상승할 가능성이 높다. 기후위기는 가속화되고 있다.’ 대응책도 이미 나와 있다. 화석연료 사용을 줄이고, 재생에너지 중심의 에너지 구조를 짜야 한다. 내연기관차 대신 전기차를 타야 한다. 생활 전반에서 탄소 배출을 줄이는 사회 구조를 만들어야 한다. 위기를 증명하는 과학적 근거는 차고 넘치며, 대응책 역시 있다. 그런...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/05/23/l_2022052301002776900254261.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다리미판에 노트북을 올려놓고 쓴 '실버 취준생' 순자씨의 '68년 인생']]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202205201012001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202205201012001</guid>
-            <pubDate>Tue, 24 May 2022 03:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[예순 살, 나는 또 깨꽃이 되어이순자 지음｜휴머니스트｜256쪽｜1만5000원꿈이 다시 나를 찾아와 불러줄 때까지이순자 지음｜휴머니스트｜192쪽｜1만2000원지난해 하반기 발굴된 보물과 같은 글이 있었다. 고 이순자 작가의 ‘실버 취준생 분투기’다. 지난해 7월 매일신문 시니어문학상 논픽션 부분에 당선된 이 작품은 여성 노인이 돈을 벌기 위해 마주하는 노동 현장의 열악한 현실을 당사자의 언어로 생생하게 전달했다.각종 자격증과 이력은 여성 노인에게 군더더기일 뿐이었다...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/05/20/l_2022051701002131700193341.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
