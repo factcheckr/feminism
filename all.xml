@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 09:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 10:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/977f3439-fb72-41f8-a3f1-e7fb4452ecc3.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[시설의 거주인, 교통 약자는 어떻게 투표하고 있을까? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9359</link>
+            <guid>https://ildaro.com/9359</guid>
+            <pubDate>Tue, 31 May 2022 10:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[또 한 가지는 ‘장애인이 투표하는구나’하고 집중되는 시선입니다. 저에게 시선이 집중될 때 한편으로 ‘아 괜히 왔나?’ 싶은 마음이 들더라고요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022053102088068.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘안전한 공간’을 만드는 페미니즘 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9358</link>
             <guid>https://ildaro.com/9358</guid>
@@ -422,14 +430,6 @@
             <pubDate>Sun, 08 May 2022 11:51:00 GMT</pubDate>
             <content:encoded><![CDATA[옛이야기에는 여성이 일생 동안 겪을 수 있는 가부장제 폭력의 수많은 사례가 있다. 는 부모로부터 끔찍한 학대를 겪고 살아남은 여성의 생존기다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022050856248527.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘임신중지 접근성은 인권’ 에콰도르의 페미니스트들 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9339</link>
-            <guid>https://ildaro.com/9339</guid>
-            <pubDate>Sat, 07 May 2022 09:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[우리는 강제된 임신과 모성에 복종하지 않고 다른 인생을 걸을 권리가 있다는 점, 낳을지 말지를 정하는 데 가장 적합한 사람은 자기 자신이라는 점을 주장할 수 있다...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022050700447845.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
