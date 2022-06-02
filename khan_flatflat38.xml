@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 23:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 01:08:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7개의 '평행우주' 속에서 한 걸음 더 나아가는 30대 여성의 삶]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202206020954001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202206020954001</guid>
+            <pubDate>Thu, 02 Jun 2022 01:07:37 GMT</pubDate>
+            <content:encoded><![CDATA[우주의 일곱 조각은모든 지음｜문학과지성사｜290쪽｜1만4000원인생은 선택의 연속이다. 진학·취업·결혼·출산 등 굵직한 생애주기에 따른 선택이 아니더라도, 우리는 점심식사 메뉴를 정할 때나, 디저트 가게에서 먹을 케익을 고를 때, 카페에서 마실 음료를 고를 때에도 신중하다.미국 시인 로버트 프로스트는 인생은 갈림길의 연속이라는 점, 이미 지나온 길을 되돌리는 것은 인생에서 좀처럼 어렵다는 점을 ‘가보지 않은 길’에서 노래했다.“노랗게 난 숲길에 두 갈래의 길이...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/06/02/l_2022060201000221400015391.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[직장 내 성차별 수준 높을수록 커지는 기혼 여성의 ‘우울’]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202205311511011</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 24 May 2022 03:20:28 GMT</pubDate>
             <content:encoded><![CDATA[대입 시험을 앞둔 수험생 시절, 엄마는 원하는 대학에 합격한다면 종아리 축소 수술을 해주겠다고 했다. 나는 그 달콤한 꼬임에 넘어가 행복한 상상을 하곤 했다. 결과적으로 엄마는 입을 씻었고 솔직히 나도 무서워서 그만 약속을 잊은 척해 버렸지만 여하튼 이놈의 종아리는 내 청소년기의 가장 큰 고민거리였다. 성인이 되어 몸과 조금씩 화해를 나누며 더 이상 예전만큼 내 다리를 부끄러워하진 않게 되었지만 굳이 남들에게 드러내고 싶지도 않은 그런 정도의 거리를...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/05/24/l_2022052301002784800255091.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“남자 내각” 외신 질문에 “여성이 못 올라와서”라는 윤 대통령]]></title>
-            <link>https://www.khan.co.kr/politics/politics-general/article/202205231335001</link>
-            <guid>https://www.khan.co.kr/politics/politics-general/article/202205231335001</guid>
-            <pubDate>Tue, 24 May 2022 03:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 대통령이 지난 21일 한·미 정상회담 후 공동기자회견에서 내각에서 여성이 배제됐다는 외신 기자의 질문에 “내각의 장관이라면 그 직전 위치까지 여성이 많이 올라가지 못했다”고 답변한 것을 두고 논란이 이어졌다. 대통령실은 22일 “질문과 답을 그대로 받아들여달라”면서 윤 대통령이 구조적 성차별을 인정한 것은 아니라고 해명했다.워싱턴포스트 기자는 공동기자회견에서 윤 대통령에게 “지금 (한국) 내각에는 여자보다는 남자만 있다”고 지적하며 “대선 기간 ...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/05/23/l_2022052301002794600256161.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

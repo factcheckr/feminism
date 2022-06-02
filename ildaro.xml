@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 23:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 01:08:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서른 살 터울 두 여성농민이 ‘베프’가 되기까지]]></title>
+            <link>https://ildaro.com/9360</link>
+            <guid>https://ildaro.com/9360</guid>
+            <pubDate>Thu, 02 Jun 2022 08:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[매화 아주머니는 미연 씨를 볼 때마다 “몸 아껴라, 너 그러다 나처럼 된다” 그러신다. 자신도 젊을 땐 몸 아픈 건 생각도 안 했는데, 이제 와 보니 좀 쉬면서 할 걸 후...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022060243287903.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시설의 거주인, 교통 약자는 어떻게 투표하고 있을까?]]></title>
             <link>https://ildaro.com/9359</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 09 May 2022 00:29:00 GMT</pubDate>
             <content:encoded><![CDATA[발달장애인이라고 하면 ‘지적인 문제로, 읽고 쓰는 데 어려움을 겪는 사람’이라는 말이 따라다닌다. 하지만, 김유리가 글을 쓰기 시작하면 그는 이러한 말을 파괴하...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022050937059959.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로 태어난 어머니는 ‘모성’에 갇히지 않는다]]></title>
-            <link>https://ildaro.com/9340</link>
-            <guid>https://ildaro.com/9340</guid>
-            <pubDate>Sun, 08 May 2022 11:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[옛이야기에는 여성이 일생 동안 겪을 수 있는 가부장제 폭력의 수많은 사례가 있다. 는 부모로부터 끔찍한 학대를 겪고 살아남은 여성의 생존기다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022050856248527.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
