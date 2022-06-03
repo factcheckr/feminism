@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 05:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 06:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘창퓌’와 ‘증호’가 생겨나지 않도록 "입을 열어야 하는 아동성폭력"]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202206031413001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202206031413001</guid>
+            <pubDate>Fri, 03 Jun 2022 06:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[침묵 공장테아 로즈망 글·상드린 르벨 그림·김모 옮김｜이숲｜128쪽｜2만2000원&lt;침묵 공장&gt;을 읽는 일은 쉽지 않다. 성폭력 가운데서도 가장 끔찍한 아동 성폭력을 정면으로 다룬 작품이기 때문이다.글을 쓴 테아 로즈망은 아동성폭력 피해자였다. 그는 자신의 이야기이자 수많은 피해자들의 이야기를 하고 싶었다. “아동 성폭력은 입을 열어야만 하는 이야기”였기 때문이다. 여러 출판사를 두드렸지만 중간에 계획이 엎어져 원고를 몇달간 서랍 속에 묵혀두기도 했다. 하...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/06/03/l_2022060301000406300033211.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘박사방’ 피해자의 용기, 첫 손해배상 판결 확정]]></title>
             <link>https://www.khan.co.kr/national/court-law/article/202206031027001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 25 May 2022 03:17:04 GMT</pubDate>
             <content:encoded><![CDATA[배우 이정은에게 &lt;기생충&gt; 이전과 이후의 삶은 달라졌을까.“청년기에는 ‘돈은 안 되는데 의미 있는 일’을 하면서 보냈던 것 같아요. 의미가 너무 커서 돈 안 되는 걸 잊을 수 있었죠. 그것 때문에 동료들과 얼마나 설전을 벌이건, 무대에 올라가건 말건, 관객이 몇 명이 들건…. 온전히 몰두할 일이 있다는 게 흥분되고 그 덕에 버틸 수 있었어요. 나이가 먹고 부모님께 생활비도 드려야 하는 때가 되니까 ‘이대로 가야 하나’ 생각이 들었죠. 그런데 영화 ...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/05/25/l_2022052501003299700302641.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["여성에 대한 폭력 멈춰라" 칸 영화제 속 여성들의 목소리]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202205241422001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202205241422001</guid>
-            <pubDate>Tue, 24 May 2022 07:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[제75회 칸 국제영화제에서 여성들의 안전을 요구하는 시위가 잇따라 벌어졌다.르파리지앵 등 프랑스 현지매체는 22일(현지시간) 한 여성단체가 제75회 칸 영화제가 개최되는 팔레 드 페스티발 건물의 레드카펫 계단에서 시위를 벌였다고 보도했다. 검은색 드레스를 입은 시위대는 한 손으론 거대한 현수막을 들고, 다른 한 손으론 검은색 연기가 뿜어져 나오는 연막 수류탄을 든 채 ‘페미사이드(여성살해)’ 피해자들을 추모하는 퍼포먼스를 선보였다. 이들이 내건 현수막에는 지...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/05/24/l_2022052401002953200270791.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
