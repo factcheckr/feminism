@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 08:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 09:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/977f3439-fb72-41f8-a3f1-e7fb4452ecc3.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Being Harassed on the Street “for Being a Woman” (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9361</link>
+            <guid>https://ildaro.com/9361</guid>
+            <pubDate>Fri, 03 Jun 2022 09:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[I was angry not because I saw someone’s genitalia but because the flasher chose me as the subject of harassment....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022060352327867.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[서른 살 터울 두 여성농민이 ‘베프’가 되기까지 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9360</link>
             <guid>https://ildaro.com/9360</guid>
@@ -422,14 +430,6 @@
             <pubDate>Tue, 10 May 2022 11:34:00 GMT</pubDate>
             <content:encoded><![CDATA[Their independence is not the kind that feels voluntary and excitingly free. It is unstable and lonely....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022051042068182.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 글에 빨간 줄부터 긋지 말고 해석하려 애써봐요 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9341</link>
-            <guid>https://ildaro.com/9341</guid>
-            <pubDate>Mon, 09 May 2022 00:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[발달장애인이라고 하면 ‘지적인 문제로, 읽고 쓰는 데 어려움을 겪는 사람’이라는 말이 따라다닌다. 하지만, 김유리가 글을 쓰기 시작하면 그는 이러한 말을 파괴하...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022050937059959.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
