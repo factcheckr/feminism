@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 08:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 09:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/977f3439-fb72-41f8-a3f1-e7fb4452ecc3.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[‘여자인지 남자인지’ 밝혀야 들어갈 수 있는 기표소? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9364</link>
+            <guid>https://ildaro.com/9364</guid>
+            <pubDate>Mon, 06 Jun 2022 09:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[신분증을 내밀 때 투표 관리인 두 분이 속닥이다가 성별을 물어보시더라고요. ‘대충 남자’입니다 하고 넘어갔던 기억이 납니다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022060623202410.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[성차별 표현 난무하는 언론, 위기 느낀 기자들이 나섰다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9363</link>
             <guid>https://ildaro.com/9363</guid>
@@ -422,14 +430,6 @@
             <pubDate>Tue, 24 May 2022 02:05:25 GMT</pubDate>
             <content:encoded><![CDATA[인공지능이 사람과 대결을 해서 이겼다는 기사가 나온다. 다른 기사는 청취 평가에 참여한 사람들 다수가 기계음과 사람 음성을 구분하지 못했다고 서술한다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022051314134820.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도쿄올림픽의 빛과 그림자 다룬다더니…‘날조’ 방송 논란 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9344</link>
-            <guid>https://ildaro.com/9344</guid>
-            <pubDate>Thu, 12 May 2022 07:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[“실은 돈을 받고 동원되었다고 밝혔다”는 자막이 들어갔고, 얼굴이 모자이크 처리된 남성이 “집회는 전부 윗사람들이 하니까 (주최자가) 쓴 말을 따라 할 뿐…”이...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022051241506177.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
