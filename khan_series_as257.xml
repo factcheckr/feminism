@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 05:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 06:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어린이에게 실패할 '경험'을 주자…아이는 그렇게 자란다]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202206071502001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202206071502001</guid>
+            <pubDate>Tue, 07 Jun 2022 06:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[언니에게, 최근 다녀온 카페를 공유하며 함께 가자고 했다. 언니가 바로 되물었다. “노키즈존 아니야?” 언니는 작년에 아기를 낳은 후, 출산 전 다니던 많은 공간으로부터 출입을 금지당했다. 순간 등골이 서늘해졌다. 아동거부업소임을 표기하지 않은 업장도 많으니까. 황급히 찾아보니 다행히 아니었다. 한숨을 쉬며 가슴을 쓸어내렸다. 관광지에서 방문했던 베이커리 카페가 생각난다. 들어가는 곳 어디에도 아동거부업소라는 표시가 없었다. 빵을 다 고른 후 계산대 쪽으...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/06/07/l_2022053001003667500336531.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[젠더의 관점에서 기후위기를 바라보는 연구원 정은아]]></title>
             <link>https://www.khan.co.kr/environment/environment-general/article/202206071033001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 27 May 2022 01:02:11 GMT</pubDate>
             <content:encoded><![CDATA[올해 100번째 어린이날(5월5일)을 맞아, 방송에서도 다양한 프로그램을 내놨다. 특선 영화를 비롯해 동요 만들기, 신동 소개 등 밝은 분위기의 방송들이 넘쳤다. 교육채널 EBS는 조금 달랐다. &lt;다큐프라임&gt;에서 지난 9일부터 6부작 특집 프로그램을 내놨는데 제목은 ‘어린人권’이다. 대한민국 아동인권의 현주소를 살펴보는 기획으로, 초점은 아동학대에 맞춰져 있다. 조금은 무거운 주제를 어린이날 100주년에 들고 나온 이유는 무엇일까. 프로그램을 연출하고 있는 빈정...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/05/27/l_2022052701003440000314642.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누가 심청을 ‘효녀’라 부르나…연극 ‘심청전을 짓다’]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202205261340001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202205261340001</guid>
-            <pubDate>Thu, 26 May 2022 07:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[작자 미상의 고전소설인 심청전은 230여종이나 되는 이본(異本)이 존재할 정도로 오랜 세월 꾸준히 개작돼 왔다. 춘향전·장화홍련전과 함께 고전소설 중에서도 여성 인물이 전면에 등장하는 대표적 여성 서사로 꼽히지만, 소설 속 ‘효녀 심청’은 어디까지나 유교적 가부장제의 요구에 부응하는 인물로 그려졌다.아버지 심봉사의 허황된 약속에 인신매매의 피해자가 된 심청을 그저 ‘효녀’라고만 불러도 될까. ‘효’를 명분으로 심청의 희생을 미화하는 것은 누구...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/05/26/news-p.v1.20220526.4563769b015c4f6fa3f5caa52408bccc_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
