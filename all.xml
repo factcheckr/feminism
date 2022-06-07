@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 00:56:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 02:55:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[젠더의 관점에서 기후위기를 바라보는 연구원 정은아 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/environment/environment-general/article/202206071033001</link>
+            <guid>https://www.khan.co.kr/environment/environment-general/article/202206071033001</guid>
+            <pubDate>Tue, 07 Jun 2022 02:54:18 GMT</pubDate>
+            <content:encoded><![CDATA[기후위기는 보통 전문가들의 입을 통해 다뤄진다. 이들의 말은 대체로 비슷하다. ‘이대로라면 산업화 이전 시기 대비 지구평균기온은 1.5도 이상 상승할 가능성이 높다. 기후위기는 가속화되고 있다.’ 대응책도 이미 나와 있다. 화석연료 사용을 줄이고, 재생에너지 중심의 에너지 구조를 짜야 한다. 내연기관차 대신 전기차를 타야 한다. 생활 전반에서 탄소 배출을 줄이는 사회 구조를 만들어야 한다. 위기를 증명하는 과학적 근거는 차고 넘치며, 대응책 역시 있다. 그런...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/06/07/l_2022060301000396300032161.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘창퓌’와 ‘증호’가 생겨나지 않도록 "입을 열어야 하는 아동성폭력" (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202206031413001</link>
@@ -80,14 +88,6 @@
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/05/26/news-p.v1.20220526.4563769b015c4f6fa3f5caa52408bccc_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[배우 이정은 “수면 아래서 반짝이는 후배 도와주는 선배가 되고 싶어요" (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202205251003001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202205251003001</guid>
-            <pubDate>Wed, 25 May 2022 03:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이정은에게 &lt;기생충&gt; 이전과 이후의 삶은 달라졌을까.“청년기에는 ‘돈은 안 되는데 의미 있는 일’을 하면서 보냈던 것 같아요. 의미가 너무 커서 돈 안 되는 걸 잊을 수 있었죠. 그것 때문에 동료들과 얼마나 설전을 벌이건, 무대에 올라가건 말건, 관객이 몇 명이 들건…. 온전히 몰두할 일이 있다는 게 흥분되고 그 덕에 버틸 수 있었어요. 나이가 먹고 부모님께 생활비도 드려야 하는 때가 되니까 ‘이대로 가야 하나’ 생각이 들었죠. 그런데 영화 ...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/05/25/l_2022052501003299700302641.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
@@ -110,6 +110,14 @@
             <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022. 01. 17]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[젠더의 관점에서 기후위기를 바라보는 연구원 정은아 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/environment/environment-general/article/202206071033001</link>
+            <guid>https://www.khan.co.kr/environment/environment-general/article/202206071033001</guid>
+            <pubDate>Tue, 07 Jun 2022 02:55:02 GMT</pubDate>
+            <content:encoded><![CDATA[기후위기는 보통 전문가들의 입을 통해 다뤄진다. 이들의 말은 대체로 비슷하다. ‘이대로라면 산업화 이전 시기 대비 지구평균기온은 1.5도 이상 상승할 가능성이 높다. 기후위기는 가속화되고 있다.’ 대응책도 이미 나와 있다. 화석연료 사용을 줄이고, 재생에너지 중심의 에너지 구조를 짜야 한다. 내연기관차 대신 전기차를 타야 한다. 생활 전반에서 탄소 배출을 줄이는 사회 구조를 만들어야 한다. 위기를 증명하는 과학적 근거는 차고 넘치며, 대응책 역시 있다. 그런...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/06/07/l_2022060301000396300032161.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘창퓌’와 ‘증호’가 생겨나지 않도록 "입을 열어야 하는 아동성폭력" (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -182,14 +190,6 @@
             <pubDate>Thu, 26 May 2022 07:15:00 GMT</pubDate>
             <content:encoded><![CDATA[작자 미상의 고전소설인 심청전은 230여종이나 되는 이본(異本)이 존재할 정도로 오랜 세월 꾸준히 개작돼 왔다. 춘향전·장화홍련전과 함께 고전소설 중에서도 여성 인물이 전면에 등장하는 대표적 여성 서사로 꼽히지만, 소설 속 ‘효녀 심청’은 어디까지나 유교적 가부장제의 요구에 부응하는 인물로 그려졌다.아버지 심봉사의 허황된 약속에 인신매매의 피해자가 된 심청을 그저 ‘효녀’라고만 불러도 될까. ‘효’를 명분으로 심청의 희생을 미화하는 것은 누구...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/05/26/news-p.v1.20220526.4563769b015c4f6fa3f5caa52408bccc_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 이정은 “수면 아래서 반짝이는 후배 도와주는 선배가 되고 싶어요" (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202205251003001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202205251003001</guid>
-            <pubDate>Wed, 25 May 2022 03:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이정은에게 &lt;기생충&gt; 이전과 이후의 삶은 달라졌을까.“청년기에는 ‘돈은 안 되는데 의미 있는 일’을 하면서 보냈던 것 같아요. 의미가 너무 커서 돈 안 되는 걸 잊을 수 있었죠. 그것 때문에 동료들과 얼마나 설전을 벌이건, 무대에 올라가건 말건, 관객이 몇 명이 들건…. 온전히 몰두할 일이 있다는 게 흥분되고 그 덕에 버틸 수 있었어요. 나이가 먹고 부모님께 생활비도 드려야 하는 때가 되니까 ‘이대로 가야 하나’ 생각이 들었죠. 그런데 영화 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/05/25/l_2022052501003299700302641.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[짧은 휴식에 들어갑니다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
