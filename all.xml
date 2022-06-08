@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 03:03:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 03:59:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['임신 중단 금지'에 이어 '임신 등록제' 추진하는 폴란드 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202206081032001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202206081032001</guid>
+            <pubDate>Wed, 08 Jun 2022 03:01:09 GMT</pubDate>
+            <content:encoded><![CDATA[임신중절을 엄격히 금지하고 있는 폴란드 정부가 이번엔 의료기록 전산화를 통한 ‘임신 등록제’ 정책을 추진하면서 논란이 일고 있다.AP통신은 6일(현지시간) 폴란드 정부가 임신 등록제로 여성들의 임신에 대한 감시를 강화하려 한다는 비난을 받고 있다고 보도했다. 아담 니에지에스키 보건부 장관은 지난 3일 알레르기, 혈액형, 임신 등을 포함해 환자와 관련된 중앙 데이터베이스 보관 정보 규모를 늘리는 행정명령에 서명했다. 이에 여성단체와 야당 정치인들은 의료기록...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/06/08/l_2022060701000770000066372.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[어린이에게 실패할 '경험'을 주자…아이는 그렇게 자란다 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202206071502001</link>
             <guid>https://www.khan.co.kr/culture/culture-general/article/202206071502001</guid>
@@ -182,14 +190,6 @@
             <pubDate>Mon, 30 May 2022 03:28:30 GMT</pubDate>
             <content:encoded><![CDATA[이틀 앞으로 다가온 6·1지방선거를 계기로 현행 공직선거법이 후보자의 결혼한 딸은 재산공개 대상에서 제외하는 등 ‘구시대적 가족관’을 담고 있다는 지적이 나온다. 지난해 정부가 ‘제4차 건강가정기본계획안’을 만들어 기존 제도 바깥의 다양한 가족 형태를 인정하겠다고 선언한 데 발맞춰 선거법도 바뀌어야 한다는 것이다.중앙선거관리위원회가 배포한 ‘제8회 전국동시지방선거 교육감선거 후보자를 위한 선거사무안내서’에는 후보자 등록 신청시 첨부할 서류에 대한 안내...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/05/30/l_2022053001003659900335571.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“죽거나 다치지 않는다고 아동학대가 아닌 건 아니다” (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202205270957001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202205270957001</guid>
-            <pubDate>Fri, 27 May 2022 01:01:26 GMT</pubDate>
-            <content:encoded><![CDATA[올해 100번째 어린이날(5월5일)을 맞아, 방송에서도 다양한 프로그램을 내놨다. 특선 영화를 비롯해 동요 만들기, 신동 소개 등 밝은 분위기의 방송들이 넘쳤다. 교육채널 EBS는 조금 달랐다. &lt;다큐프라임&gt;에서 지난 9일부터 6부작 특집 프로그램을 내놨는데 제목은 ‘어린人권’이다. 대한민국 아동인권의 현주소를 살펴보는 기획으로, 초점은 아동학대에 맞춰져 있다. 조금은 무거운 주제를 어린이날 100주년에 들고 나온 이유는 무엇일까. 프로그램을 연출하고 있는 빈정...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/05/27/l_2022052701003440000314642.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[짧은 휴식에 들어갑니다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
