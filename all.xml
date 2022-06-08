@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 23:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 01:01:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/977f3439-fb72-41f8-a3f1-e7fb4452ecc3.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[선별검사소 간호사 “우리 모두 역사의 현장에 있었다” (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9365</link>
+            <guid>https://ildaro.com/9365</guid>
+            <pubDate>Wed, 08 Jun 2022 08:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[“저기 선생님 이거 하나 드리면 안 될까?”라며 탑골공원 무료 급식으로 받아온 음식을 나눠주려는 할아버지도 있었다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022060853101488.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘여자인지 남자인지’ 밝혀야 들어갈 수 있는 기표소? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9364</link>
             <guid>https://ildaro.com/9364</guid>
@@ -422,14 +430,6 @@
             <pubDate>Sun, 15 May 2022 11:00:00 GMT</pubDate>
             <content:encoded><![CDATA[돌아보면 당시 처음 페미니즘 수업을 듣고 여성주의 활동을 시작한 내가 여성 시인들과 도서관에서 내밀하게 만났던 시간들은 삶의 동시성을 보여주는 장면 같다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022051505111169.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI와 페미니즘, 우리에겐 더 나은 선택지가 있다! (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9345</link>
-            <guid>https://ildaro.com/9345</guid>
-            <pubDate>Tue, 24 May 2022 02:05:25 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능이 사람과 대결을 해서 이겼다는 기사가 나온다. 다른 기사는 청취 평가에 참여한 사람들 다수가 기계음과 사람 음성을 구분하지 못했다고 서술한다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022051314134820.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
