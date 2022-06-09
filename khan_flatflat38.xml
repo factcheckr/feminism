@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 06:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 07:41:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10명 중 7명이 ‘참고 넘어가는’ 직장 내 성희롱…가장 필요한 정책은 ‘피해자 보호’]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202206091432011</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202206091432011</guid>
+            <pubDate>Thu, 09 Jun 2022 07:40:22 GMT</pubDate>
+            <content:encoded><![CDATA[직장 내 성희롱 피해를 본 직장인 10명 중 7명은 피해를 당하고도 적극적으로 대처하지 못하는 것으로 조사됐다. 코로나19에 따른 회식 감소 등 근무환경 변화로 직장 내 성희롱 피해를 경험한 비율은 감소했다.여성가족부는 이같은 내용을 담은 ‘2021년 성희롱 실태조사 결과’를 7일 발표했다. 여가부가 상시근로자 30인 이상인 공공기관과 민간사업체에서 근무하는 1만7688명을 대상으로 조사한 결과, 지난 3년간 직장에서 재직하는 동안 한 번이라도 성희롱 피해를 경험한...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/06/09/l_2022060901001069400094581.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한강 "숨쉬는 공기속에 흐르는 혐오, 직면하고 질문하지 않는다면 위험해"]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202206081640001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 31 May 2022 01:02:53 GMT</pubDate>
             <content:encoded><![CDATA[기후위기는 보통 전문가들의 입을 통해 다뤄진다. 이들의 말은 대체로 비슷하다. ‘이대로라면 산업화 이전 시기 대비 지구평균기온은 1.5도 이상 상승할 가능성이 높다. 기후위기는 가속화되고 있다.’ 대응책도 이미 나와 있다. 화석연료 사용을 줄이고, 재생에너지 중심의 에너지 구조를 짜야 한다. 내연기관차 대신 전기차를 타야 한다. 생활 전반에서 탄소 배출을 줄이는 사회 구조를 만들어야 한다. 위기를 증명하는 과학적 근거는 차고 넘치며, 대응책 역시 있다. 그런...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/05/31/l_2022051701002053800189631.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['고등학생이 왜 콜센터에 갈까' 현장실습생의 현실 담긴 영화 '다음 소희']]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202205301423001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202205301423001</guid>
-            <pubDate>Mon, 30 May 2022 09:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[칸영화제 비평가주간 폐막작으로 선정된 정주리 감독의 &lt;다음 소희&gt;가 25일(현지시간) 프랑스 칸 미라마르 극장에서 상영됐다.상영 중 객석 곳곳에서 관객들이 훌쩍였다. 한국 사람도 잘 알지 못하던, 콜센터에서 일한 한 특성화고 현장실습생의 이야기가 전 세계 관객의 마음에 가닿은 듯했다. 상영이 끝나고 불이 켜지고 나서도 긴 기립박수가 이어졌다. 이날 프랑스 칸에 설치된 영화진흥위원회 부스에서 만난 정 감독은 “되게 한국적인 이야기고 상황이다. 심지어는...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/05/30/l_2022053001003700900340281.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
