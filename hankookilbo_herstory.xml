@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 23:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 01:02:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[허스토리가 새 이름으로 돌아왔어요]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/870</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/870</guid>
+            <pubDate>Thu, 09 Jun 2022 01:02:17 GMT</pubDate>
+            <content:encoded><![CDATA[여기, 1년이 넘도록 내려가지 않는 영정 사진이 있습니다. 바로 군 내에서 발생한 성추행을 신고한 뒤 피해사실 유포, 따돌림, 회유와 협박 등 2차 가해에 시달리다 지난해 5월 21일 스스로 목숨을 끊은 고(故) 이예람 중사의 얼굴입니다. 경기 국군수도병원에 마련된 이 중사의 빈소는 여전히 문상객을 받고 있습니다. 유족이 딸의 억울함을 풀어야 한다며 발인을 미루고 있기 때문입니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/cc80844e-3884-4413-b713-e294a2bbeecb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[짧은 휴식에 들어갑니다]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/757</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 08 Jun 2022 04:29:27 GMT</pubDate>
             <content:encoded><![CDATA[이번 주말부터 설 연휴입니다. 언제부터일까요. 어린 시절에는 마냥 기다려지기만 했던 명절이, 어느 순간부터 부담스럽거나 피하고 싶은 순간이 되어버린 것 말이죠. 어쩌면 가족이라는 든든한 울타리 안에서 얻는 격려의 기쁨보다, 며느리 혹은 K-장녀 같은 역할이 주는 무게가 무거워지는 때부터 명절이 싫어지는 건 아닐지 생각해 봅니다. 오늘 허스토리는 한국일보의 과거 명절 기사로 들여다본 '성평등 명절 변천사'를 다뤄볼게요.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/c19f2cf4-fc33-4174-80b7-e1d718943935.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[군부대 위안은 여성의 몫이 아니다]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/648</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/648</guid>
-            <pubDate>Wed, 08 Jun 2022 04:29:27 GMT</pubDate>
-            <content:encoded><![CDATA[많은 분들이 공분하고, 행동에 나서기도 한 이슈가 있었는데요. 바로 서울 진명여고 '위문 편지' 논란입니다. 모르시는 분들을 위해 간단히 설명드리자면 이렇습니다. 💬 지난 11일 한 온라인 커뮤니티에 위문편지 한 장이 올라왔습니다. 편지에는 "인생에 시련이 많을 건데 이 정도는 이겨줘야 사나이가 아닐까요" "눈 오면 열심히 치우세요"라는 내용이 담겼습니다. 일부 누리꾼은 "군인에 대한 조롱"이라며 즉각 반발했습니다. 남초 커뮤니티 유저를 중심으로 해당 학교를 찾아가고, 여고생의 신상을 터는 극단적 행위도 이어졌습니다. 여학생들에 대한 도 넘은 성희롱 악플도 달렸어요.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/977f3439-fb72-41f8-a3f1-e7fb4452ecc3.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
