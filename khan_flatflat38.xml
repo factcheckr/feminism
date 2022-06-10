@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 05:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 06:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['뉴요커'에만 있는 직책 '오케이어'의 읽고 다듬는 삶]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202206101419001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202206101419001</guid>
+            <pubDate>Fri, 10 Jun 2022 06:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[‘오케이어(OK’er)’는 미국 주간지 뉴요커에만 있는 직책이다. 기계적 교열 업무를 뛰어넘어, 문법과 문학뿐만 아니라 삶 전반의 넓고 깊은 지식을 바탕으로 질의·교정하며 원고를 다듬고 책임지는 자리로 알려져있다.25년간 오케이어로서 뉴요커의 글을 읽고 다듬어 온 ‘콤마퀸’이자 책 &lt;뉴욕은 교열 중&gt; &lt;그리스는 교열 중&gt;의 작가로도 널리 알려진 메리 노리스(70)가 지난 4일 서울 강남구 코엑스에서 열린 서울국제도서전을 찾았다. 노리스는 엄격한 철학과 ...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/06/10/l_2022061001001220600108331.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고국에는 전해지지 않은 이란 배우의 칸 '여우주연상 수상소감']]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202206101143001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 02 Jun 2022 01:07:37 GMT</pubDate>
             <content:encoded><![CDATA[우주의 일곱 조각은모든 지음｜문학과지성사｜290쪽｜1만4000원인생은 선택의 연속이다. 진학·취업·결혼·출산 등 굵직한 생애주기에 따른 선택이 아니더라도, 우리는 점심식사 메뉴를 정할 때나, 디저트 가게에서 먹을 케익을 고를 때, 카페에서 마실 음료를 고를 때에도 신중하다.미국 시인 로버트 프로스트는 인생은 갈림길의 연속이라는 점, 이미 지나온 길을 되돌리는 것은 인생에서 좀처럼 어렵다는 점을 ‘가보지 않은 길’에서 노래했다.“노랗게 난 숲길에 두 갈래의 길이...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/06/02/l_2022060201000221400015391.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[직장 내 성차별 수준 높을수록 커지는 기혼 여성의 ‘우울’]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202205311511011</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202205311511011</guid>
-            <pubDate>Tue, 31 May 2022 07:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[기혼 여성 노동자는 일·가정 양립 부담이 클수록 우울 증상이 증가하고, 특히 직장 내 성차별 수준이 높다고 인지할수록 우울 증상의 증가폭이 더 크다는 연구 결과가 나왔다.조선미 한국여성정책연구원 부연구위원은 27일 2022년 한국사회정책학회 춘계학술대회(경향신문 후마니타스연구소 후원)에서 ‘기혼 여성 근로자의 일·가정 양립 부담과 우울증상: 직장 내 성차별 인식의 조절효과’ 연구 결과를 발표했다. 조 연구위원은 “성별 분리 관행 속에 일터에 전념하는 남성과 ...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/05/31/l_2022053001003665500336301.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
