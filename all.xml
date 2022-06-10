@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 23:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 01:07:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/c19f2cf4-fc33-4174-80b7-e1d718943935.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[예상치 못했던 파트너 돌봄이 나에게 왔다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9366</link>
+            <guid>https://ildaro.com/9366</guid>
+            <pubDate>Fri, 10 Jun 2022 08:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[40대 초반이었던 동성 파트너의 투병 생활을 함께하며, 알고 싶지 않았던 것들이, 깨닫고 싶지 않았던 것들이 나에게 차곡차곡 쌓였다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022061001581267.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[선별검사소 간호사 “우리 모두 역사의 현장에 있었다” (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9365</link>
             <guid>https://ildaro.com/9365</guid>
@@ -422,14 +430,6 @@
             <pubDate>Tue, 24 May 2022 02:05:25 GMT</pubDate>
             <content:encoded><![CDATA[내가 살아가는 형태가 이전엔 ‘똥돼지, 귤, 사투리’로 소비되었다면 지금은 ‘돌담과 살아가는 힙스터, 덜 노동하고 여유롭게 살아가는 제주인’ 이미지로 소비되고...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022051613227940.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 만난 최승자라는 우주 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9346</link>
-            <guid>https://ildaro.com/9346</guid>
-            <pubDate>Sun, 15 May 2022 11:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[돌아보면 당시 처음 페미니즘 수업을 듣고 여성주의 활동을 시작한 내가 여성 시인들과 도서관에서 내밀하게 만났던 시간들은 삶의 동시성을 보여주는 장면 같다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022051505111169.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
