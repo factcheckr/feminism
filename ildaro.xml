@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 10:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 11:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Even Though I’m Not Granted the Good Fortune of Making a Living out of Writing]]></title>
+            <link>https://ildaro.com/9368</link>
+            <guid>https://ildaro.com/9368</guid>
+            <pubDate>Sun, 12 Jun 2022 11:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[But as I wrote above, I don’t want to live a live where making a living itself is the only goal....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022061254016924.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강간죄와 무고죄의 관계, 문제는 ‘최협의설’이다]]></title>
             <link>https://ildaro.com/9367</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 19 May 2022 11:43:00 GMT</pubDate>
             <content:encoded><![CDATA[Though I am 37 years old, I still have difficulty deciding what to do first between things I want to do and those I have to do. The worst among the things I have to do is housework....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022051938412124.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑은 낯선 길을 떠나는 것이야]]></title>
-            <link>https://ildaro.com/9348</link>
-            <guid>https://ildaro.com/9348</guid>
-            <pubDate>Wed, 18 May 2022 09:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[이 책은 곰과 새를 방해하는 악인이 없이도, 이렇게 조마조마하고 흥미진진한 이야기가 전개될 수 있다는 점이 인상적이다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022051822061211.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
