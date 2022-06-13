@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 01:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 03:30:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/c19f2cf4-fc33-4174-80b7-e1d718943935.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[추앙도 멸시도 아닌, 몸과 기억의 ‘퀴어링’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9369</link>
+            <guid>https://ildaro.com/9369</guid>
+            <pubDate>Mon, 13 Jun 2022 10:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[여성 빨치산에서부터 현재에 이르기까지 ‘나’로 살 수 없는, ‘몸’에 속하지 않는, ‘사랑’이라 부를 수 없는, ‘가족’이 될 수 없는 사람들의 이야기를 폭넓게 ...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022061329009736.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Even Though I’m Not Granted the Good Fortune of Making a Living out of Writing (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9368</link>
             <guid>https://ildaro.com/9368</guid>
@@ -422,14 +430,6 @@
             <pubDate>Fri, 20 May 2022 10:24:00 GMT</pubDate>
             <content:encoded><![CDATA[그림 투표용지가 필요한 이유는 눈이 몹시 나쁘거나, 문자 이해가 어려운 이들에게 용이해요. 좀 더 구체적으로는 글씨를 크게 적을 필요가 있습니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022052038047941.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Breaking the Mold of Femininity and Experimenting with Equal Partnership (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9349</link>
-            <guid>https://ildaro.com/9349</guid>
-            <pubDate>Thu, 19 May 2022 11:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[Though I am 37 years old, I still have difficulty deciding what to do first between things I want to do and those I have to do. The worst among the things I have to do is housework....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022051938412124.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
