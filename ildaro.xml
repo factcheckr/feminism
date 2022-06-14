@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 09:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 10:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청주 청년 여성 7인이 띄운 ‘페미니즘 정치’]]></title>
+            <link>https://ildaro.com/9370</link>
+            <guid>https://ildaro.com/9370</guid>
+            <pubDate>Tue, 14 Jun 2022 10:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[지금이 아니면 안 될 것 같았다. 함께하자고 먼저 손을 내밀어준 동료들이 있을 때 기꺼이 그 손을 잡고 이 사회에 페미니즘 정치를 외치고 싶었다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022061416487722.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추앙도 멸시도 아닌, 몸과 기억의 ‘퀴어링’]]></title>
             <link>https://ildaro.com/9369</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 21 May 2022 00:52:00 GMT</pubDate>
             <content:encoded><![CDATA[정여름 감독은 증강현실 게임 ‘포켓몬고’를 하다가, 미군기지 내 ‘체육관’과 ‘포켓스톱’에서 우연히 발견한 이미지들을 단서로 미군기지를 소재로 한 영화를 ...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022052101329620.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[발달장애인을 위한 투표소는 없다]]></title>
-            <link>https://ildaro.com/9350</link>
-            <guid>https://ildaro.com/9350</guid>
-            <pubDate>Fri, 20 May 2022 10:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[그림 투표용지가 필요한 이유는 눈이 몹시 나쁘거나, 문자 이해가 어려운 이들에게 용이해요. 좀 더 구체적으로는 글씨를 크게 적을 필요가 있습니다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022052038047941.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
