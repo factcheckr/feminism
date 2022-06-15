@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 01:08:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 03:31:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["모계혈족의 자손도 종중 일원으로 인정하라"는 대법원의 판결]]></title>
+            <link>https://www.khan.co.kr/national/court-law/article/202206151040001</link>
+            <guid>https://www.khan.co.kr/national/court-law/article/202206151040001</guid>
+            <pubDate>Wed, 15 Jun 2022 03:31:27 GMT</pubDate>
+            <content:encoded><![CDATA[성인이 된 후 어머니의 성씨와 본관을 따라 성(姓)을 변경한 아들도 어머니 종중(宗中)의 구성원 자격이 인정된다는 대법원의 판결이 나왔다. 종중은 “모계혈족의 자손은 종중 구성원이 될 수 없다”며 구성원 인정을 거부했지만 1·2심에 이어 대법원까지 ‘종중의 일원임을 인정해 달라’는 아들의 손을 들어줬다.대법원 1부(주심 박정화 대법관)는 이모씨(34·남)가 ‘용인 이씨’ 종중을 상대로 제기한 종원(宗員) 지위 확인 청구소송 상고심에서 원고 승소 판결한 원심을 확정...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/06/15/l_2022061501001704000155721.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['임금 성차별' 없다던 구글, 여성 직원에게 1500억 배상한다]]></title>
             <link>https://www.khan.co.kr/world/america/article/202206141458001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 07 Jun 2022 06:16:17 GMT</pubDate>
             <content:encoded><![CDATA[언니에게, 최근 다녀온 카페를 공유하며 함께 가자고 했다. 언니가 바로 되물었다. “노키즈존 아니야?” 언니는 작년에 아기를 낳은 후, 출산 전 다니던 많은 공간으로부터 출입을 금지당했다. 순간 등골이 서늘해졌다. 아동거부업소임을 표기하지 않은 업장도 많으니까. 황급히 찾아보니 다행히 아니었다. 한숨을 쉬며 가슴을 쓸어내렸다. 관광지에서 방문했던 베이커리 카페가 생각난다. 들어가는 곳 어디에도 아동거부업소라는 표시가 없었다. 빵을 다 고른 후 계산대 쪽으...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/06/07/l_2022053001003667500336531.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젠더의 관점에서 기후위기를 바라보는 연구원 정은아]]></title>
-            <link>https://www.khan.co.kr/environment/environment-general/article/202206071033001</link>
-            <guid>https://www.khan.co.kr/environment/environment-general/article/202206071033001</guid>
-            <pubDate>Tue, 07 Jun 2022 02:55:02 GMT</pubDate>
-            <content:encoded><![CDATA[기후위기는 보통 전문가들의 입을 통해 다뤄진다. 이들의 말은 대체로 비슷하다. ‘이대로라면 산업화 이전 시기 대비 지구평균기온은 1.5도 이상 상승할 가능성이 높다. 기후위기는 가속화되고 있다.’ 대응책도 이미 나와 있다. 화석연료 사용을 줄이고, 재생에너지 중심의 에너지 구조를 짜야 한다. 내연기관차 대신 전기차를 타야 한다. 생활 전반에서 탄소 배출을 줄이는 사회 구조를 만들어야 한다. 위기를 증명하는 과학적 근거는 차고 넘치며, 대응책 역시 있다. 그런...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/06/07/l_2022060301000396300032161.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
