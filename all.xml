@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 01:06:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 03:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[최저임금 적용받지 못하던 '가사노동자', 오늘부터 법적 '근로자' (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202206161057001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202206161057001</guid>
+            <pubDate>Thu, 16 Jun 2022 03:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[가사노동자 최동미씨(66·가명)는 주 5일간 매일 8시간씩 일한다. 점심시간이 1시간이지만 식당에 가서 밥을 먹기는 빠듯해 김밥으로 때우기 일쑤다. 이렇게 일하고 최씨가 한 달에 손에 쥐는 돈은 200만원 남짓이다.15년째 청소와 세탁 등 가사서비스 노동을 한 최씨의 임금은 200만원 수준에서 크게 변하지 않았다고 한다. 가사노동자들은 그동안 최저임금을 적용받지 못했다. 코로나19 사태 때는 일자리가 끊기면서 월수입이 70만원으로 떨어진 적도 있었다. 가사노동자들의 임...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/06/16/l_2022061601001840600168931.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['저 사람 누구지, 서은수 맞아?' 배우 서은수가 가장 듣고 싶은 말 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202206151517001</link>
             <guid>https://www.khan.co.kr/culture/culture-general/article/202206151517001</guid>
@@ -182,14 +190,6 @@
             <pubDate>Wed, 08 Jun 2022 08:17:50 GMT</pubDate>
             <content:encoded><![CDATA[“혐오는 아주 가까이 있어요. 숨쉬는 공기 속에 있습니다. 그런 것들에 대해 요즘 고민을 많이 합니다. 절망할 때도 많아요. 하지만 공기 속에 흐르고 있는 혐오를 직면하고 그것에 대해 질문하지 않는다면 혐오와 절멸은 이어져 있는 것이기 때문에 위험한 것이라고 생각합니다.”&lt;채식주의자&gt;로 2016년 맨부커상을 수상한 소설가 한강이 오랜만에 독자들 앞에 섰다. 4일 서울국제도서전이 진행중인 서울 코엑스에서 한강은 ‘작별하지 않는 만남’을 주제로 강연했다....]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/06/08/l_2022060701000773900066571.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['임신 중단 금지'에 이어 '임신 등록제' 추진하는 폴란드 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202206081032001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202206081032001</guid>
-            <pubDate>Wed, 08 Jun 2022 03:01:09 GMT</pubDate>
-            <content:encoded><![CDATA[임신중절을 엄격히 금지하고 있는 폴란드 정부가 이번엔 의료기록 전산화를 통한 ‘임신 등록제’ 정책을 추진하면서 논란이 일고 있다.AP통신은 6일(현지시간) 폴란드 정부가 임신 등록제로 여성들의 임신에 대한 감시를 강화하려 한다는 비난을 받고 있다고 보도했다. 아담 니에지에스키 보건부 장관은 지난 3일 알레르기, 혈액형, 임신 등을 포함해 환자와 관련된 중앙 데이터베이스 보관 정보 규모를 늘리는 행정명령에 서명했다. 이에 여성단체와 야당 정치인들은 의료기록...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/06/08/l_2022060701000770000066372.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[허스토리가 새 이름으로 돌아왔어요 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
@@ -270,6 +270,14 @@
             <pubDate>Wed, 08 Jun 2022 04:29:27 GMT</pubDate>
             <content:encoded><![CDATA[이번 주말부터 설 연휴입니다. 언제부터일까요. 어린 시절에는 마냥 기다려지기만 했던 명절이, 어느 순간부터 부담스럽거나 피하고 싶은 순간이 되어버린 것 말이죠. 어쩌면 가족이라는 든든한 울타리 안에서 얻는 격려의 기쁨보다, 며느리 혹은 K-장녀 같은 역할이 주는 무게가 무거워지는 때부터 명절이 싫어지는 건 아닐지 생각해 봅니다. 오늘 허스토리는 한국일보의 과거 명절 기사로 들여다본 '성평등 명절 변천사'를 다뤄볼게요.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/c19f2cf4-fc33-4174-80b7-e1d718943935.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘강제 불임’ 국가에 의한 인권침해…피해자들 승소 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9371</link>
+            <guid>https://ildaro.com/9371</guid>
+            <pubDate>Thu, 16 Jun 2022 10:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[노무라 하나코 씨는 1974년, 아무 설명도 듣지 못한 채 임신 9개월 차에 제왕절개 수술을 받았다. 태어난 아이는 ‘사망했다’고 통보를 받았다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022061617528317.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[청주 청년 여성 7인이 띄운 ‘페미니즘 정치’ (일다 ─ 전체기사)]]></title>
@@ -422,14 +430,6 @@
             <pubDate>Mon, 23 May 2022 11:12:00 GMT</pubDate>
             <content:encoded><![CDATA[무면허, 음주운전 적발자의 약 91%가 남성임에도 불구하고 남성형의 운전자 멸칭은 존재하지 않는 세상이다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022052317554038.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포켓몬고로 접속한 용산 기지생태계 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9351</link>
-            <guid>https://ildaro.com/9351</guid>
-            <pubDate>Sat, 21 May 2022 00:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[정여름 감독은 증강현실 게임 ‘포켓몬고’를 하다가, 미군기지 내 ‘체육관’과 ‘포켓스톱’에서 우연히 발견한 이미지들을 단서로 미군기지를 소재로 한 영화를 ...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022052101329620.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

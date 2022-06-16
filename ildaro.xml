@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 01:06:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 03:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘강제 불임’ 국가에 의한 인권침해…피해자들 승소]]></title>
+            <link>https://ildaro.com/9371</link>
+            <guid>https://ildaro.com/9371</guid>
+            <pubDate>Thu, 16 Jun 2022 10:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[노무라 하나코 씨는 1974년, 아무 설명도 듣지 못한 채 임신 9개월 차에 제왕절개 수술을 받았다. 태어난 아이는 ‘사망했다’고 통보를 받았다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022061617528317.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청주 청년 여성 7인이 띄운 ‘페미니즘 정치’]]></title>
             <link>https://ildaro.com/9370</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 23 May 2022 11:12:00 GMT</pubDate>
             <content:encoded><![CDATA[무면허, 음주운전 적발자의 약 91%가 남성임에도 불구하고 남성형의 운전자 멸칭은 존재하지 않는 세상이다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022052317554038.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포켓몬고로 접속한 용산 기지생태계]]></title>
-            <link>https://ildaro.com/9351</link>
-            <guid>https://ildaro.com/9351</guid>
-            <pubDate>Sat, 21 May 2022 00:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[정여름 감독은 증강현실 게임 ‘포켓몬고’를 하다가, 미군기지 내 ‘체육관’과 ‘포켓스톱’에서 우연히 발견한 이미지들을 단서로 미군기지를 소재로 한 영화를 ...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022052101329620.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
