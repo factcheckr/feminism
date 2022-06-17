@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 07:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 08:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/c19f2cf4-fc33-4174-80b7-e1d718943935.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[초여름 밤을 걷고 또 걸었던 우리 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9372</link>
+            <guid>https://ildaro.com/9372</guid>
+            <pubDate>Fri, 17 Jun 2022 08:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[해마다 이맘때가 되면, 밤새도록 걷고 싶다는 충동이 강하게 인다. 낮의 더위가 사그라들고, 온통 차고 푸른 공기가 가득한 초여름 밤...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022061751538465.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘강제 불임’ 국가에 의한 인권침해…피해자들 승소 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9371</link>
             <guid>https://ildaro.com/9371</guid>
@@ -422,14 +430,6 @@
             <pubDate>Tue, 24 May 2022 07:15:00 GMT</pubDate>
             <content:encoded><![CDATA[엘리트 중장년 남성들에 의한 대리 정치는 한계가 있다는 걸, 이제 모두들 느끼고 있다고 생각해요. 많은 당사자들이 직접 정치를 해서 문제를 바꿔나갔으면 좋겠어요...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022052402006293.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘김여사’를 만든 사회에서, 내 삶의 운전대 잡기 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9352</link>
-            <guid>https://ildaro.com/9352</guid>
-            <pubDate>Mon, 23 May 2022 11:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[무면허, 음주운전 적발자의 약 91%가 남성임에도 불구하고 남성형의 운전자 멸칭은 존재하지 않는 세상이다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022052317554038.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
