@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 05:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 06:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘대화하는 용기’를 말하는 국내 첫 성소수자 구의원]]></title>
+            <link>https://ildaro.com/9373</link>
+            <guid>https://ildaro.com/9373</guid>
+            <pubDate>Sun, 19 Jun 2022 06:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[내가 세상을 다 바꿀 순 없어도 ‘낯선 사람들을 환대하고 누구도 차별 받지 않는 도시는 만들 수 있지 않을까?’ 싶더라고요...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022061900532763.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[초여름 밤을 걷고 또 걸었던 우리]]></title>
             <link>https://ildaro.com/9372</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 26 May 2022 09:11:00 GMT</pubDate>
             <content:encoded><![CDATA[선거 날 학원의 전반적인 분위기는 ‘다들 쉬는데 왜 우리만 일할까?’였어요. 선거 당일에는 그 부당함에 화가 나 있던 게 기억납니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022052631374877.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고교 실습생도 노동자…‘학벌 정치’에 도전장 낸 이유]]></title>
-            <link>https://ildaro.com/9353</link>
-            <guid>https://ildaro.com/9353</guid>
-            <pubDate>Tue, 24 May 2022 07:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[엘리트 중장년 남성들에 의한 대리 정치는 한계가 있다는 걸, 이제 모두들 느끼고 있다고 생각해요. 많은 당사자들이 직접 정치를 해서 문제를 바꿔나갔으면 좋겠어요...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022052402006293.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
