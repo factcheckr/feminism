@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 12:26:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 13:35:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[My name is ‘Kimura Byol”.]]></title>
+            <link>https://ildaro.com/9374</link>
+            <guid>https://ildaro.com/9374</guid>
+            <pubDate>Mon, 20 Jun 2022 13:35:44 GMT</pubDate>
+            <content:encoded><![CDATA[That first year Boitsford, a Brussels ‘nouveau riche’ district in Belgium, welcomed Korean orphans on their soil....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022062026283018.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘대화하는 용기’를 말하는 국내 첫 성소수자 구의원]]></title>
             <link>https://ildaro.com/9373</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 27 May 2022 06:18:38 GMT</pubDate>
             <content:encoded><![CDATA[This incident also shows that we should start talking about the intersection of anti-Asian hate, racism, misogyny and class....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022052737119827.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘선거일은 유급 휴일’ 우린 왜 출근해야 하지?]]></title>
-            <link>https://ildaro.com/9354</link>
-            <guid>https://ildaro.com/9354</guid>
-            <pubDate>Thu, 26 May 2022 09:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[선거 날 학원의 전반적인 분위기는 ‘다들 쉬는데 왜 우리만 일할까?’였어요. 선거 당일에는 그 부당함에 화가 나 있던 게 기억납니다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022052631374877.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
