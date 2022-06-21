@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 03:27:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 04:32:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[능력주의에 대한 페미니즘의 대안은?]]></title>
+            <link>https://ildaro.com/9375</link>
+            <guid>https://ildaro.com/9375</guid>
+            <pubDate>Tue, 21 Jun 2022 00:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[내가 이 사회에서 획득해야 한다고 압박을 받았던 ‘능력’을 얻기 위해 무엇을 가장 많이 희생하고 있는지, 무엇을 가장 저평가했는지 되돌아보았다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022062129106985.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[My name is ‘Kimura Byol”.]]></title>
             <link>https://ildaro.com/9374</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 28 May 2022 10:31:00 GMT</pubDate>
             <content:encoded><![CDATA[안정적인 주거가 보장되지 않는 곳에서 재생산권은 보장될 수 없다. 주거가 불안정한 상황에서 사람을 낳고 기르는 일이 쉽게 이루어질 리 없다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022052838387217.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hate crimes against Asian women are not coincidental]]></title>
-            <link>https://ildaro.com/9355</link>
-            <guid>https://ildaro.com/9355</guid>
-            <pubDate>Fri, 27 May 2022 06:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[This incident also shows that we should start talking about the intersection of anti-Asian hate, racism, misogyny and class....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022052737119827.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
