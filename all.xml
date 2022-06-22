@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 11:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 12:26:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/c19f2cf4-fc33-4174-80b7-e1d718943935.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[혐오와 차별 지속하는 기업 제품은 보이콧하겠다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9376</link>
+            <guid>https://ildaro.com/9376</guid>
+            <pubDate>Wed, 22 Jun 2022 12:26:35 GMT</pubDate>
+            <content:encoded><![CDATA[“당신도 할 수 있는 차별기업 보이콧” 많은 사람들이 이 문제에 대해 알고 불매에 동참하는 것이, DHC가 더이상 차별을 하지 않도록 만드는 지름길이라고 생각했습니...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022062239576003.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[능력주의에 대한 페미니즘의 대안은? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9375</link>
             <guid>https://ildaro.com/9375</guid>
@@ -422,14 +430,6 @@
             <pubDate>Sun, 29 May 2022 06:17:57 GMT</pubDate>
             <content:encoded><![CDATA[잔드리아 F. 로빈슨은 에 기고한 글에서 “시스터 로제타 사프와 프린스의 자손이자 모든 장르의 소유자”라고 오늘 소개할 음악가를 평한다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022052955531141.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거주할 권리, 재생산의 권리 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9356</link>
-            <guid>https://ildaro.com/9356</guid>
-            <pubDate>Sat, 28 May 2022 10:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[안정적인 주거가 보장되지 않는 곳에서 재생산권은 보장될 수 없다. 주거가 불안정한 상황에서 사람을 낳고 기르는 일이 쉽게 이루어질 리 없다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022052838387217.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
