@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 07:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 08:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가부장적 음악시장에서, 더욱 반짝이는]]></title>
+            <link>https://ildaro.com/9377</link>
+            <guid>https://ildaro.com/9377</guid>
+            <pubDate>Fri, 24 Jun 2022 08:19:38 GMT</pubDate>
+            <content:encoded><![CDATA["소피아, 알아야 해, 너와 나. 이 관계에 대해 죄책감이 느껴지면 안 돼. 우리가 노력하면 할 수 있다고 생각해"...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022062410199377.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[혐오와 차별 지속하는 기업 제품은 보이콧하겠다]]></title>
             <link>https://ildaro.com/9376</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 30 May 2022 05:24:55 GMT</pubDate>
             <content:encoded><![CDATA[본 적 없는 것을 표현하는 것은 상상의 영역이지만, 이미 한 번 본 것이나 겪었던 것을 재연해내는 것은 기술의 영역이라 한결 쉬워진다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022053050343110.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 음악의 갈래를 만드는 흑인 여성 로커]]></title>
-            <link>https://ildaro.com/9357</link>
-            <guid>https://ildaro.com/9357</guid>
-            <pubDate>Sun, 29 May 2022 06:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[잔드리아 F. 로빈슨은 에 기고한 글에서 “시스터 로제타 사프와 프린스의 자손이자 모든 장르의 소유자”라고 오늘 소개할 음악가를 평한다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022052955531141.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
