@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 08:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 09:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임플라논으로 월경을 멈추고 난 뒤]]></title>
+            <link>https://ildaro.com/9379</link>
+            <guid>https://ildaro.com/9379</guid>
+            <pubDate>Mon, 27 Jun 2022 09:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[임플라논은 피임 성공률 99%가 넘는 피임도구 중 하나다. 그런데 누구나 피임을 목적으로 임플라논 시술을 받진 않는다. 내 가장 큰 목적은 월경을 멈추는 것이었다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022062735123166.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[달콤살벌한 사랑과 우정, ‘프라이드’ 가득한 영화/드라마]]></title>
             <link>https://ildaro.com/9378</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 02 Jun 2022 08:33:00 GMT</pubDate>
             <content:encoded><![CDATA[매화 아주머니는 미연 씨를 볼 때마다 “몸 아껴라, 너 그러다 나처럼 된다” 그러신다. 자신도 젊을 땐 몸 아픈 건 생각도 안 했는데, 이제 와 보니 좀 쉬면서 할 걸 후...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022060243287903.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시설의 거주인, 교통 약자는 어떻게 투표하고 있을까?]]></title>
-            <link>https://ildaro.com/9359</link>
-            <guid>https://ildaro.com/9359</guid>
-            <pubDate>Tue, 31 May 2022 10:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[또 한 가지는 ‘장애인이 투표하는구나’하고 집중되는 시선입니다. 저에게 시선이 집중될 때 한편으로 ‘아 괜히 왔나?’ 싶은 마음이 들더라고요....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202205/2022053102088068.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
