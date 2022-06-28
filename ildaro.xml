@@ -4,9 +4,16 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 08:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 09:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[We should be included into the global history of Korea]]></title>
+            <link>https://ildaro.com/9380</link>
+            <guid>https://ildaro.com/9380</guid>
+            <pubDate>Tue, 28 Jun 2022 09:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[When Korean adoptees claim that it’s great to have two cultures, I am often surprised by how much they don’t know about Korean culture....]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[임플라논으로 월경을 멈추고 난 뒤]]></title>
             <link>https://ildaro.com/9379</link>
@@ -158,14 +165,6 @@
             <pubDate>Fri, 03 Jun 2022 09:15:45 GMT</pubDate>
             <content:encoded><![CDATA[I was angry not because I saw someone’s genitalia but because the flasher chose me as the subject of harassment....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022060352327867.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서른 살 터울 두 여성농민이 ‘베프’가 되기까지]]></title>
-            <link>https://ildaro.com/9360</link>
-            <guid>https://ildaro.com/9360</guid>
-            <pubDate>Thu, 02 Jun 2022 08:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[매화 아주머니는 미연 씨를 볼 때마다 “몸 아껴라, 너 그러다 나처럼 된다” 그러신다. 자신도 젊을 땐 몸 아픈 건 생각도 안 했는데, 이제 와 보니 좀 쉬면서 할 걸 후...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022060243287903.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
