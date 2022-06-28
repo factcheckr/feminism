@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 05:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 06:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“성별 고정관념 고착화 막겠다” 서울시, 부속실 직원 공개모집]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202206281409001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202206281409001</guid>
+            <pubDate>Tue, 28 Jun 2022 06:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[서울시는 조직 내 성별 고정관념이 굳어지지 않도록 그동안 대부분 여성 직원이 전담한 부속실 업무 담당자를 공개 모집한다. 3급 이상 고위 공무원이 연루된 성 비위 사건이나 피해자가 원하는 사건은 외부 전문가에게 조사를 맡긴다.서울시는 직장 내 성 비위 사건 처리의 공정성을 확보하고 성폭력 예방 교육을 하는 등 지난해 진행한 ‘성폭력 제로 서울 1.0’ 정책을 토대로 올해 ‘성폭력 제로 서울 2.0’에 돌입한다고 23일 밝혔다. 피해자 지원을 강화하고 성 평...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/06/28/l_2022062701003011000282091.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[70년대로 후퇴한 미국 여성들의 삶… "800km 원정수술해야 할 수도"]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202206271431011</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 15 Jun 2022 17:16:11 GMT</pubDate>
             <content:encoded><![CDATA[구글이 임금 성차별 지적에 따라 여성 직원들에게 1억1800만달러(약 1519억2500만원)를 배상하기로 했다. 남성과 동등한 능력을 갖추고 동일한 업무에 종사했는데도 구글이 여성 직원들에겐 낮은 임금을 지급해온 데 따른 것이다.월스트리트저널 등은 12일(현지시간) 구글이 임금 성차별 집단소송을 제기한 직원들에게 손해배상금을 지급하는 방안을 마련했다고 보도했다. 대상은 2013년 9월 이후 캘리포니아 구글 본사 소속 236개 직책에서 일한 여성 1만5500명이다.이번 결정은 20...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/06/14/l_2022061401001596000144961.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피해자의 46%, 채팅앱 통해 성착취에 노출되는 아동·청소년]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202206141050001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202206141050001</guid>
-            <pubDate>Wed, 15 Jun 2022 17:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[성매매 피해 아동·청소년 절반가량은 채팅앱을 통해 피해에 노출되는 것으로 나타났다. 피해자 연령은 14∼16세, 피해 유형은 길들이기(그루밍)이 가장 많았다.여성가족부와 한국여성인권진흥원은 이 같은 내용이 담긴 2021년 전국 ‘성매매 피해아동·청소년 지원센터’ 운영 연차보고서를 3일 발표했다.보고서에 따르면 아동·청소년 성매매 유입 경로는 채팅앱이 338명(46.5％)으로 가장 많았으며, 친구 및 지인 93명(12.8％), SNS 78명(10.7％) 순이었다.피해 유형은 길들이기(그루밍)...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/06/14/l_2022060701000772700066531.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
