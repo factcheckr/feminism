@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 01:07:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 03:46:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[승진 방해될까 쉬쉬… 성폭력 은폐한 포스코의 '군대식 조직문화' (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202206291032001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202206291032001</guid>
+            <pubDate>Wed, 29 Jun 2022 03:44:54 GMT</pubDate>
+            <content:encoded><![CDATA[최근 포스코 포항제철소에 다니던 여성 직원이 3년간 상사 4명에게 성폭력을 당했다며 고소해 경찰이 수사에 나선 가운데, 민주노총 금속노조 포스코지회(노조)는 이 회사 특유의 ‘군대식 조직문화’가 조직 내 성 문제를 키우고 있다고 주장했다. 부서 내 모든 문제를 직책 보임자에게 책임을 묻는 연좌제 문화로 인해 상급자는 징계를 피하고자 사건을 무마하거나 축소하기에 급급하다는 것이다.28일 경향신문 취재를 종합하면, 지난해 포항제철소에서 50대 후반 직원 A씨가...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/06/29/l_2022062801003143300293851.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“생리주기 앱 지우자” 임신중단권 폐지에 퍼지는 공포 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202206281523001</link>
@@ -80,14 +88,6 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/06/15/l_2022061301001439400130331.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["모계혈족의 자손도 종중 일원으로 인정하라"는 대법원의 판결 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/court-law/article/202206151040001</link>
-            <guid>https://www.khan.co.kr/national/court-law/article/202206151040001</guid>
-            <pubDate>Wed, 15 Jun 2022 03:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[성인이 된 후 어머니의 성씨와 본관을 따라 성(姓)을 변경한 아들도 어머니 종중(宗中)의 구성원 자격이 인정된다는 대법원의 판결이 나왔다. 종중은 “모계혈족의 자손은 종중 구성원이 될 수 없다”며 구성원 인정을 거부했지만 1·2심에 이어 대법원까지 ‘종중의 일원임을 인정해 달라’는 아들의 손을 들어줬다.대법원 1부(주심 박정화 대법관)는 이모씨(34·남)가 ‘용인 이씨’ 종중을 상대로 제기한 종원(宗員) 지위 확인 청구소송 상고심에서 원고 승소 판결한 원심을 확정...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/06/15/l_2022061501001704000155721.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
@@ -110,6 +110,14 @@
             <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022. 01. 17]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[승진 방해될까 쉬쉬… 성폭력 은폐한 포스코의 '군대식 조직문화' (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202206291032001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202206291032001</guid>
+            <pubDate>Wed, 29 Jun 2022 03:45:38 GMT</pubDate>
+            <content:encoded><![CDATA[최근 포스코 포항제철소에 다니던 여성 직원이 3년간 상사 4명에게 성폭력을 당했다며 고소해 경찰이 수사에 나선 가운데, 민주노총 금속노조 포스코지회(노조)는 이 회사 특유의 ‘군대식 조직문화’가 조직 내 성 문제를 키우고 있다고 주장했다. 부서 내 모든 문제를 직책 보임자에게 책임을 묻는 연좌제 문화로 인해 상급자는 징계를 피하고자 사건을 무마하거나 축소하기에 급급하다는 것이다.28일 경향신문 취재를 종합하면, 지난해 포항제철소에서 50대 후반 직원 A씨가...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/06/29/l_2022062801003143300293851.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“생리주기 앱 지우자” 임신중단권 폐지에 퍼지는 공포 (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -182,14 +190,6 @@
             <pubDate>Wed, 15 Jun 2022 07:13:03 GMT</pubDate>
             <content:encoded><![CDATA[서은수는 새로운 얼굴을 찾고 싶었다. 결혼정보회사 ‘듀오’의 모델, 주말 드라마 &lt;황금빛 내 인생&gt;의 서지수로 알려진 그는 데뷔 이후 청순하고 단아한 이미지를 유지해왔다. 첫사랑 상대, 사연 있는 예비신부, 해맑은 사회초년생 등의 역할을 주로 맡았다. 맑고 깨끗한 인상 덕에 광고 모델로 여러 차례 기용됐다. 그런 그를 처음 만나 박훈정 감독이 건넨 말은 “잘생겼네”였다고 한다. 서은수는 그렇게 박 감독의 &lt;마녀2&gt;에 합류했다. 그가 맡은 ‘조현’...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/06/15/l_2022061301001439400130331.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["모계혈족의 자손도 종중 일원으로 인정하라"는 대법원의 판결 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/court-law/article/202206151040001</link>
-            <guid>https://www.khan.co.kr/national/court-law/article/202206151040001</guid>
-            <pubDate>Wed, 15 Jun 2022 03:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[성인이 된 후 어머니의 성씨와 본관을 따라 성(姓)을 변경한 아들도 어머니 종중(宗中)의 구성원 자격이 인정된다는 대법원의 판결이 나왔다. 종중은 “모계혈족의 자손은 종중 구성원이 될 수 없다”며 구성원 인정을 거부했지만 1·2심에 이어 대법원까지 ‘종중의 일원임을 인정해 달라’는 아들의 손을 들어줬다.대법원 1부(주심 박정화 대법관)는 이모씨(34·남)가 ‘용인 이씨’ 종중을 상대로 제기한 종원(宗員) 지위 확인 청구소송 상고심에서 원고 승소 판결한 원심을 확정...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/06/15/l_2022061501001704000155721.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['여자라서' 조국에서 박해 당했다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
