@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 03:46:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 04:42:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -115,7 +115,7 @@
             <title><![CDATA[승진 방해될까 쉬쉬… 성폭력 은폐한 포스코의 '군대식 조직문화' (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202206291032001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202206291032001</guid>
-            <pubDate>Wed, 29 Jun 2022 03:45:38 GMT</pubDate>
+            <pubDate>Wed, 29 Jun 2022 03:44:54 GMT</pubDate>
             <content:encoded><![CDATA[최근 포스코 포항제철소에 다니던 여성 직원이 3년간 상사 4명에게 성폭력을 당했다며 고소해 경찰이 수사에 나선 가운데, 민주노총 금속노조 포스코지회(노조)는 이 회사 특유의 ‘군대식 조직문화’가 조직 내 성 문제를 키우고 있다고 주장했다. 부서 내 모든 문제를 직책 보임자에게 책임을 묻는 연좌제 문화로 인해 상급자는 징계를 피하고자 사건을 무마하거나 축소하기에 급급하다는 것이다.28일 경향신문 취재를 종합하면, 지난해 포항제철소에서 50대 후반 직원 A씨가...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/06/29/l_2022062801003143300293851.jpg" length="0" type="image/jpg"/>
         </item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/bcbe0155-4ba5-49fb-b895-2c0e27d0145b.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[연시내가 살아있다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9381</link>
+            <guid>https://ildaro.com/9381</guid>
+            <pubDate>Wed, 29 Jun 2022 00:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화는 그동안 우리가 흔히 ‘후지다’고 생각해왔던 것들에 대해 다시 질문한다. 당신의 생각이 진정 맞는지, 언어를 재규정하는 과정에서 사랑을 도출해낸다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022062926031211.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[We should be included into the global history of Korea (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9380</link>
             <guid>https://ildaro.com/9380</guid>
@@ -421,14 +429,6 @@
             <pubDate>Sat, 04 Jun 2022 11:53:00 GMT</pubDate>
             <content:encoded><![CDATA[카메라는 이리스의 삶을 아는 것 자체가 중요하다고 표현하는 듯싶다. 우리는 자본주의의 현실과 그 그림자의 가려진 노동자의 삶을 꾸준히 지켜봐야 한다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022060400298024.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Being Harassed on the Street “for Being a Woman” (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9361</link>
-            <guid>https://ildaro.com/9361</guid>
-            <pubDate>Fri, 03 Jun 2022 09:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[I was angry not because I saw someone’s genitalia but because the flasher chose me as the subject of harassment....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022060352327867.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
