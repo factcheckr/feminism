@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 05:26:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 06:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쓰다듬는 팔 뿌리쳤다고 집단폭행… 중국 여성들의 들끓는 분노 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202206291409001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202206291409001</guid>
+            <pubDate>Wed, 29 Jun 2022 06:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[중국 허베이(河北)성 탕산(唐山)시의 한 고깃집에서 여성을 대상으로 발생한 집단폭행 사건의 후폭풍이 중국 사회에서 일파만파 퍼져나가고 있다.중국 공산당 중앙위원회는 23일 탕산시의 ‘전국문명도시’ 자격을 박탈했다고 인민일보 산하 매체 성시보(城市報)가 보도했다. 문명도시는 해마다 경제력, 치안, 문화 등을 종합평가해 지정된다. 2000개가량의 중국 도시 가운데 133곳이 문명도시로 지정돼 있다. 중국 전역을 들끓게 한 탕산 고깃집 집단폭행 사건의 책임을 물은 조치이...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/06/29/l_2022062401002777500261572.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[승진 방해될까 쉬쉬… 성폭력 은폐한 포스코의 '군대식 조직문화' (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202206291032001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202206291032001</guid>
@@ -182,14 +190,6 @@
             <pubDate>Thu, 16 Jun 2022 03:22:01 GMT</pubDate>
             <content:encoded><![CDATA[가사노동자 최동미씨(66·가명)는 주 5일간 매일 8시간씩 일한다. 점심시간이 1시간이지만 식당에 가서 밥을 먹기는 빠듯해 김밥으로 때우기 일쑤다. 이렇게 일하고 최씨가 한 달에 손에 쥐는 돈은 200만원 남짓이다.15년째 청소와 세탁 등 가사서비스 노동을 한 최씨의 임금은 200만원 수준에서 크게 변하지 않았다고 한다. 가사노동자들은 그동안 최저임금을 적용받지 못했다. 코로나19 사태 때는 일자리가 끊기면서 월수입이 70만원으로 떨어진 적도 있었다. 가사노동자들의 임...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/06/16/l_2022061601001840600168931.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['저 사람 누구지, 서은수 맞아?' 배우 서은수가 가장 듣고 싶은 말 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202206151517001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202206151517001</guid>
-            <pubDate>Wed, 15 Jun 2022 07:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[서은수는 새로운 얼굴을 찾고 싶었다. 결혼정보회사 ‘듀오’의 모델, 주말 드라마 &lt;황금빛 내 인생&gt;의 서지수로 알려진 그는 데뷔 이후 청순하고 단아한 이미지를 유지해왔다. 첫사랑 상대, 사연 있는 예비신부, 해맑은 사회초년생 등의 역할을 주로 맡았다. 맑고 깨끗한 인상 덕에 광고 모델로 여러 차례 기용됐다. 그런 그를 처음 만나 박훈정 감독이 건넨 말은 “잘생겼네”였다고 한다. 서은수는 그렇게 박 감독의 &lt;마녀2&gt;에 합류했다. 그가 맡은 ‘조현’...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/06/15/l_2022061301001439400130331.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['여자라서' 조국에서 박해 당했다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
