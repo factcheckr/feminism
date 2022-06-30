@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 06:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 07:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[5년간 우울증·불안장애 20대 환자, 여성이 남성보다 2배 많았다 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202206301436001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202206301436001</guid>
+            <pubDate>Thu, 30 Jun 2022 06:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[최근 5년간 우울증·불안장애를 겪은 20대 환자가 모든 연령대 중 가장 크게 늘어난 것으로 나타났다. 지난해 기준 여성이 남성보다 우울증·불안장애가 2배 가까이 더 많았다.24일 건강보험심사평가원(심평원)이 발표한 2017~2021년 우울증·불안장애 진료 통계 분석 결과를 보면, 우울증 환자 수는 2017년 69만1164명 대비 2021년에 93만3481명으로 35.1%(연평균 7.8%) 증가했다. 불안장애 환자 수는 2021년 86만5108명으로 2017년 65만3694명 대비 32.3%(연평균 7.3%) 늘었다.진료비...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/06/30/l_2022063001003292200311731.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['빈 쇼핑백에 맞고 있는' 여성들의 공포로 빚은 서늘함… 소설가 이종산의 신작 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202206301035011</link>
             <guid>https://www.khan.co.kr/culture/culture-general/article/202206301035011</guid>
@@ -182,14 +190,6 @@
             <pubDate>Fri, 17 Jun 2022 10:13:17 GMT</pubDate>
             <content:encoded><![CDATA[김현숙 여성가족부 장관이 16일 여가부 폐지 입장을 재확인했다. 김 장관은 “여가부 기능이 없어지는건 아니다”고 했지만, 구체적으로 어떻게 역할·기능을 이어갈지 등 구체적인 방법론은 제시하지 않았다.김 장관은 취임 한 달을 맞은 이날 기자간담회를 열고 “정책환경이 변화했고 여가부가 가진 한계를 고려할 때 여가부 폐지는 명확하다”며 “국민 신뢰를 회복하는게 중요하다”고 밝혔다.김 장관은 “(여가부가) 하고 있는 기능이 없어지는 건 아니고 역할을 어떻게 수...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/06/17/l_2022061701002045200187531.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“너도 멸종되지 않게 조심해”…'기후위기 아카이브' 운영하는 서지연씨[플랫] (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/environment/climate/article/202206171022001</link>
-            <guid>https://www.khan.co.kr/environment/climate/article/202206171022001</guid>
-            <pubDate>Fri, 17 Jun 2022 04:26:35 GMT</pubDate>
-            <content:encoded><![CDATA[기후위기는 보통 전문가들의 입을 통해 다뤄진다. 이들의 말은 대체로 비슷하다. ‘이대로라면 산업화 이전 시기 대비 지구평균기온은 1.5도 이상 상승할 가능성이 높다. 기후위기는 가속화되고 있다.’ 대응책도 이미 나와 있다. 화석연료 사용을 줄이고, 재생에너지 중심의 에너지 구조를 짜야 한다. 내연기관차 대신 전기차를 타야 한다. 생활 전반에서 탄소 배출을 줄이는 사회 구조를 만들어야 한다. 위기를 증명하는 과학적 근거는 차고 넘치며, 대응책 역시 있다. 그런...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/06/17/l_2022061501001719400157441.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['여자라서' 조국에서 박해 당했다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
