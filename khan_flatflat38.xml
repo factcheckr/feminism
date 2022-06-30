@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 01:06:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 03:40:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['빈 쇼핑백에 맞고 있는' 여성들의 공포로 빚은 서늘함… 소설가 이종산의 신작]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202206301035011</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202206301035011</guid>
+            <pubDate>Thu, 30 Jun 2022 03:37:43 GMT</pubDate>
+            <content:encoded><![CDATA[버스에서 빈 쇼핑백에 맞아 죽은 남자의 얼굴을 잊지 못하고 자꾸만 떠올리는 여자, 스토커 때문에 일가족을 잃은 여자의 집에서 밤마다 흔들리는 거울, 자신을 미워하고 학대했던 어머니에게서 벗어나지 못하는 딸에게 커튼 뒤로 보이는 발….이종산의 신작 소설집 &lt;빈 쇼핑백에 들어 있는 것&gt;(은행나무)은 공포 소설이면서도 공포 소설이 아니다. 일상 속에서 여성과 소수자가 느끼는 불안과 공포를 그려냈으며, 그 공포가 매우 현실적이기 때문이다. 사회문제와 직결...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/06/30/l_2022063001003290600311541.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쓰다듬는 팔 뿌리쳤다고 집단폭행… 중국 여성들의 들끓는 분노]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202206291409001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 17 Jun 2022 04:26:35 GMT</pubDate>
             <content:encoded><![CDATA[기후위기는 보통 전문가들의 입을 통해 다뤄진다. 이들의 말은 대체로 비슷하다. ‘이대로라면 산업화 이전 시기 대비 지구평균기온은 1.5도 이상 상승할 가능성이 높다. 기후위기는 가속화되고 있다.’ 대응책도 이미 나와 있다. 화석연료 사용을 줄이고, 재생에너지 중심의 에너지 구조를 짜야 한다. 내연기관차 대신 전기차를 타야 한다. 생활 전반에서 탄소 배출을 줄이는 사회 구조를 만들어야 한다. 위기를 증명하는 과학적 근거는 차고 넘치며, 대응책 역시 있다. 그런...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/06/17/l_2022061501001719400157441.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최저임금 적용받지 못하던 '가사노동자', 오늘부터 법적 '근로자']]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202206161057001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202206161057001</guid>
-            <pubDate>Thu, 16 Jun 2022 04:55:29 GMT</pubDate>
-            <content:encoded><![CDATA[가사노동자 최동미씨(66·가명)는 주 5일간 매일 8시간씩 일한다. 점심시간이 1시간이지만 식당에 가서 밥을 먹기는 빠듯해 김밥으로 때우기 일쑤다. 이렇게 일하고 최씨가 한 달에 손에 쥐는 돈은 200만원 남짓이다.15년째 청소와 세탁 등 가사서비스 노동을 한 최씨의 임금은 200만원 수준에서 크게 변하지 않았다고 한다. 가사노동자들은 그동안 최저임금을 적용받지 못했다. 코로나19 사태 때는 일자리가 끊기면서 월수입이 70만원으로 떨어진 적도 있었다. 가사노동자들의 임...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/06/16/l_2022061601001840600168931.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
