@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 08:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 09:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/bcbe0155-4ba5-49fb-b895-2c0e27d0145b.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[‘영 케어러’들을 만나다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9382</link>
+            <guid>https://ildaro.com/9382</guid>
+            <pubDate>Thu, 30 Jun 2022 09:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[“제가 공개적으로 말했다가는, 분명 휴가를 자주 쓰고 능률이 좋지 않다고 생각하고 회사에서 부담스러워할 거 같아요.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022063058079793.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연시내가 살아있다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9381</link>
             <guid>https://ildaro.com/9381</guid>
@@ -421,14 +429,6 @@
             <pubDate>Sun, 05 Jun 2022 08:16:37 GMT</pubDate>
             <content:encoded><![CDATA[정부와 일부 언론에서 ‘빛나는 여성’을 자기들 방식대로 골라 손쉬운 이상형을 만드는 듯한, 땅에 발이 닿지 않는 붕 뜬 선전을 하는 이상한 흐름에 분노를 느꼈습니...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/202206050217215.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자본주의는 말을 걸지 않는다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9362</link>
-            <guid>https://ildaro.com/9362</guid>
-            <pubDate>Sat, 04 Jun 2022 11:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[카메라는 이리스의 삶을 아는 것 자체가 중요하다고 표현하는 듯싶다. 우리는 자본주의의 현실과 그 그림자의 가려진 노동자의 삶을 꾸준히 지켜봐야 한다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022060400298024.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
