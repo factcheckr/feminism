@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 07:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 08:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/bcbe0155-4ba5-49fb-b895-2c0e27d0145b.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[여성‧퀴어‧노동 이야기가 없는 세상을 견딜 수 없어서 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9383</link>
+            <guid>https://ildaro.com/9383</guid>
+            <pubDate>Sat, 02 Jul 2022 11:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[쓰고 싶다는 마음을 더 들여다보면 ‘이 세상에 분명 있어야 하는데 없는 이야기들이 있어서. 그 이야기가 없는 세상을 견딜 수 없어서’이기도 해요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022070219269225.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘영 케어러’들을 만나다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9382</link>
             <guid>https://ildaro.com/9382</guid>
@@ -421,14 +429,6 @@
             <pubDate>Mon, 06 Jun 2022 09:14:02 GMT</pubDate>
             <content:encoded><![CDATA[신분증을 내밀 때 투표 관리인 두 분이 속닥이다가 성별을 물어보시더라고요. ‘대충 남자’입니다 하고 넘어갔던 기억이 납니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022060623202410.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성차별 표현 난무하는 언론, 위기 느낀 기자들이 나섰다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9363</link>
-            <guid>https://ildaro.com/9363</guid>
-            <pubDate>Sun, 05 Jun 2022 08:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[정부와 일부 언론에서 ‘빛나는 여성’을 자기들 방식대로 골라 손쉬운 이상형을 만드는 듯한, 땅에 발이 닿지 않는 붕 뜬 선전을 하는 이상한 흐름에 분노를 느꼈습니...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/202206050217215.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
