@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 11:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 12:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[감추어진 ‘부락’ 차별, 수면 위로 올려야 한다]]></title>
+            <link>https://ildaro.com/9384</link>
+            <guid>https://ildaro.com/9384</guid>
+            <pubDate>Sun, 03 Jul 2022 12:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[사실 부락민 차별에 대해 일본 사회에서는 언급하지 않으려 하는 경향이 크다. ‘부락’ 문제에 대해, 많은 이들이 어떻게 받아들여야 할지 모르겠다고 생각하는 분위...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022070318497968.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여성‧퀴어‧노동 이야기가 없는 세상을 견딜 수 없어서]]></title>
             <link>https://ildaro.com/9383</link>
@@ -157,14 +165,6 @@
             <pubDate>Wed, 08 Jun 2022 08:47:00 GMT</pubDate>
             <content:encoded><![CDATA[“저기 선생님 이거 하나 드리면 안 될까?”라며 탑골공원 무료 급식으로 받아온 음식을 나눠주려는 할아버지도 있었다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022060853101488.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘여자인지 남자인지’ 밝혀야 들어갈 수 있는 기표소?]]></title>
-            <link>https://ildaro.com/9364</link>
-            <guid>https://ildaro.com/9364</guid>
-            <pubDate>Mon, 06 Jun 2022 09:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[신분증을 내밀 때 투표 관리인 두 분이 속닥이다가 성별을 물어보시더라고요. ‘대충 남자’입니다 하고 넘어갔던 기억이 납니다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022060623202410.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
