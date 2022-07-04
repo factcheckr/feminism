@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 05:26:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 06:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['내돈내산'과 권리들의 전쟁터]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202207041404001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202207041404001</guid>
+            <pubDate>Mon, 04 Jul 2022 06:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[연세대학교 학생 3명이 임금 인상과 인력 충원 등 처우 개선을 요구하며 석 달 가까이 집회를 하고 있는 청소·경비노동자들을 상대로 자신들의 ‘학습권’이 침해되었다며 소송을 제기했다. 이 뉴스를 접하고 눈을 의심했다. 청소·경비노동자들이 집회를 이어 가는 동안 제대로 해결하지 않고 방치하여 학생들의 학습권을 침해한 업체와 학교를 상대로 한 게 아니라 노동자들을 상대로 소송을 냈다고?그 이유를 찬찬히 살펴봤다. 학교에서 소음을 내면서 시위하는 게 “학생들...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/07/04/l_2022070401000256600019931.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['마이너 필링스' 캐시 박 홍이 보는 아시아계 미국인 작가들의 르네상스]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202207041107001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 28 Jun 2022 05:21:56 GMT</pubDate>
             <content:encoded><![CDATA[서울시는 조직 내 성별 고정관념이 굳어지지 않도록 그동안 대부분 여성 직원이 전담한 부속실 업무 담당자를 공개 모집한다. 3급 이상 고위 공무원이 연루된 성 비위 사건이나 피해자가 원하는 사건은 외부 전문가에게 조사를 맡긴다.서울시는 직장 내 성 비위 사건 처리의 공정성을 확보하고 성폭력 예방 교육을 하는 등 지난해 진행한 ‘성폭력 제로 서울 1.0’ 정책을 토대로 올해 ‘성폭력 제로 서울 2.0’에 돌입한다고 23일 밝혔다. 피해자 지원을 강화하고 성 평...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/06/28/l_2022062701003011000282091.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[70년대로 후퇴한 미국 여성들의 삶… "800km 원정수술해야 할 수도"]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202206271431011</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202206271431011</guid>
-            <pubDate>Mon, 27 Jun 2022 07:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[미 연방대법원이 24일(현지시간) 여성의 임신중단 권리를 보호해 온 ‘로 대 웨이드’ 판결을 폐기해 임신중단과 관련한 미국 여성들의 삶은 1970년대로 후퇴하게 됐다. 원정시술과 약물을 이용한 임신중단이 급증할 것으로 예상되면서 미국 노동시장과 경제 상황에 또 다른 악재가 될 수 있다는 우려가 나온다.▼ 수술 위해 최장 867㎞ 이동해야 할수도 ▲ 뉴욕타임스(NYT)는 25일 대법원의 판결 이후 임신중단 수술을 진행했던 병원들이 기소를 우려해 예정된 수술을 취소...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/06/27/l_2022062701002907400275551.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
