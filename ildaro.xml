@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 14:26:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 15:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘언니’가 허락한 페미니즘을 넘어]]></title>
+            <link>https://ildaro.com/9385</link>
+            <guid>https://ildaro.com/9385</guid>
+            <pubDate>Mon, 04 Jul 2022 15:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[페미니즘 리부트 이후에도 2030 여성 위주의 페미니즘 문법 속에서 나는 “인정받는”, “규범에 들어맞는” 페미니스트가 될 수 없었다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022070420158899.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[감추어진 ‘부락’ 차별, 수면 위로 올려야 한다]]></title>
             <link>https://ildaro.com/9384</link>
@@ -157,14 +165,6 @@
             <pubDate>Fri, 10 Jun 2022 08:54:00 GMT</pubDate>
             <content:encoded><![CDATA[40대 초반이었던 동성 파트너의 투병 생활을 함께하며, 알고 싶지 않았던 것들이, 깨닫고 싶지 않았던 것들이 나에게 차곡차곡 쌓였다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022061001581267.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선별검사소 간호사 “우리 모두 역사의 현장에 있었다”]]></title>
-            <link>https://ildaro.com/9365</link>
-            <guid>https://ildaro.com/9365</guid>
-            <pubDate>Wed, 08 Jun 2022 08:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[“저기 선생님 이거 하나 드리면 안 될까?”라며 탑골공원 무료 급식으로 받아온 음식을 나눠주려는 할아버지도 있었다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022060853101488.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
