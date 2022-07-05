@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 05:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 06:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[6070 언니들이 말한다, 오늘이 근육 만들기 딱 좋은 날이라고 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202207051409001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202207051409001</guid>
+            <pubDate>Tue, 05 Jul 2022 05:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[근육 감소가 자연스러운 노화 현상이라고 받아들이는 시대는 지났다. 2017년 세계보건기구(WHO)는 ‘근감소증(Sarcopenia)’을 정식 질병 코드로 등재했다. 근감소는 비만, 당뇨, 고혈압, 골다공증과 같은 만성 질환과 인지기능 저하, 뇌졸중, 치매까지 다양한 질환 발생의 주요 요인이 된다는 연구 결과도 잇따르고 있다. 젊을 때도 하지 않던 운동, 중년이 돼서 할 수 있을까? 섣불리 했다가 관절이나 허리만 다치는 게 아닐까? 50대 늦은 나이에 운동을 시작해 활력 넘치...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/05/l_2022070501000356000028021.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“임신경험 여성 6명 중 1명은 임신중단 경험" 보사연 실태조사 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202207051023001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202207051023001</guid>
@@ -182,14 +190,6 @@
             <pubDate>Wed, 29 Jun 2022 03:44:54 GMT</pubDate>
             <content:encoded><![CDATA[최근 포스코 포항제철소에 다니던 여성 직원이 3년간 상사 4명에게 성폭력을 당했다며 고소해 경찰이 수사에 나선 가운데, 민주노총 금속노조 포스코지회(노조)는 이 회사 특유의 ‘군대식 조직문화’가 조직 내 성 문제를 키우고 있다고 주장했다. 부서 내 모든 문제를 직책 보임자에게 책임을 묻는 연좌제 문화로 인해 상급자는 징계를 피하고자 사건을 무마하거나 축소하기에 급급하다는 것이다.28일 경향신문 취재를 종합하면, 지난해 포항제철소에서 50대 후반 직원 A씨가...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/06/29/l_2022062801003143300293851.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“생리주기 앱 지우자” 임신중단권 폐지에 퍼지는 공포 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202206281523001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202206281523001</guid>
-            <pubDate>Tue, 28 Jun 2022 07:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[미 연방대법원이 반세기 가까이 유지돼온 임신중단권 보장 판례를 뒤집으면서 미국 여성들 사이에선 공포가 빠르게 퍼져나가고 있다.여성의 임신중단 권리를 인정한 ‘로 대 웨이드’ 판례가 폐기된 24일(현지시간) 미국 트위터에는 “생리주기를 알려주는 애플리케이션(앱)을 당장 지우라”는 글이 잇따라 올라왔다. 사회관계망서비스(SNS), 포털사이트 검색, 전자상거래 등을 통해 웹상에 흔적을 남기는 것이 일상이 된 사회에선 생리주기 관리 앱에 기록한 데이터가 이들을 임신...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/06/28/l_2022062801003091800290973.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['여자라서' 조국에서 박해 당했다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
