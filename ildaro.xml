@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 11:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 12:27:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Poor Women as an Endless Resource…The Ecosystem of the Camptown]]></title>
+            <link>https://ildaro.com/9386</link>
+            <guid>https://ildaro.com/9386</guid>
+            <pubDate>Tue, 05 Jul 2022 12:27:03 GMT</pubDate>
+            <content:encoded><![CDATA[R&amp;R, the abbreviation for Rest &amp; Recreation, refers to the industries created for the health and well-being of U.S. soldiers in areas where the U.S....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022070505192961.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘언니’가 허락한 페미니즘을 넘어]]></title>
             <link>https://ildaro.com/9385</link>
@@ -157,14 +165,6 @@
             <pubDate>Sat, 11 Jun 2022 10:14:35 GMT</pubDate>
             <content:encoded><![CDATA[성폭력 피해자에 대한 의심과 비난 떄문에 피해자는 침묵하게 되고, 다시 성폭력 근절을 방해하는 악순환의 구조가 있다. 이 구조를 이용하는 것이 무고죄 역고소다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022061134116310.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예상치 못했던 파트너 돌봄이 나에게 왔다]]></title>
-            <link>https://ildaro.com/9366</link>
-            <guid>https://ildaro.com/9366</guid>
-            <pubDate>Fri, 10 Jun 2022 08:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[40대 초반이었던 동성 파트너의 투병 생활을 함께하며, 알고 싶지 않았던 것들이, 깨닫고 싶지 않았던 것들이 나에게 차곡차곡 쌓였다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022061001581267.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
