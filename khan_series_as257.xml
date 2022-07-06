@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 05:28:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 06:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“페미니즘 지지에 동의한다”는 2030 남성비율, 단 5.5%]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202207061459011</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202207061459011</guid>
+            <pubDate>Wed, 06 Jul 2022 06:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령의 대선 공약 가운데 가장 논란이 된 그것, 바로 ‘여성가족부 폐지’다. 소위 MZ세대(1980~2000년대 초 출생)가 제기한 공정 논란과 능력주의 주장은 문재인 정부 때 비정규직의 정규직 전환과 같은 노동정책을 기점으로 시작됐는데 대선을 거치며 이대남의 표심 잡기, 젠더갈등으로 그 초점이 옮겨졌다. 정치권의 젠더갈등론은 성별에 따른 갈라치기라는 비판을 받지만 어찌됐든 성평등 정책은 중대 기로에 놓여있다. 김현숙 여가부 장관은 여가부 폐지 방침이 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/06/l_2022070601000465600037444.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성폭행으로 임신한 10세 피해자도 '수술 거부'… 미국이 들끓었다]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202207061048001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 30 Jun 2022 03:38:27 GMT</pubDate>
             <content:encoded><![CDATA[버스에서 빈 쇼핑백에 맞아 죽은 남자의 얼굴을 잊지 못하고 자꾸만 떠올리는 여자, 스토커 때문에 일가족을 잃은 여자의 집에서 밤마다 흔들리는 거울, 자신을 미워하고 학대했던 어머니에게서 벗어나지 못하는 딸에게 커튼 뒤로 보이는 발….이종산의 신작 소설집 &lt;빈 쇼핑백에 들어 있는 것&gt;(은행나무)은 공포 소설이면서도 공포 소설이 아니다. 일상 속에서 여성과 소수자가 느끼는 불안과 공포를 그려냈으며, 그 공포가 매우 현실적이기 때문이다. 사회문제와 직결...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/06/30/l_2022063001003290600311541.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쓰다듬는 팔 뿌리쳤다고 집단폭행… 중국 여성들의 들끓는 분노]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202206291409001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202206291409001</guid>
-            <pubDate>Wed, 29 Jun 2022 06:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[중국 허베이(河北)성 탕산(唐山)시의 한 고깃집에서 여성을 대상으로 발생한 집단폭행 사건의 후폭풍이 중국 사회에서 일파만파 퍼져나가고 있다.중국 공산당 중앙위원회는 23일 탕산시의 ‘전국문명도시’ 자격을 박탈했다고 인민일보 산하 매체 성시보(城市報)가 보도했다. 문명도시는 해마다 경제력, 치안, 문화 등을 종합평가해 지정된다. 2000개가량의 중국 도시 가운데 133곳이 문명도시로 지정돼 있다. 중국 전역을 들끓게 한 탕산 고깃집 집단폭행 사건의 책임을 물은 조치이...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/06/29/l_2022062401002777500261572.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
