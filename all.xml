@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 22:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 23:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,6 +192,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/06/30/l_2022063001003290600311541.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[임신중지가 '여성 건강권'이라고? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/917</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/917</guid>
+            <pubDate>Wed, 06 Jul 2022 23:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 6월 24일. 전 세계가 경악했습니다. 미국 연방대법원이 여성의 임신중지를 헌법적 권리로 보장한 '로 대 웨이드' 판례를 뒤집은 날입니다. 놀랍지만, 놀랍지 않은 뉴스였습니다. 지난 5월, 이미 이 같은 내용의 연방대법원 의견서 초안이 유출된 바 있기 때문이죠. 게다가 연방대법관은 종신으로 복무하는데, 트럼프 정부가 3명을 임명하면서 전체 6대 3의 보수 우위 지형이 구축된 터라 사실 이 같은 결론은 불 보듯 뻔한 상황이었습니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/c3089590-6e16-464d-b3d4-685dd16b6a0a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['여자라서' 조국에서 박해 당했다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/892</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/892</guid>
@@ -262,14 +270,6 @@
             <pubDate>Wed, 08 Jun 2022 04:29:27 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 조금 다른 관점의 뉴스레터를 준비했어요. 대선이 한 달도 채 남지 않은 상황에서, 정치 경제 등 다뤄야 하는 묵직한 주제가 산적해 있지만, 일상의 중요한 축인 문화 영역도 소홀해서는 안 된다는 생각이 들었어요. 특히 요즘 많은 사회 현상이, 여성들을 전면에 내세운 TV 프로그램 등으로 인해 견인된다는 점을 생각하면 말이에요. '더 이상 납작하게 그려지지 않는 화면 속 여성 캐릭터'라는 주제로 오늘 뉴스레터를 준비했어요.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/0b23a280-88a0-4376-aad5-6b904241773b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['사이버 렉카'에 끌려 다니는 한국 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/676</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/676</guid>
-            <pubDate>Wed, 08 Jun 2022 04:29:27 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 한 여성의 죽음을 애도하며 뉴스레터를 시작하려고 합니다. 최근 인터넷방송 BJ 잼미(본명 조장미·27)가 스스로 목숨을 끊은 사실이 알려졌습니다. 많은 분들이 안타까움과 동시에 분노를 느낄 수밖에 없었습니다. 그간 이 여성은 온라인 세상의 집단 괴롭힘, 즉 사이버불링 십자포화를 견디고 있었기 때문이죠. 그의 죽음은, 여성 혐오 문화가 자행한 사회적 살인입니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/bcbe0155-4ba5-49fb-b895-2c0e27d0145b.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[너에게 가는 길, 나에게 오는 길 (일다 ─ 전체기사)]]></title>
