@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 06:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 07:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너에게 가는 길, 나에게 오는 길]]></title>
+            <link>https://ildaro.com/9387</link>
+            <guid>https://ildaro.com/9387</guid>
+            <pubDate>Wed, 06 Jul 2022 07:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[성소수자 인권운동을 하면서 몇 년간 부모모임 활동을 볼 때마다 들었던 감정은 ‘서운함’이었다. ‘나의 커밍아웃을 받아들지 못하는’ 부모에 대한 서운함....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022070630584966.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Poor Women as an Endless Resource…The Ecosystem of the Camptown]]></title>
             <link>https://ildaro.com/9386</link>
@@ -157,14 +165,6 @@
             <pubDate>Sun, 12 Jun 2022 11:12:38 GMT</pubDate>
             <content:encoded><![CDATA[But as I wrote above, I don’t want to live a live where making a living itself is the only goal....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022061254016924.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강간죄와 무고죄의 관계, 문제는 ‘최협의설’이다]]></title>
-            <link>https://ildaro.com/9367</link>
-            <guid>https://ildaro.com/9367</guid>
-            <pubDate>Sat, 11 Jun 2022 10:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[성폭력 피해자에 대한 의심과 비난 떄문에 피해자는 침묵하게 되고, 다시 성폭력 근절을 방해하는 악순환의 구조가 있다. 이 구조를 이용하는 것이 무고죄 역고소다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022061134116310.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

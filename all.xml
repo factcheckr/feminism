@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 06:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 07:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -115,7 +115,7 @@
             <title><![CDATA[“페미니즘 지지에 동의한다”는 2030 남성비율, 단 5.5% (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202207061459011</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202207061459011</guid>
-            <pubDate>Wed, 06 Jul 2022 06:17:08 GMT</pubDate>
+            <pubDate>Wed, 06 Jul 2022 06:16:25 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 대통령의 대선 공약 가운데 가장 논란이 된 그것, 바로 ‘여성가족부 폐지’다. 소위 MZ세대(1980~2000년대 초 출생)가 제기한 공정 논란과 능력주의 주장은 문재인 정부 때 비정규직의 정규직 전환과 같은 노동정책을 기점으로 시작됐는데 대선을 거치며 이대남의 표심 잡기, 젠더갈등으로 그 초점이 옮겨졌다. 정치권의 젠더갈등론은 성별에 따른 갈라치기라는 비판을 받지만 어찌됐든 성평등 정책은 중대 기로에 놓여있다. 김현숙 여가부 장관은 여가부 폐지 방침이 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/06/l_2022070601000465600037444.jpg" length="0" type="image/jpg"/>
         </item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/bcbe0155-4ba5-49fb-b895-2c0e27d0145b.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[너에게 가는 길, 나에게 오는 길 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9387</link>
+            <guid>https://ildaro.com/9387</guid>
+            <pubDate>Wed, 06 Jul 2022 07:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[성소수자 인권운동을 하면서 몇 년간 부모모임 활동을 볼 때마다 들었던 감정은 ‘서운함’이었다. ‘나의 커밍아웃을 받아들지 못하는’ 부모에 대한 서운함....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022070630584966.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Poor Women as an Endless Resource…The Ecosystem of the Camptown (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9386</link>
             <guid>https://ildaro.com/9386</guid>
@@ -421,14 +429,6 @@
             <pubDate>Sun, 12 Jun 2022 11:12:38 GMT</pubDate>
             <content:encoded><![CDATA[But as I wrote above, I don’t want to live a live where making a living itself is the only goal....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022061254016924.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강간죄와 무고죄의 관계, 문제는 ‘최협의설’이다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9367</link>
-            <guid>https://ildaro.com/9367</guid>
-            <pubDate>Sat, 11 Jun 2022 10:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[성폭력 피해자에 대한 의심과 비난 떄문에 피해자는 침묵하게 되고, 다시 성폭력 근절을 방해하는 악순환의 구조가 있다. 이 구조를 이용하는 것이 무고죄 역고소다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022061134116310.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
