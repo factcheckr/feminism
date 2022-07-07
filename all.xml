@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 05:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 06:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[총과 칼, 폭력 속에서 자란 소녀는 살기 위해 자신의 몸을 죽여야 했다 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202207071454001</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202207071454001</guid>
+            <pubDate>Thu, 07 Jul 2022 06:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[노 본스애나 번스｜홍한별 옮김｜창비｜472쪽｜1만7000원 2018년 &lt;밀크맨&gt;으로 맨부커상(현 부커상)을 수상한 아일랜드 출신 소설가 애나 번스의 데뷔작이다. &lt;밀크맨&gt;의 부커상 수상은 당시 커다란 화제가 됐다. 성폭력 고발 운동인 ‘미투’로 스웨덴 한림원이 파문에 휩싸이면서 노벨 문학상 수상자를 발표하지 못한 해였다. 맨부커상은 보란 듯이 애나 번스의 &lt;밀크맨&gt;을 수상작으로 발표하며 “ ‘#Me Too’와 관련된 논의들에 깊고 섬세하며 도전적인 화두...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/07/l_2022070401000303600023691.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[헤드라인 속의 ‘OO녀’]뉴스에도 세상에도 노처녀는 없다 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202207070836001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202207070836001</guid>
@@ -182,14 +190,6 @@
             <pubDate>Fri, 01 Jul 2022 08:17:25 GMT</pubDate>
             <content:encoded><![CDATA[“안녕하세요. 은혜 왔어요~” “대배우님 오셨네!”정은혜씨가 지난달 20일 경기 양평군 ‘권리중심 중증장애인 맞춤형 공공일자리 일터’ 사무실에 도착하자 사무실이 떠들썩해진다. 함께 그림을 그리는 장애인 동료들, 어머니 장차현실씨, 보조강사들이 그를 반긴다. 정씨와 11명의 발달장애인 동료들이 이곳에서 함께 그림을 그린다. 정해진 시간에 그림을 그리고 월급을 받는 직장이다. 정씨 자리는 가장 안쪽에 있다. 아크릴 물감과 붓, 연필로 책상이 빼곡하다. 좋아하는 노...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/01/l_2022063001003342600318371.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5년간 우울증·불안장애 20대 환자, 여성이 남성보다 2배 많았다 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202206301436001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202206301436001</guid>
-            <pubDate>Thu, 30 Jun 2022 06:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[최근 5년간 우울증·불안장애를 겪은 20대 환자가 모든 연령대 중 가장 크게 늘어난 것으로 나타났다. 지난해 기준 여성이 남성보다 우울증·불안장애가 2배 가까이 더 많았다.24일 건강보험심사평가원(심평원)이 발표한 2017~2021년 우울증·불안장애 진료 통계 분석 결과를 보면, 우울증 환자 수는 2017년 69만1164명 대비 2021년에 93만3481명으로 35.1%(연평균 7.8%) 증가했다. 불안장애 환자 수는 2021년 86만5108명으로 2017년 65만3694명 대비 32.3%(연평균 7.3%) 늘었다.진료비...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/06/30/l_2022063001003292200311731.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임신중지가 '여성 건강권'이라고? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
