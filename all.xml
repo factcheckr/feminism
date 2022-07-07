@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 23:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 01:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노처녀가 사라졌다 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202207070836001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202207070836001</guid>
+            <pubDate>Thu, 07 Jul 2022 01:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[마리아 그라치아 치우리(58)는 프랑스 명품 브랜드 크리스찬 디올의 수석 디자이너다. 그는 ‘디올 70년 역사의 첫 여성 디렉터’이자 세계적으로 인정받는 디자이너이며, 2017년 데뷔 무대에서 ‘우리는 모두 페미니스트가 돼야 한다(We should all be feminists)’는 메시지를 던진 페미니스트이기도 하다. 그런 그를 한국의 언론은 다음과 같이 묘사했다.‘디올’ 패션쇼에 등장한 이화여대 ‘과잠’…금발女는 왜 이대 과잠을 입었나디올 패션쇼 등장한 ‘이대 과잠’…금발의 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/07/07/news-p.v1.20220705.1a195b629e0a4045ba2c6a84c16cf7a9_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“페미니즘 지지에 동의한다”는 2030 남성비율, 단 5.5% (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202207061459011</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 30 Jun 2022 06:16:10 GMT</pubDate>
             <content:encoded><![CDATA[최근 5년간 우울증·불안장애를 겪은 20대 환자가 모든 연령대 중 가장 크게 늘어난 것으로 나타났다. 지난해 기준 여성이 남성보다 우울증·불안장애가 2배 가까이 더 많았다.24일 건강보험심사평가원(심평원)이 발표한 2017~2021년 우울증·불안장애 진료 통계 분석 결과를 보면, 우울증 환자 수는 2017년 69만1164명 대비 2021년에 93만3481명으로 35.1%(연평균 7.8%) 증가했다. 불안장애 환자 수는 2021년 86만5108명으로 2017년 65만3694명 대비 32.3%(연평균 7.3%) 늘었다.진료비...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/06/30/l_2022063001003292200311731.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['빈 쇼핑백에 맞고 있는' 여성들의 공포로 빚은 서늘함… 소설가 이종산의 신작 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202206301035011</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202206301035011</guid>
-            <pubDate>Thu, 30 Jun 2022 03:37:43 GMT</pubDate>
-            <content:encoded><![CDATA[버스에서 빈 쇼핑백에 맞아 죽은 남자의 얼굴을 잊지 못하고 자꾸만 떠올리는 여자, 스토커 때문에 일가족을 잃은 여자의 집에서 밤마다 흔들리는 거울, 자신을 미워하고 학대했던 어머니에게서 벗어나지 못하는 딸에게 커튼 뒤로 보이는 발….이종산의 신작 소설집 &lt;빈 쇼핑백에 들어 있는 것&gt;(은행나무)은 공포 소설이면서도 공포 소설이 아니다. 일상 속에서 여성과 소수자가 느끼는 불안과 공포를 그려냈으며, 그 공포가 매우 현실적이기 때문이다. 사회문제와 직결...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/06/30/l_2022063001003290600311541.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
