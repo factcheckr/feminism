@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 01:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 03:41:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부동산이 아니라, 숫자 너머의 ‘집’을 보는 방법]]></title>
+            <link>https://ildaro.com/9388</link>
+            <guid>https://ildaro.com/9388</guid>
+            <pubDate>Fri, 08 Jul 2022 10:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[동네 골목길을 보면, 그냥 길이 아니라 시간이 만든 흔적들로 가득해요. 이런 길을 싹 밀고 아파트를 세워버리는 것은 특정 브랜드, 특정 스타일로 삶의 취향을 정해...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022070852497664.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[너에게 가는 길, 나에게 오는 길]]></title>
             <link>https://ildaro.com/9387</link>
@@ -157,14 +165,6 @@
             <pubDate>Mon, 13 Jun 2022 10:22:00 GMT</pubDate>
             <content:encoded><![CDATA[여성 빨치산에서부터 현재에 이르기까지 ‘나’로 살 수 없는, ‘몸’에 속하지 않는, ‘사랑’이라 부를 수 없는, ‘가족’이 될 수 없는 사람들의 이야기를 폭넓게 ...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022061329009736.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Even Though I’m Not Granted the Good Fortune of Making a Living out of Writing]]></title>
-            <link>https://ildaro.com/9368</link>
-            <guid>https://ildaro.com/9368</guid>
-            <pubDate>Sun, 12 Jun 2022 11:12:38 GMT</pubDate>
-            <content:encoded><![CDATA[But as I wrote above, I don’t want to live a live where making a living itself is the only goal....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022061254016924.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
