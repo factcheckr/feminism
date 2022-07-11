@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 05:24:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 06:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비혼 친구들과 ‘돌봄의 관계망’ 만들기]]></title>
+            <link>https://ildaro.com/9390</link>
+            <guid>https://ildaro.com/9390</guid>
+            <pubDate>Mon, 11 Jul 2022 06:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[병원 생활을 시작한 후, 주변의 친구들이 삼삼오오 모여 소통하고 개인적으로도 연락을 주어 돌봄을 자처했다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022071148325187.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[출신국, 혈통을 떠나 ‘공생의 감각’ 가진 사회를 꿈꾸다]]></title>
             <link>https://ildaro.com/9389</link>
@@ -157,14 +165,6 @@
             <pubDate>Thu, 16 Jun 2022 10:08:00 GMT</pubDate>
             <content:encoded><![CDATA[노무라 하나코 씨는 1974년, 아무 설명도 듣지 못한 채 임신 9개월 차에 제왕절개 수술을 받았다. 태어난 아이는 ‘사망했다’고 통보를 받았다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022061617528317.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청주 청년 여성 7인이 띄운 ‘페미니즘 정치’]]></title>
-            <link>https://ildaro.com/9370</link>
-            <guid>https://ildaro.com/9370</guid>
-            <pubDate>Tue, 14 Jun 2022 10:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[지금이 아니면 안 될 것 같았다. 함께하자고 먼저 손을 내밀어준 동료들이 있을 때 기꺼이 그 손을 잡고 이 사회에 페미니즘 정치를 외치고 싶었다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022061416487722.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
