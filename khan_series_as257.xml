@@ -4,15 +4,24 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 10:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 11:24:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['디지털 성범죄 게시물' 신고해도 70%는 '조치 없음']]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202207121426001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202207121426001</guid>
+            <pubDate>Tue, 12 Jul 2022 11:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 성착취물 유통을 방지하기 위해 ‘n번방 방지법’(전기통신사업법 및 정보통신망법 개정안)이 도입됐지만, 사회관계망서비스(SNS) 등 온라인 플랫폼에 올라온 디지털 성범죄 게시물 10건 중 7건은 신고 후에도 삭제 등 조치가 이뤄지지 않는 것으로 나타났다. 디지털 성범죄 게시물로 신고했을 때도 하루 이내에 처리되는 경우는 10건 중 2건에 불과했다.서울시는 국내외 35개 온라인 플랫폼을 대상으로 디지털 성범죄 게시물 신고시스템을 모니터링한 결과 이같이 나타났...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/12/l_2022071101000875400070351.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“여자는 수출품이었기에 화가 난다”… 덴마크로 입양된 한국계 시인의 '화']]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202207121029001</link>
             <guid>https://www.khan.co.kr/culture/culture-general/article/202207121029001</guid>
             <pubDate>Tue, 12 Jul 2022 04:57:44 GMT</pubDate>
             <content:encoded><![CDATA[훈 에르 브르드(Hun er vred).낯선 덴마크어가 리듬을 타고 흐른다. ‘앵거(Anger·화)’라는 영어를 인용한 단어만 간신히 알아들을 수 있다. 덴마크어는 아주 멀고 낯설다.하지만 덴마크어로 그가 읊고 있는 내용은 강력하다. 한국과 떼려야 뗄 수 없다. 한국 현대사가, 사회 제도와 문화가 낳은 모순과 문제점이 낯선 언어를 통해 파도처럼 덮쳐온다. 낯선 덴마크어가 한국어로 번역됐을 때, 쏟아지는 강력한 언어를 절대 외면할 수 없다. “Hun er verd”는 “여자는 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/12/l_2022071201000948600077131.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대법 "육아휴직 복귀 후 '더 낮은 직급' 발령은 부당 인사"]]></title>
@@ -77,14 +86,6 @@
             <pubDate>Wed, 06 Jul 2022 06:17:08 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 대통령의 대선 공약 가운데 가장 논란이 된 그것, 바로 ‘여성가족부 폐지’다. 소위 MZ세대(1980~2000년대 초 출생)가 제기한 공정 논란과 능력주의 주장은 문재인 정부 때 비정규직의 정규직 전환과 같은 노동정책을 기점으로 시작됐는데 대선을 거치며 이대남의 표심 잡기, 젠더갈등으로 그 초점이 옮겨졌다. 정치권의 젠더갈등론은 성별에 따른 갈라치기라는 비판을 받지만 어찌됐든 성평등 정책은 중대 기로에 놓여있다. 김현숙 여가부 장관은 여가부 폐지 방침이 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/06/l_2022070601000465600037444.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성폭행으로 임신한 10세 피해자도 '수술 거부'… 미국이 들끓었다]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202207061048001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202207061048001</guid>
-            <pubDate>Wed, 06 Jul 2022 03:46:03 GMT</pubDate>
-            <content:encoded><![CDATA[미국 연방대법원의 임신중단권 폐기 결정으로 여론이 들끓고 있는 가운데 성폭행을 당한 10세 피해자가 거주하던 지역에서 임신중단 수술을 받지 못한 사연이 알려지며 논란이 확산하고 있다.가디언, CNN 등은 3일(현지시간) 미국 오하이오주에서 성폭행으로 인한 임신으로 임신중단 수술을 준비하던 10세 피해자가 연방대법원의 임신중단권 폐기 판결 이후 급히 인디애나주로 이동해 수술을 받아야 했다고 보도했다.지난 27일 인디애나주의 산부인과 의사인 케이티 버나드는 오...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/06/l_2022070601000468200037683.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
