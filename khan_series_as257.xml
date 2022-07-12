@@ -4,9 +4,16 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 03:58:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 04:58:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“여자는 수출품이었기에 화가 난다”… 덴마크로 입양된 한국계 시인의 '화']]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202207121029001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202207121029001</guid>
+            <pubDate>Tue, 12 Jul 2022 04:57:44 GMT</pubDate>
+            <content:encoded><![CDATA[훈 에르 브르드(Hun er vred).낯선 덴마크어가 리듬을 타고 흐른다. ‘앵거(Anger·화)’라는 영어를 인용한 단어만 간신히 알아들을 수 있다. 덴마크어는 아주 멀고 낯설다.하지만 덴마크어로 그가 읊고 있는 내용은 강력하다. 한국과 떼려야 뗄 수 없다. 한국 현대사가, 사회 제도와 문화가 낳은 모순과 문제점이 낯선 언어를 통해 파도처럼 덮쳐온다. 낯선 덴마크어가 한국어로 번역됐을 때, 쏟아지는 강력한 언어를 절대 외면할 수 없다. “Hun er verd”는 “여자는 ...]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[대법 "육아휴직 복귀 후 '더 낮은 직급' 발령은 부당 인사"]]></title>
             <link>https://www.khan.co.kr/national/court-law/article/202207111454011</link>
@@ -78,14 +85,6 @@
             <pubDate>Wed, 06 Jul 2022 03:46:03 GMT</pubDate>
             <content:encoded><![CDATA[미국 연방대법원의 임신중단권 폐기 결정으로 여론이 들끓고 있는 가운데 성폭행을 당한 10세 피해자가 거주하던 지역에서 임신중단 수술을 받지 못한 사연이 알려지며 논란이 확산하고 있다.가디언, CNN 등은 3일(현지시간) 미국 오하이오주에서 성폭행으로 인한 임신으로 임신중단 수술을 준비하던 10세 피해자가 연방대법원의 임신중단권 폐기 판결 이후 급히 인디애나주로 이동해 수술을 받아야 했다고 보도했다.지난 27일 인디애나주의 산부인과 의사인 케이티 버나드는 오...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/06/l_2022070601000468200037683.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6070 언니들이 말한다, 오늘이 근육 만들기 딱 좋은 날이라고]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202207051409001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202207051409001</guid>
-            <pubDate>Tue, 05 Jul 2022 06:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[근육 감소가 자연스러운 노화 현상이라고 받아들이는 시대는 지났다. 2017년 세계보건기구(WHO)는 ‘근감소증(Sarcopenia)’을 정식 질병 코드로 등재했다. 근감소는 비만, 당뇨, 고혈압, 골다공증과 같은 만성 질환과 인지기능 저하, 뇌졸중, 치매까지 다양한 질환 발생의 주요 요인이 된다는 연구 결과도 잇따르고 있다. 젊을 때도 하지 않던 운동, 중년이 돼서 할 수 있을까? 섣불리 했다가 관절이나 허리만 다치는 게 아닐까? 50대 늦은 나이에 운동을 시작해 활력 넘치...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/05/l_2022070501000356000028021.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
