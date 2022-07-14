@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 10:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 11:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성소수자 여군 성폭력 범죄에 오락가락 판결 논란]]></title>
+            <link>https://ildaro.com/9392</link>
+            <guid>https://ildaro.com/9392</guid>
+            <pubDate>Thu, 14 Jul 2022 11:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[가해자들은 피해자에게 “남자랑 관계를 안 해봐서 그런 것이다. 남자 경험을 알려준다.”면서 피해자의 취약성을 이용했다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022071414052091.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정든 고향, 스위트홈? ‘가부장적 장소’를 떠난 여성 청년들]]></title>
             <link>https://ildaro.com/9391</link>
@@ -157,14 +165,6 @@
             <pubDate>Sun, 19 Jun 2022 06:16:21 GMT</pubDate>
             <content:encoded><![CDATA[내가 세상을 다 바꿀 순 없어도 ‘낯선 사람들을 환대하고 누구도 차별 받지 않는 도시는 만들 수 있지 않을까?’ 싶더라고요...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022061900532763.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초여름 밤을 걷고 또 걸었던 우리]]></title>
-            <link>https://ildaro.com/9372</link>
-            <guid>https://ildaro.com/9372</guid>
-            <pubDate>Fri, 17 Jun 2022 08:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[해마다 이맘때가 되면, 밤새도록 걷고 싶다는 충동이 강하게 인다. 낮의 더위가 사그라들고, 온통 차고 푸른 공기가 가득한 초여름 밤...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022061751538465.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
