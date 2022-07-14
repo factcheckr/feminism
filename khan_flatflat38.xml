@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 05:29:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 06:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다이어트 강박 사회, '어깨 위의 원숭이'를 떨쳐내기]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202207141445001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202207141445001</guid>
+            <pubDate>Thu, 14 Jul 2022 06:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[조지 R R 마틴 걸작선 꿈의 노래 2 : 하이브리드와 호러조지 R R 마틴 지음·김상훈 옮김 | 은행나무 | 592쪽 | 1만6500원 주말 저녁에 채널을 돌리는데 &lt;빼고파&gt; 재방송이 나왔다. &lt;빼고파&gt;는 13년차 ‘유지어터’ 김신영이 MC이자 조력자 역할을 하고, 여러 여성 방송인들이 각자의 이유로 나와 체중 감량에 도전하는 KBS 2TV 예능 프로그램이다. 예전에 예고편을 보고 궁금했던 프로그램인데 어쩌다 보니 한 편도 보지 못해서 마침 잘됐다 싶었다. 이...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/07/14/l_2022071301001006700082151.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[교복 치마를 벗고 20년 만에 다시 만난 '자전거의 맛']]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202207141123001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 08 Jul 2022 01:10:31 GMT</pubDate>
             <content:encoded><![CDATA[20년째 한국여성민우회 미디어교육 강사로 일선 학교에서 강의를 하는 김현회(52)는 “요즘만큼 수업 진행이 어려운 적도 없었다”고 했다. 무엇이 성차별인지, 왜 여성혐오인지 툭 물으면 콕 짚는 베테랑 강사지만 요즘 자주 말문이 막힌다. 바로 ‘골칫거리 질문’ 때문이다. 이 질문은 궁금해서 하는 질문이 아니다. “선생님 페미니스트에요?”청소년 인권단체에서 활동하는 고등학생 민서연(16)과 레빗(별명·17)의 사정은 비슷하지만 좀 더 복잡하다. 언론에 등장하는 여성의 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/07/08/news-p.v1.20220706.61a4668d46f644a2b1d54b8ee2bcd531_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 언론이 여성 연예인을 쓰는 법 ①♥ ②kg ③○○맘]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202207080902001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202207080902001</guid>
-            <pubDate>Fri, 08 Jul 2022 01:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[‘사업가♥’ ㅇㅇㅇ, 애둘맘의 54kg 인증 “아침 공복 몸무게”최근 한 온라인 연예매체가 여성 연예인의 사회관계망서비스(SNS) 근황을 보도한 기사 제목은 한국 언론이 여성, 특히 여성 연예인을 대할 때 나타나는 문제점을 고스란히 보여준다. 2022년 언론에 등장하는 여성 연예인의 모습은 여전히 전형적이고 차별적이다. 여성 연예인을 다룬 기사들은 ①외모는 있지만 사람은 없고 ②하트는 있지만 사랑은 없고 ③관계는 있지만 개인은 없다. 여성 연...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/07/08/news-p.v1.20220706.8af87bd9f0b7444691ba0e1e7257d1d7_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
