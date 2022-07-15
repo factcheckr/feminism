@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 06:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 07:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['휠꾸'하며 알게 됐다, 휠체어가 사실 멋진 물건이라는걸]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202207151459001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202207151459001</guid>
+            <pubDate>Fri, 15 Jul 2022 07:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[“휠체어 타고 굴러다니니까, ‘구르님’이죠. 저를 응원해주는 구독자들은 같이 데굴데굴 구른다는 의미에서 ‘데굴단’이고요.” ‘휠체어 위의 유튜버’, 김지우 작가(21)가 &lt;하고 싶은 말이 많고요, 구릅니다&gt;(휴머니스트)를 냈다. 그는 고등학생 시절부터 시작해 6년 동안 유튜브 채널 ‘굴러라 구르님’을 운영해왔다. 그의 채널에선 ‘조선시대에 휠체어가 있었다면?’, ‘휠체어 탄 하이틴 악녀 되어보기’, ‘휠체어 타고 고양이 안는 법’ 같은 톡톡 튀는 영상을 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/15/l_2022071101000869200069901.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[징역 1년+2500만원 배상… 불법촬영 처벌수위 점점 세진다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202207151027001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 11 Jul 2022 07:14:33 GMT</pubDate>
             <content:encoded><![CDATA[지난 6월24일 미국 연방대법원의 역사적인 판결이 있었다. 바로 여성의 임신중단(낙태) 자기결정권을 보장했던 ‘로 대 웨이드’ 판례를 50년 만에 뒤집은 것이다. 이 판결은 미국뿐 아니라 전 세계를 놀라게 했으며, 현재 미국 내에서는 이 결정을 둘러싼 찬반 논란으로 거센 후폭풍이 불고 있다.그렇다면 상대적으로 여성들의 법적 권리가 낮다고 인식되는 중동과 북아프리카 여성들의 낙태자기결정권의 현실은 어떠한가? 안타깝게도 대부분의 중동, 북아프리카 지역 여성들에...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/11/l_2022070801000753500059971.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘사이다 복수’는 정말 성폭력 피해자를 위한 결말일까]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202207081344001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202207081344001</guid>
-            <pubDate>Fri, 08 Jul 2022 10:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[※플랫팀이 새로운 시선과 시도로 완성된 콘텐츠를 ‘플랫pick’으로 추천합니다. 여성의 시각으로 세상을 담은 영상과 서적 등을 소개합니다. 이번 ‘pick’은 성적 동의와 폭력, 연대라는 주제를 입체적으로 풀어낸 수작 &lt;아이 메이 디스트로이 유&gt;입니다.영국의 감독 겸 배우 미카엘라 코엘에게 &lt;추잉검&gt;은 잊을 수 없는 작품이다. 그는 처음 극본과 주연을 맡은 이 작품으로 영국 아카데미상(BAFTA)을 수상하며 대중에게 자신의 이름을 각인시켰다.단번에 ‘커...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/08/news-p.v1.20220707.49c746f2706241d3a5078eaf4f4d1b6d_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
