@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 03:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 04:27:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Queer Teens Want to Enjoy Pride Too!]]></title>
+            <link>https://ildaro.com/9393</link>
+            <guid>https://ildaro.com/9393</guid>
+            <pubDate>Sat, 16 Jul 2022 10:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[In a society that demands silence, Queer Culture Festivals are an integral outlet for queer citizens to express themselves in their truest, fullest form....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/202207160210149.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성소수자 여군 성폭력 범죄에 오락가락 판결 논란]]></title>
             <link>https://ildaro.com/9392</link>
@@ -157,14 +165,6 @@
             <pubDate>Mon, 20 Jun 2022 13:35:44 GMT</pubDate>
             <content:encoded><![CDATA[That first year Boitsford, a Brussels ‘nouveau riche’ district in Belgium, welcomed Korean orphans on their soil....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022062026283018.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘대화하는 용기’를 말하는 국내 첫 성소수자 구의원]]></title>
-            <link>https://ildaro.com/9373</link>
-            <guid>https://ildaro.com/9373</guid>
-            <pubDate>Sun, 19 Jun 2022 06:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[내가 세상을 다 바꿀 순 없어도 ‘낯선 사람들을 환대하고 누구도 차별 받지 않는 도시는 만들 수 있지 않을까?’ 싶더라고요...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022061900532763.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
