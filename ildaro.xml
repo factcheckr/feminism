@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 01:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 03:41:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[출입국관리소에 수용된 여성들에게도 생리용품을!]]></title>
+            <link>https://ildaro.com/9394</link>
+            <guid>https://ildaro.com/9394</guid>
+            <pubDate>Sun, 17 Jul 2022 09:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[작년 여름부터 #입국관리_피수용자에게도_생리용품을 프로젝트를 시작했다. 가장 먼저 요코하마 입국관리 시설의 면회 활동에 동석했다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/202207172805779.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Queer Teens Want to Enjoy Pride Too!]]></title>
             <link>https://ildaro.com/9393</link>
@@ -157,14 +165,6 @@
             <pubDate>Tue, 21 Jun 2022 00:22:00 GMT</pubDate>
             <content:encoded><![CDATA[내가 이 사회에서 획득해야 한다고 압박을 받았던 ‘능력’을 얻기 위해 무엇을 가장 많이 희생하고 있는지, 무엇을 가장 저평가했는지 되돌아보았다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022062129106985.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[My name is ‘Kimura Byol”.]]></title>
-            <link>https://ildaro.com/9374</link>
-            <guid>https://ildaro.com/9374</guid>
-            <pubDate>Mon, 20 Jun 2022 13:35:44 GMT</pubDate>
-            <content:encoded><![CDATA[That first year Boitsford, a Brussels ‘nouveau riche’ district in Belgium, welcomed Korean orphans on their soil....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022062026283018.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
