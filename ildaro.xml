@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 03:43:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 04:45:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박유천 성폭력 사건 피해자가 쏘아올린 작은 공]]></title>
+            <link>https://ildaro.com/9395</link>
+            <guid>https://ildaro.com/9395</guid>
+            <pubDate>Mon, 18 Jul 2022 04:45:25 GMT</pubDate>
+            <content:encoded><![CDATA[사건을 맡게 된 것은 첫 번째 고소 여성에게 실형 2년이 선고되어 법정 구속된 지 한 달이 채 지나지 않아서였다. 두 번째 고소를 했던 피해자가 무고 혐의를 받고 있는...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022071831213652.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[출입국관리소에 수용된 여성들에게도 생리용품을!]]></title>
             <link>https://ildaro.com/9394</link>
@@ -157,14 +165,6 @@
             <pubDate>Wed, 22 Jun 2022 13:35:40 GMT</pubDate>
             <content:encoded><![CDATA[“당신도 할 수 있는 차별기업 보이콧” 많은 사람들이 이 문제에 대해 알고 불매에 동참하는 것이, DHC가 더이상 차별을 하지 않도록 만드는 지름길이라고 생각했습니...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022062239576003.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[능력주의에 대한 페미니즘의 대안은?]]></title>
-            <link>https://ildaro.com/9375</link>
-            <guid>https://ildaro.com/9375</guid>
-            <pubDate>Tue, 21 Jun 2022 00:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[내가 이 사회에서 획득해야 한다고 압박을 받았던 ‘능력’을 얻기 위해 무엇을 가장 많이 희생하고 있는지, 무엇을 가장 저평가했는지 되돌아보았다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022062129106985.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
