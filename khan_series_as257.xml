@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 01:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 03:57:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인하대, '성폭행 추락사' 가해자 '퇴학' 검토]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202207191028011</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202207191028011</guid>
+            <pubDate>Tue, 19 Jul 2022 03:56:42 GMT</pubDate>
+            <content:encoded><![CDATA[인하대학교 캠퍼스 안에서 발생한 성폭행 사망 사건과 관련해 학교측이 재학생에 대해 폭력방지 교육을 확대하는 등 재발방지 대책을 마련하고 있다. 경찰은 준강간치사 혐의로 구속한 학생에 대해 추가 조사를 벌인 뒤 오는 22일쯤 검찰에 송치할 예정이다.인하대학교는 교내 성폭행 사망사고와 관련, 시설 개선은 물론 폭력방지 교육 확대와 가해 학생 퇴학 등 전반적인 대책을 마련 중에 있다고 18일 밝혔다.우선 학생증만 찍으면 누구나 24시간 출입할 수 있는 캠퍼스 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/19/l_2022071901001294500106462.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[브런치에 쓴 첫 소설이 11만부… 작가 황보름이 만든 기적]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202207181348001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 12 Jul 2022 11:22:19 GMT</pubDate>
             <content:encoded><![CDATA[디지털 성착취물 유통을 방지하기 위해 ‘n번방 방지법’(전기통신사업법 및 정보통신망법 개정안)이 도입됐지만, 사회관계망서비스(SNS) 등 온라인 플랫폼에 올라온 디지털 성범죄 게시물 10건 중 7건은 신고 후에도 삭제 등 조치가 이뤄지지 않는 것으로 나타났다. 디지털 성범죄 게시물로 신고했을 때도 하루 이내에 처리되는 경우는 10건 중 2건에 불과했다.서울시는 국내외 35개 온라인 플랫폼을 대상으로 디지털 성범죄 게시물 신고시스템을 모니터링한 결과 이같이 나타났...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/12/l_2022071101000875400070351.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“여자는 수출품이었기에 화가 난다”… 덴마크로 입양된 한국계 시인의 '화']]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202207121029001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202207121029001</guid>
-            <pubDate>Tue, 12 Jul 2022 04:57:44 GMT</pubDate>
-            <content:encoded><![CDATA[훈 에르 브르드(Hun er vred).낯선 덴마크어가 리듬을 타고 흐른다. ‘앵거(Anger·화)’라는 영어를 인용한 단어만 간신히 알아들을 수 있다. 덴마크어는 아주 멀고 낯설다.하지만 덴마크어로 그가 읊고 있는 내용은 강력하다. 한국과 떼려야 뗄 수 없다. 한국 현대사가, 사회 제도와 문화가 낳은 모순과 문제점이 낯선 언어를 통해 파도처럼 덮쳐온다. 낯선 덴마크어가 한국어로 번역됐을 때, 쏟아지는 강력한 언어를 절대 외면할 수 없다. “Hun er verd”는 “여자는 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/12/l_2022071201000948600077131.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
