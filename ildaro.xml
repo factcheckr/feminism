@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 08:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 09:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무고로 기소된 성폭력 피해자와 ‘함께’한 시간]]></title>
+            <link>https://ildaro.com/9396</link>
+            <guid>https://ildaro.com/9396</guid>
+            <pubDate>Tue, 19 Jul 2022 09:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[국민참여재판이 결정되었지만 증인을 부르는 것도 쉽지 않았다. 자기가 원하는 이해득실이 없는 이상, 수사기관이나 법정에 기껍게 출석하는 사람은 별로 없다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022071952046660.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박유천 성폭력 사건 피해자가 쏘아올린 작은 공]]></title>
             <link>https://ildaro.com/9395</link>
@@ -157,14 +165,6 @@
             <pubDate>Fri, 24 Jun 2022 08:19:38 GMT</pubDate>
             <content:encoded><![CDATA["소피아, 알아야 해, 너와 나. 이 관계에 대해 죄책감이 느껴지면 안 돼. 우리가 노력하면 할 수 있다고 생각해"...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022062410199377.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혐오와 차별 지속하는 기업 제품은 보이콧하겠다]]></title>
-            <link>https://ildaro.com/9376</link>
-            <guid>https://ildaro.com/9376</guid>
-            <pubDate>Wed, 22 Jun 2022 13:35:40 GMT</pubDate>
-            <content:encoded><![CDATA[“당신도 할 수 있는 차별기업 보이콧” 많은 사람들이 이 문제에 대해 알고 불매에 동참하는 것이, DHC가 더이상 차별을 하지 않도록 만드는 지름길이라고 생각했습니...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022062239576003.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
