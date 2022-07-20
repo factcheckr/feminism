@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 06:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 07:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성추행 피해 학생 외면하지 않은 대가… 끝나지 않는 '10년 소송전']]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202207201423001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202207201423001</guid>
+            <pubDate>Wed, 20 Jul 2022 07:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[‘교수가 상습적으로 성추행을 한다’는 학생들의 호소를 외면하지 않고 나선 것인데 이렇게 긴 시간 학교로 돌아가지 못하게 될 줄은 몰랐습니다.” 김애옥 전 전남도립대 유아교육과 교수(57)는 2013년 학생들이 특정 교수에 의한 성폭력을 호소하자 적극적으로 나섰다. 이후 대학은 김 전 교수에게 석연찮은 이유로 해임과 재임용 거부 처분을 내렸다. 김 전 교수는 지난 10년간 학교로 돌아가기 위해 교원소청위원회 소청 3번과 5번의 재판을 진행해야 했다.지난달 30일 ...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/07/20/l_2022072001001367000112091.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[누가 인하대 학생들의 ‘추모의 시간’을 방해하고 있나]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202207200600021</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 14 Jul 2022 03:48:09 GMT</pubDate>
             <content:encoded><![CDATA[열두 살 무렵 내 몸은 작고 날랬다. 담장을 넘어 다녔고, 지붕과 나무에 기어 올라갔고, 계단을 내려갈 땐 열 개씩 건너 뛰어 내려갔다. 그 무렵 자전거도 배웠다. 넘어질 것 같은 쪽으로 핸들을 꺾으면서 가라는 말을 아무리 들어도 잘 이해하지 못하다가, 야트막한 내리막길에서 살살 출발해 봤더니, 약간의 중력을 받아 어설픈 핸들 조작만으로도 넘어지지 않고 앞으로 나갈 수 있었다. 두 바퀴 위에 몸을 온전히 싣고 미끄러져 나가는 감각은 신비로웠다. 인류 문...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/07/14/l_2022071101000878100070611.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파리바게뜨에서 '임신한 여성 노동자'가 마주하는 현실]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202207131502001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202207131502001</guid>
-            <pubDate>Wed, 13 Jul 2022 06:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[계획 없다더니, 갑자기 임신하면 어떻게 해!”  파리바게뜨에서 일하는 여성노동자 A씨는 중간관리자(BMC)에게 임신 사실을 알리자 이런 말을 들었다. 법대로 임신기 노동시간 6시간 단축을 요구하자 BMC는 “우리 지역에는 아무도 안 쓴다”며 휴직을 종용했다. ‘매장 3곳의 지원 근무를 하라’는 연락도 받았다. A씨는 “지금은 다른 매장으로 (근무지를) 바꿔 (노동시간 단축 등을) 모두 보장받지만 당시에는 휴직을 강요하는 분위기였다”고 했다.파리바게뜨 여성노동자들이...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/07/13/l_2022071301001023200083381.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
