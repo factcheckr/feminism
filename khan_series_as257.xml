@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 23:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 01:05:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누가 인하대 학생들의 ‘추모의 시간’을 방해하고 있나]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202207200600021</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202207200600021</guid>
+            <pubDate>Wed, 20 Jul 2022 01:04:53 GMT</pubDate>
+            <content:encoded><![CDATA[지난 18일 인천 미추홀구 인하대학교 캠퍼스의 한 단과대학 건물 앞으로 흰색 국화를 든 학생들이 하나둘 모여들었다. 3층 창문 옆, 미처 떼지 못한 노란색 ‘폴리스라인’ 스티커만 없었다면 학생들이 웃고 떠들고 공부하는 평범한 건물이었다.지난 15일 이곳에선 학내 성폭력 사망사건이 발생했다. 이 학교 1학년 A씨(20)는 같은 학교 학생 B씨(20)에게 성폭행을 당한 뒤 이 건물 3층에서 추락해 숨졌다. 사망 소식을 접한 학생들이 건물 출입구에 조화와 간식거리, 포스...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/20/news-p.v1.20220719.1b6c4475d71f4ab091032de351d89fa7_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나는 그냥 우영우라는 '사람'에 빠져들고 싶다]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202207191543011</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 13 Jul 2022 07:13:12 GMT</pubDate>
             <content:encoded><![CDATA[계획 없다더니, 갑자기 임신하면 어떻게 해!”  파리바게뜨에서 일하는 여성노동자 A씨는 중간관리자(BMC)에게 임신 사실을 알리자 이런 말을 들었다. 법대로 임신기 노동시간 6시간 단축을 요구하자 BMC는 “우리 지역에는 아무도 안 쓴다”며 휴직을 종용했다. ‘매장 3곳의 지원 근무를 하라’는 연락도 받았다. A씨는 “지금은 다른 매장으로 (근무지를) 바꿔 (노동시간 단축 등을) 모두 보장받지만 당시에는 휴직을 강요하는 분위기였다”고 했다.파리바게뜨 여성노동자들이...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/13/l_2022071301001023200083381.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페미니스트 교사의 ‘은밀한’ 성평등 수업 이야기]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202207130900001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202207130900001</guid>
-            <pubDate>Wed, 13 Jul 2022 07:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[초등 6학년 국어교과서에는 한 여성을 사랑한 도깨비 이야기가 나온다. “가난했지만 누구보다 예쁜” 버들이가 아픈 어머니를 위해 쉽게 샘물을 뜰 수 있도록 몽당깨비는 샘물을 그의 집 근처로 옮기고, 그 죄로 1000년 동안 구덩이에 갇히는 벌을 받았다. 몽당깨비는 버들이가 자신을 속여 샘물을 독차지 했고, 집 근처에 말 피를  뿌려 도깨비가 접근할 수 없게 했다고 했다. ‘인물들이 추구하는 다양한 가치’를 이해하는 게 이 단원의 교육 목표인데, 많은 교재는...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/13/news-p.v1.20220707.c138f576facd466980a9829cb861d3c9_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
