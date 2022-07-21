@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 23:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 01:08:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이혼 선언한 엄마와 네 딸들]]></title>
+            <link>https://ildaro.com/9397</link>
+            <guid>https://ildaro.com/9397</guid>
+            <pubDate>Thu, 21 Jul 2022 09:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[보통은 딸의 ‘커밍아웃’을 주제로 하는데, 이 영화에선 엄마의 ‘이혼’이 주제죠. 또 요즘 흔치 않은 네 자매라는 설정도 재미있고요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022072157314042.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무고로 기소된 성폭력 피해자와 ‘함께’한 시간]]></title>
             <link>https://ildaro.com/9396</link>
@@ -157,14 +165,6 @@
             <pubDate>Sat, 25 Jun 2022 11:11:59 GMT</pubDate>
             <content:encoded><![CDATA[이제는 어떤 작품 속 퀴어 캐릭터를 퀴어로 정체화한, 그러니까 커밍아웃한 배우가 연기하는 걸 보는 건 그다지 드문 일이 아니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/202206253700624.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가부장적 음악시장에서, 더욱 반짝이는]]></title>
-            <link>https://ildaro.com/9377</link>
-            <guid>https://ildaro.com/9377</guid>
-            <pubDate>Fri, 24 Jun 2022 08:19:38 GMT</pubDate>
-            <content:encoded><![CDATA["소피아, 알아야 해, 너와 나. 이 관계에 대해 죄책감이 느껴지면 안 돼. 우리가 노력하면 할 수 있다고 생각해"...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022062410199377.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
