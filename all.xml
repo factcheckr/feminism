@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 01:08:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 03:39:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["여성운동의 성과가 있는 곳엔 반드시 백래시가 있다" (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202207211024001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202207211024001</guid>
+            <pubDate>Thu, 21 Jul 2022 03:37:31 GMT</pubDate>
+            <content:encoded><![CDATA[백래시(backlash·반동)의 시대다. 2016년 강남역 살인사건, 2018년 성폭력을 공론화한 ‘미투’ 운동, 2020년 실태가 드러난 성착취 ‘n번방’ 사건을 계기로 강력해진 청년세대 페미니즘 흐름이 지난 대선 국면에서부터 역풍을 맞고 있다. 정치권은 성별을 갈라치며 구조적 성차별의 존재를 부인했고, 윤석열 정부는 대선공약에 따라 여성가족부를 폐지하고 성폭력처벌법에 무고죄를 신설하겠다는 방침이다. 반여성주의 백래시의 기원은 무엇이고, 어디로 향하고 있으며, 시민사회는 ...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/07/21/l_2022071801001261900103541.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성추행 피해 학생 외면하지 않은 대가… 끝나지 않는 '10년 소송전' (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202207201423001</link>
@@ -80,14 +88,6 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/07/14/l_2022071301001006700082151.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[교복 치마를 벗고 20년 만에 다시 만난 '자전거의 맛' (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202207141123001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202207141123001</guid>
-            <pubDate>Thu, 14 Jul 2022 03:48:09 GMT</pubDate>
-            <content:encoded><![CDATA[열두 살 무렵 내 몸은 작고 날랬다. 담장을 넘어 다녔고, 지붕과 나무에 기어 올라갔고, 계단을 내려갈 땐 열 개씩 건너 뛰어 내려갔다. 그 무렵 자전거도 배웠다. 넘어질 것 같은 쪽으로 핸들을 꺾으면서 가라는 말을 아무리 들어도 잘 이해하지 못하다가, 야트막한 내리막길에서 살살 출발해 봤더니, 약간의 중력을 받아 어설픈 핸들 조작만으로도 넘어지지 않고 앞으로 나갈 수 있었다. 두 바퀴 위에 몸을 온전히 싣고 미끄러져 나가는 감각은 신비로웠다. 인류 문...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/07/14/l_2022071101000878100070611.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
@@ -110,6 +110,14 @@
             <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022. 01. 17]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["여성운동의 성과가 있는 곳엔 반드시 백래시가 있다" (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202207211024001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202207211024001</guid>
+            <pubDate>Thu, 21 Jul 2022 03:38:17 GMT</pubDate>
+            <content:encoded><![CDATA[백래시(backlash·반동)의 시대다. 2016년 강남역 살인사건, 2018년 성폭력을 공론화한 ‘미투’ 운동, 2020년 실태가 드러난 성착취 ‘n번방’ 사건을 계기로 강력해진 청년세대 페미니즘 흐름이 지난 대선 국면에서부터 역풍을 맞고 있다. 정치권은 성별을 갈라치며 구조적 성차별의 존재를 부인했고, 윤석열 정부는 대선공약에 따라 여성가족부를 폐지하고 성폭력처벌법에 무고죄를 신설하겠다는 방침이다. 반여성주의 백래시의 기원은 무엇이고, 어디로 향하고 있으며, 시민사회는 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/21/l_2022071801001261900103541.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성추행 피해 학생 외면하지 않은 대가… 끝나지 않는 '10년 소송전' (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -182,14 +190,6 @@
             <pubDate>Thu, 14 Jul 2022 06:17:04 GMT</pubDate>
             <content:encoded><![CDATA[조지 R R 마틴 걸작선 꿈의 노래 2 : 하이브리드와 호러조지 R R 마틴 지음·김상훈 옮김 | 은행나무 | 592쪽 | 1만6500원 주말 저녁에 채널을 돌리는데 &lt;빼고파&gt; 재방송이 나왔다. &lt;빼고파&gt;는 13년차 ‘유지어터’ 김신영이 MC이자 조력자 역할을 하고, 여러 여성 방송인들이 각자의 이유로 나와 체중 감량에 도전하는 KBS 2TV 예능 프로그램이다. 예전에 예고편을 보고 궁금했던 프로그램인데 어쩌다 보니 한 편도 보지 못해서 마침 잘됐다 싶었다. 이...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/14/l_2022071301001006700082151.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[교복 치마를 벗고 20년 만에 다시 만난 '자전거의 맛' (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202207141123001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202207141123001</guid>
-            <pubDate>Thu, 14 Jul 2022 03:48:09 GMT</pubDate>
-            <content:encoded><![CDATA[열두 살 무렵 내 몸은 작고 날랬다. 담장을 넘어 다녔고, 지붕과 나무에 기어 올라갔고, 계단을 내려갈 땐 열 개씩 건너 뛰어 내려갔다. 그 무렵 자전거도 배웠다. 넘어질 것 같은 쪽으로 핸들을 꺾으면서 가라는 말을 아무리 들어도 잘 이해하지 못하다가, 야트막한 내리막길에서 살살 출발해 봤더니, 약간의 중력을 받아 어설픈 핸들 조작만으로도 넘어지지 않고 앞으로 나갈 수 있었다. 두 바퀴 위에 몸을 온전히 싣고 미끄러져 나가는 감각은 신비로웠다. 인류 문...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/14/l_2022071101000878100070611.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["미워해도 소용없어" (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
