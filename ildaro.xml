@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 04:28:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 05:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘흑인 여성 혐오’(misogynoir)로부터의 해방]]></title>
+            <link>https://ildaro.com/9398</link>
+            <guid>https://ildaro.com/9398</guid>
+            <pubDate>Sat, 23 Jul 2022 07:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[흑인 여성 해방은 기존 선입견으로부터의 해방, 실제 직면하고 있는 흑인에 대한 구조적 폭력이나 흑인 커뮤니티 내의 여성 혐오, 좋지 못한 관계로부터의 해방도 포함...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022072303539049.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이혼 선언한 엄마와 네 딸들]]></title>
             <link>https://ildaro.com/9397</link>
@@ -157,14 +165,6 @@
             <pubDate>Mon, 27 Jun 2022 09:16:22 GMT</pubDate>
             <content:encoded><![CDATA[임플라논은 피임 성공률 99%가 넘는 피임도구 중 하나다. 그런데 누구나 피임을 목적으로 임플라논 시술을 받진 않는다. 내 가장 큰 목적은 월경을 멈추는 것이었다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022062735123166.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달콤살벌한 사랑과 우정, ‘프라이드’ 가득한 영화/드라마]]></title>
-            <link>https://ildaro.com/9378</link>
-            <guid>https://ildaro.com/9378</guid>
-            <pubDate>Sat, 25 Jun 2022 11:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[이제는 어떤 작품 속 퀴어 캐릭터를 퀴어로 정체화한, 그러니까 커밍아웃한 배우가 연기하는 걸 보는 건 그다지 드문 일이 아니다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/202206253700624.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
