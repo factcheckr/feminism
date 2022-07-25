@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 05:27:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 06:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['보통의 남성성'이 만들어 낸 공포, 영화 <멘>]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202207251500001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202207251500001</guid>
+            <pubDate>Mon, 25 Jul 2022 06:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[영화 &lt;멘(Men)&gt;은 공포영화의 관습을 깬다. 주인공이 낯선 공간에 당도하는 것 정도가 유일한 클리셰다. 주인공은 금기를 깨지 않지만 재난은 닥친다. 공포에 떠는 무능력한 여성 주인공도 없다. 전형적인 공포영화라면 초자연적 존재가 점점 강해지고 주인공이 공포에 압도당하며 절정을 맞이해야겠지만, 이 영화의 절정에서 괴물은 약해지고 주인공은 침착하다. 앨릭스 갈런드 감독은 공포영화의 공식을 뒤집으면서 ‘유해한 남성성’에 대한 반성문을 써냈다.남편을 잃은...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/25/l_2022072001001400600114171.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리는 쿠팡노동자의 친구다]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202207251023001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 19 Jul 2022 03:56:42 GMT</pubDate>
             <content:encoded><![CDATA[인하대학교 캠퍼스 안에서 발생한 성폭행 사망 사건과 관련해 학교측이 재학생에 대해 폭력방지 교육을 확대하는 등 재발방지 대책을 마련하고 있다. 경찰은 준강간치사 혐의로 구속한 학생에 대해 추가 조사를 벌인 뒤 오는 22일쯤 검찰에 송치할 예정이다.인하대학교는 교내 성폭행 사망사고와 관련, 시설 개선은 물론 폭력방지 교육 확대와 가해 학생 퇴학 등 전반적인 대책을 마련 중에 있다고 18일 밝혔다.우선 학생증만 찍으면 누구나 24시간 출입할 수 있는 캠퍼스 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/19/l_2022071901001294500106462.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브런치에 쓴 첫 소설이 11만부… 작가 황보름이 만든 기적]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202207181348001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202207181348001</guid>
-            <pubDate>Mon, 18 Jul 2022 12:26:25 GMT</pubDate>
-            <content:encoded><![CDATA[첫 소설 &lt;어서 오세요, 휴남동 서점입니다&gt; 13쇄 찍은 황보름 작가 무명의 작가가 쓴 첫 소설이 5개월여 만에 13쇄를 찍었다. 1월 17일 초판 3000부가 금세 동나더니 2쇄 5000부도 빠른 속도로 판매됐다. 3쇄부터 1만부씩 찍었고, 6월 28일 13쇄가 나왔다. 지금까지 11만부가 팔려나갔다. 유명 출판사도 아니고 1인 출판사에서 펴낸 책이다. 순전히 독자의 입소문으로만 이룬 성과다.황보름 작가(42)의 장편소설 &lt;어서 오세요, 휴남동 서점입니다&gt;(클레이하우스) ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/18/l_2022071501001167100095231.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
