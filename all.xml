@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 11:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 12:28:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/9c1ff960-318d-4da5-a2dd-9b1b15b24671.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[소설 속에서 만난 기지촌 여성 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9400</link>
+            <guid>https://ildaro.com/9400</guid>
+            <pubDate>Mon, 25 Jul 2022 12:28:43 GMT</pubDate>
+            <content:encoded><![CDATA[강제로 끌고 와서 페니실린 항생제를 투약한 곳을 ‘치료감호소’라 부르는 것은 정부의 입장일 뿐, 처분당해야 하는 기지촌 여성들의 입장은 반영되지 않은 말이다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/202207252829194.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[몇 년씩 감금, 아이와 격리…이렇게까지 해야 하나? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9399</link>
             <guid>https://ildaro.com/9399</guid>
@@ -422,13 +430,6 @@
             <pubDate>Wed, 29 Jun 2022 00:19:00 GMT</pubDate>
             <content:encoded><![CDATA[영화는 그동안 우리가 흔히 ‘후지다’고 생각해왔던 것들에 대해 다시 질문한다. 당신의 생각이 진정 맞는지, 언어를 재규정하는 과정에서 사랑을 도출해낸다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022062926031211.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[We should be included into the global history of Korea (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9380</link>
-            <guid>https://ildaro.com/9380</guid>
-            <pubDate>Tue, 28 Jun 2022 09:13:30 GMT</pubDate>
-            <content:encoded><![CDATA[When Korean adoptees claim that it’s great to have two cultures, I am often surprised by how much they don’t know about Korean culture....]]></content:encoded>
         </item>
     </channel>
 </rss>
