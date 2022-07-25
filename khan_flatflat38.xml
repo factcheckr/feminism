@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 04:46:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 05:27:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리는 쿠팡노동자의 친구다]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202207251023001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202207251023001</guid>
+            <pubDate>Mon, 25 Jul 2022 05:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[덥다는 말을 예전엔 별 생각 없이 할 수 있었다. 이제는 너무 많은 얼굴이 떠오르고 만다. 뙤약볕에서 농사 지어 작물을 보내주는 외할머니. 트럭 몰고 다니며 사시사철 야외에서 일했던 아빠. 여름에 더 많이 소비되는 축산 현장의 닭들, 폭염 때문에 삶의 터전을 잃어가는 기후난민들…. 내 더위의 무게와 그들 더위의 무게는 다르다. 더위는 모두에게 공평하게 오지 않는다.그중 어떤 얼굴은 친구보다 더 자주 마주친다. 쿠팡조끼를 입은 사람들의 얼굴이다. 그들과 마...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/07/25/l_2022072201001500400123242.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정서경 "서래와 해준처럼, 관객과 영화 사이에도 둘만의 언어가 있다"]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202207221500021</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 18 Jul 2022 05:27:04 GMT</pubDate>
             <content:encoded><![CDATA[첫 소설 &lt;어서 오세요, 휴남동 서점입니다&gt; 13쇄 찍은 황보름 작가 무명의 작가가 쓴 첫 소설이 5개월여 만에 13쇄를 찍었다. 1월 17일 초판 3000부가 금세 동나더니 2쇄 5000부도 빠른 속도로 판매됐다. 3쇄부터 1만부씩 찍었고, 6월 28일 13쇄가 나왔다. 지금까지 11만부가 팔려나갔다. 유명 출판사도 아니고 1인 출판사에서 펴낸 책이다. 순전히 독자의 입소문으로만 이룬 성과다.황보름 작가(42)의 장편소설 &lt;어서 오세요, 휴남동 서점입니다&gt;(클레이하우스) ...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/07/18/l_2022071501001167100095231.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인하대생 사망사건, 망인의 존엄 해치는 이들도 가해자다]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202207181051001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202207181051001</guid>
-            <pubDate>Mon, 18 Jul 2022 03:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[인하대생 사망사건 가해자가 준강간치사 혐의로 구속됐다. 피의자인 이 대학 학생 A씨는 지난 15일 오전 1시쯤 피해자 B씨를 부축해 학교 건물로 들어가는 모습이 폐쇄회로(CC)TV에 포착됐다. 이후 오전 4시쯤 바닥에 쓰러진 채 발견된 B씨는 병원으로 이송됐으나 끝내 사망했다. A씨는 B씨가 건물에서 떨어졌는데도 구조요청 없이 도주하고, B씨 옷가지 일부를 다른 곳에 버린 것으로 드러났다. 경찰은 살인 고의성과 증거인멸 여부 등을 수사 중이다.대학 캠퍼스에서 성...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/07/18/l_2022071801001244000101971.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
