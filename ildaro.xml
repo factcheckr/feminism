@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 12:27:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 13:38:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘엄마’의 우울증과 모성 이데올로기]]></title>
+            <link>https://ildaro.com/9401</link>
+            <guid>https://ildaro.com/9401</guid>
+            <pubDate>Tue, 26 Jul 2022 13:38:12 GMT</pubDate>
+            <content:encoded><![CDATA[이러고도 내가 과연 좋은 엄마가 될 수 있을지를 묻는 사람들의 글에는 본인이 이미 좋은 엄마가 되기에 실패했다는 절망이 있었다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022072640087971.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소설 속에서 만난 기지촌 여성]]></title>
             <link>https://ildaro.com/9400</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 30 Jun 2022 09:14:30 GMT</pubDate>
             <content:encoded><![CDATA[“제가 공개적으로 말했다가는, 분명 휴가를 자주 쓰고 능률이 좋지 않다고 생각하고 회사에서 부담스러워할 거 같아요.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022063058079793.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연시내가 살아있다]]></title>
-            <link>https://ildaro.com/9381</link>
-            <guid>https://ildaro.com/9381</guid>
-            <pubDate>Wed, 29 Jun 2022 00:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[영화는 그동안 우리가 흔히 ‘후지다’고 생각해왔던 것들에 대해 다시 질문한다. 당신의 생각이 진정 맞는지, 언어를 재규정하는 과정에서 사랑을 도출해낸다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022062926031211.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
