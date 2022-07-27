@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 01:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 03:49:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유기견 입양신청서의 '선량한 차별'이 불편해졌다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202207271050001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202207271050001</guid>
+            <pubDate>Wed, 27 Jul 2022 03:46:22 GMT</pubDate>
+            <content:encoded><![CDATA[최근 제주탠져린즈에 이은 2기 반려견 연습생 그룹 제주만다린즈의 MBC 라디오 생방송 스케줄로 서울에 간 일이 있었다. 강아지 아이돌답게 스위티와 포멜론은 초대석에 앉아서 유튜브로 생중계되는 방송을 천연덕스럽게 소화했다. 인간은 긴장하여 새하얗게 질려있었던 반면 두 멤버는 온에어 상황에도 ‘카메라 아이 콘택트’ ‘손’과 같은 개인기를 뽐내며 방송을 무사히 마쳤다. 뒤풀이 겸 근처에 있는 반려동물 동반 가능 술집으로 향했는데, 그곳에는 데뷔한 멤버 몇몇...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/07/27/l_2022072501001587000131491.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지지율 떨어지자 또 '여가부 폐지' 카드 꺼낸 대통령]]></title>
             <link>https://www.khan.co.kr/politics/politics-general/article/202207261403011</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 20 Jul 2022 07:12:30 GMT</pubDate>
             <content:encoded><![CDATA[‘교수가 상습적으로 성추행을 한다’는 학생들의 호소를 외면하지 않고 나선 것인데 이렇게 긴 시간 학교로 돌아가지 못하게 될 줄은 몰랐습니다.” 김애옥 전 전남도립대 유아교육과 교수(57)는 2013년 학생들이 특정 교수에 의한 성폭력을 호소하자 적극적으로 나섰다. 이후 대학은 김 전 교수에게 석연찮은 이유로 해임과 재임용 거부 처분을 내렸다. 김 전 교수는 지난 10년간 학교로 돌아가기 위해 교원소청위원회 소청 3번과 5번의 재판을 진행해야 했다.지난달 30일 ...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/07/20/l_2022072001001367000112091.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누가 인하대 학생들의 ‘추모의 시간’을 방해하고 있나]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202207200600021</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202207200600021</guid>
-            <pubDate>Tue, 19 Jul 2022 22:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[지난 18일 인천 미추홀구 인하대학교 캠퍼스의 한 단과대학 건물 앞으로 흰색 국화를 든 학생들이 하나둘 모여들었다. 3층 창문 옆, 미처 떼지 못한 노란색 ‘폴리스라인’ 스티커만 없었다면 학생들이 웃고 떠들고 공부하는 평범한 건물이었다.지난 15일 이곳에선 학내 성폭력 사망사건이 발생했다. 이 학교 1학년 A씨(20)는 같은 학교 학생 B씨(20)에게 성폭행을 당한 뒤 이 건물 3층에서 추락해 숨졌다. 사망 소식을 접한 학생들이 건물 출입구에 조화와 간식거리, 포스...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/07/20/news-p.v1.20220719.1b6c4475d71f4ab091032de351d89fa7_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
