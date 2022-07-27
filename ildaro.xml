@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 10:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 11:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["Abandonment Issues"]]></title>
+            <link>https://ildaro.com/9402</link>
+            <guid>https://ildaro.com/9402</guid>
+            <pubDate>Wed, 27 Jul 2022 11:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[Kim was adopted to Michigan, raised in south Florida, lived in Eastern and Western Europe for 8 years, followed by 7 years in Minneapolis, and then her 8 years in Seoul....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022072759459381.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘엄마’의 우울증과 모성 이데올로기]]></title>
             <link>https://ildaro.com/9401</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 02 Jul 2022 11:08:00 GMT</pubDate>
             <content:encoded><![CDATA[쓰고 싶다는 마음을 더 들여다보면 ‘이 세상에 분명 있어야 하는데 없는 이야기들이 있어서. 그 이야기가 없는 세상을 견딜 수 없어서’이기도 해요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022070219269225.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘영 케어러’들을 만나다]]></title>
-            <link>https://ildaro.com/9382</link>
-            <guid>https://ildaro.com/9382</guid>
-            <pubDate>Thu, 30 Jun 2022 09:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[“제가 공개적으로 말했다가는, 분명 휴가를 자주 쓰고 능률이 좋지 않다고 생각하고 회사에서 부담스러워할 거 같아요.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202206/2022063058079793.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
