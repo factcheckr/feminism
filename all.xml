@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 01:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 03:40:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['목격'되지 못하는 존재들 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202207281017001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202207281017001</guid>
+            <pubDate>Thu, 28 Jul 2022 03:37:26 GMT</pubDate>
+            <content:encoded><![CDATA[목격되지 않기로 결정한 사람이 있다. 목격될 때마다 폭력을 당했기 때문이다. 사랑하는 사람에게 입을 맞추려는 모습을 본 사람은 고개를 돌려 침을 뱉었다. 몰래 따라와 뒤통수를 때렸다. ‘더러운 년들’이라며 지팡이로 다리를 쳤다. 화가 났다. 하지만 그보다 무서웠다. 왜 그렇게까지 악의를 갖는 건지 알 수 없었기 때문이다. 그래서 좁아지기로 했다. 사랑하는 사람과 맘 편히 껴안을 수 있는 곳에서 숨어있기로 했다. 비밀 첩보원처럼 들키지 않기로 했다. 폐쇄적...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/07/28/l_2022072601001667800137721.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국 법원 “결혼하지 않은 여성의 '난자 냉동' 거부는 정당” (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/world/china/article/202207271351001</link>
@@ -80,14 +88,6 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/07/21/l_2022071301001006800082161.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["여성운동의 성과가 있는 곳엔 반드시 백래시가 있다" (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202207211024001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202207211024001</guid>
-            <pubDate>Thu, 21 Jul 2022 03:37:31 GMT</pubDate>
-            <content:encoded><![CDATA[백래시(backlash·반동)의 시대다. 2016년 강남역 살인사건, 2018년 성폭력을 공론화한 ‘미투’ 운동, 2020년 실태가 드러난 성착취 ‘n번방’ 사건을 계기로 강력해진 청년세대 페미니즘 흐름이 지난 대선 국면에서부터 역풍을 맞고 있다. 정치권은 성별을 갈라치며 구조적 성차별의 존재를 부인했고, 윤석열 정부는 대선공약에 따라 여성가족부를 폐지하고 성폭력처벌법에 무고죄를 신설하겠다는 방침이다. 반여성주의 백래시의 기원은 무엇이고, 어디로 향하고 있으며, 시민사회는 ...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/07/21/l_2022071801001261900103541.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
@@ -110,6 +110,14 @@
             <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022. 01. 17]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['목격'되지 못하는 존재들 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202207281017001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202207281017001</guid>
+            <pubDate>Thu, 28 Jul 2022 03:38:12 GMT</pubDate>
+            <content:encoded><![CDATA[목격되지 않기로 결정한 사람이 있다. 목격될 때마다 폭력을 당했기 때문이다. 사랑하는 사람에게 입을 맞추려는 모습을 본 사람은 고개를 돌려 침을 뱉었다. 몰래 따라와 뒤통수를 때렸다. ‘더러운 년들’이라며 지팡이로 다리를 쳤다. 화가 났다. 하지만 그보다 무서웠다. 왜 그렇게까지 악의를 갖는 건지 알 수 없었기 때문이다. 그래서 좁아지기로 했다. 사랑하는 사람과 맘 편히 껴안을 수 있는 곳에서 숨어있기로 했다. 비밀 첩보원처럼 들키지 않기로 했다. 폐쇄적...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/28/l_2022072601001667800137721.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[중국 법원 “결혼하지 않은 여성의 '난자 냉동' 거부는 정당” (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -182,14 +190,6 @@
             <pubDate>Thu, 21 Jul 2022 05:25:21 GMT</pubDate>
             <content:encoded><![CDATA[토피카 스쿨벤 러너 지음·강동혁 옮김｜문학동네｜428쪽｜1만6500원 페미니스트 심리상담사로 베스트셀러 작가인 어머니 제인, 상대방의 이야기를 잘 경청하는 친절한 심리상담사 아버지 조너선, 전국토론대회 챔피언이며 시를 읽고 쓸 줄 아는 모범생 아들 애덤. 이들은 진보적이고 지성적인 미국 가족의 이상적 모델처럼 보인다.하지만 이면은 이렇다. 제인은 책이 베스트셀러가 된 후 정체불명의 ‘남자들’이 걸어온 전화에서 “쌍년” “페미나치”라는 욕설을 듣는다. 조너선은...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/21/l_2022071301001006800082161.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["여성운동의 성과가 있는 곳엔 반드시 백래시가 있다" (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202207211024001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202207211024001</guid>
-            <pubDate>Thu, 21 Jul 2022 03:37:31 GMT</pubDate>
-            <content:encoded><![CDATA[백래시(backlash·반동)의 시대다. 2016년 강남역 살인사건, 2018년 성폭력을 공론화한 ‘미투’ 운동, 2020년 실태가 드러난 성착취 ‘n번방’ 사건을 계기로 강력해진 청년세대 페미니즘 흐름이 지난 대선 국면에서부터 역풍을 맞고 있다. 정치권은 성별을 갈라치며 구조적 성차별의 존재를 부인했고, 윤석열 정부는 대선공약에 따라 여성가족부를 폐지하고 성폭력처벌법에 무고죄를 신설하겠다는 방침이다. 반여성주의 백래시의 기원은 무엇이고, 어디로 향하고 있으며, 시민사회는 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/21/l_2022071801001261900103541.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["미워해도 소용없어" (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
