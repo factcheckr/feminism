@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 03:47:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 04:35:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/9c1ff960-318d-4da5-a2dd-9b1b15b24671.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[과대 생산의 사회, 이삭 줍는 사람들 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9404</link>
+            <guid>https://ildaro.com/9404</guid>
+            <pubDate>Sat, 30 Jul 2022 09:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[바르다가 영화를 만드는 방식은 이삭을 줍는 것과 같다. 쓰레기 더미를 뒤지는 사람들을 집요하게 쫓아가 이미지를 줍는다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022073006488781.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[성인이 될 때까지 ‘자폐’ 진단을 받지 못한 나의 삶 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9403</link>
             <guid>https://ildaro.com/9403</guid>
@@ -422,14 +430,6 @@
             <pubDate>Mon, 04 Jul 2022 15:15:11 GMT</pubDate>
             <content:encoded><![CDATA[페미니즘 리부트 이후에도 2030 여성 위주의 페미니즘 문법 속에서 나는 “인정받는”, “규범에 들어맞는” 페미니스트가 될 수 없었다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022070420158899.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감추어진 ‘부락’ 차별, 수면 위로 올려야 한다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9384</link>
-            <guid>https://ildaro.com/9384</guid>
-            <pubDate>Sun, 03 Jul 2022 12:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[사실 부락민 차별에 대해 일본 사회에서는 언급하지 않으려 하는 경향이 크다. ‘부락’ 문제에 대해, 많은 이들이 어떻게 받아들여야 할지 모르겠다고 생각하는 분위...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022070318497968.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
