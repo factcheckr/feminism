@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 09:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 10:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/9c1ff960-318d-4da5-a2dd-9b1b15b24671.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[낙관하자, 희망이 있어서가 아니라 ‘살아야 하니까’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9405</link>
+            <guid>https://ildaro.com/9405</guid>
+            <pubDate>Sun, 31 Jul 2022 10:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[시니어 대상 창작 수업을 했을 때, 어떤 분이 ‘선생님 소설엔 특이하게 퀴어가 자주 나오는 것 같다’고 하더라고요. 그래서 제가 ‘익숙하지 않아서 낯설게 보이는 ...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022073131205165.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[과대 생산의 사회, 이삭 줍는 사람들 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9404</link>
             <guid>https://ildaro.com/9404</guid>
@@ -422,14 +430,6 @@
             <pubDate>Tue, 05 Jul 2022 12:27:03 GMT</pubDate>
             <content:encoded><![CDATA[R&amp;R, the abbreviation for Rest &amp; Recreation, refers to the industries created for the health and well-being of U.S. soldiers in areas where the U.S....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022070505192961.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘언니’가 허락한 페미니즘을 넘어 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9385</link>
-            <guid>https://ildaro.com/9385</guid>
-            <pubDate>Mon, 04 Jul 2022 15:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[페미니즘 리부트 이후에도 2030 여성 위주의 페미니즘 문법 속에서 나는 “인정받는”, “규범에 들어맞는” 페미니스트가 될 수 없었다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022070420158899.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
