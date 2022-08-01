@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 04:03:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 05:52:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울시의 임산부 교통비 지원, 그런데 '외국인'은 안된다?]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202208011401011</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202208011401011</guid>
+            <pubDate>Mon, 01 Aug 2022 05:50:49 GMT</pubDate>
+            <content:encoded><![CDATA[한국인 남성과 3년 전 결혼해 서울 중랑구에 사는 중국인 A씨는 임신 8개월차의 직장인이다. 만삭의 몸으로 매일 왕복 1시간30분가량을 대중교통을 이용해 출퇴근하는 그는 서울시가 임산부에게 교통비 70만원을 지원한다는 소식을 듣고 이달 초 동주민센터를 찾았다. 그러나 이내 발걸음을 돌려야 했다. 외국인은 지원 대상이 아니라는 사실을 뒤늦게 안 것이다.A씨는 “매일 열심히 일하면서 세금도 꼬박꼬박 내는데 왜 지원금은 받지 못한다는 건지 모르겠다”면서 “(지자...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/01/l_2022080101000049100000421.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['63살 은희경'은 '27살 은희경'에서 무엇을 보았을까]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202208011049001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 26 Jul 2022 04:02:14 GMT</pubDate>
             <content:encoded><![CDATA[남미 아르헨티나 수도 부에노스아이레스시 정부가 학교에서 성중립 언어 사용을 금지해 논란이 되고 있다고 뉴욕타임스(NYT)가 20일(현지시간) 보도했다.오라시오 로드리게스 라레타 부에노스아이레스 시장은 지난달 부에노스아이레스 교사들이 학교 수업이나 학부모와의 통신에서 성중립 언어를 사용하는 것을 금지한다고 밝혔다. 라레타 시장은 “아이들이 언어를 있는 그대로 배울 수 있도록 교사들은 스페인어를 존중해야 한다”고 말했다.부에노스아이레스시 정부의 이 같은 방침...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/26/l_2022072101001470700119851.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['보통의 남성성'이 만들어 낸 공포, 영화 <멘>]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202207251500001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202207251500001</guid>
-            <pubDate>Mon, 25 Jul 2022 06:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;멘(Men)&gt;은 공포영화의 관습을 깬다. 주인공이 낯선 공간에 당도하는 것 정도가 유일한 클리셰다. 주인공은 금기를 깨지 않지만 재난은 닥친다. 공포에 떠는 무능력한 여성 주인공도 없다. 전형적인 공포영화라면 초자연적 존재가 점점 강해지고 주인공이 공포에 압도당하며 절정을 맞이해야겠지만, 이 영화의 절정에서 괴물은 약해지고 주인공은 침착하다. 앨릭스 갈런드 감독은 공포영화의 공식을 뒤집으면서 ‘유해한 남성성’에 대한 반성문을 써냈다.남편을 잃은...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/25/l_2022072001001400600114171.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
