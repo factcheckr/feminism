@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 01:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 04:03:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[변호사 사무실을 개업하며 겪은 세 번의 성폭력]]></title>
+            <link>https://ildaro.com/9406</link>
+            <guid>https://ildaro.com/9406</guid>
+            <pubDate>Tue, 02 Aug 2022 09:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[변호사가 된 첫 한 해 동안 기억나는 일상의 성폭력이 세 번이나 있었다. 내가 변호사인데, 직장내 성폭력이나 갑질 문제로 삼성하고도 싸우고 나온 사람인데…...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022080259271442.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[낙관하자, 희망이 있어서가 아니라 ‘살아야 하니까’]]></title>
             <link>https://ildaro.com/9405</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 06 Jul 2022 07:13:46 GMT</pubDate>
             <content:encoded><![CDATA[성소수자 인권운동을 하면서 몇 년간 부모모임 활동을 볼 때마다 들었던 감정은 ‘서운함’이었다. ‘나의 커밍아웃을 받아들지 못하는’ 부모에 대한 서운함....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022070630584966.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Poor Women as an Endless Resource…The Ecosystem of the Camptown]]></title>
-            <link>https://ildaro.com/9386</link>
-            <guid>https://ildaro.com/9386</guid>
-            <pubDate>Tue, 05 Jul 2022 12:27:03 GMT</pubDate>
-            <content:encoded><![CDATA[R&amp;R, the abbreviation for Rest &amp; Recreation, refers to the industries created for the health and well-being of U.S. soldiers in areas where the U.S....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022070505192961.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
