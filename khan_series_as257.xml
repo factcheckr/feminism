@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 03:52:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 05:01:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파리바게뜨 투쟁을 왜 ‘여성의 문제’로 봐야할까]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202208031040001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202208031040001</guid>
+            <pubDate>Wed, 03 Aug 2022 05:00:02 GMT</pubDate>
+            <content:encoded><![CDATA[‘파리바게뜨 투쟁’의 중심엔 늘 여성이 있었다.이들은 2017년 진급상의 성차별에 반발하여 노조(민주노총 화학섬유식품노조 파리바게뜨지회)를 결성하고, 고용노동부 근로감독과 ‘불법파견’ 인정 결정을 이끌어냈다. 노사·정당(더불어민주당,정의당)·가맹점주·시민사회와 함께 ‘8자 사회적 합의’를 이뤄냈다.“노조는 본사 직접고용 대신 자회사 고용을 받아들인다. 대신 회사는 3년 안에 제빵기사들의 급여를 본사 정규직과 동일한 수준으로 맞추고 노동환경 개선을 위해 노력한다.”...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/03/news-p.v1.20220802.40993abd27dd4cfea64d6e4fa2872274_P1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["'장자연 사건'으로 번아웃… 동물을 살리며 편안함을 찾았죠"]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202208021039001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 27 Jul 2022 03:47:08 GMT</pubDate>
             <content:encoded><![CDATA[최근 제주탠져린즈에 이은 2기 반려견 연습생 그룹 제주만다린즈의 MBC 라디오 생방송 스케줄로 서울에 간 일이 있었다. 강아지 아이돌답게 스위티와 포멜론은 초대석에 앉아서 유튜브로 생중계되는 방송을 천연덕스럽게 소화했다. 인간은 긴장하여 새하얗게 질려있었던 반면 두 멤버는 온에어 상황에도 ‘카메라 아이 콘택트’ ‘손’과 같은 개인기를 뽐내며 방송을 무사히 마쳤다. 뒤풀이 겸 근처에 있는 반려동물 동반 가능 술집으로 향했는데, 그곳에는 데뷔한 멤버 몇몇...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/27/l_2022072501001587000131491.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지지율 떨어지자 또 '여가부 폐지' 카드 꺼낸 대통령]]></title>
-            <link>https://www.khan.co.kr/politics/politics-general/article/202207261403011</link>
-            <guid>https://www.khan.co.kr/politics/politics-general/article/202207261403011</guid>
-            <pubDate>Tue, 26 Jul 2022 05:38:51 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 대통령이 25일 여성가족부 업무보고에서 김현숙 장관에게 “여가부 폐지 로드맵을 조속히 마련하라”고 지시했다고 강인선 대변인이 밝혔다. 김 장관은 이날 업무보고에 부처 폐지·개편 관련 내용을 포함시키지 않았으나, 윤 대통령이 직접 폐지 문제를 언급하며 속도를 내라고 촉구한 것이다.김 장관은 업무보고 후 브리핑에서 “여가부 내 전략추진단을 만들어 전문가 간담회를 하고 있어서 시간을 많이 갖고 (폐지를 추진)하려 했는데, (윤 대통령이) 조속히 안을 내...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/26/l_2022072601001655100136391.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
