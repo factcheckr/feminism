@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 06:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 07:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이예람 중사 사망한 그 공군 부대서 '또' 성폭력 사건 있었다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202208031523001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202208031523001</guid>
+            <pubDate>Wed, 03 Aug 2022 07:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[성추행을 당한 뒤 극단적 선택을 한 고 이예람 중사의 마지막 근무지인 공군 제15특수임무비행단에서 또 다시 여군 부사관에 대한 성폭력이 발생한 사실이 뒤늦게 알려졌다. 4개월간 강제추행과 성희롱 등을 일삼았던 준위는 피해 여군 하사에게 코로나19 감염자 격리숙소 방문을 강요하고 감염자 침을 핥도록 시키는 등의 가혹행위까지 저질렀다가 지난 4월 구속됐다.군인권센터 부설 군성폭력상담소는 2일 서울 마포구 군인권센터에서 기자회견을 열고 “공군 제15비행단에서 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/03/l_2022080301000160900010651.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파리바게뜨 투쟁을 왜 ‘여성의 문제’로 봐야할까]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202208031040001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 27 Jul 2022 05:30:19 GMT</pubDate>
             <content:encoded><![CDATA[미혼 여성이라는 이유로 난자 냉동 시술을 거부당한 여성이 병원의 조처가 부당하다고 소송을 냈으나 패소했다. 미혼 여성의 난자 냉동보관과 관련해 중국에서 처음 나온 판결이다. 원고는 몸에 대한 권리를 찾겠다며 항소하겠다는 뜻을 밝혔다.중국 베이징 차오양구인민법원이 지난 22일(현지시간) 쉬자오자오(徐棗棗·34)가 미혼 여성이라는 이유로 난자 냉동 시술 요청을 거부한 병원이 쉬의 권리를 침해하지 않았다고 판결했다고 대만 연합신문망이 25일보도했다.쉬는 2018년 11...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/27/l_2022072601001667000137621.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유기견 입양신청서의 '선량한 차별'이 불편해졌다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202207271050001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202207271050001</guid>
-            <pubDate>Wed, 27 Jul 2022 03:47:08 GMT</pubDate>
-            <content:encoded><![CDATA[최근 제주탠져린즈에 이은 2기 반려견 연습생 그룹 제주만다린즈의 MBC 라디오 생방송 스케줄로 서울에 간 일이 있었다. 강아지 아이돌답게 스위티와 포멜론은 초대석에 앉아서 유튜브로 생중계되는 방송을 천연덕스럽게 소화했다. 인간은 긴장하여 새하얗게 질려있었던 반면 두 멤버는 온에어 상황에도 ‘카메라 아이 콘택트’ ‘손’과 같은 개인기를 뽐내며 방송을 무사히 마쳤다. 뒤풀이 겸 근처에 있는 반려동물 동반 가능 술집으로 향했는데, 그곳에는 데뷔한 멤버 몇몇...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/27/l_2022072501001587000131491.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
