@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 23:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 01:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/9c1ff960-318d-4da5-a2dd-9b1b15b24671.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[누구나 돌봄이 가능하다고 우기는 법 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9407</link>
+            <guid>https://ildaro.com/9407</guid>
+            <pubDate>Thu, 04 Aug 2022 09:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[“서로 민폐를 끼치는 연습을 해야 한다.” 내가 가족이 아닌 누군가와 동거할 수 있는 용기를 내는 데 가장 결정적인 힘을 준 문장이다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022080454555950.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[변호사 사무실을 개업하며 겪은 세 번의 성폭력 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9406</link>
             <guid>https://ildaro.com/9406</guid>
@@ -422,14 +430,6 @@
             <pubDate>Fri, 08 Jul 2022 10:44:00 GMT</pubDate>
             <content:encoded><![CDATA[동네 골목길을 보면, 그냥 길이 아니라 시간이 만든 흔적들로 가득해요. 이런 길을 싹 밀고 아파트를 세워버리는 것은 특정 브랜드, 특정 스타일로 삶의 취향을 정해...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022070852497664.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너에게 가는 길, 나에게 오는 길 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9387</link>
-            <guid>https://ildaro.com/9387</guid>
-            <pubDate>Wed, 06 Jul 2022 07:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[성소수자 인권운동을 하면서 몇 년간 부모모임 활동을 볼 때마다 들었던 감정은 ‘서운함’이었다. ‘나의 커밍아웃을 받아들지 못하는’ 부모에 대한 서운함....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022070630584966.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
