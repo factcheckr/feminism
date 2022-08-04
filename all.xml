@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 07:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 08:25:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,6 +192,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/07/28/l_2022072801001786800147221.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[특명: 여가부 폐지 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/962</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/962</guid>
+            <pubDate>Thu, 04 Aug 2022 08:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 뉴스레터 주제는 '여성가족부'입니다. 지난해 허스토리에서도 여가부 이슈에 대해 다뤘었죠. 당시 여가부에 대한 가짜뉴스나 잘못된 정보에 대한 팩트체크를 다뤘다면, 오늘은 끝끝내 '여가부 폐지'를 지시한 윤석열 대통령과 여가부의 혼란스러운 상황을 담았습니다.&nbsp;]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/4d6d45f0-d0c1-4dd4-8b62-f61c2598cab4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["미워해도 소용없어" (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/939</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/939</guid>
@@ -262,14 +270,6 @@
             <pubDate>Wed, 08 Jun 2022 04:29:27 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 37년 만에 자신이 있어야 할 자리로 돌아간 여성 노동자의 이야기를 담았습니다. 바로 지난달 25일, 명예복직을 위한 마지막 출근길에 나선 김진숙 민주노총 부산본부 지도위원이 그 주인공입니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/5971db22-6401-4c30-9089-ad083a8a66ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["나도 이대남입니다" (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/697</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/697</guid>
-            <pubDate>Wed, 08 Jun 2022 04:29:27 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 '이대남'에 대한 이야기로 뉴스레터를 채우고자 해요. 지난해 허스토리는 정치권에서 '이대남'에 대해 과한 의미를 부여하는 것에 대해 여러 차례 지적한 바 있습니다. 당시에는 혐오와 갈라치기를 동원해 이대남을 포섭하려는 정치권, 특히 몇몇 정치인의 행동에 대해 꼬집었었죠. 오늘 뉴스레터는 '이대남'이라 불리는 분들에게 보내는 편지가 될지도 모르겠습니다. 물론 '이대남'을 탄생시키고 그들에게 비대한 자아를 주입한 언론과 정치가 먼저 자성할 일이지만, 이렇게 된 이상 스스로 알을 깨고 나올 수 있는 건 '이대남' 자신일 테니까요.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/9c1ff960-318d-4da5-a2dd-9b1b15b24671.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[누구나 돌봄이 가능하다고 우기는 법 (일다 ─ 전체기사)]]></title>
