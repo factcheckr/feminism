@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 01:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 03:42:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더운 밤 뒷덜미 서늘하고 싶다면… 여성 소설가 3인이 추천하는 공포소설 3편]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202208051102001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202208051102001</guid>
+            <pubDate>Fri, 05 Aug 2022 03:40:02 GMT</pubDate>
+            <content:encoded><![CDATA[연일 최고기온 30도가 넘어가는 무더위가 이어지고 있다. 날씨뿐 아니라 세상이 돌아가는 모습도 푹푹 찌긴 마찬가지다. 코로나19의 재확산, 어려운 경제상황 등…. 잠시나마 뒷덜미를 서늘하게, 등줄기를 오싹하게 해줄 공포소설을 여성 작가들에게 추천받았다. &lt;저주토끼&gt;가 부커상 인터내셔널 최종 후보에 오르며 해외에도 ‘K공포’ 바람을 불게 한 정보라, 여성의 일상 속 공포를 서늘하게 그려낸 소설집 &lt;빈 쇼핑백에 들어있는 것&gt;을 펴낸 이종산, 호러소설 ...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/08/05/l_2022080301000185600012831.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여가부 “인하대 사건 계기로 '대학 성폭력 예방교육' 집중 지원”]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202208041454001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 29 Jul 2022 03:48:11 GMT</pubDate>
             <content:encoded><![CDATA[“이건 학생 안전의 문제지, 또 남녀를 나눠 젠더 갈등을 증폭하는 건 절대 바람직하지 않다.” ‘인하대 성폭력 사망 사건’에 대한 김현숙 여성가족부 장관의 말이다. 이 발언을 담은 인터뷰가 보도되자 “성차별 문제를 외면한다” “성폭력 사건을 개인의 문제로 치부한다”는 비판이 나왔다. ‘장관은 해당 사건을 구조적 문제로 보지 않는 것이냐’는 취지의 기자의 질의에 여가부는 지난 26일 ‘성별 대결 구도의 문제로 바라보지 말라는 취지’라고 짧게 답변했다.김...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/07/29/l_2022072901001846500151781.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아동 성착취물 제작·유포 가담자 절반 이상이 10대 청소년]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202207281412001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202207281412001</guid>
-            <pubDate>Thu, 28 Jul 2022 06:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[경찰이 지난 4개월간 벌인 사이버성폭력 집중단속 중간 결과를 27일 발표했다. 아동성착취물 제작·유포에 가담했다가 검거된 피의자의 절반 이상이 10대 청소년으로 나타났다.경찰청 국가수사본부는 지난 3월1일부터 6월30일까지 사이버성폭력 피의자 총 801명을 검거하고, 이 가운데 53명은 구속했다고 밝혔다. 이번 단속 대상은 아동성착취물, 불법촬영물, 허위영상물, 불법성영상물 유포 사범이다.범죄유형별로 살펴보면 전체 검거 사건 786건 중 아동성착취물 범죄(294건)와 불법촬...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/07/28/l_2022072801001786800147221.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
