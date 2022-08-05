@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 08:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 09:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I take final photograghs with my “Korean Umma”]]></title>
+            <link>https://ildaro.com/9408</link>
+            <guid>https://ildaro.com/9408</guid>
+            <pubDate>Fri, 05 Aug 2022 09:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[I take these final photographs with my umma so that when I ache for her in Minneapolis I have something to hold....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022080557442881.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[누구나 돌봄이 가능하다고 우기는 법]]></title>
             <link>https://ildaro.com/9407</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 10 Jul 2022 10:11:00 GMT</pubDate>
             <content:encoded><![CDATA[제 모습을 보다 못한 학교 친구들이 돌아가며 자기 집으로 저녁을 먹으러 오라고 초대해줬어요. 그래서 굶어죽지 않고 살았죠....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022071016366095.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부동산이 아니라, 숫자 너머의 ‘집’을 보는 방법]]></title>
-            <link>https://ildaro.com/9388</link>
-            <guid>https://ildaro.com/9388</guid>
-            <pubDate>Fri, 08 Jul 2022 10:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[동네 골목길을 보면, 그냥 길이 아니라 시간이 만든 흔적들로 가득해요. 이런 길을 싹 밀고 아파트를 세워버리는 것은 특정 브랜드, 특정 스타일로 삶의 취향을 정해...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022070852497664.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 08:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 09:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['직장내 성희롱' 피해직원 방치한 '포스코'…과태료 500만원]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202208051734001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202208051734001</guid>
+            <pubDate>Fri, 05 Aug 2022 09:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[고용노동부가 최근 직장 내 성희롱 사건이 일어난 포스코 포항제철소를 직권조사하고 과태료 500만 원을 부과했다. 피해자에 대한 2차 가해도 별도 입건해 사법처리할 방침이다.고용노동부 포항지청은 지난 6월21일부터 포스코 포항제철소를 상대로 직권조사를 벌여 이같이 조치했다고 5일 밝혔다.조사 결과 포스코는 직장 내 성희롱 사실이 확인됐는데도 피해자의 근무부서 변경 요청에 지체없이 응하지 않았다. 이 때문에 피해자는 상당 기간 성희롱 행위자와 계속 접촉할 수밖...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/08/05/l_2022080501000339700027001.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더운 밤 뒷덜미 서늘하고 싶다면… 여성 소설가 3인이 추천하는 공포소설 3편]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202208051102001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 29 Jul 2022 07:11:53 GMT</pubDate>
             <content:encoded><![CDATA[정상은 없다로이 리처드 그린커 지음·정해영 옮김｜메멘토｜600쪽｜3만3000원 로이 리처드 그린커의 증조할아버지 줄리어드는 19세기 후반의 신경학자이자 정신과 의사였다. 그는 정신병이 있는 사람이 생물학적으로 열등하다고 믿었다. 그린커는 정신의학 분야에 대한 폭넓은 지식과 관심을 가진 문화인류학자로 사하라 이남 아프리카와 동아시아의 자폐증에 관한 연구를 했다. 그의 딸 이저벨은 ‘자폐증’을 갖고 있다. 이저벨에게 ‘자폐증’이란 단어는 “복잡한 퍼즐을 위아래를...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/07/29/l_2022072801001777900146261.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현숙 여성가족부 장관의 NCND]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202207291030001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202207291030001</guid>
-            <pubDate>Fri, 29 Jul 2022 03:48:11 GMT</pubDate>
-            <content:encoded><![CDATA[“이건 학생 안전의 문제지, 또 남녀를 나눠 젠더 갈등을 증폭하는 건 절대 바람직하지 않다.” ‘인하대 성폭력 사망 사건’에 대한 김현숙 여성가족부 장관의 말이다. 이 발언을 담은 인터뷰가 보도되자 “성차별 문제를 외면한다” “성폭력 사건을 개인의 문제로 치부한다”는 비판이 나왔다. ‘장관은 해당 사건을 구조적 문제로 보지 않는 것이냐’는 취지의 기자의 질의에 여가부는 지난 26일 ‘성별 대결 구도의 문제로 바라보지 말라는 취지’라고 짧게 답변했다.김...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/07/29/l_2022072901001846500151781.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
