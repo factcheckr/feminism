@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 01:05:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 03:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/5971db22-6401-4c30-9089-ad083a8a66ac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘여성가족부 폐지’에 맞서는 유쾌한 페미니스트들 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9409</link>
+            <guid>https://ildaro.com/9409</guid>
+            <pubDate>Sat, 06 Aug 2022 09:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[자리를 채운 사람들이 페미니스트여서, 마음껏 웃고 떠드는 경험. 때로는 어떠한 촘촘한 이론보다도 그 순간의 기억이 운동을 이어 나가는 동력이 됨을 느낀다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022080626313042.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[I take final photograghs with my “Korean Umma” (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9408</link>
             <guid>https://ildaro.com/9408</guid>
@@ -422,14 +430,6 @@
             <pubDate>Mon, 11 Jul 2022 06:20:08 GMT</pubDate>
             <content:encoded><![CDATA[병원 생활을 시작한 후, 주변의 친구들이 삼삼오오 모여 소통하고 개인적으로도 연락을 주어 돌봄을 자처했다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022071148325187.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[출신국, 혈통을 떠나 ‘공생의 감각’ 가진 사회를 꿈꾸다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9389</link>
-            <guid>https://ildaro.com/9389</guid>
-            <pubDate>Sun, 10 Jul 2022 10:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[제 모습을 보다 못한 학교 친구들이 돌아가며 자기 집으로 저녁을 먹으러 오라고 초대해줬어요. 그래서 굶어죽지 않고 살았죠....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022071016366095.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
