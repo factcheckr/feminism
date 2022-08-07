@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 01:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 03:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/5971db22-6401-4c30-9089-ad083a8a66ac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘마을활동 예술가’로 생존하는 법 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9410</link>
+            <guid>https://ildaro.com/9410</guid>
+            <pubDate>Sun, 07 Aug 2022 10:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[“예술을 지금 노동이라고 생각하지 않으면 어떤 방식으로 예술에 대한 생각을 이어갈 수 있겠는가?” 묻는다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022080757304313.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘여성가족부 폐지’에 맞서는 유쾌한 페미니스트들 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9409</link>
             <guid>https://ildaro.com/9409</guid>
@@ -422,14 +430,6 @@
             <pubDate>Wed, 13 Jul 2022 07:13:36 GMT</pubDate>
             <content:encoded><![CDATA[“집이 어떻게 경험되는가는 집이라는 공간과 그 내부에서의 사회관계를 결정할 수 있는 권력이 누구에게 있는가에 달려 있다.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022071351598230.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비혼 친구들과 ‘돌봄의 관계망’ 만들기 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9390</link>
-            <guid>https://ildaro.com/9390</guid>
-            <pubDate>Mon, 11 Jul 2022 06:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[병원 생활을 시작한 후, 주변의 친구들이 삼삼오오 모여 소통하고 개인적으로도 연락을 주어 돌봄을 자처했다...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022071148325187.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
