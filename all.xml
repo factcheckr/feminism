@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 08:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 09:15:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[미국 ‘임신중단권’ 폐지 한 달… 전쟁터가 된 여성들의 몸 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202208081738001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202208081738001</guid>
+            <pubDate>Mon, 08 Aug 2022 09:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[미국 연방대법원은 지난 6월24일 여성의 임신중단을 헌법적 권리로 인정한 ‘로 대 웨이드’ 판결을 폐기했습니다. 이에 따라 임신중단의 위법 여부 결정 권한은 각 주(州)로 넘어갔는데요. 미국 각 주들이 관련법 논의를 본격화하면서 찬반 진영의 소송전과 혼란도 거세지고 있습니다. 미 연방대법원의 임신중단권 폐지판결 이후 46일이 지난 지금, 플랫팀이 그동안의 상황을 정리해보았습니다.‘보수 텃밭’ 캔자스에서 지켜낸 임신중단권보수 성향 주들에선 ‘임신중단 금...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/08/news-p.v1.20220808.eb2c203244bd4310b07a764c2722feb7_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[쉬어 갈 결심 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202208081011001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202208081011001</guid>
@@ -182,14 +190,6 @@
             <pubDate>Mon, 01 Aug 2022 05:50:03 GMT</pubDate>
             <content:encoded><![CDATA[한국인 남성과 3년 전 결혼해 서울 중랑구에 사는 중국인 A씨는 임신 8개월차의 직장인이다. 만삭의 몸으로 매일 왕복 1시간30분가량을 대중교통을 이용해 출퇴근하는 그는 서울시가 임산부에게 교통비 70만원을 지원한다는 소식을 듣고 이달 초 동주민센터를 찾았다. 그러나 이내 발걸음을 돌려야 했다. 외국인은 지원 대상이 아니라는 사실을 뒤늦게 안 것이다.A씨는 “매일 열심히 일하면서 세금도 꼬박꼬박 내는데 왜 지원금은 받지 못한다는 건지 모르겠다”면서 “(지자...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/01/l_2022080101000049100000421.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['63살 은희경'은 '27년 전 은희경'에서 무엇을 보았을까 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202208011049001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202208011049001</guid>
-            <pubDate>Mon, 01 Aug 2022 04:01:28 GMT</pubDate>
-            <content:encoded><![CDATA[소설가 은희경씨(63)의 첫 장편소설이자 제1회 문학동네소설상 수상작인 &lt;새의 선물&gt;이 최근 100쇄를 찍었다. 1995년 1쇄를 찍었으니 27년 만에 이룬 영예다. &lt;새의 선물&gt;은 화자(話者)인 열두 살의 조숙한 소녀 진희의 시선을 통해 가족과 이웃, 다양한 인간 군상의 모습을 담아낸 성장 소설이다. 이후에도 꾸준히 새 작품을 발표해온 은 작가는 사람 간 관계의 상투성과 그로 인한 진정한 소통의 단절을 이야기했다. 사람과 사랑에 대한 냉소를 경쾌한 농담과...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/01/l_2022080101000067300001871.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[특명: 여가부 폐지 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
@@ -270,6 +270,14 @@
             <pubDate>Wed, 08 Jun 2022 04:29:27 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 37년 만에 자신이 있어야 할 자리로 돌아간 여성 노동자의 이야기를 담았습니다. 바로 지난달 25일, 명예복직을 위한 마지막 출근길에 나선 김진숙 민주노총 부산본부 지도위원이 그 주인공입니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/5971db22-6401-4c30-9089-ad083a8a66ac.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[콜롬비아, 광산노동자 출신의 흑인 여성 부통령 탄생! (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9411</link>
+            <guid>https://ildaro.com/9411</guid>
+            <pubDate>Mon, 08 Aug 2022 09:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[프란시아 마르케스는 활동가이자 광산노동자, 농업인, 가사도우미 등으로 일하면서 공부하며 자신이 사는 지역 커뮤니티를 지키기 위한 노력을 한 끝에 변호사가 된 ...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022080809477743.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘마을활동 예술가’로 생존하는 법 (일다 ─ 전체기사)]]></title>
@@ -422,14 +430,6 @@
             <pubDate>Thu, 14 Jul 2022 11:13:16 GMT</pubDate>
             <content:encoded><![CDATA[가해자들은 피해자에게 “남자랑 관계를 안 해봐서 그런 것이다. 남자 경험을 알려준다.”면서 피해자의 취약성을 이용했다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022071414052091.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정든 고향, 스위트홈? ‘가부장적 장소’를 떠난 여성 청년들 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9391</link>
-            <guid>https://ildaro.com/9391</guid>
-            <pubDate>Wed, 13 Jul 2022 07:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[“집이 어떻게 경험되는가는 집이라는 공간과 그 내부에서의 사회관계를 결정할 수 있는 권력이 누구에게 있는가에 달려 있다.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022071351598230.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

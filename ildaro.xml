@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 08:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 09:15:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콜롬비아, 광산노동자 출신의 흑인 여성 부통령 탄생!]]></title>
+            <link>https://ildaro.com/9411</link>
+            <guid>https://ildaro.com/9411</guid>
+            <pubDate>Mon, 08 Aug 2022 09:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[프란시아 마르케스는 활동가이자 광산노동자, 농업인, 가사도우미 등으로 일하면서 공부하며 자신이 사는 지역 커뮤니티를 지키기 위한 노력을 한 끝에 변호사가 된 ...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022080809477743.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘마을활동 예술가’로 생존하는 법]]></title>
             <link>https://ildaro.com/9410</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 14 Jul 2022 11:13:16 GMT</pubDate>
             <content:encoded><![CDATA[가해자들은 피해자에게 “남자랑 관계를 안 해봐서 그런 것이다. 남자 경험을 알려준다.”면서 피해자의 취약성을 이용했다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022071414052091.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정든 고향, 스위트홈? ‘가부장적 장소’를 떠난 여성 청년들]]></title>
-            <link>https://ildaro.com/9391</link>
-            <guid>https://ildaro.com/9391</guid>
-            <pubDate>Wed, 13 Jul 2022 07:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[“집이 어떻게 경험되는가는 집이라는 공간과 그 내부에서의 사회관계를 결정할 수 있는 권력이 누구에게 있는가에 달려 있다.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022071351598230.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
