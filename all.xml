@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 05:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 06:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쉬어 갈 결심 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202208081011001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202208081011001</guid>
+            <pubDate>Mon, 08 Aug 2022 03:38:01 GMT</pubDate>
+            <content:encoded><![CDATA[환자가 되었다. 검진 기간은 너무나 고통스러웠는데 본격적인 치료는 지루함과 기다림의 연속이다. 주사를 맞지 않아도 진통에 익숙해질 만큼 시간이 흘렀고 병실 안에서 누릴 수 있는 여유와 루틴을 찾았다. 매일 하는 각종 기본 검사를 마치면 마스크를 끼고 비닐장갑과 가운을 입고 병원 안을 걷는다. 마지막 바퀴를 돌 때 편의점에서 이온음료 하나를 사서 병실로 돌아와 그것을 마신다. 걷는 것은 지금 나에겐 가장 중요한 의식과 같아서 갑작스러운 외부 검사 일정...]]></content:encoded>
+            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/08/08/l_2022080801000399100033051.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['직장내 성희롱' 피해직원 방치한 '포스코'…과태료 500만원 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202208051734001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 01 Aug 2022 04:01:28 GMT</pubDate>
             <content:encoded><![CDATA[소설가 은희경씨(63)의 첫 장편소설이자 제1회 문학동네소설상 수상작인 &lt;새의 선물&gt;이 최근 100쇄를 찍었다. 1995년 1쇄를 찍었으니 27년 만에 이룬 영예다. &lt;새의 선물&gt;은 화자(話者)인 열두 살의 조숙한 소녀 진희의 시선을 통해 가족과 이웃, 다양한 인간 군상의 모습을 담아낸 성장 소설이다. 이후에도 꾸준히 새 작품을 발표해온 은 작가는 사람 간 관계의 상투성과 그로 인한 진정한 소통의 단절을 이야기했다. 사람과 사랑에 대한 냉소를 경쾌한 농담과...]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/08/01/l_2022080101000067300001871.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[히스테리에 '여성의 얼굴'을 씌운 건 누구였을까 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202207291454001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202207291454001</guid>
-            <pubDate>Fri, 29 Jul 2022 07:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[정상은 없다로이 리처드 그린커 지음·정해영 옮김｜메멘토｜600쪽｜3만3000원 로이 리처드 그린커의 증조할아버지 줄리어드는 19세기 후반의 신경학자이자 정신과 의사였다. 그는 정신병이 있는 사람이 생물학적으로 열등하다고 믿었다. 그린커는 정신의학 분야에 대한 폭넓은 지식과 관심을 가진 문화인류학자로 사하라 이남 아프리카와 동아시아의 자폐증에 관한 연구를 했다. 그의 딸 이저벨은 ‘자폐증’을 갖고 있다. 이저벨에게 ‘자폐증’이란 단어는 “복잡한 퍼즐을 위아래를...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/07/29/l_2022072801001777900146261.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
