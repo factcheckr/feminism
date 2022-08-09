@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 01:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 03:43:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[44년차 배우 예수정 “나에게 '연기'는 광활한 삶의 학원이에요” (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202208091010001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202208091010001</guid>
+            <pubDate>Tue, 09 Aug 2022 03:41:43 GMT</pubDate>
+            <content:encoded><![CDATA[인터뷰할 때 배우 예수정씨(67)에게서 외견상 보이는 가장 큰 특징은 풍부한 표정이다. 그러한 표정의 8할은 그의 눈빛이 발산한다. 형형함에 희로애락이 교차하며 담긴다. 하고자 하는 이야기에 깊이 몰입해 있음을 느끼게 한다. 카메라로 그의 얼굴을 타이트하게 클로즈업하던 사진기자가 “눈에서 보여지는 다양한 감정표현에 감정이입돼 하마터면 눈물을 흘릴 뻔했다”고 고백했을 정도다. 화장기 하나 없는 민얼굴에 염색하지 않은 백발. 그는 “어느 순간부터 거울을 통해...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/09/l_2022080901000457400037961.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미국 ‘임신중단권’ 폐지 한 달… 전쟁터가 된 여성들의 몸 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202208081738001</link>
             <guid>https://www.khan.co.kr/world/world-general/article/202208081738001</guid>
@@ -182,14 +190,6 @@
             <pubDate>Tue, 02 Aug 2022 04:01:31 GMT</pubDate>
             <content:encoded><![CDATA[“대학원에서 여성학을 전공하고 한국성폭력상담소에서 활동하며 행복하고 가슴뛰고 즐거운 순간도 많았어요. 하지만 소진되고 힘들어지는 순간이 왔어요. ‘고 장자연씨 사건’이 유독 떠올라요. 엄정한 수사를 촉구하고 기자회견도 하고 활동을 했는데, 피의자로 지목된 사람들이 모두 무혐의로 기소조차 되지 않았어요. 무기력해지면서 번아웃이 왔어요. 그러다 한 여성 수의사가 ‘동물병원에선 말 할 필요가 없는데’라고 하더라고요. 그렇게 살면 행복할 것 같았어요. 어렸을 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/02/l_2022080101000056900001131.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울시의 임산부 교통비 지원, 그런데 '외국인'은 안된다? (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202208011401011</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202208011401011</guid>
-            <pubDate>Mon, 01 Aug 2022 05:50:03 GMT</pubDate>
-            <content:encoded><![CDATA[한국인 남성과 3년 전 결혼해 서울 중랑구에 사는 중국인 A씨는 임신 8개월차의 직장인이다. 만삭의 몸으로 매일 왕복 1시간30분가량을 대중교통을 이용해 출퇴근하는 그는 서울시가 임산부에게 교통비 70만원을 지원한다는 소식을 듣고 이달 초 동주민센터를 찾았다. 그러나 이내 발걸음을 돌려야 했다. 외국인은 지원 대상이 아니라는 사실을 뒤늦게 안 것이다.A씨는 “매일 열심히 일하면서 세금도 꼬박꼬박 내는데 왜 지원금은 받지 못한다는 건지 모르겠다”면서 “(지자...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/01/l_2022080101000049100000421.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[특명: 여가부 폐지 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
