@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 10:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 11:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/5971db22-6401-4c30-9089-ad083a8a66ac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘털 난 물고기’의 무지갯빛 춤, 반짝이는 글 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9412</link>
+            <guid>https://ildaro.com/9412</guid>
+            <pubDate>Tue, 09 Aug 2022 11:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[우리는 모두 다르고 다른 것이 당연하다는 그 ‘당연한 사실’을 잊어버린 채 하나의 몸을 세워놓고 나머지 모든 몸을 평가한다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/202208095450649.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[콜롬비아, 광산노동자 출신의 흑인 여성 부통령 탄생! (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9411</link>
             <guid>https://ildaro.com/9411</guid>
@@ -422,14 +430,6 @@
             <pubDate>Sat, 16 Jul 2022 10:56:00 GMT</pubDate>
             <content:encoded><![CDATA[In a society that demands silence, Queer Culture Festivals are an integral outlet for queer citizens to express themselves in their truest, fullest form....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/202207160210149.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성소수자 여군 성폭력 범죄에 오락가락 판결 논란 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9392</link>
-            <guid>https://ildaro.com/9392</guid>
-            <pubDate>Thu, 14 Jul 2022 11:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[가해자들은 피해자에게 “남자랑 관계를 안 해봐서 그런 것이다. 남자 경험을 알려준다.”면서 피해자의 취약성을 이용했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022071414052091.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
