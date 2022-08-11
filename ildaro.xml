@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 06:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 07:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“운이 좋아서” 우당탕탕 살아왔다는 N잡러 장애여성]]></title>
+            <link>https://ildaro.com/9413</link>
+            <guid>https://ildaro.com/9413</guid>
+            <pubDate>Thu, 11 Aug 2022 09:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[타인의 소수자 정체성을 대할 때 조심해야 하는 게 맞지만, 아예 언급조차 안 되는 건 그냥 배제인 같아요. 저는 장난을 좀 쳤으면 좋겠거든요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022081105159745.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘털 난 물고기’의 무지갯빛 춤, 반짝이는 글]]></title>
             <link>https://ildaro.com/9412</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 17 Jul 2022 09:22:00 GMT</pubDate>
             <content:encoded><![CDATA[작년 여름부터 #입국관리_피수용자에게도_생리용품을 프로젝트를 시작했다. 가장 먼저 요코하마 입국관리 시설의 면회 활동에 동석했다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/202207172805779.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Queer Teens Want to Enjoy Pride Too!]]></title>
-            <link>https://ildaro.com/9393</link>
-            <guid>https://ildaro.com/9393</guid>
-            <pubDate>Sat, 16 Jul 2022 10:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[In a society that demands silence, Queer Culture Festivals are an integral outlet for queer citizens to express themselves in their truest, fullest form....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/202207160210149.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

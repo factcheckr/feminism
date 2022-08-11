@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 06:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 07:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -115,7 +115,7 @@
             <title><![CDATA[대형마트 의무휴업 논의가 외면한 '마트 노동자'의 쉴 권리 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202208111431001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202208111431001</guid>
-            <pubDate>Thu, 11 Aug 2022 06:17:15 GMT</pubDate>
+            <pubDate>Thu, 11 Aug 2022 06:16:32 GMT</pubDate>
             <content:encoded><![CDATA[홈플러스 인천 서구 가좌점에서 20년 넘게 일하고 있는 김미리씨(59)는 10년 전 의무휴업일이 도입되고 “사람 구실을 하게 됐다”고 말했다. 둘째, 넷째주 일요일에 쉬면서 가족과 시간을 보낼 수 있게 된 덕분이었다. 김씨는 “의무휴업일이 있기 전에는 가족행사는커녕 가족과 모여 밥 먹기도 힘들었고, 일이 바쁠 때는 일주일 내내 일했다”며 “대체인력이 모자라 휴일을 사용하려면 눈치가 보이는데, 의무휴업으로 모두가 쉴 수 있어 확실히 부담이 덜하다”고 했다.옷매...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/11/l_2022081101000578600048831.jpg" length="0" type="image/jpg"/>
         </item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/5971db22-6401-4c30-9089-ad083a8a66ac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“운이 좋아서” 우당탕탕 살아왔다는 N잡러 장애여성 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9413</link>
+            <guid>https://ildaro.com/9413</guid>
+            <pubDate>Thu, 11 Aug 2022 09:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[타인의 소수자 정체성을 대할 때 조심해야 하는 게 맞지만, 아예 언급조차 안 되는 건 그냥 배제인 같아요. 저는 장난을 좀 쳤으면 좋겠거든요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022081105159745.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘털 난 물고기’의 무지갯빛 춤, 반짝이는 글 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9412</link>
             <guid>https://ildaro.com/9412</guid>
@@ -422,14 +430,6 @@
             <pubDate>Sun, 17 Jul 2022 09:22:00 GMT</pubDate>
             <content:encoded><![CDATA[작년 여름부터 #입국관리_피수용자에게도_생리용품을 프로젝트를 시작했다. 가장 먼저 요코하마 입국관리 시설의 면회 활동에 동석했다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/202207172805779.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Queer Teens Want to Enjoy Pride Too! (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9393</link>
-            <guid>https://ildaro.com/9393</guid>
-            <pubDate>Sat, 16 Jul 2022 10:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[In a society that demands silence, Queer Culture Festivals are an integral outlet for queer citizens to express themselves in their truest, fullest form....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/202207160210149.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
