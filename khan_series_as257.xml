@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 05:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 06:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[54년… 8살 베트남 소녀가 '한국군 민간인 학살'을 증언하는 데 걸린 시간]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202208121451001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202208121451001</guid>
+            <pubDate>Fri, 12 Aug 2022 06:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[한국 정부에 요구하는 것은 단 한가지입니다. 베트남전 민간인 학살 사건 진실을 인정하는 것, 그것뿐입니다.- 베트남전 한국군 민간인 학살 피해자 응우옌 티 탄(62)비가 추적추적 내린 8일 오전 10시30분. 검은 정장 차림의 응우옌 티 탄씨(62)가 서울 중구에 있는 ‘2기 진실·화해를 위한 과거사정리위원회(진실화해위)’ 사무실을 찾았다. 베트남전 때 한국군이 저지른 민간인 학살 피해자 유족인 그는 목이 메어 말했다. “한국 정부에 요구하는 것은 단 한가지입니다. 베...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/12/l_2022081201000636900053511.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어린이의 친구가 되기 위해 '어른이'들의 할 일]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202208121046001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 08 Aug 2022 03:38:01 GMT</pubDate>
             <content:encoded><![CDATA[환자가 되었다. 검진 기간은 너무나 고통스러웠는데 본격적인 치료는 지루함과 기다림의 연속이다. 주사를 맞지 않아도 진통에 익숙해질 만큼 시간이 흘렀고 병실 안에서 누릴 수 있는 여유와 루틴을 찾았다. 매일 하는 각종 기본 검사를 마치면 마스크를 끼고 비닐장갑과 가운을 입고 병원 안을 걷는다. 마지막 바퀴를 돌 때 편의점에서 이온음료 하나를 사서 병실로 돌아와 그것을 마신다. 걷는 것은 지금 나에겐 가장 중요한 의식과 같아서 갑작스러운 외부 검사 일정...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/08/l_2022080801000399100033051.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['직장내 성희롱' 피해직원 방치한 '포스코'…과태료 500만원]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202208051734001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202208051734001</guid>
-            <pubDate>Fri, 05 Aug 2022 09:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[고용노동부가 최근 직장 내 성희롱 사건이 일어난 포스코 포항제철소를 직권조사하고 과태료 500만 원을 부과했다. 피해자에 대한 2차 가해도 별도 입건해 사법처리할 방침이다.고용노동부 포항지청은 지난 6월21일부터 포스코 포항제철소를 상대로 직권조사를 벌여 이같이 조치했다고 5일 밝혔다.조사 결과 포스코는 직장 내 성희롱 사실이 확인됐는데도 피해자의 근무부서 변경 요청에 지체없이 응하지 않았다. 이 때문에 피해자는 상당 기간 성희롱 행위자와 계속 접촉할 수밖...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/05/l_2022080501000339700027001.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
