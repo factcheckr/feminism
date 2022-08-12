@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 11:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 12:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/5971db22-6401-4c30-9089-ad083a8a66ac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[베트남전 민간인학살 국가배상소송, 원고 탄 씨의 말들 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9414</link>
+            <guid>https://ildaro.com/9414</guid>
+            <pubDate>Fri, 12 Aug 2022 12:26:27 GMT</pubDate>
+            <content:encoded><![CDATA[응우옌티탄 씨는 2015년 처음으로 한국에 방문했고, 한국 시민들에게 자신의 이야기를 전했다. “참전군인들에게 사과 한 마디를 듣고 싶어서”였다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022081259031506.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“운이 좋아서” 우당탕탕 살아왔다는 N잡러 장애여성 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9413</link>
             <guid>https://ildaro.com/9413</guid>
@@ -422,14 +430,6 @@
             <pubDate>Mon, 18 Jul 2022 04:45:25 GMT</pubDate>
             <content:encoded><![CDATA[사건을 맡게 된 것은 첫 번째 고소 여성에게 실형 2년이 선고되어 법정 구속된 지 한 달이 채 지나지 않아서였다. 두 번째 고소를 했던 피해자가 무고 혐의를 받고 있는...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022071831213652.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[출입국관리소에 수용된 여성들에게도 생리용품을! (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9394</link>
-            <guid>https://ildaro.com/9394</guid>
-            <pubDate>Sun, 17 Jul 2022 09:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[작년 여름부터 #입국관리_피수용자에게도_생리용품을 프로젝트를 시작했다. 가장 먼저 요코하마 입국관리 시설의 면회 활동에 동석했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/202207172805779.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
