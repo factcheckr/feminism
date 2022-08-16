@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 03:44:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 04:38:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탈레반 집권 1년… "빵,일,자유"를 외치는 아프간 여성들]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202208161332001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202208161332001</guid>
+            <pubDate>Tue, 16 Aug 2022 04:37:57 GMT</pubDate>
+            <content:encoded><![CDATA[이슬람 무장단체 탈레반이 미군이 철수한 아프가니스탄을 재장악한 지 15일(현지시간)로 1년을 맞는다. 1년 사이에 여학교는 문을 닫았고 여성들은 공공장소에서 얼굴도 가려야 하는 상황이 됐다. 음악과 드라마는 금지되고 권선징악부와 도덕경찰이 부활했다. 국민 70%가 빈곤선 이하로 떨어지는 등 경제는 파탄이 났다. 이런 가운데 아프간에 극단주의 무장세력이 몰려들어 글로벌 테러리즘의 요람이 될 수 있다는 우려까지 제기된다.▼ 여성부터 지운 탈레반 ▲ 탈레반은 재집...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/16/l_2022081601000772800063781.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[54년… 8살 베트남 소녀가 '한국군 민간인 학살'을 증언하는 데 걸린 시간]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202208121451001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 08 Aug 2022 09:14:33 GMT</pubDate>
             <content:encoded><![CDATA[미국 연방대법원은 지난 6월24일 여성의 임신중단을 헌법적 권리로 인정한 ‘로 대 웨이드’ 판결을 폐기했습니다. 이에 따라 임신중단의 위법 여부 결정 권한은 각 주(州)로 넘어갔는데요. 미국 각 주들이 관련법 논의를 본격화하면서 찬반 진영의 소송전과 혼란도 거세지고 있습니다. 미 연방대법원의 임신중단권 폐지판결 이후 46일이 지난 지금, 플랫팀이 그동안의 상황을 정리해보았습니다.‘보수 텃밭’ 캔자스에서 지켜낸 임신중단권보수 성향 주들에선 ‘임신중단 금...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/08/news-p.v1.20220808.eb2c203244bd4310b07a764c2722feb7_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쉬어 갈 결심]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202208081011001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202208081011001</guid>
-            <pubDate>Mon, 08 Aug 2022 03:38:01 GMT</pubDate>
-            <content:encoded><![CDATA[환자가 되었다. 검진 기간은 너무나 고통스러웠는데 본격적인 치료는 지루함과 기다림의 연속이다. 주사를 맞지 않아도 진통에 익숙해질 만큼 시간이 흘렀고 병실 안에서 누릴 수 있는 여유와 루틴을 찾았다. 매일 하는 각종 기본 검사를 마치면 마스크를 끼고 비닐장갑과 가운을 입고 병원 안을 걷는다. 마지막 바퀴를 돌 때 편의점에서 이온음료 하나를 사서 병실로 돌아와 그것을 마신다. 걷는 것은 지금 나에겐 가장 중요한 의식과 같아서 갑작스러운 외부 검사 일정...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/08/l_2022080801000399100033051.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
