@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 08:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 09:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/5971db22-6401-4c30-9089-ad083a8a66ac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[누구의 모국어도 아닌, 평화의 언어 에스페란토 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9417</link>
+            <guid>https://ildaro.com/9417</guid>
+            <pubDate>Wed, 17 Aug 2022 09:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[학생들이 서양에서 온 유학생을 대할 때와 아시아 유학생을 대할 때 큰 차이가 있다는 것을 깨달았다. 또한 조선학교 학생을 향해 던져지는 혐오 발언을 들으면 가슴이...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022081736591673.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[분단 사회에서 페미니스트로 살아가기 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9416</link>
             <guid>https://ildaro.com/9416</guid>
@@ -422,14 +430,6 @@
             <pubDate>Sat, 23 Jul 2022 07:45:00 GMT</pubDate>
             <content:encoded><![CDATA[흑인 여성 해방은 기존 선입견으로부터의 해방, 실제 직면하고 있는 흑인에 대한 구조적 폭력이나 흑인 커뮤니티 내의 여성 혐오, 좋지 못한 관계로부터의 해방도 포함...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022072303539049.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이혼 선언한 엄마와 네 딸들 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9397</link>
-            <guid>https://ildaro.com/9397</guid>
-            <pubDate>Thu, 21 Jul 2022 09:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[보통은 딸의 ‘커밍아웃’을 주제로 하는데, 이 영화에선 엄마의 ‘이혼’이 주제죠. 또 요즘 흔치 않은 네 자매라는 설정도 재미있고요....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022072157314042.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
