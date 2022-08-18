@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 05:41:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 06:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이제 '월경 장애'도 백신 접종 부작용으로 의료비 지원받는다 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202208181458001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202208181458001</guid>
+            <pubDate>Thu, 18 Aug 2022 06:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[‘이상 자궁 출혈’이 코로나19 백신 접종 후 이상반응 의심 질환으로 추가됐다. 증상이 나타나면 최대 5000만원까지 의료비를 지원받을 수 있다.예방접종피해보상 전문위원회(보상위원회)는 빈발 월경과 과다출혈 월경 등 이상 자궁 출혈을 코로나19 백신 ‘관련성 의심’ 질환으로 추가한다고 16일 밝혔다. 보상위원회는 이날 제15차 회의를 열고 코로나19 백신안전성위원회가 발표한 연구 결과에 따른 관련성 의심 질환 변경안을 심의한 뒤 이같이 의결했다.앞서 백신안전성위원...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/18/l_2022081701000848500070302.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[결혼이주여성들, '나'로서 말하고, 주장하고, 화내기로 결심하다 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202208181046001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202208181046001</guid>
@@ -182,14 +190,6 @@
             <pubDate>Wed, 10 Aug 2022 22:12:52 GMT</pubDate>
             <content:encoded><![CDATA[‘그랜드슬램 23회 우승’에 빛나는 테니스의 전설 세레나 윌리엄스(41)가 은퇴를 예고했다.그는 9일(현지시간) 공개된 미국 보그와의 인터뷰에서 “나에게 중요한 다른 것들을 향해 나아가기 위해” 테니스 코트를 떠날 예정이라고 밝혔다.윌리엄스가 말한 ‘중요한 다른 것’은 가족이다. 그는 인터뷰가 공개된 직후 인스타그램에 “나는 진심으로 테니스를 좋아했다. 하지만 이제 카운트다운은 시작됐다”며 “나는 내 정신적 목표였던 ‘엄마가 되는 것’에 초점을 맞추려 한다”...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/11/news-p.v1.20220810.2d29e63f7b1949e98983483781d7ff78_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성범죄 2차피해, 댓글창만 없애면 문제가 해결될까 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202208101746001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202208101746001</guid>
-            <pubDate>Wed, 10 Aug 2022 09:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[언론인권센터는 지난 6월30일 “ ‘2차 피해’ 유발하는 보도의 문제점: 성범죄, 아동학대 보도를 중심으로”라는 토론회를 개최하면서 성범죄 및 아동학대 사건 보도에서라도 댓글란을 폐지하자고 제안한 바 있다. 이번 토론회에서 제기된 핵심적 문제는 댓글로 인한 2차 피해 문제로, 특히 성범죄 사건에서 피해자에 대한 잘못된 인식을 댓글에 생각 없이 게시하고, 더 나아가 피해자를 비난하고 모욕하는 내용이 반복적으로 댓글에 등장하기 때문이다.폐지가 더 낫다는 제안...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/10/l_2022081001000512600042821.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[특명: 여가부 폐지 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
