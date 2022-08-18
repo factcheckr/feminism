@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 01:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 03:59:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[결혼이주여성들, '나'로서 말하고, 주장하고, 화내기로 결심하다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202208181046001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202208181046001</guid>
+            <pubDate>Thu, 18 Aug 2022 03:58:29 GMT</pubDate>
+            <content:encoded><![CDATA[“돈 몇푼 때문에 살고 있는 것이 아니며 잘 살려고 왔다는 사실을 시간이 증명해주겠지, 나라도 잘 살면 되겠지 하고 믿었습니다. 온몸에 상처를 떠안고 살아가는 친구들을, 결국 자식과 생이별하는 가슴 절절한 이야기를 애써 외면해야 했습니다. 그렇게 1년, 2년, 어느덧 14년이라는 세월이 흘렀습니다. 이주여성의 현실은 바뀌지 않고 있습니다. 더 이상 가만히 있지 않기로 했습니다. 우리에겐 권리가 있습니다. 우리는 ‘옥천군 결혼이주여성협의회’를 만들었고, 100명이...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/18/l_2022081601000777000064371.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아래쪽의 재난]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202208171423001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 10 Aug 2022 11:12:22 GMT</pubDate>
             <content:encoded><![CDATA[언론인권센터는 지난 6월30일 “ ‘2차 피해’ 유발하는 보도의 문제점: 성범죄, 아동학대 보도를 중심으로”라는 토론회를 개최하면서 성범죄 및 아동학대 사건 보도에서라도 댓글란을 폐지하자고 제안한 바 있다. 이번 토론회에서 제기된 핵심적 문제는 댓글로 인한 2차 피해 문제로, 특히 성범죄 사건에서 피해자에 대한 잘못된 인식을 댓글에 생각 없이 게시하고, 더 나아가 피해자를 비난하고 모욕하는 내용이 반복적으로 댓글에 등장하기 때문이다.폐지가 더 낫다는 제안...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/10/l_2022081001000512600042821.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아직도 임신했다고 해고를 당한다, 그것도 공공기관에서]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202208101017001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202208101017001</guid>
-            <pubDate>Wed, 10 Aug 2022 03:03:37 GMT</pubDate>
-            <content:encoded><![CDATA[A씨는 지난 1월3일 전북 정읍시 선거관리위원회 소속 공정선거지원단에 6개월 계약직으로 입사했다. 임신 4개월차였던 A씨는 입사 당일 외근이 잦은 지역단속반에 배정됐다. 지역단속반은 공직선거법 위반 현장 단속, 선거비용·정치자금 자료수집을 담당하는 부서다.A씨는 같은 날 지역단속반을 희망하는 내근직 사원과 서로 직무를 맞바꾸기로 했다. A씨는 공정선거지원단 관리자와 면담하며 업무 전환을 요청했다. 하지만 관리자는 임신 중이라는 이유로 A씨에게 사직서 제출을...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/10/l_2022080801000404200033551.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
