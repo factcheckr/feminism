@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 07:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 08:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/5971db22-6401-4c30-9089-ad083a8a66ac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[길고양이를 환대하는 사회를 위한 돌봄 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9418</link>
+            <guid>https://ildaro.com/9418</guid>
+            <pubDate>Thu, 18 Aug 2022 08:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[길고양이가 사회의 척도라는 말은 바꿔 말하면 낯선 타자에 대한 환대 기준이다. 냥세권이라고 붙여도 무방하겠지만 부동산 가격에는 아무런 영향을 미치지는 못할 것...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/202208185113624.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[누구의 모국어도 아닌, 평화의 언어 에스페란토 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9417</link>
             <guid>https://ildaro.com/9417</guid>
@@ -422,14 +430,6 @@
             <pubDate>Sun, 24 Jul 2022 00:57:00 GMT</pubDate>
             <content:encoded><![CDATA[입국관리소에 수용이 되면, 누구든 제정신을 유지하기 힘들 정도로 지옥 같은 수용 생활을 하게 된다. 여성들에게는 더더욱 가혹하다. 의료 방치, 방도 샤워실도 곰팡...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022072402361862.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘흑인 여성 혐오’(misogynoir)로부터의 해방 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9398</link>
-            <guid>https://ildaro.com/9398</guid>
-            <pubDate>Sat, 23 Jul 2022 07:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[흑인 여성 해방은 기존 선입견으로부터의 해방, 실제 직면하고 있는 흑인에 대한 구조적 폭력이나 흑인 커뮤니티 내의 여성 혐오, 좋지 못한 관계로부터의 해방도 포함...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022072303539049.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
