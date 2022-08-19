@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 07:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 08:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올 한 해 성평등에 공헌한 영화인, 신수원·정서경·박찬욱]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202208191638001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202208191638001</guid>
+            <pubDate>Fri, 19 Aug 2022 08:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[올해 한국 영화계 성평등에 공헌한 영화인으로 신수원 감독, 정서경 작가·박찬욱 감독, 하윤경 배우, 신혜연·김성환 제작자가 선정됐다.한국영화감독조합은 ‘벡델데이 2022’에서 올해의 벡델리안 감독 부문에 신수원 감독을, 벡델리안 작가 부문에 정서경 작가와 박찬욱 감독을, 벡델리안 배우에 하윤경 배우를, 제작자에 신혜연·김성환 제작자를 선정했다고 17일 밝혔다.감독 부문에 뽑힌 신수원 감독은 이정은 주연의 영화 &lt;오마주&gt;로 상을 받았다. &lt;오마주&gt;는 중...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/19/l_2022081701000846200070191.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['조선의 짠타크' 김명시에 바치는 헌사]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202208191524001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 16 Aug 2022 04:37:57 GMT</pubDate>
             <content:encoded><![CDATA[이슬람 무장단체 탈레반이 미군이 철수한 아프가니스탄을 재장악한 지 15일(현지시간)로 1년을 맞는다. 1년 사이에 여학교는 문을 닫았고 여성들은 공공장소에서 얼굴도 가려야 하는 상황이 됐다. 음악과 드라마는 금지되고 권선징악부와 도덕경찰이 부활했다. 국민 70%가 빈곤선 이하로 떨어지는 등 경제는 파탄이 났다. 이런 가운데 아프간에 극단주의 무장세력이 몰려들어 글로벌 테러리즘의 요람이 될 수 있다는 우려까지 제기된다.▼ 여성부터 지운 탈레반 ▲ 탈레반은 재집...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/16/l_2022081601000772800063781.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[54년… 8살 베트남 소녀가 '한국군 민간인 학살'을 증언하는 데 걸린 시간]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202208121451001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202208121451001</guid>
-            <pubDate>Fri, 12 Aug 2022 06:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[한국 정부에 요구하는 것은 단 한가지입니다. 베트남전 민간인 학살 사건 진실을 인정하는 것, 그것뿐입니다.- 베트남전 한국군 민간인 학살 피해자 응우옌 티 탄(62)비가 추적추적 내린 8일 오전 10시30분. 검은 정장 차림의 응우옌 티 탄씨(62)가 서울 중구에 있는 ‘2기 진실·화해를 위한 과거사정리위원회(진실화해위)’ 사무실을 찾았다. 베트남전 때 한국군이 저지른 민간인 학살 피해자 유족인 그는 목이 메어 말했다. “한국 정부에 요구하는 것은 단 한가지입니다. 베...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/12/l_2022081201000636900053511.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
