@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 08:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 09:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Merciless words…‘Women born lucky’ and ‘mom-chungs’]]></title>
+            <link>https://ildaro.com/9419</link>
+            <guid>https://ildaro.com/9419</guid>
+            <pubDate>Fri, 19 Aug 2022 09:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[With this prevalent usage of the word “mom-chung,” hostility toward mothers follow them everywhere....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022081934265304.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[길고양이를 환대하는 사회를 위한 돌봄]]></title>
             <link>https://ildaro.com/9418</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 25 Jul 2022 12:28:43 GMT</pubDate>
             <content:encoded><![CDATA[강제로 끌고 와서 페니실린 항생제를 투약한 곳을 ‘치료감호소’라 부르는 것은 정부의 입장일 뿐, 처분당해야 하는 기지촌 여성들의 입장은 반영되지 않은 말이다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/202207252829194.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몇 년씩 감금, 아이와 격리…이렇게까지 해야 하나?]]></title>
-            <link>https://ildaro.com/9399</link>
-            <guid>https://ildaro.com/9399</guid>
-            <pubDate>Sun, 24 Jul 2022 00:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[입국관리소에 수용이 되면, 누구든 제정신을 유지하기 힘들 정도로 지옥 같은 수용 생활을 하게 된다. 여성들에게는 더더욱 가혹하다. 의료 방치, 방도 샤워실도 곰팡...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022072402361862.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 08:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 09:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -115,7 +115,7 @@
             <title><![CDATA[올 한 해 성평등에 공헌한 영화인, 신수원·정서경·박찬욱 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202208191638001</link>
             <guid>https://www.khan.co.kr/culture/culture-general/article/202208191638001</guid>
-            <pubDate>Fri, 19 Aug 2022 08:17:16 GMT</pubDate>
+            <pubDate>Fri, 19 Aug 2022 08:16:32 GMT</pubDate>
             <content:encoded><![CDATA[올해 한국 영화계 성평등에 공헌한 영화인으로 신수원 감독, 정서경 작가·박찬욱 감독, 하윤경 배우, 신혜연·김성환 제작자가 선정됐다.한국영화감독조합은 ‘벡델데이 2022’에서 올해의 벡델리안 감독 부문에 신수원 감독을, 벡델리안 작가 부문에 정서경 작가와 박찬욱 감독을, 벡델리안 배우에 하윤경 배우를, 제작자에 신혜연·김성환 제작자를 선정했다고 17일 밝혔다.감독 부문에 뽑힌 신수원 감독은 이정은 주연의 영화 &lt;오마주&gt;로 상을 받았다. &lt;오마주&gt;는 중...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/19/l_2022081701000846200070191.jpg" length="0" type="image/jpg"/>
         </item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/5971db22-6401-4c30-9089-ad083a8a66ac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Merciless words…‘Women born lucky’ and ‘mom-chungs’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9419</link>
+            <guid>https://ildaro.com/9419</guid>
+            <pubDate>Fri, 19 Aug 2022 09:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[With this prevalent usage of the word “mom-chung,” hostility toward mothers follow them everywhere....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022081934265304.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[길고양이를 환대하는 사회를 위한 돌봄 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9418</link>
             <guid>https://ildaro.com/9418</guid>
@@ -422,14 +430,6 @@
             <pubDate>Mon, 25 Jul 2022 12:28:43 GMT</pubDate>
             <content:encoded><![CDATA[강제로 끌고 와서 페니실린 항생제를 투약한 곳을 ‘치료감호소’라 부르는 것은 정부의 입장일 뿐, 처분당해야 하는 기지촌 여성들의 입장은 반영되지 않은 말이다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/202207252829194.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몇 년씩 감금, 아이와 격리…이렇게까지 해야 하나? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9399</link>
-            <guid>https://ildaro.com/9399</guid>
-            <pubDate>Sun, 24 Jul 2022 00:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[입국관리소에 수용이 되면, 누구든 제정신을 유지하기 힘들 정도로 지옥 같은 수용 생활을 하게 된다. 여성들에게는 더더욱 가혹하다. 의료 방치, 방도 샤워실도 곰팡...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022072402361862.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
