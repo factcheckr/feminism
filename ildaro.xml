@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 01:08:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 03:33:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가 어디에 속해 있는지 헤맨 적 있는 사람이라면]]></title>
+            <link>https://ildaro.com/9420</link>
+            <guid>https://ildaro.com/9420</guid>
+            <pubDate>Sat, 20 Aug 2022 10:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘중립 상태로 퇴장해줘’라는 건, 퇴장한다는 목적 외에는 어떤 것도 표현하지 않는 상태를 원한다는 거 같은데, 사실 이게 참 어려워요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022082025463553.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Merciless words…‘Women born lucky’ and ‘mom-chungs’]]></title>
             <link>https://ildaro.com/9419</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 26 Jul 2022 13:38:12 GMT</pubDate>
             <content:encoded><![CDATA[이러고도 내가 과연 좋은 엄마가 될 수 있을지를 묻는 사람들의 글에는 본인이 이미 좋은 엄마가 되기에 실패했다는 절망이 있었다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022072640087971.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소설 속에서 만난 기지촌 여성]]></title>
-            <link>https://ildaro.com/9400</link>
-            <guid>https://ildaro.com/9400</guid>
-            <pubDate>Mon, 25 Jul 2022 12:28:43 GMT</pubDate>
-            <content:encoded><![CDATA[강제로 끌고 와서 페니실린 항생제를 투약한 곳을 ‘치료감호소’라 부르는 것은 정부의 입장일 뿐, 처분당해야 하는 기지촌 여성들의 입장은 반영되지 않은 말이다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/202207252829194.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
