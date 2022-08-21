@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 10:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 11:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/5971db22-6401-4c30-9089-ad083a8a66ac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘변호사 미투’ 내부총질 취급하는 자는 누구인가 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9421</link>
+            <guid>https://ildaro.com/9421</guid>
+            <pubDate>Sun, 21 Aug 2022 11:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[가해자의 죽음으로 피해자가 제기한 모든 법적 절차가 사실상 중단되는데, 이는 곧 피해자의 권리가 사라지는 것이다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022082120183570.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[내가 어디에 속해 있는지 헤맨 적 있는 사람이라면 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9420</link>
             <guid>https://ildaro.com/9420</guid>
@@ -422,14 +430,6 @@
             <pubDate>Wed, 27 Jul 2022 11:16:48 GMT</pubDate>
             <content:encoded><![CDATA[Kim was adopted to Michigan, raised in south Florida, lived in Eastern and Western Europe for 8 years, followed by 7 years in Minneapolis, and then her 8 years in Seoul....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022072759459381.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘엄마’의 우울증과 모성 이데올로기 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9401</link>
-            <guid>https://ildaro.com/9401</guid>
-            <pubDate>Tue, 26 Jul 2022 13:38:12 GMT</pubDate>
-            <content:encoded><![CDATA[이러고도 내가 과연 좋은 엄마가 될 수 있을지를 묻는 사람들의 글에는 본인이 이미 좋은 엄마가 되기에 실패했다는 절망이 있었다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022072640087971.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
