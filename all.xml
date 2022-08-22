@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 01:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 03:57:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["제발 아프간을 잊지 말아달라고 말하기 위해 한국까지 왔다" (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202208221030001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202208221030001</guid>
+            <pubDate>Mon, 22 Aug 2022 03:55:07 GMT</pubDate>
+            <content:encoded><![CDATA[탈레반이 아프가니스탄의 정권을 장악한 지 지난 15일로 1년이 지났다. 국제사회의 우려대로 아프간 여성 인권은 나락으로 떨어졌고, 아프간 전체 인구의 97%가 빈곤선 이하에 놓이게 됐다. 지난 6월 동부 파키스탄 접경 지역에서 지진까지 일어나면서 아프간 상황은 더욱 열악해졌다.탈레반 점령 이후 아프간에서 여성은 인간으로 인정받지 못하고 교육·취업 기회를 잃었다. 꿈을 꿀 권리마저 빼앗기고 있다” 아순타 찰스 월드비전 아프간지부 회장은 17일 월드비전 서울 사...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/08/22/l_2022081901000977000080921.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올 한 해 성평등에 공헌한 영화인, 신수원·정서경·박찬욱 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202208191638001</link>
@@ -80,14 +88,6 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/08/16/l_2022081601000776300064302.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[탈레반 집권 1년… "빵,일,자유"를 외치는 아프간 여성들 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202208161332001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202208161332001</guid>
-            <pubDate>Tue, 16 Aug 2022 04:37:57 GMT</pubDate>
-            <content:encoded><![CDATA[이슬람 무장단체 탈레반이 미군이 철수한 아프가니스탄을 재장악한 지 15일(현지시간)로 1년을 맞는다. 1년 사이에 여학교는 문을 닫았고 여성들은 공공장소에서 얼굴도 가려야 하는 상황이 됐다. 음악과 드라마는 금지되고 권선징악부와 도덕경찰이 부활했다. 국민 70%가 빈곤선 이하로 떨어지는 등 경제는 파탄이 났다. 이런 가운데 아프간에 극단주의 무장세력이 몰려들어 글로벌 테러리즘의 요람이 될 수 있다는 우려까지 제기된다.▼ 여성부터 지운 탈레반 ▲ 탈레반은 재집...]]></content:encoded>
-            <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/08/16/l_2022081601000772800063781.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
@@ -110,6 +110,14 @@
             <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022. 01. 17]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["제발 아프간을 잊지 말아달라고 말하기 위해 한국까지 왔다" (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202208221030001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202208221030001</guid>
+            <pubDate>Mon, 22 Aug 2022 03:55:55 GMT</pubDate>
+            <content:encoded><![CDATA[탈레반이 아프가니스탄의 정권을 장악한 지 지난 15일로 1년이 지났다. 국제사회의 우려대로 아프간 여성 인권은 나락으로 떨어졌고, 아프간 전체 인구의 97%가 빈곤선 이하에 놓이게 됐다. 지난 6월 동부 파키스탄 접경 지역에서 지진까지 일어나면서 아프간 상황은 더욱 열악해졌다.탈레반 점령 이후 아프간에서 여성은 인간으로 인정받지 못하고 교육·취업 기회를 잃었다. 꿈을 꿀 권리마저 빼앗기고 있다” 아순타 찰스 월드비전 아프간지부 회장은 17일 월드비전 서울 사...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/22/l_2022081901000977000080921.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올 한 해 성평등에 공헌한 영화인, 신수원·정서경·박찬욱 (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -182,14 +190,6 @@
             <pubDate>Tue, 16 Aug 2022 07:10:40 GMT</pubDate>
             <content:encoded><![CDATA[대통령실 9급 공무원 ‘사적채용’ 논란, ‘내부총질’ 문자 파동 등 잇따른 구설로 위기에 몰린 권성동 국민의힘 원내대표가 또다시 페미니즘을 저격하고 나서자 2030 여성들을 중심으로 “페미니즘을 방패 삼아 정치적 위기를 모면하려 들지말라”는 비판이 나왔다. 권 원내대표가 저격한 성평등 문화 추진단 사업의 폐지 반대 서명에는 나흘 만에 1만명이 넘는 시민이 서명했다.권 원내대표는 지난 13일 자신의 페이스북에 “성평등과 페미니즘이 그렇게 중요하다면 자기 돈...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/16/l_2022081601000776300064302.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탈레반 집권 1년… "빵,일,자유"를 외치는 아프간 여성들 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202208161332001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202208161332001</guid>
-            <pubDate>Tue, 16 Aug 2022 04:37:57 GMT</pubDate>
-            <content:encoded><![CDATA[이슬람 무장단체 탈레반이 미군이 철수한 아프가니스탄을 재장악한 지 15일(현지시간)로 1년을 맞는다. 1년 사이에 여학교는 문을 닫았고 여성들은 공공장소에서 얼굴도 가려야 하는 상황이 됐다. 음악과 드라마는 금지되고 권선징악부와 도덕경찰이 부활했다. 국민 70%가 빈곤선 이하로 떨어지는 등 경제는 파탄이 났다. 이런 가운데 아프간에 극단주의 무장세력이 몰려들어 글로벌 테러리즘의 요람이 될 수 있다는 우려까지 제기된다.▼ 여성부터 지운 탈레반 ▲ 탈레반은 재집...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/16/l_2022081601000772800063781.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[특명: 여가부 폐지 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
