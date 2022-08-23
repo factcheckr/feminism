@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 04:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 05:53:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘피해자’ 이미지에 갇히지 않는 여성들의 관계와 일]]></title>
+            <link>https://ildaro.com/9422</link>
+            <guid>https://ildaro.com/9422</guid>
+            <pubDate>Tue, 23 Aug 2022 05:53:56 GMT</pubDate>
+            <content:encoded><![CDATA[첫 시작부터 그는 한쪽 손을 뒷짐진 채, 미리 예행연습을 한다. 빚에 시달리는 모습부터 혼자 밥을 먹는 모습까지, 어느 한 장면도 눈을 뗄 수 없다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022082304494805.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘변호사 미투’ 내부총질 취급하는 자는 누구인가]]></title>
             <link>https://ildaro.com/9421</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 28 Jul 2022 00:27:00 GMT</pubDate>
             <content:encoded><![CDATA[무엇보다 자폐 특성으로 인해 사회에서 낙오되는 게 당연한 것은 올바른 상황이 아님을 확실히 할 수 있었습니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022072832575864.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["Abandonment Issues"]]></title>
-            <link>https://ildaro.com/9402</link>
-            <guid>https://ildaro.com/9402</guid>
-            <pubDate>Wed, 27 Jul 2022 11:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[Kim was adopted to Michigan, raised in south Florida, lived in Eastern and Western Europe for 8 years, followed by 7 years in Minneapolis, and then her 8 years in Seoul....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022072759459381.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

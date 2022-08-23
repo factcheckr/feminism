@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 04:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 05:53:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["공구 든 여자는 무적이었다" '모가이버'가 되고 느낀 해방의 기쁨]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202208231401001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202208231401001</guid>
+            <pubDate>Tue, 23 Aug 2022 05:52:30 GMT</pubDate>
+            <content:encoded><![CDATA[꼭 필요한 반려공구 세 가지를 추천한다면? 최근 한 드라마에 여성이 남성을 집으로 불러 전등을 갈아달라 요청하는 장면이 등장했다. 업무상 갑을관계를 보여주려는 의도였지만, 여성은 이런 일에 취약하고 무능력하다는 시대착오적인 설정이라는 비판이 제기됐다.&lt;반려공구&gt;(라이프앤페이지)를 출간한 모호연 작가는 “집안일의 일부이지, 성별의 문제가 아닌데 아직도 (드라마에서) 그런 식으로 다뤄졌다는 얘기를 듣고 마음이 복잡했다”라고 말했다. 지인들에게 ‘모가이버...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/23/l_2022082201001046800088251.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘좋은 섹스’의 조건, ‘동의’만으론 충분할까]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202208221356001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 17 Aug 2022 06:19:46 GMT</pubDate>
             <content:encoded><![CDATA[아래쪽 집들이 물에 잠기기 시작하는 걸 보며 대통령은 퇴근했다. 재난은 아래쪽의 문제였을 뿐이다. 침수로 사람이 목숨을 잃은 집 앞에서 반지하 방을 내려다보던 사진만큼 솔직한 고백이 있을까. 그는 아래쪽의 재난을 구경하는 자리에 있을 뿐이었다.폭우와 함께 재난불평등이 드러나고 있다. 가난할수록 재해에 더 잦게 노출되고 더 크게 피해를 입는다는 사실은 새롭지 않다. 장애인, 아동, 노인 등 재난에서 더 취약한 집단이 있다는 사실도 재난 대응 정책의 서두에...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/17/l_2022081601000777400064401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['백마 탄 여장군' 김명시, 서훈 세번 신청 만에 독립유공자 인정]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202208171016001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202208171016001</guid>
-            <pubDate>Wed, 17 Aug 2022 03:55:41 GMT</pubDate>
-            <content:encoded><![CDATA[경남 마산 출신 항일 독립운동가 김명시 장군(1907~1949)이 독립유공자로 인정됐다.국가보훈처는 지난 12일 제77주년 광복절을 맞아 독립운동가 303명을 독립유공자로 포상하면서 김명시 장군에게 ‘건국훈장 애국장’을 추서했다고 15일 밝혔다.김명시 장군은 19세이던 1925년 모스크바로 유학을 떠났다가 1927년 상하이에서 항일독립 운동을 시작했다. 1930년에는 하얼빈 일본영사관 공격에 주도적으로 참여했다.1932년에는 국내로 잠입해 활동하다가 일본 경찰에 체포돼 심문을 받고 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/17/l_2022081601000782500064741.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
