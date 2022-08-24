@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 04:07:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 05:42:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뒤늦은 부고 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202208241337001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202208241337001</guid>
+            <pubDate>Wed, 24 Aug 2022 05:39:59 GMT</pubDate>
+            <content:encoded><![CDATA[1988년 미얀마는 민주화를 향한 열망으로 뜨거웠다. 랑군대학(지금의 양곤대) 물리학과 3학년이던 코 지미가 그녀를 처음 본 곳도 8888항쟁 시위 현장이었다. 교복을 입은 한 여학생이 몰려오는 군인들 앞에서 물러서지 않고 발차기를 하며 싸우고 있었다. 훗날 그는 그 인상적인 모습이 오래도록 기억에 남았다고 회상했다. 하지만 그는 그녀의 이름을 알아볼 새도 없이 곧 학생 시위를 조직한 혐의로 감옥에 끌려간다. 그때 그의 나이는 불과 열아홉 살이었다.악명 높은 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/08/24/l_2022082201001030400087091.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[법원 “10년 전 만들어진 만화라도 '성차별' 제재는 정당” (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202208241035001</link>
@@ -80,14 +88,6 @@
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/08/18/l_2022081701000848500070302.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[결혼이주여성들, '나'로서 말하고, 주장하고, 화내기로 결심하다 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202208181046001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202208181046001</guid>
-            <pubDate>Thu, 18 Aug 2022 03:57:46 GMT</pubDate>
-            <content:encoded><![CDATA[“돈 몇푼 때문에 살고 있는 것이 아니며 잘 살려고 왔다는 사실을 시간이 증명해주겠지, 나라도 잘 살면 되겠지 하고 믿었습니다. 온몸에 상처를 떠안고 살아가는 친구들을, 결국 자식과 생이별하는 가슴 절절한 이야기를 애써 외면해야 했습니다. 그렇게 1년, 2년, 어느덧 14년이라는 세월이 흘렀습니다. 이주여성의 현실은 바뀌지 않고 있습니다. 더 이상 가만히 있지 않기로 했습니다. 우리에겐 권리가 있습니다. 우리는 ‘옥천군 결혼이주여성협의회’를 만들었고, 100명이...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/08/18/l_2022081601000777000064371.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
@@ -112,10 +112,18 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뒤늦은 부고 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202208241337001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202208241337001</guid>
+            <pubDate>Wed, 24 Aug 2022 05:40:46 GMT</pubDate>
+            <content:encoded><![CDATA[1988년 미얀마는 민주화를 향한 열망으로 뜨거웠다. 랑군대학(지금의 양곤대) 물리학과 3학년이던 코 지미가 그녀를 처음 본 곳도 8888항쟁 시위 현장이었다. 교복을 입은 한 여학생이 몰려오는 군인들 앞에서 물러서지 않고 발차기를 하며 싸우고 있었다. 훗날 그는 그 인상적인 모습이 오래도록 기억에 남았다고 회상했다. 하지만 그는 그녀의 이름을 알아볼 새도 없이 곧 학생 시위를 조직한 혐의로 감옥에 끌려간다. 그때 그의 나이는 불과 열아홉 살이었다.악명 높은 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/24/l_2022082201001030400087091.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[법원 “10년 전 만들어진 만화라도 '성차별' 제재는 정당” (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202208241035001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202208241035001</guid>
-            <pubDate>Wed, 24 Aug 2022 04:04:57 GMT</pubDate>
+            <pubDate>Wed, 24 Aug 2022 04:04:12 GMT</pubDate>
             <content:encoded><![CDATA[10년 전 만들어진 어린이 애니메이션이라도 성차별적 고정관념을 조장하는 장면이 담긴 채 방영됐다면 방송통신심의위원회(방심위)가 제재 조치한 것은 정당하다는 법원 판단이 나왔다.서울행정법원 행정8부(재판장 이정희)는 애니메이션 &lt;안녕 자두야&gt;의 제작사가 방심위를 상대로 “방송사에 대한 제재조치 명령을 취소해달라”며 낸 소송에서 지난 16일 원고 패소 판결했다고 23일 밝혔다.방심위는 지난해 1월 애니메이션 &lt;안녕 자두야&gt;를 방송한 전문편성채널 3곳에 대...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/24/l_2022082401001160700097941.jpg" length="0" type="image/jpg"/>
         </item>
@@ -182,14 +190,6 @@
             <pubDate>Thu, 18 Aug 2022 06:18:59 GMT</pubDate>
             <content:encoded><![CDATA[‘이상 자궁 출혈’이 코로나19 백신 접종 후 이상반응 의심 질환으로 추가됐다. 증상이 나타나면 최대 5000만원까지 의료비를 지원받을 수 있다.예방접종피해보상 전문위원회(보상위원회)는 빈발 월경과 과다출혈 월경 등 이상 자궁 출혈을 코로나19 백신 ‘관련성 의심’ 질환으로 추가한다고 16일 밝혔다. 보상위원회는 이날 제15차 회의를 열고 코로나19 백신안전성위원회가 발표한 연구 결과에 따른 관련성 의심 질환 변경안을 심의한 뒤 이같이 의결했다.앞서 백신안전성위원...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/18/l_2022081701000848500070302.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결혼이주여성들, '나'로서 말하고, 주장하고, 화내기로 결심하다 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202208181046001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202208181046001</guid>
-            <pubDate>Thu, 18 Aug 2022 03:57:46 GMT</pubDate>
-            <content:encoded><![CDATA[“돈 몇푼 때문에 살고 있는 것이 아니며 잘 살려고 왔다는 사실을 시간이 증명해주겠지, 나라도 잘 살면 되겠지 하고 믿었습니다. 온몸에 상처를 떠안고 살아가는 친구들을, 결국 자식과 생이별하는 가슴 절절한 이야기를 애써 외면해야 했습니다. 그렇게 1년, 2년, 어느덧 14년이라는 세월이 흘렀습니다. 이주여성의 현실은 바뀌지 않고 있습니다. 더 이상 가만히 있지 않기로 했습니다. 우리에겐 권리가 있습니다. 우리는 ‘옥천군 결혼이주여성협의회’를 만들었고, 100명이...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/18/l_2022081601000777000064371.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[특명: 여가부 폐지 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
