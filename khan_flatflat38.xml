@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 01:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 04:07:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[법원 “10년 전 만들어진 만화라도 '성차별' 제재는 정당”]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202208241035001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202208241035001</guid>
+            <pubDate>Wed, 24 Aug 2022 04:04:12 GMT</pubDate>
+            <content:encoded><![CDATA[10년 전 만들어진 어린이 애니메이션이라도 성차별적 고정관념을 조장하는 장면이 담긴 채 방영됐다면 방송통신심의위원회(방심위)가 제재 조치한 것은 정당하다는 법원 판단이 나왔다.서울행정법원 행정8부(재판장 이정희)는 애니메이션 &lt;안녕 자두야&gt;의 제작사가 방심위를 상대로 “방송사에 대한 제재조치 명령을 취소해달라”며 낸 소송에서 지난 16일 원고 패소 판결했다고 23일 밝혔다.방심위는 지난해 1월 애니메이션 &lt;안녕 자두야&gt;를 방송한 전문편성채널 3곳에 대...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/08/24/l_2022082401001160700097941.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["공구 든 여자는 무적이었다" '모가이버'가 되고 느낀 해방의 기쁨]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202208231401001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 18 Aug 2022 03:57:46 GMT</pubDate>
             <content:encoded><![CDATA[“돈 몇푼 때문에 살고 있는 것이 아니며 잘 살려고 왔다는 사실을 시간이 증명해주겠지, 나라도 잘 살면 되겠지 하고 믿었습니다. 온몸에 상처를 떠안고 살아가는 친구들을, 결국 자식과 생이별하는 가슴 절절한 이야기를 애써 외면해야 했습니다. 그렇게 1년, 2년, 어느덧 14년이라는 세월이 흘렀습니다. 이주여성의 현실은 바뀌지 않고 있습니다. 더 이상 가만히 있지 않기로 했습니다. 우리에겐 권리가 있습니다. 우리는 ‘옥천군 결혼이주여성협의회’를 만들었고, 100명이...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/08/18/l_2022081601000777000064371.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아래쪽의 재난]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202208171423001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202208171423001</guid>
-            <pubDate>Wed, 17 Aug 2022 08:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[아래쪽 집들이 물에 잠기기 시작하는 걸 보며 대통령은 퇴근했다. 재난은 아래쪽의 문제였을 뿐이다. 침수로 사람이 목숨을 잃은 집 앞에서 반지하 방을 내려다보던 사진만큼 솔직한 고백이 있을까. 그는 아래쪽의 재난을 구경하는 자리에 있을 뿐이었다.폭우와 함께 재난불평등이 드러나고 있다. 가난할수록 재해에 더 잦게 노출되고 더 크게 피해를 입는다는 사실은 새롭지 않다. 장애인, 아동, 노인 등 재난에서 더 취약한 집단이 있다는 사실도 재난 대응 정책의 서두에...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/08/17/l_2022081601000777400064401.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
