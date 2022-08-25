@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 07:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 08:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PC하면 '노잼'이라고 누가 그래? '원 데이 앳 어 타임' (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202208251505001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202208251505001</guid>
+            <pubDate>Thu, 25 Aug 2022 06:29:58 GMT</pubDate>
+            <content:encoded><![CDATA[주말 저녁 개그 프로그램을 싫어했다. 걱정 없이 웃어야 하는데, 누군가를 비하하거나 우스꽝스럽게 흉내 내는 걸 보고 있자니 늘 마음 한편이 불편했다. 마음 놓고 웃을 수 있는 콘텐츠의 세계는 우연히 미국 드라마 &lt;모던 패밀리&gt;를 접했을 때 열렸다. 이후 &lt;브루클린 나인나인&gt; &lt;마스터 오브 제로&gt; &lt;김씨네 편의점&gt; &lt;미스터 쿠쿠&gt; 등 영어권 코미디를 잇달아 본 뒤, ‘더 볼 거 없을까’ 하다 우연히 발견한 작품을 소개한다. 쿠바계...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/08/25/l_2022082501001239600103522.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['캠퍼스 안 투명인간'에서 '노동자'가 되기 위해 싸우기로 했다 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202208251036001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 19 Aug 2022 07:14:12 GMT</pubDate>
             <content:encoded><![CDATA[이 글은 2022년 8월19일자 플랫 뉴스레터 &lt;‘백마탄 여장군’ 김명시에 바치는 헌사&gt;를 수정한 것입니다. 더 많은 이야기를 보고 싶으시다면 플랫 뉴스레터를 구독해주세요. 흘려보내기 쉬운 이번주의 젠더뉴스, 취재 후기 등을 알차게 전해드립니다. 뉴스레터는 매주 금요일 오전 7시 발송됩니다. (▶구독하러 가기 https://page.stibee.com/subscriptions/195403?groupIds=187528) 이번주 월요일은 광복절이었죠. 한 주 시작에 광복절 관련 기사를 모니터링하다가 여성 독립운동...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/08/19/l_2022081901000957200079922.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 정부의 '서·오·남' 사랑… 유리천장은 다시 두꺼워졌다 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202208191052011</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202208191052011</guid>
-            <pubDate>Fri, 19 Aug 2022 03:48:32 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 정부 핵심 고위공직자의 92.6%는 남성으로 조사됐다. 190명 중 여성은 14명으로 7.4%에 그쳤다. 전임 정부와 수치상으로 비슷하지만 장관급 인사가 줄어 질적으론 퇴보했다. 남녀 인구 분포와 비교해 여성 고위공직자 비율이 현저하게 낮아 여성 과소대표 문제가 이어졌다.경향신문이 14일 대통령실과 정부 부처 등 45개 기관 190명의 고위공직자(윤석열 정부 신규 임명 또는 유임 인사로 한정)를 분석한 결과 여성은 모두 14명(7.4%)으로 나타났다. 2019년 문재인 대통...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/08/19/l_2022081601000779200064541.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
