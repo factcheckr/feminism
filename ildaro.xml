@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 11:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 12:30:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미투는 기득권과의 싸움, 피해자에겐 지지자가 필요하다]]></title>
+            <link>https://ildaro.com/9424</link>
+            <guid>https://ildaro.com/9424</guid>
+            <pubDate>Thu, 25 Aug 2022 12:30:39 GMT</pubDate>
+            <content:encoded><![CDATA[“미투 운동이 무엇과의 싸움이었는가 묻는다면, 성폭력과의 싸움인 것과 동시에 기득권과의 싸움이었다고 생각한다.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022082505408821.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[할리우드 스튜디오 시스템에 균열을 낸 여성영화인]]></title>
             <link>https://ildaro.com/9423</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 31 Jul 2022 10:16:57 GMT</pubDate>
             <content:encoded><![CDATA[시니어 대상 창작 수업을 했을 때, 어떤 분이 ‘선생님 소설엔 특이하게 퀴어가 자주 나오는 것 같다’고 하더라고요. 그래서 제가 ‘익숙하지 않아서 낯설게 보이는 ...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022073131205165.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과대 생산의 사회, 이삭 줍는 사람들]]></title>
-            <link>https://ildaro.com/9404</link>
-            <guid>https://ildaro.com/9404</guid>
-            <pubDate>Sat, 30 Jul 2022 09:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[바르다가 영화를 만드는 방식은 이삭을 줍는 것과 같다. 쓰레기 더미를 뒤지는 사람들을 집요하게 쫓아가 이미지를 줍는다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202207/2022073006488781.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
