@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 01:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 04:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['캠퍼스 안 투명인간'에서 '노동자'가 되기 위해 싸우기로 했다 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202208251036001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202208251036001</guid>
+            <pubDate>Thu, 25 Aug 2022 04:07:07 GMT</pubDate>
+            <content:encoded><![CDATA[진리의 상아탑이나 취업 사관학교 같은 별칭들은 대학의 진짜 모습을 절반만 설명해준다. 캠퍼스는 거대한 일터다. 교수·강사와 행정 직원부터 교정에 입점한 프랜차이즈 식당의 종업원까지, 교육만큼이나 거대한 노동이 캠퍼스에서 매일 이뤄진다. 그런 대학에서 교육환경과 노동환경 양쪽을 모두 챙기는 이들이 있다. 바로 청소노동자들이다.1교시가 시작하기 전, 직원들이 출근하기 전까지 청소노동자들은 모든 공간을 깨끗이 치워놓고 잘 보이지 않는 휴게공간에서 숨을 돌린다...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/08/25/l_2022082201001047700088341.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[첫 출근한 여성 행원에 '점심 밥짓기' 인수인계 시킨 새마을금고 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202208241531001</link>
@@ -80,14 +88,6 @@
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/08/19/l_2022081601000779200064541.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['여성서사 아카이브' 플랫이 뉴스레터를 시작합니다 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202208181911001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202208181911001</guid>
-            <pubDate>Thu, 18 Aug 2022 10:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[플랫이 뉴스레터를 시작합니다. 밀려드는 뉴스의 홍수 속에서 흘려보내기 쉬운 젠더 관련 기사들을 매주 금요일 오전 7시 이메일로 만나보세요.한 주간 플랫을 만드며 느꼈던 소회와 고민,구독자들과 나누고 싶은 질문들도 담았습니다.플랫은 “백래시의 소음에서 ‘반 보’ 물러나여성들의 이야기를 나누는 공간”이 되기를 희망합니다.📌[구독하러 가기]https://page.stibee.com/subscriptions/195403?groupIds=187528📌[지난회차 다시보기]https://page.stibee.com/archives/19...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/08/18/l_2022081801000940500076631.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
@@ -110,6 +110,14 @@
             <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022. 01. 17]]></content:encoded>
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['캠퍼스 안 투명인간'에서 '노동자'가 되기 위해 싸우기로 했다 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202208251036001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202208251036001</guid>
+            <pubDate>Thu, 25 Aug 2022 04:07:53 GMT</pubDate>
+            <content:encoded><![CDATA[진리의 상아탑이나 취업 사관학교 같은 별칭들은 대학의 진짜 모습을 절반만 설명해준다. 캠퍼스는 거대한 일터다. 교수·강사와 행정 직원부터 교정에 입점한 프랜차이즈 식당의 종업원까지, 교육만큼이나 거대한 노동이 캠퍼스에서 매일 이뤄진다. 그런 대학에서 교육환경과 노동환경 양쪽을 모두 챙기는 이들이 있다. 바로 청소노동자들이다.1교시가 시작하기 전, 직원들이 출근하기 전까지 청소노동자들은 모든 공간을 깨끗이 치워놓고 잘 보이지 않는 휴게공간에서 숨을 돌린다...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/25/l_2022082201001047700088341.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[첫 출근한 여성 행원에 '점심 밥짓기' 인수인계 시킨 새마을금고 (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -182,14 +190,6 @@
             <pubDate>Fri, 19 Aug 2022 03:48:32 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 정부 핵심 고위공직자의 92.6%는 남성으로 조사됐다. 190명 중 여성은 14명으로 7.4%에 그쳤다. 전임 정부와 수치상으로 비슷하지만 장관급 인사가 줄어 질적으론 퇴보했다. 남녀 인구 분포와 비교해 여성 고위공직자 비율이 현저하게 낮아 여성 과소대표 문제가 이어졌다.경향신문이 14일 대통령실과 정부 부처 등 45개 기관 190명의 고위공직자(윤석열 정부 신규 임명 또는 유임 인사로 한정)를 분석한 결과 여성은 모두 14명(7.4%)으로 나타났다. 2019년 문재인 대통...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/19/l_2022081601000779200064541.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['여성서사 아카이브' 플랫이 뉴스레터를 시작합니다 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202208181911001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202208181911001</guid>
-            <pubDate>Thu, 18 Aug 2022 10:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[플랫이 뉴스레터를 시작합니다. 밀려드는 뉴스의 홍수 속에서 흘려보내기 쉬운 젠더 관련 기사들을 매주 금요일 오전 7시 이메일로 만나보세요.한 주간 플랫을 만드며 느꼈던 소회와 고민,구독자들과 나누고 싶은 질문들도 담았습니다.플랫은 “백래시의 소음에서 ‘반 보’ 물러나여성들의 이야기를 나누는 공간”이 되기를 희망합니다.📌[구독하러 가기]https://page.stibee.com/subscriptions/195403?groupIds=187528📌[지난회차 다시보기]https://page.stibee.com/archives/19...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/18/l_2022081801000940500076631.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[특명: 여가부 폐지 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
