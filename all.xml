@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 23:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 01:08:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘너 페미야?’ 질문에 현명하게 받아치는 법 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202208270714001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202208270714001</guid>
+            <pubDate>Fri, 26 Aug 2022 23:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[지난달 11일, 경향신문 ‘여성 서사 아카이브’ 플랫은 &lt;언론이 부추긴 ‘여혐’, 교실에 스미다&gt;라는 기사를 소개했습니다. 기사에 등장한 20년 경력의 성평등 미디어 교육 강사와 고등학생 인권단체 활동가는 여성 혐오적인 언론 보도 관행을 지적할 때마다 ‘너 페미야?’라는 질문에 직면하게 된다고 입을 모았어요.사실 페미니스트라면 일상에서 한 번쯤 마주쳤을 법한 상황이기도 하죠. 한 독자분은 기사를 읽고 이런 댓글을 남겨주셨어요.“공감합니다. ‘너 페미야...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/08/27/news-p.v1.20220827.8acf333a9be44bbf98ee08b4ca19e213_P1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[“성추행 교과서 OUT” 중국 교육부에 날아든 1870통의 항의 메일 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202208261409001</link>
@@ -80,14 +88,6 @@
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/08/22/l_2022081001000507300042345.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["제발 아프간을 잊지 말아달라고 말하기 위해 한국까지 왔다" (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202208221030001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202208221030001</guid>
-            <pubDate>Mon, 22 Aug 2022 03:55:07 GMT</pubDate>
-            <content:encoded><![CDATA[탈레반이 아프가니스탄의 정권을 장악한 지 지난 15일로 1년이 지났다. 국제사회의 우려대로 아프간 여성 인권은 나락으로 떨어졌고, 아프간 전체 인구의 97%가 빈곤선 이하에 놓이게 됐다. 지난 6월 동부 파키스탄 접경 지역에서 지진까지 일어나면서 아프간 상황은 더욱 열악해졌다.탈레반 점령 이후 아프간에서 여성은 인간으로 인정받지 못하고 교육·취업 기회를 잃었다. 꿈을 꿀 권리마저 빼앗기고 있다” 아순타 찰스 월드비전 아프간지부 회장은 17일 월드비전 서울 사...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/08/22/l_2022081901000977000080921.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['여고생의 정서적 위로'는 필요로 하지만 '폭력'은 방관하는 어른들[플랫] (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202201141628001/?utm_campaign=list_click&amp;utm_source=reporter_article&amp;utm_medium=referral&amp;utm_content=%ED%94%8C%EB%9E%AB%ED%8C%80_%EA%B8%B0%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80</guid>
@@ -112,7 +112,7 @@
             <enclosure url="http://img.khan.co.kr/news/c/320x220/2022/01/17/l_2022011401001765500149961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘너 페미야?’ 질문에 현명하게 받아치는 법 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <title><![CDATA[‘너 페미야?’ 질문에 현명하게 받아치는 법[플랫] (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202208270714001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202208270714001</guid>
             <pubDate>Fri, 26 Aug 2022 23:15:07 GMT</pubDate>
