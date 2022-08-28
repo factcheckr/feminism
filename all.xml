@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 03:57:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 04:54:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/5971db22-6401-4c30-9089-ad083a8a66ac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[재탄생한 ‘그들만의 리그’와 95세 야구선수의 커밍아웃 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9426</link>
+            <guid>https://ildaro.com/9426</guid>
+            <pubDate>Sun, 28 Aug 2022 09:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 는 그야말로 새롭다. 동시에 원작이 그랬듯 ‘여성 스포츠’라는 드문 소재를 굉장히 매력적으로 그려냈다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022082844391074.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우리 마을은 다국적 ‘이모’들의 노동으로 유지된다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9425</link>
             <guid>https://ildaro.com/9425</guid>
@@ -422,14 +430,6 @@
             <pubDate>Thu, 04 Aug 2022 09:49:00 GMT</pubDate>
             <content:encoded><![CDATA[“서로 민폐를 끼치는 연습을 해야 한다.” 내가 가족이 아닌 누군가와 동거할 수 있는 용기를 내는 데 가장 결정적인 힘을 준 문장이다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022080454555950.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[변호사 사무실을 개업하며 겪은 세 번의 성폭력 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9406</link>
-            <guid>https://ildaro.com/9406</guid>
-            <pubDate>Tue, 02 Aug 2022 09:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[변호사가 된 첫 한 해 동안 기억나는 일상의 성폭력이 세 번이나 있었다. 내가 변호사인데, 직장내 성폭력이나 갑질 문제로 삼성하고도 싸우고 나온 사람인데…...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022080259271442.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
