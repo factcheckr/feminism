@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 09:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 10:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/5971db22-6401-4c30-9089-ad083a8a66ac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[세상 가벼운 “땡큐”를 주고받는 비혼공동체 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9427</link>
+            <guid>https://ildaro.com/9427</guid>
+            <pubDate>Mon, 29 Aug 2022 10:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[나는 중년의 비혼여성, 임대아파트에서 비혼여성공동체 ‘비혼들의비행’(이하 ‘비비’)을 주축으로 20여 명의 비혼여성과 함께 1인 가구 네트워크 생활공동체를 이...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022082923217218.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[재탄생한 ‘그들만의 리그’와 95세 야구선수의 커밍아웃 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9426</link>
             <guid>https://ildaro.com/9426</guid>
@@ -422,14 +430,6 @@
             <pubDate>Fri, 05 Aug 2022 09:15:36 GMT</pubDate>
             <content:encoded><![CDATA[I take these final photographs with my umma so that when I ache for her in Minneapolis I have something to hold....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022080557442881.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누구나 돌봄이 가능하다고 우기는 법 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9407</link>
-            <guid>https://ildaro.com/9407</guid>
-            <pubDate>Thu, 04 Aug 2022 09:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[“서로 민폐를 끼치는 연습을 해야 한다.” 내가 가족이 아닌 누군가와 동거할 수 있는 용기를 내는 데 가장 결정적인 힘을 준 문장이다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022080454555950.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
