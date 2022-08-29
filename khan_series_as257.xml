@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 04:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 06:07:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어려운 숙제로 더 강해지는 서채현, 그의 '바위하러 가는 마음']]></title>
+            <link>https://www.khan.co.kr/sports/sports-general/article/202208291436001</link>
+            <guid>https://www.khan.co.kr/sports/sports-general/article/202208291436001</guid>
+            <pubDate>Mon, 29 Aug 2022 06:06:18 GMT</pubDate>
+            <content:encoded><![CDATA[가뿐하게 폴짝. 형형색색 ‘홀드’가 가득한 실내 인공암장 벽면을 올라간 그는 한동안 내려오지 않았다. 팔다리를 이리저리 뻗어 홀드를 바꿔 잡으며 위로, 옆으로 재빠르게 옮겨다녔다. 한 팔과 한 다리로 몸을 지탱하며 흔들흔들 움직이기도 했다. 손끝으로 잡고 발끝으로 디딜 곳만 있으면 어디든 매달리고 이동했다. ‘거미 인간’이라는 별명이 괜한 게 아니었다. 그는 “10분쯤은, 가볍게 몸을 푸는 정도”라고 말했다.그의 손을 봤다. 지문은 보일락 말락, 손마디는 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/29/l_2022082201001049400088481.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[갱년기는 '견뎌내야 하는 것'이라는 말, 이젠 그만 듣고 싶다]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202208291047001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 24 Aug 2022 04:04:57 GMT</pubDate>
             <content:encoded><![CDATA[10년 전 만들어진 어린이 애니메이션이라도 성차별적 고정관념을 조장하는 장면이 담긴 채 방영됐다면 방송통신심의위원회(방심위)가 제재 조치한 것은 정당하다는 법원 판단이 나왔다.서울행정법원 행정8부(재판장 이정희)는 애니메이션 &lt;안녕 자두야&gt;의 제작사가 방심위를 상대로 “방송사에 대한 제재조치 명령을 취소해달라”며 낸 소송에서 지난 16일 원고 패소 판결했다고 23일 밝혔다.방심위는 지난해 1월 애니메이션 &lt;안녕 자두야&gt;를 방송한 전문편성채널 3곳에 대...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/24/l_2022082401001313300110001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["공구 든 여자는 무적이었다" '모가이버'가 되고 느낀 해방의 기쁨]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202208231401001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202208231401001</guid>
-            <pubDate>Tue, 23 Aug 2022 05:52:30 GMT</pubDate>
-            <content:encoded><![CDATA[꼭 필요한 반려공구 세 가지를 추천한다면? 최근 한 드라마에 여성이 남성을 집으로 불러 전등을 갈아달라 요청하는 장면이 등장했다. 업무상 갑을관계를 보여주려는 의도였지만, 여성은 이런 일에 취약하고 무능력하다는 시대착오적인 설정이라는 비판이 제기됐다.&lt;반려공구&gt;(라이프앤페이지)를 출간한 모호연 작가는 “집안일의 일부이지, 성별의 문제가 아닌데 아직도 (드라마에서) 그런 식으로 다뤄졌다는 얘기를 듣고 마음이 복잡했다”라고 말했다. 지인들에게 ‘모가이버...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/23/l_2022082201001046800088251.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
