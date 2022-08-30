@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 01:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 04:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["계속 춤춰!" 힐러리 클린턴이 '파티 논란' 핀란드 총리를 응원하는 법]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202208301055001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202208301055001</guid>
+            <pubDate>Tue, 30 Aug 2022 04:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[힐러리 클린턴 전 미국 국무장관이 파티 영상 유출로 논란이 된 산나 마린 핀란드 총리를 응원했다.클린턴 전 장관은 28일(현지시간) 트위터를 통해 2012년 콜롬비아에서 열린 미주기구(OAS) 정상회의 기간 휴식 시간에 사람들에게 둘러 싸여 웃으며 춤을 추는 자신의 사진을 공개했다. 그러면서 그는 “이건 국무장관으로 회의에 참석했을 때 (콜롬비아) 카르타헤나에서의 내 모습”이라고 말했다. 이어 그는 마린 총리의 트위터 계정을 태그한 후 “계속 춤춰”라고 썼다.클...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/08/30/l_2022083001001449800121501.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어려운 숙제로 더 강해지는 서채현, 그의 '바위하러 가는 마음']]></title>
             <link>https://www.khan.co.kr/sports/sports-general/article/202208291436001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 24 Aug 2022 05:39:59 GMT</pubDate>
             <content:encoded><![CDATA[1988년 미얀마는 민주화를 향한 열망으로 뜨거웠다. 랑군대학(지금의 양곤대) 물리학과 3학년이던 코 지미가 그녀를 처음 본 곳도 8888항쟁 시위 현장이었다. 교복을 입은 한 여학생이 몰려오는 군인들 앞에서 물러서지 않고 발차기를 하며 싸우고 있었다. 훗날 그는 그 인상적인 모습이 오래도록 기억에 남았다고 회상했다. 하지만 그는 그녀의 이름을 알아볼 새도 없이 곧 학생 시위를 조직한 혐의로 감옥에 끌려간다. 그때 그의 나이는 불과 열아홉 살이었다.악명 높은 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/08/24/l_2022082201001030400087091.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법원 “10년 전 만들어진 만화라도 '성차별' 제재는 정당”]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202208241035001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202208241035001</guid>
-            <pubDate>Wed, 24 Aug 2022 04:04:12 GMT</pubDate>
-            <content:encoded><![CDATA[10년 전 만들어진 어린이 애니메이션이라도 성차별적 고정관념을 조장하는 장면이 담긴 채 방영됐다면 방송통신심의위원회(방심위)가 제재 조치한 것은 정당하다는 법원 판단이 나왔다.서울행정법원 행정8부(재판장 이정희)는 애니메이션 &lt;안녕 자두야&gt;의 제작사가 방심위를 상대로 “방송사에 대한 제재조치 명령을 취소해달라”며 낸 소송에서 지난 16일 원고 패소 판결했다고 23일 밝혔다.방심위는 지난해 1월 애니메이션 &lt;안녕 자두야&gt;를 방송한 전문편성채널 3곳에 대...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/08/24/l_2022082401001313300110001.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
