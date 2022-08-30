@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 06:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 07:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['여성 농업인 특수건강검진사업' 첫발 떼자마자 폐지 위기]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202208301555001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202208301555001</guid>
+            <pubDate>Tue, 30 Aug 2022 07:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[여성농업인 특수건강검진사업이 시범사업 1년 만에 폐지 위기를 맞았다. 기획재정부의 지출구조조정 방침에 따라 내년 본사업 시행이 무산된 것으로 확인됐다. 여성농업인 특수건강검진은 농업에 종사하는 여성 노동자가 농작업 질환 관련 특수건강검진을 받도록 하는 정부가 지원하는 사업이다. 윤석열 정부 국정과제(농업분야)이기도 하다. 긴축 재정으로 복지 사업이 위축될 수 있다는 우려가 현실이 됐다는 지적이 나온다.“이게 없어지면 안되지. 받아보니까 참 좋더라고요. 나...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/30/l_2022082601001332000111381.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["계속 춤춰!" 힐러리 클린턴이 '파티 논란' 핀란드 총리를 응원하는 법]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202208301055001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 24 Aug 2022 07:13:06 GMT</pubDate>
             <content:encoded><![CDATA[2020년 8월 전북 남원시의 한 새마을금고에 입사한 A씨(20대)는 출근 첫 날 ‘밥’을 지었다. 하는 일은 창구 수납 업무였는데 점심시간에 맞춰 쌀을 씻어 밥을 안치는 일을 인수·인계받았다. 담당 과장은 “남자화장실 수건을 빨아서 가지고 오라”고도 지시했다.A씨는 “이건 좀 아닌 것 같다”는 생각에 정중히 거절했다. 담당 과장은 “로마에는 로마의 법이 있다” “시골이니까 네가 이해해야 한다”고 말했다.회식도 고역이었다. 코로나19 시국에도 이사장과 상무, 지점...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/24/l_2022082401001165100098441.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뒤늦은 부고]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202208241337001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202208241337001</guid>
-            <pubDate>Wed, 24 Aug 2022 05:40:46 GMT</pubDate>
-            <content:encoded><![CDATA[1988년 미얀마는 민주화를 향한 열망으로 뜨거웠다. 랑군대학(지금의 양곤대) 물리학과 3학년이던 코 지미가 그녀를 처음 본 곳도 8888항쟁 시위 현장이었다. 교복을 입은 한 여학생이 몰려오는 군인들 앞에서 물러서지 않고 발차기를 하며 싸우고 있었다. 훗날 그는 그 인상적인 모습이 오래도록 기억에 남았다고 회상했다. 하지만 그는 그녀의 이름을 알아볼 새도 없이 곧 학생 시위를 조직한 혐의로 감옥에 끌려간다. 그때 그의 나이는 불과 열아홉 살이었다.악명 높은 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/24/l_2022082201001030400087091.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
