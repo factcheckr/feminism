@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 04:31:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 06:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[적자생존 시대는 가라, ‘약자생존’ 광장을 열자]]></title>
+            <link>https://ildaro.com/9428</link>
+            <guid>https://ildaro.com/9428</guid>
+            <pubDate>Wed, 31 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정글같은 ‘강자생존’의 세상에 반대하며, 약한 사람들도 함께 살아갈 수 있는 ‘약자생존’의 사회가 필요하다고 주장한다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022083105553569.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세상 가벼운 “땡큐”를 주고받는 비혼공동체]]></title>
             <link>https://ildaro.com/9427</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 06 Aug 2022 09:18:00 GMT</pubDate>
             <content:encoded><![CDATA[자리를 채운 사람들이 페미니스트여서, 마음껏 웃고 떠드는 경험. 때로는 어떠한 촘촘한 이론보다도 그 순간의 기억이 운동을 이어 나가는 동력이 됨을 느낀다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022080626313042.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I take final photograghs with my “Korean Umma”]]></title>
-            <link>https://ildaro.com/9408</link>
-            <guid>https://ildaro.com/9408</guid>
-            <pubDate>Fri, 05 Aug 2022 09:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[I take these final photographs with my umma so that when I ache for her in Minneapolis I have something to hold....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022080557442881.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
