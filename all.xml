@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 11:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 12:29:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/af1c5a53-eb82-43e5-83b9-0d78b932e938.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[강남역 10번 출구부터 인하대 캠퍼스까지 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9429</link>
+            <guid>https://ildaro.com/9429</guid>
+            <pubDate>Thu, 01 Sep 2022 12:29:49 GMT</pubDate>
+            <content:encoded><![CDATA[대학은 정말 단 한 순간도 평등하지 않았다. 더이상 성차별이 없다는 말, 그렇기 때문에 페미니즘 자치기구가 없어져야 한다는 말은 그 자체로 대학의 불평등을 고발하...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202209/2022090130013455.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[적자생존 시대는 가라, ‘약자생존’ 광장을 열자 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9428</link>
             <guid>https://ildaro.com/9428</guid>
@@ -422,14 +430,6 @@
             <pubDate>Sun, 07 Aug 2022 10:48:00 GMT</pubDate>
             <content:encoded><![CDATA[“예술을 지금 노동이라고 생각하지 않으면 어떤 방식으로 예술에 대한 생각을 이어갈 수 있겠는가?” 묻는다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022080757304313.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘여성가족부 폐지’에 맞서는 유쾌한 페미니스트들 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9409</link>
-            <guid>https://ildaro.com/9409</guid>
-            <pubDate>Sat, 06 Aug 2022 09:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[자리를 채운 사람들이 페미니스트여서, 마음껏 웃고 떠드는 경험. 때로는 어떠한 촘촘한 이론보다도 그 순간의 기억이 운동을 이어 나가는 동력이 됨을 느낀다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022080626313042.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
