@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 18:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 19:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/af1c5a53-eb82-43e5-83b9-0d78b932e938.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Japanese Soldiers and Comfort Women are “Partners”... Whose Language is This? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9430</link>
+            <guid>https://ildaro.com/9430</guid>
+            <pubDate>Fri, 02 Sep 2022 19:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[Why Call a Sexual Exploiter and a Victim “Partners”?...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202209/2022090204358587.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[강남역 10번 출구부터 인하대 캠퍼스까지 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9429</link>
             <guid>https://ildaro.com/9429</guid>
@@ -422,14 +430,6 @@
             <pubDate>Mon, 08 Aug 2022 09:15:56 GMT</pubDate>
             <content:encoded><![CDATA[프란시아 마르케스는 활동가이자 광산노동자, 농업인, 가사도우미 등으로 일하면서 공부하며 자신이 사는 지역 커뮤니티를 지키기 위한 노력을 한 끝에 변호사가 된 ...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022080809477743.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘마을활동 예술가’로 생존하는 법 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9410</link>
-            <guid>https://ildaro.com/9410</guid>
-            <pubDate>Sun, 07 Aug 2022 10:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[“예술을 지금 노동이라고 생각하지 않으면 어떤 방식으로 예술에 대한 생각을 이어갈 수 있겠는가?” 묻는다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022080757304313.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
