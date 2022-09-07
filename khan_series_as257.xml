@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 17:32:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 19:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가끔은 정말 헷갈리지만 분명한 건]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202209071029011</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202209071029011</guid>
+            <pubDate>Wed, 07 Sep 2022 19:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[퇴사 후 ‘리그오브레전드’에 빠져 소식이 뜸했던 친구가 어느 날 밥을 사겠다며 자기집 근처 PC방으로 나를 불렀다. 20년 만에 PC방이란 곳을 가게 된 나는 호텔 카지노를 연상시키는 인테리어와 최신 장비들을 보면서 새삼 세계적인 프로게이머를 배출한 조국 토양의 위대함을 느끼고는 두리번거리다 구석에서 혼자 전쟁을 하고 있는 친구를 찾았다.자리에 앉자마자 배가 고프다고 울상을 지으니 친구가 내 화면에 15페이지짜리 전자 메뉴판 창 하나를 띄워줬다. 나는 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/09/07/l_2022090601000293300019581.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리셋 활동가 “'엘 성착취 사건' 피해자 10명 넘을 수도”]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202209061411001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 31 Aug 2022 07:35:48 GMT</pubDate>
             <content:encoded><![CDATA[왜 남자들은 쓸데없는 말을 할까. 지난 8월23일 첫 방영한 Mnet &lt;스트릿 맨 파이터&gt;(이하 &lt;스맨파&gt;) 제작보고회에서 제작을 총괄하는 권영찬 CP는 전작이라 할 수 있는 &lt;스트릿 우먼 파이터&gt;(이하 &lt;스우파&gt;)와의 차이에 대해 “여자 댄서들의 서바이벌에는 질투, 욕심이 있었다면 남자 댄서들은 의리와 자존심이 자주 보였다”고 말했다. 만에 하나 사실이라 해도 특정 성별에 대한 부정적 스테레오타입을 강화하는 말을 그것도 본인이 CP를 맡았던...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/31/l_2022083101001515900127441.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음력 정월·2월 초하루엔 사찰에 '여성 입장' 불가?]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202208311023001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202208311023001</guid>
-            <pubDate>Wed, 31 Aug 2022 04:28:59 GMT</pubDate>
-            <content:encoded><![CDATA[음력 정월과 2월 초하루에는 남성만 입장이 가능하다며 여성의 출입을 제한한 대한불교천태종의 관행은 성차별이라는 국가인권위원회의 판단이 나왔다.인권위는 천태종 총무원장에게 성별을 이유로 사찰 입장을 제한하는 관행을 개선하라고 권고했다고 29일 밝혔다. 인권위는 여성을 부정(不淨)한 존재로 보아 입장을 제한하는 것은 성별을 이유로 한 차별을 금지해 남녀평등 이념을 실현하려는 헌법적 가치에 어긋나 정당화되기 어렵다고 판단했다.진정인 A씨는 관광 목적으로 사찰...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/08/31/l_2022083101001511300126981.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
