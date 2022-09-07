@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 10:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 11:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/af1c5a53-eb82-43e5-83b9-0d78b932e938.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우리가 사랑의 꿈을 멈추지 않는다면 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9434</link>
+            <guid>https://ildaro.com/9434</guid>
+            <pubDate>Wed, 07 Sep 2022 11:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[네가 뭐라고 불리든 너와 너의 연인이 살기 좋은 세상을 만들어주고 싶어. 어떤 논리도 너에게서 기적을 빼앗아가지 못하게 할 거야....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202209/2022090745218331.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[정신장애인, ‘신경다양성’을 정체성으로 삼다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9433</link>
             <guid>https://ildaro.com/9433</guid>
@@ -422,14 +430,6 @@
             <pubDate>Sun, 14 Aug 2022 10:32:00 GMT</pubDate>
             <content:encoded><![CDATA[남들과 조금 다르다는 이유로 불쾌한 경험을 한 건, 친구들 사이에서는 아니었다. 아이러니하게도, ‘다문화가정’을 대상으로 하는 센터에서 주관한 활동에 참여할 ...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022081439299135.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베트남전 민간인학살 국가배상소송, 원고 탄 씨의 말들 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9414</link>
-            <guid>https://ildaro.com/9414</guid>
-            <pubDate>Fri, 12 Aug 2022 12:26:27 GMT</pubDate>
-            <content:encoded><![CDATA[응우옌티탄 씨는 2015년 처음으로 한국에 방문했고, 한국 시민들에게 자신의 이야기를 전했다. “참전군인들에게 사과 한 마디를 듣고 싶어서”였다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022081259031506.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
