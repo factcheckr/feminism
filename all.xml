@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 23:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 01:21:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/af1c5a53-eb82-43e5-83b9-0d78b932e938.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[프리랜서에게 보수를 지급하지 않는 것도 ‘갑질’ 행위 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9435</link>
+            <guid>https://ildaro.com/9435</guid>
+            <pubDate>Fri, 09 Sep 2022 08:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[가해자 대표는 A씨가 집필한 글을 회사 홈페이지에 게시하면서도, 보수 지급 단계에서 “기사의 완성도가 낮다”는 등 질책을 하며 보수를 지급하지 않았다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202209/2022090930553961.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우리가 사랑의 꿈을 멈추지 않는다면 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9434</link>
             <guid>https://ildaro.com/9434</guid>
@@ -422,14 +430,6 @@
             <pubDate>Tue, 16 Aug 2022 10:57:00 GMT</pubDate>
             <content:encoded><![CDATA[마리아 미즈는 “가부장제의 평화가 여성에게는 전쟁”이라고 말한다. 전쟁과 폭력이 명분으로 삼는 ‘안전 보장’이라는 개념에 같이 도전해보는 것부터 시작해보면...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022081612401215.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엄마의 출신 국가가 다르다는 이유만으로? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9415</link>
-            <guid>https://ildaro.com/9415</guid>
-            <pubDate>Sun, 14 Aug 2022 10:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[남들과 조금 다르다는 이유로 불쾌한 경험을 한 건, 친구들 사이에서는 아니었다. 아이러니하게도, ‘다문화가정’을 대상으로 하는 센터에서 주관한 활동에 참여할 ...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022081439299135.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
