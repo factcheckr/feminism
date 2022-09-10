@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Sep 2022 01:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 04:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/af1c5a53-eb82-43e5-83b9-0d78b932e938.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“My Fair Home”: Labor Rights for Domestic Workers (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9436</link>
+            <guid>https://ildaro.com/9436</guid>
+            <pubDate>Sat, 10 Sep 2022 00:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[The number of domestic workers is estimated to be 67 million worldwide, 80% of which are women. One in five of these domestic workers are migrant workers....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202209/2022091022343531.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[프리랜서에게 보수를 지급하지 않는 것도 ‘갑질’ 행위 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9435</link>
             <guid>https://ildaro.com/9435</guid>
@@ -422,14 +430,6 @@
             <pubDate>Wed, 17 Aug 2022 09:16:23 GMT</pubDate>
             <content:encoded><![CDATA[학생들이 서양에서 온 유학생을 대할 때와 아시아 유학생을 대할 때 큰 차이가 있다는 것을 깨달았다. 또한 조선학교 학생을 향해 던져지는 혐오 발언을 들으면 가슴이...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022081736591673.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[분단 사회에서 페미니스트로 살아가기 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9416</link>
-            <guid>https://ildaro.com/9416</guid>
-            <pubDate>Tue, 16 Aug 2022 10:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[마리아 미즈는 “가부장제의 평화가 여성에게는 전쟁”이라고 말한다. 전쟁과 폭력이 명분으로 삼는 ‘안전 보장’이라는 개념에 같이 도전해보는 것부터 시작해보면...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022081612401215.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
