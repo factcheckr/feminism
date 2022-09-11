@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 14:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 15:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/af1c5a53-eb82-43e5-83b9-0d78b932e938.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[결국은 진실이 통할 것이다, ‘봄바람’이 분다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9437</link>
+            <guid>https://ildaro.com/9437</guid>
+            <pubDate>Sun, 11 Sep 2022 15:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[올 봄, 제주도 강정마을에서 ‘다른 세상을 만나는 40일 순례, 봄바람’(봄바람 순례단)이 서울을 향해 행진을 시작했다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202209/2022091146147404.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“My Fair Home”: Labor Rights for Domestic Workers (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9436</link>
             <guid>https://ildaro.com/9436</guid>
@@ -422,14 +430,6 @@
             <pubDate>Thu, 18 Aug 2022 08:19:00 GMT</pubDate>
             <content:encoded><![CDATA[길고양이가 사회의 척도라는 말은 바꿔 말하면 낯선 타자에 대한 환대 기준이다. 냥세권이라고 붙여도 무방하겠지만 부동산 가격에는 아무런 영향을 미치지는 못할 것...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/202208185113624.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누구의 모국어도 아닌, 평화의 언어 에스페란토 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9417</link>
-            <guid>https://ildaro.com/9417</guid>
-            <pubDate>Wed, 17 Aug 2022 09:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[학생들이 서양에서 온 유학생을 대할 때와 아시아 유학생을 대할 때 큰 차이가 있다는 것을 깨달았다. 또한 조선학교 학생을 향해 던져지는 혐오 발언을 들으면 가슴이...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022081736591673.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
