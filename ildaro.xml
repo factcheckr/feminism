@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 13:47:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 14:24:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수술과 치료를 통해 ‘비장애인처럼 되라’ 압박하는 사회]]></title>
+            <link>https://ildaro.com/9438</link>
+            <guid>https://ildaro.com/9438</guid>
+            <pubDate>Mon, 12 Sep 2022 14:24:29 GMT</pubDate>
+            <content:encoded><![CDATA[줄리 리빙스턴은 개인의 정체성으로 규정되는 장애 대신 ‘쇠약’(dibility)이라는 용어를 쓸 것을 제안한다. 장애와 질병은 물론 노화로 인한 몸의 상태를 포함한다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202209/2022091229096862.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[결국은 진실이 통할 것이다, ‘봄바람’이 분다]]></title>
             <link>https://ildaro.com/9437</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 19 Aug 2022 09:15:41 GMT</pubDate>
             <content:encoded><![CDATA[With this prevalent usage of the word “mom-chung,” hostility toward mothers follow them everywhere....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022081934265304.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[길고양이를 환대하는 사회를 위한 돌봄]]></title>
-            <link>https://ildaro.com/9418</link>
-            <guid>https://ildaro.com/9418</guid>
-            <pubDate>Thu, 18 Aug 2022 08:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[길고양이가 사회의 척도라는 말은 바꿔 말하면 낯선 타자에 대한 환대 기준이다. 냥세권이라고 붙여도 무방하겠지만 부동산 가격에는 아무런 영향을 미치지는 못할 것...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/202208185113624.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
