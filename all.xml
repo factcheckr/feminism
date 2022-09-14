@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 06:07:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 07:35:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/af1c5a53-eb82-43e5-83b9-0d78b932e938.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[페미니스트가 정신질환자와 연대하는 이유 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9439</link>
+            <guid>https://ildaro.com/9439</guid>
+            <pubDate>Wed, 14 Sep 2022 07:35:02 GMT</pubDate>
+            <content:encoded><![CDATA[병원을 가게 되기까지는 10년이 걸렸다. 만약 내가 10년 전에 병식이 있고 병원을 다녔다면 지금쯤 꽤 많은 것들이 달라지지 않았을까 간혹 복기해본다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202209/2022091445526091.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[수술과 치료를 통해 ‘비장애인처럼 되라’ 압박하는 사회 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9438</link>
             <guid>https://ildaro.com/9438</guid>
@@ -422,14 +430,6 @@
             <pubDate>Sat, 20 Aug 2022 10:16:00 GMT</pubDate>
             <content:encoded><![CDATA[‘중립 상태로 퇴장해줘’라는 건, 퇴장한다는 목적 외에는 어떤 것도 표현하지 않는 상태를 원한다는 거 같은데, 사실 이게 참 어려워요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022082025463553.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Merciless words…‘Women born lucky’ and ‘mom-chungs’ (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9419</link>
-            <guid>https://ildaro.com/9419</guid>
-            <pubDate>Fri, 19 Aug 2022 09:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[With this prevalent usage of the word “mom-chung,” hostility toward mothers follow them everywhere....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022081934265304.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
