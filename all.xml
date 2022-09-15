@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 08:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 09:20:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,6 +192,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/09/01/l_2022083101001521300128371.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[N번방은 돌아온 것이 아니다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1025</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1025</guid>
+            <pubDate>Thu, 15 Sep 2022 09:19:44 GMT</pubDate>
+            <content:encoded><![CDATA['제2의 N번방'이 세상에 드러났습니다. 아니, '제N의 N번방'이라고 하는 것이 더 맞을 것입니다. 지난해 '박사방'과 'N번방'을 운영하며 성착취를 했던 조주빈과 갓갓이 실형을 확정받았지만, 그 이후로도 텔레그램 내 성착취 생태계는 여전히 작동하고 있습니다. 세상에 알려지지 않은 크고 작은 '성착취 범죄 현장'이 존재하고 있기 때문이죠. 오늘은 현재 공론화되고 경찰이 수사 중인 이번 사안을 편의상 '제2의 N번방'으로 부르겠습니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/ce75ce93-a9ac-4c79-a5ec-ff0ea4dd0358.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["한국 여성에 결혼이민을 허하라" (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1005</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1005</guid>
@@ -262,14 +270,6 @@
             <pubDate>Wed, 08 Jun 2022 04:29:27 GMT</pubDate>
             <content:encoded><![CDATA[지난주 허스토리는 오전 5시가 되어서야 일단락된 개표 결과를 본 뒤, 곧바로 발송하느라 20대 대선 결과에 대해 충분히 담지 못했어요. 이에 일주일이 지난 지금, 조금 늦었을지 몰라도 지난 선거가 내포하고 있는 민심을 '젠더 관점'으로 촘촘하게 분석하려 합니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/074e78df-d5fd-4c3f-a932-5def15d913fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제20대 대통령 윤석열 당선 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/722</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/722</guid>
-            <pubDate>Wed, 08 Jun 2022 04:29:27 GMT</pubDate>
-            <content:encoded><![CDATA[20대 대선에서 윤석열 국민의힘 후보가 대통령으로 당선됐습니다. 하루 전 여러분은 어떤 세상을 열망하며 소중한 한 표를 던지셨나요. 각자의 위치와 생각은 모두 다 다르지만, 그럼에도 민주주의 사회의 시민이라면 성평등이 거스를 수 없는 시대적 흐름이라는 점에는 공감하실 겁니다. 오늘 허스토리에서는 윤 당선인이 후보 시절 내세운 성평등 관련 공약을 다시 한번 상기하고자 합니다. 그리고 이에 더해 대선 관련 한국일보 기사를 함께 엮어 드릴게요.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/af1c5a53-eb82-43e5-83b9-0d78b932e938.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[페미니스트가 정신질환자와 연대하는 이유 (일다 ─ 전체기사)]]></title>
