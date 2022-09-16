@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 23:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 01:25:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리는 ‘피해자의 행실 탓’하는 사회와도 싸웠다]]></title>
+            <link>https://ildaro.com/9440</link>
+            <guid>https://ildaro.com/9440</guid>
+            <pubDate>Fri, 16 Sep 2022 09:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[양예원 씨가 피해자라는 사실은 형사재판을 통해서나 민사재판을 통해 명백히 확인되었지만, 이미 다수에 의해 시작된 공격과 음해는 끊임이 없었고 갈수록 점입가경...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202209/2022091640094790.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[페미니스트가 정신질환자와 연대하는 이유]]></title>
             <link>https://ildaro.com/9439</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 21 Aug 2022 11:14:27 GMT</pubDate>
             <content:encoded><![CDATA[가해자의 죽음으로 피해자가 제기한 모든 법적 절차가 사실상 중단되는데, 이는 곧 피해자의 권리가 사라지는 것이다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022082120183570.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 어디에 속해 있는지 헤맨 적 있는 사람이라면]]></title>
-            <link>https://ildaro.com/9420</link>
-            <guid>https://ildaro.com/9420</guid>
-            <pubDate>Sat, 20 Aug 2022 10:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘중립 상태로 퇴장해줘’라는 건, 퇴장한다는 목적 외에는 어떤 것도 표현하지 않는 상태를 원한다는 거 같은데, 사실 이게 참 어려워요....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022082025463553.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
