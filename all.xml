@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 08:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 09:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/074e78df-d5fd-4c3f-a932-5def15d913fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘보편적’ 질병 서사에서 누락된 여성들 이야기 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9441</link>
+            <guid>https://ildaro.com/9441</guid>
+            <pubDate>Sat, 17 Sep 2022 09:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[‘아, 저 유방암이에요’라고 말했는데, 딱 그 말을 하는 순간 갑자기 내가 약자가 된 느낌이 딱 드는 거예요...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202209/2022091737187158.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우리는 ‘피해자의 행실 탓’하는 사회와도 싸웠다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9440</link>
             <guid>https://ildaro.com/9440</guid>
@@ -422,14 +430,6 @@
             <pubDate>Tue, 23 Aug 2022 05:53:56 GMT</pubDate>
             <content:encoded><![CDATA[첫 시작부터 그는 한쪽 손을 뒷짐진 채, 미리 예행연습을 한다. 빚에 시달리는 모습부터 혼자 밥을 먹는 모습까지, 어느 한 장면도 눈을 뗄 수 없다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022082304494805.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘변호사 미투’ 내부총질 취급하는 자는 누구인가 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9421</link>
-            <guid>https://ildaro.com/9421</guid>
-            <pubDate>Sun, 21 Aug 2022 11:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[가해자의 죽음으로 피해자가 제기한 모든 법적 절차가 사실상 중단되는데, 이는 곧 피해자의 권리가 사라지는 것이다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022082120183570.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
