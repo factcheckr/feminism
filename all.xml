@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 01:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 04:27:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://image.hankookilbo.com/board/074e78df-d5fd-4c3f-a932-5def15d913fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[I work as the owner of a needlework studio (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9443</link>
+            <guid>https://ildaro.com/9443</guid>
+            <pubDate>Mon, 19 Sep 2022 04:27:04 GMT</pubDate>
+            <content:encoded><![CDATA[“How much do you earn a month by doing stuff like this? You’re just doing it as a hobby, right?” The people were very rude....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202209/2022091922032352.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“내일이 기다려지는 마법 같은 일이 내게도 올까요?” (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9442</link>
             <guid>https://ildaro.com/9442</guid>
@@ -422,14 +430,6 @@
             <pubDate>Thu, 25 Aug 2022 12:30:39 GMT</pubDate>
             <content:encoded><![CDATA[“미투 운동이 무엇과의 싸움이었는가 묻는다면, 성폭력과의 싸움인 것과 동시에 기득권과의 싸움이었다고 생각한다.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022082505408821.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[할리우드 스튜디오 시스템에 균열을 낸 여성영화인 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9423</link>
-            <guid>https://ildaro.com/9423</guid>
-            <pubDate>Wed, 24 Aug 2022 00:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[아이다 루피노가 1950년대에 미국 감독 조합에 가입이 되었을 때, 1,300여명의 남성과 단 한 명의 여성 "Gentlemen &amp; Miss Lupino"라고 칭했다고 한다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022082411081926.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
