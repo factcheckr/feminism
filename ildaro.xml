@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 01:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 04:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[광인(狂人) 여성이 말을 한다는 것]]></title>
+            <link>https://ildaro.com/9444</link>
+            <guid>https://ildaro.com/9444</guid>
+            <pubDate>Tue, 20 Sep 2022 10:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[당신을 기억하는 이들에게 당신은 짐이었다고 세상은 말합니다. 당신을 가득 채우고 있는 슬픔을 감당하기 어려웠다고요. 절망을 이해하기 어려웠다고요. 그래서 당신...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202209/2022092058048492.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[I work as the owner of a needlework studio]]></title>
             <link>https://ildaro.com/9443</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 26 Aug 2022 14:14:04 GMT</pubDate>
             <content:encoded><![CDATA[‘어느 나라 사람들은 게으르다’, ‘네 나라로 돌아가라’는 말은 인터넷에서 흔히 접할 수 있는 혐오 표현이지만, 적어도 이 동네에선 통하지 않는다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022082644298386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미투는 기득권과의 싸움, 피해자에겐 지지자가 필요하다]]></title>
-            <link>https://ildaro.com/9424</link>
-            <guid>https://ildaro.com/9424</guid>
-            <pubDate>Thu, 25 Aug 2022 12:30:39 GMT</pubDate>
-            <content:encoded><![CDATA[“미투 운동이 무엇과의 싸움이었는가 묻는다면, 성폭력과의 싸움인 것과 동시에 기득권과의 싸움이었다고 생각한다.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202208/2022082505408821.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
