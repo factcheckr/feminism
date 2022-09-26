@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Sep 2022 04:26:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Sep 2022 06:09:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[③돈 되니 눈감고, 수사엔 비협조… 플랫폼이 ‘최후의 공범’이다]]></title>
+            <link>https://www.khan.co.kr/national/gender/article/202209261359001</link>
+            <guid>https://www.khan.co.kr/national/gender/article/202209261359001</guid>
+            <pubDate>Mon, 26 Sep 2022 06:06:45 GMT</pubDate>
+            <content:encoded><![CDATA[“(아이디만) 변경하면 계속 판매 활동할 수 있다는 내용의 말을 들었던 것은 맞습니까?”(검사)“그거는 맞는 것 같습니다.”(증인)“그건 확실히 맞습니까?”(검사)“네.”(증인)지난 3월14일 수원지방법원 성남지원 제3호 법정. 일명 ‘웹하드 카르텔’ 사건 1심 공판이 진행 중이었다. 피고인은 양진호 전 한국미래기술 회장. 증인은 양 전 회장이 운영한 웹하드 업체 ‘위디스크’에 각종 음란물을 유포해온 ‘헤비 업로더’였다. 그는 ‘위디스크 직원이 전화해 외부업체(방송통신...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/09/26/news-p.v1.20220926.c2e2e15cc1704cb2bc89cd4d6da8e0f9_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신고 그 후, 스토킹 피해자들이 마주하는 더 큰 장벽]]></title>
             <link>https://www.khan.co.kr/national/incident/article/202209231419001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 21 Sep 2022 15:15:24 GMT</pubDate>
             <content:encoded><![CDATA[경향신문 사건팀은  시리즈를 통해 텔레그램 성착취 범죄의 현주소를 진단하고 지난 3년 간 ‘n번방 근절’을 약속한 정부 기관이 어떻게 작동해왔는지, 근본적인 해결방안은 무엇인지를 3회에 걸쳐 짚어볼 예정입니다. 가해자 ‘엘’에 대해 아시거나, 디지털 성범죄와 관련해 제보하실 내용이 있으면 play@khan.kr로 부탁드립니다. n번방, 남겨진 공범들 “영상은 알아서 퍼질 거야. 내가 주체할 수 없을 만큼.”  피해자의 신체를 촬영한 영상물을 유포하겠다며 협박하던 남...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/09/19/news-p.v1.20220919.28d5ff21bf4a4191a114e5809a9bf99c_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘#신당역살인은_여성혐오사건’ 정부 대처에 분노하는 여성들]]></title>
-            <link>https://www.khan.co.kr/national/incident/article/202209191129001</link>
-            <guid>https://www.khan.co.kr/national/incident/article/202209191129001</guid>
-            <pubDate>Wed, 21 Sep 2022 15:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[“(신당역 사건을) 여성과 남성의 프레임으로 보는 것에 대해 동의하지 않는다.”김현숙 여성가족부 장관이 지난 16일 서울지하철 2호선 신당역 추모공간을 찾은 자리에서 한 이 발언을 계기로 ‘구조적 성차별’을 부정해온 윤석열 정부에 대한 비판이 쏟아지고 있다. 여성계는 이번 사건을 ‘여성혐오 범죄’라고 명명하며, 여성을 향한 구조적 폭력에 대한 정부의 대책 마련을 촉구했다.18일 트위터·인스타그램 등 사회관계망서비스(SNS)에는 ‘#신당역살인사건은_여성혐오사건이다...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/09/19/news-p.v1.20220919.d1422b99abfa4286b0f2eb7b36a25aca_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
