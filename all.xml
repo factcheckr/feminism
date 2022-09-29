@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Sep 2022 20:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Sep 2022 21:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캄보디아 여성 노동자들의 ‘일그러진 코리안드림’ (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/labor/article/202209291520011</link>
+            <guid>https://www.khan.co.kr/national/labor/article/202209291520011</guid>
+            <pubDate>Thu, 29 Sep 2022 21:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[깻잎 1000장을 따면 1㎏들이 소쿠리 1개가 가득 찼다. 그렇게 하루에 소쿠리 40개를 채울 깻잎 4만장을 따야 했다. 농장주는 “소쿠리를 세어 하나라도 덜 하면 소쿠리 1개당 1500원씩 임금에서 깎겠다”며 으름장을 놨다. 캄보디아 출신 이주노동자 A씨는 농장주의 엄포에 어쩔 수 없이 동의서에 사인해야 했다.전북 익산의 농장에서 일하는 여성 노동자 B씨의 숙소 화장실은 비닐하우스와 비닐하우스 사이의 도랑이다. 비닐하우스 기숙사 밖에 임시가건물 화장실이 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/09/29/news-p.v1.20220928.f39b8b7ae7cd424f947a724f030aca21_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘스토킹 살인’ 김병찬 항소심 선고, 법정에선 울음소리가 터져나왔다 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/incident/article/202209291342001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 23 Sep 2022 08:19:21 GMT</pubDate>
             <content:encoded><![CDATA[원래 나는 공대생이었다. 과에 단 한 명도 없었던 여자 선배들을 찾아 공대 여학생 모임에 드나들던 나는, 대학교 1학년 겨울방학이 시작되었을 때 그 언니들과 함께 NGO 단체에서 자원활동을 하는 일종의 대학생 인턴 프로그램에 참여했다. 여러 사회단체들 중에서 나는 한국성폭력상담소로 신청해서 가게 되었다. 자원활동이라 해서 뭔가 큰 도움이 되는 일을 했던 건 아니었다.성폭력특별법이 제정된 지 얼마 지나지 않았던 상태라 일은 많은데 활동가는 부족하고 성폭...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/09/23/news-p.v1.20220923.e3c08b4255e6455b92b7000cdef83863_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[히잡 안써 체포된 자매의 죽음, 이란 뒤덮은 여성들의 분노 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202209221357001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202209221357001</guid>
-            <pubDate>Fri, 23 Sep 2022 08:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[이란에서 젊은 여성이 히잡을 제대로 착용하지 않아 체포된 뒤 사망한 사건이 발생해 연일 시위가 이어지고 있다. 이슬람식 강경 통치와 억압에 지친 이란인들의 분노가 표출되면서 이번 시위가 이란 정권을 흔들 뇌관이 될 수 있다는 분석도 나온다.한 여성의 죽음이 불 지핀 분노마흐사 아미니(22)는 지난 13일(현지시간) 이란 테헤란에서 히잡(얼굴을 제외한 머리와 목 등 상반신을 가리는 이슬람 여성 복장)을 제대로 착용하지 않았다는 이유로 ‘도덕경찰’에 체포됐다. ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/09/22/news-p.v1.20220922.f98a53545e464c42b0eef08378ba7ec8_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘n번방’ 이후 경찰 디지털성범죄 전담인력 3년간 ‘10명’ 늘었다 (경향신문 ─ 연재 ─ 플랫)]]></title>
