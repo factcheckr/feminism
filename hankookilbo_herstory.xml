@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Sep 2022 04:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Sep 2022 06:09:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두 여성의 죽음이 촉발한 분노]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1045</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1045</guid>
+            <pubDate>Thu, 29 Sep 2022 06:07:52 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 뉴스레터는 두 여성의 죽음이 촉발한 전 세계의 분노에 대해 다룹니다. 먼저 지난 2주 동안 우리를 분노하고 답답하게 만든 소식이었죠. '신당역 스토킹 살인사건'을 들여다 볼게요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/948e3d3e-6562-4b61-b848-6ab1b5136bad.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[N번방은 돌아온 것이 아니다]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1025</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 21 Sep 2022 15:17:23 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 연애 혹은 사랑 그 사이를 넘나드는 관계 맺기에 대해 이야기를 나눠보고 싶어요. '아니, 이렇게 엄중한 때에 무슨 사랑 이야기!'라고 생각하실 수 있지만, 몇 주 연속 정치·사회 뉴스를 계속해서 봐야 했기에 이번 주는 머리를 식혀보도록 해요.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/d73f39f9-5206-4f58-b03a-bc6686d21837.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["20대 여성도 유권자다!"]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/733</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/733</guid>
-            <pubDate>Wed, 21 Sep 2022 15:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[지난주 허스토리는 오전 5시가 되어서야 일단락된 개표 결과를 본 뒤, 곧바로 발송하느라 20대 대선 결과에 대해 충분히 담지 못했어요. 이에 일주일이 지난 지금, 조금 늦었을지 몰라도 지난 선거가 내포하고 있는 민심을 '젠더 관점'으로 촘촘하게 분석하려 합니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/074e78df-d5fd-4c3f-a932-5def15d913fc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
