@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Sep 2022 23:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Oct 2022 01:45:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그래픽 노블 작가 김금숙이 말하는 작품 속 ‘화자’가 늘 ‘여성’인 이유]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202210010823001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202210010823001</guid>
+            <pubDate>Sat, 01 Oct 2022 01:41:38 GMT</pubDate>
+            <content:encoded><![CDATA[지난 22일 강화도로 향했다. 그래픽 노블(graphic novel) 작가 김금숙(51)을 만나기 위해서다. 2020년 &lt;풀&gt;로 세계 최고 권위의 만화상 중 하나인 미국 하비상 국제도서 부문을 수상한 그는 올해 &lt;기다림&gt;으로 다시 한 번 하비상 후보에 올랐다. &lt;기다림&gt;은 6·25전쟁으로 이산가족이 된 이들의 사연을 통해 전쟁의 비극을 그리고 있다. 그래픽 노블은 일반 만화보다 철학적이고 진지한 주제를 다루며 스토리에 완결성을 가진 출판 만화책을 일컫는다.그는 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/10/01/news-p.v1.20220930.fc3274590fca467ca1d61d8d83fc4959_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전주환 “선고 미뤄달라. 시간 지나면 누그러질 수 있는데…”]]></title>
             <link>https://www.khan.co.kr/national/incident/article/202209301347001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 28 Sep 2022 11:13:55 GMT</pubDate>
             <content:encoded><![CDATA[저녁 7시, 창문도 없는 작은 방에 여성 노동자 다섯 명이 모여 앉았다. 이들은 건물에 전화선을 설치하거나 인터넷 연결에 생긴 문제를 해결하는 통신 기술자였다. 캐나다 퀘벡에서는 통신 기술직종에서 여성 노동자 수가 점점 줄고 있었다. 그 이유를 알고 싶어한 연구진 몇몇이 자리를 마련했다.처음 한두 시간 동안 참가자들은 나누고 싶은 말이 특별히 없는 듯 보였다. 여성 기술자가 남성 고객에게 종종 성추행을 당하는 일에 대해 묻자 참가자 중 샹탈은 “그 일...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/09/26/news-p.v1.20220926.d8dc3aec56044ae1b42b324c930588f2_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[③돈 되니 눈감고, 수사엔 비협조… 플랫폼이 ‘최후의 공범’이다]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202209261359001</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202209261359001</guid>
-            <pubDate>Mon, 26 Sep 2022 06:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[“(아이디만) 변경하면 계속 판매 활동할 수 있다는 내용의 말을 들었던 것은 맞습니까?”(검사)“그거는 맞는 것 같습니다.”(증인)“그건 확실히 맞습니까?”(검사)“네.”(증인)지난 3월14일 수원지방법원 성남지원 제3호 법정. 일명 ‘웹하드 카르텔’ 사건 1심 공판이 진행 중이었다. 피고인은 양진호 전 한국미래기술 회장. 증인은 양 전 회장이 운영한 웹하드 업체 ‘위디스크’에 각종 음란물을 유포해온 ‘헤비 업로더’였다. 그는 ‘위디스크 직원이 전화해 외부업체(방송통신...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/09/26/news-p.v1.20220926.c2e2e15cc1704cb2bc89cd4d6da8e0f9_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
