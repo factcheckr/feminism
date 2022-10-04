@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Oct 2022 15:24:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Oct 2022 16:26:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“결혼하지 않아도 임신중단 가능” 인도 대법원 ‘세기의 판결’ (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/world/asia-australia/article/202210041454001</link>
+            <guid>https://www.khan.co.kr/world/asia-australia/article/202210041454001</guid>
+            <pubDate>Tue, 04 Oct 2022 16:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[“미혼 여성도 기혼여성과 마찬가지로 임신 24주 차까지 중절 수술을 받을 수 있다.”- 인도 대법원, 2022.9.29인도 대법원은 지난달 29일(현지시간) 인도 여성 인권 역사에 기념비로 남을 판결을 내렸다. 결혼 여부와 상관없이 모든 여성이 임신 중단을 할 동등한 권리가 있다고 인정한 것이다. 그동안 인도 대법원은 성폭력 피해자나 기혼여성에게만 임신 중단을 허용해왔다. 전문가들은 여성 인권이 세계에서 가장 열악한 곳 중 하나인 인도에서 이런 판결이 나온 것이 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/10/04/news-p.v1.20221004.219cc86c51ca4d88959445b8715d2287_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘스토킹 피해자 보호시설’ 문여는 서울시, 관건은 디테일이다 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202210041111001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202210041111001</guid>
+            <pubDate>Tue, 04 Oct 2022 16:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[서울시가 운영하는 ‘스토킹 피해자 전용 보호시설’이 다음 달부터 문을 연다. ‘신당역 스토킹 살인’ 사건과 같이 스토킹으로 인한 강력범죄 사건이 잇따르자 행정기관이 나서 피해자를 적극 보호하겠다는 취지다. 그러나 보호시설을 안전하게 운영하기 위해서는 세부 운영 지침을 보완하고 사후 대책에서 나아가 사전 예방 대책을 마련해야 한다는 지적이 나온다.서울시는 스토킹 피해자 전용 보호시설을 10월부터 운영한다고 지난달 26일 밝혔다. 전국 지자체 중 처음이다....]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/10/04/news-p.v1.20221004.54ab88ca09fb4fa1a1252159b757f1f8_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그래픽 노블 작가 김금숙이 말하는 작품 속 ‘화자’가 늘 ‘여성’인 이유 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202210010823001</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 28 Sep 2022 11:13:55 GMT</pubDate>
             <content:encoded><![CDATA[열다섯 살 버네사 와이들은 2000년 명문 사립 기숙학교인 브로윅으로 전학 간다. 이 학교 문학 교사 제이컵 스트레인과 친해진다. 제이컵이 먼저 접근한다. 그는 마흔두 살이다. 버네사가 시 쓰기를 좋아하고, 외롭다는 점을 이용한다. 그가 수업 시간 버네사에게 건넨 말은 “거기(버네사의 고향)서 가끔 외로울 때도 있나요”였다.교사·학생 간 위계 속에서 친절함과 교묘함을 뒤섞은 언행으로 버네사의 마음을 교란한다. 학교 여러 공간에서 둘만 남았을 때 “네 작품을 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/09/27/news-p.v1.20220926.05a75985dc24430ab1d84a8b8b359742_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젠더폭력 만연한 일터, ‘신당역’은 어디에나 있다 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/labor/article/202209271120001</link>
-            <guid>https://www.khan.co.kr/national/labor/article/202209271120001</guid>
-            <pubDate>Wed, 28 Sep 2022 11:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[“가전제품 점검을 갔더니 남성 고객이 등 뒤로 와서 스킨십을 했다.” “남성 역장 2명이 기차 역사에서 음란물을 봤다. 여성 역무원들 뒷자리였다.”가전제품 판매·점검원부터 공무원, 역무원, 기자까지…. 여성 노동자들은 직종과 관계없이 일터에서 젠더폭력에 시달린다. 스토킹에 시달리던 역무원이 순찰 중 스토커에게 살해당한 ‘신당역 스토킹 살인사건’ 이후 여성 노동자들의 불안은 더 커졌다.여성 노동자들이 안전하지 못한 업무환경과 성차별적 조직문화를 고발하고 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/09/27/news-p.v1.20220927.465bdb57773049e8a0d20920cd29671d_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남성들의 일터에서, 일하는 여성들의 ‘다른 몸’은 ‘일그러진 몸’이 된다 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202209261831001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202209261831001</guid>
-            <pubDate>Mon, 26 Sep 2022 17:30:09 GMT</pubDate>
-            <content:encoded><![CDATA[저녁 7시, 창문도 없는 작은 방에 여성 노동자 다섯 명이 모여 앉았다. 이들은 건물에 전화선을 설치하거나 인터넷 연결에 생긴 문제를 해결하는 통신 기술자였다. 캐나다 퀘벡에서는 통신 기술직종에서 여성 노동자 수가 점점 줄고 있었다. 그 이유를 알고 싶어한 연구진 몇몇이 자리를 마련했다.처음 한두 시간 동안 참가자들은 나누고 싶은 말이 특별히 없는 듯 보였다. 여성 기술자가 남성 고객에게 종종 성추행을 당하는 일에 대해 묻자 참가자 중 샹탈은 “그 일...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/09/26/news-p.v1.20220926.d8dc3aec56044ae1b42b324c930588f2_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘n번방’ 이후 경찰 디지털성범죄 전담인력 3년간 ‘10명’ 늘었다 (경향신문 ─ 연재 ─ 플랫)]]></title>
