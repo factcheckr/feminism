@@ -4,9 +4,33 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Oct 2022 15:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Oct 2022 16:27:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페미니스트의 결혼식]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202210071605001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202210071605001</guid>
+            <pubDate>Fri, 07 Oct 2022 16:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[※이 글은 10월 7일자 플랫 뉴스레터(링크)에 게재된 글입니다. 뉴스레터 전문에서는 한 주 간 있었던 젠더 뉴스, 이에 대한 플랫 독자들 반응도 만나보실 수 있습니다. 백래시의 소음에서 반 보 물러나 여성들과 이야기를 나누고 싶다면, 매주 금요일 7시 플랫 뉴스레터를 구독해주세요. 혹시 링크가 연결되지 않으면 괄호 안의 주소(https://bit.ly/3rDtwPy)로 들어오실 수 있습니다.독자님은 주말에 보통 뭐하시나요? 맑고 선선한 날씨때문인지 저는 요즘 부쩍 결혼식 초대...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/10/07/news-p.v1.20221007.2025eda0a1d94607a105c1bd3b5b7457_P1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[끝내 ‘여성·성평등’ 지우겠다는 윤석열 정부, 국회가 저지해야]]></title>
+            <link>https://www.khan.co.kr/national/gender/article/202210071459001</link>
+            <guid>https://www.khan.co.kr/national/gender/article/202210071459001</guid>
+            <pubDate>Fri, 07 Oct 2022 16:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;※이 기사는 2022년 10월6일자 경향신문 사설 ‘끝내 ‘성평등’ 삭제한 정부조직 개편안, 국회가 저지해야’를 재가공하였습니다.&gt;윤석열 정부가 6일 여성가족부 폐지와 국가보훈처의 보훈부 승격, 재외동포청 신설을 골자로 하는 정부조직 개편안을 공개했다. 이상민 행정안전부 장관이 발표한 안에 따르면, 여가부는 사라지고 주요 기능은 다른 부처들로 이관된다. 청소년·가족, 양성평등, 권익증진 기능은 보건복지부 산하 ‘인구가족양성평등본부’, 여성고용 기능은 고용...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/10/07/news-p.v1.20221007.20f4062bb4ee44e0b52a969e7783482d_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘칼같은 글쓰기’로 도려낸 진실… 아니 에르노, 노벨문학상 수상]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202210071057001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202210071057001</guid>
+            <pubDate>Fri, 07 Oct 2022 16:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[스웨덴 한림원은 2022년 노벨 문학상 수상자로 아니 에르노(82)를 선정했다고 6일(현지 시간) 발표했다.한림원은 “개인 기억의 뿌리, 소원(疏遠), 집단 통제를 드러낸 용기와 임상적 예민함”을 선정 이유로 꼽았다.에르노는 발표 직후 스웨덴 공영 방송 SVT에 “이 상은 너무 큰 영광이자 동시에 큰 책임감으로 다가온다”고 말했다고 AFP통신이 전했다.에르노는 1940년 프랑스 릴본에서 카페 겸 식료품점을 운영하는 소상인의 딸로 태어났다. 이후 노르망디 이브...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/10/07/news-p.v1.20221007.cfc33a27e4af4c438a8ccb44e4995f9e_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘남자다움’이 뭐라고, 가방에 바퀴를 달기까지 5000년이 걸렸을까]]></title>
             <link>https://www.khan.co.kr/culture/book/article/202210061348001</link>
@@ -62,30 +86,6 @@
             <pubDate>Sat, 01 Oct 2022 01:41:38 GMT</pubDate>
             <content:encoded><![CDATA[지난 22일 강화도로 향했다. 그래픽 노블(graphic novel) 작가 김금숙(51)을 만나기 위해서다. 2020년 &lt;풀&gt;로 세계 최고 권위의 만화상 중 하나인 미국 하비상 국제도서 부문을 수상한 그는 올해 &lt;기다림&gt;으로 다시 한 번 하비상 후보에 올랐다. &lt;기다림&gt;은 6·25전쟁으로 이산가족이 된 이들의 사연을 통해 전쟁의 비극을 그리고 있다. 그래픽 노블은 일반 만화보다 철학적이고 진지한 주제를 다루며 스토리에 완결성을 가진 출판 만화책을 일컫는다.그는 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/10/01/news-p.v1.20220930.fc3274590fca467ca1d61d8d83fc4959_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전주환 “선고 미뤄달라. 시간 지나면 누그러질 수 있는데…”]]></title>
-            <link>https://www.khan.co.kr/national/incident/article/202209301347001</link>
-            <guid>https://www.khan.co.kr/national/incident/article/202209301347001</guid>
-            <pubDate>Fri, 30 Sep 2022 17:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[‘신당역 스토킹 살인’ 사건 범인 전주환이 불법촬영과 스토킹 혐의로 1심에서 징역 9년을 선고받았다. 보복살인 혐의로 구속돼 검찰 수사를 받고 있는 전씨가 살인을 저지르기 전에 피해자에게 가한 스토킹 사건에 대한 선고이다.서울서부지법 형사합의12부(재판장 안동범)는 성폭력처벌법(카메라 등 이용촬영, 촬영물 등 이용 협박), 스토킹처벌법 위반 등 혐의로 기소된 전씨에게 징역 9년을 선고했다. 지난달 결심공판에서 검찰이 구형한 형량을 그대로 받아들인 것이다. 80시...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/09/30/news-p.v1.20220929.0aa9b6b2b76f49fb8a18f32790c0c06b_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“미군 위안부, 국가가 조장했다” 8년 기다린 대법원 판결, 남은 과제는]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202209301027011</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202209301027011</guid>
-            <pubDate>Fri, 30 Sep 2022 17:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[김숙자씨(77)는 12살에 가난과 부모의 구박을 못 이겨 고향인 목포를 떠났다. 서울에서 식모살이를 전전하다 충북 진천에서 기지촌 생활을 시작했다. 당시 김씨 나이는 19살. 성환, 김제, 태안, 평택…. 전국 곳곳 기지촌을 떠돌다 보니 59살이 됐다. 생계를 잇기 위한 수단이었지만 ‘양공주’로 손가락질받기 일쑤인 세월을 살며 김씨는 멸시와 차별을 견뎌야 했다.“소송을 시작한 지 8년이 지나도 아무런 대법원 판결이 나지 않아 답답했는데, 오늘 우리 할머니들 손을 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/09/30/news-p.v1.20220930.02bc6399292d42b7bc53f16ce45d8c11_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캄보디아 여성 노동자들의 ‘일그러진 코리안드림’]]></title>
-            <link>https://www.khan.co.kr/national/labor/article/202209291520011</link>
-            <guid>https://www.khan.co.kr/national/labor/article/202209291520011</guid>
-            <pubDate>Thu, 29 Sep 2022 21:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[깻잎 1000장을 따면 1㎏들이 소쿠리 1개가 가득 찼다. 그렇게 하루에 소쿠리 40개를 채울 깻잎 4만장을 따야 했다. 농장주는 “소쿠리를 세어 하나라도 덜 하면 소쿠리 1개당 1500원씩 임금에서 깎겠다”며 으름장을 놨다. 캄보디아 출신 이주노동자 A씨는 농장주의 엄포에 어쩔 수 없이 동의서에 사인해야 했다.전북 익산의 농장에서 일하는 여성 노동자 B씨의 숙소 화장실은 비닐하우스와 비닐하우스 사이의 도랑이다. 비닐하우스 기숙사 밖에 임시가건물 화장실이 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/09/29/news-p.v1.20220928.f39b8b7ae7cd424f947a724f030aca21_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
