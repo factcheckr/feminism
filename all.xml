@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Oct 2022 11:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Oct 2022 12:35:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/10/01/news-p.v1.20220930.fc3274590fca467ca1d61d8d83fc4959_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이보다 더 알찰 수 없는 뉴스레터 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1065</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1065</guid>
+            <pubDate>Thu, 13 Oct 2022 12:34:49 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부의 '여성가족부 폐지'가 지난 2주 사이 가장 큰 이슈였습니다. 20~30퍼센트에 머물러 있는 윤 정부가 재차 '여가부 폐지' 카드를 꺼내는 것은 당연한 수순으로 여겨집니다. 특히 최근 '바이든-날리면' 비속어 음성 논란으로 코너에 몰린 만큼, 위기 국면을 타개하기 위해 여가부 폐지를 서두른다는 분석도 나옵니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/da1966a6-c395-4af7-9275-93cb4854b8cd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[두 여성의 죽음이 촉발한 분노 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1045</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1045</guid>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 08 Jun 2022 04:29:27 GMT</pubDate>
             <content:encoded><![CDATA[장애인 혐오의 신호탄을 쏘아 올린 것은 이준석 국민의힘 대표였습니다. 그는 지속적으로 남녀 갈라치기를 부추기며 '여성 혐오' 정서를 활용해 자신의 입지를 다진다는 비판을 받아 왔는데요. 이 대표는 지난 25일부터 4일 동안 사회관계망서비스(SNS)에 무려 14개 이상 글을 올리며 장애인 이동권 확대와 예산 확보를 위해 지하철 승하차 시위를 하고 있는 전국장애인차별철폐연대(전장연)에 대해 "수백만 서울시민을 볼모로 잡는 시위를 중단하라"는 주장을 이어가고 있습니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/3cea0268-f59b-4ae1-804a-34c61ec49158.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[페미니스트는 어떻게 연애해? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/746</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/746</guid>
-            <pubDate>Wed, 08 Jun 2022 04:29:27 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 연애 혹은 사랑 그 사이를 넘나드는 관계 맺기에 대해 이야기를 나눠보고 싶어요. '아니, 이렇게 엄중한 때에 무슨 사랑 이야기!'라고 생각하실 수 있지만, 몇 주 연속 정치·사회 뉴스를 계속해서 봐야 했기에 이번 주는 머리를 식혀보도록 해요.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/d73f39f9-5206-4f58-b03a-bc6686d21837.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
