@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Oct 2022 08:29:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 09:27:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가 내 몸을 사랑하려면 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202210181729001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202210181729001</guid>
+            <pubDate>Tue, 18 Oct 2022 09:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[20대 초반의 어느 여름날, 유난히 외음부가 가려웠다. 병원에 가야겠는데, 산부인과의 문턱은 왜 이리 높은지 망설이며 병을 키우다 ‘여의사 직접진료’라는 간판을 보고서야 그곳에서 진료를 받았다. 당시 나에겐 그 생경한 의자와 자세가 주는 부담감이 너무 컸고 내 증상에 공감해줄 의료진을 만나고 싶었다. 결론적으로 말하자면 마케팅 문구에 넘어간 셈이지만 어쨌든 처방받은 약이 잘 맞았고, 더 이상 산부인과를 두려워하지 않게 되었다.예전의 기억이 다시 떠오른 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/10/18/news-p.v1.20221017.ff151eac573a4d5d970f95da349fcdf9_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[90년대생 여성 노동자 100명 중 28명이 ‘우울증’을 겪고 있다 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/labor/article/202210181024001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 12 Oct 2022 06:28:57 GMT</pubDate>
             <content:encoded><![CDATA[“탈레반이 여학생들의 교육을 막고 있지만 나는 꼭 토목공학 기술자가 되어 보이겠다.”올해 17살인 시마 하킴자다는 지난 3일 경향신문과의 화상통화에서 자신은 현재 집에 갇혀 있다고 했다. 대입 시험을 열흘 앞둔 지금, 그의 외출 금지는 공부에 열중하라는 부모의 유난 때문이 아니다. 지난달 30일 아프가니스탄 수도 카불 서부 다시트 에 바르치 지역의 카지 교육센터 강당에서는 400여명의 학생들이 대입 모의고사를 치르던 중 자폭 테러가 발생했다. 테러리스트는 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/10/12/news-p.v1.20221011.2c1af0b91a8e4399a049df1176e6c36b_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘스쿨미투’ 손놓은 교육당국, 버젓이 교단에 서있는 가해자 137명 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/education/article/202210111430001</link>
-            <guid>https://www.khan.co.kr/national/education/article/202210111430001</guid>
-            <pubDate>Tue, 11 Oct 2022 11:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[2018년 4월 서울 용화여고 졸업생들을 시작으로 이른바 ‘스쿨 미투’가 봇물 터지듯 쏟아져 나왔다. 그러나 이후 5년이 다 되어가도록 학교 내 성폭력 범죄 관리는 제대로 되지 않고 있다. 교육청들마다 자체 집계한 성폭력 사건 수가 제각각이고, 학생들에게 성폭력·성희롱을 저지른 교사 절반 가까이는 재직 여부조차 파악이 되지 않았다. 아직 교단에 서고 있는 것으로 확인된 가해 지목 교사는 137명이다.국회 교육위원회 소속 민형배 의원(무소속)이 3일 17개 시도교육...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/10/11/news-p.v1.20221011.2f13361b63c540588c7ec47a415f15e6_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘n번방’ 이후 경찰 디지털성범죄 전담인력 3년간 ‘10명’ 늘었다 (경향신문 ─ 연재 ─ 플랫)]]></title>
