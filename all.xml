@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Oct 2022 09:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Oct 2022 10:27:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,54 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/09/15/l_2022091501000644100049291.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“성희롱 교사, 징계 대신 승진이 말이 되나” 스쿨미투 학부모의 편지 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202210191537001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202210191537001</guid>
+            <pubDate>Wed, 19 Oct 2022 10:25:16 GMT</pubDate>
+            <content:encoded><![CDATA[“(성희롱 가해 교사들에 대한) 적절한 조치를 취한다고 해 잠잠하게 하더니 피해 학생들이 졸업하자 아무 일 없었다는 것처럼 되돌아간다는 게 말이나 되나요?”서울의 한 남녀공학 사립고등학교인 A고를 졸업한 딸을 둔 학부모가 지난 7월 시민단체 정치하는엄마들에 보낸 손편지의 일부다. 이 고등학교는 일부 교사가 학생들에게 성희롱성 발언을 한 사실이 2018년 학생들의 ‘스쿨 미투’ 고발로 알려졌던 곳이다.당시 학생들은 트위터에 ‘A고 미투’ 계정을 개설하고 재...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/10/19/news-p.v1.20221017.6e81f18fdcdc4201bcd5109d5e3214c7_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“피 묻은 빵 먹을 수 없다” ‘빠바 알바생’도 동참한 SPC 불매 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/labor/article/202210191057021</link>
+            <guid>https://www.khan.co.kr/national/labor/article/202210191057021</guid>
+            <pubDate>Wed, 19 Oct 2022 10:25:16 GMT</pubDate>
+            <content:encoded><![CDATA[18일 오후 2시 20대 여성 노동자 끼임 사고가 발생한 경기 평택 SPC 계열사 제빵공장 앞은 오가는 사람 없이 조용했다. 공장 안으로 들어가는 입구는 ‘출입통제시스템(스피드게이트)’에 막혀 일반 시민의 출입이 불가능했다. 스피드게이트 너머로 흰 천막 아래 마련된 분향소가 보였다. 고인의 영정사진 앞에는 국화꽃 더미가 놓였고, 한편에는 동료들이 붙이고 간 추모 포스트잇으로 빼곡한 판넬이 세워졌다.“사고 현장 수습도 없이 바로 공장 가동 너무 비윤리적, 가족...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/10/19/news-p.v1.20221019.ce92bf41376a46ef987fef59c8c022a2_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내가 내 몸을 사랑하려면 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202210181729001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202210181729001</guid>
+            <pubDate>Tue, 18 Oct 2022 09:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[20대 초반의 어느 여름날, 유난히 외음부가 가려웠다. 병원에 가야겠는데, 산부인과의 문턱은 왜 이리 높은지 망설이며 병을 키우다 ‘여의사 직접진료’라는 간판을 보고서야 그곳에서 진료를 받았다. 당시 나에겐 그 생경한 의자와 자세가 주는 부담감이 너무 컸고 내 증상에 공감해줄 의료진을 만나고 싶었다. 결론적으로 말하자면 마케팅 문구에 넘어간 셈이지만 어쨌든 처방받은 약이 잘 맞았고, 더 이상 산부인과를 두려워하지 않게 되었다.예전의 기억이 다시 떠오른 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/10/18/news-p.v1.20221017.ff151eac573a4d5d970f95da349fcdf9_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[90년대생 여성 노동자 100명 중 28명이 ‘우울증’을 겪고 있다 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/labor/article/202210181024001</link>
+            <guid>https://www.khan.co.kr/national/labor/article/202210181024001</guid>
+            <pubDate>Tue, 18 Oct 2022 04:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[“이직을 여섯 번 했는데, 무기계약직과 파견·용역을 오갔다. 한 곳을 빼고는 모두 30인 미만의 소규모 사업장이었고 150만원 미만의 월급을 받았다. 대부분 6개월이 되기 전 퇴사했다. 해고됐고, 계약 기간이 끝났고, 수습·인턴 기간 만료 후 채용되지 않았고, 권고사직됐다. 먼저 사표를 낸 적도 있지만, 직장 내 괴롭힘 피해 때문이었다. 취업과 이직을 반복하며 심신이 피폐해졌다. 사는 내내 경제적으로 힘들었다. 금전적인 도움을 받을 수 있는 사람, 몸이 아플 때 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/10/18/news-p.v1.20221017.f95bf446b16b43489032bef449a36a3b_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“여가부 폐지, 우리가 막는다” 광화문 가득 채운 분노의 목소리 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202210171456001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202210171456001</guid>
+            <pubDate>Mon, 17 Oct 2022 22:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부가 발표한 ‘여성가족부 폐지’에 반대하는 시민들의 목소리가 주말인 15일 서울 도심에 울려 퍼졌다.한국여성의전화 등 195개 여성·시민·노동·사회단체 주최로 이날 오후 2시부터 5시까지 서울 종로 종각역 2번 출구에서 ‘여성가족부 폐지안 규탄 전국 집중 집회’가 열렸다. 전국 각지에서 2000명(신청자 기준·주최 측 추산)이 참여했다.단체들은 “대선 시기부터 정치적 위기 때마다 ‘여성가족부 폐지’ 카드를 꺼내며 여성의 인권을 정쟁의 도구로 삼고 국민을 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/10/17/news-p.v1.20221017.b596c66c9d764ce0a108567f65b9de7f_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[169명의 아이들이 잠자리에 든 후 깨어나지 못했다 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202210171049001</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202210171049001</guid>
+            <pubDate>Mon, 17 Oct 2022 22:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[169명의 아이들이 잠자리에 든 후 깨어나지 못했다.2015년부터 1년 새 스웨덴의 여러 도시에서 발생한 일이다. 온갖 검사가 진행됐지만 의학적으로는 아무런 이상 소견이 없었다. 뇌파 기록 또한 외관상의 무의식과 달리 정상이었다. 아이들의 증상은 비슷했다. 처음엔 불안과 우울 증세를 보이다 말을 하지 않게 되고, 결국엔 어떤 신체적·사회적 활동도 거부한 채 죽은 듯 잠만 잤다. 운이 좋으면 몇 달 만에 깨어난 아이도 있었지만 보통은 1년이 넘게, 길게는 수년간...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/10/17/news-p.v1.20221013.58d18c9cf56c4e8db971adcabf23c625_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“히잡이라는 ‘감옥’을 벗어나는 것은 이란 모두를 위한 일이다” (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202210141640001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202210141640001</guid>
@@ -198,54 +246,6 @@
             <pubDate>Fri, 14 Oct 2022 01:44:25 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;기생충&gt;의 봉준호 감독은 과거 한 인터뷰에서 폭염 속에 연기해야 하는 아역배우들을 보호하기 위해 일부러 돈을 더 들였다는 일화를 이야기한 적이 있다. 배우 이선균씨가 집 안에서 대화하고 아이가 집 밖에서 노는 장면을 찍어야 했는데 2018년 유례없는 폭염이 찾아왔다. 폭염에 야외 촬영은 너무 위험하다고 판단했고, 어린 배우를 보호하려 더위가 가신 뒤 따로 촬영해 합성했다. 컴퓨터 이미지 작업을 하느라 비용이 더 들었지만 아역배우 보호를 위해...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/10/13/news-p.v1.20221011.4adf027f48434928a0ec8b236723f027_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘여성계 의견’ 듣겠다면서 반대 단체는 초대도 안한 여가부 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202210121505001</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202210121505001</guid>
-            <pubDate>Wed, 12 Oct 2022 06:28:57 GMT</pubDate>
-            <content:encoded><![CDATA[여성가족부가 부처 폐지와 관련해 여성계 의견을 듣겠다며 간담회를 열면서 부처 폐지 반대 단체들은 초대조차 하지 않은 것으로 확인됐다. 그간 논의를 폐쇄적으로 진행하다가 비난 여론에 떠밀려 뒤늦게 공개적으로 여성계 의견 수렴에 나선 것인데, 그마저도 정부의 ‘입맛’에 맞는 단체들만 초청했다. 여가부는 “향후 다양한 단체와 소통하는 자리를 마련할 예정”이라고 했다.10일 경향신문 취재 결과 여가부는 이날 오후 정부서울청사에서 김현숙 장관 주재로 열린 ‘정...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/10/12/news-p.v1.20221012.ac9063fe376c4d97a060c6d58599ddf5_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탈레반 지옥의 가장 낮은 곳에 ‘하자라족 여성’이 있다 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202210121022001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202210121022001</guid>
-            <pubDate>Wed, 12 Oct 2022 06:28:57 GMT</pubDate>
-            <content:encoded><![CDATA[“탈레반이 여학생들의 교육을 막고 있지만 나는 꼭 토목공학 기술자가 되어 보이겠다.”올해 17살인 시마 하킴자다는 지난 3일 경향신문과의 화상통화에서 자신은 현재 집에 갇혀 있다고 했다. 대입 시험을 열흘 앞둔 지금, 그의 외출 금지는 공부에 열중하라는 부모의 유난 때문이 아니다. 지난달 30일 아프가니스탄 수도 카불 서부 다시트 에 바르치 지역의 카지 교육센터 강당에서는 400여명의 학생들이 대입 모의고사를 치르던 중 자폭 테러가 발생했다. 테러리스트는 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/10/12/news-p.v1.20221011.2c1af0b91a8e4399a049df1176e6c36b_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘스쿨미투’ 손놓은 교육당국, 버젓이 교단에 서있는 가해자 137명 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/education/article/202210111430001</link>
-            <guid>https://www.khan.co.kr/national/education/article/202210111430001</guid>
-            <pubDate>Tue, 11 Oct 2022 11:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[2018년 4월 서울 용화여고 졸업생들을 시작으로 이른바 ‘스쿨 미투’가 봇물 터지듯 쏟아져 나왔다. 그러나 이후 5년이 다 되어가도록 학교 내 성폭력 범죄 관리는 제대로 되지 않고 있다. 교육청들마다 자체 집계한 성폭력 사건 수가 제각각이고, 학생들에게 성폭력·성희롱을 저지른 교사 절반 가까이는 재직 여부조차 파악이 되지 않았다. 아직 교단에 서고 있는 것으로 확인된 가해 지목 교사는 137명이다.국회 교육위원회 소속 민형배 의원(무소속)이 3일 17개 시도교육...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/10/11/news-p.v1.20221011.2f13361b63c540588c7ec47a415f15e6_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그는 여전히 교단에 있고, 우리는 2018년을 보낼 수가 없다 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202210111425001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202210111425001</guid>
-            <pubDate>Tue, 11 Oct 2022 11:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[그는 여전히 교단에 있다. 서울 모 고등학교에서 체육 교사의 탈을 쓰고 있는 성범죄자. 신입 동료 교사에게 “운동을 해서 보기 좋다”며 팔·가슴·허리 부위를 만지고, “성에 관심이 많아 보인다”며 콘돔을 건넨 그가. 학생들에게는 “선생님한테 그렇게 속살 보이면 안 된다” “여자가 함부로 허리 돌리는 것 아니다” “손가락 하나면 너희 아무것도 못하게 할 수 있다”라며 성희롱을 저지른 그가. 아직도 교사다. 그래서 우리는 2018년을 보내지 못한다. 보낼 수가...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/10/11/news-p.v1.20221011.51200aa9476f4ac4ae99ced02aaebc84_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“더이상 이전의 가족으로 돌아갈 순 없다” 김순남 대표의 이유있는 확신 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/book/article/202210111132001</link>
-            <guid>https://www.khan.co.kr/culture/book/article/202210111132001</guid>
-            <pubDate>Tue, 11 Oct 2022 11:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 여성가족부는 비혼 동거 커플 등 혼인이나 혈연 관계로 묶이지 않은 관계도 법률상 ‘가족’으로 인정하는 내용의 4차 건강가정기본계획(2021~2025)을 발표했다. 가족을 ‘혈연·혼인·입양으로 이뤄진 단위’로 협소하게 정의하는 법 조항을 삭제하고 가족형태에 따른 차별을 금지하겠다는 취지였다.새 정부가 들어서면서 여가부는 손바닥을 뒤집었다. 지난달 여가부는 4차 건강가정기본계획을 폐기하겠다는 뜻을 밝혔다.“국가의 보호·지원 대상을 법에서 규정할 필요가 있다”는...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/10/11/news-p.v1.20221007.4ca5c4b8332d47bba5233ed26a91bb57_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페미니스트의 결혼식 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202210071605001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202210071605001</guid>
-            <pubDate>Fri, 07 Oct 2022 16:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[※이 글은 10월 7일자 플랫 뉴스레터(링크)에 게재된 글입니다. 뉴스레터 전문에서는 한 주 간 있었던 젠더 뉴스, 이에 대한 플랫 독자들 반응도 만나보실 수 있습니다. 백래시의 소음에서 반 보 물러나 여성들과 이야기를 나누고 싶다면, 매주 금요일 7시 플랫 뉴스레터를 구독해주세요. 혹시 링크가 연결되지 않으면 괄호 안의 주소(https://bit.ly/3rDtwPy)로 들어오실 수 있습니다.독자님은 주말에 보통 뭐하시나요? 맑고 선선한 날씨때문인지 저는 요즘 부쩍 결혼식 초대...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/10/07/news-p.v1.20221007.2025eda0a1d94607a105c1bd3b5b7457_P1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이보다 더 알찰 수 없는 뉴스레터 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
