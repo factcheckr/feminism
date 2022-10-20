@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Oct 2022 15:24:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Oct 2022 16:31:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제서야… 법무부, 스토킹처벌법 ‘반의사불벌조항’ 폐지 입법예고]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202210201647001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202210201647001</guid>
+            <pubDate>Thu, 20 Oct 2022 16:27:58 GMT</pubDate>
+            <content:encoded><![CDATA[법무부가 법원 선고 전이라도 피해자 보호를 위해 스토킹 가해자에게 전자발찌(위치추적 전자장치)를 부착하도록 하기로 했다. 스토킹 재범 배경 중 하나였던 스토킹처벌법의 ‘반의사 불벌’ 조항은 폐지하기로 했다. 온라인상에서 벌어지는 스토킹 행위도 처벌할 수 있도록 하기로 했다.법무부는 이 같은 내용을 담은 스토킹처벌법·전자장치부착법 개정안을 입법예고한다고 19일 밝혔다. 법무부는 “스토킹처벌법이 시행됐으나 스토킹 피해자나 가족을 대상으로 한 살인 등 강력범...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/10/20/news-p.v1.20221020.4109dc06dc884e938ac9506b41728401_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슬픔을 모르는 수장들]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202210201045001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 14 Oct 2022 11:14:32 GMT</pubDate>
             <content:encoded><![CDATA[“‘퐁당’은 살인이에요.” 지난 11일 서울 강남 지역 ‘마약 중독자 회복을 위한 자조 모임’에서 만난 이재완씨(가명·25)가 말했다. 스무살 때부터 5년 가까이 마약을 하다가 끊은 이씨는 주변 남성들로부터 ‘퐁당 무용담’을 셀 수 없이 들었다. ‘퐁당’은 술잔 등에 마시는 사람 몰래 마약을 빠뜨리는 행위를 일컫는다. “요즘 필로폰이 워낙 많아지니 ‘몰래뽕’도 많아요. 예쁜 여자가 있어서 ‘퐁당’을 했더니 널브러지더라고 자랑하듯 말하는 식이에요.”이씨는 ‘퐁...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/10/14/news-p.v1.20221013.341fc00b1f5a451e8f0989397fa034e7_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국여성단체협의회는 왜 갑자기 여가부 폐지에 ‘찬성’했을까]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202210131500001</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202210131500001</guid>
-            <pubDate>Fri, 14 Oct 2022 11:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 정부 출범 전 “여성가족부 폐지 반대” 입장을 견지했던 한국여성단체협의회(한여협)가 여가부 폐지 찬성으로 입장을 선회했다. ‘여가부 폐지’에 강력히 반대하는 다수 여성단체와 달리 보수 성향인 한여협은 정부의 여가부 폐지 방침에 대해 ‘젠더 갈등’ 해소를 위한 것이라고 평가했다.허명 한여협 회장은 지난 11일 통화에서 “여가부 기능을 강화하고, (여성부 차관이 별도로 있는) 1장관 3차관 모델의 독일식 부처로 개편하자고 한 김현숙 여가부 장관의 제안에...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/10/13/news-p.v1.20221013.10f12ddfbf2442aca4977559c3d2a890_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
