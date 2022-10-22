@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Oct 2022 23:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2022 01:26:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스토킹처벌법 시행 1년, 20년차 활동가가 여전히 ‘변화’를 믿는 이유]]></title>
+            <link>https://www.khan.co.kr/national/gender/article/202210220700021</link>
+            <guid>https://www.khan.co.kr/national/gender/article/202210220700021</guid>
+            <pubDate>Sat, 22 Oct 2022 01:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[19년.송란희 여성의전화 공동대표가 여성폭력 피해자들을 만나온 시간이다. 2003년 여성의전화 인권운동국에서 가정폭력 피해자들의 ‘정당방위’ 인정을 돕던 신입 활동가는 2022년 이 단체의 대표로 피해자 곁을 지키고 있다. 돌아보면 “많은 것이 바뀌었다” 말할 수도 있겠지만, 변화는 언제나 애가 탈 정도로 더디게 찾아왔다.지난해 10월 시행된 스토킹처벌법은 그렇게 찾아온 변화 중 하나다. 송 대표는 “얼마나 법을 안 만들어줬는지 동냥젖 먹여가며 만들었다고 우스갯...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/10/22/news-p.v1.20221021.9c0f31a6f17c4dcba475bc6b1aec50de_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국 동전에 등장한 첫 아시아 여성, 할리우드 배우 애나 메이 웡]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202210211704001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 17 Oct 2022 22:16:03 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 정부가 발표한 ‘여성가족부 폐지’에 반대하는 시민들의 목소리가 주말인 15일 서울 도심에 울려 퍼졌다.한국여성의전화 등 195개 여성·시민·노동·사회단체 주최로 이날 오후 2시부터 5시까지 서울 종로 종각역 2번 출구에서 ‘여성가족부 폐지안 규탄 전국 집중 집회’가 열렸다. 전국 각지에서 2000명(신청자 기준·주최 측 추산)이 참여했다.단체들은 “대선 시기부터 정치적 위기 때마다 ‘여성가족부 폐지’ 카드를 꺼내며 여성의 인권을 정쟁의 도구로 삼고 국민을 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/10/17/news-p.v1.20221017.b596c66c9d764ce0a108567f65b9de7f_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[169명의 아이들이 잠자리에 든 후 깨어나지 못했다]]></title>
-            <link>https://www.khan.co.kr/culture/book/article/202210171049001</link>
-            <guid>https://www.khan.co.kr/culture/book/article/202210171049001</guid>
-            <pubDate>Mon, 17 Oct 2022 22:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[169명의 아이들이 잠자리에 든 후 깨어나지 못했다.2015년부터 1년 새 스웨덴의 여러 도시에서 발생한 일이다. 온갖 검사가 진행됐지만 의학적으로는 아무런 이상 소견이 없었다. 뇌파 기록 또한 외관상의 무의식과 달리 정상이었다. 아이들의 증상은 비슷했다. 처음엔 불안과 우울 증세를 보이다 말을 하지 않게 되고, 결국엔 어떤 신체적·사회적 활동도 거부한 채 죽은 듯 잠만 잤다. 운이 좋으면 몇 달 만에 깨어난 아이도 있었지만 보통은 1년이 넘게, 길게는 수년간...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/10/17/news-p.v1.20221013.58d18c9cf56c4e8db971adcabf23c625_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
