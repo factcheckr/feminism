@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Oct 2022 22:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Oct 2022 23:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국일보의 여성 기자들]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1087</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1087</guid>
+            <pubDate>Wed, 26 Oct 2022 23:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 허스펙티브 뉴스레터는 지난 2주간의 '뉴스'가 아닌, 한국일보의 콘텐츠와 이를 만드는 여성 기자들을 소개하는 것으로 문을 열게요. 여러분도 잘 아시다시피, 허스펙티브는 기자 1인이 운영하는 실험 조직이라 할 수 있는데요. 그렇다 보니 '더 잘 할 수 없을까'하고 한계를 자주 절감한답니다. 외로움도 물론 있고요. 이런 제게 으쌰 으쌰 힘을 더해주는 순간이 있습니다. 바로 한국일보의 동료들이 만들어낸 좋은 기사와 콘텐츠를 발견할 때입니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/88f6c93c-caf2-469e-9f46-681dac9bc649.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이보다 더 알찰 수 없는 뉴스레터]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1065</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 21 Sep 2022 15:17:23 GMT</pubDate>
             <content:encoded><![CDATA[여기, 1년이 넘도록 내려가지 않는 영정 사진이 있습니다. 바로 군 내에서 발생한 성추행을 신고한 뒤 피해사실 유포, 따돌림, 회유와 협박 등 2차 가해에 시달리다 지난해 5월 21일 스스로 목숨을 끊은 고(故) 이예람 중사의 얼굴입니다. 경기 국군수도병원에 마련된 이 중사의 빈소는 여전히 문상객을 받고 있습니다. 유족이 딸의 억울함을 풀어야 한다며 발인을 미루고 있기 때문입니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/cc80844e-3884-4413-b713-e294a2bbeecb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짧은 휴식에 들어갑니다]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/757</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/757</guid>
-            <pubDate>Wed, 21 Sep 2022 15:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[장애인 혐오의 신호탄을 쏘아 올린 것은 이준석 국민의힘 대표였습니다. 그는 지속적으로 남녀 갈라치기를 부추기며 '여성 혐오' 정서를 활용해 자신의 입지를 다진다는 비판을 받아 왔는데요. 이 대표는 지난 25일부터 4일 동안 사회관계망서비스(SNS)에 무려 14개 이상 글을 올리며 장애인 이동권 확대와 예산 확보를 위해 지하철 승하차 시위를 하고 있는 전국장애인차별철폐연대(전장연)에 대해 "수백만 서울시민을 볼모로 잡는 시위를 중단하라"는 주장을 이어가고 있습니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/3cea0268-f59b-4ae1-804a-34c61ec49158.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
