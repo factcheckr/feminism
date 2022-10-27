@@ -4,9 +4,25 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Oct 2022 20:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Oct 2022 21:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘다른 세계의 비극’이 ‘나도 겪을 수 있는 일’로 변하는 순간]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202210271449001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202210271449001</guid>
+            <pubDate>Thu, 27 Oct 2022 21:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[두고두고 후회하는 발언이 있다. 대학 고학년 때 처음으로 본인상 부고를 받았다. 얼굴도 본 적 없는 학과 후배였다. ‘본인상’이라는 단어가 생소해 주변에 물었다. “이거, 그 말 맞지?” 한 질문에 여러 답이 따라왔다. 그 친구는 군에 복무 중이었다고 했다. 평소 내성적인 성격으로, 휴가를 나왔으나 결국 다시 군으로 돌아가지 않을 선택을 했다는 이야기를 들었다. 며칠 뒤 학과 밖의 누군가가 이에 대해 물었다. 나도 모르게 내뱉은 문장은 “원래 성격이 좀 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/10/27/news-p.v1.20221027.de4053f930d04a2faf64477c0550aa7f_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[좋아하는 미술가를 떠올려보세요, 여성입니까?]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202210271042001</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202210271042001</guid>
+            <pubDate>Thu, 27 Oct 2022 21:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[지금 당신이 가장 좋아하는 미술가를 떠올려보라.여성 미술가를 떠올린 이는 흔치 않을 것이다. 빈센트 반 고흐, 앙리 마티스, 클로드 모네, 구스타프 클림트, 파블로 피카소, 피트 몬드리안…. 대중적으로 알려진 이 미술가들의 공통점 중 하나는 이들 모두 남성이라는 것이다. 세계의 명화를 소개하는 교양서부터 미술사 전문서적까지 모두 남성 미술가로 가득하다. 미술사의 고전으로 불리는 에른스트 곰브리치의 &lt;서양미술사&gt;와 H W 잰슨의 &lt;미술의 역사&gt; 초...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/10/27/news-p.v1.20221025.09ef587bd6bb49eea7c169df2d2d08d6_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울경찰청, 협박·주거침입 사건도 ‘스토킹 여부’ 따져본다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202210261531001</link>
@@ -70,22 +86,6 @@
             <pubDate>Sat, 22 Oct 2022 01:23:03 GMT</pubDate>
             <content:encoded><![CDATA[19년.송란희 여성의전화 공동대표가 여성폭력 피해자들을 만나온 시간이다. 2003년 여성의전화 인권운동국에서 가정폭력 피해자들의 ‘정당방위’ 인정을 돕던 신입 활동가는 2022년 이 단체의 대표로 피해자 곁을 지키고 있다. 돌아보면 “많은 것이 바뀌었다” 말할 수도 있겠지만, 변화는 언제나 애가 탈 정도로 더디게 찾아왔다.지난해 10월 시행된 스토킹처벌법은 그렇게 찾아온 변화 중 하나다. 송 대표는 “얼마나 법을 안 만들어줬는지 동냥젖 먹여가며 만들었다고 우스갯...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/10/22/news-p.v1.20221021.9c0f31a6f17c4dcba475bc6b1aec50de_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 동전에 등장한 첫 아시아 여성, 할리우드 배우 애나 메이 웡]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202210211704001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202210211704001</guid>
-            <pubDate>Fri, 21 Oct 2022 08:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[20세기 초중반 미국 할리우드에서 활약한 중국계 배우 애나 메이 웡이 아시아계로는 최초로 미국 화폐에 얼굴이 실렸다.미국 조폐국은 8일(현지시간) “‘미국 여성 쿼터(25센트 동전) 프로그램’에 따라 애나 메이 웡의 얼굴이 실린 25센트짜리 기념 동전이 발행됐다”면서 “웡은 할리우드 최초의 중국계 미국인 영화배우”라고 밝혔다. 이로써 웡은 미국 역사상 최초로 달러화 화폐에 얼굴이 실린 최초의 아시아계 인물로 기록되게 됐다. 웡의 얼굴이 실린 25센트 동전의 반...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/10/21/news-p.v1.20221021.87a1e3973a674104be74e3192395ca59_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정서경 “덤프트럭처럼 밀면서 지나가는 여자들 이야기를 하고 싶었다”]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202210211034001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202210211034001</guid>
-            <pubDate>Fri, 21 Oct 2022 08:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[“&lt;작은 아씨들&gt;이라는 제목을 들으면 아무래도 가족의 사랑과 여자들간의 우정, 연대 같은 것을 생각하게 되잖아요. 하지만 저는 덤프트럭처럼 밀면서 지나가는 이야기를 하고 싶었어요.”지난 9일 11%대의 높은 시청률로 종영한 tvN 드라마 &lt;작은 아씨들&gt;의 극본은 정서경 작가가 썼다. 영화 &lt;친절한 금자씨&gt;, &lt;싸이보그지만 괜찮아&gt;, &lt;박쥐&gt;, &lt;아가씨&gt;부터 &lt;헤어질 결심&gt;까지 박찬욱 감독과 함께 시나리오를 집필하며 독특한 세계...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/10/21/news-p.v1.20221021.a90bc8d510f04732909dd6b1704dfbdc_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
