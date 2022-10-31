@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Oct 2022 17:34:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Oct 2022 18:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘여성, 삶, 자유’를 외치는 이들에게 지금 가장 필요한 것]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202210311615001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202210311615001</guid>
+            <pubDate>Mon, 31 Oct 2022 18:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[“이미 혁명은 시작되었어요. 이 시위는 단순한 시위가 아니라고요. 저는 이미 꿈을 꾸고 있어요. 이란에서 자유롭게 히잡을 벗고, 춤을 추고 다른 사랑하는 이들과 즐겁게 살아가는 꿈을요.”지난달 25일을 시작으로 한 달 가까이 서울 테헤란로와 이태원 일대에서 매주 이란 반정부 시위를 계속하고 있는 25세의 이란 유학생 아이사는 힘주어 이야기했다. 2022년 이란 시위를 둘러싼 목소리들은 왜 40여일이 지난 지금까지도 이렇게 이란 사회를, 그리고 한국을 비롯한 세...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/10/31/news-p.v1.20221031.725d7da6a9514b5a8eed3d0cb2d0eedd_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[결혼식 가는 마음, 그 복잡함에 대하여:플랫 독자들이 답하다]]></title>
             <link>https://www.khan.co.kr/life/life-general/article/202210290700011</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 25 Oct 2022 23:15:48 GMT</pubDate>
             <content:encoded><![CDATA[&lt;※이 기사는 2022년 10월 24일자 경향신문 ‘[여적]국민참여재판과 성범죄’를 재가공하였습니다.&gt;국민참여재판과 성범죄의 상관관계가 부각되고 있다. 지난해 신청된 4건 중 1건이 성범죄였다. 무죄 확률이 높아 성범죄 피고인들이 유독 국민참여재판을 원한다고 한다. 2020년 기준 일반재판에서 성범죄 무죄율은 3.7%인데 국민참여재판에서는 47.8%였다. 2008~2020년 국민참여재판에서 성범죄는 다른 범죄에 비해 매우 높은 무죄율(21.88%)을 보였다. 강도나 상해에 비해서는 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/10/25/news-p.v1.20221024.ed2213155aa441269c6045fca7a3a609_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플랫이 1만 팔로워 ‘감사 이벤트’를 엽니다]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202210241629001</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202210241629001</guid>
-            <pubDate>Mon, 24 Oct 2022 19:24:04 GMT</pubDate>
-            <content:encoded><![CDATA[2020년 3월 8일, 여성의 날에 문을 연 플랫이 드디어 1만 구독자를 달성했습니다. ‘기울어진 운동장이 평평해 질 때까지, 여성들의 목소리를 주변이 아닌 중심에 둔다’ 는 플랫팀의 마음은 지금까지 함께 해주신 구독자님 덕분에 유지될 수 있었습니다. 정말로 고맙습니다. 기쁜 마음을 나누기 위해 플랫팀에 준비한 이벤트를 소개합니다.▶ 인스타그램 이벤트 참여하기 (https://bit.ly/3DkORTl)EVENT - 플랫 구독자 이름을 지어주세요!플랫팀 기자들 사이에서도 매번 고민이...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/10/24/news-p.v1.20221024.0306ab4784bc46e38cf478c705c3d96c_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
