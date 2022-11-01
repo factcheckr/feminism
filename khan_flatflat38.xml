@@ -4,9 +4,25 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Nov 2022 06:27:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Nov 2022 07:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘동화 속 할머니’가 달라졌다]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202211011518011</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202211011518011</guid>
+            <pubDate>Tue, 01 Nov 2022 07:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[우리할머니우리는 할머니를 ‘호랑이 할머니’라고 불렀다. 할머니는 목소리가 컸고 야단을 잘 쳤다. 명절에 할머니 집을 가는 게 썩 기대되지 않을 만큼 할머니가 무서웠다. 동화 속 할머니를 보면 할머니들은 모두 인자하던데 우리 할머니는 왜 그렇지 않을까 이상했다. 친구들은 방학마다 시골 할머니 집에 간다는데 할머니는 서울에 사시는 것까지 특이하게 여겨졌다. 우리는 할머니를 ‘서울 할머니’라고도 불렀다.그러던 할머니가 첫 증손주인 내 아이를 안고는 무척이나...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/01/news-p.v1.20221101.0626ee6428b34a8e8ac7bfa559a59f6b_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바로잡습니다]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202211011043001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202211011043001</guid>
+            <pubDate>Tue, 01 Nov 2022 07:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[“정치와 국제 분야에서 들려오는 뉴스는 내게 공포와 무력감을 안긴다. 현실이 감당하기 너무 벅찰 때, 마음이 잠시 도피할 수 있는 공간으로서의 이야깃거리는 필요한 법이다. 남은 빵을 다 먹으면 전설 포켓몬 띠부씰을 찾는 여정을 다시 시작하리라.”지난 3월 발행한 주간경향 1469호에 ‘[꼬다리] 돌아온 포켓몬빵이 반가운 이유’라는 제목의 글을 썼다. 고백하자면 이 글이 부끄럽다. 돌아보면 ‘문제투성이’ 빵이었는데 현실 도피를 하며 만족했다. 포켓몬빵을 생산...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/01/news-p.v1.20221031.ae95db7e7acc48289fd0ed51654dc29b_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘여성, 삶, 자유’를 외치는 이들에게 지금 가장 필요한 것]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202210311615001</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 26 Oct 2022 14:21:03 GMT</pubDate>
             <content:encoded><![CDATA[“제가 태어난 한국에서의 활동이어서인지 ‘타다이마’(‘다녀왔습니다’라는 뜻의 일본어) 라는 기분이에요. 저를 통해 한국과 일본이 서로를 더 잘 알고 사이도 좋아지면 좋겠습니다.”일본의 뮤지션 챤미나(24·본명 오토모나이 미나)는 ‘엄마의 나라’ 한국에서 활동하게 된 소감을 이렇게 밝혔다. 한국계 일본인으로 개성 넘치는 음악을 통해 주목받아온 그는 지난달 첫 한국어 싱글을 발표했다. 한국 활동을 본격화한 챤미나를 지난 15일 도쿄 미나토구의 워너뮤직재팬 사무...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/10/26/news-p.v1.20221025.320fcd5cb89b4942abd29b202c030aed_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반도체 공장에 다니던 엄마의 아픈 자녀들, ‘우연’이 ‘문제’가 되기까지]]></title>
-            <link>https://www.khan.co.kr/culture/book/article/202210251435001</link>
-            <guid>https://www.khan.co.kr/culture/book/article/202210251435001</guid>
-            <pubDate>Tue, 25 Oct 2022 23:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[이혜주씨(가명)는 삼성반도체 기흥사업장 디퓨전(확산) 공정에서 오퍼레이터로 12년을 일했다. 디퓨전 공정에선 열처리 작업을 주로 하기에 고온 기계들이 빼곡히 들어차 있었다. 후끈한 열기 속에서 런 박스(웨이퍼가 담긴 박스)를 하루에 200개씩 들고 날랐다. 클린룸에선 약품 냄새와 탄내가 났다. 4년이 넘어서자 단순 작업이 지겨워졌다. 과감히 퇴사했다. 20대 중반의 ‘어중간한’ 나이에 구할 수 있는 일은 많지 않았다. 삼성반도체에서 재입사 사원을 뽑는다는 말에 원서...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/10/25/news-p.v1.20221024.5f1bb252ccad4be2bf8b14328fa0d4ed_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민참여재판은 어쩌다 성범죄자들의 ‘무죄 통로’가 됐을까?]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202210251004001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202210251004001</guid>
-            <pubDate>Tue, 25 Oct 2022 23:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;※이 기사는 2022년 10월 24일자 경향신문 ‘[여적]국민참여재판과 성범죄’를 재가공하였습니다.&gt;국민참여재판과 성범죄의 상관관계가 부각되고 있다. 지난해 신청된 4건 중 1건이 성범죄였다. 무죄 확률이 높아 성범죄 피고인들이 유독 국민참여재판을 원한다고 한다. 2020년 기준 일반재판에서 성범죄 무죄율은 3.7%인데 국민참여재판에서는 47.8%였다. 2008~2020년 국민참여재판에서 성범죄는 다른 범죄에 비해 매우 높은 무죄율(21.88%)을 보였다. 강도나 상해에 비해서는 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/10/25/news-p.v1.20221024.ed2213155aa441269c6045fca7a3a609_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
