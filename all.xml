@@ -4,11 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Nov 2022 07:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Nov 2022 08:24:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[“농부를 왜 무시하지? 얼마나 멋진 직업인데!” 편견에서 발견한 ‘뭐하농’의 미래 (경향신문 ─ 플랫)]]></title>
+            <title><![CDATA[<저주토끼> 정보라 작가가 대학교 ‘강의 노동’을 그만둔 이유 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202211071130001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202211071130001</guid>
+            <pubDate>Mon, 07 Nov 2022 04:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[“강사 월급은 교수의 10분의 1밖에 안 된다. 학교 입장에서는 교수 안 뽑고 실력 있고 실적 좋은 강사들에게 10분의 1 임금만 주면서 논문 실적을 쌓고 ‘노오오력’하라고 희망고문하는 쪽이 열 배 이득이다.”올해 4월 세계 3대 문학상 중 하나로 꼽히는 영국 부커상 인터내셔널 부문 최종후보에 올라 주목을 받았던, &lt;저주토끼&gt;의 저자 정보라 작가(46). 그에겐 여러개의 정체성이 있다. SF와 환상문학을 쓰고 번역하는 정체성도 있지만, 대학에서 러시아어, 러시...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/07/news-p.v1.20221107.bf3df75891454b939bf11c11fdde56b3_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“농부를 왜 무시하지? 얼마나 멋진 직업인데!” 편견에서 찾은 ‘뭐하농’의 미래 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202211041422011</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202211041422011</guid>
             <pubDate>Fri, 04 Nov 2022 14:14:58 GMT</pubDate>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 31 Oct 2022 18:20:30 GMT</pubDate>
             <content:encoded><![CDATA[“이미 혁명은 시작되었어요. 이 시위는 단순한 시위가 아니라고요. 저는 이미 꿈을 꾸고 있어요. 이란에서 자유롭게 히잡을 벗고, 춤을 추고 다른 사랑하는 이들과 즐겁게 살아가는 꿈을요.”지난달 25일을 시작으로 한 달 가까이 서울 테헤란로와 이태원 일대에서 매주 이란 반정부 시위를 계속하고 있는 25세의 이란 유학생 아이사는 힘주어 이야기했다. 2022년 이란 시위를 둘러싼 목소리들은 왜 40여일이 지난 지금까지도 이렇게 이란 사회를, 그리고 한국을 비롯한 세...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/10/31/news-p.v1.20221031.725d7da6a9514b5a8eed3d0cb2d0eedd_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결혼식 가는 마음, 그 복잡함에 대하여:플랫 독자들이 답하다 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/life/life-general/article/202210290700011</link>
-            <guid>https://www.khan.co.kr/life/life-general/article/202210290700011</guid>
-            <pubDate>Sat, 29 Oct 2022 04:31:32 GMT</pubDate>
-            <content:encoded><![CDATA[‘페미니스트적인 결혼식은 무엇일까.’직장인 오은주씨(34·가명)는 최근 ‘페미니스트’인 두 친구의 결혼식을 다녀오고 이런 의문을 품게 됐습니다. 한 친구는 자신의 결혼식에서 가부장적 관습들을 제거하기 위해 공을 들였어요. 청첩장에는 신부 이름을 먼저 올렸고, 신랑과 신부는 동시 입장했어요. 평등한 결혼생활을 위한 혼인서약서도 낭독했습니다.반면 또 다른 친구는 똑같은 이유로 정반대 결혼을 올렸습니다. 플래너에게 전권을 위임하고, 정해진 문법을 충실히 따른 ‘...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/10/29/news-p.v1.20221028.3597d068f985431395ad7b3a6b2f73a9_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“농부를 왜 무시하지? 얼마나 멋진 직업인데!” 편견에서 발견한 ‘뭐하농’의 미래 (경향신문 ─ 연재 ─ 플랫)]]></title>
