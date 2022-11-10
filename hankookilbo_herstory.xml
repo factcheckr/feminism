@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Nov 2022 04:39:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Nov 2022 05:25:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[함께 애도하고 분노해요]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1109</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1109</guid>
+            <pubDate>Thu, 10 Nov 2022 05:24:27 GMT</pubDate>
+            <content:encoded><![CDATA[어떤 말도 보태기 어려운 2주였습니다. 참사가 발생하고 10여 일이 지났지만, 아직도 서울 한복판에서 이 같은 비극이 발생했다는 것이 믿기지 않습니다. 지난달 29일 발생한 이태원 핼러윈 참사로 현재까지 사망자 156명이 사망하고 197명이 부상을 입었습니다. 희생자의 명복을 빌며, 남은 가족과 친구에게도 위로의 마음을 전합니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/8e7eecec-36d0-48d0-a78d-f715d104a070.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국일보의 여성 기자들]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1087</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 06 Nov 2022 17:16:12 GMT</pubDate>
             <content:encoded><![CDATA['난민'에 대해서 다시 생각해 봅니다. 이번 뉴스레터를 보내는 주에는 '세계 난민의 날(6.20)'이 포함되어 있어요. '난민'이라는 단어를 떠올리면 여러분 마음속에는 어떤 얼굴이 가장 먼저 떠오르나요? 정치적 혹은 종교적 박해를 받은 아랍·아프리카계 남성의 얼굴부터 떠오르지는 않으신지요?&nbsp;]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/f091fda6-1102-4d1f-8c91-2911b13eddf4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허스토리가 새 이름으로 돌아왔어요]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/870</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/870</guid>
-            <pubDate>Sun, 06 Nov 2022 17:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[여기, 1년이 넘도록 내려가지 않는 영정 사진이 있습니다. 바로 군 내에서 발생한 성추행을 신고한 뒤 피해사실 유포, 따돌림, 회유와 협박 등 2차 가해에 시달리다 지난해 5월 21일 스스로 목숨을 끊은 고(故) 이예람 중사의 얼굴입니다. 경기 국군수도병원에 마련된 이 중사의 빈소는 여전히 문상객을 받고 있습니다. 유족이 딸의 억울함을 풀어야 한다며 발인을 미루고 있기 때문입니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/cc80844e-3884-4413-b713-e294a2bbeecb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
