@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Nov 2022 09:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Nov 2022 10:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예상보다 컸던 임신중단 이슈 파급력이 ‘붉은 물결’ 멈췄다]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202211111516001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202211111516001</guid>
+            <pubDate>Fri, 11 Nov 2022 10:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[조 바이든 미국 대통령은 공화당 바람이 불 것이라는 예상을 깬 민주당의 중간선거 선거 결과를 두고 임신중단권 이슈와 여성의 투표 참여를 이유로 꼽았다.바이든 대통령은 10일(현지시간) 워싱턴DC의 하워드 극장에서 열린 민주당 전국위원회(DNC) 연설에서 “(선거일이었던) 화요일은 미국에 좋은 날이었고, 민주주의에 좋은 날이었다. 민주당엔 강력한 밤이었다”고 말했다.바이든 “중간선거, 미국 여성들의 힘이었다”바이든 대통령은 특히 “이번 선거에서 미국 여성들은 목...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/11/news-p.v1.20221111.baf7a190be914a5f9d6da4c31006be0c_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘여성, 삶, 자유’ 히잡 벗은 사진으로 연대하는 이란 배우 타라네 알리두스티]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202211111003001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 07 Nov 2022 01:07:54 GMT</pubDate>
             <content:encoded><![CDATA[도시를 떠나 농촌을 향하는 청년들이 늘고 있다. 청년 농부를 다루는 기사에는 으레 이런 식의 댓글이 달린다. “네가 도시에서 실패했으니까 내려갔겠지, 왜 그렇게 잘난 척이야”, “부모가 그렇게 공부시켰는데 농부가 된다고 하면 퍽이나 좋아하겠다.” 농촌은 도시생활에서 실패한 사람들이 가는 곳이라는 고정관념을 잔뜩 머금은 말들이다. 농촌과 농부를 무시하는 편견이 한가득이다.7년차 귀농인인 이지현 ‘뭐하농’ 대표는 농촌을 무시하는 사람들에게 농촌살이의 ‘멋짐...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/04/news-p.v1.20221101.2aa326012c6647bfb86bd23a75e36c09_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엄마의 비극을 곱씹고 기록해야 했다, 내가 살기 위해]]></title>
-            <link>https://www.khan.co.kr/culture/book/article/202211041050001</link>
-            <guid>https://www.khan.co.kr/culture/book/article/202211041050001</guid>
-            <pubDate>Mon, 07 Nov 2022 01:07:54 GMT</pubDate>
-            <content:encoded><![CDATA[나타샤 트레스웨이 어머니 궨덜린 앤 턴바우는 1985년 메모리얼 드라이브 아파트에서 총에 맞아 죽었다. 1973년 재혼한 남편 조엘 T 그리메트가 저지른 살인이었다. 턴바우 나이 마흔 살 때다. 남편은 살해 전 턴바우를 마구 때렸다. 트레스웨이도 학대했다. 비난과 협박은 나날이 거세졌다. 총과 칼로 위협했다. 의붓딸인 트레스웨이와 친자식인 조이도 죽이겠다고 협박했다. 턴바우는 아이들과 자신의 삶을 위해 탈출을 시도했다. 체포 영장 발부를 위한 증거 자료를 직접...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/04/news-p.v1.20221102.74bd9f9d9cc84a0b8421921cc02673c4_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
