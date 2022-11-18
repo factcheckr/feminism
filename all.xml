@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 04:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 05:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/f091fda6-1102-4d1f-8c91-2911b13eddf4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[To a world where female gamers can play free of misogyny! (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9488</link>
+            <guid>https://ildaro.com/9488</guid>
+            <pubDate>Fri, 18 Nov 2022 00:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[This is the situation from which Famerz emerged. The name means that today’s feminist gamers will fight for the female gamers of the future....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022111806005539.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[금기를 깨고, 이데올로기를 수프로 녹여낸 양영희 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9487</link>
             <guid>https://ildaro.com/9487</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 16 Nov 2022 18:24:19 GMT</pubDate>
             <content:encoded><![CDATA[We hear about “female workers” but the expression “male workers” doesn’t exist....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202210/2022102236259465.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국어 시간에 여성 시인 만나기 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9468</link>
-            <guid>https://ildaro.com/9468</guid>
-            <pubDate>Wed, 16 Nov 2022 18:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[2015년 개정 교육과정에 따른 현대 시 참고서의 목차를 보면, 여성 작가의 작품은 234편 중 38편뿐이다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202210/2022102107086338.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
