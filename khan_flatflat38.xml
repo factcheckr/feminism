@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 03:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 04:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“빗나간 ‘공화당 압승’ 예측, 여성 표 위력 과소평가했기 때문”]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202211181100001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202211181100001</guid>
+            <pubDate>Fri, 18 Nov 2022 04:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[11·8 미국 중간선거는 민주당이 상원을 수성하고, 공화당이 한 자릿수 의석 차로 하원을 탈환하는 것으로 마무리될 전망이다. 공화당이 하원을 탈환했지만 당초 예상됐던 ‘레드웨이브’(공화당 바람)는 없었다.일레인 케이마크 브루킹스연구소 선임연구원은 15일 경향신문과의 전화 인터뷰에서 “(공화당이) 임신중단 권리가 위기에 처한 현실에 분노한 여성 유권자들을 간과했기 때문”이라고 말했다. 전체 유권자의 절반이 넘는 여성들의 표가 지닌 위력을 과소평가했다는 것이다....]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/18/news-p.v1.20221117.0317ae69e2f74447a966b8f9a12ca79c_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“페미때문에 미투 당하는걸 예방하는 교육”…공군 성폭력 예방교육 강사의 참담한 말]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202211171702001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 14 Nov 2022 01:06:10 GMT</pubDate>
             <content:encoded><![CDATA[조 바이든 미국 대통령은 공화당 바람이 불 것이라는 예상을 깬 민주당의 중간선거 선거 결과를 두고 임신중단권 이슈와 여성의 투표 참여를 이유로 꼽았다.바이든 대통령은 10일(현지시간) 워싱턴DC의 하워드 극장에서 열린 민주당 전국위원회(DNC) 연설에서 “(선거일이었던) 화요일은 미국에 좋은 날이었고, 민주주의에 좋은 날이었다. 민주당엔 강력한 밤이었다”고 말했다.바이든 “중간선거, 미국 여성들의 힘이었다”바이든 대통령은 특히 “이번 선거에서 미국 여성들은 목...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/11/news-p.v1.20221111.baf7a190be914a5f9d6da4c31006be0c_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘여성, 삶, 자유’ 히잡 벗은 사진으로 연대하는 이란 배우 타라네 알리두스티]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202211111003001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202211111003001</guid>
-            <pubDate>Mon, 14 Nov 2022 01:06:10 GMT</pubDate>
-            <content:encoded><![CDATA[이란의 유명 영화배우 타라네 알리두스티(38)가 9일(현지시간) 인스타그램 프로필 사진을 히잡을 쓰지 않은 사진으로 바꿨다. 알리두스티가 최근 이란에서 반정부 시위로 체포된 사람들과 사망자 유가족을 돕겠다고 밝힌 뒤 올린 게시물이다.사진 속 알리두스티는 손에 쿠르드어로 ‘여자, 삶, 자유’라고 적힌 종이를 들고 있다. 지난 9월 쿠르드인 여성 마흐사 아미니(22)가 히잡을 제대로 쓰지 않았다고 경찰에 끌려갔다가 사망한 이후 이란 전역에서 일어난 반정부 시위의 대...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/11/news-p.v1.20221110.2a4868fd7ce54e7faa3de1c855b8a06d_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
