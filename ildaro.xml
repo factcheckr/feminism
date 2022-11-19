@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 01:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 03:11:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[택시 운전사, 다른 여성에게도 권하고 싶냐고요?]]></title>
+            <link>https://ildaro.com/9489</link>
+            <guid>https://ildaro.com/9489</guid>
+            <pubDate>Sat, 19 Nov 2022 11:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[“사유서를 쓸 때 그렇게 울었거든요. 그래서 제가 타깃이 됐나 봐요. 여자가 우니까 약해 보여서, 이 사람은 괴롭히면 나가겠다…”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022111959504692.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[To a world where female gamers can play free of misogyny!]]></title>
             <link>https://ildaro.com/9488</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 18:24:19 GMT</pubDate>
             <content:encoded><![CDATA[우선은 동의하여 신체를 노출해 촬영했다면 이를 피해자의 의사에 반해 돌리거나 보는 것이 정당한 일인 것처럼 잘못된 인식을 남길 수 있다는 것이 더 큰 문제였다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202210/2022102301271835.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Judiciary, Law School Faculty, and Law Firms Are All Filled with Men?]]></title>
-            <link>https://ildaro.com/9469</link>
-            <guid>https://ildaro.com/9469</guid>
-            <pubDate>Wed, 16 Nov 2022 18:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[We hear about “female workers” but the expression “male workers” doesn’t exist....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202210/2022102236259465.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
