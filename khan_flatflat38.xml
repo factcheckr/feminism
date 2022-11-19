@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 03:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 04:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘페미니스트 섹스토이숍’이 만들어 낸 균열과 변화, 남은 숙제들]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202211181442001</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202211181442001</guid>
+            <pubDate>Sat, 19 Nov 2022 04:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[“그는 항상 장갑처럼 아주 잘 맞아. 늘 사랑할 준비가 되어 있지. 그는 나를 너무 흥분시켜. (중략) 나는 나의 ‘베이비 밥(B.O.B)’을 사랑해.”그래미상 수상자인 미국의 팝스타 메이시 그레이가 2015년 발표한 노래 ‘B.O.B’의 한 대목이다. 언뜻 ‘밥’이라는 이름의 연인에게 보내는 연가처럼 보이지만, 이 곡의 주인공은 사람이 아닌 바이브레이터다. 그레이는 자신의 섹스토이에 대한 애정을 담은 이 곡을 발표하면서 이렇게 말했다. “저는 소녀들이 (섹스와 섹스토...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/18/news-p.v1.20221115.6c5b2c4213504bd0b50bf71a6acf0c65_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“빗나간 ‘공화당 압승’ 예측, 여성 표 위력 과소평가했기 때문”]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202211181100001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 15 Nov 2022 11:11:28 GMT</pubDate>
             <content:encoded><![CDATA[아이는 왜 넘어지면 엄마를 찾으며 울까. 왜 충분한 돌봄과 공감을 받지 못할 때 아빠가 아니라 엄마한테 더 서운해 할까. ‘모든 여자는 아이를 낳고 싶어 한다’ ‘아이는 아빠보다 엄마가 돌봐야 한다’는 등의 철지난 모성애 개념을 갖고 있지 않더라도, 모성 신화는 누구에게나 존재한다. ‘따뜻하고 헌신적인 엄마’는 사회와 제도뿐 아니라 개인의 관계와 내면 안에서도 ‘엄마의 표본’으로 자리 잡고 논리와 감정을 휘두른다. 엄마한테 기대하고, 엄마한테 실망하고...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/14/news-p.v1.20221111.47a1912f8b4042e09b3d59a3f7154bb4_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예상보다 컸던 임신중단 이슈 파급력이 ‘붉은 물결’ 멈췄다]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202211111516001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202211111516001</guid>
-            <pubDate>Mon, 14 Nov 2022 01:06:10 GMT</pubDate>
-            <content:encoded><![CDATA[조 바이든 미국 대통령은 공화당 바람이 불 것이라는 예상을 깬 민주당의 중간선거 선거 결과를 두고 임신중단권 이슈와 여성의 투표 참여를 이유로 꼽았다.바이든 대통령은 10일(현지시간) 워싱턴DC의 하워드 극장에서 열린 민주당 전국위원회(DNC) 연설에서 “(선거일이었던) 화요일은 미국에 좋은 날이었고, 민주주의에 좋은 날이었다. 민주당엔 강력한 밤이었다”고 말했다.바이든 “중간선거, 미국 여성들의 힘이었다”바이든 대통령은 특히 “이번 선거에서 미국 여성들은 목...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/11/news-p.v1.20221111.baf7a190be914a5f9d6da4c31006be0c_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
