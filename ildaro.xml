@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 23:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 01:11:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어머니의 사랑, 어디 나와요?]]></title>
+            <link>https://ildaro.com/9490</link>
+            <guid>https://ildaro.com/9490</guid>
+            <pubDate>Mon, 21 Nov 2022 07:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[그녀는 적은 재산이라도 남기고 어서 세상을 등지기라도 했어야 하는 걸까. 주인공도, 독자들도 이걸로는 좋은 엄마인지 의심스럽다며 어머니의 마음을 의심하고 있었...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022112101523335.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[택시 운전사, 다른 여성에게도 권하고 싶냐고요?]]></title>
             <link>https://ildaro.com/9489</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 18:24:19 GMT</pubDate>
             <content:encoded><![CDATA[뭐가 두려워 자꾸만 감추는 걸까. 그렇게 꼭꼭 숨기는데도, 노동자들은 몸으로 그 결과를 증명한다. 어려운 화학약품 이름만큼이나 복잡하고 어려운 병명으로....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202210/2022102534569985.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노출 촬영영상의 무단유포 ‘관행’에 제동 건 연예인]]></title>
-            <link>https://ildaro.com/9470</link>
-            <guid>https://ildaro.com/9470</guid>
-            <pubDate>Wed, 16 Nov 2022 18:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[우선은 동의하여 신체를 노출해 촬영했다면 이를 피해자의 의사에 반해 돌리거나 보는 것이 정당한 일인 것처럼 잘못된 인식을 남길 수 있다는 것이 더 큰 문제였다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202210/2022102301271835.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
