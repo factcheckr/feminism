@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 23:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 01:03:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/f091fda6-1102-4d1f-8c91-2911b13eddf4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘정상가족’은 없다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9491</link>
+            <guid>https://ildaro.com/9491</guid>
+            <pubDate>Wed, 23 Nov 2022 09:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[시대 변화에 맞춰 생활과 돌봄을 나누는 다양한 관계들이 제도적으로 인정될 수 있는 가족 정책을 수립할 것을 촉구합니다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022112323367785.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[어머니의 사랑, 어디 나와요? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9490</link>
             <guid>https://ildaro.com/9490</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 16 Nov 2022 18:24:19 GMT</pubDate>
             <content:encoded><![CDATA[세상에 어떤 색깔이 맞고, 틀릴 수 있는가. ‘다름’에 대한 이질감과 경계의 시선을 받지 않아도 되는 사회를 원한다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202210/2022102603425333.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성반도체 산업재해가 대를 잇고 있다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9471</link>
-            <guid>https://ildaro.com/9471</guid>
-            <pubDate>Wed, 16 Nov 2022 18:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[뭐가 두려워 자꾸만 감추는 걸까. 그렇게 꼭꼭 숨기는데도, 노동자들은 몸으로 그 결과를 증명한다. 어려운 화학약품 이름만큼이나 복잡하고 어려운 병명으로....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202210/2022102534569985.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
