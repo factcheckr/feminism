@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 05:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 06:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국 여성들이 제대로 보여줬다]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1128</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1128</guid>
+            <pubDate>Thu, 24 Nov 2022 06:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 뉴스레터는 지난 2주간 한국일보 기사 중, 의미 있는 여성·페미니즘 기사 혹은 젠더 관점으로 바라봤더니 또 다른 해석이 포착되는 뉴스들을 소개합니다. 첫 꼭지로는 '11.8 미국 중간선거' 결과를 차근차근 곱씹어 봐요. 지난 8일, 미국에서는 상원 의원(100석 중 35석)과 하원 의원 전체, 일부 주지사와 각주 국무장관직을 선출하는 중간선거가 치러졌어요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/eb0df0ef-9602-419b-824e-ac847d02b7e1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[함께 애도하고 분노해요]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1109</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 13 Nov 2022 23:17:47 GMT</pubDate>
             <content:encoded><![CDATA[2022년 6월 24일. 전 세계가 경악했습니다. 미국 연방대법원이 여성의 임신중지를 헌법적 권리로 보장한 '로 대 웨이드' 판례를 뒤집은 날입니다. 놀랍지만, 놀랍지 않은 뉴스였습니다. 지난 5월, 이미 이 같은 내용의 연방대법원 의견서 초안이 유출된 바 있기 때문이죠. 게다가 연방대법관은 종신으로 복무하는데, 트럼프 정부가 3명을 임명하면서 전체 6대 3의 보수 우위 지형이 구축된 터라 사실 이 같은 결론은 불 보듯 뻔한 상황이었습니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/c3089590-6e16-464d-b3d4-685dd16b6a0a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['여자라서' 조국에서 박해 당했다]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/892</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/892</guid>
-            <pubDate>Sun, 13 Nov 2022 23:17:47 GMT</pubDate>
-            <content:encoded><![CDATA['난민'에 대해서 다시 생각해 봅니다. 이번 뉴스레터를 보내는 주에는 '세계 난민의 날(6.20)'이 포함되어 있어요. '난민'이라는 단어를 떠올리면 여러분 마음속에는 어떤 얼굴이 가장 먼저 떠오르나요? 정치적 혹은 종교적 박해를 받은 아랍·아프리카계 남성의 얼굴부터 떠오르지는 않으신지요?&nbsp;]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/f091fda6-1102-4d1f-8c91-2911b13eddf4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
