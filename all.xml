@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 09:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 10:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/c3089590-6e16-464d-b3d4-685dd16b6a0a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“겨울에 기온이 왔다 갔다…사과나무가 죽는 거예요” (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9493</link>
+            <guid>https://ildaro.com/9493</guid>
+            <pubDate>Fri, 25 Nov 2022 10:17:40 GMT</pubDate>
+            <content:encoded><![CDATA["따뜻하면 사과나무가 봄인 줄 알고 활동을 시작해서 물을 확 올리는데 갑자기 추워지면 그게 얼어요. 얼어서 터져요. 균이 들어가거나 병이 오면 나무가 죽는 거예...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022112500005722.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[구조적 성차별, 우리 일터에 있다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9492</link>
             <guid>https://ildaro.com/9492</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 16 Nov 2022 18:24:19 GMT</pubDate>
             <content:encoded><![CDATA[나는 2004년의 어느 일요일 서아프리카 토고라는 곳에서 태어났다. 태어나기 전날, 어머니와 아버지는 뮤지컬을 보고 있었다고 한다. 그래서인지 어릴 때부터 이야기가...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202210/2022102934109480.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“그들은 노래로 남고자 했습니다” (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9473</link>
-            <guid>https://ildaro.com/9473</guid>
-            <pubDate>Wed, 16 Nov 2022 18:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[“노래는 궁극의 자기주장입니다. 그들은 노래로 남고자 했습니다. 타임캡슐처럼 미래를 위해 읽어주셨으면 좋겠습니다.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202210/2022102825418875.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
