@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 04:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 05:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/c3089590-6e16-464d-b3d4-685dd16b6a0a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘종 다양성의 힘’ 기후위기 시대 토종씨앗 지켜야 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9494</link>
+            <guid>https://ildaro.com/9494</guid>
+            <pubDate>Sun, 27 Nov 2022 10:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[경희 씨는 “토종이라고 무조건 잘 살아남는다고 할 순 없지만, 40가지를 심었을 때 (기후위기에 따른 기상이변이 와도) 20가지는 수확을 할 수 있을 것”이라고 말한다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022112716354817.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“겨울에 기온이 왔다 갔다…사과나무가 죽는 거예요” (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9493</link>
             <guid>https://ildaro.com/9493</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 16 Nov 2022 18:24:19 GMT</pubDate>
             <content:encoded><![CDATA[The manager’s allies claim that the victim is lying for political purposes or that what the manager did wasn’t even sexual violence....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202210/2022103012201514.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수많은 외국인 아이들이 한국에서 자라고 있다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9474</link>
-            <guid>https://ildaro.com/9474</guid>
-            <pubDate>Wed, 16 Nov 2022 18:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[나는 2004년의 어느 일요일 서아프리카 토고라는 곳에서 태어났다. 태어나기 전날, 어머니와 아버지는 뮤지컬을 보고 있었다고 한다. 그래서인지 어릴 때부터 이야기가...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202210/2022102934109480.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
