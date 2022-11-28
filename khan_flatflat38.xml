@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 02:32:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 03:30:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘그때나 지금이나 똑같네’ 하지 않는 세상을 위해···‘여성백년사’ 이혜진 PD]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202211281054011</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202211281054011</guid>
+            <pubDate>Mon, 28 Nov 2022 03:26:05 GMT</pubDate>
+            <content:encoded><![CDATA[1917년 문예지 ‘청춘’에 단편소설 ‘의심의 소녀’가 3등으로 당선되며 데뷔한 작가는 일대 파란을 일으켰다. 여성이었기 때문이다. 김명순은 여성 최초로 등단 작가가 됐다. 자신을 위로하고 세상과 맞서는 그의 작품은 당시 문인들에게 충격을 줬다. 여성 문인으로서는 최초로 이름을 걸고 창작집 &lt;생명의 과실&gt;을 펴내기도 했다.1922년 여성 최초로 단발을 한 강향란은 “나도 사람이며 남자와 똑같이 살아갈 당당한 사람이다. 남자에게 의지하고 또는 남에게 동정을...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/28/news-p.v1.20221124.230393520d644c45a8286a3b090dc52d_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유엔 “여성들, 1시간에 5명꼴로 가족·연인에게 살해당해”]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202211251520001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 21 Nov 2022 17:15:01 GMT</pubDate>
             <content:encoded><![CDATA[국혜조 한국소매틱심리연구소장은 지난달 29일 핼러윈 열기로 가득했던 이태원에 다녀올 생각이었다. 누리꾼들이 직접 올리는 생중계 영상을 보다 마음을 접었다. 사람이 너무 많았기 때문이다.‘안 가길 잘했다. 재미있겠네’라는 생각을 하며 영상을 보고 있는데 “심각한 일이 벌어진 것 같다”는 소식이 들려왔다.그날, 많은 이가 그랬던 것처럼 ‘별일 아니겠지’ 생각했고 일찍 잠들었다. 다음날 아침 외국 친구들로부터 e메일이 쏟아졌다. 참사가 벌어진 걸 알게 된 건 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/21/news-p.v1.20221118.b904cc9de3084308a4da852fcf931412_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘페미니스트 섹스토이숍’이 만들어 낸 균열과 변화, 남은 숙제들]]></title>
-            <link>https://www.khan.co.kr/culture/book/article/202211181442001</link>
-            <guid>https://www.khan.co.kr/culture/book/article/202211181442001</guid>
-            <pubDate>Sat, 19 Nov 2022 04:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[“그는 항상 장갑처럼 아주 잘 맞아. 늘 사랑할 준비가 되어 있지. 그는 나를 너무 흥분시켜. (중략) 나는 나의 ‘베이비 밥(B.O.B)’을 사랑해.”그래미상 수상자인 미국의 팝스타 메이시 그레이가 2015년 발표한 노래 ‘B.O.B’의 한 대목이다. 언뜻 ‘밥’이라는 이름의 연인에게 보내는 연가처럼 보이지만, 이 곡의 주인공은 사람이 아닌 바이브레이터다. 그레이는 자신의 섹스토이에 대한 애정을 담은 이 곡을 발표하면서 이렇게 말했다. “저는 소녀들이 (섹스와 섹스토...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/11/18/news-p.v1.20221115.6c5b2c4213504bd0b50bf71a6acf0c65_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
