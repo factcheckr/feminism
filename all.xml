@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 05:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 06:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/c3089590-6e16-464d-b3d4-685dd16b6a0a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘19호실’로부터…안전을 감각하고 확장하라 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9495</link>
+            <guid>https://ildaro.com/9495</guid>
+            <pubDate>Mon, 28 Nov 2022 00:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[이 공간을 벗어난다면 어떻게 될까? ‘19호실’이 어디까지 일 수 있을지 궁금해졌다. 괜히 동네 한 바퀴를 돌며 산책에 나섰다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022112841356420.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘종 다양성의 힘’ 기후위기 시대 토종씨앗 지켜야 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9494</link>
             <guid>https://ildaro.com/9494</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 16 Nov 2022 18:24:19 GMT</pubDate>
             <content:encoded><![CDATA[“우리는 여기를 들어올 때는 마음을 집에다 내놓고 와라, (웃음) 그러고 집에 가서 다시 우리는 딱 (마음을) 집어넣는다. 이렇게 해야...”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202210/2022103104013925.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What Happens to Colleagues who Join Fights Against Sexual Harassment in the Workplace? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9475</link>
-            <guid>https://ildaro.com/9475</guid>
-            <pubDate>Wed, 16 Nov 2022 18:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[The manager’s allies claim that the victim is lying for political purposes or that what the manager did wasn’t even sexual violence....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202210/2022103012201514.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
