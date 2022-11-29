@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 09:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 10:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돌봄휴가, 돌봄휴직은 왜 ‘가족돌봄’에서만 가능한가]]></title>
+            <link>https://ildaro.com/9496</link>
+            <guid>https://ildaro.com/9496</guid>
+            <pubDate>Tue, 29 Nov 2022 10:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[구성원들끼리 상호협력하고 의존할 수 있도록, 그간 가족에 맞춰진 제도적 권리와 의무를 공동체에게도 열어달라는 것입니다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022112942397592.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘19호실’로부터…안전을 감각하고 확장하라]]></title>
             <link>https://ildaro.com/9495</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 02 Nov 2022 10:04:00 GMT</pubDate>
             <content:encoded><![CDATA["이 변화를 제대로 따져보기로 한다. 나는 변하지 않았다. 다만 나를 대하는 무례한 사람들의 태도에 이제는 침묵하지 않을 뿐이다"...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022110216194748.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘좋은’ 노년 돌봄, 어떻게 가능한가?]]></title>
-            <link>https://ildaro.com/9476</link>
-            <guid>https://ildaro.com/9476</guid>
-            <pubDate>Wed, 16 Nov 2022 18:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[“우리는 여기를 들어올 때는 마음을 집에다 내놓고 와라, (웃음) 그러고 집에 가서 다시 우리는 딱 (마음을) 집어넣는다. 이렇게 해야...”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202210/2022103104013925.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
