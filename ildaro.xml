@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 02:33:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 03:24:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Isn’t a Woman a Person?]]></title>
+            <link>https://ildaro.com/9497</link>
+            <guid>https://ildaro.com/9497</guid>
+            <pubDate>Wed, 30 Nov 2022 11:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[Women in the working world, women of my age range, have to be ready to answer the questions that are only asked to “female workers.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022113008199386.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[돌봄휴가, 돌봄휴직은 왜 ‘가족돌봄’에서만 가능한가]]></title>
             <link>https://ildaro.com/9496</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 04 Nov 2022 00:30:00 GMT</pubDate>
             <content:encoded><![CDATA[여성의 고독은 잘 언급되지 않는 만큼 여성의 고독을 다룬 미디어가 소중하다. 그 영화들이 동굴에서 재생될 때 동굴은 비로소 밝아질 것이다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022110435167186.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 노년여성 작가와 ‘존엄한 글쓰기’]]></title>
-            <link>https://ildaro.com/9477</link>
-            <guid>https://ildaro.com/9477</guid>
-            <pubDate>Wed, 02 Nov 2022 10:04:00 GMT</pubDate>
-            <content:encoded><![CDATA["이 변화를 제대로 따져보기로 한다. 나는 변하지 않았다. 다만 나를 대하는 무례한 사람들의 태도에 이제는 침묵하지 않을 뿐이다"...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022110216194748.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
