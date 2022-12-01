@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 04:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 05:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/c3089590-6e16-464d-b3d4-685dd16b6a0a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[동거 중인 애인과 나, 왜 가족이 될 수 없나요? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9498</link>
+            <guid>https://ildaro.com/9498</guid>
+            <pubDate>Thu, 01 Dec 2022 09:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[새 정부의 국정과제가 “누구 하나 소외되지 않는 가족”이라고 말합니다. 하지만 저는 이미 소외되어 있습니다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022120146351948.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Isn’t a Woman a Person? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9497</link>
             <guid>https://ildaro.com/9497</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 16 Nov 2022 18:24:19 GMT</pubDate>
             <content:encoded><![CDATA[교과서에 실린 성장소설 주인공의 성별이 특정 성별에 치우쳐있는 것뿐 아니라, 소년과 소녀의 성장기 역시 상당히 ‘성별화되어 있음’을 알 수 있다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022110608181217.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘자기만의 동굴’에서 여자들은 무엇을 할까 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9478</link>
-            <guid>https://ildaro.com/9478</guid>
-            <pubDate>Fri, 04 Nov 2022 00:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[여성의 고독은 잘 언급되지 않는 만큼 여성의 고독을 다룬 미디어가 소중하다. 그 영화들이 동굴에서 재생될 때 동굴은 비로소 밝아질 것이다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022110435167186.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
