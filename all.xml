@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 02:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 03:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/c3089590-6e16-464d-b3d4-685dd16b6a0a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[日 여성의원 80%가 ‘동료의원에게 희롱당한 적 있다’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9500</link>
+            <guid>https://ildaro.com/9500</guid>
+            <pubDate>Sun, 04 Dec 2022 00:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[여성의원들이 유권자로부터 희롱을 마주할 뿐 아니라, 의회 내에서 동료 의원으로부터도 희롱의 대상이 되고 있다고 지적합니다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022120416222330.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[늑대는 나타날 것이다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9499</link>
             <guid>https://ildaro.com/9499</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 16 Nov 2022 18:24:19 GMT</pubDate>
             <content:encoded><![CDATA[Isn’t is it ridiculous to say that gaming is a form of entertainment that’s for men? Yet, this flawed proposition is accepted as fact in the gaming world...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022110926088064.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연애, 섹스, 결혼 없는 무성애자의 ‘가족-되기’ (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9480</link>
-            <guid>https://ildaro.com/9480</guid>
-            <pubDate>Wed, 16 Nov 2022 18:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[사쿠코와 사토루는 연애로서의 사랑은 하지 않는 사람이다. 하지만 이들은 그 ‘사랑’ 없이 새로운 관계인 “(임시)가족”을 만들어 냈다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022110808247680.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
