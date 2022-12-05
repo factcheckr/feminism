@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 05:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 06:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘가난한 사람이 보이지 않는 도시’가 개발의 미래인가?]]></title>
+            <link>https://ildaro.com/9501</link>
+            <guid>https://ildaro.com/9501</guid>
+            <pubDate>Mon, 05 Dec 2022 06:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[한 학생이 질문하더라고요. “근데 가난한 사람이 왜 꼭 도심에 살아야 하냐. 외곽에 나가면 되지 않냐”고요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022120511111435.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[日 여성의원 80%가 ‘동료의원에게 희롱당한 적 있다’]]></title>
             <link>https://ildaro.com/9500</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 18:24:19 GMT</pubDate>
             <content:encoded><![CDATA[‘세상에 피해를 말하고, 뜻밖의 많은 응원을 받으며, 비로소 나 자신이 여전히 소중한 사람임을 알게 됐다. 일반적인 삶을 살 수 있다는 희망을 갖게 됐다’...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022111023354697.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What kind of girl likes games as much as you do?]]></title>
-            <link>https://ildaro.com/9481</link>
-            <guid>https://ildaro.com/9481</guid>
-            <pubDate>Wed, 16 Nov 2022 18:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[Isn’t is it ridiculous to say that gaming is a form of entertainment that’s for men? Yet, this flawed proposition is accepted as fact in the gaming world...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022110926088064.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
