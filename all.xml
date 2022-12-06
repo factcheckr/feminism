@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 09:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 10:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/c3089590-6e16-464d-b3d4-685dd16b6a0a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘가족 차별’이 허용되는 나라 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9502</link>
+            <guid>https://ildaro.com/9502</guid>
+            <pubDate>Tue, 06 Dec 2022 10:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[현재 ‘가족’이라는 용어를 사용하는 법률은 200개에 달합니다. 재난안전, 외교안보, 사회보장, 노동, 교육, 토지주택, 행정 등 공적인 영역부터, 출생부터 죽음에 이르...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022120606318308.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘가난한 사람이 보이지 않는 도시’가 개발의 미래인가? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9501</link>
             <guid>https://ildaro.com/9501</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 12 Nov 2022 11:50:00 GMT</pubDate>
             <content:encoded><![CDATA[고등학교 1학년 시기에 유도부 코치로부터 지속적으로 겪은 성폭력을 세상에 알린 전 국가대표 유도선수 신유용의 ‘미투’ 형사재판이 시작되었다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022111206198534.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘미투 이후, 내가 여전히 소중한 사람임을 알았다’ (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9482</link>
-            <guid>https://ildaro.com/9482</guid>
-            <pubDate>Wed, 16 Nov 2022 18:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[‘세상에 피해를 말하고, 뜻밖의 많은 응원을 받으며, 비로소 나 자신이 여전히 소중한 사람임을 알게 됐다. 일반적인 삶을 살 수 있다는 희망을 갖게 됐다’...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022111023354697.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
