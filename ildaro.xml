@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 05:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 06:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[불안과 갈등을 겪으면 좋은 삶이 아닌가?]]></title>
+            <link>https://ildaro.com/9503</link>
+            <guid>https://ildaro.com/9503</guid>
+            <pubDate>Wed, 07 Dec 2022 00:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[“오랫동안 순응적으로 잘 살아오다가 갑자기 그렇게 사는 것이 더 이상 불가능하다는 것을 깨닫게 되는 순간이 찾아온다.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022120740044173.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘가족 차별’이 허용되는 나라]]></title>
             <link>https://ildaro.com/9502</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 14 Nov 2022 09:42:00 GMT</pubDate>
             <content:encoded><![CDATA[정치권은 차별의 목소리에 힘을 실을 때만 ‘사회적 합의’를 들먹이고, 불평등 시정을 요구하는 목소리에는 ‘논쟁’ 딱지를 붙입니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022111446384966.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추억 하나 없는, 성폭력 가해자의 ‘연인’ 주장]]></title>
-            <link>https://ildaro.com/9483</link>
-            <guid>https://ildaro.com/9483</guid>
-            <pubDate>Sat, 12 Nov 2022 11:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[고등학교 1학년 시기에 유도부 코치로부터 지속적으로 겪은 성폭력을 세상에 알린 전 국가대표 유도선수 신유용의 ‘미투’ 형사재판이 시작되었다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022111206198534.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
