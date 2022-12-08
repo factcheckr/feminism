@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 06:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 07:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/28/news-p.v1.20221124.230393520d644c45a8286a3b090dc52d_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[92년 만에 새 땅을 밟은 여성 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1140</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1140</guid>
+            <pubDate>Thu, 08 Dec 2022 07:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[단연 발군이었던 한국 대표팀의 경기 성적이나 내용은 차치하고, 허스펙티브는 본연의 역할인 '여성'에 초점을 맞춰 오늘 뉴스레터를 채워볼게요. 또한 이주노동자 인권 문제 등으로 인해 카타르 월드컵은 개최 전부터 보이콧 움직임이 강했다는 점, 지난 뉴스레터에서 언급했었지요. 그 연장선상에서 모두가 지구촌 축구 축제의 '승부'에 집중하는 사이 한국일보는 월드컵 이면의 모습도 들여다봅니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/6af00baa-ecc1-4081-a345-79718c78710c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미국 여성들이 제대로 보여줬다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1128</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1128</guid>
@@ -320,12 +328,12 @@
             <enclosure url="https://image.hankookilbo.com/board/4cdec014-963b-4731-adea-a734392f47a1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[임신중지가 '여성 건강권'이라고? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/917</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/917</guid>
-            <pubDate>Wed, 06 Jul 2022 23:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 6월 24일. 전 세계가 경악했습니다. 미국 연방대법원이 여성의 임신중지를 헌법적 권리로 보장한 '로 대 웨이드' 판례를 뒤집은 날입니다. 놀랍지만, 놀랍지 않은 뉴스였습니다. 지난 5월, 이미 이 같은 내용의 연방대법원 의견서 초안이 유출된 바 있기 때문이죠. 게다가 연방대법관은 종신으로 복무하는데, 트럼프 정부가 3명을 임명하면서 전체 6대 3의 보수 우위 지형이 구축된 터라 사실 이 같은 결론은 불 보듯 뻔한 상황이었습니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/c3089590-6e16-464d-b3d4-685dd16b6a0a.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[전진 중인 “결혼의 자유를 모든 사람에게” 日 집단소송 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9504</link>
+            <guid>https://ildaro.com/9504</guid>
+            <pubDate>Thu, 08 Dec 2022 07:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[‘이 문제의 당사자는 누구인가?’ 하는 것입니다. 성-다수자 분들이 재차 생각해 주셨으면 하는 부분이에요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022120811513817.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[불안과 갈등을 겪으면 좋은 삶이 아닌가? (일다 ─ 전체기사)]]></title>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 16 Nov 2022 18:24:19 GMT</pubDate>
             <content:encoded><![CDATA[이번 선거에서 민주당이 참패하지 않고 오히려 좋은 성적을 거둔 건, ‘임신중지권’을 지키고자 하는 시민들의 열망의 목소리 덕분이라는 건 의심의 여지가 없다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/202211150129799.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정권 바뀌니 가족의 다양성도, 평등도 ‘후퇴’? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9484</link>
-            <guid>https://ildaro.com/9484</guid>
-            <pubDate>Mon, 14 Nov 2022 09:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[정치권은 차별의 목소리에 힘을 실을 때만 ‘사회적 합의’를 들먹이고, 불평등 시정을 요구하는 목소리에는 ‘논쟁’ 딱지를 붙입니다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022111446384966.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

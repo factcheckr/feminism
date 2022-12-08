@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 06:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 07:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전진 중인 “결혼의 자유를 모든 사람에게” 日 집단소송]]></title>
+            <link>https://ildaro.com/9504</link>
+            <guid>https://ildaro.com/9504</guid>
+            <pubDate>Thu, 08 Dec 2022 07:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[‘이 문제의 당사자는 누구인가?’ 하는 것입니다. 성-다수자 분들이 재차 생각해 주셨으면 하는 부분이에요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022120811513817.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[불안과 갈등을 겪으면 좋은 삶이 아닌가?]]></title>
             <link>https://ildaro.com/9503</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 18:24:19 GMT</pubDate>
             <content:encoded><![CDATA[이번 선거에서 민주당이 참패하지 않고 오히려 좋은 성적을 거둔 건, ‘임신중지권’을 지키고자 하는 시민들의 열망의 목소리 덕분이라는 건 의심의 여지가 없다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/202211150129799.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정권 바뀌니 가족의 다양성도, 평등도 ‘후퇴’?]]></title>
-            <link>https://ildaro.com/9484</link>
-            <guid>https://ildaro.com/9484</guid>
-            <pubDate>Mon, 14 Nov 2022 09:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[정치권은 차별의 목소리에 힘을 실을 때만 ‘사회적 합의’를 들먹이고, 불평등 시정을 요구하는 목소리에는 ‘논쟁’ 딱지를 붙입니다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022111446384966.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
