@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Dec 2022 13:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 14:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Encountering Women’s Lives While Organizing Labor at Factory]]></title>
+            <link>https://ildaro.com/9506</link>
+            <guid>https://ildaro.com/9506</guid>
+            <pubDate>Sat, 10 Dec 2022 14:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[Women laborers fought much more militantly and on their own steam than male laborers....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022121053502172.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메밀꽃 필 무렵, 사랑일까 폭력일까]]></title>
             <link>https://ildaro.com/9505</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 17 Nov 2022 08:37:00 GMT</pubDate>
             <content:encoded><![CDATA[“사람들이 왜 내가 나 자신과 내 가족을 다 털어놓는 작품을 했냐고 묻는데, 나의 가족과 나의 고민을 금기로 하고 싶지 않았기 때문”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022111749535679.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족을 ‘가족’이라고 부르지 못하고…]]></title>
-            <link>https://ildaro.com/9486</link>
-            <guid>https://ildaro.com/9486</guid>
-            <pubDate>Wed, 16 Nov 2022 11:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[10년 동안 아이의 주 양육자 역할을 하는 남편은 아이와 혈연관계가 아니라는 이유로 가족이 될 수 없습니다. 여러분의 가족은 어떻습니까?...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022111621562657.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
