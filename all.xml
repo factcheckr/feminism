@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 05:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 06:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/4cdec014-963b-4731-adea-a734392f47a1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[상추, 호박, 콩…도시민들도 화분에 길러 먹어보세요 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9507</link>
+            <guid>https://ildaro.com/9507</guid>
+            <pubDate>Sun, 11 Dec 2022 11:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[마을마다, 지역마다 최소 100명의 사람이 생태적, 자립적, 공동체적인 텃밭을 일군다면 기후위기를 넘어설 수 있다고 생각해요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022121104567398.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Encountering Women’s Lives While Organizing Labor at Factory (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9506</link>
             <guid>https://ildaro.com/9506</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 18 Nov 2022 00:01:00 GMT</pubDate>
             <content:encoded><![CDATA[This is the situation from which Famerz emerged. The name means that today’s feminist gamers will fight for the female gamers of the future....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022111806005539.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금기를 깨고, 이데올로기를 수프로 녹여낸 양영희 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9487</link>
-            <guid>https://ildaro.com/9487</guid>
-            <pubDate>Thu, 17 Nov 2022 08:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[“사람들이 왜 내가 나 자신과 내 가족을 다 털어놓는 작품을 했냐고 묻는데, 나의 가족과 나의 고민을 금기로 하고 싶지 않았기 때문”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022111749535679.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
