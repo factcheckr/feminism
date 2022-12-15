@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 02:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 03:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[교원평가 성희롱 사태로 드러난 네이버웹툰 ‘참교육’의 얄팍함]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202212151123011</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202212151123011</guid>
+            <pubDate>Thu, 15 Dec 2022 03:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[최근 세종시 한 고등학교에서 학생 일부가 교원평가를 하며 여성 교사를 향한 성희롱성 답변을 써 논란이 일어났다. 익명성에 기댄 성희롱인 만큼 가해 학생을 찾아내기도 쉽지 않으며, 교사로서는 가해자일지도 모르는 학생 앞에 서서 수업을 진행해야 하는 상황에 정신적 고통을 호소했다. 전교조 세종지부는 성명서를 통해 “익명으로 진행되는 현재의 교원평가는 교사에 대한 악플을 방조하고 있어 어떠한 교육적 효과도 기대할 수 없다”며 교원평가 폐지를 요청하기도 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/15/news-p.v1.20221214.c9c824b91a684d6bbccb09b83e5ed532_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“단 하나 희망은 엄벌” 아버지가 대신 전한 신당역 피해자의 마지막 말]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202212141350001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 09 Dec 2022 11:10:03 GMT</pubDate>
             <content:encoded><![CDATA[올해 노벨문학상을 수상한 프랑스 작가 아니 에르노가 노벨상은 남성을 위한 제도라고 비판했다.에르노는 6일(현지시간) 노벨상 시상식을 앞두고 스웨덴 스톡홀름에서 AFP통신과의 인터뷰에서 이젠 노벨상을 현대화해야 한다며 이같이 밝혔다.에르노는 “노벨상은 전통을 향한 열망의 발현”이라며 “전통에 얽매이는 것은 아마도 더 남성스럽고, 그것은 서로에게 권력을 전달하는 방법이기도 하다”고 말했다. 이어서 “말은 거의 항상 남성이 독점해왔지만, 나는 여성들이 말할 때...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/08/news-p.v1.20221207.104f30a42e1d492fab9d43e1f6ccb737_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘행복한 과학자’의 모습을 보여주고 싶은 ‘로켓 선배’ 임석희의 마음]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202212081107001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202212081107001</guid>
-            <pubDate>Fri, 09 Dec 2022 11:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[▶이진주의 finterview 연재 바로가기 : https://bit.ly/3YheT3s한국항공우주연구원(항우연)에서 일하는 연구자 가운데 여성 비중은 7.8%에 그친다. 이공계의 여성 인력 부족이 낯선 문제는 아니다. 로켓·항공우주 분야에도 여성 과학자 수는 적다.중학교 지구과학 시간에 접한 태양계에 압도된 뒤 ‘로켓 만들기’가 꿈이 됐다는 임석희 항우연 책임연구원(49)은 1999년 항우연의 다섯 번째 여성연구원이다. 인하대 화학공학과 학부생은 물론 로켓 동아리 구성원 중에서 유일한 여...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/08/news-p.v1.20221206.c80a8b4c07984a48864275cb477e0919_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
