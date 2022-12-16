@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 04:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 05:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/4cdec014-963b-4731-adea-a734392f47a1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘남녀가 단둘이 술 마시면 뻔한 거 아니냐’ 통념과의 싸움 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9511</link>
+            <guid>https://ildaro.com/9511</guid>
+            <pubDate>Fri, 16 Dec 2022 00:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[성폭력 피해자가 무고(허위로 신고하거나 고소하는 것) 혐의로 고소를 당하면, 무고죄 피의자가 된다. 기소가 되면 무고죄 피고인이 된다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022121651036095.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘생활고의 원인은 정치’…에콰도르 파업과 여성들 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9510</link>
             <guid>https://ildaro.com/9510</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 24 Nov 2022 09:29:00 GMT</pubDate>
             <content:encoded><![CDATA[“조직이 중요하다. 회사는 우리가 모여서 목소리 내는 걸 싫어한다. 그래서 우린 더 모여야 한다.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022112434448673.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘정상가족’은 없다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9491</link>
-            <guid>https://ildaro.com/9491</guid>
-            <pubDate>Wed, 23 Nov 2022 09:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[시대 변화에 맞춰 생활과 돌봄을 나누는 다양한 관계들이 제도적으로 인정될 수 있는 가족 정책을 수립할 것을 촉구합니다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022112323367785.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
