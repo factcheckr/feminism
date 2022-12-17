@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 14:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 15:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Awakening to Differences, Facing My True Nature]]></title>
+            <link>https://ildaro.com/9512</link>
+            <guid>https://ildaro.com/9512</guid>
+            <pubDate>Sat, 17 Dec 2022 15:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[Feminists that I met in various places supported my quest to find what my real desire was. I’m preparing to leave the city and become a farmer....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022121732365540.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘남녀가 단둘이 술 마시면 뻔한 거 아니냐’ 통념과의 싸움]]></title>
             <link>https://ildaro.com/9511</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 25 Nov 2022 10:17:40 GMT</pubDate>
             <content:encoded><![CDATA["따뜻하면 사과나무가 봄인 줄 알고 활동을 시작해서 물을 확 올리는데 갑자기 추워지면 그게 얼어요. 얼어서 터져요. 균이 들어가거나 병이 오면 나무가 죽는 거예...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022112500005722.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구조적 성차별, 우리 일터에 있다]]></title>
-            <link>https://ildaro.com/9492</link>
-            <guid>https://ildaro.com/9492</guid>
-            <pubDate>Thu, 24 Nov 2022 09:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[“조직이 중요하다. 회사는 우리가 모여서 목소리 내는 걸 싫어한다. 그래서 우린 더 모여야 한다.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022112434448673.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
