@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 00:56:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 02:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[젠더폭력 피해자가 생존하게 하는 힘]]></title>
+            <link>https://ildaro.com/9513</link>
+            <guid>https://ildaro.com/9513</guid>
+            <pubDate>Sun, 18 Dec 2022 09:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[서로가 다른 층위의 피해, 서로 다른 층위의 폭력, 서로 다른 시대, 서로 다른 계급, 서로 다른 시간, 서로 다른 공간 그러니까 서로 다른 상처를 세밀한 언어로 적어낸...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022121800004881.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Awakening to Differences, Facing My True Nature]]></title>
             <link>https://ildaro.com/9512</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 27 Nov 2022 10:12:00 GMT</pubDate>
             <content:encoded><![CDATA[경희 씨는 “토종이라고 무조건 잘 살아남는다고 할 순 없지만, 40가지를 심었을 때 (기후위기에 따른 기상이변이 와도) 20가지는 수확을 할 수 있을 것”이라고 말한다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022112716354817.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“겨울에 기온이 왔다 갔다…사과나무가 죽는 거예요”]]></title>
-            <link>https://ildaro.com/9493</link>
-            <guid>https://ildaro.com/9493</guid>
-            <pubDate>Fri, 25 Nov 2022 10:17:40 GMT</pubDate>
-            <content:encoded><![CDATA["따뜻하면 사과나무가 봄인 줄 알고 활동을 시작해서 물을 확 올리는데 갑자기 추워지면 그게 얼어요. 얼어서 터져요. 균이 들어가거나 병이 오면 나무가 죽는 거예...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022112500005722.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
