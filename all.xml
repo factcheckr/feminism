@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 03:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 04:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/4cdec014-963b-4731-adea-a734392f47a1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[성매매 여성을 ‘불처벌’하면 어떤 세상이 펼쳐질까? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9514</link>
+            <guid>https://ildaro.com/9514</guid>
+            <pubDate>Tue, 20 Dec 2022 00:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘반성매매 운동은 침몰하는 배 같다’는 얘길 한 적이 있어요. 하지만, 페미니스트들이 함께 고민해 볼만한 의제로 자리잡을 수도 있겠다는 기대를 갖게 되었어요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022122030235488.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[젠더폭력 피해자가 생존하게 하는 힘 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9513</link>
             <guid>https://ildaro.com/9513</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 28 Nov 2022 00:24:00 GMT</pubDate>
             <content:encoded><![CDATA[이 공간을 벗어난다면 어떻게 될까? ‘19호실’이 어디까지 일 수 있을지 궁금해졌다. 괜히 동네 한 바퀴를 돌며 산책에 나섰다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022112841356420.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘종 다양성의 힘’ 기후위기 시대 토종씨앗 지켜야 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9494</link>
-            <guid>https://ildaro.com/9494</guid>
-            <pubDate>Sun, 27 Nov 2022 10:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[경희 씨는 “토종이라고 무조건 잘 살아남는다고 할 순 없지만, 40가지를 심었을 때 (기후위기에 따른 기상이변이 와도) 20가지는 수확을 할 수 있을 것”이라고 말한다...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022112716354817.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
