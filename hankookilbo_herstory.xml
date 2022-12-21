@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 22:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 23:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여성의 얼굴을 하지 않은 홈리스]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1151</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1151</guid>
+            <pubDate>Wed, 21 Dec 2022 23:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[올해의 마지막 뉴스레터로 찾아뵙습니다. 원래는 지난해처럼 올해의 젠더 이슈 총정리로 한 해를 마무리할 계획이었는데요. '연말'이기 때문에 조금 더 의미 있는 보도와 내용을 담을 수 없을지 곰곰 고민하다가 '여성홈리스 증언대회'라는 현장에 다녀왔습니다. 모두의 일상이 각박해 주변의 어려운 이웃에 눈길 주기 쉽지 않은 나날입니다. 그럼에도 허스펙티브의 독자님들과 조금 더 소외되고, 가난하고, 약한 이들의 목소리에 귀 기울이며 마음을 나누는 연말을 보내고 싶었습니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/b5449833-ad02-4b8d-9152-ffd2576815fc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[92년 만에 새 땅을 밟은 여성]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1140</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 13 Nov 2022 23:17:47 GMT</pubDate>
             <content:encoded><![CDATA[오늘 뉴스레터 주제는 '여성가족부'입니다. 지난해 허스토리에서도 여가부 이슈에 대해 다뤘었죠. 당시 여가부에 대한 가짜뉴스나 잘못된 정보에 대한 팩트체크를 다뤘다면, 오늘은 끝끝내 '여가부 폐지'를 지시한 윤석열 대통령과 여가부의 혼란스러운 상황을 담았습니다.&nbsp;]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/4d6d45f0-d0c1-4dd4-8b62-f61c2598cab4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["미워해도 소용없어"]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/939</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/939</guid>
-            <pubDate>Sun, 13 Nov 2022 23:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 뉴스레터는 국제앰네스티의 성소수자 혐오반대 캠페인 구호인 '미워해도 소용없어'로 제목을 열어 보았어요. 지난 주말 서울 도심은 곳곳이 무지갯빛으로 물들었어요. 2022 서울퀴어문화축제(퀴어축제)가 서울광장에서 열렸기 때문인데요. 신종 코로나바이러스 감염증(코로나19) 기간 온라인으로 열렸던 탓에, 오프라인에서 서로의 존재를 확인하고 차별철폐에 목소리를 높이고 또 모두를 응원하는 장이 열린 것은 3년 만이었어요.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/4cdec014-963b-4731-adea-a734392f47a1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
