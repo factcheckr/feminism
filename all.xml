@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 04:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 05:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/4cdec014-963b-4731-adea-a734392f47a1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우리의 일을 ‘반찬’ 같은 노동으로 여기는 게 화나 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9515</link>
+            <guid>https://ildaro.com/9515</guid>
+            <pubDate>Wed, 21 Dec 2022 05:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[일터에서 받는 임금도 남성의 64%이니 ‘반찬노동’으로 무시당하기 일쑤다. 공연하는 가수들의 노래와 편지 읽기로, 고단한 여성노동자의 현실이 표현됐다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022122146347407.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[성매매 여성을 ‘불처벌’하면 어떤 세상이 펼쳐질까? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9514</link>
             <guid>https://ildaro.com/9514</guid>
@@ -478,14 +486,6 @@
             <pubDate>Tue, 29 Nov 2022 10:17:23 GMT</pubDate>
             <content:encoded><![CDATA[구성원들끼리 상호협력하고 의존할 수 있도록, 그간 가족에 맞춰진 제도적 권리와 의무를 공동체에게도 열어달라는 것입니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022112942397592.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘19호실’로부터…안전을 감각하고 확장하라 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9495</link>
-            <guid>https://ildaro.com/9495</guid>
-            <pubDate>Mon, 28 Nov 2022 00:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[이 공간을 벗어난다면 어떻게 될까? ‘19호실’이 어디까지 일 수 있을지 궁금해졌다. 괜히 동네 한 바퀴를 돌며 산책에 나섰다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022112841356420.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
