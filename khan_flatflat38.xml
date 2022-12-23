@@ -4,11 +4,35 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 19:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 20:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[입주자님들 덕에 주먹 꽉! 2022 플랫 연말결산]]></title>
+            <title><![CDATA[‘명함’은 없어도…끝까지 싸울래, 백래시에 맞서서]]></title>
+            <link>https://www.khan.co.kr/national/gender/article/202212232049005</link>
+            <guid>https://www.khan.co.kr/national/gender/article/202212232049005</guid>
+            <pubDate>Fri, 23 Dec 2022 20:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[거리에서 캐럴이 흘러나오고 달력이 송년회 약속으로 채워지는 연말입니다.플랫 레터에서는 입주자 여러분과 2022년을 되돌아보는 시간을 가져보려 해요. 여러분들은 한 해를 떠나보내는 ‘연말 루틴’이 있으신가요? 내년에 쓸 다이어리를 산다거나, 사진이나 문서를 백업한다거나, 좋아하는 음식을 먹고 영화를 본다거나 하는 나름의 의식들이요.저는 친한 친구들과 함께 ‘연말 결산’을 합니다. 거창한 것은 아니고요. 다 같이 둘러 앉아 올해의 영화, 올해의 책, 올해의 맛...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/23/l_2022122401001053900088961.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[탈레반 “여학생들 복장이 불량해서 대학 교육 금지령 내렸다”]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202212231504011</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202212231504011</guid>
+            <pubDate>Fri, 23 Dec 2022 20:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[여학생들의 대학 교육 금지로 국제사회의 지탄을 받고 있는 탈레반 정권이 여학생들의 복장 불량을 이유로 이러한 결정을 내렸다고 밝혔다.로이터통신에 따르면 니다 모하마드 나딤 아프가니스탄 고등교육부 장관 대행은 22일(현지시간) 아프간 국영 RTA방송에서 여대생들이 이슬람 복장 규정을 제대로 지키지 않고, 남녀 학생들이 상호 접촉하는 문제 등이 있어 이번 조치를 단행했다고 밝혔다. 그는 “(여학생들은) 히잡 규정을 준수하지 않았다”면서 “여학생 대부분이 결혼...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/23/news-p.v1.20221223.1274a4d6122a42c1a00976cb731313d5_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년에도 여성들이 죽었다, ‘젠더폭력’은 금기어가 됐다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202212231414011</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202212231414011</guid>
+            <pubDate>Fri, 23 Dec 2022 20:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022년에도 젠더폭력은 이어졌다. 여성들은 학교 안, 지하철 화장실, 대낮 길거리에서 죽임을 당했다. ‘박사방’을 만든 혐의로 조주빈에게 42년형이라는 중형이 선고되긴 했지만, 또 다른 성착취 텔레그램방이 버젓이 운영된 한 해이기도 했다. 젠더폭력을 ‘폭력’이라고 여기지 않는 인식과 범행에 무기력한 ‘제도의 구멍’은 여전했다. ‘여성가족부 폐지’ 일곱 글자를 공약으로 내걸고 새로 들어선 정부는 젠더폭력 사건이 공론화될 때마다 ‘구조적 차별’이라는 단어를 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/23/news-p.v1.20221222.22ad9c564a5d431fa8854c9107ff4267_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 플랫 연말결산]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202212231059001</link>
             <guid>https://www.khan.co.kr/national/gender/article/202212231059001</guid>
             <pubDate>Fri, 23 Dec 2022 05:11:11 GMT</pubDate>
@@ -62,30 +86,6 @@
             <pubDate>Wed, 21 Dec 2022 15:11:58 GMT</pubDate>
             <content:encoded><![CDATA[젠더데스크는 지난 10월 경향신문이 만든 젠더 보도 가이드라인에 따라 성불평등한 표현을 들여다보는 일을 한다. ‘저출산’을 ‘저출생’으로 바꾸고 ‘유모차’를 ‘유아차’로, ‘맘카페’를 ‘육아카페’로 바꾼다. ‘워킹대디’라는 말은 없는데 ‘워킹맘’을 쓰는 것은 차별적이니 다른 대안어를 써보자고 제안한다. 매일 출산, 돌봄, 육아가 여성의 책임인 것처럼 전제한 표현들을 바꿔쓰기 위해 노력하지만 허허로웠다. 지난 3분기 합계출산율은 0.79명, 0.79명의 원인은 태...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/20/news-p.v1.20221216.6b7131304c2749779aeef164f5dd1e33_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 젠더뉴스 연말결산]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202212191416001</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202212191416001</guid>
-            <pubDate>Mon, 19 Dec 2022 10:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[※이 글은 12월 16일자 플랫 뉴스레터에 게재된 글입니다. 뉴스레터 전문에서는 한 주 간 있었던 젠더 뉴스, 이에 대한 플랫 독자들 반응 등 더 많은 이야기를 만나보실 수 있습니다. 백래시의 소음에서 반 보 물러나 여성들과 이야기를 나누고 싶다면, 매주 금요일 7시 플랫 뉴스레터를 구독해주세요.(▶구독링크 바로가기https://bit.ly/3zP21Hg)거리에서 캐롤이 흘러나오고 캘린더가 송년회 약속으로 채워지는 연말입니다.오늘 플랫 레터에서는 입주자 여러분과 2022년을 되돌...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/19/news-p.v1.20221216.27817863e4564181a07cda6b05b85d91_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먹는 임신중단약 ‘미프진’, 국내 도입 무산됐다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202212190955001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202212190955001</guid>
-            <pubDate>Mon, 19 Dec 2022 10:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[먹는 임신중단약으로 알려진 ‘미프진’의 국내 도입이 업체의 허가 신청 자진 취하로 무산됐다. 식품의약품안전처는 향후 업체가 해당 의약품에 대한 품목 허가를 다시 신청하는 경우 보완사항을 중심으로 신속히 심사하겠다는 입장이다.식약처는 현대약품이 수입의약품 품목허가를 신청해 심사가 진행 중인 임신중단 의약품 ‘미프지미소정(상품명 미프진)’의 허가심사 절차를 종료했다고 16일 밝혔다. 현대약품이 지난 15일 품목허가 신청을 자진 취하했기 때문이다. 지난해 7월...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/19/news-p.v1.20221216.15956a01267b40b7864015815c11f66b_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[섬진강 도깨비 마을의 ‘해피 바이러스’는 홍일점 핑크 도깨비?]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202212161433001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202212161433001</guid>
-            <pubDate>Fri, 16 Dec 2022 15:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[“‘청이’는 홍이의 남자친구로 여자 친구 앞에서는 한없이 작아지는 꼬마신사, ‘홍이’는 청이의 여자 친구로 사랑이 샘솟는 도깨비 마을을 상징.”전남 곡성군 요술랜드체험관에 있는 도깨비 캐릭터에는 이런 설명이 적혀있다. ‘섬진강 도깨비’를 주제로 한 어린이 체험관이지만 도깨비 청이와 홍이를 ‘연인’으로 설정했다.‘홍일점’이라고 소개된 홍이에게는 “항상 웃는 모습으로 친구들을 즐겁게 해주는 해피 바이러스 전도사”라는 설명이 더해졌다. 여자도깨비에게만 “...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/16/news-p.v1.20221214.bdad5325f3984e5cba0dd47c05c7ac44_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
