@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 04:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 05:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여성 홈리스, 우리가 여기 있다!]]></title>
+            <link>https://ildaro.com/9517</link>
+            <guid>https://ildaro.com/9517</guid>
+            <pubDate>Sat, 24 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[여성 홈리스의 생활 패턴을 고려하지 않은 지금의 홈리스 실태조사로는 “여성 홈리스의 존재를 파악하기 어렵다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/202212240619718.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘애도의 순간’에도 차별이 발생하지 않는 세상을]]></title>
             <link>https://ildaro.com/9516</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 01 Dec 2022 09:41:00 GMT</pubDate>
             <content:encoded><![CDATA[새 정부의 국정과제가 “누구 하나 소외되지 않는 가족”이라고 말합니다. 하지만 저는 이미 소외되어 있습니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022120146351948.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Isn’t a Woman a Person?]]></title>
-            <link>https://ildaro.com/9497</link>
-            <guid>https://ildaro.com/9497</guid>
-            <pubDate>Wed, 30 Nov 2022 11:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[Women in the working world, women of my age range, have to be ready to answer the questions that are only asked to “female workers.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202211/2022113008199386.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
