@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 03:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 04:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/4d6d45f0-d0c1-4dd4-8b62-f61c2598cab4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Can I Continue With Music While Doing Another Job? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9518</link>
+            <guid>https://ildaro.com/9518</guid>
+            <pubDate>Sun, 25 Dec 2022 00:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[If I were guaranteed a basic livelihood—not even a fancy one—I could concentrate on music, I think....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022122539474158.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여성 홈리스, 우리가 여기 있다! (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9517</link>
             <guid>https://ildaro.com/9517</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 02 Dec 2022 08:18:58 GMT</pubDate>
             <content:encoded><![CDATA[예술은 계속 되어야 한다. 슬픈 일에도 기쁜 일에도 투쟁하는 자리에도 함께 해야 한다. 문학으로 저항할 수 있으며 연극으로 투쟁할 수 있다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022120227197499.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동거 중인 애인과 나, 왜 가족이 될 수 없나요? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9498</link>
-            <guid>https://ildaro.com/9498</guid>
-            <pubDate>Thu, 01 Dec 2022 09:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[새 정부의 국정과제가 “누구 하나 소외되지 않는 가족”이라고 말합니다. 하지만 저는 이미 소외되어 있습니다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022120146351948.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
