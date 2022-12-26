@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 03:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 04:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스웨덴으로 유학을 떠난 식민지의 청년, 최영숙]]></title>
+            <link>https://ildaro.com/9519</link>
+            <guid>https://ildaro.com/9519</guid>
+            <pubDate>Mon, 26 Dec 2022 11:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[그의 임신을 두고 나온 숱한 가십성 기사는 조국을 위해 헌신하기로 결심하고 타국에서 고군분투한 한 여성의 삶을 방종한 여인의 일탈로 소비하고 말았다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022122609199708.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Can I Continue With Music While Doing Another Job?]]></title>
             <link>https://ildaro.com/9518</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 04 Dec 2022 00:06:00 GMT</pubDate>
             <content:encoded><![CDATA[여성의원들이 유권자로부터 희롱을 마주할 뿐 아니라, 의회 내에서 동료 의원으로부터도 희롱의 대상이 되고 있다고 지적합니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022120416222330.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[늑대는 나타날 것이다]]></title>
-            <link>https://ildaro.com/9499</link>
-            <guid>https://ildaro.com/9499</guid>
-            <pubDate>Fri, 02 Dec 2022 08:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[예술은 계속 되어야 한다. 슬픈 일에도 기쁜 일에도 투쟁하는 자리에도 함께 해야 한다. 문학으로 저항할 수 있으며 연극으로 투쟁할 수 있다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022120227197499.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
