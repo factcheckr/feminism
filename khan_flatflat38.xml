@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 05:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 06:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“왜 나를 소아성애자에게 입양보냈나요?” 그 여자는 화가 난다]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202212261046011</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202212261046011</guid>
+            <pubDate>Mon, 26 Dec 2022 06:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[초록색 가방을 멘 여자가 자신이 양부에게 학대와 성폭행을 당했던 공간을 소개한다. 여자의 말투는 무뚝뚝하고 행동엔 거침이 없다. 여자는 학대와 성폭행을 방관했던 양모를 만나 자신의 입양 서류를 요구한다. 여자는 분노에 휘둘리지 않고 차분하게 말하며, 무엇도 두렵지 않은 사람처럼 꼿꼿하게 걷는다 여자가 마지막으로 간 곳은 자신의 입양승낙서에 법정대리인으로서 서명한 이들의 집 앞이다.“왜 나를 입양 보냈나요? 그것도 소아성애자에게? 우리 부모님은 나를 버...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/26/news-p.v1.20221222.e2c6ca76c3824d9092280456c8dc8cb7_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘명함’은 없어도…끝까지 싸울래, 백래시에 맞서서]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202212232049005</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 21 Dec 2022 15:11:58 GMT</pubDate>
             <content:encoded><![CDATA[2009년 전후의 K팝 전성기를 추억하십니까? 알록달록한 컬러 스키니진을 옷장에 들인 적 있으십니까? 멜빵 바지만 보면 냅다 엉덩이를 흔들고 싶으십니까? ‘다시 만난 세계’의 전주를 들으면 눈물이 고이십니까? 일이 잘 안 될 때마다, “괜히 그랬겠어? 그랬겠어?!” 하고 발을 구르고 싶어지십니까?그렇다면 2022년이 그 어느 때보다 특별하게 여겨질 것이다. 올해 데뷔 15주년을 맞은 소녀시대와 카라가 각각 컴백하며 걸그룹 역사에 한 획을 그었기 때문이다.2022년 8...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/20/news-p.v1.20221220.22d278b23fb54517a10d84e042372f41_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[끝없이 거꾸로 가면서 ‘저출생 위기’ 언급하지 말라]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202212201058001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202212201058001</guid>
-            <pubDate>Wed, 21 Dec 2022 15:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[젠더데스크는 지난 10월 경향신문이 만든 젠더 보도 가이드라인에 따라 성불평등한 표현을 들여다보는 일을 한다. ‘저출산’을 ‘저출생’으로 바꾸고 ‘유모차’를 ‘유아차’로, ‘맘카페’를 ‘육아카페’로 바꾼다. ‘워킹대디’라는 말은 없는데 ‘워킹맘’을 쓰는 것은 차별적이니 다른 대안어를 써보자고 제안한다. 매일 출산, 돌봄, 육아가 여성의 책임인 것처럼 전제한 표현들을 바꿔쓰기 위해 노력하지만 허허로웠다. 지난 3분기 합계출산율은 0.79명, 0.79명의 원인은 태...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/20/news-p.v1.20221216.6b7131304c2749779aeef164f5dd1e33_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
