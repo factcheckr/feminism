@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 08:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 09:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[후쿠시마 원전사고, 도쿄전력 주주대표 소송 ‘역사적 판결’]]></title>
+            <link>https://ildaro.com/9520</link>
+            <guid>https://ildaro.com/9520</guid>
+            <pubDate>Tue, 27 Dec 2022 09:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[도쿄지방법원은 피고 중 4인에게 13조 엔(한화 약 124조 원)을 도쿄전력에 지급하도록 명하는 획기적인 판결을 내렸다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022122703475356.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스웨덴으로 유학을 떠난 식민지의 청년, 최영숙]]></title>
             <link>https://ildaro.com/9519</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 05 Dec 2022 06:18:53 GMT</pubDate>
             <content:encoded><![CDATA[한 학생이 질문하더라고요. “근데 가난한 사람이 왜 꼭 도심에 살아야 하냐. 외곽에 나가면 되지 않냐”고요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022120511111435.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 여성의원 80%가 ‘동료의원에게 희롱당한 적 있다’]]></title>
-            <link>https://ildaro.com/9500</link>
-            <guid>https://ildaro.com/9500</guid>
-            <pubDate>Sun, 04 Dec 2022 00:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[여성의원들이 유권자로부터 희롱을 마주할 뿐 아니라, 의회 내에서 동료 의원으로부터도 희롱의 대상이 되고 있다고 지적합니다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022120416222330.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
