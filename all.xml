@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 14:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 15:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내 편이 있다는 감각 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202212271557001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202212271557001</guid>
+            <pubDate>Tue, 27 Dec 2022 15:11:41 GMT</pubDate>
+            <content:encoded><![CDATA[지금 나는 여행 가는 비행기에서 이 글을 쓴다. ‘힘든 여행’을 좋아한다. 말 한마디 통하지 않는 곳에서, 다음 끼니가 무엇이 될지도 모르는 미지의 세계에 안전망 없이 내던져지는 것이야말로 여행의 묘미 아닌가. 그러나 결국 그 ‘힘들었던’ 여행에 무엇이 가장 기억에 남느냐 묻는다면, 나는 1초의 망설임도 없이 ‘내 편의 감각’이라 말할 테다.단지 한국인이라는 이유만으로 낯선 나를 집으로 초대해 같이 월드컵 한국 경기를 보자는 베트남의 어느 할아버지, 행...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/27/news-p.v1.20221227.fb08596e96ad401e9b7049f77d6aa80d_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[젠더고고학, 수컷다움의 편견 속에 ‘파묻힌 여성’을 발굴하다 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/book/article/202212271151001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 22 Dec 2022 07:12:45 GMT</pubDate>
             <content:encoded><![CDATA[검찰이 2019년 7월 음란물 유통 혐의로 양진호 전 한국미래기술 회장을 재판에 넘기면서 4년 6개월간 웹하드 사이트 운영으로 약 350억원의 수익을 냈다고 공소장에 적시한 것으로 확인됐다. 앞서 경찰이 2018년 양 전 회장을 검찰에 송치할 당시 발표한 수익 규모(약 70억원)보다 5배 큰 금액이다. 웹하드 사이트를 통해 유포된 음란물은 388만여건에 달하는 것으로 나타났다.20일 경향신문이 한국사이버성폭력대응센터(한사성)를 통해 입수한 양 전 회장의 공소장에 따르면 그...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/22/news-p.v1.20221221.370a7b7011564d79bf52cfb5b814453b_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“유엔은 강대국에 기울었다” 앤젤리나 졸리, 20년 인연 끊는다 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202212211440001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202212211440001</guid>
-            <pubDate>Wed, 21 Dec 2022 15:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[할리우드 배우 앤젤리나 졸리가 2012년부터 활동해온 유엔난민기구(UNHCR) 특사 역할에서 물러난다고 발표했다.뉴욕타임스 등에 따르면 앤젤리나 졸리는 16일(현지시간) 유엔과 공동성명을 내고 “더 광범위한 인도주의적 문제에 대해 더 많은 활동가들과 관계를 맺고 지역단체들과 더 직접적으로 협력할 것”이라며 UNHCR 특사 역할을 그만둔다고 밝혔다. 그는 성명을 통해 “20년 동안 유엔 시스템 내에서 일한 후, 이제는 난민 및 지역단체와 직접 관계를 맺고 그들의 해...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/21/news-p.v1.20221221.0b505ca38f8a44c29a0efe75cdb7d6be_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
