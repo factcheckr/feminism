@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 04:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 05:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/4d6d45f0-d0c1-4dd4-8b62-f61c2598cab4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[원전 사고는 자연재해 아닌 ‘인재’…경영진이 책임져야 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9521</link>
+            <guid>https://ildaro.com/9521</guid>
+            <pubDate>Wed, 28 Dec 2022 05:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[“피고 가츠마타…”라는 판결 주문의 첫머리가 들린 순간, 내가 메모하던 손가락에 힘이 들어갔다. “이겼다.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/202212285238257.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[후쿠시마 원전사고, 도쿄전력 주주대표 소송 ‘역사적 판결’ (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9520</link>
             <guid>https://ildaro.com/9520</guid>
@@ -478,14 +486,6 @@
             <pubDate>Tue, 06 Dec 2022 10:16:44 GMT</pubDate>
             <content:encoded><![CDATA[현재 ‘가족’이라는 용어를 사용하는 법률은 200개에 달합니다. 재난안전, 외교안보, 사회보장, 노동, 교육, 토지주택, 행정 등 공적인 영역부터, 출생부터 죽음에 이르...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022120606318308.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘가난한 사람이 보이지 않는 도시’가 개발의 미래인가? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9501</link>
-            <guid>https://ildaro.com/9501</guid>
-            <pubDate>Mon, 05 Dec 2022 06:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[한 학생이 질문하더라고요. “근데 가난한 사람이 왜 꼭 도심에 살아야 하냐. 외곽에 나가면 되지 않냐”고요....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022120511111435.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
