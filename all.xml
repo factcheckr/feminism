@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 02:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 03:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/4d6d45f0-d0c1-4dd4-8b62-f61c2598cab4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여자축구 세계랭킹과 성-불평등지수의 상관관계 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9522</link>
+            <guid>https://ildaro.com/9522</guid>
+            <pubDate>Thu, 29 Dec 2022 11:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[“여성의 경제활동 참여율이 상승하는 경우, 그 국가의 여자축구 랭킹 포인트 또한 상승하는 경향을 보인다”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022122950094889.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[원전 사고는 자연재해 아닌 ‘인재’…경영진이 책임져야 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9521</link>
             <guid>https://ildaro.com/9521</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 07 Dec 2022 00:32:00 GMT</pubDate>
             <content:encoded><![CDATA[“오랫동안 순응적으로 잘 살아오다가 갑자기 그렇게 사는 것이 더 이상 불가능하다는 것을 깨닫게 되는 순간이 찾아온다.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022120740044173.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘가족 차별’이 허용되는 나라 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9502</link>
-            <guid>https://ildaro.com/9502</guid>
-            <pubDate>Tue, 06 Dec 2022 10:16:44 GMT</pubDate>
-            <content:encoded><![CDATA[현재 ‘가족’이라는 용어를 사용하는 법률은 200개에 달합니다. 재난안전, 외교안보, 사회보장, 노동, 교육, 토지주택, 행정 등 공적인 영역부터, 출생부터 죽음에 이르...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022120606318308.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
