@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 09:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 10:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/4d6d45f0-d0c1-4dd4-8b62-f61c2598cab4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘퀴어베이팅’만 하는 케이팝에 퀴어아이돌이 나타났다! (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9523</link>
+            <guid>https://ildaro.com/9523</guid>
+            <pubDate>Fri, 30 Dec 2022 10:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[아이돌 시장에서 탈락한 사람이었던 내가, 나의 모습을 바꾸지 않은 채 이렇게 케이팝 아이돌로 데뷔했고, 무대에 선다는 것 자체만으로도 퀴어아이돌로서 어떤 역할...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022123021428077.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여자축구 세계랭킹과 성-불평등지수의 상관관계 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9522</link>
             <guid>https://ildaro.com/9522</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 08 Dec 2022 07:14:02 GMT</pubDate>
             <content:encoded><![CDATA[‘이 문제의 당사자는 누구인가?’ 하는 것입니다. 성-다수자 분들이 재차 생각해 주셨으면 하는 부분이에요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022120811513817.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불안과 갈등을 겪으면 좋은 삶이 아닌가? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9503</link>
-            <guid>https://ildaro.com/9503</guid>
-            <pubDate>Wed, 07 Dec 2022 00:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[“오랫동안 순응적으로 잘 살아오다가 갑자기 그렇게 사는 것이 더 이상 불가능하다는 것을 깨닫게 되는 순간이 찾아온다.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022120740044173.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
