@@ -4,9 +4,25 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 08:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 09:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박찬욱의 버디라이터에서 마침내, 작가 ‘정서경’으로]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202212291500001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202212291500001</guid>
+            <pubDate>Fri, 30 Dec 2022 09:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[‘박찬욱 감독의 버디 라이터.’20년 차 시나리오작가 정서경의 이름 앞엔 늘 이런 수식어가 달렸다. 거장 감독과의 파트너십이 오래되다 보니 충무로에서는 꽤 이름난 작가로 살아왔다. 하지만 ‘정서경’이라는 이름 세 글자는 올해가 되어서야 비로소 우리에게 당도했다. 마침내, 그 어떤 수식어도 없이.일차적인 해석은 이렇다. 정서경은 박 감독과의 5번째 협업작 &lt;헤어질 결심&gt;부터 두 번째 드라마 작업인 tvN &lt;작은아씨들&gt;까지 올해 집필한 영화와 드라마를...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/29/news-p.v1.20221229.fc284e11993a4a8688ccbf1b7bd2e539_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마트가 아니라, 사람이 쉬었다]]></title>
+            <link>https://www.khan.co.kr/national/labor/article/202212291158001</link>
+            <guid>https://www.khan.co.kr/national/labor/article/202212291158001</guid>
+            <pubDate>Fri, 30 Dec 2022 09:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[‘국룰’은 아녀도 웬만하면 지키자는 문화가 있다. 일요일에 결혼식 날짜를 잡지 않는 것, 업무 전화나 메시지도 가급적 피한다는 것. 주말에 급한 용건으로 연락을 하면 “주말에 쉬시는데 죄송합니다”라고 당연히 양해를 구한다. 그래서 ‘주말장사’에 매달리는 자영업이 괴로운 것이다. 남들 쉴 때 일을 한다는 것이 신체적, 정신적으로 얼마나 고된지는 굳이 겪어보지 않아도 알 수 있다. 그래도 근래 일요일에 문을 닫는 식당과 소매점들도 속속 늘어난다. 단골 식당...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/29/news-p.v1.20221229.283dd1e8d20d465c995aaa3e723eb135_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“일하기 싫다”···어쩌면 페미니즘 선언일지도?]]></title>
             <link>https://www.khan.co.kr/national/labor/article/202212281752001</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 23 Dec 2022 20:11:51 GMT</pubDate>
             <content:encoded><![CDATA[여학생들의 대학 교육 금지로 국제사회의 지탄을 받고 있는 탈레반 정권이 여학생들의 복장 불량을 이유로 이러한 결정을 내렸다고 밝혔다.로이터통신에 따르면 니다 모하마드 나딤 아프가니스탄 고등교육부 장관 대행은 22일(현지시간) 아프간 국영 RTA방송에서 여대생들이 이슬람 복장 규정을 제대로 지키지 않고, 남녀 학생들이 상호 접촉하는 문제 등이 있어 이번 조치를 단행했다고 밝혔다. 그는 “(여학생들은) 히잡 규정을 준수하지 않았다”면서 “여학생 대부분이 결혼...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/23/news-p.v1.20221223.1274a4d6122a42c1a00976cb731313d5_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년에도 여성들이 죽었다, ‘젠더폭력’은 금기어가 됐다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202212231414011</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202212231414011</guid>
-            <pubDate>Fri, 23 Dec 2022 20:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022년에도 젠더폭력은 이어졌다. 여성들은 학교 안, 지하철 화장실, 대낮 길거리에서 죽임을 당했다. ‘박사방’을 만든 혐의로 조주빈에게 42년형이라는 중형이 선고되긴 했지만, 또 다른 성착취 텔레그램방이 버젓이 운영된 한 해이기도 했다. 젠더폭력을 ‘폭력’이라고 여기지 않는 인식과 범행에 무기력한 ‘제도의 구멍’은 여전했다. ‘여성가족부 폐지’ 일곱 글자를 공약으로 내걸고 새로 들어선 정부는 젠더폭력 사건이 공론화될 때마다 ‘구조적 차별’이라는 단어를 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/23/news-p.v1.20221222.22ad9c564a5d431fa8854c9107ff4267_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 플랫 연말결산]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202212231059001</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202212231059001</guid>
-            <pubDate>Fri, 23 Dec 2022 05:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[잠시 잊고 지냈던 이들의 안부를 묻고 확인하게 되는 연말입니다. 입주자님은 어떤 한 해를 보내셨나요? 되돌아보니 플랫팀에게 2022년은 제법 바쁜 한 해였습니다.우선, 지난 1월 SNS계정으로만 운영되던 플랫에 홈페이지가 생겼습니다. 8월부터는 입주자님과의 더 가까이 소통하기 위해 ‘플랫 레터’라는 이름의 뉴스레터도 쓰기 시작했어요.연초 독자님들께 많은 사랑을 받았던 &lt;우리가 명함이 없지 일을 안 했냐&gt; 기획은 다시 다듬고 매만지는 시간을 거쳐 12월에 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/23/news-p.v1.20221222.17e762e9f1aa4036b3fffaec7241201e_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
