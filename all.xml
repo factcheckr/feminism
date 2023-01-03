@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 02:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 03:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/4d6d45f0-d0c1-4dd4-8b62-f61c2598cab4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[탈혈연, 탈젠더, 탈시장적 ‘돌봄 공동체’는 실험중 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9525</link>
+            <guid>https://ildaro.com/9525</guid>
+            <pubDate>Tue, 03 Jan 2023 11:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[“우리는 왜 서로를 필요로 할까? 어디까지가 우리일까? 그 관계의 빈틈을 계속 떠들고 싶어요.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023010351521088.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘야한’ 장면을 수업에서 만났을 때 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9524</link>
             <guid>https://ildaro.com/9524</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 10 Dec 2022 14:13:34 GMT</pubDate>
             <content:encoded><![CDATA[Women laborers fought much more militantly and on their own steam than male laborers....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022121053502172.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메밀꽃 필 무렵, 사랑일까 폭력일까 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9505</link>
-            <guid>https://ildaro.com/9505</guid>
-            <pubDate>Fri, 09 Dec 2022 11:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[하얀 달이 뜨고 메밀꽃이 필 때마다 허 생원은 두 사람이 관계를 맺은 그 날을 떠올리며 추억하고 그리워한다. 과연 성 서방네 처녀도 그럴까?...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/202212095749620.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
