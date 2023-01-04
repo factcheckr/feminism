@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 05:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 06:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내 ‘최애’가 성범죄자였다? ‘망한 덕질’ 이후]]></title>
+            <link>https://ildaro.com/9526</link>
+            <guid>https://ildaro.com/9526</guid>
+            <pubDate>Wed, 04 Jan 2023 06:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[“우리가 뭐 기후위기에 대한 노래를 불러달라는 것도 아니고, 기아 문제에 대해서 가사를 써달라는 것도 아니니까, 그냥 좋아했던 팬들한테 부끄럽지 않을 정도로만...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023010455492947.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[탈혈연, 탈젠더, 탈시장적 ‘돌봄 공동체’는 실험중]]></title>
             <link>https://ildaro.com/9525</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 11 Dec 2022 11:58:00 GMT</pubDate>
             <content:encoded><![CDATA[마을마다, 지역마다 최소 100명의 사람이 생태적, 자립적, 공동체적인 텃밭을 일군다면 기후위기를 넘어설 수 있다고 생각해요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022121104567398.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Encountering Women’s Lives While Organizing Labor at Factory]]></title>
-            <link>https://ildaro.com/9506</link>
-            <guid>https://ildaro.com/9506</guid>
-            <pubDate>Sat, 10 Dec 2022 14:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[Women laborers fought much more militantly and on their own steam than male laborers....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022121053502172.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
