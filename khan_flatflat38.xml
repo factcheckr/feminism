@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 00:59:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 02:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘로미오와 줄리엣’이 55년만에 제작사의 아동 성착취를 고발했다]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202301051057011</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202301051057011</guid>
+            <pubDate>Thu, 05 Jan 2023 02:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[영화배우 올리비아 핫세(71)와 레너드 위팅(72)이 영화 &lt;로미오와 줄리엣&gt;(1968) 촬영 당시 감독에게 속아 노출 장면을 촬영했다며 영화사를 상대로 5억달러(약 6394억원)에 달하는 소송을 냈다.3일(현지시간) AP통신 등에 따르면 당시 영화에서 줄리엣 역을 맡았던 핫세와 로미오 역을 맡았던 위팅은 성학대와 성희롱, 사기 등을 당했다며 파라마운트 픽처스를 상대로 소송을 제기했다. 두 사람은 이 영화를 통해 스타덤에 올랐다.이들은 캘리포니아주 로스앤젤레스 카운티 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/01/05/news-p.v1.20230105.32791678ca6e4a16ad9f394c13de0f2a_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[③우리 같은 엄마들 많아요, 잘 안 보이는데 굉장히 많아요]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202301041607021</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 30 Dec 2022 09:10:59 GMT</pubDate>
             <content:encoded><![CDATA[‘국룰’은 아녀도 웬만하면 지키자는 문화가 있다. 일요일에 결혼식 날짜를 잡지 않는 것, 업무 전화나 메시지도 가급적 피한다는 것. 주말에 급한 용건으로 연락을 하면 “주말에 쉬시는데 죄송합니다”라고 당연히 양해를 구한다. 그래서 ‘주말장사’에 매달리는 자영업이 괴로운 것이다. 남들 쉴 때 일을 한다는 것이 신체적, 정신적으로 얼마나 고된지는 굳이 겪어보지 않아도 알 수 있다. 그래도 근래 일요일에 문을 닫는 식당과 소매점들도 속속 늘어난다. 단골 식당...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/29/news-p.v1.20221229.283dd1e8d20d465c995aaa3e723eb135_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“일하기 싫다”···어쩌면 페미니즘 선언일지도?]]></title>
-            <link>https://www.khan.co.kr/national/labor/article/202212281752001</link>
-            <guid>https://www.khan.co.kr/national/labor/article/202212281752001</guid>
-            <pubDate>Wed, 28 Dec 2022 18:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[※이 글은 12월 23일자 플랫 뉴스레터에 게재된 글 일부를 수정·보완했습니다. 뉴스레터 전문에서는 한 주 간 있었던 젠더 뉴스, 이에 대한 플랫 독자들 반응 등 더 많은 이야기를 만나보실 수 있습니다. 백래시의 소음에서 반 보 물러나 여성들과 이야기를 나누고 싶다면, 매주 금요일 7시 플랫 뉴스레터를 구독해주세요.(▶구독링크 바로가기 https://bit.ly/3zP21Hg)“일하기 싫다…” 수줍게 고백하자면, 제가 한 주동안 제일 많이 한 말이 아닐까 싶어요. 지금 보고 계...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2022/12/28/news-p.v1.20221228.6104ef9257484bf183f62216d42d2029_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
