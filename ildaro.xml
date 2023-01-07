@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 23:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 00:58:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아무것도 후회하지 않는 삶이 가능하다면]]></title>
+            <link>https://ildaro.com/9529</link>
+            <guid>https://ildaro.com/9529</guid>
+            <pubDate>Sat, 07 Jan 2023 09:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[〈파니 핑크〉의 원제는 “아무도 날 사랑하지 않아”(Keiner Liebt Mich)다. 아무에게도 사랑받지 못하는 파니는 끝내 사랑하고 사랑받을 수 있을까?...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023010747439579.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기후위기 해법 “우리가 연결되어 있음을 인식하는 것”]]></title>
             <link>https://ildaro.com/9528</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 15 Dec 2022 00:16:00 GMT</pubDate>
             <content:encoded><![CDATA[크리스 베가 교수는 여성들이 만들어낸 집회소가 거리에서의 직접행동과 동등하게, 혹은 그 이상으로 강렬한 ‘정치 현장’이 되었다고 말한다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022121520428226.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단지 집을 깨끗하게 만들어주는 노동이 아니에요]]></title>
-            <link>https://ildaro.com/9509</link>
-            <guid>https://ildaro.com/9509</guid>
-            <pubDate>Tue, 13 Dec 2022 12:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 분야에서 자기만의 방식으로 해 나아가는 미진 님은 지금까지 그래온 것처럼, 빵과 장미를 찾을 것이다. 그리고 나는 그에게 배운 대로, 일상의 루틴을 만들어...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022121326582603.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
