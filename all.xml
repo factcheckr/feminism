@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 09:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 10:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/4d6d45f0-d0c1-4dd4-8b62-f61c2598cab4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가족의 정의는 동사가 되어야 한다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9531</link>
+            <guid>https://ildaro.com/9531</guid>
+            <pubDate>Mon, 09 Jan 2023 10:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[가족의 정의는 동사가 되어야 합니다. 함께 살고, 함께 돌보고, 함께 부양하고, 함께 양육하기로 하고, 실제로 함께 양육하고 있는 사람들의 관계를 보호하기 위해서 정...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023010929135960.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘마음의 통역자들’이 펼치는 이 멋진 세계! (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9530</link>
             <guid>https://ildaro.com/9530</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 17 Dec 2022 15:13:30 GMT</pubDate>
             <content:encoded><![CDATA[Feminists that I met in various places supported my quest to find what my real desire was. I’m preparing to leave the city and become a farmer....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022121732365540.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘남녀가 단둘이 술 마시면 뻔한 거 아니냐’ 통념과의 싸움 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9511</link>
-            <guid>https://ildaro.com/9511</guid>
-            <pubDate>Fri, 16 Dec 2022 00:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[성폭력 피해자가 무고(허위로 신고하거나 고소하는 것) 혐의로 고소를 당하면, 무고죄 피의자가 된다. 기소가 되면 무고죄 피고인이 된다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022121651036095.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
