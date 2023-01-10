@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 14:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 15:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/4d6d45f0-d0c1-4dd4-8b62-f61c2598cab4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Unjust Market: Meeting with People Working at Subcontracting Companies (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9532</link>
+            <guid>https://ildaro.com/9532</guid>
+            <pubDate>Tue, 10 Jan 2023 15:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[The words of an employee of a subcontracting business: “Ms. OO, we’re in a difficult situation these days, too”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023011053222804.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가족의 정의는 동사가 되어야 한다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9531</link>
             <guid>https://ildaro.com/9531</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 18 Dec 2022 09:42:00 GMT</pubDate>
             <content:encoded><![CDATA[서로가 다른 층위의 피해, 서로 다른 층위의 폭력, 서로 다른 시대, 서로 다른 계급, 서로 다른 시간, 서로 다른 공간 그러니까 서로 다른 상처를 세밀한 언어로 적어낸...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022121800004881.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Awakening to Differences, Facing My True Nature (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9512</link>
-            <guid>https://ildaro.com/9512</guid>
-            <pubDate>Sat, 17 Dec 2022 15:13:30 GMT</pubDate>
-            <content:encoded><![CDATA[Feminists that I met in various places supported my quest to find what my real desire was. I’m preparing to leave the city and become a farmer....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022121732365540.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
