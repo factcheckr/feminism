@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 01:00:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 02:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[섭식장애와 함께한 15년]]></title>
+            <link>https://ildaro.com/9533</link>
+            <guid>https://ildaro.com/9533</guid>
+            <pubDate>Wed, 11 Jan 2023 09:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[섭식장애는 정상성을 거부하는 강력한 반동행위이기도 하다. 섭식장애 환자는 모두가 당연하다고 여기는-먹고, 마시고, 배설하는- 것을 하지 않는다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023011136037671.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Unjust Market: Meeting with People Working at Subcontracting Companies]]></title>
             <link>https://ildaro.com/9532</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 20 Dec 2022 00:18:00 GMT</pubDate>
             <content:encoded><![CDATA[‘반성매매 운동은 침몰하는 배 같다’는 얘길 한 적이 있어요. 하지만, 페미니스트들이 함께 고민해 볼만한 의제로 자리잡을 수도 있겠다는 기대를 갖게 되었어요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022122030235488.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젠더폭력 피해자가 생존하게 하는 힘]]></title>
-            <link>https://ildaro.com/9513</link>
-            <guid>https://ildaro.com/9513</guid>
-            <pubDate>Sun, 18 Dec 2022 09:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[서로가 다른 층위의 피해, 서로 다른 층위의 폭력, 서로 다른 시대, 서로 다른 계급, 서로 다른 시간, 서로 다른 공간 그러니까 서로 다른 상처를 세밀한 언어로 적어낸...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022121800004881.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
