@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 21:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 22:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘욕망 되고 싶지 않은’ 여성의 ‘몸’에 대한 고백들 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202301121618011</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202301121618011</guid>
+            <pubDate>Thu, 12 Jan 2023 22:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[“저의 몸과 저의 섹슈얼리티에 대한 이야기를 해보려고 합니다. 이것은 실로 부끄러운 고백이어서 저는 단 한 번밖에 말하지 못할 것 같습니다. 그러니 가만히 들어주세요.”소설 첫 문장이다. 1983년생 ‘나’는 어린 시절 겪은 일부터 이야기한다. 나는 “평생에 걸쳐 마른 몸”으로 살았다. 타인 평가에서 벗어났던 적이 없다. 어머니 친구들이 말했다. “얘는 왜 이렇게 말랐어? 뼈밖에 없네. 누가 보면 굶기는 줄 알겠어.”이런 결론을 내렸다. ‘불쌍할 정도로 말라...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/01/12/news-p.v1.20230111.64ae5beefa1e4d92b3c006c9c84793cf_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여성 면접자에게 “춤추라”는 신협, 인권위 “성차별 행위” (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202301121006001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202301121006001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 05 Jan 2023 02:16:18 GMT</pubDate>
             <content:encoded><![CDATA[영화배우 올리비아 핫세(71)와 레너드 위팅(72)이 영화 &lt;로미오와 줄리엣&gt;(1968) 촬영 당시 감독에게 속아 노출 장면을 촬영했다며 영화사를 상대로 5억달러(약 6394억원)에 달하는 소송을 냈다.3일(현지시간) AP통신 등에 따르면 당시 영화에서 줄리엣 역을 맡았던 핫세와 로미오 역을 맡았던 위팅은 성학대와 성희롱, 사기 등을 당했다며 파라마운트 픽처스를 상대로 소송을 제기했다. 두 사람은 이 영화를 통해 스타덤에 올랐다.이들은 캘리포니아주 로스앤젤레스 카운티 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/01/05/news-p.v1.20230105.32791678ca6e4a16ad9f394c13de0f2a_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프랑스 세자르상 “성범죄 의혹만 받아도 시상식 초청 안한다” (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/movie/article/202301031810001</link>
-            <guid>https://www.khan.co.kr/culture/movie/article/202301031810001</guid>
-            <pubDate>Tue, 03 Jan 2023 16:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[‘프랑스판 오스카’로 불리는 세자르상 주최 측이 성범죄 의혹을 받는 인사는 기소 전이라도 시상식에 초청하지 않겠다고 밝혔다.프랑스 영화예술기술아카데미는 2일(현지시간) 성명을 통해 성범죄, 혹은 성차별적인 폭력 행위로 징역형에 처해질 수 있는 사람들은 올해 시상식에 올 수 없다는 방침을 공개했다.아카데미는 “피해자를 존중하는 차원에서, 비록 아직 피해자로 추정하는 단계일지라도 폭력 행위로 사법 당국의 수사를 받는 사람을 부각하지 않기로 했다”고 설명했...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/01/03/news-p.v1.20230103.d617ba22f83342499bd8e5151cb26c9d_P1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[여성의 얼굴을 하지 않은 홈리스 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
