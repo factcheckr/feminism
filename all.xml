@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 11:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 12:26:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/4d6d45f0-d0c1-4dd4-8b62-f61c2598cab4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우리에겐 더 많은 무지개집이 필요하다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9534</link>
+            <guid>https://ildaro.com/9534</guid>
+            <pubDate>Thu, 12 Jan 2023 12:26:52 GMT</pubDate>
+            <content:encoded><![CDATA[무지개집은 “대문을 열고 들어서자마자 신발을 벗어야 하는” 구조다. 5층에 사는 사람도 1층 현관에서 신발을 벗고 올라간다는 거다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/202301125902787.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[섭식장애와 함께한 15년 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9533</link>
             <guid>https://ildaro.com/9533</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 21 Dec 2022 05:14:41 GMT</pubDate>
             <content:encoded><![CDATA[일터에서 받는 임금도 남성의 64%이니 ‘반찬노동’으로 무시당하기 일쑤다. 공연하는 가수들의 노래와 편지 읽기로, 고단한 여성노동자의 현실이 표현됐다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022122146347407.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성매매 여성을 ‘불처벌’하면 어떤 세상이 펼쳐질까? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9514</link>
-            <guid>https://ildaro.com/9514</guid>
-            <pubDate>Tue, 20 Dec 2022 00:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘반성매매 운동은 침몰하는 배 같다’는 얘길 한 적이 있어요. 하지만, 페미니스트들이 함께 고민해 볼만한 의제로 자리잡을 수도 있겠다는 기대를 갖게 되었어요....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022122030235488.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
