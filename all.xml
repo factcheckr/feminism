@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Jan 2023 05:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jan 2023 06:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/4d6d45f0-d0c1-4dd4-8b62-f61c2598cab4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[장애를 가진 여성이 겪는 ‘복합차별’을 말하다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9535</link>
+            <guid>https://ildaro.com/9535</guid>
+            <pubDate>Sat, 14 Jan 2023 06:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[“마흔에 제가 임신했을 때, 어머니와 의사가 함께 임신중단을 권했어요. 의사는 장애아를 낳을 가능성이 있다는 이유로, 어머니는 제가 장애가 있는데 육아를 할 수 ...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023011435043853.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우리에겐 더 많은 무지개집이 필요하다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9534</link>
             <guid>https://ildaro.com/9534</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 22 Dec 2022 09:14:36 GMT</pubDate>
             <content:encoded><![CDATA[요즘 비혼자 중에는 자기 조카에게 장례를 부탁할 생각을 하는 분들이 많다고 들었는데, 조카는 장례할 수 있는 연고자가 아닙니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/202212225006738.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리의 일을 ‘반찬’ 같은 노동으로 여기는 게 화나 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9515</link>
-            <guid>https://ildaro.com/9515</guid>
-            <pubDate>Wed, 21 Dec 2022 05:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[일터에서 받는 임금도 남성의 64%이니 ‘반찬노동’으로 무시당하기 일쑤다. 공연하는 가수들의 노래와 편지 읽기로, 고단한 여성노동자의 현실이 표현됐다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022122146347407.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
