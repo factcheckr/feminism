@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 04:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 05:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이기적인 야망에 희생된 조선 소녀들의 이야기]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202301161035001</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202301161035001</guid>
+            <pubDate>Mon, 16 Jan 2023 05:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[1421년 어느 날 제주 ‘노원리’에 살던 서현이란 아이가 숲 절벽 아래에서 숨진 채 발견됐다. 민제우 종사관 딸 환이와 매월이는 서현이 시신에서 몇 걸음 떨어진 곳에서 실신한 상태로 쓰러져 있었다.1425년 민제우도 한라산에서 사라졌다. 조선에서 제일가는 수사관으로 유명한 이였다. 서현이가 죽은 뒤 4년 동안 소녀 13명이 사라진 사건을 수사하러 제주에 머물던 차였다.1426년 큰딸 환이가 아버지를 찾으러 남장을 한 채 고향인 제주로 떠난다. “정보를 조목조목 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/01/16/news-p.v1.20230112.88b075e5d177408aace7e22f608502a2_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여성민우회, 고은 복귀에 “당신 죄는 잊힐 수 없다”]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202301131628001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 09 Jan 2023 09:12:21 GMT</pubDate>
             <content:encoded><![CDATA[고은 시인이 시집과 대담집을 잇따라 내놓았다. 계간지에 고 김성동 작가 추모시도 기고했다. 공식적인 문단 복귀로 봐도 될 행보다. 2018년 최영미 시인의 폭로로 성추행 사실이 알려진 뒤 최근까지 글쓰기를 거의 중단한 상태였다. 사과 없는 출간 방식, ‘한국 대표 시인’ 정립 내용 등을 비판하는 의견이 나온다.실천문학사는 최근 고 시인의 시집 &lt;무의 노래&gt;를 냈다. 등단 65주년을 맞아 출간했다고 한다. 대담집 &lt;고은과의 대화&gt;도 함께 출판했다. 캐...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/01/09/news-p.v1.20230109.a79df6e6da3a483b869b0025e9808989_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엄마반란]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202301091049021</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202301091049021</guid>
-            <pubDate>Mon, 09 Jan 2023 09:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[내가 저분을 지키려 했다니. 지금 내 눈앞에 펼치어 계신 분, 그분의 털끝조차 너무 거대해서 한눈에 담기는 법이 없는, 저 바다. 그리고 저분마저 품고 계신 어머니, 지구에 대해서는 두말할 나위도 없다. 부처님 손바닥이란 말이 딱 알맞을 뿐이지만, 초등학교 1학년인 우리 집 어린이도 학교에서 ‘지구를 지키자’라고 배워 온다. 누가 누굴, 지키긴 뭘 지킨단 말인가! 쇠파리(소의 피를 빨고 거기에 산란하여 그 애벌레는 소의 피하에 기생)가 소를 지킨단 말보다 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/01/09/news-p.v1.20230104.3c6c219b362e42cc834c96ee571322c5_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
