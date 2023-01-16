@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 18:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 19:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘아직 멀었지만’…20% 넘긴 100대 기업 여성 사외이사 비율]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202301161740001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202301161740001</guid>
+            <pubDate>Mon, 16 Jan 2023 19:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 국내 100대 기업의 여성 사외이사 비중이 20%를 넘은 것으로 나타났다. 자본시장법 개정으로 자산 2조원이 넘는 기업은 이사회를 특정 성별로만 구성할 수 없게된 영향이다.헤드헌팅 전문업체 유니코써치는 ‘2022년 기준 국내 100대 기업 사외이사 현황 분석’ 결과를 12일 발표했다.유니코써치가 지난해 3분기 보고서를 기준으로 조사한 결과 100대 기업의 사외이사는 총 447명으로 이 중 여성 임원은 94명(21.0%)이었다. 대기업의 여성 사외이사 비중은 2020년 35명(...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/01/16/news-p.v1.20230113.7448b967427241dbb4f38ca1bad36da0_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이기적인 야망에 희생된 조선 소녀들의 이야기]]></title>
             <link>https://www.khan.co.kr/culture/book/article/202301161035001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 10 Jan 2023 03:13:29 GMT</pubDate>
             <content:encoded><![CDATA[“혼자서는 이렇게는 못 살쥬.”분홍색 신형 냉장고 양쪽 칸에는 식재료가 빽빽이 들어찼다. 제철 맞은 귤과 한과도 한 바구니 있다. 빨갛게 무친 무말랭이는 동나기 직전이다. 문짝은 피곤할 때 한 병씩 들이켜는 자양강장제 자리다. 바로 옆 김치냉장고에는 김장김치가 숨쉰다. 식탁 위엔 포슬포슬하게 찐 밤고구마가 손길을 기다린다. 하늘빛 타일로 꾸민 ‘왕언니’ 여예자씨(86)의 부엌은 특별한 구석이 있다.복숭아밭이 반기는 충북 옥천군 상삼마을. 이웃동네 영동에서 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/01/10/news-p.v1.20230109.d080cfe9211e461980db43ced8d1df85_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성추행 폭로 후 5년, 사과도 반성도 없는 고은의 문단 복귀]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202301091538001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202301091538001</guid>
-            <pubDate>Mon, 09 Jan 2023 09:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[고은 시인이 시집과 대담집을 잇따라 내놓았다. 계간지에 고 김성동 작가 추모시도 기고했다. 공식적인 문단 복귀로 봐도 될 행보다. 2018년 최영미 시인의 폭로로 성추행 사실이 알려진 뒤 최근까지 글쓰기를 거의 중단한 상태였다. 사과 없는 출간 방식, ‘한국 대표 시인’ 정립 내용 등을 비판하는 의견이 나온다.실천문학사는 최근 고 시인의 시집 &lt;무의 노래&gt;를 냈다. 등단 65주년을 맞아 출간했다고 한다. 대담집 &lt;고은과의 대화&gt;도 함께 출판했다. 캐...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/01/09/news-p.v1.20230109.a79df6e6da3a483b869b0025e9808989_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
