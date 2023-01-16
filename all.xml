@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 10:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 11:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/4d6d45f0-d0c1-4dd4-8b62-f61c2598cab4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아직도 자주 몸무게를 잰다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9537</link>
+            <guid>https://ildaro.com/9537</guid>
+            <pubDate>Mon, 16 Jan 2023 11:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[모두가 ‘먹는 행위’를 기형적으로 수행하고 있는 것으로 보인다. 어째서일까. 인류의 식이생활이 균형점을 잃은 것처럼 느껴진다고 하면 너무나 큰 과장일까?...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023011636003685.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[팬데믹 속에서 ‘사회적 가족’ 인정 필요성 커졌다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9536</link>
             <guid>https://ildaro.com/9536</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 25 Dec 2022 00:35:00 GMT</pubDate>
             <content:encoded><![CDATA[If I were guaranteed a basic livelihood—not even a fancy one—I could concentrate on music, I think....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022122539474158.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성 홈리스, 우리가 여기 있다! (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9517</link>
-            <guid>https://ildaro.com/9517</guid>
-            <pubDate>Sat, 24 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[여성 홈리스의 생활 패턴을 고려하지 않은 지금의 홈리스 실태조사로는 “여성 홈리스의 존재를 파악하기 어렵다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/202212240619718.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
