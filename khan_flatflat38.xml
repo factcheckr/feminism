@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 07:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 08:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돌봄의 수고로움이 인정되지 않는 ‘엄마들’에게 건네는 인사]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202301181513011</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202301181513011</guid>
+            <pubDate>Wed, 18 Jan 2023 08:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[엄마가 암에 걸렸다. 언제부터였을까. 잘 모르겠다. 6년 만에 마주한 그는 암 투병 사실과 함께 눈앞에 나타났다. 단절을 단절하게 된 구실이 암이라는 사실은 받아들이기 힘들었다. 사실 비참했다. 서른 해 전 김광석은 서른 즈음이 되면 ‘머물러 있는 청춘인 줄 알았던 것이 점점 더 멀어진다’ 고백했는데 이런 것이었을까. 뜨겁고 푸릇푸릇하기만 했던 인생의 색깔들은 신년을 맞이하며 순식간에 저버렸고, 갑작스레 저물어가는 해 질 녘의 빛깔 앞에서 혼란스러운 발...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/01/18/news-p.v1.20230118.6e66f25673c04a16830156b6c5b79531_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 강수연의 유작이 된 넷플릭스 영화 ‘정이’]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202301180956001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 12 Jan 2023 06:14:59 GMT</pubDate>
             <content:encoded><![CDATA[국가인권위원회가 여성 면접자에게 춤과 노래를 시킨 지역 신용협동조합 면접관의 지시가 “성차별 행위에 해당한다”며 재발방지책을 마련하라고 권고했다.인권위는 신협중앙회장에게 각 지역본부에 해당 사례를 공유하고, 성차별 행위를 방지하기 위한 채용 지침을 따로 마련할 것을 권고했다고 11일 밝혔다. 사건이 일어난 A 지역 신협 이사장에게는 전 직원을 대상으로 인권교육을 실시토록 했다.앞서 이 지역 신협 신입사원 입사에 지원해 최종면접자로 선발된 B씨는 면접관...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/01/12/news-p.v1.20230111.9bf57984d27c4eb58586d8897979dfea_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“어렸을 때 꿈이 뭐였어?” 엄마에게 물었다]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202301111615001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202301111615001</guid>
-            <pubDate>Wed, 11 Jan 2023 15:23:28 GMT</pubDate>
-            <content:encoded><![CDATA[얼마 전 엄마가 놀러 오셨다. 우리는 TV 속 여가수의 노래를 듣고 있었는데, 나는 갑자기 궁금해졌다. “엄마, 엄마는 어렸을 때 꿈이 뭐였어?” 엄마는 한 번도 생각해 본 적 없다는 듯, 난처한 표정을 지으셨다. 잠시 고민하다 하신 말씀은 “그건 왜 물어?”였다.가부장제 사회에서 자신의 꿈을 생각도 못해본 여자는 비단 나의 엄마만은 아닐 것이다. 글과 그림에 남다른 재능이 있었지만 어린 남매를 키우다 꽃다운 나이에 돌아가신 친구의 어머니, 시가 어른들의...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/01/11/news-p.v1.20230111.e5ad48211b56467b87505ba87f22e46b_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
