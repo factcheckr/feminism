@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 23:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 01:02:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/4d6d45f0-d0c1-4dd4-8b62-f61c2598cab4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘진달래꽃’의 화자는 정말 여성일까? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9538</link>
+            <guid>https://ildaro.com/9538</guid>
+            <pubDate>Wed, 18 Jan 2023 09:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘여성적 어조’라는 문학 용어와 함께 오랜 세월 시 ⌜진달래꽃⌟을 해석하는 데에 절대적인 기준처럼 여겨졌다. 그러나 우리는 시를 다시 한번 꼼꼼하게 읽어볼 필...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/202301182301413.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아직도 자주 몸무게를 잰다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9537</link>
             <guid>https://ildaro.com/9537</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 26 Dec 2022 11:02:00 GMT</pubDate>
             <content:encoded><![CDATA[그의 임신을 두고 나온 숱한 가십성 기사는 조국을 위해 헌신하기로 결심하고 타국에서 고군분투한 한 여성의 삶을 방종한 여인의 일탈로 소비하고 말았다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022122609199708.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Can I Continue With Music While Doing Another Job? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9518</link>
-            <guid>https://ildaro.com/9518</guid>
-            <pubDate>Sun, 25 Dec 2022 00:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[If I were guaranteed a basic livelihood—not even a fancy one—I could concentrate on music, I think....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022122539474158.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
