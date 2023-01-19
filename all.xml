@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 09:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 10:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/4d6d45f0-d0c1-4dd4-8b62-f61c2598cab4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Cold Reality of Standing on One’s Own (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9539</link>
+            <guid>https://ildaro.com/9539</guid>
+            <pubDate>Thu, 19 Jan 2023 10:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[So it was that when she came to live at Yeollimteo, what she wanted most was help developing the strength to stand on her own....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023011900428572.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘진달래꽃’의 화자는 정말 여성일까? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9538</link>
             <guid>https://ildaro.com/9538</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 15 Jan 2023 07:12:59 GMT</pubDate>
             <content:encoded><![CDATA[도쿄지방법원은 피고 중 4인에게 13조 엔(한화 약 124조 원)을 도쿄전력에 지급하도록 명하는 획기적인 판결을 내렸다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022122703475356.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스웨덴으로 유학을 떠난 식민지의 청년, 최영숙 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9519</link>
-            <guid>https://ildaro.com/9519</guid>
-            <pubDate>Mon, 26 Dec 2022 11:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[그의 임신을 두고 나온 숱한 가십성 기사는 조국을 위해 헌신하기로 결심하고 타국에서 고군분투한 한 여성의 삶을 방종한 여인의 일탈로 소비하고 말았다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022122609199708.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
