@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 10:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 11:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위로금 준다는데 콜센터 상담원이 왜 안 나가고 버티냐고?]]></title>
+            <link>https://ildaro.com/9540</link>
+            <guid>https://ildaro.com/9540</guid>
+            <pubDate>Fri, 20 Jan 2023 11:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[‘어떤 직업은 그렇게까지 버틸 이유가 없다’고 말하는 세상을 향해 자신들의 존엄을 증명하기 위해 싸운다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023012029431957.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Cold Reality of Standing on One’s Own]]></title>
             <link>https://ildaro.com/9539</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 15 Jan 2023 07:12:59 GMT</pubDate>
             <content:encoded><![CDATA[“피고 가츠마타…”라는 판결 주문의 첫머리가 들린 순간, 내가 메모하던 손가락에 힘이 들어갔다. “이겼다.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/202212285238257.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후쿠시마 원전사고, 도쿄전력 주주대표 소송 ‘역사적 판결’]]></title>
-            <link>https://ildaro.com/9520</link>
-            <guid>https://ildaro.com/9520</guid>
-            <pubDate>Sun, 15 Jan 2023 07:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[도쿄지방법원은 피고 중 4인에게 13조 엔(한화 약 124조 원)을 도쿄전력에 지급하도록 명하는 획기적인 판결을 내렸다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022122703475356.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
