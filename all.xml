@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Jan 2023 10:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jan 2023 11:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/4d6d45f0-d0c1-4dd4-8b62-f61c2598cab4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연극으로 만난 비장애인과 장애인의 ‘어수선한’ 연결 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9541</link>
+            <guid>https://ildaro.com/9541</guid>
+            <pubDate>Sat, 21 Jan 2023 11:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[보통 배우에게 그런 기회가 주어지면, 연기력을 뽐내기 위해 유명한 희곡의 독백 같은 걸 하거든요. 근데 극단 애인에선 자신의 생애를 이야기했다는 거�...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023012152528979.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[위로금 준다는데 콜센터 상담원이 왜 안 나가고 버티냐고? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9540</link>
             <guid>https://ildaro.com/9540</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 29 Dec 2022 11:41:00 GMT</pubDate>
             <content:encoded><![CDATA[“여성의 경제활동 참여율이 상승하는 경우, 그 국가의 여자축구 랭킹 포인트 또한 상승하는 경향을 보인다”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022122950094889.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원전 사고는 자연재해 아닌 ‘인재’…경영진이 책임져야 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9521</link>
-            <guid>https://ildaro.com/9521</guid>
-            <pubDate>Sun, 15 Jan 2023 07:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[“피고 가츠마타…”라는 판결 주문의 첫머리가 들린 순간, 내가 메모하던 손가락에 힘이 들어갔다. “이겼다.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/202212285238257.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
