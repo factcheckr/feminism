@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Jan 2023 03:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jan 2023 04:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,11 +328,19 @@
             <enclosure url="https://image.hankookilbo.com/board/4d6d45f0-d0c1-4dd4-8b62-f61c2598cab4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[비장애인과 장애인이 ‘함께’ 연극할 수 있는 환경을 위해 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9542</link>
+            <guid>https://ildaro.com/9542</guid>
+            <pubDate>Sun, 22 Jan 2023 00:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[장애를 가지고 비장애 중심 사회를 살아간다는 자체가, 계속 ‘나도 여기 존재하고 있다’는 것을 확인시키는 일인 것 같아요. 이 과정이 그냥 제 삶이에요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023012254302975.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연극으로 만난 비장애인과 장애인의 ‘어수선한’ 연결 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9541</link>
             <guid>https://ildaro.com/9541</guid>
             <pubDate>Sat, 21 Jan 2023 11:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[보통 배우에게 그런 기회가 주어지면, 연기력을 뽐내기 위해 유명한 희곡의 독백 같은 걸 하거든요. 근데 극단 애인에선 자신의 생애를 이야기했다는 거�...]]></content:encoded>
+            <content:encoded><![CDATA[배우에게 그런 기회가 주어지면, 연기력을 뽐내기 위해 유명한 희곡의 독백 같은 걸 하거든요. 근데 극단 애인에선 자신의 생애를 이야기했다는 거....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023012152528979.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 15 Jan 2023 07:12:59 GMT</pubDate>
             <content:encoded><![CDATA[아이돌 시장에서 탈락한 사람이었던 내가, 나의 모습을 바꾸지 않은 채 이렇게 케이팝 아이돌로 데뷔했고, 무대에 선다는 것 자체만으로도 퀴어아이돌로서 어떤 역할...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022123021428077.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여자축구 세계랭킹과 성-불평등지수의 상관관계 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9522</link>
-            <guid>https://ildaro.com/9522</guid>
-            <pubDate>Thu, 29 Dec 2022 11:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[“여성의 경제활동 참여율이 상승하는 경우, 그 국가의 여자축구 랭킹 포인트 또한 상승하는 경향을 보인다”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202212/2022122950094889.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
