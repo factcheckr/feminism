@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 00:59:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 02:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/4d6d45f0-d0c1-4dd4-8b62-f61c2598cab4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘콜센터 그언니’ 잊지 못할 일 년이었다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9544</link>
+            <guid>https://ildaro.com/9544</guid>
+            <pubDate>Wed, 25 Jan 2023 10:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[상담사들이 요구한 것은 하나였다. ‘이 고장에서 일할 수 있게만 해달라’는 것. ‘그렇게 하겠다’던 회사는 3년이 지나자 말을 바꿨다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023012512325115.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[섭식장애 가진 사람과 식사를 함께한 적 있나요? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9543</link>
             <guid>https://ildaro.com/9543</guid>
@@ -478,14 +486,6 @@
             <pubDate>Tue, 03 Jan 2023 11:37:00 GMT</pubDate>
             <content:encoded><![CDATA[“우리는 왜 서로를 필요로 할까? 어디까지가 우리일까? 그 관계의 빈틈을 계속 떠들고 싶어요.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023010351521088.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘야한’ 장면을 수업에서 만났을 때 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9524</link>
-            <guid>https://ildaro.com/9524</guid>
-            <pubDate>Sun, 15 Jan 2023 07:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[10년 전, 한 학급에 대여섯 명은 ‘춘향에게 충격 받았다’는 반응을 보이곤 했다. ‘어린 나이에 결혼도 하지 않고 몽룡과 밤을 보내는 모습에 충격받았고, 실망했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023010122173979.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
