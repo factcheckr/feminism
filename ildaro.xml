@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Jan 2023 01:00:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jan 2023 02:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘성평등한 대학’이라는 환상 속에 은폐되는 성폭력]]></title>
+            <link>https://ildaro.com/9546</link>
+            <guid>https://ildaro.com/9546</guid>
+            <pubDate>Sat, 28 Jan 2023 08:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[인하대학교 성폭력 사망사건에서 드러난 대학 사회의 문제점을 더 면밀히 바라보고 더 깊게 이야기 나눌 수 있는 공간을 간절하게 바랐다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023012803452725.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리가 왜 부부가 아니란 말입니까?]]></title>
             <link>https://ildaro.com/9545</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 15 Jan 2023 07:12:59 GMT</pubDate>
             <content:encoded><![CDATA[“한 마을에 500억만큼 스마트팜 지을 땅이 있냐고 물으니까 ‘이제 농민들 힘들게 농사짓지 말고 땅을 내놓으면 되지요’, ‘땅 내놓고 주주로 살면 되지요’ 이래요...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023010531473809.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 ‘최애’가 성범죄자였다? ‘망한 덕질’ 이후]]></title>
-            <link>https://ildaro.com/9526</link>
-            <guid>https://ildaro.com/9526</guid>
-            <pubDate>Sun, 15 Jan 2023 07:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[“우리가 뭐 기후위기에 대한 노래를 불러달라는 것도 아니고, 기아 문제에 대해서 가사를 써달라는 것도 아니니까, 그냥 좋아했던 팬들한테 부끄럽지 않을 정도로만...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023010455492947.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
