@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 22:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 23:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://image.hankookilbo.com/board/4d6d45f0-d0c1-4dd4-8b62-f61c2598cab4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NO means NO!!! (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1177</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1177</guid>
+            <pubDate>Mon, 30 Jan 2023 23:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[지난 26일 여성가족부는 비동의간음죄 신설을 검토한다는 내용을 '제3차 양성평등정책 기본계획'에 담았다고 발표했습니다. 법무부와 여가부가 함께 논의한 결과라고도 명시했습니다. 그런데 갑자기 법무부가 "개정 계획이 없다"고 선을 긋습니다. 발표 약 8시간 만에 여가부도 "개정 계획이 없다"며 물러섰습니다. 그러면서 '윤석열 정부'의 정책이 아님을 재차 강조했습니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/89e5392f-d13e-4692-a2bd-d8974f2c7442.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여성의 얼굴을 하지 않은 홈리스 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1151</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1151</guid>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 30 Jan 2023 17:13:27 GMT</pubDate>
             <content:encoded><![CDATA[0.75명. 올해 2분기 합계출산율(한 여성이 평생 낳을 것으로 예상되는 출생아 수)입니다. 단연 세계에서 가장 낮은 수준이며 OECD 회원국 중 합계출산율이 1명 이하인 유일한 국가입니다. 예상하지 못했던 흐름은 아니지만, 한국 사회는 비상입니다. 이런 흐름대로라면 올해 연간 출생아는 25만 명보다 적을 것으로 관측됩니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/2eb87f26-372b-4b50-87d1-6c3154cb6d07.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[특명: 여가부 폐지 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/962</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/962</guid>
-            <pubDate>Mon, 30 Jan 2023 17:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 뉴스레터 주제는 '여성가족부'입니다. 지난해 허스토리에서도 여가부 이슈에 대해 다뤘었죠. 당시 여가부에 대한 가짜뉴스나 잘못된 정보에 대한 팩트체크를 다뤘다면, 오늘은 끝끝내 '여가부 폐지'를 지시한 윤석열 대통령과 여가부의 혼란스러운 상황을 담았습니다.&nbsp;]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/4d6d45f0-d0c1-4dd4-8b62-f61c2598cab4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“니 LGBT가?” 이후, 우린 더 나아갈 수 있다! (일다 ─ 전체기사)]]></title>
