@@ -1,91 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
+        <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 16:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 17:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[여성의 얼굴을 하지 않은 홈리스]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1151</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1151</guid>
-            <pubDate>Wed, 21 Dec 2022 23:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[올해의 마지막 뉴스레터로 찾아뵙습니다. 원래는 지난해처럼 올해의 젠더 이슈 총정리로 한 해를 마무리할 계획이었는데요. '연말'이기 때문에 조금 더 의미 있는 보도와 내용을 담을 수 없을지 곰곰 고민하다가 '여성홈리스 증언대회'라는 현장에 다녀왔습니다. 모두의 일상이 각박해 주변의 어려운 이웃에 눈길 주기 쉽지 않은 나날입니다. 그럼에도 허스펙티브의 독자님들과 조금 더 소외되고, 가난하고, 약한 이들의 목소리에 귀 기울이며 마음을 나누는 연말을 보내고 싶었습니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/b5449833-ad02-4b8d-9152-ffd2576815fc.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[“니 LGBT가?” 이후, 우린 더 나아갈 수 있다!]]></title>
+            <link>https://ildaro.com/9548</link>
+            <guid>https://ildaro.com/9548</guid>
+            <pubDate>Mon, 30 Jan 2023 17:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[좋알람은 시작부터 타 연애 예능 프로그램과 다른 점이 있었다. “좋아하는 마음만 있으면 직업, 나이 그리고 성별과 상관없이” 좋아하는 대상에게 알람을 울릴 수 있...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023013046341463.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[92년 만에 새 땅을 밟은 여성]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1140</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1140</guid>
-            <pubDate>Thu, 08 Dec 2022 07:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[단연 발군이었던 한국 대표팀의 경기 성적이나 내용은 차치하고, 허스펙티브는 본연의 역할인 '여성'에 초점을 맞춰 오늘 뉴스레터를 채워볼게요. 또한 이주노동자 인권 문제 등으로 인해 카타르 월드컵은 개최 전부터 보이콧 움직임이 강했다는 점, 지난 뉴스레터에서 언급했었지요. 그 연장선상에서 모두가 지구촌 축구 축제의 '승부'에 집중하는 사이 한국일보는 월드컵 이면의 모습도 들여다봅니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/6af00baa-ecc1-4081-a345-79718c78710c.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[같이 살고 돌보는데, 우리가 남남이라고?]]></title>
+            <link>https://ildaro.com/9547</link>
+            <guid>https://ildaro.com/9547</guid>
+            <pubDate>Mon, 30 Jan 2023 17:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[같은 집이나 같은 건물 혹은 같은 마을에서 서로 돌보고 살 수 있으려면, 개인적인 노력뿐만 아니라 법과 제도의 보호가 필요한데, 사회에서는 우리를 남남 취급합니다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023012949105905.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미국 여성들이 제대로 보여줬다]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1128</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1128</guid>
-            <pubDate>Thu, 24 Nov 2022 06:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 뉴스레터는 지난 2주간 한국일보 기사 중, 의미 있는 여성·페미니즘 기사 혹은 젠더 관점으로 바라봤더니 또 다른 해석이 포착되는 뉴스들을 소개합니다. 첫 꼭지로는 '11.8 미국 중간선거' 결과를 차근차근 곱씹어 봐요. 지난 8일, 미국에서는 상원 의원(100석 중 35석)과 하원 의원 전체, 일부 주지사와 각주 국무장관직을 선출하는 중간선거가 치러졌어요.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/eb0df0ef-9602-419b-824e-ac847d02b7e1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘성평등한 대학’이라는 환상 속에 은폐되는 성폭력]]></title>
+            <link>https://ildaro.com/9546</link>
+            <guid>https://ildaro.com/9546</guid>
+            <pubDate>Sat, 28 Jan 2023 08:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[인하대학교 성폭력 사망사건에서 드러난 대학 사회의 문제점을 더 면밀히 바라보고 더 깊게 이야기 나눌 수 있는 공간을 간절하게 바랐다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023012803452725.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[함께 애도하고 분노해요]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1109</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1109</guid>
-            <pubDate>Sun, 13 Nov 2022 23:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[어떤 말도 보태기 어려운 2주였습니다. 참사가 발생하고 10여 일이 지났지만, 아직도 서울 한복판에서 이 같은 비극이 발생했다는 것이 믿기지 않습니다. 지난달 29일 발생한 이태원 핼러윈 참사로 현재까지 사망자 156명이 사망하고 197명이 부상을 입었습니다. 희생자의 명복을 빌며, 남은 가족과 친구에게도 위로의 마음을 전합니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/8e7eecec-36d0-48d0-a78d-f715d104a070.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[우리가 왜 부부가 아니란 말입니까?]]></title>
+            <link>https://ildaro.com/9545</link>
+            <guid>https://ildaro.com/9545</guid>
+            <pubDate>Mon, 30 Jan 2023 17:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[함께 살며 서로를 보살피는 내 가족을 “내 가족”이라고, 내가 사랑하는 사람이라고 앞으로도 당당하게 말하겠습니다. 한국의 정치는 어서 따라오십니다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/202301264026932.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한국일보의 여성 기자들]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1087</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1087</guid>
-            <pubDate>Sun, 13 Nov 2022 23:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 허스펙티브 뉴스레터는 지난 2주간의 '뉴스'가 아닌, 한국일보의 콘텐츠와 이를 만드는 여성 기자들을 소개하는 것으로 문을 열게요. 여러분도 잘 아시다시피, 허스펙티브는 기자 1인이 운영하는 실험 조직이라 할 수 있는데요. 그렇다 보니 '더 잘 할 수 없을까'하고 한계를 자주 절감한답니다. 외로움도 물론 있고요. 이런 제게 으쌰 으쌰 힘을 더해주는 순간이 있습니다. 바로 한국일보의 동료들이 만들어낸 좋은 기사와 콘텐츠를 발견할 때입니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/88f6c93c-caf2-469e-9f46-681dac9bc649.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘콜센터 그언니’ 잊지 못할 일 년이었다]]></title>
+            <link>https://ildaro.com/9544</link>
+            <guid>https://ildaro.com/9544</guid>
+            <pubDate>Wed, 25 Jan 2023 10:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[상담사들이 요구한 것은 하나였다. ‘이 고장에서 일할 수 있게만 해달라’는 것. ‘그렇게 하겠다’던 회사는 3년이 지나자 말을 바꿨다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023012512325115.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이보다 더 알찰 수 없는 뉴스레터]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1065</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1065</guid>
-            <pubDate>Sun, 13 Nov 2022 23:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 정부의 '여성가족부 폐지'가 지난 2주 사이 가장 큰 이슈였습니다. 20~30퍼센트에 머물러 있는 윤 정부가 재차 '여가부 폐지' 카드를 꺼내는 것은 당연한 수순으로 여겨집니다. 특히 최근 '바이든-날리면' 비속어 음성 논란으로 코너에 몰린 만큼, 위기 국면을 타개하기 위해 여가부 폐지를 서두른다는 분석도 나옵니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/da1966a6-c395-4af7-9275-93cb4854b8cd.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[섭식장애 가진 사람과 식사를 함께한 적 있나요?]]></title>
+            <link>https://ildaro.com/9543</link>
+            <guid>https://ildaro.com/9543</guid>
+            <pubDate>Mon, 30 Jan 2023 17:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[나는 섭식장애와 여성의 몸을, 그 지긋지긋한 곳을, 결코 벗어날 수 없다는 사실을 깨닫는다. 그곳이 내가 살고 있는 곳이고, 나를 살린 곳이기 때문이다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023012310214786.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[두 여성의 죽음이 촉발한 분노]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1045</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1045</guid>
-            <pubDate>Sun, 13 Nov 2022 23:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 뉴스레터는 두 여성의 죽음이 촉발한 전 세계의 분노에 대해 다룹니다. 먼저 지난 2주 동안 우리를 분노하고 답답하게 만든 소식이었죠. '신당역 스토킹 살인사건'을 들여다 볼게요.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/948e3d3e-6562-4b61-b848-6ab1b5136bad.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[비장애인과 장애인이 ‘함께’ 연극할 수 있는 환경을 위해]]></title>
+            <link>https://ildaro.com/9542</link>
+            <guid>https://ildaro.com/9542</guid>
+            <pubDate>Sun, 22 Jan 2023 00:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[장애를 가지고 비장애 중심 사회를 살아간다는 자체가, 계속 ‘나도 여기 존재하고 있다’는 것을 확인시키는 일인 것 같아요. 이 과정이 그냥 제 삶이에요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023012254302975.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[N번방은 돌아온 것이 아니다]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1025</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1025</guid>
-            <pubDate>Sun, 13 Nov 2022 23:17:47 GMT</pubDate>
-            <content:encoded><![CDATA['제2의 N번방'이 세상에 드러났습니다. 아니, '제N의 N번방'이라고 하는 것이 더 맞을 것입니다. 지난해 '박사방'과 'N번방'을 운영하며 성착취를 했던 조주빈과 갓갓이 실형을 확정받았지만, 그 이후로도 텔레그램 내 성착취 생태계는 여전히 작동하고 있습니다. 세상에 알려지지 않은 크고 작은 '성착취 범죄 현장'이 존재하고 있기 때문이죠. 오늘은 현재 공론화되고 경찰이 수사 중인 이번 사안을 편의상 '제2의 N번방'으로 부르겠습니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/ce75ce93-a9ac-4c79-a5ec-ff0ea4dd0358.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[연극으로 만난 비장애인과 장애인의 ‘어수선한’ 연결]]></title>
+            <link>https://ildaro.com/9541</link>
+            <guid>https://ildaro.com/9541</guid>
+            <pubDate>Mon, 30 Jan 2023 17:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[배우에게 그런 기회가 주어지면, 연기력을 뽐내기 위해 유명한 희곡의 독백 같은 걸 하거든요. 근데 극단 애인에선 자신의 생애를 이야기했다는 거....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023012152528979.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["한국 여성에 결혼이민을 허하라"]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1005</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1005</guid>
-            <pubDate>Sun, 13 Nov 2022 23:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[0.75명. 올해 2분기 합계출산율(한 여성이 평생 낳을 것으로 예상되는 출생아 수)입니다. 단연 세계에서 가장 낮은 수준이며 OECD 회원국 중 합계출산율이 1명 이하인 유일한 국가입니다. 예상하지 못했던 흐름은 아니지만, 한국 사회는 비상입니다. 이런 흐름대로라면 올해 연간 출생아는 25만 명보다 적을 것으로 관측됩니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/2eb87f26-372b-4b50-87d1-6c3154cb6d07.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[위로금 준다는데 콜센터 상담원이 왜 안 나가고 버티냐고?]]></title>
+            <link>https://ildaro.com/9540</link>
+            <guid>https://ildaro.com/9540</guid>
+            <pubDate>Mon, 30 Jan 2023 17:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[‘어떤 직업은 그렇게까지 버틸 이유가 없다’고 말하는 세상을 향해 자신들의 존엄을 증명하기 위해 싸운다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023012029431957.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[특명: 여가부 폐지]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/962</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/962</guid>
-            <pubDate>Sun, 13 Nov 2022 23:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 뉴스레터 주제는 '여성가족부'입니다. 지난해 허스토리에서도 여가부 이슈에 대해 다뤘었죠. 당시 여가부에 대한 가짜뉴스나 잘못된 정보에 대한 팩트체크를 다뤘다면, 오늘은 끝끝내 '여가부 폐지'를 지시한 윤석열 대통령과 여가부의 혼란스러운 상황을 담았습니다.&nbsp;]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/4d6d45f0-d0c1-4dd4-8b62-f61c2598cab4.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[The Cold Reality of Standing on One’s Own]]></title>
+            <link>https://ildaro.com/9539</link>
+            <guid>https://ildaro.com/9539</guid>
+            <pubDate>Mon, 30 Jan 2023 17:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[So it was that when she came to live at Yeollimteo, what she wanted most was help developing the strength to stand on her own....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023011900428572.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘진달래꽃’의 화자는 정말 여성일까?]]></title>
+            <link>https://ildaro.com/9538</link>
+            <guid>https://ildaro.com/9538</guid>
+            <pubDate>Wed, 18 Jan 2023 09:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘여성적 어조’라는 문학 용어와 함께 오랜 세월 시 ⌜진달래꽃⌟을 해석하는 데에 절대적인 기준처럼 여겨졌다. 그러나 우리는 시를 다시 한번 꼼꼼하게 읽어볼 필...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/202301182301413.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아직도 자주 몸무게를 잰다]]></title>
+            <link>https://ildaro.com/9537</link>
+            <guid>https://ildaro.com/9537</guid>
+            <pubDate>Mon, 30 Jan 2023 17:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[모두가 ‘먹는 행위’를 기형적으로 수행하고 있는 것으로 보인다. 어째서일까. 인류의 식이생활이 균형점을 잃은 것처럼 느껴진다고 하면 너무나 큰 과장일까?...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023011636003685.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팬데믹 속에서 ‘사회적 가족’ 인정 필요성 커졌다]]></title>
+            <link>https://ildaro.com/9536</link>
+            <guid>https://ildaro.com/9536</guid>
+            <pubDate>Mon, 30 Jan 2023 17:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[함께 살기의 방식이 달라지고 있고, 현실의 요구가 이미 폭발하고 있는 지금, 구태에 사로잡혀 실제 시민의 삶을 보호하지 못하는 소모적 논쟁을 이제는 끝내야 합니다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023011534579173.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장애를 가진 여성이 겪는 ‘복합차별’을 말하다]]></title>
+            <link>https://ildaro.com/9535</link>
+            <guid>https://ildaro.com/9535</guid>
+            <pubDate>Mon, 30 Jan 2023 17:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[“마흔에 제가 임신했을 때, 어머니와 의사가 함께 임신중단을 권했어요. 의사는 장애아를 낳을 가능성이 있다는 이유로, 어머니는 제가 장애가 있는데 육아를 할 수 ...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023011435043853.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리에겐 더 많은 무지개집이 필요하다]]></title>
+            <link>https://ildaro.com/9534</link>
+            <guid>https://ildaro.com/9534</guid>
+            <pubDate>Mon, 30 Jan 2023 17:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[무지개집은 “대문을 열고 들어서자마자 신발을 벗어야 하는” 구조다. 5층에 사는 사람도 1층 현관에서 신발을 벗고 올라간다는 거다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/202301125902787.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[섭식장애와 함께한 15년]]></title>
+            <link>https://ildaro.com/9533</link>
+            <guid>https://ildaro.com/9533</guid>
+            <pubDate>Wed, 11 Jan 2023 09:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[섭식장애는 정상성을 거부하는 강력한 반동행위이기도 하다. 섭식장애 환자는 모두가 당연하다고 여기는-먹고, 마시고, 배설하는- 것을 하지 않는다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023011136037671.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Unjust Market: Meeting with People Working at Subcontracting Companies]]></title>
+            <link>https://ildaro.com/9532</link>
+            <guid>https://ildaro.com/9532</guid>
+            <pubDate>Mon, 30 Jan 2023 17:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[The words of an employee of a subcontracting business: “Ms. OO, we’re in a difficult situation these days, too”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023011053222804.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족의 정의는 동사가 되어야 한다]]></title>
+            <link>https://ildaro.com/9531</link>
+            <guid>https://ildaro.com/9531</guid>
+            <pubDate>Mon, 30 Jan 2023 17:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[가족의 정의는 동사가 되어야 합니다. 함께 살고, 함께 돌보고, 함께 부양하고, 함께 양육하기로 하고, 실제로 함께 양육하고 있는 사람들의 관계를 보호하기 위해서 정...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023010929135960.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘마음의 통역자들’이 펼치는 이 멋진 세계!]]></title>
+            <link>https://ildaro.com/9530</link>
+            <guid>https://ildaro.com/9530</guid>
+            <pubDate>Mon, 30 Jan 2023 17:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[〈마음의 통역자들〉을 통해 알게 되는 수어의 세계는 놀라움의 연속이다. 우선, 배우와 같은 의상을 입고 무대에 서서 배우처럼 몸으로 표현하는 통역사들의 모습에...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023010800163558.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아무것도 후회하지 않는 삶이 가능하다면]]></title>
+            <link>https://ildaro.com/9529</link>
+            <guid>https://ildaro.com/9529</guid>
+            <pubDate>Sat, 07 Jan 2023 09:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[〈파니 핑크〉의 원제는 “아무도 날 사랑하지 않아”(Keiner Liebt Mich)다. 아무에게도 사랑받지 못하는 파니는 끝내 사랑하고 사랑받을 수 있을까?...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023010747439579.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
