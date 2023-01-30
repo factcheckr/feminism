@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 12:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 13:24:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“니 LGBT가?” 이후, 우린 더 나아갈 수 있다!]]></title>
+            <link>https://ildaro.com/9548</link>
+            <guid>https://ildaro.com/9548</guid>
+            <pubDate>Mon, 30 Jan 2023 13:24:59 GMT</pubDate>
+            <content:encoded><![CDATA[좋알람은 시작부터 타 연애 예능 프로그램과 다른 점이 있었다. “좋아하는 마음만 있으면 직업, 나이 그리고 성별과 상관없이” 좋아하는 대상에게 알람을 울릴 수 있...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023013046341463.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[같이 살고 돌보는데, 우리가 남남이라고?]]></title>
             <link>https://ildaro.com/9547</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 07 Jan 2023 09:38:00 GMT</pubDate>
             <content:encoded><![CDATA[〈파니 핑크〉의 원제는 “아무도 날 사랑하지 않아”(Keiner Liebt Mich)다. 아무에게도 사랑받지 못하는 파니는 끝내 사랑하고 사랑받을 수 있을까?...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023010747439579.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기후위기 해법 “우리가 연결되어 있음을 인식하는 것”]]></title>
-            <link>https://ildaro.com/9528</link>
-            <guid>https://ildaro.com/9528</guid>
-            <pubDate>Sun, 15 Jan 2023 07:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[“최근에는 귀농한 사람들 중에서 소규모로 농사짓는 분들이 많이 가입해요. 다른 판로를 찾기 어려운데, 여기서 팔 수 있으니까요.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023010505471176.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
