@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 11:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 12:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘나쁜X’이 되기로 한 자매들의 연대 ‘배드 시스터즈’]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202301311646001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202301311646001</guid>
+            <pubDate>Tue, 31 Jan 2023 12:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[한 남성이 관에 누워있습니다. 그의 이름은 존 폴 윌리엄스(클레스 방). 아내 그레이스(앤 마리 더프)는 그의 뺨을 쓰다듬으며 눈물을 훔칩니다. 이윽고 그레이스의 네 자매가 모입니다. 누군가 자매 중 첫째인 에바(샤론 호건)에게 위로를 건네자 에바는 답합니다. “고통이 끝나서 기뻐요.” “고인에게 병이 있었나요?” “아뇨.”애플 티비의 오리지널 시리즈 &lt;배드 시스터즈&gt;는 아일랜드에서 온 무시무시한 블랙 코미디입니다. 수도 더블린에서 조금 떨어진 소도시를 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/01/31/news-p.v1.20230131.3252eb2d28fb42678be52bd3dd6afa21_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“페미니즘 토론모임 모집” 게시글 모두 삭제한 ‘에브리타임’]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202301311022001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 26 Jan 2023 10:12:25 GMT</pubDate>
             <content:encoded><![CDATA[전업 작가로 살아가는 나의 삶은 대개 평온하다. 하루 일과는 단순하고 루틴이 잡혀 있다. 가정생활을 제외하고는 글을 쓰거나, 글을 쓰기 위한 운동과 독서로 채워진다. 최대한 많은 것들을 단순화시키고 변수를 억제해서 내 컨디션을 좋은 상태로 유지하지 못하면 꾸준히 글을 써서 책을 내는 일은 불가능하기 때문이다.하지만 그렇게 사는 나도 때로는 컨디션이 총체적으로 훅 무너질 때가 있다. 그럴 때는 우선 다음의 체크리스트를 살피며 자가진단을 해본다.1. 호르몬...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/01/25/news-p.v1.20230120.75667037bfce40d3b5683692c64b3bf6_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“인생 마지막 순간까지도 표현하는 게 배우” 철칙 그대로였던 윤정희의 삶]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202301201736001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202301201736001</guid>
-            <pubDate>Fri, 20 Jan 2023 13:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[영화배우 윤정희씨(본명 손미자)가 19일(현지시간) 프랑스 파리에서 별세했다. 향년 79세. 고인은 2017년 알츠하이머 진단을 받고 투병해왔다.남편인 피아니스트 백건우씨는 이날 “제 아내이자 오랜 세월 대중들의 사랑을 받아온 배우 윤정희가 19일 오후 5시, 딸 진희의 바이올린 소리를 들으며 꿈꾸듯 편안한 얼굴로 세상을 떠났다”며 “생전 진희 엄마의 뜻에 따라 장례는 파리에서 가족과 함께 조용하게 치를 예정”이라고 기자들에게 보낸 e메일을 통해 알렸다. 백씨는 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/01/20/news-p.v1.20230120.e6bc6399752a4cf584886902c2f0d346_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
