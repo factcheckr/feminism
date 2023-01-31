@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 12:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 13:26:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Her Eyes, Her Cart]]></title>
+            <link>https://ildaro.com/9549</link>
+            <guid>https://ildaro.com/9549</guid>
+            <pubDate>Tue, 31 Jan 2023 13:26:33 GMT</pubDate>
+            <content:encoded><![CDATA[In front of, and defending, the political-economic structure that determines our lives and defines the context of human relationships, there is the micropolitical structure that helps maintain it....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023013130039779.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“니 LGBT가?” 이후, 우린 더 나아갈 수 있다!]]></title>
             <link>https://ildaro.com/9548</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 30 Jan 2023 18:20:47 GMT</pubDate>
             <content:encoded><![CDATA[〈마음의 통역자들〉을 통해 알게 되는 수어의 세계는 놀라움의 연속이다. 우선, 배우와 같은 의상을 입고 무대에 서서 배우처럼 몸으로 표현하는 통역사들의 모습에...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023010800163558.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아무것도 후회하지 않는 삶이 가능하다면]]></title>
-            <link>https://ildaro.com/9529</link>
-            <guid>https://ildaro.com/9529</guid>
-            <pubDate>Sat, 07 Jan 2023 09:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[〈파니 핑크〉의 원제는 “아무도 날 사랑하지 않아”(Keiner Liebt Mich)다. 아무에게도 사랑받지 못하는 파니는 끝내 사랑하고 사랑받을 수 있을까?...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023010747439579.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
