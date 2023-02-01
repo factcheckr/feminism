@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 01:08:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 02:55:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/2eb87f26-372b-4b50-87d1-6c3154cb6d07.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[먹고 토하는 이야기로 누가 논문을 써?! (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9550</link>
+            <guid>https://ildaro.com/9550</guid>
+            <pubDate>Wed, 01 Feb 2023 10:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[나는 일하는 시간을 제외하면, 섭식장애가 가장 심했던 때와 비슷하게 혹은 더 심하게 폭식과 구토를 반복하고 있었다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/202302015758168.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Her Eyes, Her Cart (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9549</link>
             <guid>https://ildaro.com/9549</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 30 Jan 2023 17:13:50 GMT</pubDate>
             <content:encoded><![CDATA[가족의 정의는 동사가 되어야 합니다. 함께 살고, 함께 돌보고, 함께 부양하고, 함께 양육하기로 하고, 실제로 함께 양육하고 있는 사람들의 관계를 보호하기 위해서 정...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023010929135960.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘마음의 통역자들’이 펼치는 이 멋진 세계! (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9530</link>
-            <guid>https://ildaro.com/9530</guid>
-            <pubDate>Mon, 30 Jan 2023 17:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[〈마음의 통역자들〉을 통해 알게 되는 수어의 세계는 놀라움의 연속이다. 우선, 배우와 같은 의상을 입고 무대에 서서 배우처럼 몸으로 표현하는 통역사들의 모습에...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023010800163558.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
