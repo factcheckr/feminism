@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 12:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 13:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/2eb87f26-372b-4b50-87d1-6c3154cb6d07.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[정년까지 일할 수 있게만 해달라며 양보했는데 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9551</link>
+            <guid>https://ildaro.com/9551</guid>
+            <pubDate>Thu, 02 Feb 2023 13:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[회사가 원하는 사직서 대신 금속노조 가입서를 써서 내밀자, 수원사업장은 폐쇄되지 않았다. 난희 씨 인생에 획기적인 사건이었다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023020232084501.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[먹고 토하는 이야기로 누가 논문을 써?! (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9550</link>
             <guid>https://ildaro.com/9550</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 30 Jan 2023 17:13:50 GMT</pubDate>
             <content:encoded><![CDATA[The words of an employee of a subcontracting business: “Ms. OO, we’re in a difficult situation these days, too”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023011053222804.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족의 정의는 동사가 되어야 한다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9531</link>
-            <guid>https://ildaro.com/9531</guid>
-            <pubDate>Mon, 30 Jan 2023 17:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[가족의 정의는 동사가 되어야 합니다. 함께 살고, 함께 돌보고, 함께 부양하고, 함께 양육하기로 하고, 실제로 함께 양육하고 있는 사람들의 관계를 보호하기 위해서 정...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023010929135960.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
