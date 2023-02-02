@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 03:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 04:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이란, 거리에서 춤춘 커플에 징역 10년…“부패·성매매 조장”]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202302021112001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202302021112001</guid>
+            <pubDate>Thu, 02 Feb 2023 04:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[이란의 랜드마크 앞에서 춤을 춘 20대 이란 커플이 춤 영상을 사회관계망서비스(SNS)에 올렸다가 중형을 선고받았다.BBC, 가디언 등은 31일(현지시간) 이란 인권운동가통신(HRANA)을 인용해 아스티아즈 하키키(21)와 아미르 모하마드 아마디(22)가 이란 수도 테헤란에 위치한 아자디 타워에서 춤을 춘 혐의로 10년형을 선고받았다고 보도했다. 두 사람의 혐의는 ‘부패와 성매매를 조장하고 국가 안보에 반하는 선전 행위를 한 혐의’로 알려졌다. HRANA는 이들이 변호사를 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/02/02/news-p.v1.20230202.04f2ba12c9c54bf38e58ae32eba27c3f_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘인신매매방지법’ 유엔 회원국 권고는 빼고, 칭찬만 부각한 법무부]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202302011619011</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 26 Jan 2023 10:12:25 GMT</pubDate>
             <content:encoded><![CDATA[미국 CNN방송이 최근 한국에서 여성 주인공이 전면에 등장하는 드라마가 증가하고 있다며 여성 캐릭터의 서사가 크게 변화했다고 보도했다.CNN은 15일(현지시간) 넷플릭스에서 가장 인기 있는 비영어권 TV시리즈 6위를 기록한 드라마 &lt;이상한 변호사 우영우&gt;를 언급하며 K-드라마가 여성을 묘사하는데 있어 상당히 진전했다고 평가했다. KBS가 발표한 수치에 따르면, 2021년 드라마 주인공 중 53% 이상이 여성이었다.한국 드라마 속 여성 캐릭터의 변화&lt;이상한 변호...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/01/26/news-p.v1.20230118.bbb0bd9d78b34d2685bc2c39805a04f1_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성별 갈라치기에 기댄 포퓰리즘, ‘여성 민방위 훈련’]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202301261028001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202301261028001</guid>
-            <pubDate>Thu, 26 Jan 2023 10:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;※이 기사는 2023년 1월24일자 경향신문 사설 ‘김기현의 ‘여성 민방위 훈련’, 이대남 표퓰리즘 아닌가’ 다시 꺼냈나’를 재가공하였습니다.&gt;김기현 국민의힘 의원이 설연휴(22~24일) 내내 여성 군사기본훈련 도입을 위해 민방위기본법 개정안을 내겠다고 밝혔다. 현재 만 20~40세 남성이 받는 민방위 훈련을 여성으로 확대해 심폐소생술과 산재·화생방 대비, 교통·소방 안전 교육 등을 이수토록 하자고 했다. 30여년 전 없어진 교련 교육을 성인 여성에 부활하겠다는 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/01/26/news-p.v1.20230126.ff63b06fcfa24a028a3d0f77373a3b74_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
