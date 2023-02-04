@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Feb 2023 00:57:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Feb 2023 02:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[불안이 영혼을 잠식하게 두어선 안 된다]]></title>
+            <link>https://ildaro.com/9552</link>
+            <guid>https://ildaro.com/9552</guid>
+            <pubDate>Sat, 04 Feb 2023 09:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[젊은 여성과 나이 차가 많이 나는 연상 남성의 결혼은 쉽게 용인되고 ‘도둑놈’ 소리를 농담으로 주고받지만, 반대의 경우 그렇지 못하다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023020401479785.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정년까지 일할 수 있게만 해달라며 양보했는데]]></title>
             <link>https://ildaro.com/9551</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 11 Jan 2023 09:29:00 GMT</pubDate>
             <content:encoded><![CDATA[섭식장애는 정상성을 거부하는 강력한 반동행위이기도 하다. 섭식장애 환자는 모두가 당연하다고 여기는-먹고, 마시고, 배설하는- 것을 하지 않는다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023011136037671.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Unjust Market: Meeting with People Working at Subcontracting Companies]]></title>
-            <link>https://ildaro.com/9532</link>
-            <guid>https://ildaro.com/9532</guid>
-            <pubDate>Mon, 30 Jan 2023 18:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[The words of an employee of a subcontracting business: “Ms. OO, we’re in a difficult situation these days, too”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023011053222804.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
