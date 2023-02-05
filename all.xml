@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 01:05:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 02:49:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/2eb87f26-372b-4b50-87d1-6c3154cb6d07.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘외부세력’ 취급받는 대학 페미니스트 A로부터 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9553</link>
+            <guid>https://ildaro.com/9553</guid>
+            <pubDate>Sun, 05 Feb 2023 11:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[학내에 게시한 대자보, 학내 커뮤니티에서 발언하는 여성, 페미니스트 학우들의 목소리는 “외부 여성단체, 여초 커뮤니티, 빨갱이들이 아이디 사서 벌인 공작”이라...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023020507562330.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[불안이 영혼을 잠식하게 두어선 안 된다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9552</link>
             <guid>https://ildaro.com/9552</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 30 Jan 2023 17:13:50 GMT</pubDate>
             <content:encoded><![CDATA[무지개집은 “대문을 열고 들어서자마자 신발을 벗어야 하는” 구조다. 5층에 사는 사람도 1층 현관에서 신발을 벗고 올라간다는 거다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/202301125902787.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[섭식장애와 함께한 15년 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9533</link>
-            <guid>https://ildaro.com/9533</guid>
-            <pubDate>Wed, 11 Jan 2023 09:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[섭식장애는 정상성을 거부하는 강력한 반동행위이기도 하다. 섭식장애 환자는 모두가 당연하다고 여기는-먹고, 마시고, 배설하는- 것을 하지 않는다...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023011136037671.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
