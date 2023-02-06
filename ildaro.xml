@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 06:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 07:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[직장내 성폭력 피해자의 현수막 “나는 지지 않았다”]]></title>
+            <link>https://ildaro.com/9554</link>
+            <guid>https://ildaro.com/9554</guid>
+            <pubDate>Mon, 06 Feb 2023 07:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[“이 사건 원심을 파기한다.” 나는 꺄악 터져나오는 입을 틀어막고 뛰어나와 차마 법정에 오지 못한 의뢰인 김원경 씨에게 전화를 걸었다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023020620263349.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘외부세력’ 취급받는 대학 페미니스트 A로부터]]></title>
             <link>https://ildaro.com/9553</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 30 Jan 2023 18:20:47 GMT</pubDate>
             <content:encoded><![CDATA[“마흔에 제가 임신했을 때, 어머니와 의사가 함께 임신중단을 권했어요. 의사는 장애아를 낳을 가능성이 있다는 이유로, 어머니는 제가 장애가 있는데 육아를 할 수 ...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023011435043853.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리에겐 더 많은 무지개집이 필요하다]]></title>
-            <link>https://ildaro.com/9534</link>
-            <guid>https://ildaro.com/9534</guid>
-            <pubDate>Mon, 30 Jan 2023 18:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[무지개집은 “대문을 열고 들어서자마자 신발을 벗어야 하는” 구조다. 5층에 사는 사람도 1층 현관에서 신발을 벗고 올라간다는 거다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/202301125902787.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
