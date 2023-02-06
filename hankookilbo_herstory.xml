@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 22:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 23:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["섹스할 권리는 없다"]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1184</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1184</guid>
+            <pubDate>Mon, 06 Feb 2023 23:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 지난 뉴스레터에서 예고한 바와 같이, 여성의 자유롭고 안전한 섹슈얼리티를 위해서 우리에겐 어떤 논의들이 더 필요한지 한 발자국 더 들어가 보겠습니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/76f27b94-a241-4dc3-a22b-6f1375668c44.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NO means NO!!!]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1177</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 30 Jan 2023 18:20:29 GMT</pubDate>
             <content:encoded><![CDATA['제2의 N번방'이 세상에 드러났습니다. 아니, '제N의 N번방'이라고 하는 것이 더 맞을 것입니다. 지난해 '박사방'과 'N번방'을 운영하며 성착취를 했던 조주빈과 갓갓이 실형을 확정받았지만, 그 이후로도 텔레그램 내 성착취 생태계는 여전히 작동하고 있습니다. 세상에 알려지지 않은 크고 작은 '성착취 범죄 현장'이 존재하고 있기 때문이죠. 오늘은 현재 공론화되고 경찰이 수사 중인 이번 사안을 편의상 '제2의 N번방'으로 부르겠습니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/ce75ce93-a9ac-4c79-a5ec-ff0ea4dd0358.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["한국 여성에 결혼이민을 허하라"]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1005</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1005</guid>
-            <pubDate>Mon, 30 Jan 2023 18:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[0.75명. 올해 2분기 합계출산율(한 여성이 평생 낳을 것으로 예상되는 출생아 수)입니다. 단연 세계에서 가장 낮은 수준이며 OECD 회원국 중 합계출산율이 1명 이하인 유일한 국가입니다. 예상하지 못했던 흐름은 아니지만, 한국 사회는 비상입니다. 이런 흐름대로라면 올해 연간 출생아는 25만 명보다 적을 것으로 관측됩니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/2eb87f26-372b-4b50-87d1-6c3154cb6d07.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
