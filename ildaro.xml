@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 01:04:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 02:35:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맛있게 먹은 오늘 급식, 누가 만들어줬나요?]]></title>
+            <link>https://ildaro.com/9558</link>
+            <guid>https://ildaro.com/9558</guid>
+            <pubDate>Fri, 10 Feb 2023 10:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[학기 초, 우리 학교의 급식실 앞에 학생 동아리에서 붙여 놓은 설문 포스터가 있었다. 우리에게 점심 급식을 해주시는 분들을 어떻게 부르고 있는지에 대한 설문조사였...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023021004019040.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나는 아이돌 데뷔도, 섭식장애 탈출도 실패했다]]></title>
             <link>https://ildaro.com/9556</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 18 Jan 2023 09:18:00 GMT</pubDate>
             <content:encoded><![CDATA[‘여성적 어조’라는 문학 용어와 함께 오랜 세월 시 ⌜진달래꽃⌟을 해석하는 데에 절대적인 기준처럼 여겨졌다. 그러나 우리는 시를 다시 한번 꼼꼼하게 읽어볼 필...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/202301182301413.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아직도 자주 몸무게를 잰다]]></title>
-            <link>https://ildaro.com/9537</link>
-            <guid>https://ildaro.com/9537</guid>
-            <pubDate>Mon, 30 Jan 2023 18:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[모두가 ‘먹는 행위’를 기형적으로 수행하고 있는 것으로 보인다. 어째서일까. 인류의 식이생활이 균형점을 잃은 것처럼 느껴진다고 하면 너무나 큰 과장일까?...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023011636003685.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
