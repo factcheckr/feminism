@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Feb 2023 08:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Feb 2023 09:14:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/ce75ce93-a9ac-4c79-a5ec-ff0ea4dd0358.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[농업과 먹거리 이슈가 필수 교육 과정이 된다면 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9560</link>
+            <guid>https://ildaro.com/9560</guid>
+            <pubDate>Sun, 12 Feb 2023 09:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[중요한 것은 이런 교육이 농부를 만들려고 하는 게 아니라는 점이다. 바로 “농업을 잘 이해하고 바른 선택을 하는 소비자를 양성하는 게 목적”이라는 것....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023021247135233.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘농촌 소멸’ 도시에선 위기감 느끼지 못하는 것 같아요 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9559</link>
             <guid>https://ildaro.com/9559</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 30 Jan 2023 17:13:50 GMT</pubDate>
             <content:encoded><![CDATA[‘어떤 직업은 그렇게까지 버틸 이유가 없다’고 말하는 세상을 향해 자신들의 존엄을 증명하기 위해 싸운다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023012029431957.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Cold Reality of Standing on One’s Own (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9539</link>
-            <guid>https://ildaro.com/9539</guid>
-            <pubDate>Mon, 30 Jan 2023 17:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[So it was that when she came to live at Yeollimteo, what she wanted most was help developing the strength to stand on her own....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023011900428572.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
