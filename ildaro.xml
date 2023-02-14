@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 02:28:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 03:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MZ세대 콜센터 상담원이 노조 활동하는 이유]]></title>
+            <link>https://ildaro.com/9561</link>
+            <guid>https://ildaro.com/9561</guid>
+            <pubDate>Tue, 14 Feb 2023 10:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[“대한민국에서 노조 가입율이 10%대에 불과하잖아요. 50대 언니들도 이렇게 열심히 투쟁하는데, 할 말 다 한다는 MZ세대도 당당하게 자기 권리 찾으며 살았으면 좋겠어...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023021456448583.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[농업과 먹거리 이슈가 필수 교육 과정이 된다면]]></title>
             <link>https://ildaro.com/9560</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 30 Jan 2023 18:20:47 GMT</pubDate>
             <content:encoded><![CDATA[배우에게 그런 기회가 주어지면, 연기력을 뽐내기 위해 유명한 희곡의 독백 같은 걸 하거든요. 근데 극단 애인에선 자신의 생애를 이야기했다는 거....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023012152528979.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위로금 준다는데 콜센터 상담원이 왜 안 나가고 버티냐고?]]></title>
-            <link>https://ildaro.com/9540</link>
-            <guid>https://ildaro.com/9540</guid>
-            <pubDate>Mon, 30 Jan 2023 18:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[‘어떤 직업은 그렇게까지 버틸 이유가 없다’고 말하는 세상을 향해 자신들의 존엄을 증명하기 위해 싸운다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023012029431957.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
