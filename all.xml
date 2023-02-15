@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 09:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 10:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/948e3d3e-6562-4b61-b848-6ab1b5136bad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[페미니즘 실종된 대학 커뮤니티, 성폭력 해결 못해 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9562</link>
+            <guid>https://ildaro.com/9562</guid>
+            <pubDate>Wed, 15 Feb 2023 10:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[2차 가해성 게시글은 사건 초기에 비해 확연히 줄었지만, 성폭력 사건을 젠더 관점에서 해석하는 시도에 대해 ‘꼴페미’라며 공격하는 글, 학교 입시 결과가 안 좋아...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023021525213052.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[MZ세대 콜센터 상담원이 노조 활동하는 이유 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9561</link>
             <guid>https://ildaro.com/9561</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 22 Jan 2023 00:44:00 GMT</pubDate>
             <content:encoded><![CDATA[장애를 가지고 비장애 중심 사회를 살아간다는 자체가, 계속 ‘나도 여기 존재하고 있다’는 것을 확인시키는 일인 것 같아요. 이 과정이 그냥 제 삶이에요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023012254302975.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극으로 만난 비장애인과 장애인의 ‘어수선한’ 연결 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9541</link>
-            <guid>https://ildaro.com/9541</guid>
-            <pubDate>Mon, 30 Jan 2023 17:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[배우에게 그런 기회가 주어지면, 연기력을 뽐내기 위해 유명한 희곡의 독백 같은 걸 하거든요. 근데 극단 애인에선 자신의 생애를 이야기했다는 거....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023012152528979.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
