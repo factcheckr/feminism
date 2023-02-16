@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 10:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 11:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Working Overtime at Night is Neither a Value nor a Kind of Culture]]></title>
+            <link>https://ildaro.com/9563</link>
+            <guid>https://ildaro.com/9563</guid>
+            <pubDate>Thu, 16 Feb 2023 11:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[“Nobody has left work yet, but you dare to say ‘I will leave first’?(A common way of saying “goodbye” in Korean) What a brave person!”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023021649526224.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[페미니즘 실종된 대학 커뮤니티, 성폭력 해결 못해]]></title>
             <link>https://ildaro.com/9562</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 30 Jan 2023 18:20:47 GMT</pubDate>
             <content:encoded><![CDATA[나는 섭식장애와 여성의 몸을, 그 지긋지긋한 곳을, 결코 벗어날 수 없다는 사실을 깨닫는다. 그곳이 내가 살고 있는 곳이고, 나를 살린 곳이기 때문이다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023012310214786.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비장애인과 장애인이 ‘함께’ 연극할 수 있는 환경을 위해]]></title>
-            <link>https://ildaro.com/9542</link>
-            <guid>https://ildaro.com/9542</guid>
-            <pubDate>Sun, 22 Jan 2023 00:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[장애를 가지고 비장애 중심 사회를 살아간다는 자체가, 계속 ‘나도 여기 존재하고 있다’는 것을 확인시키는 일인 것 같아요. 이 과정이 그냥 제 삶이에요....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023012254302975.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
