@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Feb 2023 11:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2023 12:24:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/948e3d3e-6562-4b61-b848-6ab1b5136bad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[당사자들이 말하는 “납작하지 않은 섭식장애” (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9565</link>
+            <guid>https://ildaro.com/9565</guid>
+            <pubDate>Sat, 18 Feb 2023 12:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[어떤 불행의 원인이 당사자 자신에게 있다고 여겨질 때, 사람들은 뿌린 대로 거둔다는 생각으로 그들의 불행을 외면해 버리는 경향이 있습니다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023021820015717.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[마른 몸, 밝은 피부의 ‘팝 스타’만 보고 컸지만… (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9564</link>
             <guid>https://ildaro.com/9564</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 30 Jan 2023 17:13:50 GMT</pubDate>
             <content:encoded><![CDATA[함께 살며 서로를 보살피는 내 가족을 “내 가족”이라고, 내가 사랑하는 사람이라고 앞으로도 당당하게 말하겠습니다. 한국의 정치는 어서 따라오십니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/202301264026932.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘콜센터 그언니’ 잊지 못할 일 년이었다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9544</link>
-            <guid>https://ildaro.com/9544</guid>
-            <pubDate>Wed, 25 Jan 2023 10:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[상담사들이 요구한 것은 하나였다. ‘이 고장에서 일할 수 있게만 해달라’는 것. ‘그렇게 하겠다’던 회사는 3년이 지나자 말을 바꿨다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023012512325115.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
