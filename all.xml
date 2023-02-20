@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 14:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 15:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/948e3d3e-6562-4b61-b848-6ab1b5136bad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[동거인과 반려묘와 나 ‘우리는 가족입니다’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9567</link>
+            <guid>https://ildaro.com/9567</guid>
+            <pubDate>Mon, 20 Feb 2023 15:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[얼마 전 남동생의 결혼식이 있어 동거인과 함께 참석했지만, 다들 제 동거인을 가족이라기보다 ‘함께 사는 친구’로 바라볼 뿐입니다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023022051339968.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[페미니스트와 퀴어가 애쓰지 않아도 되는 헬스장 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9566</link>
             <guid>https://ildaro.com/9566</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 30 Jan 2023 17:13:50 GMT</pubDate>
             <content:encoded><![CDATA[같은 집이나 같은 건물 혹은 같은 마을에서 서로 돌보고 살 수 있으려면, 개인적인 노력뿐만 아니라 법과 제도의 보호가 필요한데, 사회에서는 우리를 남남 취급합니다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023012949105905.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘성평등한 대학’이라는 환상 속에 은폐되는 성폭력 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9546</link>
-            <guid>https://ildaro.com/9546</guid>
-            <pubDate>Sat, 28 Jan 2023 08:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[인하대학교 성폭력 사망사건에서 드러난 대학 사회의 문제점을 더 면밀히 바라보고 더 깊게 이야기 나눌 수 있는 공간을 간절하게 바랐다...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023012803452725.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
