@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 08:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 09:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우크라이나 전쟁 1년, 가족을 잃고 혼자 살아남은 스비틀라나의 기도]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202302231726001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202302231726001</guid>
+            <pubDate>Thu, 23 Feb 2023 09:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[지난 19일(현지시간) 우크라이나 수도 키이우 시외버스 터미널에서 체르니히우로 향하는 버스를 탔다. 체르니히우에 도착하기까지 2시간30분 동안 세 번의 검문을 거쳐야했다. 도로를 지키던 군인들은 버스를 세우고 승객들에게 “신분증을 보여달라”고 요구할 때 메고 있던 총신을 살짝 들어올린다. 총구가 아주 잠시 내 쪽을 겨냥했을 뿐인데도 심장이 조여드는 듯했다.체르니히우는 키이우에서 북쪽으로 약 150㎞, 벨라루스 국경에서 남쪽으로 약 70㎞ 떨어져 있다...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/02/23/news-p.v1.20230223.a222cf9434f647f39a8f714aad12f2aa_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[15년간 280조원 쏟아붓고도 ‘저출생 현상’은 계속]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202302231008001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 17 Feb 2023 16:17:09 GMT</pubDate>
             <content:encoded><![CDATA[요즘 또래들을 만나면 하나같이 ‘봤어?’로 대화를 시작한다. 영화 &lt;슬램덩크&gt; 이야기다. 중학생 시절의 나와 슬램덩크는 곳곳에서 추억으로 엮여 있다. 교통사고를 당했을 때 지루한 물리치료를 견디게 해준 것도 슬램덩크였고, 친구들이 집에 왔을 때 은근슬쩍 뽐내던 것도 책장에 순서대로 꽂힌 그 만화책이었다. 잘생긴 엘리트지만 차가운 서태웅파인지, 열정과 의지의 마초맨 정대만파인지는 우리들의 상상연애담에서 빠질 수 없는 주제이기도 했다. 하여튼 그땐 정...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/02/16/news-p.v1.20230216.2ae058698d064da3be1e44cfd83fb241_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“친조부모 사망에만 주는 경조금, 부계혈동주의서 비롯된 차별”]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202302161012001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202302161012001</guid>
-            <pubDate>Fri, 17 Feb 2023 16:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[국가인권위원회가 외조부모를 제외하고 친조부모 사망 시에만 경조금과 경조휴가를 주기로 한 회사 규정은 “부계혈통주의에서 비롯된 차별 행위”에 해당한다고 판단했다.인권위는 14일 주식회사인 A 회사 대표이사에게 친조부모뿐만 아니라 외조부모 상사에도 직원에게 경조휴가와 경조금을 주도록 회사 규정을 개정할 것을 권고했다고 밝혔다.앞서 A 회사 직원 B씨는 친조부모 사망 시에만 경조휴가 3일과 경조금 25만 원을 주는 것이 차별이라며 인권위에 진정을 제기했다.A...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/02/16/news-p.v1.20230215.b1cead649de5456ca75265fa6d590fc9_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
