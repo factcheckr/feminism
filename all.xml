@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 11:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 12:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/da1966a6-c395-4af7-9275-93cb4854b8cd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[네 ‘이웃’을 가두거나 쫓아내지 말라 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9570</link>
+            <guid>https://ildaro.com/9570</guid>
+            <pubDate>Fri, 24 Feb 2023 12:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[한사람 한사람을 ‘있는 그대로’ 바라보았으면 좋겠어요. 내가 만난 그들은 그냥 나의 이웃일 뿐이었고, 행복할 권리가 있는 소중한 한 사람이었어요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023022455171087.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘섭식장애’ 우리의 문제라는 생각을 가졌으면 좋겠어요 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9569</link>
             <guid>https://ildaro.com/9569</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 01 Feb 2023 10:47:00 GMT</pubDate>
             <content:encoded><![CDATA[나는 일하는 시간을 제외하면, 섭식장애가 가장 심했던 때와 비슷하게 혹은 더 심하게 폭식과 구토를 반복하고 있었다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/202302015758168.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Her Eyes, Her Cart (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9549</link>
-            <guid>https://ildaro.com/9549</guid>
-            <pubDate>Tue, 31 Jan 2023 13:26:33 GMT</pubDate>
-            <content:encoded><![CDATA[In front of, and defending, the political-economic structure that determines our lives and defines the context of human relationships, there is the micropolitical structure that helps maintain it....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202301/2023013130039779.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
