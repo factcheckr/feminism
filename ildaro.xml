@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 03:25:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 04:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여러 가지 사랑의 형태와 문학 수업]]></title>
+            <link>https://ildaro.com/9571</link>
+            <guid>https://ildaro.com/9571</guid>
+            <pubDate>Sun, 26 Feb 2023 11:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[표준국어대사전에서 ‘사랑’의 뜻풀이를 찾아보면 그중 ‘남녀 간에 그리워하거나 좋아하는 마음. 또는 그런 일.’이라고 정의된 문장이 앞선다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023022658485339.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네 ‘이웃’을 가두거나 쫓아내지 말라]]></title>
             <link>https://ildaro.com/9570</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 02 Feb 2023 13:23:43 GMT</pubDate>
             <content:encoded><![CDATA[회사가 원하는 사직서 대신 금속노조 가입서를 써서 내밀자, 수원사업장은 폐쇄되지 않았다. 난희 씨 인생에 획기적인 사건이었다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023020232084501.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먹고 토하는 이야기로 누가 논문을 써?!]]></title>
-            <link>https://ildaro.com/9550</link>
-            <guid>https://ildaro.com/9550</guid>
-            <pubDate>Wed, 01 Feb 2023 10:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[나는 일하는 시간을 제외하면, 섭식장애가 가장 심했던 때와 비슷하게 혹은 더 심하게 폭식과 구토를 반복하고 있었다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/202302015758168.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
