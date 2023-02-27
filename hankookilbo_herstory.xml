@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 22:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 23:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[직업 성벽을 허무는 사람들의 이야기]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1205</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1205</guid>
+            <pubDate>Mon, 27 Feb 2023 23:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 '성(性)벽'을 부수고 직업 세계에서 자신만의 이야기를 만들어 가는 이들을 만나고 왔습니다. 최근 '간호사가 되기로 했다'를 쓴 세브란스병원 간호국의 남성 간호사들과, 직업 에세이 '오진다 오력'을 쓴 일등 항해사 김승주씨가 그 주인공이에요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/1ab1687d-daf9-4941-bc08-e5d33f991be5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["성범죄 고소 해결해 드립니다"]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1199</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 30 Jan 2023 18:20:29 GMT</pubDate>
             <content:encoded><![CDATA[오늘 허스펙티브 뉴스레터는 지난 2주간의 '뉴스'가 아닌, 한국일보의 콘텐츠와 이를 만드는 여성 기자들을 소개하는 것으로 문을 열게요. 여러분도 잘 아시다시피, 허스펙티브는 기자 1인이 운영하는 실험 조직이라 할 수 있는데요. 그렇다 보니 '더 잘 할 수 없을까'하고 한계를 자주 절감한답니다. 외로움도 물론 있고요. 이런 제게 으쌰 으쌰 힘을 더해주는 순간이 있습니다. 바로 한국일보의 동료들이 만들어낸 좋은 기사와 콘텐츠를 발견할 때입니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/88f6c93c-caf2-469e-9f46-681dac9bc649.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이보다 더 알찰 수 없는 뉴스레터]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1065</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1065</guid>
-            <pubDate>Mon, 30 Jan 2023 18:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 정부의 '여성가족부 폐지'가 지난 2주 사이 가장 큰 이슈였습니다. 20~30퍼센트에 머물러 있는 윤 정부가 재차 '여가부 폐지' 카드를 꺼내는 것은 당연한 수순으로 여겨집니다. 특히 최근 '바이든-날리면' 비속어 음성 논란으로 코너에 몰린 만큼, 위기 국면을 타개하기 위해 여가부 폐지를 서두른다는 분석도 나옵니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/da1966a6-c395-4af7-9275-93cb4854b8cd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
