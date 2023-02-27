@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 01:00:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 02:28:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한동훈과 통화 후 뒤집어진 ‘비동의강간죄’, 김현숙 국회서 ‘진땀’]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202302271004001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202302271004001</guid>
+            <pubDate>Mon, 27 Feb 2023 02:26:39 GMT</pubDate>
+            <content:encoded><![CDATA[김현숙 여성가족부 장관이 23일 “동의 없는 성관계가 강간인 건 맞다”면서 “국회에서 여야가 합의해 ‘비동의 간음죄’(비동의 강간죄)에 대해 논의를 해서 통과 시켜 준다면 여가부는 수용할 생각이 있다”고 말했다.여성가족위원회 소속 의원들은 이날 오후 국회에서 열린 제1차 전체회의에서 여가부가 제3차 양성평등기본계획에서 비동의 강간죄 도입을 유보한 것에 대해 김 장관을 비판했다. 김 장관은 “기본계획을 철회한 게 아니라 사회적 논의가 더 필요한 부분에 대...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/02/27/news-p.v1.20230216.35f80bdba21c41c8901b7a4c2b08ab8f_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남성 직원 많을수록 최종합격자 남성 비율도 함께 상승]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202302241006031</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 20 Feb 2023 07:12:01 GMT</pubDate>
             <content:encoded><![CDATA[“(간음에 있어) 피해자의 동의가 없었다 하더라도 피고인의 행위는 군형법상 강간죄 또는 강제추행죄의 구성요건인 폭행·협박이 없었다.”해군 장교 A씨는 성폭행 사실을 신고한 2017년부터 6년간 줄곧 위 문장과 싸웠다. 2010년 1차 평정권자이자 직속 상관 B씨는 성소수자인 A를 성폭행했다. 이로 인해 임신한 A씨는 중절 수술을 받은 뒤 함장 C씨에게 피해 사실을 알렸다. 그러나 C씨는 상담을 빌미로 A씨를 성폭행했다. B씨는 A씨의 명시적 동의가 없었더라도 폭행·...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/02/20/news-p.v1.20230220.d59b6d4dfc8b4f2d8af867aa7c679dec_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지지 않으려는 여자들]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202302201009001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202302201009001</guid>
-            <pubDate>Mon, 20 Feb 2023 07:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;아라한 장풍 대작전&gt;엔 봉인된 악의 기운과 맞서는 히어로 ‘마루치’와 ‘아라치’가 등장한다. 영화는 ‘어리버리하지만’ 정의로운 순경 상환이 자기 안에 숨겨진 힘을 찾아 영웅으로 각성한다는 마루치의 성장담이 중심이다. 하지만 중학생 때 이 영화를 본 나는 자신을 희롱하는 치한들을 기세만으로 제압하고, 덩치 큰 폭력배에게 장풍을 쏴서 물리치며, 어둠의 세력을 잡기 위해 고층빌딩 위를 겅중겅중 뛰어다니던 ‘아라치’ 의진에게 더 큰 매력을 느꼈...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/02/20/news-p.v1.20230217.bdc6bcd5ba1e474ca15e1960f1c5c302_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
