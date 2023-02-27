@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 05:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 06:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[못생겼다고 버림받는 농산물 ‘파치’들의 해방일지]]></title>
+            <link>https://ildaro.com/9572</link>
+            <guid>https://ildaro.com/9572</guid>
+            <pubDate>Mon, 27 Feb 2023 06:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[파치로, 못난이로 불리는 나.  누가? 왜? 누가 우리를 쓸모없게 하는가? 같이 자라고 같이 수확되지만 외모와 크기를 기준으로 쓸모없는 것으로 구분된다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023022731597175.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여러 가지 사랑의 형태와 문학 수업]]></title>
             <link>https://ildaro.com/9571</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 04 Feb 2023 09:57:00 GMT</pubDate>
             <content:encoded><![CDATA[젊은 여성과 나이 차가 많이 나는 연상 남성의 결혼은 쉽게 용인되고 ‘도둑놈’ 소리를 농담으로 주고받지만, 반대의 경우 그렇지 못하다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023020401479785.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정년까지 일할 수 있게만 해달라며 양보했는데]]></title>
-            <link>https://ildaro.com/9551</link>
-            <guid>https://ildaro.com/9551</guid>
-            <pubDate>Thu, 02 Feb 2023 13:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[회사가 원하는 사직서 대신 금속노조 가입서를 써서 내밀자, 수원사업장은 폐쇄되지 않았다. 난희 씨 인생에 획기적인 사건이었다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023020232084501.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
