@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 01:01:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 02:24:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엘살바도르, 여성 살해 범죄 ‘공소시효 폐지’ 법안 통과]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202302280959011</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202302280959011</guid>
+            <pubDate>Tue, 28 Feb 2023 02:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[엘살바도르 정부가 페미사이드 범죄에 대한 공소시효를 폐지해 오랜 시간이 흘러도 언제든지 형사 소송을 제기할 수 있도록 했다.중남미 매체 인포바에 등에 따르면 엘살바도르 의회는 21일(현지시간) 본회의에서 기존 15년이었던 여성 살해 범죄에 대한 공소시효를 아예 없애는 내용이 담긴 형사소송법 개정안을 통과시켰다. 전체 의원 84명 중 76명의 압도적인 찬성으로 법안이 가결됐다.이에 따라 앞으로 검찰은 페미사이드 관련 혐의에 대해서는 시효에 상관없이 언제든 기...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/02/28/news-p.v1.20230227.766b89f007cd4fbc8e73becaeb9ed815_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘헌법의 원칙’ 말하는 학생인권조례, 폐지 아닌 확대돼야]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202302271621001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 21 Feb 2023 09:12:26 GMT</pubDate>
             <content:encoded><![CDATA[동성 커플의 건강보험 피부양자 자격을 인정한 법원 판결이 나왔다.서울고법 행정1-3부(재판장 이승한)은 21일 동성커플의 건강보험 피부양자 자격을 인정하면서 사회에 만연한 성소수자 차별을 비판했다.재판부는 “성적 지향을 이유로 한 기존의 차별들은 국제사회에서 점차 사라져가고 있으며, 남아 있는 차별들도 언젠가는 폐지될 것”이라며 “사회보장제도를 포함한 공법적 관계를 규율하는 영역에서 성적 지향을 이유로 한 차별은 더 이상 설 자리가 없다고 할 것”이라고 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/02/21/news-p.v1.20230221.bf4855c0c0084a0cab21a9d7f07de4c0_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사람보다 식물이 좋은 ‘식물분류학자’의 ‘식물의 말을 받아적는 법’]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202302210959001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202302210959001</guid>
-            <pubDate>Tue, 21 Feb 2023 03:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[그는 식물과 닮아 보였다. 맑은 얼굴로 조곤조곤 말했다. 낯가림이 심해 사람 앞에 나서는 게 힘들다고 했다. 사진 촬영을 할 때도 얼굴이 금세 달아올랐다. 하지만 식물 이야기를 할 때는 작은 목소리에 설렘이 가득했다. 사랑에 빠진 게 틀림없어 보였다. 식물을 자주 ‘그 친구’, ‘그 아이’라며 의인화해 불렀다. 그는 사람보다, 남자보다 식물이 좋다고 했다. 식물분류학자 허태임 박사(37) 이야기다.허 박사는 경북 봉화에 자리한 국립백두대간수목원 보전복원실 연...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/02/21/news-p.v1.20230215.3a8625c371714f4c8da77dbd50c3c518_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
