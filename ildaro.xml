@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 05:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 06:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자기혐오를 투사하지 않기 위한 기술, ‘돌봄’]]></title>
+            <link>https://ildaro.com/9574</link>
+            <guid>https://ildaro.com/9574</guid>
+            <pubDate>Wed, 01 Mar 2023 06:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[여성이나 재일코리안에 대한 헤이트, 혐한, 혐중 등이 실존적으로 바닥에 구멍이 난 사람들을 쉽게 흡수해버리는 힘이 되어버리고 있죠....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/202303015056128.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘취약성’을 키워드로 남성성을 분석하다]]></title>
             <link>https://ildaro.com/9573</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 06 Feb 2023 07:14:51 GMT</pubDate>
             <content:encoded><![CDATA[“이 사건 원심을 파기한다.” 나는 꺄악 터져나오는 입을 틀어막고 뛰어나와 차마 법정에 오지 못한 의뢰인 김원경 씨에게 전화를 걸었다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023020620263349.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘외부세력’ 취급받는 대학 페미니스트 A로부터]]></title>
-            <link>https://ildaro.com/9553</link>
-            <guid>https://ildaro.com/9553</guid>
-            <pubDate>Sun, 05 Feb 2023 11:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[학내에 게시한 대자보, 학내 커뮤니티에서 발언하는 여성, 페미니스트 학우들의 목소리는 “외부 여성단체, 여초 커뮤니티, 빨갱이들이 아이디 사서 벌인 공작”이라...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023020507562330.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
