@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 01:05:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 02:52:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[범죄 표적된 이란 여학생들, 여학교 대상 연쇄 독극물 공격]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202303021027001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202303021027001</guid>
+            <pubDate>Thu, 02 Mar 2023 02:51:26 GMT</pubDate>
+            <content:encoded><![CDATA[이란에서 여학교가 잇따라 독극물 공격 표적이 되고 있다. 여학교 폐쇄를 목적으로 한 극단주의 세력의 소행일 가능성이 제기된다.블룸버그통신 등에 따르면, 유네스 파나히 이란 보건부 차관은 26일(현지시간) “누군가가 모든 학교, 특히 여학교의 폐쇄를 요청했다”고 파르스통신 등에 밝혔다. 이란 정부는 지난해 11월 말부터 이란의 성지 도시 쿰을 비롯해 여러 지역 여학교에서 발생한 독성물질 중독 사건을 조사해왔다. 파나히 차관은 더 자세히 언급하진 않았으나 이러...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/03/02/news-p.v1.20230302.4f227788c3a549a69ddccff8eb00dfd2_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘합계출산율’ 걱정? 육아휴직 쓴다고 자르지나 마세요]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202302281615001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 23 Feb 2023 02:20:20 GMT</pubDate>
             <content:encoded><![CDATA[정부가 지난 15년간 ‘출산율’을 높이기 위해 280조원에 달하는 막대한 예산을 쏟아부었지만 저출생 현상은 날로 심화하고 있다. 전문가들은 단편적·단기적인 정책보다는 장기적인 종합대책이 필요하다고 조언한다. 또 청년세대에게 결혼과 출산이 절대 규범이 아니라 선택이 된 상황에서, 이들의 자립을 지원하고 삶의 질을 높이는 실질적 지원책들이 나와야 한다고 했다.2000년대 초반 저출생·고령화 위기감이 가시화되면서 정부는 본격적인 대응에 나섰다. 2004년에는 국가적 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/02/23/news-p.v1.20230222.9ab105ebd51f42328c4da933e049acd7_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘민낯’을 마주할 용기, 다음 소희]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202302221024011</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202302221024011</guid>
-            <pubDate>Wed, 22 Feb 2023 02:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2월8일 전북 특성화고 여학생의 자살 사건을 다룬 영화 &lt;다음 소희&gt;(정주리 감독)가 개봉해 여러 언론의 주목을 받고 있다. 소희(이시은 역)는 현장실습으로 나간 콜센터에서 5개월간 일하다 스스로 목숨을 끊었다. 배두나는 영화 속 경찰로 등장해 소희의 죽음을 파헤치며 어른들이 어떻게 한 학생을 죽음으로 내몰고, 또 외면했는지 보여준다. “내 얼굴 봐서 참아”라는 학교 선생님, “오히려 우리가 피해자”라며 따지는 기업체, “적당히 합시다. 그다음은요?...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/02/22/news-p.v1.20230221.1a29bb2246e946a68bfea6128a9b76b9_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
