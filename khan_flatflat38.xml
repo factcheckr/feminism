@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 07:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 08:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노조하는 이유?… 위축돼 있던 ‘아줌마’들은 이름을 찾았다]]></title>
+            <link>https://www.khan.co.kr/national/labor/article/202303021627001</link>
+            <guid>https://www.khan.co.kr/national/labor/article/202303021627001</guid>
+            <pubDate>Thu, 02 Mar 2023 08:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[“내 가족의 미래를 보장해줄, 좋은 일자리를 원하나요. 내 뒤를 든든하게 받쳐줄 누군가를 원하나요. 저라면 노동조합에 가입하겠습니다.”버락 오바마 전 미국 대통령은 2015년 노동절 연설에서 미국인들에게 노조 가입을 권유하면서 이렇게 말했다. 그의 말처럼 노조는 노동자의 노동조건·복지를 끌어올리고, 부당한 일을 당했을 때 기댈 수 있는 ‘일터의 반려’다. 헌법이 노조를 통해 구현되는 노동3권(단결권·단체교섭권·단체행동권)을 보장하는 이유이기도 하다.‘비올 때 노...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/02/news-p.v1.20230301.df72a3599a5740f5850f9b927bd26394_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[범죄 표적된 이란 여학생들, 여학교 대상 연쇄 독극물 공격]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202303021027001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 23 Feb 2023 09:13:35 GMT</pubDate>
             <content:encoded><![CDATA[지난 19일(현지시간) 우크라이나 수도 키이우 시외버스 터미널에서 체르니히우로 향하는 버스를 탔다. 체르니히우에 도착하기까지 2시간30분 동안 세 번의 검문을 거쳐야했다. 도로를 지키던 군인들은 버스를 세우고 승객들에게 “신분증을 보여달라”고 요구할 때 메고 있던 총신을 살짝 들어올린다. 총구가 아주 잠시 내 쪽을 겨냥했을 뿐인데도 심장이 조여드는 듯했다.체르니히우는 키이우에서 북쪽으로 약 150㎞, 벨라루스 국경에서 남쪽으로 약 70㎞ 떨어져 있다...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/02/23/news-p.v1.20230223.a222cf9434f647f39a8f714aad12f2aa_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[15년간 280조원 쏟아붓고도 ‘저출생 현상’은 계속]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202302231008001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202302231008001</guid>
-            <pubDate>Thu, 23 Feb 2023 02:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 지난 15년간 ‘출산율’을 높이기 위해 280조원에 달하는 막대한 예산을 쏟아부었지만 저출생 현상은 날로 심화하고 있다. 전문가들은 단편적·단기적인 정책보다는 장기적인 종합대책이 필요하다고 조언한다. 또 청년세대에게 결혼과 출산이 절대 규범이 아니라 선택이 된 상황에서, 이들의 자립을 지원하고 삶의 질을 높이는 실질적 지원책들이 나와야 한다고 했다.2000년대 초반 저출생·고령화 위기감이 가시화되면서 정부는 본격적인 대응에 나섰다. 2004년에는 국가적 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/02/23/news-p.v1.20230222.9ab105ebd51f42328c4da933e049acd7_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
