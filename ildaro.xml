@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 08:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 09:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘알파벳 교수’ 사건…권력형 성폭력은 왜 계속되나]]></title>
+            <link>https://ildaro.com/9577</link>
+            <guid>https://ildaro.com/9577</guid>
+            <pubDate>Sun, 05 Mar 2023 09:12:51 GMT</pubDate>
+            <content:encoded><![CDATA[‘알파벳 교수’라고 부른다. A교수, B교수, C교수... 서울대뿐 아니라 다른 학교에서 수많은 ‘A교수’들이 존재했다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023030523563085.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[예술하는 여자가 징그러운가요?]]></title>
             <link>https://ildaro.com/9576</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 10 Feb 2023 10:55:00 GMT</pubDate>
             <content:encoded><![CDATA[학기 초, 우리 학교의 급식실 앞에 학생 동아리에서 붙여 놓은 설문 포스터가 있었다. 우리에게 점심 급식을 해주시는 분들을 어떻게 부르고 있는지에 대한 설문조사였...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023021004019040.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 아이돌 데뷔도, 섭식장애 탈출도 실패했다]]></title>
-            <link>https://ildaro.com/9556</link>
-            <guid>https://ildaro.com/9556</guid>
-            <pubDate>Wed, 08 Feb 2023 10:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[고등학생 시절, 우연히 아이돌 데뷔 기회가 찾아왔다. 마침 쌍꺼풀이 없는 여자 연예인의 얼굴이 새로운 유행처럼 각광 받고 있었다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023020811384878.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
