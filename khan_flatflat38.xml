@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 07:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 08:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[낙태죄 폐지됐지만…의료 서비스로 자리잡지 못한 ‘임신중지권’]]></title>
+            <link>https://www.khan.co.kr/national/health-welfare/article/202303061619001</link>
+            <guid>https://www.khan.co.kr/national/health-welfare/article/202303061619001</guid>
+            <pubDate>Mon, 06 Mar 2023 08:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[‘낙태죄’가 폐지된 지 곧 4년이 된다. 헌법재판소는 2019년 4월 낙태죄를 헌법불합치 결정했다. 임신중지는 범죄 굴레를 벗었지만 변한 것은 별로 없다. 임신중지를 ‘어디서, 어떻게, 얼마에’ 할 수 있는지 같은 구체적인 정보를 구하는 주요 통로는 여전히 인터넷 검색이다. 국민건강보험이 적용되지 않아 비용은 들쭉날쭉이고, 세계보건기구(WHO) 필수의약품인 유산유도제도 국내에선 정식으로 구할 수 없다. 형법·모자보건법 등 관련법 개정도 안됐다. 국회 논의는 지지부...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/06/news-p.v1.20230306.ed15c88872e64535935433ebfc093a70_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이혼비용에서 본 여성의 지위]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202303061118001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 27 Feb 2023 08:16:11 GMT</pubDate>
             <content:encoded><![CDATA[서울 학생인권조례는 여러 가지로 의미가 깊다. 전국 지방자치단체 중 6곳에 있는 학생인권조례의 하나이며, 최초로 ‘성별정체성’을 차별금지 사유로 명시한 법령이기도 하다. 2017년에는 혐오표현을 금지하는 내용이 추가되기도 하였다.그런 서울 학생인권조례가 현재 폐지 또는 개악될 위험에 처해 있다. 지난 14일 서울시의회는 서울 학생인권조례 폐지 주민 조례 청구를 수리했다. 지난해 ‘학생인권조례가 헌법이 보장하는 표현의 자유와 종교의 자유, 부모의 교육권 등을 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/02/27/news-p.v1.20230227.8779aa366fe747f8a959c86e720d8e32_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한동훈과 통화 후 뒤집어진 ‘비동의강간죄’, 김현숙 국회서 ‘진땀’]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202302271004001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202302271004001</guid>
-            <pubDate>Mon, 27 Feb 2023 02:26:39 GMT</pubDate>
-            <content:encoded><![CDATA[김현숙 여성가족부 장관이 23일 “동의 없는 성관계가 강간인 건 맞다”면서 “국회에서 여야가 합의해 ‘비동의 간음죄’(비동의 강간죄)에 대해 논의를 해서 통과 시켜 준다면 여가부는 수용할 생각이 있다”고 말했다.여성가족위원회 소속 의원들은 이날 오후 국회에서 열린 제1차 전체회의에서 여가부가 제3차 양성평등기본계획에서 비동의 강간죄 도입을 유보한 것에 대해 김 장관을 비판했다. 김 장관은 “기본계획을 철회한 게 아니라 사회적 논의가 더 필요한 부분에 대...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/02/27/news-p.v1.20230216.35f80bdba21c41c8901b7a4c2b08ab8f_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
