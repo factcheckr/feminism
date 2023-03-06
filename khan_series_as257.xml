@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 01:01:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 02:28:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이혼비용에서 본 여성의 지위]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202303061118001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202303061118001</guid>
+            <pubDate>Mon, 06 Mar 2023 02:28:07 GMT</pubDate>
+            <content:encoded><![CDATA[남편에게 새 여자가 생겼다. 아이도 있다고 한다. 언어로는 표현 못할 참담한 나날이겠지만 30여년 결혼생활에 이혼까지는 하고 싶지 않았다 한다. 그러나 돌이킬 수 없는 일. 받아들이기로 했는데 재산분할 결과 600만원을 지급한다고 한다. 부부의 총재산은 5억원 정도인데, 유책사유도 없이 받을 수 있는 금액이 1% 내외라는 것이다. 법의 문제일까. 판결의 문제일까.노소영씨가 수년간의 이혼소송 끝에 받게 된 판결 금액이 부부 재산의 1.2%라고 한다. 남편이 물려받은...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/03/06/news-p.v1.20230306.0aab9bea7aa249728365ef538897d670_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자동차 공장에서 성별 다양성이 중요한 이유는]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202303031526001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 27 Feb 2023 02:27:24 GMT</pubDate>
             <content:encoded><![CDATA[김현숙 여성가족부 장관이 23일 “동의 없는 성관계가 강간인 건 맞다”면서 “국회에서 여야가 합의해 ‘비동의 간음죄’(비동의 강간죄)에 대해 논의를 해서 통과 시켜 준다면 여가부는 수용할 생각이 있다”고 말했다.여성가족위원회 소속 의원들은 이날 오후 국회에서 열린 제1차 전체회의에서 여가부가 제3차 양성평등기본계획에서 비동의 강간죄 도입을 유보한 것에 대해 김 장관을 비판했다. 김 장관은 “기본계획을 철회한 게 아니라 사회적 논의가 더 필요한 부분에 대...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/02/27/news-p.v1.20230216.35f80bdba21c41c8901b7a4c2b08ab8f_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남성 직원 많을수록 최종합격자 남성 비율도 함께 상승]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202302241006031</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202302241006031</guid>
-            <pubDate>Fri, 24 Feb 2023 02:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[여성은 상대적으로 안정적이며 차별이 적은 일자리로 꼽히는 공공기관에서도 상대적으로 적게 채용되고, 채용된다 하더라도 남성에 비해 임금이 적고 규모가 작은 기관에 갈 확률이 높은 것으로 나타났다. “구조적 성차별은 없다”(윤석열 대통령) “옛날에는 차별이 있었기 때문에 여성부 필요성에 충분히 공감했지만 지금은 세대를 막론하고 여성이 차별받는 일은 없다고 생각한다”(성일종 국민의힘 정책위의장) 등의 주장은 공공기관 채용에서조차 들어맞지 않았다.남성 채용, ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/02/24/news-p.v1.20230223.9daf4d7c45b44456a54fd77f7bbe7657_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
