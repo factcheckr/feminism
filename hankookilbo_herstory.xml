@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 22:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 23:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Oh! 세계 여성의 날 Oh!]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1212</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1212</guid>
+            <pubDate>Mon, 06 Mar 2023 23:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[3.8일 세계 여성의 날 주간입니다. 지난 주말 서울광장에서 38회 한국여성대회가 열렸죠. 한국여성단체연합(여연)이 이 자리에서 '성평등 걸림돌' 명단을 발표했습니다. 그 주인공은 바로 권성동 국민의힘 의원과 김현숙 여성가족부 장관입니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/b1b54f0c-d356-44aa-83f9-9e3dc0e367ba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[직업 성벽을 허무는 사람들의 이야기]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1205</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 30 Jan 2023 18:20:29 GMT</pubDate>
             <content:encoded><![CDATA[어떤 말도 보태기 어려운 2주였습니다. 참사가 발생하고 10여 일이 지났지만, 아직도 서울 한복판에서 이 같은 비극이 발생했다는 것이 믿기지 않습니다. 지난달 29일 발생한 이태원 핼러윈 참사로 현재까지 사망자 156명이 사망하고 197명이 부상을 입었습니다. 희생자의 명복을 빌며, 남은 가족과 친구에게도 위로의 마음을 전합니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/8e7eecec-36d0-48d0-a78d-f715d104a070.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국일보의 여성 기자들]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1087</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1087</guid>
-            <pubDate>Mon, 30 Jan 2023 18:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 허스펙티브 뉴스레터는 지난 2주간의 '뉴스'가 아닌, 한국일보의 콘텐츠와 이를 만드는 여성 기자들을 소개하는 것으로 문을 열게요. 여러분도 잘 아시다시피, 허스펙티브는 기자 1인이 운영하는 실험 조직이라 할 수 있는데요. 그렇다 보니 '더 잘 할 수 없을까'하고 한계를 자주 절감한답니다. 외로움도 물론 있고요. 이런 제게 으쌰 으쌰 힘을 더해주는 순간이 있습니다. 바로 한국일보의 동료들이 만들어낸 좋은 기사와 콘텐츠를 발견할 때입니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/88f6c93c-caf2-469e-9f46-681dac9bc649.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
