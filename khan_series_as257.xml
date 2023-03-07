@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 14:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 15:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뽑아버려요 차별의 조각 [플랫]]]></title>
+            <link>https://www.khan.co.kr/national/gender/article/202303071807001</link>
+            <guid>https://www.khan.co.kr/national/gender/article/202303071807001</guid>
+            <pubDate>Tue, 07 Mar 2023 15:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[한국의 성별임금격차는 매우 커 OECD에 가입한 원년인 1996년부터 27년째 ‘꼴찌’입니다. 2021년 기준 성별임금격차는 31.1%로 남성이 100만원을 받을 때 여성은 68만9000원을 받습니다. 두번째로 격차가 나는 일본에 비해서도 10%포인트 내외의 큰 격차를 유지하고 있습니다. 경향신문 특별기획팀은 성별임금격차의 원인을 데이터를 통해 분석해보고, 여성 노동자들을 만나 임금 격차가 완화되지 않는 우리 사회의 차별적 인식에 대해 들어봤습니다. 플랫팀은 여기에 더해 회사...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/03/07/l_2023030701000330800024281.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“여성이 절반이면, 권력의 절반도 여성이어야”…스페인 ‘성평등법’ 발표]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202303071616001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 02 Mar 2023 02:51:26 GMT</pubDate>
             <content:encoded><![CDATA[이란에서 여학교가 잇따라 독극물 공격 표적이 되고 있다. 여학교 폐쇄를 목적으로 한 극단주의 세력의 소행일 가능성이 제기된다.블룸버그통신 등에 따르면, 유네스 파나히 이란 보건부 차관은 26일(현지시간) “누군가가 모든 학교, 특히 여학교의 폐쇄를 요청했다”고 파르스통신 등에 밝혔다. 이란 정부는 지난해 11월 말부터 이란의 성지 도시 쿰을 비롯해 여러 지역 여학교에서 발생한 독성물질 중독 사건을 조사해왔다. 파나히 차관은 더 자세히 언급하진 않았으나 이러...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/03/02/news-p.v1.20230302.4f227788c3a549a69ddccff8eb00dfd2_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘합계출산율’ 걱정? 육아휴직 쓴다고 자르지나 마세요]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202302281615001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202302281615001</guid>
-            <pubDate>Tue, 28 Feb 2023 08:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[현장 근무를 주로 하는 프리랜서 A씨. 바쁜 일정에도 지난해 12월 새 생명이 찾아왔다. 임신을 사유로 내근직 발령을 받은 A씨에게 회사는 ‘축하’ 대신 ‘해고 통보’를 건넸다. 사측은 “임신을 한 상태라 다른 팀 배정도 어렵고, 회사 재정이 좋지 않아 계속 월급을 줄 수 있는 상황도 아니다”라며 “잘 생각해보고 답변해달라”고 했다.2022년 한국의 합계출산율(여성 1명이 평생 낳을 것으로 예상되는 평균 출생아 수)이 ‘0.78명’으로 나타났다. 1970년 관련 통계...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/02/28/news-p.v1.20230228.8cf7b566683847048c83e10852c7d618_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
