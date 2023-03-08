@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 03:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 04:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/8e7eecec-36d0-48d0-a78d-f715d104a070.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[숫자가 아니라 이야기의 주인공으로 죽을 수 있을까 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9579</link>
+            <guid>https://ildaro.com/9579</guid>
+            <pubDate>Wed, 08 Mar 2023 00:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[숫자는 몸의 형상을 띠지도, 붉은 피를 내비치지도 않는다. 그래서 웬만해서는 감정을 건드리지 않는다. 숫자와 통계는 맥락 속에서만 의미가 있다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023030852184054.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[남자들에게 ‘약함’이란 무엇인가 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9578</link>
             <guid>https://ildaro.com/9578</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 06 Mar 2023 12:25:05 GMT</pubDate>
             <content:encoded><![CDATA[중요한 것은 이런 교육이 농부를 만들려고 하는 게 아니라는 점이다. 바로 “농업을 잘 이해하고 바른 선택을 하는 소비자를 양성하는 게 목적”이라는 것....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023021247135233.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘농촌 소멸’ 도시에선 위기감 느끼지 못하는 것 같아요 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9559</link>
-            <guid>https://ildaro.com/9559</guid>
-            <pubDate>Mon, 06 Mar 2023 12:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[아빠가 3년 전에 저한테 전권을 넘기면서 제가 대표가 됐고, 땅도 제 명의가 되면서 세대교체가 된 거죠. 엄청 싸워서 얻어낸 권한인 거예요....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/202302112715261.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
