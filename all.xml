@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 01:02:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 02:38:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다시 줄어든 여성의 자리…스크린 뒤에서도 위에서도 여성이 안 보인다 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/gender/article/202303101031001</link>
+            <guid>https://www.khan.co.kr/national/gender/article/202303101031001</guid>
+            <pubDate>Fri, 10 Mar 2023 02:37:33 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 극장가가 활기를 되찾았지만 여성 영화인이 설 자리는 더욱 줄어든 것으로 확인됐다. 영화 속 여성 묘사도 퇴행했다고 영화진흥위원회(영진위)는 분석했다.영진위가 8일 공개한 ‘2022년 한국영화산업 성인지 결산’을 보면 영화 제작에 참여한 여성 인력의 비중은 꾸준히 증가하다 지난해 감소세로 돌아섰다. 2018년 20.9%에서 2021년 26.3%까지 늘어난 여성 인력 비율은 지난해 26.0%로 근소하게 줄어들었다. 직군별로 살펴보면 주연, 제작자를 제외한 감독, 프로듀서, ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/10/news-p.v1.20230310.5962a1487d6747f2adef54b08c6800c3_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[10년째 공고한 유리천장…보직차별이 승진차별로 이어진다 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202303091115031</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 06 Mar 2023 02:27:24 GMT</pubDate>
             <content:encoded><![CDATA[남편에게 새 여자가 생겼다. 아이도 있다고 한다. 언어로는 표현 못할 참담한 나날이겠지만 30여년 결혼생활에 이혼까지는 하고 싶지 않았다 한다. 그러나 돌이킬 수 없는 일. 받아들이기로 했는데 재산분할 결과 600만원을 지급한다고 한다. 부부의 총재산은 5억원 정도인데, 유책사유도 없이 받을 수 있는 금액이 1% 내외라는 것이다. 법의 문제일까. 판결의 문제일까.노소영씨가 수년간의 이혼소송 끝에 받게 된 판결 금액이 부부 재산의 1.2%라고 한다. 남편이 물려받은...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/06/news-p.v1.20230306.0aab9bea7aa249728365ef538897d670_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자동차 공장에서 성별 다양성이 중요한 이유는 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202303031526001</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202303031526001</guid>
-            <pubDate>Fri, 03 Mar 2023 07:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[한국의 성별임금격차는 매우 커 OECD에 가입한 원년인 1996년부터 27년째 ‘꼴찌’다. 2021년 기준 성별임금격차는 31.1%로 남성이 100만원을 받을 때 여성은 68만9000원을 받는다. 두번째로 격차가 나는 일본에 비해서도 10%포인트 내외의 큰 격차를 유지하고 있다.경향신문 특별기획팀은 성별임금격차의 원인을 데이터로 뜯어보고자 했다. 1회 ‘채용’에 이어 2회는 ‘고임금 업종에 여성을 찾기 힘든 이유’다.“우리의 목표는 모두에게 좋은 일자리입니다.”캐나다 최대 민간...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/03/news-p.v1.20230303.10217c94b7cb484790e5fa23465ac61f_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[다시 줄어든 여성의 자리…스크린 뒤에서도 위에서도 여성이 안 보인다 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/gender/article/202303101031001</link>
+            <guid>https://www.khan.co.kr/national/gender/article/202303101031001</guid>
+            <pubDate>Fri, 10 Mar 2023 02:38:15 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 극장가가 활기를 되찾았지만 여성 영화인이 설 자리는 더욱 줄어든 것으로 확인됐다. 영화 속 여성 묘사도 퇴행했다고 영화진흥위원회(영진위)는 분석했다.영진위가 8일 공개한 ‘2022년 한국영화산업 성인지 결산’을 보면 영화 제작에 참여한 여성 인력의 비중은 꾸준히 증가하다 지난해 감소세로 돌아섰다. 2018년 20.9%에서 2021년 26.3%까지 늘어난 여성 인력 비율은 지난해 26.0%로 근소하게 줄어들었다. 직군별로 살펴보면 주연, 제작자를 제외한 감독, 프로듀서, ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/03/10/news-p.v1.20230310.5962a1487d6747f2adef54b08c6800c3_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[10년째 공고한 유리천장…보직차별이 승진차별로 이어진다 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202303091115031</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202303091115031</guid>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 06 Mar 2023 02:27:24 GMT</pubDate>
             <content:encoded><![CDATA[남편에게 새 여자가 생겼다. 아이도 있다고 한다. 언어로는 표현 못할 참담한 나날이겠지만 30여년 결혼생활에 이혼까지는 하고 싶지 않았다 한다. 그러나 돌이킬 수 없는 일. 받아들이기로 했는데 재산분할 결과 600만원을 지급한다고 한다. 부부의 총재산은 5억원 정도인데, 유책사유도 없이 받을 수 있는 금액이 1% 내외라는 것이다. 법의 문제일까. 판결의 문제일까.노소영씨가 수년간의 이혼소송 끝에 받게 된 판결 금액이 부부 재산의 1.2%라고 한다. 남편이 물려받은...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/03/06/news-p.v1.20230306.0aab9bea7aa249728365ef538897d670_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자동차 공장에서 성별 다양성이 중요한 이유는 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202303031526001</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202303031526001</guid>
-            <pubDate>Fri, 03 Mar 2023 07:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[한국의 성별임금격차는 매우 커 OECD에 가입한 원년인 1996년부터 27년째 ‘꼴찌’다. 2021년 기준 성별임금격차는 31.1%로 남성이 100만원을 받을 때 여성은 68만9000원을 받는다. 두번째로 격차가 나는 일본에 비해서도 10%포인트 내외의 큰 격차를 유지하고 있다.경향신문 특별기획팀은 성별임금격차의 원인을 데이터로 뜯어보고자 했다. 1회 ‘채용’에 이어 2회는 ‘고임금 업종에 여성을 찾기 힘든 이유’다.“우리의 목표는 모두에게 좋은 일자리입니다.”캐나다 최대 민간...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/03/03/news-p.v1.20230303.10217c94b7cb484790e5fa23465ac61f_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Oh! 세계 여성의 날 Oh! (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
@@ -328,7 +328,7 @@
             <enclosure url="https://image.hankookilbo.com/board/8e7eecec-36d0-48d0-a78d-f715d104a070.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[공중파 데뷔 이후, 굶기 시작했다 (일다 ─ 전체기사)]]></title>
+            <title><![CDATA[지상파 데뷔 이후, 굶기 시작했다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9580</link>
             <guid>https://ildaro.com/9580</guid>
             <pubDate>Fri, 10 Mar 2023 09:46:00 GMT</pubDate>
