@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 07:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 08:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남녀동일임금, 임신중지 자유…‘여성의 날’ 성평등 향해 전진하는 국가들]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202303101640001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202303101640001</guid>
+            <pubDate>Fri, 10 Mar 2023 08:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[세계 여성의 날(3월8일)을 맞아 세계 각국 정부가 성평등을 촉진하기 위한 법 개정을 약속하고 나섰다.로이터통신 등에 따르면 아일랜드 정부는 헌법에 남아있는 여성의 가정 내 역할에 대한 조항을 삭제한다고 8일(현지시간) 발표했다. 아일랜드 헌법 41조 2항은 “여성은 가정 내 생활을 통해 국가에 지원을 제공”하고 “어머니는 경제적 필요에 의해 가정 내 의무를 소홀히 할 정도로 노동에 종사할 의무가 없다”고 명시돼있다.리오 버라드커 아일랜드 총리는 성명을 통해...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/10/news-p.v1.20230310.2c8b15f7a2184bc282b5bd78f38f1425_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다시 줄어든 여성의 자리…스크린 뒤에서도 위에서도 여성이 안 보인다]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202303101031001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 06 Mar 2023 08:16:31 GMT</pubDate>
             <content:encoded><![CDATA[‘낙태죄’가 폐지된 지 곧 4년이 된다. 헌법재판소는 2019년 4월 낙태죄를 헌법불합치 결정했다. 임신중지는 범죄 굴레를 벗었지만 변한 것은 별로 없다. 임신중지를 ‘어디서, 어떻게, 얼마에’ 할 수 있는지 같은 구체적인 정보를 구하는 주요 통로는 여전히 인터넷 검색이다. 국민건강보험이 적용되지 않아 비용은 들쭉날쭉이고, 세계보건기구(WHO) 필수의약품인 유산유도제도 국내에선 정식으로 구할 수 없다. 형법·모자보건법 등 관련법 개정도 안됐다. 국회 논의는 지지부...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/06/news-p.v1.20230306.ed15c88872e64535935433ebfc093a70_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이혼비용에서 본 여성의 지위]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202303061118001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202303061118001</guid>
-            <pubDate>Mon, 06 Mar 2023 02:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[남편에게 새 여자가 생겼다. 아이도 있다고 한다. 언어로는 표현 못할 참담한 나날이겠지만 30여년 결혼생활에 이혼까지는 하고 싶지 않았다 한다. 그러나 돌이킬 수 없는 일. 받아들이기로 했는데 재산분할 결과 600만원을 지급한다고 한다. 부부의 총재산은 5억원 정도인데, 유책사유도 없이 받을 수 있는 금액이 1% 내외라는 것이다. 법의 문제일까. 판결의 문제일까.노소영씨가 수년간의 이혼소송 끝에 받게 된 판결 금액이 부부 재산의 1.2%라고 한다. 남편이 물려받은...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/06/news-p.v1.20230306.0aab9bea7aa249728365ef538897d670_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
