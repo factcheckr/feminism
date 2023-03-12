@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 01:02:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 02:26:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[학생의 양육자를 왜 ‘학부모’라 부릅니까?]]></title>
+            <link>https://ildaro.com/9581</link>
+            <guid>https://ildaro.com/9581</guid>
+            <pubDate>Sun, 12 Mar 2023 10:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[학교에서 학생들을 양육하는 사람을 ‘양육자’가 아니라 ‘학부모’로 부릅니다. 가정환경조사서에 부모에 대해 적는 난이 있어, 부/모가 없거나 부모 돌봄을 못받는...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023031248311072.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지상파 데뷔 이후, 굶기 시작했다]]></title>
             <link>https://ildaro.com/9580</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 11 Mar 2023 07:12:04 GMT</pubDate>
             <content:encoded><![CDATA[2차 가해성 게시글은 사건 초기에 비해 확연히 줄었지만, 성폭력 사건을 젠더 관점에서 해석하는 시도에 대해 ‘꼴페미’라며 공격하는 글, 학교 입시 결과가 안 좋아...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023021525213052.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MZ세대 콜센터 상담원이 노조 활동하는 이유]]></title>
-            <link>https://ildaro.com/9561</link>
-            <guid>https://ildaro.com/9561</guid>
-            <pubDate>Tue, 14 Feb 2023 10:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[“대한민국에서 노조 가입율이 10%대에 불과하잖아요. 50대 언니들도 이렇게 열심히 투쟁하는데, 할 말 다 한다는 MZ세대도 당당하게 자기 권리 찾으며 살았으면 좋겠어...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023021456448583.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
