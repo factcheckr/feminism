@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 22:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 23:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[저출생 말고 '엄마']]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1218</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1218</guid>
+            <pubDate>Mon, 13 Mar 2023 23:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 '엄마' 얘기를 갖고 왔어요. 가정의 달인 5월도 아닌데, 갑자기 웬 엄마 이야기냐고요? 지난해 우리나라 합계출산율이 0.78명을 기록하며, OECD 국가 중 가장 낮다는 놀랍지도 않은 소식이 알려졌죠. 급해진 정부 당국은 주말에 회의도 열고, 이달 안에 대통령이 저출산고령사회위원회를 직접 주재할 예정이라고 해요. 지난주 윤 대통령은 "국민이 체감할 수 있는 강력한 저출산(저출생) 대책을 마련하라"고 저출산위에 지시한 바 있죠.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/0126c0f2-8289-4370-bd59-ae3723b7044c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Oh! 세계 여성의 날 Oh!]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1212</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 30 Jan 2023 18:20:29 GMT</pubDate>
             <content:encoded><![CDATA[오늘 뉴스레터는 지난 2주간 한국일보 기사 중, 의미 있는 여성·페미니즘 기사 혹은 젠더 관점으로 바라봤더니 또 다른 해석이 포착되는 뉴스들을 소개합니다. 첫 꼭지로는 '11.8 미국 중간선거' 결과를 차근차근 곱씹어 봐요. 지난 8일, 미국에서는 상원 의원(100석 중 35석)과 하원 의원 전체, 일부 주지사와 각주 국무장관직을 선출하는 중간선거가 치러졌어요.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/eb0df0ef-9602-419b-824e-ac847d02b7e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[함께 애도하고 분노해요]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1109</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1109</guid>
-            <pubDate>Mon, 30 Jan 2023 18:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[어떤 말도 보태기 어려운 2주였습니다. 참사가 발생하고 10여 일이 지났지만, 아직도 서울 한복판에서 이 같은 비극이 발생했다는 것이 믿기지 않습니다. 지난달 29일 발생한 이태원 핼러윈 참사로 현재까지 사망자 156명이 사망하고 197명이 부상을 입었습니다. 희생자의 명복을 빌며, 남은 가족과 친구에게도 위로의 마음을 전합니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/8e7eecec-36d0-48d0-a78d-f715d104a070.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
