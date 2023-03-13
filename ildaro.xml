@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 00:59:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 02:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Servers Can’t Have Short Hair?]]></title>
+            <link>https://ildaro.com/9582</link>
+            <guid>https://ildaro.com/9582</guid>
+            <pubDate>Mon, 13 Mar 2023 10:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[I don’t want to become a masculine person, but it feels like I have to take on an attitude and behavior that fits my hair....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023031323249564.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[학생의 양육자를 왜 ‘학부모’라 부릅니까?]]></title>
             <link>https://ildaro.com/9581</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 11 Mar 2023 07:12:04 GMT</pubDate>
             <content:encoded><![CDATA[“Nobody has left work yet, but you dare to say ‘I will leave first’?(A common way of saying “goodbye” in Korean) What a brave person!”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023021649526224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페미니즘 실종된 대학 커뮤니티, 성폭력 해결 못해]]></title>
-            <link>https://ildaro.com/9562</link>
-            <guid>https://ildaro.com/9562</guid>
-            <pubDate>Sat, 11 Mar 2023 07:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[2차 가해성 게시글은 사건 초기에 비해 확연히 줄었지만, 성폭력 사건을 젠더 관점에서 해석하는 시도에 대해 ‘꼴페미’라며 공격하는 글, 학교 입시 결과가 안 좋아...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023021525213052.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

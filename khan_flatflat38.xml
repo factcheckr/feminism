@@ -4,9 +4,25 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 00:59:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 02:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“환경을 모른척 할 수 없어” 만화를 그리기로 한 구지민 작가]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202303131010011</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202303131010011</guid>
+            <pubDate>Mon, 13 Mar 2023 02:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[화장실에서 휴지는 3칸만 사용하고 샤워 시간은 10분을 넘기지 않는다. 짧은 샤워시간에 맞춰 흥얼거리는 노래도 2배속이다. 에너지 절약을 위해 낮에는 불을 끄고 생활하고, 음식물 쓰레기를 줄이기 위해 노력한다.웹툰 &lt;기후위기인간&gt;에서 주인공 ‘구희’가 환경을 위해 벌이는 ‘궁상 절약 이야기’ 중 한 장면이다. &lt;기후위기인간&gt;은 구지민 작가(30)가 2021년부터 한 포털사이트에서 연재 중인 웹툰이다. 20대 취업준비생 구희를 통해 구씨가 일상에서 경험한 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/13/news-p.v1.20230306.f113820a9ee1401086d23a1c9092dd58_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성매매 집결지 옆 문화공간, 주민들이 이곳에서 ‘불을 밝히는’ 이유]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202303131010001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202303131010001</guid>
+            <pubDate>Mon, 13 Mar 2023 02:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[쉿! 아직 주무시는 분도 계세요.”좁은 골목으로 걸어가던 기록 활동가 신동화씨(35)가 고개를 돌려 속삭였다. 신씨가 들어간 골목 초입엔 ‘청소년 통행 금지’ 안내문이 붙어 있었다. 몇 걸음을 떼자 아직 불이 켜지지 않은 통유리 공간이 줄줄이 펼쳐졌다. 지난 3일 오후 3시, 강원도 원주 학성동 일대 성매매 집결지 ‘희매촌’은 고요했다. 이곳에서 일하는 ‘언니’들이 잠에서 깨지 않은 시각이었다.희매촌에서는 낮과 밤의 시간이 거꾸로 흐른다. 다른 가게가 문을 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/13/news-p.v1.20230310.d1072d5ff39f463baf8363b14986cb37_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남녀동일임금, 임신중지 자유…‘여성의 날’ 성평등 향해 전진하는 국가들]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202303101640001</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 07 Mar 2023 08:16:30 GMT</pubDate>
             <content:encoded><![CDATA[스페인 정부가 ‘세계 여성의 날’(3월8일)을 앞두고 정치, 기업 및 기타 공적 영역에서 남녀 비율을 동등하게 맞추는 것을 의무화하는 성평등 법안을 발표했다.스페인 일간 엘파이스 등에 따르면 페드로 산체스 총리는 4일(현지시간) 세계 여성의 날 기념행사에 참석해 ‘남성과 여성의 동등한 대표성 법안’을 다음주 승인할 것이라고 밝혔다. 이는 정당의 선거인 명부와 대기업 이사회 및 전문직 협회 관리 이사회에 성평등 조치를 적용하는 법안이다.산체스 총리는 법안을 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/07/news-p.v1.20230307.c0f8a2f05ba7444dafd29e41a2f1becb_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성 권익 저해로 성평등 걸림돌 명단에 오른 '여가부 장관’]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202303071004001</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202303071004001</guid>
-            <pubDate>Tue, 07 Mar 2023 02:56:45 GMT</pubDate>
-            <content:encoded><![CDATA[“이러다 정부 부처가 모두 ‘성평등 걸림돌’ 명단에 오르는 거 아닌가 모르겠습니다.”지난 4일 서울 중구 서울시청 앞 광장에서 열린 제38회 한국여성대회에서 김현숙 여성가족부 장관이 ‘성평등 걸림돌’로 지목됐다. 여가부 장관이 ‘성평등 걸림돌’로 지목된 것은 2001년 여성부(현 여가부) 출범 후 처음이다. ‘성평등 걸림돌’은 여성 권익을 저해한 개인 또는 단체에 주는 것으로, 한국여성단체연합이 1997년 제정했다.김 장관의 이름이 호명되자 참가자들은 야유를 쏟...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/07/news-p.v1.20230306.981c2b9013164decb2024f3b0c9ac286_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낙태죄 폐지됐지만…의료 서비스로 자리잡지 못한 ‘임신중지권’]]></title>
-            <link>https://www.khan.co.kr/national/health-welfare/article/202303061619001</link>
-            <guid>https://www.khan.co.kr/national/health-welfare/article/202303061619001</guid>
-            <pubDate>Mon, 06 Mar 2023 08:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[‘낙태죄’가 폐지된 지 곧 4년이 된다. 헌법재판소는 2019년 4월 낙태죄를 헌법불합치 결정했다. 임신중지는 범죄 굴레를 벗었지만 변한 것은 별로 없다. 임신중지를 ‘어디서, 어떻게, 얼마에’ 할 수 있는지 같은 구체적인 정보를 구하는 주요 통로는 여전히 인터넷 검색이다. 국민건강보험이 적용되지 않아 비용은 들쭉날쭉이고, 세계보건기구(WHO) 필수의약품인 유산유도제도 국내에선 정식으로 구할 수 없다. 형법·모자보건법 등 관련법 개정도 안됐다. 국회 논의는 지지부...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/06/news-p.v1.20230306.ed15c88872e64535935433ebfc093a70_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
