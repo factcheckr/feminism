@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 02:01:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 02:37:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘약자남성’들에 의한 혐오와 폭력, 대안은 무엇일까]]></title>
+            <link>https://ildaro.com/9583</link>
+            <guid>https://ildaro.com/9583</guid>
+            <pubDate>Tue, 14 Mar 2023 11:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[여성들 사이에 있는 상호 카운슬링 같은 연대감의 경험을 남자들은 쌓지 못했어요. 생산주의나 능력주의에 수렴되지 않는 느슨한 공동성(the common)을 발굴하는 작업을...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023031432186536.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Servers Can’t Have Short Hair?]]></title>
             <link>https://ildaro.com/9582</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 17 Feb 2023 09:38:00 GMT</pubDate>
             <content:encoded><![CDATA[‘불안했다. 왜냐면 내가 무대에서 봤던 스타들은 다 마르고 밝은 피부를 가지고 있었기 때문이다’...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023021746343860.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Working Overtime at Night is Neither a Value nor a Kind of Culture]]></title>
-            <link>https://ildaro.com/9563</link>
-            <guid>https://ildaro.com/9563</guid>
-            <pubDate>Mon, 13 Mar 2023 18:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[“Nobody has left work yet, but you dare to say ‘I will leave first’?(A common way of saying “goodbye” in Korean) What a brave person!”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023021649526224.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
