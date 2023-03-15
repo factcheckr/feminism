@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 07:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 08:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[트랜스젠더 성별정정 허가한 법원···“수술 강제는 인간 존엄 침해” (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202303151528001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202303151528001</guid>
-            <pubDate>Wed, 15 Mar 2023 07:12:06 GMT</pubDate>
+            <pubDate>Wed, 15 Mar 2023 07:11:22 GMT</pubDate>
             <content:encoded><![CDATA[성별재지정(성전환) 수술은 성별정정 허가의 필수 요건이 아니라는 법원 판단이 또 나왔다. 육체적 요소와 정신적 요소가 일치하지 않는다고 트랜스젠더에게 수술을 강제하는 것은 인간 존엄성을 침해한다는 것이다.서울서부지법 제2-3민사부(재판장 우인성)는 지난 2월15일 트랜스젠더 여성 A씨가 낸 성별정정 신청을 허가했다. 재판부는 “외부 성기를 제외한 모든 부분, 특히 정신적 영역에서 여성으로 명백하게 판단된다면 여성으로 평가하는 것이 마땅하다”고 했다.A씨는 생물...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/03/15/news-p.v1.20230315.46258ac5773b422bb65827355b82b84e_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/eb0df0ef-9602-419b-824e-ac847d02b7e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘혐오 토론’이 되기 쉽다, 혐오 사회에서는 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9584</link>
+            <guid>https://ildaro.com/9584</guid>
+            <pubDate>Wed, 15 Mar 2023 08:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[많고 많은 이슈 중에서, 토론의 주제가 꼭 노키즈존이어야만 했을까? 어떠한 대상이 토론의 주제, 즉 논제로 빈번하게 소환되는가?...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023031510478820.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[혐오가 아닌 대안, ‘약자남성’들의 출구찾기 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9583</link>
             <guid>https://ildaro.com/9583</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 13 Mar 2023 18:15:45 GMT</pubDate>
             <content:encoded><![CDATA[어떤 불행의 원인이 당사자 자신에게 있다고 여겨질 때, 사람들은 뿌린 대로 거둔다는 생각으로 그들의 불행을 외면해 버리는 경향이 있습니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023021820015717.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마른 몸, 밝은 피부의 ‘팝 스타’만 보고 컸지만… (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9564</link>
-            <guid>https://ildaro.com/9564</guid>
-            <pubDate>Fri, 17 Feb 2023 09:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘불안했다. 왜냐면 내가 무대에서 봤던 스타들은 다 마르고 밝은 피부를 가지고 있었기 때문이다’...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023021746343860.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
