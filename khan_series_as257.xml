@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 02:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 03:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[낙태죄 헌법불합치 ‘입법 공백’ 속 방치된 ‘임신중지 건강권’]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202303171131001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202303171131001</guid>
+            <pubDate>Fri, 17 Mar 2023 03:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[“당시만 해도 임신중지가 불법이라는 인식 자체가 없었어요.” 고경심 인도주의실천의사협의회 이사는 40년차 산부인과 의사다. 그가 의사 생활을 시작한 1980년대는 경제개발 기조에 따라 활발한 인구 억제 정책이 시행되던 때였다. 그는 전공의 2년차였던 1983년 서울 영등포 보건소로 한 달 간 파견을 나갔던 때를 생생하게 기억하고 있다.“보건소에서 여성들이 임신중지 하러 오면 무료로 해줬어요. 의사들이 수술도 하고 루프(피임기구)도 삽입하는 거, 저는 봤어요. 불법...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/03/17/news-p.v1.20230317.c2f8dd5733e849b695505a70409f9f17_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전성기는 흘러가는 것이 아니라 되찾는 것이다]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202303161705011</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 13 Mar 2023 06:16:34 GMT</pubDate>
             <content:encoded><![CDATA[제95회 미국 아카데미 영화는 영화 &lt;에브리씽 에브리웨어 올 앳 원스&gt;(이하 에브리씽)이 ‘에브리씽 했다’는 말로 요약된다. 배우 양쯔충(양자경)이 아시아계 배우 최초로 미국 아카데미 여우주연상을 받았고, &lt;에브리씽&gt;이 작품상과 감독상, 남여조연상, 편집상까지 모두 휩쓸어 7관왕을 기록했다.제95회 미국 아카데미 시상식은 영화 &lt;에브리씽 에브리웨어 올 앳 원스&gt;(이하 에브리씽)이 ‘에브리씽 했다’는 말로 요약된다. 배우 양쯔충(양자경)이 아시아계 배우...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/03/13/news-p.v1.20230313.05bc40c062584adab2e51ab68f67945c_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“환경을 모른척 할 수 없어” 만화를 그리기로 한 구지민 작가[플랫]]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202303131010011</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202303131010011</guid>
-            <pubDate>Mon, 13 Mar 2023 02:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[화장실에서 휴지는 3칸만 사용하고 샤워 시간은 10분을 넘기지 않는다. 짧은 샤워시간에 맞춰 흥얼거리는 노래도 2배속이다. 에너지 절약을 위해 낮에는 불을 끄고 생활하고, 음식물 쓰레기를 줄이기 위해 노력한다.웹툰 &lt;기후위기인간&gt;에서 주인공 ‘구희’가 환경을 위해 벌이는 ‘궁상 절약 이야기’ 중 한 장면이다. &lt;기후위기인간&gt;은 구지민 작가(30)가 2021년부터 한 포털사이트에서 연재 중인 웹툰이다. 20대 취업준비생 구희를 통해 구씨가 일상에서 경험한 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/03/13/news-p.v1.20230306.f113820a9ee1401086d23a1c9092dd58_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
