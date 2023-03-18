@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 09:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 10:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/eb0df0ef-9602-419b-824e-ac847d02b7e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘우리가 옷을 입었든 벗었든. 내 몸으로 뭘 하든’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9586</link>
+            <guid>https://ildaro.com/9586</guid>
+            <pubDate>Sat, 18 Mar 2023 10:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[차별과 혐오의 역사로 인해 ‘퀴어’의 몸은 더욱 드러나선 안 되는 것으로 여겨졌고, 이런 현실에 투쟁하고자 퀴어들은 자신의 몸을 드러냈다. 더 이상하게, 더 과감...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023031811129546.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[퀴어축제, 도시 외곽이 아니라 도시 전체에서 열리던데요? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9585</link>
             <guid>https://ildaro.com/9585</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 13 Mar 2023 18:15:45 GMT</pubDate>
             <content:encoded><![CDATA[얼마 전 남동생의 결혼식이 있어 동거인과 함께 참석했지만, 다들 제 동거인을 가족이라기보다 ‘함께 사는 친구’로 바라볼 뿐입니다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023022051339968.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페미니스트와 퀴어가 애쓰지 않아도 되는 헬스장 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9566</link>
-            <guid>https://ildaro.com/9566</guid>
-            <pubDate>Mon, 13 Mar 2023 18:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[“다양한 장소에서, 다양한 사람과 운동과 몸의 해방에 대해 이야기하고 싶어요. Ninaru는 다양한 모양이 되어갈 겁니다.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023021925569911.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
