@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 02:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 03:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[‘더 글로리’ 임지연…“세상 모두가 연진이 미워했으면” (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202303201103001</link>
             <guid>https://www.khan.co.kr/culture/culture-general/article/202303201103001</guid>
-            <pubDate>Mon, 20 Mar 2023 02:18:25 GMT</pubDate>
+            <pubDate>Mon, 20 Mar 2023 02:17:42 GMT</pubDate>
             <content:encoded><![CDATA[“세상 사람들이 모두 다 연진이를 끝까지 미워했으면 좋겠어요.”배우 임지연은 넷플릭스 드라마 &lt;더 글로리&gt;에서 ‘학교폭력 가해자 박연진’ 그 자체였다. 어떤 나쁜 짓을 해도 구원받았던 박연진의 평화는 학창시절 자신이 괴롭힌 문동은(배우 송혜교)이 딸의 담임교사로 나타나면서 균열이 시작된다.박연진은 악인 중 악인답게 문동은의 약점을 골라 하나씩 후벼판다. &lt;더 글로리&gt;의 악인을 연기한 배우들은 대본을 받아들며 “연진아 너무 한 거 아니냐”며 이...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/03/20/news-p.v1.20230320.568d7d1bd9c44930a3f537d6a7fd500d_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/eb0df0ef-9602-419b-824e-ac847d02b7e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘먹는 행위’도 ‘굶는 행위’도 정치적인 것이다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9587</link>
+            <guid>https://ildaro.com/9587</guid>
+            <pubDate>Mon, 20 Mar 2023 10:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[하필 그 시점에 단식원에 들어갈 것을 선택했던 걸까? 아마도 나는 몸을 바꾸는 것으로 내 인생이 완전히 달라질 것이라는 기대를 여전히 갖고 있었던 것 같다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023032035067719.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘우리가 옷을 입었든 벗었든. 내 몸으로 뭘 하든’ (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9586</link>
             <guid>https://ildaro.com/9586</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 13 Mar 2023 18:15:45 GMT</pubDate>
             <content:encoded><![CDATA[진짜 의료서비스다운 서비스를 제공하고 싶어요. 제도적으로 아직 뒷받침이 안 되는 부분이 있더라도, 이런 곳 하나쯤 있다는 걸 알려야죠....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023022128206464.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동거인과 반려묘와 나 ‘우리는 가족입니다’ (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9567</link>
-            <guid>https://ildaro.com/9567</guid>
-            <pubDate>Mon, 13 Mar 2023 18:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[얼마 전 남동생의 결혼식이 있어 동거인과 함께 참석했지만, 다들 제 동거인을 가족이라기보다 ‘함께 사는 친구’로 바라볼 뿐입니다...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023022051339968.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
