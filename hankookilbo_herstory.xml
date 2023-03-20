@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 22:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 23:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싸우는 여자가 이긴다]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1223</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1223</guid>
+            <pubDate>Mon, 20 Mar 2023 23:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 뉴스레터는 이진희 논설위원이 만난 정보라 작가 이야기로 채우려 합니다. 정 작가의 이름, 많이 들어보셨죠. '저주토끼'로 지난해 영국 부커상 인터내셔널 부문 최종 후보에 오른 유명 작가입니다. 동시에 모교이자 오랜 강사 생활을 했던 연세대를 상대로 퇴직금·수당 청구 소송을 제기해 싸우고 있는 소송 당사자입니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/8db502f0-d9e4-4efd-9a22-72e5dd429c50.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[저출생 말고 '엄마']]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1218</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 30 Jan 2023 18:20:29 GMT</pubDate>
             <content:encoded><![CDATA[단연 발군이었던 한국 대표팀의 경기 성적이나 내용은 차치하고, 허스펙티브는 본연의 역할인 '여성'에 초점을 맞춰 오늘 뉴스레터를 채워볼게요. 또한 이주노동자 인권 문제 등으로 인해 카타르 월드컵은 개최 전부터 보이콧 움직임이 강했다는 점, 지난 뉴스레터에서 언급했었지요. 그 연장선상에서 모두가 지구촌 축구 축제의 '승부'에 집중하는 사이 한국일보는 월드컵 이면의 모습도 들여다봅니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/6af00baa-ecc1-4081-a345-79718c78710c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 여성들이 제대로 보여줬다]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1128</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1128</guid>
-            <pubDate>Mon, 30 Jan 2023 18:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 뉴스레터는 지난 2주간 한국일보 기사 중, 의미 있는 여성·페미니즘 기사 혹은 젠더 관점으로 바라봤더니 또 다른 해석이 포착되는 뉴스들을 소개합니다. 첫 꼭지로는 '11.8 미국 중간선거' 결과를 차근차근 곱씹어 봐요. 지난 8일, 미국에서는 상원 의원(100석 중 35석)과 하원 의원 전체, 일부 주지사와 각주 국무장관직을 선출하는 중간선거가 치러졌어요.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/eb0df0ef-9602-419b-824e-ac847d02b7e1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
