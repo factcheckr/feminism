@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 01:00:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 02:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘더 글로리’ 임지연…“세상 모두가 연진이 미워했으면”]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202303201103001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202303201103001</guid>
+            <pubDate>Mon, 20 Mar 2023 02:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[“세상 사람들이 모두 다 연진이를 끝까지 미워했으면 좋겠어요.”배우 임지연은 넷플릭스 드라마 &lt;더 글로리&gt;에서 ‘학교폭력 가해자 박연진’ 그 자체였다. 어떤 나쁜 짓을 해도 구원받았던 박연진의 평화는 학창시절 자신이 괴롭힌 문동은(배우 송혜교)이 딸의 담임교사로 나타나면서 균열이 시작된다.박연진은 악인 중 악인답게 문동은의 약점을 골라 하나씩 후벼판다. &lt;더 글로리&gt;의 악인을 연기한 배우들은 대본을 받아들며 “연진아 너무 한 거 아니냐”며 이...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/03/20/news-p.v1.20230320.568d7d1bd9c44930a3f537d6a7fd500d_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[낙태죄 헌법불합치 ‘입법 공백’ 속 방치된 ‘임신중지 건강권’]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202303171131001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 14 Mar 2023 02:36:43 GMT</pubDate>
             <content:encoded><![CDATA[교수는 강의마다 ‘빻은 소리(부적절한 발언)’를 한마디라도 하지 않으면 그날 밤 몸 어딘가에 뿔이 날 거라고 굳게 믿는 사람 같았다. 레퍼토리는 매번 달랐다. 왕년에 한 꼰대 짓부터 ‘요즘 애들’에 대한 개탄, 은근한 성차별 발언까지, 교수는 거의 모든 포지션이 소화 가능한 ‘올라운더’였다.여기서 그쳤다면 그저 ‘흔한 중년 남성 교수’ 정도였을 것이다. 발언의 수위도 사실 그리 높진 않았다. 그런 그가 유독 기억에 남은 건, 피식 웃으면서 마지막에 꼭 붙...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/03/14/news-p.v1.20230314.0874ba2efc10475abec8f71a2aa3ae14_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“세계의 어머니들에게 바치는 상”…양자경 아시아계 최초 아카데미 여우주연상]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202303131421001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202303131421001</guid>
-            <pubDate>Mon, 13 Mar 2023 06:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[제95회 미국 아카데미 영화는 영화 &lt;에브리씽 에브리웨어 올 앳 원스&gt;(이하 에브리씽)이 ‘에브리씽 했다’는 말로 요약된다. 배우 양쯔충(양자경)이 아시아계 배우 최초로 미국 아카데미 여우주연상을 받았고, &lt;에브리씽&gt;이 작품상과 감독상, 남여조연상, 편집상까지 모두 휩쓸어 7관왕을 기록했다.제95회 미국 아카데미 시상식은 영화 &lt;에브리씽 에브리웨어 올 앳 원스&gt;(이하 에브리씽)이 ‘에브리씽 했다’는 말로 요약된다. 배우 양쯔충(양자경)이 아시아계 배우...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/03/13/news-p.v1.20230313.05bc40c062584adab2e51ab68f67945c_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
