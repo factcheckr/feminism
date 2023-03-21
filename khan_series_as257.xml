@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 02:04:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 03:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아빠가 ‘중혼’이라…한국 온 엄마와 함께 살 수 없는 ‘코피노’]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202303211114001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202303211114001</guid>
+            <pubDate>Tue, 21 Mar 2023 03:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[한국 법원 판결로 한국 국적을 취득한 이른바 ‘코피노(한국 남성과 필리핀 여성 사이에서 태어난 아이)’들이 필리핀 국적 어머니들과 함께 한국에서 살고자 입국했지만 법무부가 이 어머니들에게 자녀양육(F-6-2) 비자를 내주지 않고 있는 것으로 파악됐다. 외국인이며 친부가 한국 여성과 결혼한 ‘중혼’ 상태이기 때문에 자녀양육 비자를 내줄 수 없다는 것이다. 이 때문에 코피노들은 주민등록도, 의료보험 가입도 못하고 있다. 이민·이주 정책의 중요성을 강조하는 법무부...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/03/21/news-p.v1.20230321.5aef78560e014d8ebcadc9e4d3d9e2d0_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘더 글로리’ 임지연…“세상 모두가 연진이 미워했으면”]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202303201103001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 14 Mar 2023 08:17:39 GMT</pubDate>
             <content:encoded><![CDATA[“우리는 당신들이 불태우지 못한 마녀의 후손들이다!(We are the descendants of withes that would not burn!)” 최근 많은 시위 현장에서 외쳐지는 슬로건이다. 여성에 대한 폭력에 반대하며, 저항하는 주체로서 여성을 강조한다.페미니스트 학자이자 저술가 실비아 페데리치는 “마녀사냥을 역사적으로 ‘모든 여성에 대한 전쟁’으로 볼 수 있다는 인식이 페미니스트들 사이에서 확산”되고 있다고 말한다.지난 8일 세계 여성의날을 맞아 여성에 대한 책들이 출간됐다. 현...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/03/14/news-p.v1.20230314.040d899b50124d09a9ed0720d08dc706_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기성세대가 ‘MZ’를 말하는 진짜 의미는]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202303141103001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202303141103001</guid>
-            <pubDate>Tue, 14 Mar 2023 02:36:43 GMT</pubDate>
-            <content:encoded><![CDATA[교수는 강의마다 ‘빻은 소리(부적절한 발언)’를 한마디라도 하지 않으면 그날 밤 몸 어딘가에 뿔이 날 거라고 굳게 믿는 사람 같았다. 레퍼토리는 매번 달랐다. 왕년에 한 꼰대 짓부터 ‘요즘 애들’에 대한 개탄, 은근한 성차별 발언까지, 교수는 거의 모든 포지션이 소화 가능한 ‘올라운더’였다.여기서 그쳤다면 그저 ‘흔한 중년 남성 교수’ 정도였을 것이다. 발언의 수위도 사실 그리 높진 않았다. 그런 그가 유독 기억에 남은 건, 피식 웃으면서 마지막에 꼭 붙...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/03/14/news-p.v1.20230314.0874ba2efc10475abec8f71a2aa3ae14_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
