@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 11:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 12:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/6af00baa-ecc1-4081-a345-79718c78710c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[기후변화는 우리의 노동에 큰 혼란을 가져왔어요 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9588</link>
+            <guid>https://ildaro.com/9588</guid>
+            <pubDate>Tue, 21 Mar 2023 12:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[날이 따뜻해가지고 시금치가 너무 빨리 큰 거예요. 10월에 심었는데 11월에 다 성장을 해 버려서 제값 못 받고 일찍 캐 버린 사람들이 많았어요...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023032130527984.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘먹는 행위’도 ‘굶는 행위’도 정치적인 것이다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9587</link>
             <guid>https://ildaro.com/9587</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 23 Feb 2023 10:54:00 GMT</pubDate>
             <content:encoded><![CDATA[섭식장애 당사자-연구자로서, 김윤아 씨가 우리 사회에 전하고 싶은 메시지는 이것이다. “우리 주변에 너무나 많은 사람들이 고통받고 있다는 걸 알았으면 좋겠어요...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023022320503344.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘재생산 권리’와 다양성을 포용하는 색다른 병원 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9568</link>
-            <guid>https://ildaro.com/9568</guid>
-            <pubDate>Mon, 13 Mar 2023 18:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[진짜 의료서비스다운 서비스를 제공하고 싶어요. 제도적으로 아직 뒷받침이 안 되는 부분이 있더라도, 이런 곳 하나쯤 있다는 걸 알려야죠....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023022128206464.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
