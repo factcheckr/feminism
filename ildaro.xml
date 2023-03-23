@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 00:55:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 02:07:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[농사에서 자기 결정권을 갖기 시작한 여성들]]></title>
+            <link>https://ildaro.com/9589</link>
+            <guid>https://ildaro.com/9589</guid>
+            <pubDate>Thu, 23 Mar 2023 10:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[여성농민들은 500평 이하의 텃밭에서 스스로 작부 체계를 세우고, 친환경 농법을 고민하고 실천하며, 자신의 이름과 얼굴을 내 건 농산물을 출하했다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023032306349367.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기후변화는 우리의 노동에 큰 혼란을 가져왔어요]]></title>
             <link>https://ildaro.com/9588</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Mar 2023 18:15:45 GMT</pubDate>
             <content:encoded><![CDATA[한사람 한사람을 ‘있는 그대로’ 바라보았으면 좋겠어요. 내가 만난 그들은 그냥 나의 이웃일 뿐이었고, 행복할 권리가 있는 소중한 한 사람이었어요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023022455171087.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘섭식장애’ 우리의 문제라는 생각을 가졌으면 좋겠어요]]></title>
-            <link>https://ildaro.com/9569</link>
-            <guid>https://ildaro.com/9569</guid>
-            <pubDate>Thu, 23 Feb 2023 10:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[섭식장애 당사자-연구자로서, 김윤아 씨가 우리 사회에 전하고 싶은 메시지는 이것이다. “우리 주변에 너무나 많은 사람들이 고통받고 있다는 걸 알았으면 좋겠어요...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023022320503344.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
