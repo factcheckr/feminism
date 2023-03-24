@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 00:56:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 02:07:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/6af00baa-ecc1-4081-a345-79718c78710c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Newly Born Mother is Not Imprisoned in Motherhood (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9590</link>
+            <guid>https://ildaro.com/9590</guid>
+            <pubDate>Fri, 24 Mar 2023 10:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[“The Handless Maiden” is a record of survival of a woman who experienced horrible abuse from her parents....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023032444192148.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[농사에서 자기 결정권을 갖기 시작한 여성들 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9589</link>
             <guid>https://ildaro.com/9589</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 26 Feb 2023 11:53:00 GMT</pubDate>
             <content:encoded><![CDATA[표준국어대사전에서 ‘사랑’의 뜻풀이를 찾아보면 그중 ‘남녀 간에 그리워하거나 좋아하는 마음. 또는 그런 일.’이라고 정의된 문장이 앞선다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023022658485339.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네 ‘이웃’을 가두거나 쫓아내지 말라 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9570</link>
-            <guid>https://ildaro.com/9570</guid>
-            <pubDate>Mon, 13 Mar 2023 18:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[한사람 한사람을 ‘있는 그대로’ 바라보았으면 좋겠어요. 내가 만난 그들은 그냥 나의 이웃일 뿐이었고, 행복할 권리가 있는 소중한 한 사람이었어요....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023022455171087.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
