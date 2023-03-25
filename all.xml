@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 00:54:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 02:04:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/6af00baa-ecc1-4081-a345-79718c78710c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[암의 경험과 ‘함께’ 살아가기 위한 연구 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9591</link>
+            <guid>https://ildaro.com/9591</guid>
+            <pubDate>Sat, 25 Mar 2023 09:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[대학 강의에서 출석 점수는 중요한 비중을 차지했다. 출석을 성실함으로 간주하고, 좋은 점수를 받아도 되는 근거로 제시하는 공식은 암환자인 하은을 번번히 좌절시...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023032502149052.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The Newly Born Mother is Not Imprisoned in Motherhood (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9590</link>
             <guid>https://ildaro.com/9590</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 13 Mar 2023 18:15:45 GMT</pubDate>
             <content:encoded><![CDATA[파치로, 못난이로 불리는 나.  누가? 왜? 누가 우리를 쓸모없게 하는가? 같이 자라고 같이 수확되지만 외모와 크기를 기준으로 쓸모없는 것으로 구분된다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023022731597175.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여러 가지 사랑의 형태와 문학 수업 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9571</link>
-            <guid>https://ildaro.com/9571</guid>
-            <pubDate>Sun, 26 Feb 2023 11:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[표준국어대사전에서 ‘사랑’의 뜻풀이를 찾아보면 그중 ‘남녀 간에 그리워하거나 좋아하는 마음. 또는 그런 일.’이라고 정의된 문장이 앞선다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023022658485339.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
