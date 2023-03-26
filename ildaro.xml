@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 02:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 03:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남성이 장악한 정치 “2030 여성들이 바꾸자”]]></title>
+            <link>https://ildaro.com/9592</link>
+            <guid>https://ildaro.com/9592</guid>
+            <pubDate>Sun, 26 Mar 2023 11:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[“뒤를 이어갈 사람을 위해서라도, 우리처럼 정치 경력이나 뒷배가 없는 사람이 입후보하는 일이 중요하다고 생각합니다.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023032639019959.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[암의 경험과 ‘함께’ 살아가기 위한 연구]]></title>
             <link>https://ildaro.com/9591</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Feb 2023 11:27:00 GMT</pubDate>
             <content:encoded><![CDATA[돈이 없거나 일이 없다는 사실, 혹은 미래에 대한 불안감으로 더 힘들어할 법한데 그거보단 연애를 못한다는 것, 누구에게도 사랑받지 못했다는 점이 가장 괴로웠어요...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023022835347536.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[못생겼다고 버림받는 농산물 ‘파치’들의 해방일지]]></title>
-            <link>https://ildaro.com/9572</link>
-            <guid>https://ildaro.com/9572</guid>
-            <pubDate>Mon, 13 Mar 2023 18:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[파치로, 못난이로 불리는 나.  누가? 왜? 누가 우리를 쓸모없게 하는가? 같이 자라고 같이 수확되지만 외모와 크기를 기준으로 쓸모없는 것으로 구분된다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023022731597175.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
