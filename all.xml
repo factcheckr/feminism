@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 22:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 23:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/03/20/news-p.v1.20230320.568d7d1bd9c44930a3f537d6a7fd500d_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[혹시, 번아웃인가요? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1230</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1230</guid>
+            <pubDate>Mon, 27 Mar 2023 23:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 뉴스레터는, 시사 이슈보다는 제가 최근에 읽은 책 내용으로 채워보려고 해요. 문화부에서 출판을 담당하는 저는 신간을 받아서 좋은 책을 소개하는 서평 기사를 쓰는 것이 주된 일인데요. 비교적 한 주 동안 다룰만한 여성 이슈가 적었고, 지난주에 읽은 이 책이 무척 좋아서, 허스펙티브 독자 여러분과 나누고 싶었습니다. 제목은 '나는 왜 나보다 남을 더 신경 쓸까?(현암사 발행)'예요. 부제는 '눈치보기, 호감 얻기, 욕구 억누르기로 지쳐버린 여성들을 위한 심리학'입니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/853892e1-2a2c-446c-aa5a-3ab7367988ea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[싸우는 여자가 이긴다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1223</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1223</guid>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 30 Jan 2023 17:13:27 GMT</pubDate>
             <content:encoded><![CDATA[올해의 마지막 뉴스레터로 찾아뵙습니다. 원래는 지난해처럼 올해의 젠더 이슈 총정리로 한 해를 마무리할 계획이었는데요. '연말'이기 때문에 조금 더 의미 있는 보도와 내용을 담을 수 없을지 곰곰 고민하다가 '여성홈리스 증언대회'라는 현장에 다녀왔습니다. 모두의 일상이 각박해 주변의 어려운 이웃에 눈길 주기 쉽지 않은 나날입니다. 그럼에도 허스펙티브의 독자님들과 조금 더 소외되고, 가난하고, 약한 이들의 목소리에 귀 기울이며 마음을 나누는 연말을 보내고 싶었습니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/b5449833-ad02-4b8d-9152-ffd2576815fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[92년 만에 새 땅을 밟은 여성 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1140</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1140</guid>
-            <pubDate>Mon, 30 Jan 2023 17:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[단연 발군이었던 한국 대표팀의 경기 성적이나 내용은 차치하고, 허스펙티브는 본연의 역할인 '여성'에 초점을 맞춰 오늘 뉴스레터를 채워볼게요. 또한 이주노동자 인권 문제 등으로 인해 카타르 월드컵은 개최 전부터 보이콧 움직임이 강했다는 점, 지난 뉴스레터에서 언급했었지요. 그 연장선상에서 모두가 지구촌 축구 축제의 '승부'에 집중하는 사이 한국일보는 월드컵 이면의 모습도 들여다봅니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/6af00baa-ecc1-4081-a345-79718c78710c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[남성이 장악한 정치 “2030 여성들이 바꾸자” (일다 ─ 전체기사)]]></title>
