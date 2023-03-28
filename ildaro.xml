@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 00:58:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 02:10:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘한국수어’에서 혐오표현 빼고, 존중과 긍정 더하기]]></title>
+            <link>https://ildaro.com/9593</link>
+            <guid>https://ildaro.com/9593</guid>
+            <pubDate>Tue, 28 Mar 2023 10:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[농인을 수어통역사를 통해서만 만날 수 있다고 생각하지 않았으면 좋겠어요. 사실 농인과 청인은 정말 다양한 형태로 만날 수 있거든요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023032804216430.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남성이 장악한 정치 “2030 여성들이 바꾸자”]]></title>
             <link>https://ildaro.com/9592</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Mar 2023 18:15:45 GMT</pubDate>
             <content:encoded><![CDATA[여성이나 재일코리안에 대한 헤이트, 혐한, 혐중 등이 실존적으로 바닥에 구멍이 난 사람들을 쉽게 흡수해버리는 힘이 되어버리고 있죠....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/202303015056128.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘취약성’을 키워드로 남성성을 분석하다]]></title>
-            <link>https://ildaro.com/9573</link>
-            <guid>https://ildaro.com/9573</guid>
-            <pubDate>Tue, 28 Feb 2023 11:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[돈이 없거나 일이 없다는 사실, 혹은 미래에 대한 불안감으로 더 힘들어할 법한데 그거보단 연애를 못한다는 것, 누구에게도 사랑받지 못했다는 점이 가장 괴로웠어요...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202302/2023022835347536.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

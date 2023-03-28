@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 00:58:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 02:10:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[난임 여성들 서로에게 건네는 위로 ‘헬로 베이비’]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202303281020001</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202303281020001</guid>
+            <pubDate>Tue, 28 Mar 2023 02:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[얼마전 한국의 합계출산율이 0.78을 기록했다는 소식에 온나라가 걱정을 했다. 국민의힘에서는 20대에 아이 셋을 낳은 남성의 병역을 면제해주자는 비현실적인 아이디어를 냈다가 철회했다. 모두가 저출생을 걱정하는 와중에 유독 조명을 덜 받는 이들이 있다. 바로 아기를 낳기 위해 배에 주사를 찔러가며 숨어서 눈물 흘리는 난임 여성들. &lt;콜센터&gt;로 제6회 수림문학상을 수상한 소설가 김의경이 마흔 넘은 나이에 난임병원을 찾아 마주한 애틋한 이야기를 전한다.소설...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/28/news-p.v1.20230328.38bfad60132a4a7db8060b35756c1dae_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성별임금격차, ‘이만하면 좋아진 것 아니냐’는 당신에게]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202303271754001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 21 Mar 2023 03:11:40 GMT</pubDate>
             <content:encoded><![CDATA[한국 법원 판결로 한국 국적을 취득한 이른바 ‘코피노(한국 남성과 필리핀 여성 사이에서 태어난 아이)’들이 필리핀 국적 어머니들과 함께 한국에서 살고자 입국했지만 법무부가 이 어머니들에게 자녀양육(F-6-2) 비자를 내주지 않고 있는 것으로 파악됐다. 외국인이며 친부가 한국 여성과 결혼한 ‘중혼’ 상태이기 때문에 자녀양육 비자를 내줄 수 없다는 것이다. 이 때문에 코피노들은 주민등록도, 의료보험 가입도 못하고 있다. 이민·이주 정책의 중요성을 강조하는 법무부...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/21/news-p.v1.20230321.5aef78560e014d8ebcadc9e4d3d9e2d0_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘더 글로리’ 임지연…“세상 모두가 연진이 미워했으면”]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202303201103001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202303201103001</guid>
-            <pubDate>Mon, 20 Mar 2023 02:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[“세상 사람들이 모두 다 연진이를 끝까지 미워했으면 좋겠어요.”배우 임지연은 넷플릭스 드라마 &lt;더 글로리&gt;에서 ‘학교폭력 가해자 박연진’ 그 자체였다. 어떤 나쁜 짓을 해도 구원받았던 박연진의 평화는 학창시절 자신이 괴롭힌 문동은(배우 송혜교)이 딸의 담임교사로 나타나면서 균열이 시작된다.박연진은 악인 중 악인답게 문동은의 약점을 골라 하나씩 후벼판다. &lt;더 글로리&gt;의 악인을 연기한 배우들은 대본을 받아들며 “연진아 너무 한 거 아니냐”며 이...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/20/news-p.v1.20230320.568d7d1bd9c44930a3f537d6a7fd500d_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
