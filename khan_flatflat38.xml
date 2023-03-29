@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 23:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 01:02:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폭언과 갑질 피해가 일상인 골프장 캐디]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202303290947001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202303290947001</guid>
+            <pubDate>Wed, 29 Mar 2023 01:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[8년차 골프장 경기보조원(캐디) A씨(37)는 3개월 연습생 기간을 거쳐 신입 캐디가 된 순간을 잊지 못한다. “여자가 아이 키우며 하기 좋은 직업”이라는 얘기를 듣고 시작한 일이었다. “캐디 150명 모두 자기 번호가 있어요. 운동선수 등 번호처럼요. 내 번호가 생겼다는 사실이 좋았어요. 기뻤죠.”기대에 부풀었던 마음은 얼마 가지 못했다. 남성 고객 4명의 경기 지원을 나간 자리였다. “너 (성관계) 몇 번까지 해봤어?” 한 고객이 명함을 주며 대뜸 물었다. 다른 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/29/news-p.v1.20230328.c7804134dbdd44c78251ddf88d899ed5_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성착취·노동착취도 ‘인신매매’…인신매매 개념 넓힌다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202303281535001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 22 Mar 2023 03:11:26 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;다음 소희&gt;는 2017년 콜센터로 현장실습을 나간 한 특성화고 학생이 극단적 선택을 한 실화를 다룬다. 소희(김시은 분)는 고객이 퍼붓는 욕설을 그대로 감당하는 감정노동과 과도한 콜 수 압박에 시달리다 결국 극단적 선택을 한다. 영화는 형사 유진(배두나 분)의 시선을 따라 특성화고 현장실습 시스템의 구조적 모순을 드러낸다. 학교는 취업률을 올리기 위해 학생을 열악한 일자리에 몰아넣고, 회사는 ‘값싼 노동력’인 학생을 착취해 실적을 올렸다. 영화는...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/22/news-p.v1.20230322.dad9d6be37f14e368395ee79cb394838_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선정성 없이도 그들의 증언이 힘을 얻도록, 논의는 다시 시작돼야 한다]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202303211644001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202303211644001</guid>
-            <pubDate>Tue, 21 Mar 2023 08:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 오리지널 다큐멘터리 &lt;나는 신이다: 신이 배신한 사람들&gt; 1~3화인 JMS(기독교복음선교회) 에피소드 방영 후 벌어진 논의는 조지 레이코프의 유명한 책 &lt;코끼리는 생각하지 마&gt;를 비틀어 인용하면 ‘선정성은 생각하지 마’로 요약할 수 있을 듯하다. JMS 총재 정명석의 성범죄 사실을 증언하고 묘사하는 과정에서 그의 음란한 요구나 성폭행 상황 묘사, 여성 신도들의 나체 사진이나 영상 자료가 사용되며 일종의 포르노그래피적인 전시를 한 것이 아니냐...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/21/news-p.v1.20230321.9e5302ccb4b843efa2a451424cccd6ab_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
