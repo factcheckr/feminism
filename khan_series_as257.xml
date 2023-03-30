@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 05:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 06:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기술직 신입 공채 ‘여성 0명’ 현대차, 이번엔 다를까]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202303301502001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202303301502001</guid>
+            <pubDate>Thu, 30 Mar 2023 06:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[노동계가 10년 만에 이뤄지는 현대자동차 생산직(기술직) 공개채용에서 성평등한 채용이 이뤄져야 한다고 촉구했다. 현대자동차는 지금까지 한 번도 기술직 공채에서 여성을 채용한 적이 없다.민주노총 금속노조와 현대자동차지부, 채용성차별철폐공동행동은 29일 서울 중구 금속노조에서 기자회견을 열어 “지금도 청년여성들은 ‘여성이라 뽑아주지 않을 것’이라는 불안을 안고 구직활동에 임하고 있다”며 “현대자동차는 2023년 기술직 부문 채용에 있어 공정하고 성차별적이지 않...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/03/30/news-p.v1.20230330.883a313425014a9db57d026c363a264d_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[혐오와 폭력에도 아시아계 여성은 무너지지 않는다]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202303300945001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 24 Mar 2023 03:12:34 GMT</pubDate>
             <content:encoded><![CDATA[한국의 성별임금격차는 매우 커 OECD에 가입한 원년인 1996년부터 27년째 ‘꼴찌’다. 2021년 기준 성별임금격차는 31.1%로 남성이 100만원을 받을 때 여성은 68만9000원을 받는다. 두번째로 격차가 나는 일본에 비해서도 10%포인트 내외의 큰 격차를 유지하고 있다.경향신문 특별기획팀은 성별임금격차의 원인을 데이터로 뜯어보고자 했다. 5회는 여성 고용률은 늘렸지만 성별 임금격차를 줄이지 못한 AA제도의 한계, 성별 임금격차를 줄이기 위한 대표적인 노력인 ‘성별 임...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/03/24/news-p.v1.20230324.2e1331d32f8344d8aa2c5f21c8fbdde4_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘구조’를 빙자한 ‘납치’…러시아로 보내지는 우크라이나 아동들]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202303231111001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202303231111001</guid>
-            <pubDate>Thu, 23 Mar 2023 03:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[국제형사재판소(ICC)가 우크라이나 아동들을 러시아로 불법 이주시킨 혐의로 블라디미르 푸틴 러시아 대통령에게 체포 영장을 발부한 가운데, 우크라이나 점령지 아이들에 대한 ‘구조’를 빙자해 러시아가 ‘납치’를 저지른 정황이 속속 드러나고 있다. 러시아는 전쟁 고아 뿐 아니라 부모가 있는 아이들도 전쟁의 혼란을 틈타 러시아로 이주시킨 뒤, 아동들에게 양육권 요청 동의서에 서명하게 한 것으로 나타났다.19일(현지시간) 영국 가디언은 세 아이와 생이별을 했다가 가...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/03/23/news-p.v1.20230323.ea8549240c5f4cd68617c0679827586e_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
