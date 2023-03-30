@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 03:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 04:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가짜미투 오명 뒤집어쓴 ‘98년생 김현진’]]></title>
+            <link>https://ildaro.com/9596</link>
+            <guid>https://ildaro.com/9596</guid>
+            <pubDate>Thu, 30 Mar 2023 04:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[박진성 시인에 대한 ‘가짜 미투의 희생양’ 프레임은 가짜 미투 희생양의 현신이 필요한 사람들의 공조를 통해 만들어졌다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023033009399845.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[환자들의 ‘이야기’가 섭식장애 인식과 치료방식 바꿨다]]></title>
             <link>https://ildaro.com/9594</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Mar 2023 18:15:45 GMT</pubDate>
             <content:encoded><![CDATA[단편영화제에서 우수한 성적을 거둔 수많은 여성 감독들이 장편 데뷔를 쉽게 하지 못하는 것은 우연이 아니다. 영화의 장비들이 비장애인 성인 남성 기준으로 만들어...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023030444357127.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엄마가 유산으로 남긴 침묵의 일기장을 채우는 딸]]></title>
-            <link>https://ildaro.com/9575</link>
-            <guid>https://ildaro.com/9575</guid>
-            <pubDate>Fri, 03 Mar 2023 10:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[“우리가 여자로서 서로에게 저지른 죄는 충분히 지지하지 않은 것이다.” (216쪽)...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023030334177146.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
