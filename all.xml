@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 06:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 07:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/04/news-p.v1.20230404.6b62025f7fb14c5b8b9ada47ee86eda1_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미혼부도 이제 자녀 출생신고 할 수 있다 (경향신문 ─ 플랫)]]></title>
+            <title><![CDATA[미혼부도 이제 혼외관계서 태어난 자녀 출생신고 할 수 있다 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202304041003001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202304041003001</guid>
             <pubDate>Tue, 04 Apr 2023 02:04:54 GMT</pubDate>
@@ -171,12 +171,12 @@
             <title><![CDATA[50년 만의 달 탐사 4인조 공개, 여성·흑인·캐나다인 포함 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/science/science-general/article/202304041512001</link>
             <guid>https://www.khan.co.kr/science/science-general/article/202304041512001</guid>
-            <pubDate>Tue, 04 Apr 2023 06:14:54 GMT</pubDate>
+            <pubDate>Tue, 04 Apr 2023 06:14:10 GMT</pubDate>
             <content:encoded><![CDATA[내년 11월 발사될 우주선인 아르테미스 2호에 탈 우주비행사 4명이 발표됐다. 사상 처음으로 여성과 유색인종이 달 궤도 비행에 나서게 됐다.미국 항공우주국(NASA)은 3일(현지시간) 인간을 달에 다시 보내는 것을 핵심으로 한 ‘아르테미스 계획’의 일환으로 내년 11월 발사되는 아르테미스 2호의 우주비행사 4명을 공개했다.아르테미스 계획은 1972년 아폴로 17호가 다녀온 뒤 인간의 발걸음이 끊긴 달에 사람을 다시 보내는 게 핵심이다. 이를 통해 2020년대 후반에는 사...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/04/news-p.v1.20230404.6b62025f7fb14c5b8b9ada47ee86eda1_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미혼부도 이제 자녀 출생신고 할 수 있다 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <title><![CDATA[미혼부도 이제 혼외관계서 태어난 자녀 출생신고 할 수 있다 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202304041003001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202304041003001</guid>
             <pubDate>Tue, 04 Apr 2023 02:04:54 GMT</pubDate>

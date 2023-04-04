@@ -4,7 +4,7 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 06:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 07:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/04/news-p.v1.20230404.6b62025f7fb14c5b8b9ada47ee86eda1_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미혼부도 이제 자녀 출생신고 할 수 있다]]></title>
+            <title><![CDATA[미혼부도 이제 혼외관계서 태어난 자녀 출생신고 할 수 있다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202304041003001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202304041003001</guid>
             <pubDate>Tue, 04 Apr 2023 02:05:37 GMT</pubDate>
