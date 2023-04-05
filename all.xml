@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 05:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 06:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘아이 셋 두면 군면제’ 저출생 대책 회의는 출발부터 틀렸다 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202304051457001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202304051457001</guid>
+            <pubDate>Wed, 05 Apr 2023 06:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[해프닝으로 끝났지만 그랬을 거다. 국민의힘 정책위원회가 저출생 대책이랍시고 검토했다는 ‘자녀 3명인 20대 남성의 병역 면제’ 안건은 단순한 의견을 넘어 초벌구이는 되었기에 외부에 알려졌을 거다. 상식적이라면 비슷한 소리가 등장하자마자 “뭐? 누가 알까 봐 부끄럽다!”라는 한탄과 함께 버려졌어야 하지만 아니었을 거다. ‘올해의 가장 수준 낮은 아이디어’가 오갔을 회의실을 상상해 본다.정권의 입맛에 맞는 사람들로 꾸려진 위원회에서는 저출생을 논하면서도 투...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/05/news-p.v1.20230404.a6b04d662d674de190b70d309b765f42_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘밤안개’ 원로가수 현미 별세 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202304051025011</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 29 Mar 2023 06:15:28 GMT</pubDate>
             <content:encoded><![CDATA[한국에서 개인이 가족에 의존하지 않고 살기란 쉽지 않다. 가족을 중심으로 거의 모든 사회·경제 제도가 설계돼 있기 때문이다. 국가는 가족에 돌봄·양육·부양·간병 등 사회 재생산과 관련된 대부분의 책임을 부과해놓고 많지 않은 혜택도 가족을 통해 배분한다. 이것은 태곳적부터 그랬다기보다 국가 주도 경제 발전에 편리했기 때문이다. 그런데 언젠가부터 가족 보호의 밖에 있는 사람이 늘어나고 인구 위기가 운위되는 걸 보면, 그 가족을 둘러싸고 문제가 생긴 것이 분...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/29/news-p.v1.20230323.7ae9e2db13534a0eaba3d8a3d2e604f9_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폭언과 갑질 피해가 일상인 골프장 캐디 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202303290947001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202303290947001</guid>
-            <pubDate>Wed, 29 Mar 2023 01:00:40 GMT</pubDate>
-            <content:encoded><![CDATA[8년차 골프장 경기보조원(캐디) A씨(37)는 3개월 연습생 기간을 거쳐 신입 캐디가 된 순간을 잊지 못한다. “여자가 아이 키우며 하기 좋은 직업”이라는 얘기를 듣고 시작한 일이었다. “캐디 150명 모두 자기 번호가 있어요. 운동선수 등 번호처럼요. 내 번호가 생겼다는 사실이 좋았어요. 기뻤죠.”기대에 부풀었던 마음은 얼마 가지 못했다. 남성 고객 4명의 경기 지원을 나간 자리였다. “너 (성관계) 몇 번까지 해봤어?” 한 고객이 명함을 주며 대뜸 물었다. 다른 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/29/news-p.v1.20230328.c7804134dbdd44c78251ddf88d899ed5_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘아이 셋 두면 군면제’ 저출생 대책 회의는 출발부터 틀렸다 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202304051457001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202304051457001</guid>
+            <pubDate>Wed, 05 Apr 2023 06:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[해프닝으로 끝났지만 그랬을 거다. 국민의힘 정책위원회가 저출생 대책이랍시고 검토했다는 ‘자녀 3명인 20대 남성의 병역 면제’ 안건은 단순한 의견을 넘어 초벌구이는 되었기에 외부에 알려졌을 거다. 상식적이라면 비슷한 소리가 등장하자마자 “뭐? 누가 알까 봐 부끄럽다!”라는 한탄과 함께 버려졌어야 하지만 아니었을 거다. ‘올해의 가장 수준 낮은 아이디어’가 오갔을 회의실을 상상해 본다.정권의 입맛에 맞는 사람들로 꾸려진 위원회에서는 저출생을 논하면서도 투...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/05/news-p.v1.20230404.a6b04d662d674de190b70d309b765f42_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘밤안개’ 원로가수 현미 별세 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202304051025011</link>
             <guid>https://www.khan.co.kr/culture/culture-general/article/202304051025011</guid>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Mar 2023 06:15:28 GMT</pubDate>
             <content:encoded><![CDATA[한국에서 개인이 가족에 의존하지 않고 살기란 쉽지 않다. 가족을 중심으로 거의 모든 사회·경제 제도가 설계돼 있기 때문이다. 국가는 가족에 돌봄·양육·부양·간병 등 사회 재생산과 관련된 대부분의 책임을 부과해놓고 많지 않은 혜택도 가족을 통해 배분한다. 이것은 태곳적부터 그랬다기보다 국가 주도 경제 발전에 편리했기 때문이다. 그런데 언젠가부터 가족 보호의 밖에 있는 사람이 늘어나고 인구 위기가 운위되는 걸 보면, 그 가족을 둘러싸고 문제가 생긴 것이 분...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/03/29/news-p.v1.20230323.7ae9e2db13534a0eaba3d8a3d2e604f9_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폭언과 갑질 피해가 일상인 골프장 캐디[플랫] (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202303290947001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202303290947001</guid>
-            <pubDate>Wed, 29 Mar 2023 01:00:40 GMT</pubDate>
-            <content:encoded><![CDATA[8년차 골프장 경기보조원(캐디) A씨(37)는 3개월 연습생 기간을 거쳐 신입 캐디가 된 순간을 잊지 못한다. “여자가 아이 키우며 하기 좋은 직업”이라는 얘기를 듣고 시작한 일이었다. “캐디 150명 모두 자기 번호가 있어요. 운동선수 등 번호처럼요. 내 번호가 생겼다는 사실이 좋았어요. 기뻤죠.”기대에 부풀었던 마음은 얼마 가지 못했다. 남성 고객 4명의 경기 지원을 나간 자리였다. “너 (성관계) 몇 번까지 해봤어?” 한 고객이 명함을 주며 대뜸 물었다. 다른 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/03/29/news-p.v1.20230328.c7804134dbdd44c78251ddf88d899ed5_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이래서 아이 낳겠어요? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
