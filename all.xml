@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 09:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 10:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/89e5392f-d13e-4692-a2bd-d8974f2c7442.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[몸을 바르게 하는 ‘요가’, 사회를 바르게 하는 ‘운동’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9600</link>
+            <guid>https://ildaro.com/9600</guid>
+            <pubDate>Wed, 05 Apr 2023 10:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[노조 할 때 일제강점기 여성노동운동 책을 감명깊게 읽었어요. 일제와의 싸움이면서 자기 주권을 찾는 이야기. 이 책도 그렇게 읽히면 좋겠어요. 언니들이 이렇게 살았...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023040552384988.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[요가 선생님이 들려준 한국 여성노동운동사 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9599</link>
             <guid>https://ildaro.com/9599</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 10 Mar 2023 09:46:00 GMT</pubDate>
             <content:encoded><![CDATA[누가 봐도 참 잘 되던 시기였는데, 내 마음은 그렇지 못했다.  그 때부터 내 속은 시커멓게 타들어 가고 있었음을 나는 알지 못했다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023031052353933.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숫자가 아니라 이야기의 주인공으로 죽을 수 있을까 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9579</link>
-            <guid>https://ildaro.com/9579</guid>
-            <pubDate>Wed, 08 Mar 2023 00:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[숫자는 몸의 형상을 띠지도, 붉은 피를 내비치지도 않는다. 그래서 웬만해서는 감정을 건드리지 않는다. 숫자와 통계는 맥락 속에서만 의미가 있다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023030852184054.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
