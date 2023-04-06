@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 23:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 00:51:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한쪽 눈 잃은 이란 청년들의 연대 저항 “내 심장은 여전히 뛴다”]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202304060948001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202304060948001</guid>
+            <pubDate>Thu, 06 Apr 2023 00:50:16 GMT</pubDate>
+            <content:encoded><![CDATA[“한 눈으로 자유를 목격하겠다.” “너희는 내 눈을 겨눴지만 내 심장은 여전히 뛰고 있다.”지난해 9월 마흐사 아미니의 의문사 이후 이란 전역으로 확산된 ‘히잡 시위’에 참가했다가 보안군에 의해 한쪽 눈을 잃은 이란 청년들이 사회관계망서비스(SNS)를 통해 서로 연대하며 저항을 이어가고 있다고 BBC가 5일 보도했다.박사과정생인 엘라헤 타보코리안은 지난해 9월 이란 북동부 도시 마슈하드 인근에서 열린 시위에 참가했다가 보안군이 쏜 총에 맞아 오른쪽 눈을 잃...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/06/news-p.v1.20230406.ba861e1914794f4f8c6e8ead6128ce8a_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘아이 셋 두면 군면제’ 저출생 대책 회의는 출발부터 틀렸다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202304051457001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 30 Mar 2023 00:56:37 GMT</pubDate>
             <content:encoded><![CDATA[출판 담당 기자로서 책을 읽으면서 신날 때가 있다. 책과 책이 서로 만나 며 두 텍스트의 맥락을 선명하게 보여주고 이해의 폭을 풍부하게 해줄 때다. 퍼즐이 맞춰지며 그림의 윤곽이 선명해지는 기분이랄까. 이번엔 책과 영화의 만남이다. 아카데미 시상식을 휩쓴 영화 &lt;에브리씽 에브리웨어 올 앳 원스&gt;(에에올)를 보면서 황승현의 &lt;미국에서 찾은 아시아의 미&gt;(아시아의 미·서해문집)를 떠올렸다. &lt;에에올&gt;은 아시아계 미국인 서사이자 모녀 서사·이민 1세...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/30/news-p.v1.20230330.62630bb96a474389902085a59d1b37c0_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원하는 동반자와 살아갈 권리, 그렇게 ‘가족’이 된다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202303291514001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202303291514001</guid>
-            <pubDate>Wed, 29 Mar 2023 07:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[한국에서 개인이 가족에 의존하지 않고 살기란 쉽지 않다. 가족을 중심으로 거의 모든 사회·경제 제도가 설계돼 있기 때문이다. 국가는 가족에 돌봄·양육·부양·간병 등 사회 재생산과 관련된 대부분의 책임을 부과해놓고 많지 않은 혜택도 가족을 통해 배분한다. 이것은 태곳적부터 그랬다기보다 국가 주도 경제 발전에 편리했기 때문이다. 그런데 언젠가부터 가족 보호의 밖에 있는 사람이 늘어나고 인구 위기가 운위되는 걸 보면, 그 가족을 둘러싸고 문제가 생긴 것이 분...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/29/news-p.v1.20230323.7ae9e2db13534a0eaba3d8a3d2e604f9_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
