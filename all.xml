@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 01:59:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 02:29:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/89e5392f-d13e-4692-a2bd-d8974f2c7442.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아이 데리고 선거운동, 괜찮아! ‘육아선거해킹! 프로젝트’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9601</link>
+            <guid>https://ildaro.com/9601</guid>
+            <pubDate>Fri, 07 Apr 2023 11:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[아이를 맡길 곳이 없어 어쩔 수 없이 아이를 거리유세에 데려가면, 상대 후보 측과 시민들로부터 “법률위반 아니냐”, “아이를 이용한다” 등의 비난을 받기도 한다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023040721503205.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[몸을 바르게 하는 ‘요가’, 사회를 바르게 하는 ‘운동’ (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9600</link>
             <guid>https://ildaro.com/9600</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 12 Mar 2023 10:44:00 GMT</pubDate>
             <content:encoded><![CDATA[학교에서 학생들을 양육하는 사람을 ‘양육자’가 아니라 ‘학부모’로 부릅니다. 가정환경조사서에 부모에 대해 적는 난이 있어, 부/모가 없거나 부모 돌봄을 못받는...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023031248311072.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지상파 데뷔 이후, 굶기 시작했다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9580</link>
-            <guid>https://ildaro.com/9580</guid>
-            <pubDate>Fri, 10 Mar 2023 09:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[누가 봐도 참 잘 되던 시기였는데, 내 마음은 그렇지 못했다.  그 때부터 내 속은 시커멓게 타들어 가고 있었음을 나는 알지 못했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023031052353933.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
