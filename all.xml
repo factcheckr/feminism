@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 04:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 05:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/89e5392f-d13e-4692-a2bd-d8974f2c7442.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[비혼여성 시골살이, 궁금하면 ‘땅끝우먼로드‘ 걷자 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9603</link>
+            <guid>https://ildaro.com/9603</guid>
+            <pubDate>Sun, 09 Apr 2023 05:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[‘Q농’은 Questionary와 농(農)이 결합된 단어로 “농사(와 시골살이)에 대한 질문, 호기심, 규정하지 않는 무언가”를 뜻한다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023040952347340.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[고발 영화의 스포트라이트가 향해야 할 곳은 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9602</link>
             <guid>https://ildaro.com/9602</guid>
@@ -478,14 +486,6 @@
             <pubDate>Tue, 14 Mar 2023 11:16:00 GMT</pubDate>
             <content:encoded><![CDATA[여성들 사이에 있는 상호 카운슬링 같은 연대감의 경험을 남자들은 쌓지 못했어요. 생산주의나 능력주의에 수렴되지 않는 느슨한 공동성(the common)을 발굴하는 작업을...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023031434227490.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Servers Can’t Have Short Hair? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9582</link>
-            <guid>https://ildaro.com/9582</guid>
-            <pubDate>Mon, 13 Mar 2023 10:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[I don’t want to become a masculine person, but it feels like I have to take on an attitude and behavior that fits my hair....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023031323249564.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
