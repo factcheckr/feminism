@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 08:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 09:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제 음지에서 안 봐요, 태국 GL/BL 드라마의 인기]]></title>
+            <link>https://ildaro.com/9604</link>
+            <guid>https://ildaro.com/9604</guid>
+            <pubDate>Mon, 10 Apr 2023 09:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[그동안 GL 스토리는 BL 드라마에서 주인공이 아닌 조연 캐릭터들의 관계로 종종 등장했을 뿐 전면에 내세워진 적이 없다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023041009231931.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비혼여성 시골살이, 궁금하면 ‘땅끝우먼로드‘ 걷자]]></title>
             <link>https://ildaro.com/9603</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 15 Mar 2023 08:17:35 GMT</pubDate>
             <content:encoded><![CDATA[많고 많은 이슈 중에서, 토론의 주제가 꼭 노키즈존이어야만 했을까? 어떠한 대상이 토론의 주제, 즉 논제로 빈번하게 소환되는가?...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023031510478820.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혐오가 아닌 대안, ‘약자남성’들의 출구찾기]]></title>
-            <link>https://ildaro.com/9583</link>
-            <guid>https://ildaro.com/9583</guid>
-            <pubDate>Tue, 14 Mar 2023 11:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[여성들 사이에 있는 상호 카운슬링 같은 연대감의 경험을 남자들은 쌓지 못했어요. 생산주의나 능력주의에 수렴되지 않는 느슨한 공동성(the common)을 발굴하는 작업을...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023031434227490.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
