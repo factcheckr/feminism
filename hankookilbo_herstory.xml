@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 22:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 23:12:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비혼으로 늙으면 어떨까?]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1244</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1244</guid>
+            <pubDate>Mon, 10 Apr 2023 23:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[지난 한 달 동안에는 꽤 여러 차례 출산과 육아에 대해 이야기 했어요. 아무래도 합계출산율 0.78명이라는 충격적인 통계가 발표된 직후인데다, 윤석열 대통령의 출산 정책이 발표됐기 때문이죠. 하지만 3년 차 함께하고 있는 지금, 여러분도 잘 아시다시피 허스펙티브는 여러분의 주체적이고 자율적인 선택이라면 그 어떤 삶의 양식이라도 응원하는 거. 구태여 말 더하지 않아도 되겠지요?]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/56538de7-7f75-40ec-a77f-a9614f0dd41d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이래서 아이 낳겠어요?]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1238</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 06 Feb 2023 23:20:32 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 지난 뉴스레터에서 예고한 바와 같이, 여성의 자유롭고 안전한 섹슈얼리티를 위해서 우리에겐 어떤 논의들이 더 필요한지 한 발자국 더 들어가 보겠습니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/76f27b94-a241-4dc3-a22b-6f1375668c44.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NO means NO!!!]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1177</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1177</guid>
-            <pubDate>Mon, 30 Jan 2023 23:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[지난 26일 여성가족부는 비동의간음죄 신설을 검토한다는 내용을 '제3차 양성평등정책 기본계획'에 담았다고 발표했습니다. 법무부와 여가부가 함께 논의한 결과라고도 명시했습니다. 그런데 갑자기 법무부가 "개정 계획이 없다"고 선을 긋습니다. 발표 약 8시간 만에 여가부도 "개정 계획이 없다"며 물러섰습니다. 그러면서 '윤석열 정부'의 정책이 아님을 재차 강조했습니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/89e5392f-d13e-4692-a2bd-d8974f2c7442.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
