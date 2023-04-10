@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 00:54:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 02:01:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여성 연쇄 살해사건을 다루는 두 여성 기자의 추적기 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202304101010001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202304101010001</guid>
+            <pubDate>Mon, 10 Apr 2023 01:59:40 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;보스턴 교살자&gt;는 미국 보스턴 일대에서 1960년대에 발생한 실화를 바탕으로 만들어졌습니다. 총 13명의 여성이 목을 졸려 죽임을 당한 사건을 경찰이 아닌 기자의 관점으로 풀어낸 영화입니다. 지금까지도 이 사건은 범인을 잡지 못했습니다. 이른바 미국판 &lt;살인의 추억&gt; 기자 버전이라고 할 수 있습니다.“기회를 주지 않으면 어떻게 경험을 쌓을 수 있죠?”키이라 나이틀리가 연기한 ‘로레타’는 ‘레코드 아메리칸’이라는 보스턴 지역 신문사에서 패션이나 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/10/news-p.v1.20230404.3afbed35c97d4e84bb2f82429d42be15_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘어린 엄마’ 10명 중 7명 산후우울감, 주로 “혼자 참는다” (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202304061500001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 31 Mar 2023 02:07:54 GMT</pubDate>
             <content:encoded><![CDATA[‘남자가 무슨 간호사냐’는 핀잔도 들었다. ‘남자는 꼼꼼하지 못하다’는 편견도 받았다. 강도 높은 노동환경에 그만두고 싶을 때도 있었지만 버텼다. 환자에게는 따뜻한 간호사로, 후배에게는 든든한 버팀목이 되고 싶어서였다. 서울 신촌세브란스 병원 남자 간호사들 이야기다.이들은 최근 응급실부터 장기이식센터, 수술실, 어린이병원 등 병원 곳곳에서 고군분투해온 이야기를 담아 &lt;간호사가 되기로 했다&gt;를 출간했다. 책 수익금은 전액 간호국과 어린이병원에 기부하기...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/31/news-p.v1.20230330.fe0aae4ee75a4990921e834f7cf6eb94_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기술직 신입 공채 ‘여성 0명’ 현대차, 이번엔 다를까 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202303301502001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202303301502001</guid>
-            <pubDate>Thu, 30 Mar 2023 06:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[노동계가 10년 만에 이뤄지는 현대자동차 생산직(기술직) 공개채용에서 성평등한 채용이 이뤄져야 한다고 촉구했다. 현대자동차는 지금까지 한 번도 기술직 공채에서 여성을 채용한 적이 없다.민주노총 금속노조와 현대자동차지부, 채용성차별철폐공동행동은 29일 서울 중구 금속노조에서 기자회견을 열어 “지금도 청년여성들은 ‘여성이라 뽑아주지 않을 것’이라는 불안을 안고 구직활동에 임하고 있다”며 “현대자동차는 2023년 기술직 부문 채용에 있어 공정하고 성차별적이지 않...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/03/30/news-p.v1.20230330.883a313425014a9db57d026c363a264d_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여성 연쇄 살해사건을 다루는 두 여성 기자의 추적기 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202304101010001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202304101010001</guid>
+            <pubDate>Mon, 10 Apr 2023 02:00:23 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;보스턴 교살자&gt;는 미국 보스턴 일대에서 1960년대에 발생한 실화를 바탕으로 만들어졌습니다. 총 13명의 여성이 목을 졸려 죽임을 당한 사건을 경찰이 아닌 기자의 관점으로 풀어낸 영화입니다. 지금까지도 이 사건은 범인을 잡지 못했습니다. 이른바 미국판 &lt;살인의 추억&gt; 기자 버전이라고 할 수 있습니다.“기회를 주지 않으면 어떻게 경험을 쌓을 수 있죠?”키이라 나이틀리가 연기한 ‘로레타’는 ‘레코드 아메리칸’이라는 보스턴 지역 신문사에서 패션이나 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/10/news-p.v1.20230404.3afbed35c97d4e84bb2f82429d42be15_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘어린 엄마’ 10명 중 7명 산후우울감, 주로 “혼자 참는다” (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202304061500001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202304061500001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 31 Mar 2023 02:07:54 GMT</pubDate>
             <content:encoded><![CDATA[‘남자가 무슨 간호사냐’는 핀잔도 들었다. ‘남자는 꼼꼼하지 못하다’는 편견도 받았다. 강도 높은 노동환경에 그만두고 싶을 때도 있었지만 버텼다. 환자에게는 따뜻한 간호사로, 후배에게는 든든한 버팀목이 되고 싶어서였다. 서울 신촌세브란스 병원 남자 간호사들 이야기다.이들은 최근 응급실부터 장기이식센터, 수술실, 어린이병원 등 병원 곳곳에서 고군분투해온 이야기를 담아 &lt;간호사가 되기로 했다&gt;를 출간했다. 책 수익금은 전액 간호국과 어린이병원에 기부하기...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/03/31/news-p.v1.20230330.fe0aae4ee75a4990921e834f7cf6eb94_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기술직 신입 공채 ‘여성 0명’ 현대차, 이번엔 다를까 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202303301502001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202303301502001</guid>
-            <pubDate>Thu, 30 Mar 2023 06:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[노동계가 10년 만에 이뤄지는 현대자동차 생산직(기술직) 공개채용에서 성평등한 채용이 이뤄져야 한다고 촉구했다. 현대자동차는 지금까지 한 번도 기술직 공채에서 여성을 채용한 적이 없다.민주노총 금속노조와 현대자동차지부, 채용성차별철폐공동행동은 29일 서울 중구 금속노조에서 기자회견을 열어 “지금도 청년여성들은 ‘여성이라 뽑아주지 않을 것’이라는 불안을 안고 구직활동에 임하고 있다”며 “현대자동차는 2023년 기술직 부문 채용에 있어 공정하고 성차별적이지 않...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/03/30/news-p.v1.20230330.883a313425014a9db57d026c363a264d_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이래서 아이 낳겠어요? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
