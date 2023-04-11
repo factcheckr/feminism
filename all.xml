@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 09:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 10:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/76f27b94-a241-4dc3-a22b-6f1375668c44.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Those Who Went Beyond the Borders of Division Between North and South (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9605</link>
+            <guid>https://ildaro.com/9605</guid>
+            <pubDate>Tue, 11 Apr 2023 10:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[The story involves weighty issues: North Korea, its people, food shortages, defectors, relations between the North and the South, etc....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023041121568096.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이제 음지에서 안 봐요, 태국 GL/BL 드라마의 인기 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9604</link>
             <guid>https://ildaro.com/9604</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 17 Mar 2023 10:40:00 GMT</pubDate>
             <content:encoded><![CDATA[시드니라고 모든 사람이 성소수자를 환대하지 않을 것이다. 하지만 적어도 성소수자를 향한 혐오와 차별, 배제가 잘못된 것이라는 인식이 자리하고 있다는 걸 느낄 수...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023031747259524.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘혐오 토론’이 되기 쉽다, 혐오 사회에서는 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9584</link>
-            <guid>https://ildaro.com/9584</guid>
-            <pubDate>Wed, 15 Mar 2023 08:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[많고 많은 이슈 중에서, 토론의 주제가 꼭 노키즈존이어야만 했을까? 어떠한 대상이 토론의 주제, 즉 논제로 빈번하게 소환되는가?...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023031510478820.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
