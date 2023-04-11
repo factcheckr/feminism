@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 05:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 06:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유산재분배 잡음 LG, 이면엔 ‘아들 상속’ 위해 재구성된 ‘가족문제’]]></title>
+            <link>https://www.khan.co.kr/economy/economy-general/article/202304111510001</link>
+            <guid>https://www.khan.co.kr/economy/economy-general/article/202304111510001</guid>
+            <pubDate>Tue, 11 Apr 2023 06:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[구본무 전 회장이 사망(2018년 5월 20일)한 뒤 40여일 만에 첫 출근을 한 구광모 회장이 가까운 직원들에게 당부한 것은 두 가지였다. “당분간 회장보다는 대표로 불러달라”, “구 전 회장님의 집무실(30층)은 추모공간으로 보존해 달라”다. 회장으로서 공식 취임식도, 대외적인 취임사도 없던 구 회장의 출근 첫날은 그렇게 ‘갑자기’ 시작됐다.구 회장은 2004년에 구 전 회장의 양자로 입적돼 일찌감치 그룹의 후계자로 낙점됐다. LG그룹의 4대 회장이 되는 건 당연한 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/11/news-p.v1.20230410.985a2d3191234ac0aa3477fb14f87065_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘한 명의 아이도 포기하지 않기 위한’ 교육감 출마, 그리고 당선]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202304111005001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 04 Apr 2023 02:04:54 GMT</pubDate>
             <content:encoded><![CDATA[혼외 관계에서 태어난 아이의 출생신고는 생모만 할 수 있다는 현행법이 헌법에 어긋난다는 헌법재판소 결정이 나왔다.헌재는 A씨 등이 가족관계등록법 제46조 제2항 등에 대해 낸 헌법소원 사건에서 재판관 전원일치 의견으로 헌법불합치 결정했다고 30일 밝혔다. 해당 조항은 혼인 외 출생자의 신고는 ‘어머니’만 할 수 있다고 규정한다. 혼인 외 생부는 ‘생모의 성명, 등록기준지, 주민등록번호를 알 수 없는 경우’에만 출생신고를 할 수 있는데, 이마저도 가정법원의...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/04/news-p.v1.20230403.af091b81defa433ca8f45b1b4e38bb5c_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[의인화한 동물 이미지를 제멋대로 소비하는 ‘뻔뻔함’]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202304031503011</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202304031503011</guid>
-            <pubDate>Mon, 03 Apr 2023 06:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[한 정치인이 개인 SNS에 자신의 정치 행보를 알리면서 “얼룩말 세로처럼 훨훨 활보하겠다”는 말과 함께 세로의 탈주를 패러디한 이미지를 올렸다. 그 이미지 안에서 세로는 인간처럼 두 발로 서서 어깨를 당당히 편 채 아스팔트 위를 걸어가고 있었다. 이걸 본 순간, 내가 인간이라는 사실이 부끄러웠다.물론 인간이 동물에 빗대어 스스로를 설명하는 역사는 유구하다. 특히 의인화된 동물이 등장하는 우화는 인간의 자기 이해와 지혜가 고여 숙성되는 향기로운 술통과도...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/03/news-p.v1.20230403.7d3a8d3516f94797a069e1be0cd29b66_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
