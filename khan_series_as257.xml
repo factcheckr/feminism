@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 00:54:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 02:03:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘한 명의 아이도 포기하지 않기 위한’ 교육감 출마, 그리고 당선]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202304111005001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202304111005001</guid>
+            <pubDate>Tue, 11 Apr 2023 02:02:37 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;※이 기사는 2023년 4월 7일자 경향신문 [여적]노옥희·천창수 ‘부부 교육감’ 을 재가공하였습니다.&gt;지난해 12월 심장마비로 별세한 노옥희 전 울산시교육감의 남편인 천창수 후보가 5일 울산교육감 보궐선거에서 61.94% 득표율로 당선했다. 사상 첫 부부 교육감이다. 조용한 외조자였던 그는 아내가 못다 이룬 ‘한 명의 아이도 포기하지 않는’ 교육개혁을 이어가기 위해 출마를 결심했다고 한다. 유권자는 이에 압도적 지지율로 답했다.노동운동가이자 교사 출신인 천...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/11/news-p.v1.20230410.48f696d19f6f4adf839b31f3cb74d337_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“머리를 가리지 않아” 유엔 여성 직원 출근길 막아선 탈레반]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202304101422011</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 03 Apr 2023 06:15:04 GMT</pubDate>
             <content:encoded><![CDATA[한 정치인이 개인 SNS에 자신의 정치 행보를 알리면서 “얼룩말 세로처럼 훨훨 활보하겠다”는 말과 함께 세로의 탈주를 패러디한 이미지를 올렸다. 그 이미지 안에서 세로는 인간처럼 두 발로 서서 어깨를 당당히 편 채 아스팔트 위를 걸어가고 있었다. 이걸 본 순간, 내가 인간이라는 사실이 부끄러웠다.물론 인간이 동물에 빗대어 스스로를 설명하는 역사는 유구하다. 특히 의인화된 동물이 등장하는 우화는 인간의 자기 이해와 지혜가 고여 숙성되는 향기로운 술통과도...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/03/news-p.v1.20230403.7d3a8d3516f94797a069e1be0cd29b66_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박원순 전 시장 묘소 민주열사 묘역으로…여성단체 “2차 피해 가중”]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202304030959001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202304030959001</guid>
-            <pubDate>Mon, 03 Apr 2023 02:00:26 GMT</pubDate>
-            <content:encoded><![CDATA[여성단체, 양대노총이 박원순 전 서울시장의 묘가 모란공원 민주열사 묘역으로 이장되는 데 대해 “무의미한 행보로 피해자에게 2차 피해를 가중하는 행위를 즉각 중단하라”고 밝혔다.한국성폭력상담소·한국여성의전화·민주노총·한국노총 등 90개 단체는 31일 ‘성평등과 여성인권 빠진 민주화운동, 민주주의는 없다’는 제목의 성명을 내고 이같이 말했다.2020년 성추행 의혹으로 피소당하자 극단적 선택을 한 박 전 시장은 생가와 선영이 있는 경남 창녕에 묻혔다. 하지만 2021년...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/03/news-p.v1.20230402.1d0ed9cdbb5c4aabae0af15e28f95b15_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
