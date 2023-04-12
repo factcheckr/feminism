@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 00:53:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 02:03:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“사고를 ‘만났지만’ 내일을 기대하며 사는, 나는 이지선입니다”]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202304121010001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202304121010001</guid>
+            <pubDate>Wed, 12 Apr 2023 02:02:28 GMT</pubDate>
+            <content:encoded><![CDATA[지난 3월 28일, 벚꽃이 만개한 이화여대 교정은 봄기운으로 화사했다. 오가는 학생들의 얼굴에도 봄꽃이 피었다. 정문에서 오르막길을 한참 올라 만난 이지선 사회복지학과 교수(45)의 연구실. 그런데 문고리가 이웃한 다른 연구실들의 동그란 손잡이와 달랐다. 화상으로 양 엄지손가락을 제외하고 첫 마디를 모두 잘라내 손가락이 짧아진 동생을 위해 오빠 정근씨가 돌리지 않고, 아래로 당기면 되는 도어락을 설치해준 것이다.그가 모교 교수로 임용됐다는 소식은 지난 3월 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/12/news-p.v1.20230411.bee204e64d5c495a86d869f53df46c6e_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유산재분배 잡음 LG, 이면엔 ‘가문 전통’ 위해 재구성된 ‘가족문제’]]></title>
             <link>https://www.khan.co.kr/economy/economy-general/article/202304111510001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 04 Apr 2023 06:14:10 GMT</pubDate>
             <content:encoded><![CDATA[내년 11월 발사될 우주선인 아르테미스 2호에 탈 우주비행사 4명이 발표됐다. 사상 처음으로 여성과 유색인종이 달 궤도 비행에 나서게 됐다.미국 항공우주국(NASA)은 3일(현지시간) 인간을 달에 다시 보내는 것을 핵심으로 한 ‘아르테미스 계획’의 일환으로 내년 11월 발사되는 아르테미스 2호의 우주비행사 4명을 공개했다.아르테미스 계획은 1972년 아폴로 17호가 다녀온 뒤 인간의 발걸음이 끊긴 달에 사람을 다시 보내는 게 핵심이다. 이를 통해 2020년대 후반에는 사...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/04/news-p.v1.20230404.6b62025f7fb14c5b8b9ada47ee86eda1_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미혼부도 이제 혼외관계서 태어난 자녀 출생신고 할 수 있다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202304041003001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202304041003001</guid>
-            <pubDate>Tue, 04 Apr 2023 02:04:54 GMT</pubDate>
-            <content:encoded><![CDATA[혼외 관계에서 태어난 아이의 출생신고는 생모만 할 수 있다는 현행법이 헌법에 어긋난다는 헌법재판소 결정이 나왔다.헌재는 A씨 등이 가족관계등록법 제46조 제2항 등에 대해 낸 헌법소원 사건에서 재판관 전원일치 의견으로 헌법불합치 결정했다고 30일 밝혔다. 해당 조항은 혼인 외 출생자의 신고는 ‘어머니’만 할 수 있다고 규정한다. 혼인 외 생부는 ‘생모의 성명, 등록기준지, 주민등록번호를 알 수 없는 경우’에만 출생신고를 할 수 있는데, 이마저도 가정법원의...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/04/news-p.v1.20230403.af091b81defa433ca8f45b1b4e38bb5c_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
