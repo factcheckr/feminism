@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 03:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 04:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘회복’은 체중계로 잴 수 없는 것]]></title>
+            <link>https://ildaro.com/9606</link>
+            <guid>https://ildaro.com/9606</guid>
+            <pubDate>Wed, 12 Apr 2023 11:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[회복의 정의를 확장한다는 건 ‘파편적 회복에 만족한다’는 게 절대 아니라, 그 반대지요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023041216335385.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Those Who Went Beyond the Borders of Division Between North and South]]></title>
             <link>https://ildaro.com/9605</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 18 Mar 2023 10:12:59 GMT</pubDate>
             <content:encoded><![CDATA[차별과 혐오의 역사로 인해 ‘퀴어’의 몸은 더욱 드러나선 안 되는 것으로 여겨졌고, 이런 현실에 투쟁하고자 퀴어들은 자신의 몸을 드러냈다. 더 이상하게, 더 과감...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023031811129546.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퀴어축제, 도시 외곽이 아니라 도시 전체에서 열리던데요?]]></title>
-            <link>https://ildaro.com/9585</link>
-            <guid>https://ildaro.com/9585</guid>
-            <pubDate>Fri, 17 Mar 2023 10:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[시드니라고 모든 사람이 성소수자를 환대하지 않을 것이다. 하지만 적어도 성소수자를 향한 혐오와 차별, 배제가 잘못된 것이라는 인식이 자리하고 있다는 걸 느낄 수...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023031747259524.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
