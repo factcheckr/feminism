@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 07:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 08:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/76f27b94-a241-4dc3-a22b-6f1375668c44.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘서울’ 도시의 이면, 사라진 공간 그리고 사람들 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9607</link>
+            <guid>https://ildaro.com/9607</guid>
+            <pubDate>Fri, 14 Apr 2023 08:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[도시를 채운 빼곡한 집과 높은 건물은 누구의 것인가? 사라진 것들의 흔적은 무엇으로 채워지고 있는가? 이 불평등을 어떻게 멈출 것인가?...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/202304140122715.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘회복’은 체중계로 잴 수 없는 것 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9606</link>
             <guid>https://ildaro.com/9606</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 20 Mar 2023 10:29:00 GMT</pubDate>
             <content:encoded><![CDATA[하필 그 시점에 단식원에 들어갈 것을 선택했던 걸까? 아마도 나는 몸을 바꾸는 것으로 내 인생이 완전히 달라질 것이라는 기대를 여전히 갖고 있었던 것 같다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023032035067719.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘우리가 옷을 입었든 벗었든. 내 몸으로 뭘 하든’ (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9586</link>
-            <guid>https://ildaro.com/9586</guid>
-            <pubDate>Sat, 18 Mar 2023 10:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[차별과 혐오의 역사로 인해 ‘퀴어’의 몸은 더욱 드러나선 안 되는 것으로 여겨졌고, 이런 현실에 투쟁하고자 퀴어들은 자신의 몸을 드러냈다. 더 이상하게, 더 과감...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023031811129546.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
