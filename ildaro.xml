@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 13:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 14:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LGBTQ+ ‘어디라면 우리의 기도를 들어주시겠습니까?’]]></title>
+            <link>https://ildaro.com/9608</link>
+            <guid>https://ildaro.com/9608</guid>
+            <pubDate>Sat, 15 Apr 2023 14:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[내가 기도하는 곳이 성(性)과 가족의 다양성을 인정하지 않는다면..? 이러한 문제 의식을 가지고 〈어디라면 우리의 기도를 들어주시겠습니까 프로젝트〉가 시작되었...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023041518103676.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘서울’ 도시의 이면, 사라진 공간 그리고 사람들]]></title>
             <link>https://ildaro.com/9607</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 21 Mar 2023 12:22:19 GMT</pubDate>
             <content:encoded><![CDATA[날이 따뜻해가지고 시금치가 너무 빨리 큰 거예요. 10월에 심었는데 11월에 다 성장을 해 버려서 제값 못 받고 일찍 캐 버린 사람들이 많았어요...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023032130527984.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘먹는 행위’도 ‘굶는 행위’도 정치적인 것이다]]></title>
-            <link>https://ildaro.com/9587</link>
-            <guid>https://ildaro.com/9587</guid>
-            <pubDate>Mon, 20 Mar 2023 10:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[하필 그 시점에 단식원에 들어갈 것을 선택했던 걸까? 아마도 나는 몸을 바꾸는 것으로 내 인생이 완전히 달라질 것이라는 기대를 여전히 갖고 있었던 것 같다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023032035067719.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
