@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 21:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 22:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/10/news-p.v1.20230410.eea22f31b556473aa78f0657c21b6c39_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[세월호와 이태원이 만났다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1253</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1253</guid>
+            <pubDate>Mon, 17 Apr 2023 22:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[지난 16일은 세월호 참사 9주기였어요. 저는 아직도 대학생이었던 참사 당일 뉴스 속보를 보던 기억이 생생해요. 여러분에게 그해 4월은 어떤 기억으로 남아있나요.&nbsp;오늘 뉴스레터는 사회적 참사 이후 트라우마라는 길고 어두운 터널을 힘겹게 뚫고 나오면서도, 강인하게 자신의 목소리를 내는 두 생존자의 이야기와 세월호를 기억하는 사람들의 이야기를 전합니다.&nbsp;]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/4cecc502-e054-4412-8d8c-72709ec6969f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[비혼으로 늙으면 어떨까? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1244</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1244</guid>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 13 Feb 2023 23:15:19 GMT</pubDate>
             <content:encoded><![CDATA[오늘 뉴스레터 제목을 보고 혹시 '부글부글' 끓는 마음에 클릭하셨나요? 성평등이 도래하지도 않은 세상에 가뜩이나 좌절스러운데, 백래시가 영원하기까지 하다니! 이런 마음을 충분히 이해합니다. 그러나 이 문장의 앞에 전제를 하나 달도록 할게요. '여성운동이 멈추지 않는 한'이라는 조건을 달면 조금 달리 읽힙니다. 성평등의 가치를 확산시키고, 또 여성들이 성취하는 세상에서 '백래시'는 불가피하단 거죠. 한 마디로 잘 하고 있다는 겁니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/2483594f-7e61-49d4-98c8-691ce77dc054.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["섹스할 권리는 없다" (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1184</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1184</guid>
-            <pubDate>Mon, 06 Feb 2023 23:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 지난 뉴스레터에서 예고한 바와 같이, 여성의 자유롭고 안전한 섹슈얼리티를 위해서 우리에겐 어떤 논의들이 더 필요한지 한 발자국 더 들어가 보겠습니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/76f27b94-a241-4dc3-a22b-6f1375668c44.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가족은 다양하다고, 학교는 가르쳐주어야 한다 (일다 ─ 전체기사)]]></title>
