@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 02:05:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 03:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가족은 다양하다고, 학교는 가르쳐주어야 한다]]></title>
+            <link>https://ildaro.com/9609</link>
+            <guid>https://ildaro.com/9609</guid>
+            <pubDate>Mon, 17 Apr 2023 10:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[학생들은 가족 관계에 문제를 겪는 경우가 많고, 가족을 사랑하지 못하는 상황 속에 있을 수도 있고, 가족이 ‘남’보다 못하다고 느끼는 경우도 있고, 가족과 만나지...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023041735262611.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LGBTQ+ ‘어디라면 우리의 기도를 들어주시겠습니까?’]]></title>
             <link>https://ildaro.com/9608</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 23 Mar 2023 10:01:00 GMT</pubDate>
             <content:encoded><![CDATA[여성농민들은 500평 이하의 텃밭에서 스스로 작부 체계를 세우고, 친환경 농법을 고민하고 실천하며, 자신의 이름과 얼굴을 내 건 농산물을 출하했다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023032306349367.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기후변화는 우리의 노동에 큰 혼란을 가져왔어요]]></title>
-            <link>https://ildaro.com/9588</link>
-            <guid>https://ildaro.com/9588</guid>
-            <pubDate>Sun, 16 Apr 2023 13:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[날이 따뜻해가지고 시금치가 너무 빨리 큰 거예요. 10월에 심었는데 11월에 다 성장을 해 버려서 제값 못 받고 일찍 캐 버린 사람들이 많았어요...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023032130527984.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

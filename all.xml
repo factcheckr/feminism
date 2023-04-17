@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 02:05:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 03:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,7 +56,7 @@
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/12/news-p.v1.20230412.47d1f0badb9f4f6b80fddd50017b319d_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[“사고를 ‘만났지만’ 내일을 기대하며 사는, 나는 이지선입니다” (경향신문 ─ 플랫)]]></title>
+            <title><![CDATA[“사고를 ‘만났지만’ 소중한 오늘을 사는, 나는 이지선입니다” (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202304121010001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202304121010001</guid>
             <pubDate>Wed, 12 Apr 2023 02:02:28 GMT</pubDate>
@@ -171,7 +171,7 @@
             <title><![CDATA[학폭 피해치유 소홀한 교육당국, 현실 속 ‘문동은’ 일어서지 못한다 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202304171004001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202304171004001</guid>
-            <pubDate>Mon, 17 Apr 2023 02:03:35 GMT</pubDate>
+            <pubDate>Mon, 17 Apr 2023 02:02:52 GMT</pubDate>
             <content:encoded><![CDATA[“현실에선 문동은 캐릭터는 없다고 생각해요. 복수하고 싶은 마음이 있어도, 상대방을 해쳐서 통쾌해할 애들이 아니에요. 그만큼 정말 착하고 여린 친구들이 많아요.”(이동원 해맑음센터 상담지원팀장)학교폭력 피해자의 처절한 복수를 다룬 넷플릭스 드라마 &lt;더 글로리&gt;에서 주인공 문동은은 자퇴 후 가해자를 찾아간다. 괴롭힘을 당하던 체육관에 스스로 걸어들어가, 가해자의 눈을 응시하며 이렇게 말한다. “오늘부터 내 꿈은 너야, 우리 꼭 또 보자, 연진아.” 일생...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/17/news-p.v1.20230414.217e6dfb2bd5456697dbbed6e82c89c3_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -216,7 +216,7 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/12/news-p.v1.20230412.47d1f0badb9f4f6b80fddd50017b319d_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[“사고를 ‘만났지만’ 내일을 기대하며 사는, 나는 이지선입니다” (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <title><![CDATA[“사고를 ‘만났지만’ 소중한 오늘을 사는, 나는 이지선입니다” (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202304121010001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202304121010001</guid>
             <pubDate>Wed, 12 Apr 2023 02:02:28 GMT</pubDate>
@@ -326,6 +326,14 @@
             <pubDate>Mon, 06 Feb 2023 23:20:32 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 지난 뉴스레터에서 예고한 바와 같이, 여성의 자유롭고 안전한 섹슈얼리티를 위해서 우리에겐 어떤 논의들이 더 필요한지 한 발자국 더 들어가 보겠습니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/76f27b94-a241-4dc3-a22b-6f1375668c44.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족은 다양하다고, 학교는 가르쳐주어야 한다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9609</link>
+            <guid>https://ildaro.com/9609</guid>
+            <pubDate>Mon, 17 Apr 2023 10:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[학생들은 가족 관계에 문제를 겪는 경우가 많고, 가족을 사랑하지 못하는 상황 속에 있을 수도 있고, 가족이 ‘남’보다 못하다고 느끼는 경우도 있고, 가족과 만나지...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023041735262611.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LGBTQ+ ‘어디라면 우리의 기도를 들어주시겠습니까?’ (일다 ─ 전체기사)]]></title>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 23 Mar 2023 10:01:00 GMT</pubDate>
             <content:encoded><![CDATA[여성농민들은 500평 이하의 텃밭에서 스스로 작부 체계를 세우고, 친환경 농법을 고민하고 실천하며, 자신의 이름과 얼굴을 내 건 농산물을 출하했다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023032306349367.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기후변화는 우리의 노동에 큰 혼란을 가져왔어요 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9588</link>
-            <guid>https://ildaro.com/9588</guid>
-            <pubDate>Sun, 16 Apr 2023 13:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[날이 따뜻해가지고 시금치가 너무 빨리 큰 거예요. 10월에 심었는데 11월에 다 성장을 해 버려서 제값 못 받고 일찍 캐 버린 사람들이 많았어요...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023032130527984.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
