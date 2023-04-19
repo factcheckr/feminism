@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 02:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 03:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[‘가족’으로 살아가지만 끊임없이 관계를 추궁받는 ‘가족’ (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202304190951001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202304190951001</guid>
-            <pubDate>Wed, 19 Apr 2023 02:11:43 GMT</pubDate>
+            <pubDate>Wed, 19 Apr 2023 02:11:00 GMT</pubDate>
             <content:encoded><![CDATA[“관계가 어떻게 되시죠?” 이런 물음 앞에 머뭇거리는 이들이 있다. 머릿속에서 잠시 적절한 표현을 골라야 한다. “친구요”, “애인이요”, “동거인이요”, “동반자인데요”라고 답하면 이런 반문이 돌아올 것이다. “그러니까 가족은 아니네요?”가족처럼 살아가지만, 가족이라고 부를 수 없는 관계가 있다. 원가족보다 끈끈한 정서적 유대감을 기반으로 돌봄을 주고받는 사이인데도 말이다. 이유는 간단하다. 국가가 법으로 정의한 가족이 아니기 때문이다. 법 테두리 밖의 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/19/news-p.v1.20230418.d4552a098211414193821165fd4b4e67_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/2483594f-7e61-49d4-98c8-691ce77dc054.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[자궁과 질 이야기 어디까지 들어봤니? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9610</link>
+            <guid>https://ildaro.com/9610</guid>
+            <pubDate>Wed, 19 Apr 2023 11:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘여성’의 어떤 표식처럼 얘기되지만, 때때로 ‘여성’들에게도 낯설게 느껴지는 자궁과 질에 대한 이야기를 펼치는 장이 열렸다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023041903368588.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가족은 다양하다고, 학교는 가르쳐주어야 한다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9609</link>
             <guid>https://ildaro.com/9609</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 24 Mar 2023 10:39:00 GMT</pubDate>
             <content:encoded><![CDATA[“The Handless Maiden” is a record of survival of a woman who experienced horrible abuse from her parents....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023032444192148.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[농사에서 자기 결정권을 갖기 시작한 여성들 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9589</link>
-            <guid>https://ildaro.com/9589</guid>
-            <pubDate>Thu, 23 Mar 2023 10:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[여성농민들은 500평 이하의 텃밭에서 스스로 작부 체계를 세우고, 친환경 농법을 고민하고 실천하며, 자신의 이름과 얼굴을 내 건 농산물을 출하했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023032306349367.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
