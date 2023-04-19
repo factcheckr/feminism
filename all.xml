@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 23:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 02:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘가족’으로 살아가지만 끊임없이 관계를 추궁받는 ‘가족’ (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202304190951001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202304190951001</guid>
+            <pubDate>Wed, 19 Apr 2023 02:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[“관계가 어떻게 되시죠?” 이런 물음 앞에 머뭇거리는 이들이 있다. 머릿속에서 잠시 적절한 표현을 골라야 한다. “친구요”, “애인이요”, “동거인이요”, “동반자인데요”라고 답하면 이런 반문이 돌아올 것이다. “그러니까 가족은 아니네요?”가족처럼 살아가지만, 가족이라고 부를 수 없는 관계가 있다. 원가족보다 끈끈한 정서적 유대감을 기반으로 돌봄을 주고받는 사이인데도 말이다. 이유는 간단하다. 국가가 법으로 정의한 가족이 아니기 때문이다. 법 테두리 밖의 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/19/news-p.v1.20230418.d4552a098211414193821165fd4b4e67_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[누가 10대 여학생을 벼랑 끝으로 내몰았나 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202304181416021</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 12 Apr 2023 06:14:16 GMT</pubDate>
             <content:encoded><![CDATA[&lt;※이 기사는 2023년 4월 11일자 경향신문사설 ‘한부모 국가 책임’ 인정한 정부, 가족 인식도 넓어져야 를 재가공하였습니다&gt;여성가족부가 10일 홀로 아이를 키우는 한부모가족의 생활 안정과 양육비 부담 완화에 초점을 둔 종합대책을 발표했다. 2021년 4월 한부모가족지원법이 시행된 후 정부 차원의 첫 기본계획을 내놓은 것이다. 이 기본계획은 앞으로 5년마다 재수립돼 한부모와 자녀의 생활·자립을 돕는 살과 뼈를 붙여가게 된다. 처음으로 한부모가족 지원을 ‘...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/12/news-p.v1.20230412.47d1f0badb9f4f6b80fddd50017b319d_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“사고를 ‘만났지만’ 소중한 오늘을 사는, 나는 이지선입니다” (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202304121010001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202304121010001</guid>
-            <pubDate>Wed, 12 Apr 2023 02:02:28 GMT</pubDate>
-            <content:encoded><![CDATA[지난 3월 28일, 벚꽃이 만개한 이화여대 교정은 봄기운으로 화사했다. 오가는 학생들의 얼굴에도 봄꽃이 피었다. 정문에서 오르막길을 한참 올라 만난 이지선 사회복지학과 교수(45)의 연구실. 그런데 문고리가 이웃한 다른 연구실들의 동그란 손잡이와 달랐다. 화상으로 양 엄지손가락을 제외하고 첫 마디를 모두 잘라내 손가락이 짧아진 동생을 위해 오빠 정근씨가 돌리지 않고, 아래로 당기면 되는 도어락을 설치해준 것이다.그가 모교 교수로 임용됐다는 소식은 지난 3월 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/12/news-p.v1.20230411.bee204e64d5c495a86d869f53df46c6e_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘가족’으로 살아가지만 끊임없이 관계를 추궁받는 ‘가족’ (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202304190951001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202304190951001</guid>
+            <pubDate>Wed, 19 Apr 2023 02:11:43 GMT</pubDate>
+            <content:encoded><![CDATA[“관계가 어떻게 되시죠?” 이런 물음 앞에 머뭇거리는 이들이 있다. 머릿속에서 잠시 적절한 표현을 골라야 한다. “친구요”, “애인이요”, “동거인이요”, “동반자인데요”라고 답하면 이런 반문이 돌아올 것이다. “그러니까 가족은 아니네요?”가족처럼 살아가지만, 가족이라고 부를 수 없는 관계가 있다. 원가족보다 끈끈한 정서적 유대감을 기반으로 돌봄을 주고받는 사이인데도 말이다. 이유는 간단하다. 국가가 법으로 정의한 가족이 아니기 때문이다. 법 테두리 밖의 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/19/news-p.v1.20230418.d4552a098211414193821165fd4b4e67_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[누가 10대 여학생을 벼랑 끝으로 내몰았나 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202304181416021</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202304181416021</guid>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 12 Apr 2023 06:14:16 GMT</pubDate>
             <content:encoded><![CDATA[&lt;※이 기사는 2023년 4월 11일자 경향신문사설 ‘한부모 국가 책임’ 인정한 정부, 가족 인식도 넓어져야 를 재가공하였습니다&gt;여성가족부가 10일 홀로 아이를 키우는 한부모가족의 생활 안정과 양육비 부담 완화에 초점을 둔 종합대책을 발표했다. 2021년 4월 한부모가족지원법이 시행된 후 정부 차원의 첫 기본계획을 내놓은 것이다. 이 기본계획은 앞으로 5년마다 재수립돼 한부모와 자녀의 생활·자립을 돕는 살과 뼈를 붙여가게 된다. 처음으로 한부모가족 지원을 ‘...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/12/news-p.v1.20230412.47d1f0badb9f4f6b80fddd50017b319d_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“사고를 ‘만났지만’ 소중한 오늘을 사는, 나는 이지선입니다” (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202304121010001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202304121010001</guid>
-            <pubDate>Wed, 12 Apr 2023 02:02:28 GMT</pubDate>
-            <content:encoded><![CDATA[지난 3월 28일, 벚꽃이 만개한 이화여대 교정은 봄기운으로 화사했다. 오가는 학생들의 얼굴에도 봄꽃이 피었다. 정문에서 오르막길을 한참 올라 만난 이지선 사회복지학과 교수(45)의 연구실. 그런데 문고리가 이웃한 다른 연구실들의 동그란 손잡이와 달랐다. 화상으로 양 엄지손가락을 제외하고 첫 마디를 모두 잘라내 손가락이 짧아진 동생을 위해 오빠 정근씨가 돌리지 않고, 아래로 당기면 되는 도어락을 설치해준 것이다.그가 모교 교수로 임용됐다는 소식은 지난 3월 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/12/news-p.v1.20230411.bee204e64d5c495a86d869f53df46c6e_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세월호와 이태원이 만났다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
