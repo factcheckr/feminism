@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 03:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 08:29:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아직도 ‘세월호’냐고 묻기 전에]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202304191432001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202304191432001</guid>
+            <pubDate>Wed, 19 Apr 2023 08:28:17 GMT</pubDate>
+            <content:encoded><![CDATA[4월16일은 사람이라면 함께 울어야 하는 날이다. 세월호참사 9주기였던 지난 16일, 오전에는 인천에서 일반인희생자 추모식이 있었고, 오후에는 안산에서 기억식이 있었고, 저 멀리 침몰해역에서는 선상추모식이 있었다. 전국에서 세월호참사를 기억하는 다양한 행사들이 준비되고 진행됐다. 9년이 지났지만, 여전히 세월호참사를 기억하는 많은 사람들이 있다는 건 참으로 다행이다.안산의 기억식에서는 304명의 합창단이 무대에 올라서 합창을 하고는 304명 희생자의 이름이 적힌 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/19/news-p.v1.20230419.9ed72c93aded44c1a4d68aa5b98e8a8a_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘가족’으로 살아가지만 끊임없이 관계를 추궁받는 ‘가족’]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202304190951001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 13 Apr 2023 02:01:26 GMT</pubDate>
             <content:encoded><![CDATA[“비혼으로서 노후를 생각했을 때 다른 사람들의 삶이 눈에 잘 띄지 않았어요. 비혼이 과도기적 삶의 양식이 아니라 삶의 기본값이 된 사람들의 주거, 돌봄, 친밀성에 대한 이야기에 절실하게 목이 말랐어요. 직접 만나서 들어보자고 생각했죠.”&lt;이상한 정상가족&gt;을 펴낸 김희경은 올해로 홀로 산 지 20년째다. 바쁘게 일하면서 혼자 산다는 것을 크게 인식하지 못했다. 2019년 여성가족부 차관으로 일하면서 ‘혼자 살면서 나이 드는 일’을 개인적 차원을 넘어 바라...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/13/news-p.v1.20230413.5b9f23f9888d43d39976f80ba9c955e0_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘한부모 국가 책임’ 인정한 정부, ‘가족개념 확대’로 나아가야]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202304121505001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202304121505001</guid>
-            <pubDate>Wed, 12 Apr 2023 06:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;※이 기사는 2023년 4월 11일자 경향신문사설 ‘한부모 국가 책임’ 인정한 정부, 가족 인식도 넓어져야 를 재가공하였습니다&gt;여성가족부가 10일 홀로 아이를 키우는 한부모가족의 생활 안정과 양육비 부담 완화에 초점을 둔 종합대책을 발표했다. 2021년 4월 한부모가족지원법이 시행된 후 정부 차원의 첫 기본계획을 내놓은 것이다. 이 기본계획은 앞으로 5년마다 재수립돼 한부모와 자녀의 생활·자립을 돕는 살과 뼈를 붙여가게 된다. 처음으로 한부모가족 지원을 ‘...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/12/news-p.v1.20230412.47d1f0badb9f4f6b80fddd50017b319d_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
