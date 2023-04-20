@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 05:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 06:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탈레반의 여성 탄압, 유엔 “아프간서 철수할 수도” 경고]]></title>
+            <link>https://www.khan.co.kr/world/mideast-africa/article/202304201510001</link>
+            <guid>https://www.khan.co.kr/world/mideast-africa/article/202304201510001</guid>
+            <pubDate>Thu, 20 Apr 2023 06:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[탈레반의 여성 탄압에 맞서 유엔이 “가슴 아프지만 아프가니스탄에서 철수 결정을 내릴 준비가 됐다”고 사실상 마지막으로 경고했다.아힘 슈타이너 유엔개발계획(UNDP) 사무총장은 17일(현지시간) AP통신 인터뷰에서 유엔이 5월에 아프간에서 철수하는 것도 고려하고 있다며 이와 같이 말했다. 그는 “현 상황은 유엔 전 체계가 아프간에서 활동하는 것이 맞는지를 재평가하고 한 걸음 물러서야 하는 때”라고 밝혔다. 이어 “이는 근본적인 원칙, 즉 인권을 협상하려는 건 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/20/news-p.v1.20230420.db8d7f2b64af4428943b78e06d5d01ca_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이동권은 공평하지 않다]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202304201000001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 14 Apr 2023 02:00:32 GMT</pubDate>
             <content:encoded><![CDATA[‘한국무용의 르네상스’를 이끈 무용가 김백봉이 지난 11일 노환으로 별세했다. 향년 96세.대한민국예술원은 12일 고인의 별세 소식을 알렸다. 고인은 한국무용을 대표하는 ‘부채춤’과 ‘화관무’의 창시자이다. 한국 근대 무용을 개척한 최승희의 제자이자 동서다. 최승희의 월북 이후 한국 신무용의 전성기를 이끌어왔다.고인은 1927년 평양에서 태어났다. 최승희의 공연을 보고 감동해 1941년 일본 도쿄에 있는 최승희무용연구소 문하생으로 들어갔다. 이듬해 최승희무용단 단원...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/14/news-p.v1.20230413.5b3a4d3d2e174b45ba9b01bd94a30741_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[학폭 처벌 엄벌보다 교사의 권한 강화 통한 ‘예방’에 초점둬야]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202304131510001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202304131510001</guid>
-            <pubDate>Thu, 13 Apr 2023 06:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[학교폭력은 학교라는 공간, 학생이라는 시기에 그치지 않는다. 피해자는 어른이 돼도 몸과 마음의 후유증을 겪는다. 가해자의 반사회적 성향은 가정과 직장에서도 이어진다. 학교폭력의 심각성은 ‘방 안의 코끼리’처럼 모두가 알지만 여러 차례의 정부 대책으로도 해결될 기미가 안 보인다. 어디서부터 잘못된 걸까. 학교폭력 예방 전문가인 성윤숙 한국청소년정책연구원 선임연구위원을 지난 4일 세종시에서 만났다. 성 선임연구위원은 “현재 학교폭력 문제의 중심에는 자녀의 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/13/news-p.v1.20230413.a059cd1e85a44c7f93c6f1f1b3b1dfd6_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
