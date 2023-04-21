@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 00:54:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 02:04:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국 맞벌이 부부, 똑같이 벌어도 가사·돌봄 부담은 ‘여성’이 높아]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202304211015001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202304211015001</guid>
+            <pubDate>Fri, 21 Apr 2023 02:02:41 GMT</pubDate>
+            <content:encoded><![CDATA[미국 맞벌이 가정에서 아내와 남편의 가정 경제 기여도가 비슷하거나 아내의 수입이 더 많은 경우에도 가사·돌봄 등에서 아내가 남편보다 더 많은 부담을 지고 있다는 연구 결과가 발표됐다.퓨리서치센터가 13일(현지시간) 미국 인구센서스 자료와 미국인의 시간 사용 조사 등 통계를 분석해 발표한 보고서에 따르면 지난 50년간 미국 기혼 가정에서 여성의 경제적 기여도는 꾸준히 증가했다.2022년 기준 남녀 소득이 동등한 수준으로 ‘평등주의적’인 가정은 전체의 29%로, ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/21/news-p.v1.20230417.c7f360560ae34eaca527d9bb330c0747_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[탈레반의 여성 탄압, 유엔 “아프간서 철수할 수도” 경고]]></title>
             <link>https://www.khan.co.kr/world/mideast-africa/article/202304201510001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 14 Apr 2023 06:14:10 GMT</pubDate>
             <content:encoded><![CDATA[민자고속도로에서 하청업체 소속으로 일한 톨게이트(요금소) 요금수납원은 불법 파견된 것이므로 원청업체가 정규직으로 직접 고용해야 한다는 대법원 판결이 나왔다. 대법원은 2019년 공기업인 한국도로공사가 운영하는 고속도로 요금수납원의 불법 파견을 인정했는데, 민자고속도로에서 일하는 요금수납원의 불법 파견을 인정한 것은 이번이 처음이다.대법원 1부(주심 노태악 대법관)는 신대구부산고속도로의 요금소에서 일하는 요금수납원 126명이 주식회사 신대구부산고속도로를 상대로 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/14/news-p.v1.20230414.9f3d48676ccd4c258fbe3cc1dabbd7df_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘부채춤’ 창시…‘한국무용 르네상스’ 이끈 무용가 김백봉 별세]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202304141010001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202304141010001</guid>
-            <pubDate>Fri, 14 Apr 2023 02:00:32 GMT</pubDate>
-            <content:encoded><![CDATA[‘한국무용의 르네상스’를 이끈 무용가 김백봉이 지난 11일 노환으로 별세했다. 향년 96세.대한민국예술원은 12일 고인의 별세 소식을 알렸다. 고인은 한국무용을 대표하는 ‘부채춤’과 ‘화관무’의 창시자이다. 한국 근대 무용을 개척한 최승희의 제자이자 동서다. 최승희의 월북 이후 한국 신무용의 전성기를 이끌어왔다.고인은 1927년 평양에서 태어났다. 최승희의 공연을 보고 감동해 1941년 일본 도쿄에 있는 최승희무용연구소 문하생으로 들어갔다. 이듬해 최승희무용단 단원...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/14/news-p.v1.20230413.5b3a4d3d2e174b45ba9b01bd94a30741_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
