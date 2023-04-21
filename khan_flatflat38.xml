@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 06:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 07:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고독한 우주항해 중인 ‘보이저호’와 닮은 가수 윤하의 음악 작업]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202304211534001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202304211534001</guid>
+            <pubDate>Fri, 21 Apr 2023 07:10:47 GMT</pubDate>
+            <content:encoded><![CDATA[가수 겸 싱어송라이터. 본명은 고윤하, 1988년생. 16세인 2004년 일본에서 먼저 데뷔한 뒤 2006년부터 국내에서 활동을 시작했다. 파워 보컬과 감성 보컬 양쪽의 장점과 이미지를 두루 갖춰 록, 발라드, 재즈, R&amp;B 등 다양한 장르를 소화하는 가수로 평가받는다. 지난해 3월 발표한 ‘사건의 지평선’이 역주행하면서 각종 음악차트를 석권했고, 제37회 골든디스크어워즈, 제32회 서울가요대상, 제20회 한국대중음악상 등 6개 상을 휩쓸었다.가사 와닿게 쓰기 어려워…‘타율...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/21/news-p.v1.20230420.91022d2a7d98472fb0f561dc7af27095_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국 맞벌이 부부, 똑같이 벌어도 가사·돌봄 부담은 ‘여성’이 높아]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202304211015001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 17 Apr 2023 02:02:52 GMT</pubDate>
             <content:encoded><![CDATA[“현실에선 문동은 캐릭터는 없다고 생각해요. 복수하고 싶은 마음이 있어도, 상대방을 해쳐서 통쾌해할 애들이 아니에요. 그만큼 정말 착하고 여린 친구들이 많아요.”(이동원 해맑음센터 상담지원팀장)학교폭력 피해자의 처절한 복수를 다룬 넷플릭스 드라마 &lt;더 글로리&gt;에서 주인공 문동은은 자퇴 후 가해자를 찾아간다. 괴롭힘을 당하던 체육관에 스스로 걸어들어가, 가해자의 눈을 응시하며 이렇게 말한다. “오늘부터 내 꿈은 너야, 우리 꼭 또 보자, 연진아.” 일생...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/17/news-p.v1.20230414.217e6dfb2bd5456697dbbed6e82c89c3_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민자고속도로 요금수납원 ‘불법파견’ 인정, 첫 대법 판결]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202304141501001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202304141501001</guid>
-            <pubDate>Fri, 14 Apr 2023 06:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[민자고속도로에서 하청업체 소속으로 일한 톨게이트(요금소) 요금수납원은 불법 파견된 것이므로 원청업체가 정규직으로 직접 고용해야 한다는 대법원 판결이 나왔다. 대법원은 2019년 공기업인 한국도로공사가 운영하는 고속도로 요금수납원의 불법 파견을 인정했는데, 민자고속도로에서 일하는 요금수납원의 불법 파견을 인정한 것은 이번이 처음이다.대법원 1부(주심 노태악 대법관)는 신대구부산고속도로의 요금소에서 일하는 요금수납원 126명이 주식회사 신대구부산고속도로를 상대로 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/14/news-p.v1.20230414.9f3d48676ccd4c258fbe3cc1dabbd7df_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
