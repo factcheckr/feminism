@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 07:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 08:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[고독한 우주항해 중인 ‘보이저호’와 닮은 가수 윤하의 음악 작업 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202304211534001</link>
             <guid>https://www.khan.co.kr/culture/culture-general/article/202304211534001</guid>
-            <pubDate>Fri, 21 Apr 2023 07:11:29 GMT</pubDate>
+            <pubDate>Fri, 21 Apr 2023 07:10:47 GMT</pubDate>
             <content:encoded><![CDATA[가수 겸 싱어송라이터. 본명은 고윤하, 1988년생. 16세인 2004년 일본에서 먼저 데뷔한 뒤 2006년부터 국내에서 활동을 시작했다. 파워 보컬과 감성 보컬 양쪽의 장점과 이미지를 두루 갖춰 록, 발라드, 재즈, R&amp;B 등 다양한 장르를 소화하는 가수로 평가받는다. 지난해 3월 발표한 ‘사건의 지평선’이 역주행하면서 각종 음악차트를 석권했고, 제37회 골든디스크어워즈, 제32회 서울가요대상, 제20회 한국대중음악상 등 6개 상을 휩쓸었다.가사 와닿게 쓰기 어려워…‘타율...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/21/news-p.v1.20230420.91022d2a7d98472fb0f561dc7af27095_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/2483594f-7e61-49d4-98c8-691ce77dc054.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[노동부의 ‘표준’에 내 가족은 왜 없을까요 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9612</link>
+            <guid>https://ildaro.com/9612</guid>
+            <pubDate>Fri, 21 Apr 2023 08:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[‘혼인신고를 안 했는데 진실된 사랑인지 어떻게 아느냐’, ‘혼인을 반복하며 휴가제도를 악용하면 어떻게 하느냐’ 등의 말을 들었습니다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023042154566358.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Immigrant Workers in Korea’s Agricultural Areas Treated like Serfs (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9611</link>
             <guid>https://ildaro.com/9611</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 26 Mar 2023 11:32:00 GMT</pubDate>
             <content:encoded><![CDATA[“뒤를 이어갈 사람을 위해서라도, 우리처럼 정치 경력이나 뒷배가 없는 사람이 입후보하는 일이 중요하다고 생각합니다.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023032639019959.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[암의 경험과 ‘함께’ 살아가기 위한 연구 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9591</link>
-            <guid>https://ildaro.com/9591</guid>
-            <pubDate>Sat, 25 Mar 2023 09:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[대학 강의에서 출석 점수는 중요한 비중을 차지했다. 출석을 성실함으로 간주하고, 좋은 점수를 받아도 되는 근거로 제시하는 공식은 암환자인 하은을 번번히 좌절시...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023032502149052.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
