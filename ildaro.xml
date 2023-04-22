@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Apr 2023 10:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Apr 2023 11:10:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세월호의 기억은 슬픔에 가라앉지 않을 것이다]]></title>
+            <link>https://ildaro.com/9613</link>
+            <guid>https://ildaro.com/9613</guid>
+            <pubDate>Sat, 22 Apr 2023 11:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[세월호 참사와 나 사이에 자리했던 묘한 거리감은 완전히 사라져 있었다. 아픔에 공감하면서도 그것에 침몰되지 않았다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023042255138528.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[노동부의 ‘표준’에 내 가족은 왜 없을까요]]></title>
             <link>https://ildaro.com/9612</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Mar 2023 10:49:00 GMT</pubDate>
             <content:encoded><![CDATA[농인을 수어통역사를 통해서만 만날 수 있다고 생각하지 않았으면 좋겠어요. 사실 농인과 청인은 정말 다양한 형태로 만날 수 있거든요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023032804216430.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남성이 장악한 정치 “2030 여성들이 바꾸자”]]></title>
-            <link>https://ildaro.com/9592</link>
-            <guid>https://ildaro.com/9592</guid>
-            <pubDate>Sun, 26 Mar 2023 11:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[“뒤를 이어갈 사람을 위해서라도, 우리처럼 정치 경력이나 뒷배가 없는 사람이 입후보하는 일이 중요하다고 생각합니다.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023032639019959.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
