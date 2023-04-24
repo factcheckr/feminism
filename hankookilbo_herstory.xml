@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 22:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 23:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마흔살 전업주부, 대학원에 갔다]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1259</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1259</guid>
+            <pubDate>Mon, 24 Apr 2023 23:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 여성들에게 꿈과 희망을 심어주고, 좋은 본보기가 되어주는 한 곤충학자의 이야기를 담아왔어요. 주인공은 바로 '한국의 파브르'라는 별명을 가진 정부희 곤충학 박사입니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/c31eaccd-285a-4b86-8c91-397be820014a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세월호와 이태원이 만났다]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1253</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 20 Feb 2023 23:14:48 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 한 권의 책을 소개할게요. '시장으로 간 성폭력(휴머니스트 발행)'인데요. 2006년부터 한국 성폭력상담소에서 성폭력 피해자 상담과 지원, 가해자 교육 등을 진행해온 김보화 젠더폭력연구소 소장이 쓴 책입니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/f6f3ef17-0b48-40c5-9f1d-97088c75a292.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[백래시는 영원하다]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1189</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1189</guid>
-            <pubDate>Mon, 13 Feb 2023 23:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 뉴스레터 제목을 보고 혹시 '부글부글' 끓는 마음에 클릭하셨나요? 성평등이 도래하지도 않은 세상에 가뜩이나 좌절스러운데, 백래시가 영원하기까지 하다니! 이런 마음을 충분히 이해합니다. 그러나 이 문장의 앞에 전제를 하나 달도록 할게요. '여성운동이 멈추지 않는 한'이라는 조건을 달면 조금 달리 읽힙니다. 성평등의 가치를 확산시키고, 또 여성들이 성취하는 세상에서 '백래시'는 불가피하단 거죠. 한 마디로 잘 하고 있다는 겁니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/2483594f-7e61-49d4-98c8-691ce77dc054.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
