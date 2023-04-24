@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 00:56:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 02:08:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘익명’뒤에 숨은 디지털 성범죄, 피해자 대부분은 10~20대]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202304241010001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202304241010001</guid>
+            <pubDate>Mon, 24 Apr 2023 02:07:58 GMT</pubDate>
+            <content:encoded><![CDATA[미성년자인 A씨는 온라인에서 신원을 알 수 없는 사람에게 성적인 영상 촬영을 강요당했다. 영상을 유포하겠다는 협박도 이어졌다. A씨는 디지털성범죄피해자지원센터(디성센터)를 찾아 피해를 알렸다. 디성센터가 조사해보니 A씨는 지난해 말 논란이 된 ‘제 2의 N번방(텔레그램 ‘엘’ 성 착취)’ 사건 피해자였다. 디성센터 전담대응팀은 영상 삭제를 지원하고, 수사기관과 협력해 주요 가해자를 검거하는 데 기여했다.디지털 성범죄 피해자 절반가량이 신원을 전혀 알 수 없...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/24/news-p.v1.20230421.47c9ce0836ca43a99f60f1afefb89bf5_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고독한 우주항해 중인 ‘보이저호’와 닮은 가수 윤하의 음악 작업]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202304211534001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 18 Apr 2023 06:14:55 GMT</pubDate>
             <content:encoded><![CDATA[싸우는 여자들이 있습니다. 싸움의 대상은 노동환경이나 성차별적 편견만이 아닙니다. 꺼져가는 생명을 살리려 싸우고, 모든 것을 태우는 불꽃과 싸우고,  잊혀져가는 기억과 싸웁니다. 실제 ‘싸움’이 직업인 이들도 있습니다. 우리의 삶은 어쩌면 항상 싸움의 연속입니다. 플랫은 다양한 이유로, 다양한 대상과 ‘싸우는’ 여자들의 이야기를 조명합니다. 싸움의 ‘대상’은 누구인지, 지지 않기 위한 자신만의 ‘무기’가 있는지, 온갖 역경과 방해물에도 싸움을 이어나갈 수...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/17/news-p.v1.20230417.840f8b42951e4ffda01cdbd676d83449_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[학폭 피해치유 소홀한 교육당국, 현실 속 ‘문동은’ 일어서지 못한다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202304171004001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202304171004001</guid>
-            <pubDate>Mon, 17 Apr 2023 02:03:35 GMT</pubDate>
-            <content:encoded><![CDATA[“현실에선 문동은 캐릭터는 없다고 생각해요. 복수하고 싶은 마음이 있어도, 상대방을 해쳐서 통쾌해할 애들이 아니에요. 그만큼 정말 착하고 여린 친구들이 많아요.”(이동원 해맑음센터 상담지원팀장)학교폭력 피해자의 처절한 복수를 다룬 넷플릭스 드라마 &lt;더 글로리&gt;에서 주인공 문동은은 자퇴 후 가해자를 찾아간다. 괴롭힘을 당하던 체육관에 스스로 걸어들어가, 가해자의 눈을 응시하며 이렇게 말한다. “오늘부터 내 꿈은 너야, 우리 꼭 또 보자, 연진아.” 일생...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/17/news-p.v1.20230414.217e6dfb2bd5456697dbbed6e82c89c3_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
