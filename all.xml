@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 00:54:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 02:05:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[워킹맘은 죄인이 아니다 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202304251000011</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202304251000011</guid>
+            <pubDate>Tue, 25 Apr 2023 02:04:09 GMT</pubDate>
+            <content:encoded><![CDATA[지난 4월20일 경향신문이 보도한 대기업 여성노동자 사망과 유가족의 고소사건(“워킹맘이라 차별” 네이버 직원 극단선택…노동부 수사 착수)은 한국 사회에서 일과 양육을 병행하는 여성들이 처한 현실의 한 단면을 보여준다. 지난해 9월 당사자가 세상을 떠났고 올해 3월 유가족이 고소를 제기한 이 사건의 원인이 무엇이고 결과가 어떠할지는 지켜봐야겠지만, 워킹맘으로 살아가는 수많은 여성들의 마음을 아프게 하는 비보(悲報)임은 틀림없다.워킹맘은 죄인인가. ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/25/news-p.v1.20230424.b2574011d702443b9fc026211df0a2d8_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘자율적 통제’로 성착취 막겠다는 디시인사이드의 안이함 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202304241540001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 18 Apr 2023 06:14:12 GMT</pubDate>
             <content:encoded><![CDATA[서울 강남구에서 10대 여학생이 사회관계망서비스(SNS) 라이브 방송을 켠 채 극단적 선택을 했다. 경찰은 이 학생이 디시인사이드 우울증 갤러리에서 활동하며 신체적·정신적 학대를 당한 정황을 잡고 극단적 선택과의 연관성을 조사 중이다. 이 학생이 해당 갤러리에서 만난 한 남성과 극단적 선택을 모의했는지도 살펴보고 있다.서울 강남경찰서는 지난 16일 오후 2시30분쯤 서울 강남구 19층짜리 건물 인근에서 여학생 A양이 숨진 채 발견됐다고 17일 밝혔다. A양은 SN...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/18/news-p.v1.20230418.b8206a02fb584ec7bf5b6700db270436_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정치를 이끌어 가는 여성들의 서사 ‘퀸메이커’ (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202304181001001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202304181001001</guid>
-            <pubDate>Tue, 18 Apr 2023 02:00:22 GMT</pubDate>
-            <content:encoded><![CDATA[한국 정치와 재벌을 그린 대부분의 드라마에서 정치인·재벌 회장은 모두 남성이었다. 정치와 재벌 서사는 그대로 두고 모든 주요 배역을 여성으로 바꾼다면? 지난 14일 공개된 넷플릭스 11부작 드라마 &lt;퀸메이커&gt;가 그렇다.&lt;퀸메이커&gt;는 시작부터 이채롭다. 재벌그룹의 해결사 역할을 하던 똑 부러지는 전략기획실장 황도희(김희애)가 그룹을 벗어난다. 황도희는 ‘흩어지면 죽는다’는 민중가요를 목청껏 부르며 고공농성을 하던 여성 노동인권 변호사 오경숙(문소리)을...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/18/news-p.v1.20230417.e2f56704079c459489a49466d97018dd_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[워킹맘은 죄인이 아니다 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202304251000011</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202304251000011</guid>
+            <pubDate>Tue, 25 Apr 2023 02:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[지난 4월20일 경향신문이 보도한 대기업 여성노동자 사망과 유가족의 고소사건(“워킹맘이라 차별” 네이버 직원 극단선택…노동부 수사 착수)은 한국 사회에서 일과 양육을 병행하는 여성들이 처한 현실의 한 단면을 보여준다. 지난해 9월 당사자가 세상을 떠났고 올해 3월 유가족이 고소를 제기한 이 사건의 원인이 무엇이고 결과가 어떠할지는 지켜봐야겠지만, 워킹맘으로 살아가는 수많은 여성들의 마음을 아프게 하는 비보(悲報)임은 틀림없다.워킹맘은 죄인인가. ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/25/news-p.v1.20230424.b2574011d702443b9fc026211df0a2d8_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘자율적 통제’로 성착취 막겠다는 디시인사이드의 안이함 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202304241540001</link>
             <guid>https://www.khan.co.kr/opinion/column/article/202304241540001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 18 Apr 2023 06:14:12 GMT</pubDate>
             <content:encoded><![CDATA[서울 강남구에서 10대 여학생이 사회관계망서비스(SNS) 라이브 방송을 켠 채 극단적 선택을 했다. 경찰은 이 학생이 디시인사이드 우울증 갤러리에서 활동하며 신체적·정신적 학대를 당한 정황을 잡고 극단적 선택과의 연관성을 조사 중이다. 이 학생이 해당 갤러리에서 만난 한 남성과 극단적 선택을 모의했는지도 살펴보고 있다.서울 강남경찰서는 지난 16일 오후 2시30분쯤 서울 강남구 19층짜리 건물 인근에서 여학생 A양이 숨진 채 발견됐다고 17일 밝혔다. A양은 SN...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/18/news-p.v1.20230418.b8206a02fb584ec7bf5b6700db270436_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정치를 이끌어 가는 여성들의 서사 ‘퀸메이커’ (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202304181001001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202304181001001</guid>
-            <pubDate>Tue, 18 Apr 2023 02:00:22 GMT</pubDate>
-            <content:encoded><![CDATA[한국 정치와 재벌을 그린 대부분의 드라마에서 정치인·재벌 회장은 모두 남성이었다. 정치와 재벌 서사는 그대로 두고 모든 주요 배역을 여성으로 바꾼다면? 지난 14일 공개된 넷플릭스 11부작 드라마 &lt;퀸메이커&gt;가 그렇다.&lt;퀸메이커&gt;는 시작부터 이채롭다. 재벌그룹의 해결사 역할을 하던 똑 부러지는 전략기획실장 황도희(김희애)가 그룹을 벗어난다. 황도희는 ‘흩어지면 죽는다’는 민중가요를 목청껏 부르며 고공농성을 하던 여성 노동인권 변호사 오경숙(문소리)을...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/18/news-p.v1.20230417.e2f56704079c459489a49466d97018dd_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마흔살 전업주부, 대학원에 갔다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
