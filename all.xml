@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 06:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 07:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“장시간 노동 성불평등 강화, 노동시간 단축 선진국이 갈 방향” (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202304271515001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202304271515001</guid>
+            <pubDate>Thu, 27 Apr 2023 07:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[정부의 정책적 개입이 없다면 대기업 조직에서만 우선적으로 시행할 것이다. 기업은 좋은 인력을 유인하기 위해 주 4일제를 할 수밖에 없다. 대기업에서만 시행하더라도 문화 자체가 확산되면 그 추세를 되돌릴 수 없다.”지난 3월 정부는 주 노동시간을 현행 52시간에서 69시간까지 늘릴 수 있는 노동시간 개편안을 발표했다. 이주희 이화여대 사회학과 교수는 정부의 노동시간 개편안에 대해 정규·비정규, 장시간·단시간, 성별을 망라한 “모든 노동자의 시간주권을 침해하는...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/27/news-p.v1.20230427.be425182d5104892adf1086a20d41149_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남성의 ‘폭력’과 여성의 ‘고난’이 담긴 장소, 집 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202304271012001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 21 Apr 2023 02:02:41 GMT</pubDate>
             <content:encoded><![CDATA[미국 맞벌이 가정에서 아내와 남편의 가정 경제 기여도가 비슷하거나 아내의 수입이 더 많은 경우에도 가사·돌봄 등에서 아내가 남편보다 더 많은 부담을 지고 있다는 연구 결과가 발표됐다.퓨리서치센터가 13일(현지시간) 미국 인구센서스 자료와 미국인의 시간 사용 조사 등 통계를 분석해 발표한 보고서에 따르면 지난 50년간 미국 기혼 가정에서 여성의 경제적 기여도는 꾸준히 증가했다.2022년 기준 남녀 소득이 동등한 수준으로 ‘평등주의적’인 가정은 전체의 29%로, ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/21/news-p.v1.20230417.c7f360560ae34eaca527d9bb330c0747_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탈레반의 여성 탄압, 유엔 “아프간서 철수할 수도” 경고 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/world/mideast-africa/article/202304201510001</link>
-            <guid>https://www.khan.co.kr/world/mideast-africa/article/202304201510001</guid>
-            <pubDate>Thu, 20 Apr 2023 06:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[탈레반의 여성 탄압에 맞서 유엔이 “가슴 아프지만 아프가니스탄에서 철수 결정을 내릴 준비가 됐다”고 사실상 마지막으로 경고했다.아힘 슈타이너 유엔개발계획(UNDP) 사무총장은 17일(현지시간) AP통신 인터뷰에서 유엔이 5월에 아프간에서 철수하는 것도 고려하고 있다며 이와 같이 말했다. 그는 “현 상황은 유엔 전 체계가 아프간에서 활동하는 것이 맞는지를 재평가하고 한 걸음 물러서야 하는 때”라고 밝혔다. 이어 “이는 근본적인 원칙, 즉 인권을 협상하려는 건 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/20/news-p.v1.20230420.db8d7f2b64af4428943b78e06d5d01ca_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“장시간 노동 성불평등 강화, 노동시간 단축 선진국이 갈 방향” (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202304271515001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202304271515001</guid>
+            <pubDate>Thu, 27 Apr 2023 07:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[정부의 정책적 개입이 없다면 대기업 조직에서만 우선적으로 시행할 것이다. 기업은 좋은 인력을 유인하기 위해 주 4일제를 할 수밖에 없다. 대기업에서만 시행하더라도 문화 자체가 확산되면 그 추세를 되돌릴 수 없다.”지난 3월 정부는 주 노동시간을 현행 52시간에서 69시간까지 늘릴 수 있는 노동시간 개편안을 발표했다. 이주희 이화여대 사회학과 교수는 정부의 노동시간 개편안에 대해 정규·비정규, 장시간·단시간, 성별을 망라한 “모든 노동자의 시간주권을 침해하는...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/27/news-p.v1.20230427.be425182d5104892adf1086a20d41149_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[남성의 ‘폭력’과 여성의 ‘고난’이 담긴 장소, 집 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202304271012001</link>
             <guid>https://www.khan.co.kr/culture/culture-general/article/202304271012001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Apr 2023 02:02:41 GMT</pubDate>
             <content:encoded><![CDATA[미국 맞벌이 가정에서 아내와 남편의 가정 경제 기여도가 비슷하거나 아내의 수입이 더 많은 경우에도 가사·돌봄 등에서 아내가 남편보다 더 많은 부담을 지고 있다는 연구 결과가 발표됐다.퓨리서치센터가 13일(현지시간) 미국 인구센서스 자료와 미국인의 시간 사용 조사 등 통계를 분석해 발표한 보고서에 따르면 지난 50년간 미국 기혼 가정에서 여성의 경제적 기여도는 꾸준히 증가했다.2022년 기준 남녀 소득이 동등한 수준으로 ‘평등주의적’인 가정은 전체의 29%로, ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/21/news-p.v1.20230417.c7f360560ae34eaca527d9bb330c0747_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탈레반의 여성 탄압, 유엔 “아프간서 철수할 수도” 경고 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/world/mideast-africa/article/202304201510001</link>
-            <guid>https://www.khan.co.kr/world/mideast-africa/article/202304201510001</guid>
-            <pubDate>Thu, 20 Apr 2023 06:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[탈레반의 여성 탄압에 맞서 유엔이 “가슴 아프지만 아프가니스탄에서 철수 결정을 내릴 준비가 됐다”고 사실상 마지막으로 경고했다.아힘 슈타이너 유엔개발계획(UNDP) 사무총장은 17일(현지시간) AP통신 인터뷰에서 유엔이 5월에 아프간에서 철수하는 것도 고려하고 있다며 이와 같이 말했다. 그는 “현 상황은 유엔 전 체계가 아프간에서 활동하는 것이 맞는지를 재평가하고 한 걸음 물러서야 하는 때”라고 밝혔다. 이어 “이는 근본적인 원칙, 즉 인권을 협상하려는 건 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/20/news-p.v1.20230420.db8d7f2b64af4428943b78e06d5d01ca_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마흔살 전업주부, 대학원에 갔다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
