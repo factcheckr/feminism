@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 02:04:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 03:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요양보호사들의 이야기를 ‘다르게’ 들을 수 있을까]]></title>
+            <link>https://ildaro.com/9616</link>
+            <guid>https://ildaro.com/9616</guid>
+            <pubDate>Thu, 27 Apr 2023 11:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘나는 여기가 적성에 맞’지만 ‘여기는 요양보호사들에게는 지옥’이고, ‘어르신들 만나는 것 자체가 너무 좋’지만 ‘정을 깊게 안 준다’. 한 사람이 말했지만 ...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023042719498638.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제주에서 생태 농사를 짓는 청년의 고민, ‘땅’]]></title>
             <link>https://ildaro.com/9615</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 22 Apr 2023 20:12:20 GMT</pubDate>
             <content:encoded><![CDATA["성적지향을 이유로 한 기존의 차별들은 국제사회에서 점차 사라져 가고 있으며, 남아 있는 차별들도 언젠가는 폐지될 것이다"...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023040111287652.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가짜미투 오명 뒤집어쓴 ‘98년생 김현진’]]></title>
-            <link>https://ildaro.com/9596</link>
-            <guid>https://ildaro.com/9596</guid>
-            <pubDate>Sat, 22 Apr 2023 20:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[박진성 시인에 대한 ‘가짜 미투의 희생양’ 프레임은 가짜 미투 희생양의 현신이 필요한 사람들의 공조를 통해 만들어졌다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023033009399845.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 02:04:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 03:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[남성의 ‘폭력’과 여성의 ‘고난’이 담긴 장소, 집 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202304271012001</link>
             <guid>https://www.khan.co.kr/culture/culture-general/article/202304271012001</guid>
-            <pubDate>Thu, 27 Apr 2023 02:03:50 GMT</pubDate>
+            <pubDate>Thu, 27 Apr 2023 02:03:05 GMT</pubDate>
             <content:encoded><![CDATA[이소호의 세 번째 시집 &lt;홈 스위트 홈&gt;(문학과지성사, 사진) ‘시인의 말’과 ‘차례’ 사이에 든 시는 ‘홈 스위트 홈 소호 문학 전집 시리즈 07’이다. 미래의 어느 날 2023년 4월 출간된 &lt;홈 스위트 홈&gt;과 ‘이소호’에 관해 적은 글이다. ‘네이버 지식백과’의 작가와 작품 소개를 변용한 이 글은 이소호의 원래 이름인 ‘이경진’과 간략한 출생 배경 설명을 거쳐 우화로 자리매김한 시집을 설명한다. “다른 한국어로 번역된 소호 우화들은 많이 각색...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/27/news-p.v1.20230425.13d8b52a34974978a98026a15a4f1d3a_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/f6f3ef17-0b48-40c5-9f1d-97088c75a292.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[요양보호사들의 이야기를 ‘다르게’ 들을 수 있을까 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9616</link>
+            <guid>https://ildaro.com/9616</guid>
+            <pubDate>Thu, 27 Apr 2023 11:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘나는 여기가 적성에 맞’지만 ‘여기는 요양보호사들에게는 지옥’이고, ‘어르신들 만나는 것 자체가 너무 좋’지만 ‘정을 깊게 안 준다’. 한 사람이 말했지만 ...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023042719498638.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[제주에서 생태 농사를 짓는 청년의 고민, ‘땅’ (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9615</link>
             <guid>https://ildaro.com/9615</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 22 Apr 2023 20:12:20 GMT</pubDate>
             <content:encoded><![CDATA["성적지향을 이유로 한 기존의 차별들은 국제사회에서 점차 사라져 가고 있으며, 남아 있는 차별들도 언젠가는 폐지될 것이다"...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023040111287652.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가짜미투 오명 뒤집어쓴 ‘98년생 김현진’ (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9596</link>
-            <guid>https://ildaro.com/9596</guid>
-            <pubDate>Sat, 22 Apr 2023 20:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[박진성 시인에 대한 ‘가짜 미투의 희생양’ 프레임은 가짜 미투 희생양의 현신이 필요한 사람들의 공조를 통해 만들어졌다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202303/2023033009399845.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
