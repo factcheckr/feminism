@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 00:57:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 02:06:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[왜 할머니는 전 재산을 ‘임영웅’에게 주고 싶다고 했을까?]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202304281023001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202304281023001</guid>
+            <pubDate>Fri, 28 Apr 2023 02:05:17 GMT</pubDate>
+            <content:encoded><![CDATA[“할머니가 전 재산을 임영웅에게 주고 싶어 하신다”는 인터넷 커뮤니티 글이 화제가 된 적이 있다. 사실 여부는 불분명하나 충분히 일어날 수 있는 일이라고 생각하는 이들이 많다. 세계적인 인지도는 비교불가지만 실제 수입은 BTS를 능가한다거나, A급 예능인들의 행사 출연료를 뛰어넘어 가격을 매길 수 없는 천상계라는 소문들이 나도는 이 트로트 신성의 인기가 상상을 초월해서다. 그의 콘서트 티켓 예매는 피가 튀는 전쟁터 수준이라 ‘피켓팅’으로 불린다.그만큼...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/28/news-p.v1.20230427.24e921b28f114e4fbe50bb45fad6c927_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“장시간 노동 성불평등 강화, 노동시간 단축 선진국이 갈 방향”]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202304271515001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 21 Apr 2023 07:11:29 GMT</pubDate>
             <content:encoded><![CDATA[가수 겸 싱어송라이터. 본명은 고윤하, 1988년생. 16세인 2004년 일본에서 먼저 데뷔한 뒤 2006년부터 국내에서 활동을 시작했다. 파워 보컬과 감성 보컬 양쪽의 장점과 이미지를 두루 갖춰 록, 발라드, 재즈, R&amp;B 등 다양한 장르를 소화하는 가수로 평가받는다. 지난해 3월 발표한 ‘사건의 지평선’이 역주행하면서 각종 음악차트를 석권했고, 제37회 골든디스크어워즈, 제32회 서울가요대상, 제20회 한국대중음악상 등 6개 상을 휩쓸었다.가사 와닿게 쓰기 어려워…‘타율...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/21/news-p.v1.20230420.91022d2a7d98472fb0f561dc7af27095_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 맞벌이 부부, 똑같이 벌어도 가사·돌봄 부담은 ‘여성’이 높아]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202304211015001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202304211015001</guid>
-            <pubDate>Fri, 21 Apr 2023 02:03:25 GMT</pubDate>
-            <content:encoded><![CDATA[미국 맞벌이 가정에서 아내와 남편의 가정 경제 기여도가 비슷하거나 아내의 수입이 더 많은 경우에도 가사·돌봄 등에서 아내가 남편보다 더 많은 부담을 지고 있다는 연구 결과가 발표됐다.퓨리서치센터가 13일(현지시간) 미국 인구센서스 자료와 미국인의 시간 사용 조사 등 통계를 분석해 발표한 보고서에 따르면 지난 50년간 미국 기혼 가정에서 여성의 경제적 기여도는 꾸준히 증가했다.2022년 기준 남녀 소득이 동등한 수준으로 ‘평등주의적’인 가정은 전체의 29%로, ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/21/news-p.v1.20230417.c7f360560ae34eaca527d9bb330c0747_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
