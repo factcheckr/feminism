@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 03:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 04:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/f6f3ef17-0b48-40c5-9f1d-97088c75a292.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[Drawing My Mother’s Life: (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9617</link>
+            <guid>https://ildaro.com/9617</guid>
+            <pubDate>Fri, 28 Apr 2023 00:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[“Although the black shoes were not visible in the darkness, I longed so much to wear that pair of shoes that I woke up in the middle of night and put them on.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023042814522729.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[요양보호사들의 이야기를 ‘다르게’ 들을 수 있을까 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9616</link>
             <guid>https://ildaro.com/9616</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 03 Apr 2023 08:29:00 GMT</pubDate>
             <content:encoded><![CDATA[세상에 길들여지기를 거부한 여자들, 눈을 똑바로 뜨고 싸우는 여자들, 마음껏 욕망하는 여자들, 경계를 넘어 끝까지 가보는 여자들, 이전과는 다른 내가 된 여자들의...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023040336087124.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[혼인평등으로 가는 길, 첫 단추가 꿰어졌다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9597</link>
-            <guid>https://ildaro.com/9597</guid>
-            <pubDate>Sat, 22 Apr 2023 20:12:20 GMT</pubDate>
-            <content:encoded><![CDATA["성적지향을 이유로 한 기존의 차별들은 국제사회에서 점차 사라져 가고 있으며, 남아 있는 차별들도 언젠가는 폐지될 것이다"...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023040111287652.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
