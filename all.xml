@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Apr 2023 02:04:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 03:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/f6f3ef17-0b48-40c5-9f1d-97088c75a292.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[성별에 대해 우리가 갖는 ‘두려움’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9618</link>
+            <guid>https://ildaro.com/9618</guid>
+            <pubDate>Sat, 29 Apr 2023 00:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[“당신의 두려움은 나뿐만 아니라 당신에게도 아픔을 준다. 그 두려움은 어떤 존재라도 될 수 있는 당신의 잠재력을 제한한다.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/202304290748824.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Drawing My Mother’s Life: (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9617</link>
             <guid>https://ildaro.com/9617</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 22 Apr 2023 20:12:20 GMT</pubDate>
             <content:encoded><![CDATA[쉼 없이 요가 수업을 인도한 선생님이 딱 하루 휴가를 냈습니다. 사유는 출판기념회. 그런데, 요가에 대한 책이 아니라 노동조합사를 담은 책이라고요?...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023040442285331.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“여성 여러분(And Ladies)”을 지워버리는 사회에서 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9598</link>
-            <guid>https://ildaro.com/9598</guid>
-            <pubDate>Mon, 03 Apr 2023 08:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[세상에 길들여지기를 거부한 여자들, 눈을 똑바로 뜨고 싸우는 여자들, 마음껏 욕망하는 여자들, 경계를 넘어 끝까지 가보는 여자들, 이전과는 다른 내가 된 여자들의...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023040336087124.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
