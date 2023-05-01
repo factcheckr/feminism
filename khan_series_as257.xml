@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Apr 2023 23:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 00:58:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구조적 성차별은 없다고? 노동절 ‘우리가 모은 차별의 조각’을 공개합니다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202305010900001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202305010900001</guid>
+            <pubDate>Mon, 01 May 2023 00:57:40 GMT</pubDate>
+            <content:encoded><![CDATA[“구조적 성차별은 없다”어쩌면 지난해, 플랫 입주자님을 가장 화나게 한 말 중 하나가 아닐까요. 여성에게 여전히 ‘유리천장’ ‘유리벽’ 현상은 공고하지만 이 말은 ‘노동의 구조적 불평등’을 전면으로 부정하잖아요. 또 모든 차별의 결과를 개인의 책임으로 돌리는 무책임한 말이기도 합니다.지난 3월 8일 여성의 날에 공개한 인터랙티브 &lt;뽑아버려요 차별의 조각&gt;은 &lt;27년 꼴찌, 성별임금격차&gt; 기획의 한 파트로 구성되었습니다. 한국의 성별임금격차는 매우...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/01/news-p.v1.20230428.8acd40a79de4456b9c2af50dd0626887_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전체인구의 14%, 지능 ‘경계선’에 있는 이들을 외면하지 말라]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202304281745001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 24 Apr 2023 07:11:37 GMT</pubDate>
             <content:encoded><![CDATA[&lt;※이 기사는 2023년 4월 24일자 경향신문 사설 ‘디시인사이드 우울증갤러리 폐쇄 거부 온당치 않다를’ 재가공하였습니다&gt;인터넷 커뮤니티 디시인사이드의 플랫폼 사이트인 ‘우울증갤러리’가 ‘n번방’식 범죄 통로로 이용된다는 증언이 이어지고 있다. 적극적 대응이 시급하지만, 디시인사이드는 경찰의 사이트 폐쇄 요청을 거부했다. 디지털성범죄에 악용되는 유해 사이트를 차단하자는 여론을 외면한 것이다. 최소한의 사회적 책임도 방기하는 행태는 온당치 않다.이 사...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/24/news-p.v1.20230424.b73dbeb44e974d61af3c6c0d1bbc9e59_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘익명’뒤에 숨은 디지털 성범죄, 피해자 대부분은 10~20대]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202304241010001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202304241010001</guid>
-            <pubDate>Mon, 24 Apr 2023 02:07:58 GMT</pubDate>
-            <content:encoded><![CDATA[미성년자인 A씨는 온라인에서 신원을 알 수 없는 사람에게 성적인 영상 촬영을 강요당했다. 영상을 유포하겠다는 협박도 이어졌다. A씨는 디지털성범죄피해자지원센터(디성센터)를 찾아 피해를 알렸다. 디성센터가 조사해보니 A씨는 지난해 말 논란이 된 ‘제 2의 N번방(텔레그램 ‘엘’ 성 착취)’ 사건 피해자였다. 디성센터 전담대응팀은 영상 삭제를 지원하고, 수사기관과 협력해 주요 가해자를 검거하는 데 기여했다.디지털 성범죄 피해자 절반가량이 신원을 전혀 알 수 없...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/24/news-p.v1.20230421.47c9ce0836ca43a99f60f1afefb89bf5_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
