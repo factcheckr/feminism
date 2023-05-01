@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 03:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 04:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/f6f3ef17-0b48-40c5-9f1d-97088c75a292.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[중노년 싱글여성 과반 ‘노년에도 일해야 먹고 산다’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9619</link>
+            <guid>https://ildaro.com/9619</guid>
+            <pubDate>Mon, 01 May 2023 00:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[“경제적 여유가 없어 장래가 불안해 잠을 잘 수 없다”, “큰 병에 걸리거나 노년이 되어 거동을 못하게 되면 어떻게 생활하면 좋을지 모르겠다”는 절박한 메시지도...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/202305012808939.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[성별에 대해 우리가 갖는 ‘두려움’ (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9618</link>
             <guid>https://ildaro.com/9618</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 22 Apr 2023 20:12:20 GMT</pubDate>
             <content:encoded><![CDATA[노조 할 때 일제강점기 여성노동운동 책을 감명깊게 읽었어요. 일제와의 싸움이면서 자기 주권을 찾는 이야기. 이 책도 그렇게 읽히면 좋겠어요. 언니들이 이렇게 살았...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023040552384988.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요가 선생님이 들려준 한국 여성노동운동사 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9599</link>
-            <guid>https://ildaro.com/9599</guid>
-            <pubDate>Sat, 22 Apr 2023 20:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[쉼 없이 요가 수업을 인도한 선생님이 딱 하루 휴가를 냈습니다. 사유는 출판기념회. 그런데, 요가에 대한 책이 아니라 노동조합사를 담은 책이라고요?...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023040442285331.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
