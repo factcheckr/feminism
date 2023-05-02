@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 08:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 09:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여학생 가스테러 “독극물 없었다, 상당수 꾀병” 발표한 이란 정부 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202305021728011</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202305021728011</guid>
+            <pubDate>Tue, 02 May 2023 09:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[이란 정보부가 지난 28일(현지시간) 이란 전역의 학교에서 있었던 여학생 대상 ‘가스 테러’와 관련한 조사 결과를 발표하고, 독극물이 없었다고 밝혔다. 이란 정보부는 외국의 ‘적’과 반체제 인사가 공포를 조장하고 있다고 주장했다.독성 가스를 사용한 것으로 추정됐던 테러는 지난해 11월30일 이슬람 시아파 성지도시 쿰의 한 고등학교에서 18명이 이상 증세를 보인 이후 이란 전역으로 퍼졌다.지난해 9월 히잡을 제대로 쓰지 않았다는 이유로 경찰에 체포됐다가 사망한...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/02/news-p.v1.20230502.7a7ec0ea01eb4a7e8588a5fb6025229a_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연차·병가 사용…사업장 작을수록 쪼그라든 ‘노동자의 권리’ (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202305021413001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 25 Apr 2023 06:14:04 GMT</pubDate>
             <content:encoded><![CDATA[미국 연방대법원이 경구용 임신중지약인 미페프리스톤 사용을 금지한 하급 법원의 판결을 뒤집고 당분간 시장에서 게속 판매할 수 있도록 허용했다.뉴욕타임스(NYT) 등 외신에 따르면 미 대법원은 21일(현지시간) 미국 정부와 미페프리스톤 제조사인 단코연구소가 제출한 긴급 사용 요청을 승인했다.미페프리스톤은 현재 미국에서 판매되고 있는 사실상 유일한 경구용 임신중지약으로, 임신 10주까지 사용할 수 있다. 2000년 사용이 승인된 후 20년 넘게 500만명 이상이 임신을 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/25/news-p.v1.20230424.797554613e7d4600b5cf02410595b590_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[워킹맘은 죄인이 아니다 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202304251000011</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202304251000011</guid>
-            <pubDate>Tue, 25 Apr 2023 02:04:09 GMT</pubDate>
-            <content:encoded><![CDATA[지난 4월20일 경향신문이 보도한 대기업 여성노동자 사망과 유가족의 고소사건(“워킹맘이라 차별” 네이버 직원 극단선택…노동부 수사 착수)은 한국 사회에서 일과 양육을 병행하는 여성들이 처한 현실의 한 단면을 보여준다. 지난해 9월 당사자가 세상을 떠났고 올해 3월 유가족이 고소를 제기한 이 사건의 원인이 무엇이고 결과가 어떠할지는 지켜봐야겠지만, 워킹맘으로 살아가는 수많은 여성들의 마음을 아프게 하는 비보(悲報)임은 틀림없다.워킹맘은 죄인인가. ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/25/news-p.v1.20230424.b2574011d702443b9fc026211df0a2d8_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여학생 가스테러 “독극물 없었다, 상당수 꾀병” 발표한 이란 정부 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202305021728011</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202305021728011</guid>
+            <pubDate>Tue, 02 May 2023 09:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[이란 정보부가 지난 28일(현지시간) 이란 전역의 학교에서 있었던 여학생 대상 ‘가스 테러’와 관련한 조사 결과를 발표하고, 독극물이 없었다고 밝혔다. 이란 정보부는 외국의 ‘적’과 반체제 인사가 공포를 조장하고 있다고 주장했다.독성 가스를 사용한 것으로 추정됐던 테러는 지난해 11월30일 이슬람 시아파 성지도시 쿰의 한 고등학교에서 18명이 이상 증세를 보인 이후 이란 전역으로 퍼졌다.지난해 9월 히잡을 제대로 쓰지 않았다는 이유로 경찰에 체포됐다가 사망한...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/02/news-p.v1.20230502.7a7ec0ea01eb4a7e8588a5fb6025229a_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연차·병가 사용…사업장 작을수록 쪼그라든 ‘노동자의 권리’ (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202305021413001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202305021413001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 25 Apr 2023 06:14:04 GMT</pubDate>
             <content:encoded><![CDATA[미국 연방대법원이 경구용 임신중지약인 미페프리스톤 사용을 금지한 하급 법원의 판결을 뒤집고 당분간 시장에서 게속 판매할 수 있도록 허용했다.뉴욕타임스(NYT) 등 외신에 따르면 미 대법원은 21일(현지시간) 미국 정부와 미페프리스톤 제조사인 단코연구소가 제출한 긴급 사용 요청을 승인했다.미페프리스톤은 현재 미국에서 판매되고 있는 사실상 유일한 경구용 임신중지약으로, 임신 10주까지 사용할 수 있다. 2000년 사용이 승인된 후 20년 넘게 500만명 이상이 임신을 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/25/news-p.v1.20230424.797554613e7d4600b5cf02410595b590_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[워킹맘은 죄인이 아니다 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202304251000011</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202304251000011</guid>
-            <pubDate>Tue, 25 Apr 2023 02:04:09 GMT</pubDate>
-            <content:encoded><![CDATA[지난 4월20일 경향신문이 보도한 대기업 여성노동자 사망과 유가족의 고소사건(“워킹맘이라 차별” 네이버 직원 극단선택…노동부 수사 착수)은 한국 사회에서 일과 양육을 병행하는 여성들이 처한 현실의 한 단면을 보여준다. 지난해 9월 당사자가 세상을 떠났고 올해 3월 유가족이 고소를 제기한 이 사건의 원인이 무엇이고 결과가 어떠할지는 지켜봐야겠지만, 워킹맘으로 살아가는 수많은 여성들의 마음을 아프게 하는 비보(悲報)임은 틀림없다.워킹맘은 죄인인가. ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/25/news-p.v1.20230424.b2574011d702443b9fc026211df0a2d8_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자동차를 여자가 만든다고? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
