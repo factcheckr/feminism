@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 05:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 06:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연차·병가 사용…사업장 작을수록 쪼그라든 ‘노동자의 권리’]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202305021413001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202305021413001</guid>
+            <pubDate>Tue, 02 May 2023 06:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[직원 수가 30인 미만인 민간기업에 다니는 직장인 절반가량은 유급 연차와 공휴일, 병가 등을 제대로 보장받지 못하는 것으로 나타났다. 모든 사업장에 적용되는 고용보험이나 근로계약서·임금명세서 의무도 30인 미만 사업장에서 미준수 비율이 높았다. 작은 사업장에도 노동관계법을 전면 적용하고 정부의 감독을 확대해야 한다는 지적이 나온다.1일 경향신문은 직장갑질119와 사무금융우분투재단, 여론조사전문기관 엠브레인퍼블릭과 함께 ‘직장갑질119 2023년 1분기 직장인 인식...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/02/news-p.v1.20230502.c52af26839d440e5a5542a5a5e3e7eee_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구조적 성차별은 없다고? 노동절 ‘우리가 모은 차별의 조각’을 공개합니다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202305010900001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 25 Apr 2023 02:04:51 GMT</pubDate>
             <content:encoded><![CDATA[지난 4월20일 경향신문이 보도한 대기업 여성노동자 사망과 유가족의 고소사건(“워킹맘이라 차별” 네이버 직원 극단선택…노동부 수사 착수)은 한국 사회에서 일과 양육을 병행하는 여성들이 처한 현실의 한 단면을 보여준다. 지난해 9월 당사자가 세상을 떠났고 올해 3월 유가족이 고소를 제기한 이 사건의 원인이 무엇이고 결과가 어떠할지는 지켜봐야겠지만, 워킹맘으로 살아가는 수많은 여성들의 마음을 아프게 하는 비보(悲報)임은 틀림없다.워킹맘은 죄인인가. ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/25/news-p.v1.20230424.b2574011d702443b9fc026211df0a2d8_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘자율적 통제’로 성착취 막겠다는 디시인사이드의 안이함]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202304241540001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202304241540001</guid>
-            <pubDate>Mon, 24 Apr 2023 07:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;※이 기사는 2023년 4월 24일자 경향신문 사설 ‘디시인사이드 우울증갤러리 폐쇄 거부 온당치 않다를’ 재가공하였습니다&gt;인터넷 커뮤니티 디시인사이드의 플랫폼 사이트인 ‘우울증갤러리’가 ‘n번방’식 범죄 통로로 이용된다는 증언이 이어지고 있다. 적극적 대응이 시급하지만, 디시인사이드는 경찰의 사이트 폐쇄 요청을 거부했다. 디지털성범죄에 악용되는 유해 사이트를 차단하자는 여론을 외면한 것이다. 최소한의 사회적 책임도 방기하는 행태는 온당치 않다.이 사...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/24/news-p.v1.20230424.b73dbeb44e974d61af3c6c0d1bbc9e59_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
