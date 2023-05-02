@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 07:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 08:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/1ab1687d-daf9-4941-bc08-e5d33f991be5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[〈나는 신이다〉 재현은 왜 문제가 되는가? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9620</link>
+            <guid>https://ildaro.com/9620</guid>
+            <pubDate>Tue, 02 May 2023 08:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[“이 방송의 목적이 ‘진짜 해결’이었다면, 성폭력이 일어난 구조와 방식을 설명하고, 성폭력을 일으키는 구조적 요인이 우리 현실에 다양한 방식으로 녹아들어 있다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023050257342233.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[중노년 싱글여성 과반 ‘노년에도 일해야 먹고 산다’ (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9619</link>
             <guid>https://ildaro.com/9619</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 07 Apr 2023 11:09:00 GMT</pubDate>
             <content:encoded><![CDATA[아이를 맡길 곳이 없어 어쩔 수 없이 아이를 거리유세에 데려가면, 상대 후보 측과 시민들로부터 “법률위반 아니냐”, “아이를 이용한다” 등의 비난을 받기도 한다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023040721503205.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몸을 바르게 하는 ‘요가’, 사회를 바르게 하는 ‘운동’ (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9600</link>
-            <guid>https://ildaro.com/9600</guid>
-            <pubDate>Sat, 22 Apr 2023 20:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[노조 할 때 일제강점기 여성노동운동 책을 감명깊게 읽었어요. 일제와의 싸움이면서 자기 주권을 찾는 이야기. 이 책도 그렇게 읽히면 좋겠어요. 언니들이 이렇게 살았...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023040552384988.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
