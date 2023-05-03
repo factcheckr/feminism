@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 05:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 06:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘위안부 피해자’ 할머니 별세…남은 생존자 9명]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202305031504001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202305031504001</guid>
+            <pubDate>Wed, 03 May 2023 06:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[일본군 위안부 피해자 할머니 한 분이 별세했다. 생존 피해자는 9명이 됐다.정의기억연대는 “일본군 성노예제 피해자 할머니 한 분이 우리 곁을 떠나셨다”고 지난 2일 밝혔다. 지난해 12월26일 일본군 위안부 피해자 이옥선 할머니(93)가 건강 악화로 별세한 이후 4개월여 만이다. 고인과 유가족의 뜻에 따라 인적사항과 장례절차는 공개하지 않기로 했다.이나영 정의기억연대 이사장은 통화에서 “정부가 피해자들의 계속해서 목소리를 외면하고, 일본 정부에 저자세를 보이는...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/03/news-p.v1.20230503.c6dc8ba2bbf2458282e7bb9a31f9ec15_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자신을 성폭행하려는 자의 혀를 깨문 죄, 59년의 억울함과 분노]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202305031040001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 26 Apr 2023 06:15:02 GMT</pubDate>
             <content:encoded><![CDATA[“○○아, 누나가 하고 있는 재판이 있어. 니가 챙겨야 해.” “끝까지 단죄하는 걸 네가 봐야 해. 그게 누나 유지야.” “또 뭐 있지. 정신 더 희미해지기 전에 말해야 하는데.” “죽어서라도 잠자고 싶어. 항상 피곤했어.”권나은씨(33)는 지난 2월27일 오후 9시부터 30여분간 동생에게 이같은 내용이 담긴 카카오톡 메시지를 20여개 남겼다. 병원에서 처방받은 약을 과다 복용해 병원으로 옮겨지던 중이었다. 신촌 세브란스병원 응급실로 옮겨진 나은씨는 다음날...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/26/news-p.v1.20230426.d64f02e81693492da695c2a1f7011abe_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도움 요청을 이용하는 어른, 보호 받지 못한 10대 청소년들]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202304261005001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202304261005001</guid>
-            <pubDate>Wed, 26 Apr 2023 02:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[대치동 학원가에서 일하던 30대 강사가 디시인사이드 ‘우울증 갤러리’에서 만난 미성년자를 찾아가 성관계를 맺고 금전을 지불했던 사실이 확인됐다.25일 경향신문 취재를 종합하면, 서울 강남구 대치동 학원가에서 수학 강사로 일하던 30대 남성 A씨는 2021년 12월 우울증 갤러리에서 알게 된 미성년자 B씨와 온라인상에서 연락을 주고받은 뒤 B씨(당시 18세)의 거주지 인근으로 찾아갔다. 이어 숙박업소에서 B씨와 성관계를 맺은 후 현금 20만원을 계좌로 입금했다.A씨는 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/26/news-p.v1.20230425.66168fe66e8e4818be584dfc36ce5f96_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
