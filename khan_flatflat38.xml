@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 04:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 05:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘임신’ 사실 알리자 ‘노조 전임직’ 해임, 금융노조의 “차별행위”]]></title>
+            <link>https://www.khan.co.kr/national/labor/article/202305041406001</link>
+            <guid>https://www.khan.co.kr/national/labor/article/202305041406001</guid>
+            <pubDate>Thu, 04 May 2023 05:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[국가인권위원회가 한국노총 전국금융산업노동조합(금융노조) 산하 노조가 임신한 여성을 노조 전임직에서 해임한 것은 “차별행위”라는 의견을 밝혔다. 다만 노조 전임직은 근로기준법 적용 대상이 아니라며 해당 여성이 낸 진정은 각하했다.인권위는 임신 사실을 노조 측에 알리고 출산 휴가 사용과 출산 이후 복귀 의사를 밝힌 노조 전임자 A씨를 파견해지 조치한 금융노조 산하 B 지부에 “임신·출산·육아 등을 이유로 노동조합 활동이 제한되는 경우가 재발하지 않도록 대...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/04/news-p.v1.20230504.b27838baea774b0d8d705f38b8908b33_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폭력적 성장에 감춰진 돌봄노동]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202305041042001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 27 Apr 2023 07:11:11 GMT</pubDate>
             <content:encoded><![CDATA[정부의 정책적 개입이 없다면 대기업 조직에서만 우선적으로 시행할 것이다. 기업은 좋은 인력을 유인하기 위해 주 4일제를 할 수밖에 없다. 대기업에서만 시행하더라도 문화 자체가 확산되면 그 추세를 되돌릴 수 없다.”지난 3월 정부는 주 노동시간을 현행 52시간에서 69시간까지 늘릴 수 있는 노동시간 개편안을 발표했다. 이주희 이화여대 사회학과 교수는 정부의 노동시간 개편안에 대해 정규·비정규, 장시간·단시간, 성별을 망라한 “모든 노동자의 시간주권을 침해하는...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/27/news-p.v1.20230427.be425182d5104892adf1086a20d41149_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남성의 ‘폭력’과 여성의 ‘고난’이 담긴 장소, 집]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202304271012001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202304271012001</guid>
-            <pubDate>Thu, 27 Apr 2023 02:03:05 GMT</pubDate>
-            <content:encoded><![CDATA[이소호의 세 번째 시집 &lt;홈 스위트 홈&gt;(문학과지성사, 사진) ‘시인의 말’과 ‘차례’ 사이에 든 시는 ‘홈 스위트 홈 소호 문학 전집 시리즈 07’이다. 미래의 어느 날 2023년 4월 출간된 &lt;홈 스위트 홈&gt;과 ‘이소호’에 관해 적은 글이다. ‘네이버 지식백과’의 작가와 작품 소개를 변용한 이 글은 이소호의 원래 이름인 ‘이경진’과 간략한 출생 배경 설명을 거쳐 우화로 자리매김한 시집을 설명한다. “다른 한국어로 번역된 소호 우화들은 많이 각색...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/27/news-p.v1.20230425.13d8b52a34974978a98026a15a4f1d3a_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
