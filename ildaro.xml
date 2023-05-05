@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 03:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 04:13:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산타여, 어디까지 가봤나요?]]></title>
+            <link>https://ildaro.com/9622</link>
+            <guid>https://ildaro.com/9622</guid>
+            <pubDate>Fri, 05 May 2023 00:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[백인 시스젠더 성인 남성인 산타가 온 마을에 선물을 주러 오는 날. 그런데 과연 산타가 유색인 트랜스젠더 성노동자 여성들의 거리인 이곳에도 올까....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023050515339835.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘56년 만의 미투’ 피해자가 사법정의를 묻고 있다!]]></title>
             <link>https://ildaro.com/9621</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 03 May 2023 12:21:51 GMT</pubDate>
             <content:encoded><![CDATA[‘Q농’은 Questionary와 농(農)이 결합된 단어로 “농사(와 시골살이)에 대한 질문, 호기심, 규정하지 않는 무언가”를 뜻한다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023040952347340.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고발 영화의 스포트라이트가 향해야 할 곳은]]></title>
-            <link>https://ildaro.com/9602</link>
-            <guid>https://ildaro.com/9602</guid>
-            <pubDate>Sat, 08 Apr 2023 11:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[영화는 피해자도 가해자도 아닌 기자의 시점으로 진행이 된다. 고발 영화에서 흔히 보기 힘든 시점을 택한 이유가 무엇일까....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023040841377378.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
