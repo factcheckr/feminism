@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 00:58:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 02:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[얼굴 없는 비난자에서 몸을 가진 비판자가 되기]]></title>
+            <link>https://ildaro.com/9623</link>
+            <guid>https://ildaro.com/9623</guid>
+            <pubDate>Sun, 07 May 2023 10:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[“쌤도 페미라면서요?” 복도를 가득 채운 학생들로 둘러싸인 채, 칼날 같은 질문이 나에게 날아왔다. 그 순간 나는 사실 휘청였다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023050702131032.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[산타여, 어디까지 가봤나요?]]></title>
             <link>https://ildaro.com/9622</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 03 May 2023 12:21:51 GMT</pubDate>
             <content:encoded><![CDATA[그동안 GL 스토리는 BL 드라마에서 주인공이 아닌 조연 캐릭터들의 관계로 종종 등장했을 뿐 전면에 내세워진 적이 없다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023041009231931.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비혼여성 시골살이, 궁금하면 ‘땅끝우먼로드‘ 걷자]]></title>
-            <link>https://ildaro.com/9603</link>
-            <guid>https://ildaro.com/9603</guid>
-            <pubDate>Wed, 03 May 2023 12:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[‘Q농’은 Questionary와 농(農)이 결합된 단어로 “농사(와 시골살이)에 대한 질문, 호기심, 규정하지 않는 무언가”를 뜻한다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023040952347340.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
