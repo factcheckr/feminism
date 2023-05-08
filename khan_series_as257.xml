@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 05:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 06:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘급식’ 시스템에 가려진 조리사들의 건강, 외면말라]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202305081510001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202305081510001</guid>
+            <pubDate>Mon, 08 May 2023 06:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[2019년에 방송된 tvN의 예능 &lt;고교 급식왕&gt;은 시간이 꽤 흘렀음에도 여전히 좋은 작품으로 내 기억 속에 남아 있다. 작품은 백종원의 얼굴을 포스터에 앞세우고 있지만 &lt;골목식당&gt; &lt;집밥 백선생&gt; 같은 ‘백종원식 멘토링’ 예능과 거리가 멀다. ‘요리에 일가견이 있는 고등학생들이 모여 백종원 앞에서 급식 조리의 최강자를 가린다’는 취지대로, 작품은 요리에 대해 진중한 태도와 놀라운 실력을 보유한 청소년 셰프들이 난생처음 대량 조리 미션을 수...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/08/news-p.v1.20230508.dd9387c567d040bdaf051a3a040ba711_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[친부모를 찾고 시작되는 이야기, 딸은 사랑받으려고 애쓰지 않는다]]></title>
             <link>https://www.khan.co.kr/culture/movie/article/202305081029001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 28 Apr 2023 09:11:35 GMT</pubDate>
             <content:encoded><![CDATA[경계선 지능인에 대한 국가 차원의 대책이 필요하다는 목소리가 높아지고 있다. 경계선 지능인은 지적 장애인과 평균 이상의 지능지수를 가진 비장애인의 경계선에 있는 사람들이다. 일반적으로 지능지수 70~85 사이를 경계선 지능에 해당한다고 본다. 경계선 지능인에 대한 명확한 실태조사나 통계는 아직 없다. 다만 해외의 통계를 미뤄볼 때, 전체인구의 약 14%가 경계선 지능이라고 추정된다. 생활에 문제가 없는 경우도 있으나 학교나 직장, 사회생활을 하는 데 큰 어려...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/28/news-p.v1.20230428.9a085fa1af974decb460593290e3fe57_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왜 할머니는 전 재산을 ‘임영웅’에게 주고 싶다고 했을까?]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202304281023001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202304281023001</guid>
-            <pubDate>Fri, 28 Apr 2023 02:05:17 GMT</pubDate>
-            <content:encoded><![CDATA[“할머니가 전 재산을 임영웅에게 주고 싶어 하신다”는 인터넷 커뮤니티 글이 화제가 된 적이 있다. 사실 여부는 불분명하나 충분히 일어날 수 있는 일이라고 생각하는 이들이 많다. 세계적인 인지도는 비교불가지만 실제 수입은 BTS를 능가한다거나, A급 예능인들의 행사 출연료를 뛰어넘어 가격을 매길 수 없는 천상계라는 소문들이 나도는 이 트로트 신성의 인기가 상상을 초월해서다. 그의 콘서트 티켓 예매는 피가 튀는 전쟁터 수준이라 ‘피켓팅’으로 불린다.그만큼...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/28/news-p.v1.20230427.24e921b28f114e4fbe50bb45fad6c927_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
