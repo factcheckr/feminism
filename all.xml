@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 00:53:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 02:06:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[친부모를 찾고 시작되는 이야기, 딸은 사랑받으려고 애쓰지 않는다 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/movie/article/202305081029001</link>
+            <guid>https://www.khan.co.kr/culture/movie/article/202305081029001</guid>
+            <pubDate>Mon, 08 May 2023 02:04:02 GMT</pubDate>
+            <content:encoded><![CDATA[‘그리고 영원히 행복하게 살았답니다.’ 이렇게 끝나는 이야기들은 많다. 왕자와 결혼한 공주 이야기, 악당을 무찌른 용사 이야기, 그리고 한국인 친부모를 만난 입양인 이야기. 어릴 때 미국이나 유럽 국가에 입양돼 다른 인종과 섞여 살던 한국인이 입양 서류에 있던 사진 한 장을 들고 고국으로 돌아온다. 그는 주어진 짧은 시간 동안 여러 어려움을 헤치며 부모를 찾는다. 그가 극적으로 부모와 눈물의 상봉을 하면서 이야기는 끝을 맺는다. 익숙한 서사다. 하지만 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/08/news-p.v1.20230508.049fd6ea33c847debf0311da946402f9_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘임신’ 사실 알리자 ‘노조 전임직’ 해임, 금융노조의 “차별행위” (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/labor/article/202305041406001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 28 Apr 2023 02:04:33 GMT</pubDate>
             <content:encoded><![CDATA[“할머니가 전 재산을 임영웅에게 주고 싶어 하신다”는 인터넷 커뮤니티 글이 화제가 된 적이 있다. 사실 여부는 불분명하나 충분히 일어날 수 있는 일이라고 생각하는 이들이 많다. 세계적인 인지도는 비교불가지만 실제 수입은 BTS를 능가한다거나, A급 예능인들의 행사 출연료를 뛰어넘어 가격을 매길 수 없는 천상계라는 소문들이 나도는 이 트로트 신성의 인기가 상상을 초월해서다. 그의 콘서트 티켓 예매는 피가 튀는 전쟁터 수준이라 ‘피켓팅’으로 불린다.그만큼...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/28/news-p.v1.20230427.24e921b28f114e4fbe50bb45fad6c927_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“장시간 노동 성불평등 강화, 노동시간 단축 선진국이 갈 방향” (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202304271515001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202304271515001</guid>
-            <pubDate>Thu, 27 Apr 2023 07:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[정부의 정책적 개입이 없다면 대기업 조직에서만 우선적으로 시행할 것이다. 기업은 좋은 인력을 유인하기 위해 주 4일제를 할 수밖에 없다. 대기업에서만 시행하더라도 문화 자체가 확산되면 그 추세를 되돌릴 수 없다.”지난 3월 정부는 주 노동시간을 현행 52시간에서 69시간까지 늘릴 수 있는 노동시간 개편안을 발표했다. 이주희 이화여대 사회학과 교수는 정부의 노동시간 개편안에 대해 정규·비정규, 장시간·단시간, 성별을 망라한 “모든 노동자의 시간주권을 침해하는...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/04/27/news-p.v1.20230427.be425182d5104892adf1086a20d41149_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[친부모를 찾고 시작되는 이야기, 딸은 사랑받으려고 애쓰지 않는다 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/movie/article/202305081029001</link>
+            <guid>https://www.khan.co.kr/culture/movie/article/202305081029001</guid>
+            <pubDate>Mon, 08 May 2023 02:04:49 GMT</pubDate>
+            <content:encoded><![CDATA[‘그리고 영원히 행복하게 살았답니다.’ 이렇게 끝나는 이야기들은 많다. 왕자와 결혼한 공주 이야기, 악당을 무찌른 용사 이야기, 그리고 한국인 친부모를 만난 입양인 이야기. 어릴 때 미국이나 유럽 국가에 입양돼 다른 인종과 섞여 살던 한국인이 입양 서류에 있던 사진 한 장을 들고 고국으로 돌아온다. 그는 주어진 짧은 시간 동안 여러 어려움을 헤치며 부모를 찾는다. 그가 극적으로 부모와 눈물의 상봉을 하면서 이야기는 끝을 맺는다. 익숙한 서사다. 하지만 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/08/news-p.v1.20230508.049fd6ea33c847debf0311da946402f9_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘임신’ 사실 알리자 ‘노조 전임직’ 해임, 금융노조의 “차별행위” (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/labor/article/202305041406001</link>
             <guid>https://www.khan.co.kr/national/labor/article/202305041406001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 28 Apr 2023 02:04:33 GMT</pubDate>
             <content:encoded><![CDATA[“할머니가 전 재산을 임영웅에게 주고 싶어 하신다”는 인터넷 커뮤니티 글이 화제가 된 적이 있다. 사실 여부는 불분명하나 충분히 일어날 수 있는 일이라고 생각하는 이들이 많다. 세계적인 인지도는 비교불가지만 실제 수입은 BTS를 능가한다거나, A급 예능인들의 행사 출연료를 뛰어넘어 가격을 매길 수 없는 천상계라는 소문들이 나도는 이 트로트 신성의 인기가 상상을 초월해서다. 그의 콘서트 티켓 예매는 피가 튀는 전쟁터 수준이라 ‘피켓팅’으로 불린다.그만큼...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/28/news-p.v1.20230427.24e921b28f114e4fbe50bb45fad6c927_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“장시간 노동 성불평등 강화, 노동시간 단축 선진국이 갈 방향” (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202304271515001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202304271515001</guid>
-            <pubDate>Thu, 27 Apr 2023 07:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[정부의 정책적 개입이 없다면 대기업 조직에서만 우선적으로 시행할 것이다. 기업은 좋은 인력을 유인하기 위해 주 4일제를 할 수밖에 없다. 대기업에서만 시행하더라도 문화 자체가 확산되면 그 추세를 되돌릴 수 없다.”지난 3월 정부는 주 노동시간을 현행 52시간에서 69시간까지 늘릴 수 있는 노동시간 개편안을 발표했다. 이주희 이화여대 사회학과 교수는 정부의 노동시간 개편안에 대해 정규·비정규, 장시간·단시간, 성별을 망라한 “모든 노동자의 시간주권을 침해하는...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/04/27/news-p.v1.20230427.be425182d5104892adf1086a20d41149_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자동차를 여자가 만든다고? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
