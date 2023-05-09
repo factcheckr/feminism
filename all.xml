@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 05:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 06:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[은행 파산은 국가 문제지만, 세입자가 무너지면 개인 문제가 된다 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202305091510001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202305091510001</guid>
+            <pubDate>Tue, 09 May 2023 06:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[설거지를 하다 ‘쉬지도 않고 일하던 애가, 전셋집을 구해서 진짜 좋아했는데’라는 소리를 들었다. 전셋집 마련이 꿈이었던 건 나도 마찬가지라 TV로 얼굴을 돌렸다. 전세사기 피해자 사망을 다룬 뉴스였다. 미디어에 출연해 주식과 부동산 투자를 하지 않으면 바보라고 말하는 전문가를 본 적은 많았지만 전셋집을 구해 기뻐하는 사람을 본 적은 없었다. 문제가 된 전세금은 8000만~9000만원. 공시가격 9억원 이상 아파트의 종부세 문제가 ‘생존권’이란 이름으로 몇년 동...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/09/news-p.v1.20230509.067652762b884cefa9a9f1368f369438_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘간호법’ 찬반 넘어…간호사들의 진짜 싸움은 ‘간호사당 환자수 법제화’ (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202305091058001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 02 May 2023 06:14:18 GMT</pubDate>
             <content:encoded><![CDATA[직원 수가 30인 미만인 민간기업에 다니는 직장인 절반가량은 유급 연차와 공휴일, 병가 등을 제대로 보장받지 못하는 것으로 나타났다. 모든 사업장에 적용되는 고용보험이나 근로계약서·임금명세서 의무도 30인 미만 사업장에서 미준수 비율이 높았다. 작은 사업장에도 노동관계법을 전면 적용하고 정부의 감독을 확대해야 한다는 지적이 나온다.1일 경향신문은 직장갑질119와 사무금융우분투재단, 여론조사전문기관 엠브레인퍼블릭과 함께 ‘직장갑질119 2023년 1분기 직장인 인식...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/02/news-p.v1.20230502.c52af26839d440e5a5542a5a5e3e7eee_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구조적 성차별은 없다고? 노동절 ‘우리가 모은 차별의 조각’을 공개합니다 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202305010900001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202305010900001</guid>
-            <pubDate>Mon, 01 May 2023 00:56:56 GMT</pubDate>
-            <content:encoded><![CDATA[“구조적 성차별은 없다”어쩌면 지난해, 플랫 입주자님들을 가장 화나게 한 말 중 하나가 아닐까요. 여성에게 여전히 ‘유리천장’ ‘유리벽’ 현실이 공고함에도 이 말은 ‘노동의 구조적 불평등’을 전면으로 부정합니다. 또 모든 차별의 결과를 개인의 책임으로 돌리는 무책임한 말이기도 합니다.지난 3월 8일 여성의 날에 공개한 인터랙티브 &lt;뽑아버려요 차별의 조각&gt;은 &lt;27년 꼴찌, 성별임금격차&gt; 기획의 한 파트로 구성되었습니다. 한국의 성별임금격차는 매우...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/01/news-p.v1.20230428.8acd40a79de4456b9c2af50dd0626887_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[은행 파산은 국가 문제지만, 세입자가 무너지면 개인 문제가 된다 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202305091510001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202305091510001</guid>
+            <pubDate>Tue, 09 May 2023 06:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[설거지를 하다 ‘쉬지도 않고 일하던 애가, 전셋집을 구해서 진짜 좋아했는데’라는 소리를 들었다. 전셋집 마련이 꿈이었던 건 나도 마찬가지라 TV로 얼굴을 돌렸다. 전세사기 피해자 사망을 다룬 뉴스였다. 미디어에 출연해 주식과 부동산 투자를 하지 않으면 바보라고 말하는 전문가를 본 적은 많았지만 전셋집을 구해 기뻐하는 사람을 본 적은 없었다. 문제가 된 전세금은 8000만~9000만원. 공시가격 9억원 이상 아파트의 종부세 문제가 ‘생존권’이란 이름으로 몇년 동...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/09/news-p.v1.20230509.067652762b884cefa9a9f1368f369438_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘간호법’ 찬반 넘어…간호사들의 진짜 싸움은 ‘간호사당 환자수 법제화’ (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202305091058001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202305091058001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 02 May 2023 06:14:18 GMT</pubDate>
             <content:encoded><![CDATA[직원 수가 30인 미만인 민간기업에 다니는 직장인 절반가량은 유급 연차와 공휴일, 병가 등을 제대로 보장받지 못하는 것으로 나타났다. 모든 사업장에 적용되는 고용보험이나 근로계약서·임금명세서 의무도 30인 미만 사업장에서 미준수 비율이 높았다. 작은 사업장에도 노동관계법을 전면 적용하고 정부의 감독을 확대해야 한다는 지적이 나온다.1일 경향신문은 직장갑질119와 사무금융우분투재단, 여론조사전문기관 엠브레인퍼블릭과 함께 ‘직장갑질119 2023년 1분기 직장인 인식...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/02/news-p.v1.20230502.c52af26839d440e5a5542a5a5e3e7eee_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구조적 성차별은 없다고? 노동절 ‘우리가 모은 차별의 조각’을 공개합니다 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202305010900001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202305010900001</guid>
-            <pubDate>Mon, 01 May 2023 00:56:56 GMT</pubDate>
-            <content:encoded><![CDATA[“구조적 성차별은 없다”어쩌면 지난해, 플랫 입주자님들을 가장 화나게 한 말 중 하나가 아닐까요. 여성에게 여전히 ‘유리천장’ ‘유리벽’ 현실이 공고함에도 이 말은 ‘노동의 구조적 불평등’을 전면으로 부정합니다. 또 모든 차별의 결과를 개인의 책임으로 돌리는 무책임한 말이기도 합니다.지난 3월 8일 여성의 날에 공개한 인터랙티브 &lt;뽑아버려요 차별의 조각&gt;은 &lt;27년 꼴찌, 성별임금격차&gt; 기획의 한 파트로 구성되었습니다. 한국의 성별임금격차는 매우...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/01/news-p.v1.20230428.8acd40a79de4456b9c2af50dd0626887_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["족쇄같은 가족, 떠나도 될까요?" (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
