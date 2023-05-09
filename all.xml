@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 08:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 09:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/b1b54f0c-d356-44aa-83f9-9e3dc0e367ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“A Mermaid Like Me!” We All Need Someone Like Us (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9625</link>
+            <guid>https://ildaro.com/9625</guid>
+            <pubDate>Tue, 09 May 2023 09:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[They shouted, “I think she is brown,” “That is Ariel,” “She’s a black girl,” “I’m crying,” and, “She’s black!”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023050919491386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지엘(Girl’s Love) 드라마 만들고 있습니다! (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9624</link>
             <guid>https://ildaro.com/9624</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 12 Apr 2023 11:08:00 GMT</pubDate>
             <content:encoded><![CDATA[회복의 정의를 확장한다는 건 ‘파편적 회복에 만족한다’는 게 절대 아니라, 그 반대지요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023041216335385.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Those Who Went Beyond the Borders of Division Between North and South (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9605</link>
-            <guid>https://ildaro.com/9605</guid>
-            <pubDate>Wed, 03 May 2023 12:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[The story involves weighty issues: North Korea, its people, food shortages, defectors, relations between the North and the South, etc....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023041121568096.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
