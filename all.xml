@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 03:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 04:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/b1b54f0c-d356-44aa-83f9-9e3dc0e367ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후쿠시마현 어부, ‘오염수 방류 서두를 필요 없는데도…’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9626</link>
+            <guid>https://ildaro.com/9626</guid>
+            <pubDate>Wed, 10 May 2023 00:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[후쿠시마현 어민들은 “(오염수를) 보관할 방법은 많이 있다. 방류를 서두를 필요가 없다”며, 오염수 방출에 강력하게 반대하고 있다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023051022236214.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“A Mermaid Like Me!” We All Need Someone Like Us (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9625</link>
             <guid>https://ildaro.com/9625</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 03 May 2023 12:21:51 GMT</pubDate>
             <content:encoded><![CDATA[도시를 채운 빼곡한 집과 높은 건물은 누구의 것인가? 사라진 것들의 흔적은 무엇으로 채워지고 있는가? 이 불평등을 어떻게 멈출 것인가?...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/202304140122715.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘회복’은 체중계로 잴 수 없는 것 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9606</link>
-            <guid>https://ildaro.com/9606</guid>
-            <pubDate>Wed, 12 Apr 2023 11:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[회복의 정의를 확장한다는 건 ‘파편적 회복에 만족한다’는 게 절대 아니라, 그 반대지요....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023041216335385.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
