@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 04:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 05:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/b1b54f0c-d356-44aa-83f9-9e3dc0e367ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[해외 성폭력 피해자였던, 나의 인턴 D 이야기 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9628</link>
+            <guid>https://ildaro.com/9628</guid>
+            <pubDate>Sun, 14 May 2023 00:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[D에게 일어난 사건의 실체는 에어비앤비 운영자가 가담하여 2명 이상이 약물을 이용해 저지른 준강간 사건이었다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023051417545898.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘여성’이 빠졌다…윤석열 정부 1년에 대한 여성계 평가 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9627</link>
             <guid>https://ildaro.com/9627</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 17 Apr 2023 10:25:00 GMT</pubDate>
             <content:encoded><![CDATA[학생들은 가족 관계에 문제를 겪는 경우가 많고, 가족을 사랑하지 못하는 상황 속에 있을 수도 있고, 가족이 ‘남’보다 못하다고 느끼는 경우도 있고, 가족과 만나지...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023041735262611.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LGBTQ+ ‘어디라면 우리의 기도를 들어주시겠습니까?’ (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9608</link>
-            <guid>https://ildaro.com/9608</guid>
-            <pubDate>Sat, 13 May 2023 19:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[내가 기도하는 곳이 성(性)과 가족의 다양성을 인정하지 않는다면..? 이러한 문제 의식을 가지고 〈어디라면 우리의 기도를 들어주시겠습니까 프로젝트〉가 시작되었...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023041518103676.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
