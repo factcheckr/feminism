@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 22:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 23:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자차별보다 거센 남녀차별을 끊다]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1278</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1278</guid>
+            <pubDate>Mon, 15 May 2023 23:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 두 가지 최신 이슈를 가지고 와봤어요. 바로 '제사'와 '군대'입니다. 두 글자를 보자마자 '헉!'하고 숨이 막히시진 않으신가요. 두 가지 모두 한국 사회의 남성 중심적 가부장제를 강화하고 혹은 재생산하는 기제로 사용되는 관습이죠. 가족과 징병은 성평등을 논의할 때 결코 빠질 수 없는 주제일 겁니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/b3b8df59-d074-43ee-a43f-ba0a89500d70.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["족쇄같은 가족, 떠나도 될까요?"]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1271</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 13 Mar 2023 23:12:53 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 '엄마' 얘기를 갖고 왔어요. 가정의 달인 5월도 아닌데, 갑자기 웬 엄마 이야기냐고요? 지난해 우리나라 합계출산율이 0.78명을 기록하며, OECD 국가 중 가장 낮다는 놀랍지도 않은 소식이 알려졌죠. 급해진 정부 당국은 주말에 회의도 열고, 이달 안에 대통령이 저출산고령사회위원회를 직접 주재할 예정이라고 해요. 지난주 윤 대통령은 "국민이 체감할 수 있는 강력한 저출산(저출생) 대책을 마련하라"고 저출산위에 지시한 바 있죠.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/0126c0f2-8289-4370-bd59-ae3723b7044c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oh! 세계 여성의 날 Oh!]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1212</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1212</guid>
-            <pubDate>Mon, 06 Mar 2023 23:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[3.8일 세계 여성의 날 주간입니다. 지난 주말 서울광장에서 38회 한국여성대회가 열렸죠. 한국여성단체연합(여연)이 이 자리에서 '성평등 걸림돌' 명단을 발표했습니다. 그 주인공은 바로 권성동 국민의힘 의원과 김현숙 여성가족부 장관입니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/b1b54f0c-d356-44aa-83f9-9e3dc0e367ba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
