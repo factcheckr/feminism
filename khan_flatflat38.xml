@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 06:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 08:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘노 or 예스 키즈존’의 기괴한 흐름]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202305161550011</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202305161550011</guid>
+            <pubDate>Tue, 16 May 2023 08:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[제주도의회에서 ‘노키즈존 지정 금지’ 조례안 제정을 추진했다. 이 조례안이 제정되기를, ‘노키즈존’이라는 신조어 자체가 사라지길 바라고 있다. 명시적 배제나 혐오는 애초에 만들어져서도, 논쟁의 주제가 되어서도 안 되는 것이었다. 하지만 눈 깜짝할 사이에 제주도를 중심으로 노키즈존을 내거는 업장들이 늘어났다. 이에 반발해 전국의 노키즈존 업장을 가려내는 리스트가 만들어졌으며, 반작용으로 ‘예스키즈존’도 생겼는데 이 모든 흐름이 기괴하다. 어린이를 두고 ‘...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/16/news-p.v1.20230515.b76daebd0333465a955da9579e081eaf_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이주민 나현씨는 악착같이 한국어를 배웠다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202305161010001</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/16/news-p.v1.20230509.e41127df73b247ac807f35f6ab2a90fb_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[“남녀평등 이념에 어긋나”…‘제사는 장남’ 판폐 깬 대법원]]></title>
+            <title><![CDATA[“남녀평등 이념에 어긋나”…‘제사는 장남’ 판례 깬 대법원]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202305151131001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202305151131001</guid>
             <pubDate>Mon, 15 May 2023 03:11:57 GMT</pubDate>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 09 May 2023 06:14:26 GMT</pubDate>
             <content:encoded><![CDATA[설거지를 하다 ‘쉬지도 않고 일하던 애가, 전셋집을 구해서 진짜 좋아했는데’라는 소리를 들었다. 전셋집 마련이 꿈이었던 건 나도 마찬가지라 TV로 얼굴을 돌렸다. 전세사기 피해자 사망을 다룬 뉴스였다. 미디어에 출연해 주식과 부동산 투자를 하지 않으면 바보라고 말하는 전문가를 본 적은 많았지만 전셋집을 구해 기뻐하는 사람을 본 적은 없었다. 문제가 된 전세금은 8000만~9000만원. 공시가격 9억원 이상 아파트의 종부세 문제가 ‘생존권’이란 이름으로 몇년 동...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/09/news-p.v1.20230509.067652762b884cefa9a9f1368f369438_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘간호법’ 찬반 넘어…간호사들의 진짜 싸움은 ‘간호사당 환자수 법제화’]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202305091058001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202305091058001</guid>
-            <pubDate>Tue, 09 May 2023 02:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[아무것도 바뀌지 않을 껍데기 같은 법에 다들 왜 이리 에너지를 낭비하고 있는지 어리둥절합니다. 하지만 이런 얘기 하면 ‘의사 편이냐’ 묻더군요. 저는 간호법에 가려진 ‘간호사 1인당 환자수 법제화안(간호인력인권법안)’에 대해 얘기하고 싶어요. 간호사가 너무 부족해 내 손에서 환자가 죽어가는 현실을 바꾸려면 얼마나 구르고 싸워야 할까요.- 김수련 간호사간호인력에 관한 사항을 의료법에서 떼 내 독자적으로 규정한 ‘간호법’이 지난 4월 27일 국회 본회의를 통...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/09/news-p.v1.20230509.674b83cc2e534a7d8e6d3c132c9b3e8b_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
