@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 00:56:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 02:06:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[농촌은 도시를 위한 창고나 쓰레기장이 아닙니다]]></title>
+            <link>https://ildaro.com/9629</link>
+            <guid>https://ildaro.com/9629</guid>
+            <pubDate>Tue, 16 May 2023 09:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[도시라면 상상도 못할 혐오 시설, 예를 들어 소각장이나 폐기장 같은 것이 들어오는 걸 볼 때면 분통이 터져요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023051658485852.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해외 성폭력 피해자였던, 나의 인턴 D 이야기]]></title>
             <link>https://ildaro.com/9628</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 19 Apr 2023 11:56:00 GMT</pubDate>
             <content:encoded><![CDATA[‘여성’의 어떤 표식처럼 얘기되지만, 때때로 ‘여성’들에게도 낯설게 느껴지는 자궁과 질에 대한 이야기를 펼치는 장이 열렸다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023041903368588.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족은 다양하다고, 학교는 가르쳐주어야 한다]]></title>
-            <link>https://ildaro.com/9609</link>
-            <guid>https://ildaro.com/9609</guid>
-            <pubDate>Mon, 17 Apr 2023 10:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[학생들은 가족 관계에 문제를 겪는 경우가 많고, 가족을 사랑하지 못하는 상황 속에 있을 수도 있고, 가족이 ‘남’보다 못하다고 느끼는 경우도 있고, 가족과 만나지...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023041735262611.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

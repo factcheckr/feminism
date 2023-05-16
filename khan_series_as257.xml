@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 00:56:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 02:06:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이주민 나현씨는 악착같이 한국어를 배웠다[플랫]]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202305161010001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202305161010001</guid>
+            <pubDate>Tue, 16 May 2023 02:06:03 GMT</pubDate>
+            <content:encoded><![CDATA[‘당신은 미리 나에게 말하지 않았어요’‘무서워’‘와카노’‘나는 모릅니다’‘그렇게 서두르지 마세요’‘나는 나의 고향을 그리워합니다’베트남 이주여성 김나현씨(50)가 한국어 공부를 다짐하고 적은 문장들이다. 삐뚤빼뚤하게 한 글자씩 써 내려간 단어장 노트엔 김씨의 감정도 함께 새겨졌다. 28년이 지나 색이 바랜 김씨의 노트엔 ‘꾸짖’ ‘스트레스’ ‘사유서’ ‘슬픈 표정’ 등과 같은 단어도 눈에 띄었다. 김씨는 “워낙 일이 힘들다 보니 이런 단어들을 찾게 됐던...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/16/news-p.v1.20230509.e41127df73b247ac807f35f6ab2a90fb_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“남녀평등 이념에 어긋나”…‘제사는 장남’ 판폐 깬 대법원]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202305151131001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 09 May 2023 02:04:27 GMT</pubDate>
             <content:encoded><![CDATA[아무것도 바뀌지 않을 껍데기 같은 법에 다들 왜 이리 에너지를 낭비하고 있는지 어리둥절합니다. 하지만 이런 얘기 하면 ‘의사 편이냐’ 묻더군요. 저는 간호법에 가려진 ‘간호사 1인당 환자수 법제화안(간호인력인권법안)’에 대해 얘기하고 싶어요. 간호사가 너무 부족해 내 손에서 환자가 죽어가는 현실을 바꾸려면 얼마나 구르고 싸워야 할까요.- 김수련 간호사간호인력에 관한 사항을 의료법에서 떼 내 독자적으로 규정한 ‘간호법’이 지난 4월 27일 국회 본회의를 통...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/09/news-p.v1.20230509.674b83cc2e534a7d8e6d3c132c9b3e8b_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘급식’ 시스템에 가려진 조리사들의 건강, 외면말라]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202305081510001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202305081510001</guid>
-            <pubDate>Mon, 08 May 2023 06:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[2019년에 방송된 tvN의 예능 &lt;고교 급식왕&gt;은 시간이 꽤 흘렀음에도 여전히 좋은 작품으로 내 기억 속에 남아 있다. 작품은 백종원의 얼굴을 포스터에 앞세우고 있지만 &lt;골목식당&gt; &lt;집밥 백선생&gt; 같은 ‘백종원식 멘토링’ 예능과 거리가 멀다. ‘요리에 일가견이 있는 고등학생들이 모여 백종원 앞에서 급식 조리의 최강자를 가린다’는 취지대로, 작품은 요리에 대해 진중한 태도와 놀라운 실력을 보유한 청소년 셰프들이 난생처음 대량 조리 미션을 수...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/08/news-p.v1.20230508.dd9387c567d040bdaf051a3a040ba711_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
