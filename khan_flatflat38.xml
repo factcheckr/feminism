@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 05:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 06:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘백의의 천사’ 이름 뒤 처절한 싸움, 간호 노동자]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202305171510001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202305171510001</guid>
+            <pubDate>Wed, 17 May 2023 06:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[〈※이 기사는 2023년 5월 11일자 경향신문 ‘[여적]‘티슈 노동자’ 간호사’을 재가공하였습니다.〉“나의 간호를 받는 사람들의 안녕을 위하여 헌신하겠습니다.” 매년 간호대 학생들은 임상 실습을 나가기 전 ‘나이팅게일 선서’를 낭독한다. 플로렌스 나이팅게일(1820~1910)은 현대 간호학의 창시자다. 1972년 국제간호협의회(ICN)는 그의 생일인 5월12일을 국제간호사의날로 제정했다. 간호사들의 공을 기리기 위함이다.2021년 기준 간호사는 45만7849명(사망자 제외)이...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/17/news-p.v1.20230517.7711d746d4e044af8349af23cd9a41bf_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[n번방과 다른 울갤 #그루밍_성범죄 #술피뎀 #피해자도_가해자도_다수]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202305171010001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 10 May 2023 06:13:59 GMT</pubDate>
             <content:encoded><![CDATA[2019년 우연히 인터넷에서 한 장의 인상적인 사진을 보게 되었다. 흰옷을 입고 베일을 쓴 한 젊은 여성이 자동차 위에 올라가 손을 높이 들고 노래하듯 연설하는 모습이었다. 그 이미지는 몇 개월째 시민 불복종운동과 시위가 계속됐던 수단의 수도 하르툼에서 찍힌 사진이었다. 이 한 장의 사진과 영상으로 대학생 알라 살라는 수단 혁명의 상징이 되었고, 노벨 평화상 후보에 오르기도 했다. 알라 살라는 “총알은 죽이지 않는다. 사람들을 죽이는 것은 바로 침묵”이라...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/10/news-p.v1.20230510.308e806343dd4dfc972ac981f3633b37_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장애인 대상 성폭력까지…악용한 ‘우울증갤러리’ 활동]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202305101010001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202305101010001</guid>
-            <pubDate>Wed, 10 May 2023 02:01:46 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 말 디시인사이드 우울증갤러리에서 장애인을 대상으로 성폭력 사건이 발생해 경찰이 수사에 나섰던 것으로 확인됐다. 가해자는 우울증이나 정신질환이 없는 비장애인 남성으로, 현재 검찰에 송치된 상태다.9일 경향신문 취재결과 서울 금천경찰서는 지난 1월 20대 남성 A씨를 강제추행 혐의로 서울남부지검에 송치했다. A씨는 지난해 11월11일 아스퍼거증후군을 가진 여성 B씨의 신체를 동의 없이 만진 혐의를 받는다. 아스퍼거증후군은 자폐성 장애의 하나로 인지 능력과...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/10/news-p.v1.20230509.583ce105de094e648089b2daa9ee0fe3_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
