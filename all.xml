@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 11:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 12:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/0126c0f2-8289-4370-bd59-ae3723b7044c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[How have universities responded to #MeToo incidents? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9630</link>
+            <guid>https://ildaro.com/9630</guid>
+            <pubDate>Wed, 17 May 2023 12:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[Victims can only go back to their everyday lives when the perpetrator is punished. I want to stop now and go back to my everyday life....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/202305175226717.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[농촌은 도시를 위한 창고나 쓰레기장이 아닙니다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9629</link>
             <guid>https://ildaro.com/9629</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 20 Apr 2023 06:18:00 GMT</pubDate>
             <content:encoded><![CDATA[When the farming season begins, the shortage of labor makes farmers compete, clamoring at the Job Center to be sent more foreign workers, but during the off season, foreign workers are fired in droves...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023042020585116.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자궁과 질 이야기 어디까지 들어봤니? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9610</link>
-            <guid>https://ildaro.com/9610</guid>
-            <pubDate>Wed, 19 Apr 2023 11:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘여성’의 어떤 표식처럼 얘기되지만, 때때로 ‘여성’들에게도 낯설게 느껴지는 자궁과 질에 대한 이야기를 펼치는 장이 열렸다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023041903368588.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
