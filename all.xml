@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 00:55:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 02:05:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘취임 1년’ 김현숙 장관 “경력단절 예방 범정부 대책 내겠다” (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202305181010001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202305181010001</guid>
+            <pubDate>Thu, 18 May 2023 02:03:13 GMT</pubDate>
+            <content:encoded><![CDATA[김현숙 여성가족부 장관이 17일 취임 1주년을 맞아 “성별임금격차 해소를 위해 여성 경력단절을 예방하고 양질의 일자리 진입을 촉진하겠다”고 밝혔다.김 장관은 이날 오전 정부서울청사에서 출입기자단을 만나 “실질적 양성평등은 여성의 정치권력 진출과 성별임금격차 해소”라며 “범정부 여성인력양성 협의체에서 논의해 여성 경력단절을 예방하고 양질의 일자리 진입을 촉진하는 방안을 발표할 계획”이라고 했다.김 장관은 “성별임금격차의 가장 큰 원인은 경력단절”이라며...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/18/news-p.v1.20230517.2816eff06f4d405196aadcc13224206f_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘백의의 천사’ 이름 뒤 처절한 싸움, 간호 노동자 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202305171510001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 11 May 2023 02:01:50 GMT</pubDate>
             <content:encoded><![CDATA[미국 전직 대통령으로서 ‘최초’의 역사를 써내려가고 있는 도널드 트럼프 전 대통령이 이번에는 ‘최초의 성범죄자’가 됐다. 여성 작가에 대한 성추행 및 명예훼손 혐의로 500만달러(약 66억원)를 배상하라는 법원 평결이 나온 것이다. 그동안 10여건의 성폭력 관련 소송을 당한 트럼프 전 대통령의 혐의가 법원에서 인정된 것은 처음이다. 2024년 대선 출마를 선언한 공화당 대선주자이기도 한 트럼프 전 대통령의 사법리스크가 더욱 심화됐다는 관측이 나온다.뉴욕 남부연...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/11/news-p.v1.20230510.567968b9bdbc488294fb08745bcbc4bf_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘베일 쓴 젊은 여성’의 연설을 기억하라 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202305101510001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202305101510001</guid>
-            <pubDate>Wed, 10 May 2023 06:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[2019년 우연히 인터넷에서 한 장의 인상적인 사진을 보게 되었다. 흰옷을 입고 베일을 쓴 한 젊은 여성이 자동차 위에 올라가 손을 높이 들고 노래하듯 연설하는 모습이었다. 그 이미지는 몇 개월째 시민 불복종운동과 시위가 계속됐던 수단의 수도 하르툼에서 찍힌 사진이었다. 이 한 장의 사진과 영상으로 대학생 알라 살라는 수단 혁명의 상징이 되었고, 노벨 평화상 후보에 오르기도 했다. 알라 살라는 “총알은 죽이지 않는다. 사람들을 죽이는 것은 바로 침묵”이라...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/10/news-p.v1.20230510.308e806343dd4dfc972ac981f3633b37_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘취임 1년’ 김현숙 장관 “경력단절 예방 범정부 대책 내겠다” (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202305181010001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202305181010001</guid>
+            <pubDate>Thu, 18 May 2023 02:03:56 GMT</pubDate>
+            <content:encoded><![CDATA[김현숙 여성가족부 장관이 17일 취임 1주년을 맞아 “성별임금격차 해소를 위해 여성 경력단절을 예방하고 양질의 일자리 진입을 촉진하겠다”고 밝혔다.김 장관은 이날 오전 정부서울청사에서 출입기자단을 만나 “실질적 양성평등은 여성의 정치권력 진출과 성별임금격차 해소”라며 “범정부 여성인력양성 협의체에서 논의해 여성 경력단절을 예방하고 양질의 일자리 진입을 촉진하는 방안을 발표할 계획”이라고 했다.김 장관은 “성별임금격차의 가장 큰 원인은 경력단절”이라며...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/18/news-p.v1.20230517.2816eff06f4d405196aadcc13224206f_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘백의의 천사’ 이름 뒤 처절한 싸움, 간호 노동자 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202305171510001</link>
             <guid>https://www.khan.co.kr/opinion/column/article/202305171510001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 11 May 2023 02:01:50 GMT</pubDate>
             <content:encoded><![CDATA[미국 전직 대통령으로서 ‘최초’의 역사를 써내려가고 있는 도널드 트럼프 전 대통령이 이번에는 ‘최초의 성범죄자’가 됐다. 여성 작가에 대한 성추행 및 명예훼손 혐의로 500만달러(약 66억원)를 배상하라는 법원 평결이 나온 것이다. 그동안 10여건의 성폭력 관련 소송을 당한 트럼프 전 대통령의 혐의가 법원에서 인정된 것은 처음이다. 2024년 대선 출마를 선언한 공화당 대선주자이기도 한 트럼프 전 대통령의 사법리스크가 더욱 심화됐다는 관측이 나온다.뉴욕 남부연...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/11/news-p.v1.20230510.567968b9bdbc488294fb08745bcbc4bf_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘베일 쓴 젊은 여성’의 연설을 기억하라 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202305101510001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202305101510001</guid>
-            <pubDate>Wed, 10 May 2023 06:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[2019년 우연히 인터넷에서 한 장의 인상적인 사진을 보게 되었다. 흰옷을 입고 베일을 쓴 한 젊은 여성이 자동차 위에 올라가 손을 높이 들고 노래하듯 연설하는 모습이었다. 그 이미지는 몇 개월째 시민 불복종운동과 시위가 계속됐던 수단의 수도 하르툼에서 찍힌 사진이었다. 이 한 장의 사진과 영상으로 대학생 알라 살라는 수단 혁명의 상징이 되었고, 노벨 평화상 후보에 오르기도 했다. 알라 살라는 “총알은 죽이지 않는다. 사람들을 죽이는 것은 바로 침묵”이라...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/10/news-p.v1.20230510.308e806343dd4dfc972ac981f3633b37_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자차별보다 거센 남녀차별을 끊다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
