@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 02:05:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 03:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[결혼도 혼자도 아닌…생활동반자법 제정되면 뭐가 달라질까?]]></title>
+            <link>https://ildaro.com/9631</link>
+            <guid>https://ildaro.com/9631</guid>
+            <pubDate>Thu, 18 May 2023 10:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[“누구든 함께 돌보고 생활하고 부양하고 있다면 돌봄이나 노동, 복지, 장례 등 생애 전 과정에서 가족으로서의 권리를 인정하고 보장할 수 있도록 법안을 구성했다.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023051857554800.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[How have universities responded to #MeToo incidents?]]></title>
             <link>https://ildaro.com/9630</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 15 May 2023 04:14:12 GMT</pubDate>
             <content:encoded><![CDATA[‘혼인신고를 안 했는데 진실된 사랑인지 어떻게 아느냐’, ‘혼인을 반복하며 휴가제도를 악용하면 어떻게 하느냐’ 등의 말을 들었습니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023042154566358.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Immigrant Workers in Korea’s Agricultural Areas Treated like Serfs]]></title>
-            <link>https://ildaro.com/9611</link>
-            <guid>https://ildaro.com/9611</guid>
-            <pubDate>Thu, 20 Apr 2023 06:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[When the farming season begins, the shortage of labor makes farmers compete, clamoring at the Job Center to be sent more foreign workers, but during the off season, foreign workers are fired in droves...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023042020585116.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
