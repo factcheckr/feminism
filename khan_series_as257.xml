@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 04:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 05:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여가부도 ‘2차 가해’ 우려한 박원순 옹호 다큐, 제작발표회 강행]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202305181402001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202305181402001</guid>
+            <pubDate>Thu, 18 May 2023 05:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[고 박원순 전 서울시장의 성폭력 사건을 다루는 다큐멘터리 &lt;첫 변론&gt;의 제작발표회가 16일 열렸다. 한국성폭력상담소 등 여성단체는 “막무가내 성폭력 부정주의에 기인한 2차 가해”라고 비판했다.박원순을믿는사람들은 서울 중구 달개비에서 제작발표회를 열고 “박 전 시장은 사후 언론의 일방적 보도로 인해 일반 시민들에게 성추행범, 성범죄자로 낙인찍혔다”며 “부시장, 비서실장 등 소위 ‘6층 사람들’도 권력형 성범죄의 방조범으로 인식돼 버렸다”고 주장했다.이...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/18/news-p.v1.20230518.1210adbac3ad45e68e0dba53b47bf4d0_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘취임 1년’ 김현숙 장관 “경력단절 예방 범정부 대책 내겠다”]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202305181010001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 11 May 2023 06:15:47 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 대통령 취임 1주년인 10일 서울 용산구 대통령실 앞에서는 시민단체와 여성단체, 문화예술인, 교사 등 다양한 이들이 모여 윤석열 정권을 향해 목소리를 냈다.이날 9시 반부터 정오까지 기자회견 4건과 집회 2건이 열렸다. 대통령 집무실 앞에서 집회를 신청한 공권력감시대응팀은 경찰의 제지로 인해 대통령 집무실 앞까지 가지 못한 채 삼각지역 인근에서 집회를 열고, 집회의 자유를 촉구했다.가장 먼저 참여연대는 ‘윤석열 정부 출범 1년 규탄 기자회견’을 열고...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/11/news-p.v1.20230511.e34a7fb7c8c5473581c283f6e4a10037_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미 법원 ‘트럼프 성추행 혐의’ 첫 인정 “500만 달러 배상해야”]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202305111010001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202305111010001</guid>
-            <pubDate>Thu, 11 May 2023 02:02:33 GMT</pubDate>
-            <content:encoded><![CDATA[미국 전직 대통령으로서 ‘최초’의 역사를 써내려가고 있는 도널드 트럼프 전 대통령이 이번에는 ‘최초의 성범죄자’가 됐다. 여성 작가에 대한 성추행 및 명예훼손 혐의로 500만달러(약 66억원)를 배상하라는 법원 평결이 나온 것이다. 그동안 10여건의 성폭력 관련 소송을 당한 트럼프 전 대통령의 혐의가 법원에서 인정된 것은 처음이다. 2024년 대선 출마를 선언한 공화당 대선주자이기도 한 트럼프 전 대통령의 사법리스크가 더욱 심화됐다는 관측이 나온다.뉴욕 남부연...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/11/news-p.v1.20230510.567968b9bdbc488294fb08745bcbc4bf_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
