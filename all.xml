@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 05:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 06:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[범죄로 악용될 때 온라인 커뮤니티 공간은 ‘우범 지대’가 된다 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202305221510001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202305221510001</guid>
+            <pubDate>Mon, 22 May 2023 06:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[지난 15일 방송통신심의위원회 통신자문특별위원회에서 디씨인사이드의 우울증 갤러리 차단 문제에 대해 유해 정보가 있는 사이트이긴 하지만 차단할 정도는 아니라는 자문 의견을 제시한 것으로 알려졌다. 4월16일 한 청소년이 고층 건물에서 투신하는 과정을 SNS로 중계하는 사건이 일어났는데, 해당 청소년이 디씨인사이드 우울증 갤러리에서 만난 남성으로부터 성착취 피해를 당했다는 점이 드러났고, 이달 5일에도 해당 갤러리에서 지속적으로 괴롭힘을 당한 청소년이 자살 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/22/news-p.v1.20230522.3cd1880114e94588a6cf0c20d8290b1e_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“정형화한 ‘남성성’ 벗어날 때 세상은 더 나아진다” (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202305221010001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 16 May 2023 02:05:18 GMT</pubDate>
             <content:encoded><![CDATA[‘당신은 미리 나에게 말하지 않았어요’‘무서워’‘와카노’‘나는 모릅니다’‘그렇게 서두르지 마세요’‘나는 나의 고향을 그리워합니다’베트남 이주여성 김나현씨(50)가 한국어 공부를 다짐하고 적은 문장들이다. 삐뚤빼뚤하게 한 글자씩 써 내려간 단어장 노트엔 김씨의 감정도 함께 새겨졌다. 28년이 지나 색이 바랜 김씨의 노트엔 ‘꾸짖’ ‘스트레스’ ‘사유서’ ‘슬픈 표정’ 등과 같은 단어도 눈에 띄었다. 김씨는 “워낙 일이 힘들다 보니 이런 단어들을 찾게 됐던...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/16/news-p.v1.20230509.e41127df73b247ac807f35f6ab2a90fb_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“남녀평등 이념에 어긋나”…‘제사는 장남’ 판례 깬 대법원 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202305151131001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202305151131001</guid>
-            <pubDate>Mon, 15 May 2023 03:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[대법원 전원합의체가 11일 제사 주재자로 ‘최근친 연장자’를 우선해야 한다는 새 기준을 제시한 바탕에는 기존 판례가 유교적 가부장제에 뿌리를 둔 제사 관습에서 벗어나지 못했다는 판단이 있다. 가족제도와 제사의 의미가 달라진 시대 변화를 고려하면 ‘장남’을 우선토록 한 기존 판례는 더 이상 유지할 수 없다는 것이다.대신 차별 폐지와 성평등에 한 발짝 더 나아간 판결을 내놓았다. 대법원은 이날 “어떤 가족제도가 개인의 존엄과 양성평등에 반한다면 헌법적 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/15/news-p.v1.20230515.1422eabc0e5d40469c9de715e196527a_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[범죄로 악용될 때 온라인 커뮤니티 공간은 ‘우범 지대’가 된다 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202305221510001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202305221510001</guid>
+            <pubDate>Mon, 22 May 2023 06:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[지난 15일 방송통신심의위원회 통신자문특별위원회에서 디씨인사이드의 우울증 갤러리 차단 문제에 대해 유해 정보가 있는 사이트이긴 하지만 차단할 정도는 아니라는 자문 의견을 제시한 것으로 알려졌다. 4월16일 한 청소년이 고층 건물에서 투신하는 과정을 SNS로 중계하는 사건이 일어났는데, 해당 청소년이 디씨인사이드 우울증 갤러리에서 만난 남성으로부터 성착취 피해를 당했다는 점이 드러났고, 이달 5일에도 해당 갤러리에서 지속적으로 괴롭힘을 당한 청소년이 자살 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/22/news-p.v1.20230522.3cd1880114e94588a6cf0c20d8290b1e_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“정형화한 ‘남성성’ 벗어날 때 세상은 더 나아진다” (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202305221010001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202305221010001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 16 May 2023 02:05:18 GMT</pubDate>
             <content:encoded><![CDATA[‘당신은 미리 나에게 말하지 않았어요’‘무서워’‘와카노’‘나는 모릅니다’‘그렇게 서두르지 마세요’‘나는 나의 고향을 그리워합니다’베트남 이주여성 김나현씨(50)가 한국어 공부를 다짐하고 적은 문장들이다. 삐뚤빼뚤하게 한 글자씩 써 내려간 단어장 노트엔 김씨의 감정도 함께 새겨졌다. 28년이 지나 색이 바랜 김씨의 노트엔 ‘꾸짖’ ‘스트레스’ ‘사유서’ ‘슬픈 표정’ 등과 같은 단어도 눈에 띄었다. 김씨는 “워낙 일이 힘들다 보니 이런 단어들을 찾게 됐던...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/16/news-p.v1.20230509.e41127df73b247ac807f35f6ab2a90fb_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“남녀평등 이념에 어긋나”…‘제사는 장남’ 판례 깬 대법원 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202305151131001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202305151131001</guid>
-            <pubDate>Mon, 15 May 2023 03:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[대법원 전원합의체가 11일 제사 주재자로 ‘최근친 연장자’를 우선해야 한다는 새 기준을 제시한 바탕에는 기존 판례가 유교적 가부장제에 뿌리를 둔 제사 관습에서 벗어나지 못했다는 판단이 있다. 가족제도와 제사의 의미가 달라진 시대 변화를 고려하면 ‘장남’을 우선토록 한 기존 판례는 더 이상 유지할 수 없다는 것이다.대신 차별 폐지와 성평등에 한 발짝 더 나아간 판결을 내놓았다. 대법원은 이날 “어떤 가족제도가 개인의 존엄과 양성평등에 반한다면 헌법적 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/15/news-p.v1.20230515.1422eabc0e5d40469c9de715e196527a_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자차별보다 거센 남녀차별을 끊다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
