@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 10:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 11:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,7 +248,7 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/16/news-p.v1.20230509.e41127df73b247ac807f35f6ab2a90fb_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[자차별보다 거센 남녀차별을 끊다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <title><![CDATA[서자차별보다 거센 남녀차별을 끊다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1278</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1278</guid>
             <pubDate>Mon, 15 May 2023 23:11:35 GMT</pubDate>
