@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 22:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 23:12:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[칸에서 만난 양자경이 한 말?]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1287</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1287</guid>
+            <pubDate>Mon, 22 May 2023 23:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 76회 칸 영화제가 열리고 있는 프랑스에서의 소식부터 시작해 봅니다. “남자들은 60대에도, 70대에도, 80대에도 밖에 나가 모험에 나서는데 왜 여자들만 집에 머물러야 하나요?” 이 멋진 언니가 또 명언을 제조했습니다. 아시아계 최초로 오스카 여우주연상을 받은 량쯔충 이야기입니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/7aba21e0-9394-4589-ab8f-948fb16cb2d3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서자차별보다 거센 남녀차별을 끊다]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1278</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 20 Mar 2023 23:12:08 GMT</pubDate>
             <content:encoded><![CDATA[오늘 뉴스레터는 이진희 논설위원이 만난 정보라 작가 이야기로 채우려 합니다. 정 작가의 이름, 많이 들어보셨죠. '저주토끼'로 지난해 영국 부커상 인터내셔널 부문 최종 후보에 오른 유명 작가입니다. 동시에 모교이자 오랜 강사 생활을 했던 연세대를 상대로 퇴직금·수당 청구 소송을 제기해 싸우고 있는 소송 당사자입니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/8db502f0-d9e4-4efd-9a22-72e5dd429c50.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저출생 말고 '엄마']]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1218</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1218</guid>
-            <pubDate>Mon, 13 Mar 2023 23:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 '엄마' 얘기를 갖고 왔어요. 가정의 달인 5월도 아닌데, 갑자기 웬 엄마 이야기냐고요? 지난해 우리나라 합계출산율이 0.78명을 기록하며, OECD 국가 중 가장 낮다는 놀랍지도 않은 소식이 알려졌죠. 급해진 정부 당국은 주말에 회의도 열고, 이달 안에 대통령이 저출산고령사회위원회를 직접 주재할 예정이라고 해요. 지난주 윤 대통령은 "국민이 체감할 수 있는 강력한 저출산(저출생) 대책을 마련하라"고 저출산위에 지시한 바 있죠.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/0126c0f2-8289-4370-bd59-ae3723b7044c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
