@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 03:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 04:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/8db502f0-d9e4-4efd-9a22-72e5dd429c50.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[당신의 덕질을 응원합니다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9634</link>
+            <guid>https://ildaro.com/9634</guid>
+            <pubDate>Tue, 23 May 2023 00:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[흔히 덕질이나 팬덤 문화는 청소년 시기의 일시적인 현상이거나, 혹은 현실에 집중하지 못하는 사람들이 하는 헛소비로 여겨진다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023052334438317.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[어린이에게 ‘젠더 중립적 일러스트’를 보여주세요! (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9633</link>
             <guid>https://ildaro.com/9633</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 15 May 2023 04:14:12 GMT</pubDate>
             <content:encoded><![CDATA[제주 토박이인 친구는 농사지으려고 1천평 부지를 사는데 3억 대출을 다 받고도 부족해 다른 금융권 대출까지 받았어요. 그런데 결국 수익이 안 나서 다 처분했어요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023042527417476.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[평균나이 82세, 시니어극단이 남긴 것 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9614</link>
-            <guid>https://ildaro.com/9614</guid>
-            <pubDate>Mon, 24 Apr 2023 09:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[대학 기숙사를 가공의 노인요양보호소로 설정하고, 배우가 직원 역할을 연기하며, 관객이 2박 3일간 입주 체험을 하는 ‘이머시브 시어터’(체험형·몰입형 연극)이었...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023042403374645.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
