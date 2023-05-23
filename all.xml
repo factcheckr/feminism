@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 00:57:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 02:06:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[덩치에 대한 편견, 여자는 ‘풍채’! (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202305230959001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202305230959001</guid>
+            <pubDate>Tue, 23 May 2023 02:05:24 GMT</pubDate>
+            <content:encoded><![CDATA[디즈니·픽사 애니메이션 &lt;인사이드 아웃&gt;은 한참 전 개봉했는데 지금까지도 종종 생각나는 작품이다. 열한 살 소녀 라일리의 내면에서 일어나는 일들을 유쾌하게 그렸다. ‘기쁨’, ‘슬픔’, ‘소심’, ‘까칠’, ‘버럭’이라는 다섯 가지 감정을 캐릭터로 만들었다. 기억과 심리에 대한 비유와 통찰이 재미나 가끔 다시 본다.한 가지 마음에 안 드는 것은 ‘덩치’ 문제다. 라일리의 행복이 위기에 처할 때마다 문제 해결의 중심에 서는 ‘기쁨이’는 군살 없는 마른...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/23/news-p.v1.20230522.c9de499b28ac4980bc36e95ff5ce4e94_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[범죄로 악용될 때 온라인 커뮤니티 공간은 ‘우범 지대’가 된다 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202305221510001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 16 May 2023 08:15:13 GMT</pubDate>
             <content:encoded><![CDATA[제주도의회에서 ‘노키즈존 지정 금지’ 조례안 제정을 추진했다. 이 조례안이 제정되기를, ‘노키즈존’이라는 신조어 자체가 사라지길 바라고 있다. 명시적 배제나 혐오는 애초에 만들어져서도, 논쟁의 주제가 되어서도 안 되는 것이었다. 하지만 눈 깜짝할 사이에 제주도를 중심으로 노키즈존을 내거는 업장들이 늘어났다. 이에 반발해 전국의 노키즈존 업장을 가려내는 리스트가 만들어졌으며, 반작용으로 ‘예스키즈존’도 생겼는데 이 모든 흐름이 기괴하다. 어린이를 두고 ‘...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/16/news-p.v1.20230515.b76daebd0333465a955da9579e081eaf_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이주민 나현씨는 악착같이 한국어를 배웠다 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202305161010001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202305161010001</guid>
-            <pubDate>Tue, 16 May 2023 02:05:18 GMT</pubDate>
-            <content:encoded><![CDATA[‘당신은 미리 나에게 말하지 않았어요’‘무서워’‘와카노’‘나는 모릅니다’‘그렇게 서두르지 마세요’‘나는 나의 고향을 그리워합니다’베트남 이주여성 김나현씨(50)가 한국어 공부를 다짐하고 적은 문장들이다. 삐뚤빼뚤하게 한 글자씩 써 내려간 단어장 노트엔 김씨의 감정도 함께 새겨졌다. 28년이 지나 색이 바랜 김씨의 노트엔 ‘꾸짖’ ‘스트레스’ ‘사유서’ ‘슬픈 표정’ 등과 같은 단어도 눈에 띄었다. 김씨는 “워낙 일이 힘들다 보니 이런 단어들을 찾게 됐던...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/16/news-p.v1.20230509.e41127df73b247ac807f35f6ab2a90fb_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[덩치에 대한 편견, 여자는 ‘풍채’! (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202305230959001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202305230959001</guid>
+            <pubDate>Tue, 23 May 2023 02:06:07 GMT</pubDate>
+            <content:encoded><![CDATA[디즈니·픽사 애니메이션 &lt;인사이드 아웃&gt;은 한참 전 개봉했는데 지금까지도 종종 생각나는 작품이다. 열한 살 소녀 라일리의 내면에서 일어나는 일들을 유쾌하게 그렸다. ‘기쁨’, ‘슬픔’, ‘소심’, ‘까칠’, ‘버럭’이라는 다섯 가지 감정을 캐릭터로 만들었다. 기억과 심리에 대한 비유와 통찰이 재미나 가끔 다시 본다.한 가지 마음에 안 드는 것은 ‘덩치’ 문제다. 라일리의 행복이 위기에 처할 때마다 문제 해결의 중심에 서는 ‘기쁨이’는 군살 없는 마른...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/23/news-p.v1.20230522.c9de499b28ac4980bc36e95ff5ce4e94_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[범죄로 악용될 때 온라인 커뮤니티 공간은 ‘우범 지대’가 된다 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202305221510001</link>
             <guid>https://www.khan.co.kr/opinion/column/article/202305221510001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 16 May 2023 08:15:13 GMT</pubDate>
             <content:encoded><![CDATA[제주도의회에서 ‘노키즈존 지정 금지’ 조례안 제정을 추진했다. 이 조례안이 제정되기를, ‘노키즈존’이라는 신조어 자체가 사라지길 바라고 있다. 명시적 배제나 혐오는 애초에 만들어져서도, 논쟁의 주제가 되어서도 안 되는 것이었다. 하지만 눈 깜짝할 사이에 제주도를 중심으로 노키즈존을 내거는 업장들이 늘어났다. 이에 반발해 전국의 노키즈존 업장을 가려내는 리스트가 만들어졌으며, 반작용으로 ‘예스키즈존’도 생겼는데 이 모든 흐름이 기괴하다. 어린이를 두고 ‘...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/16/news-p.v1.20230515.b76daebd0333465a955da9579e081eaf_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이주민 나현씨는 악착같이 한국어를 배웠다[플랫] (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202305161010001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202305161010001</guid>
-            <pubDate>Tue, 16 May 2023 02:05:18 GMT</pubDate>
-            <content:encoded><![CDATA[‘당신은 미리 나에게 말하지 않았어요’‘무서워’‘와카노’‘나는 모릅니다’‘그렇게 서두르지 마세요’‘나는 나의 고향을 그리워합니다’베트남 이주여성 김나현씨(50)가 한국어 공부를 다짐하고 적은 문장들이다. 삐뚤빼뚤하게 한 글자씩 써 내려간 단어장 노트엔 김씨의 감정도 함께 새겨졌다. 28년이 지나 색이 바랜 김씨의 노트엔 ‘꾸짖’ ‘스트레스’ ‘사유서’ ‘슬픈 표정’ 등과 같은 단어도 눈에 띄었다. 김씨는 “워낙 일이 힘들다 보니 이런 단어들을 찾게 됐던...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/16/news-p.v1.20230509.e41127df73b247ac807f35f6ab2a90fb_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[칸에서 만난 양자경이 한 말? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
