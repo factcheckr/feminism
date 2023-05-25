@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 05:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 06:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“기저귀 찬 게이” 이충상 인권위원의 ‘반인권적’인 문제 발언들]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202305251510001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202305251510001</guid>
+            <pubDate>Thu, 25 May 2023 06:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[“훈련소에서는 자살, 자해가 없다는 것을 말씀드리고 싶다.”“(이태원 핼러윈) 사고는 예방 가능한 재난이었다고 보이지 않는다.”“(하청업체 노동자에게 원청업체와의 단체교섭권을 주는 것은) 결국 대우조선해양이 그 하청회사의 근로자들에게 인심을 쓰는 것”- 이충상 인권위원‘군 신병 훈련소 인권상황 개선 권고의 건’에 “기저귀 찬 게이” 등 성소수자 혐오성 소수의견을 썼다 지운 이충상 국가인권위원회 인권위원의 문제적 발언이 그 외에도 상당수인 것으로 파악됐다...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/25/news-p.v1.20230525.8a68eb7cca9a40ffbf8fae389b6baa91_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사우디 첫 여성 우주인 탄생, 이면에 공포 정치는 계속]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202305251028001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 19 May 2023 02:04:39 GMT</pubDate>
             <content:encoded><![CDATA[고용상 성차별과 직장 내 성희롱 등을 당한 피해자가 노동위원회에도 시정신청을 할 수 있도록 한 ‘고용상 성차별 등 시정신청 제도(개정 남녀고용평등법)’가 시행된 지 1년이 지났다. 제도가 마련됐지만 노동위원회는 ‘고용상 성차별’로 분류된 시정신청에는 한 건도 시정명령을 내리지 않는 등 피해 구제를 제대로 하지 않았다는 지적이 나온다.18일 노동법률단체 직장갑질119가 권인숙 더불어민주당 의원실을 통해 받은 ‘노동위원회 고용상 성차별 등 시정신청 신고 및 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/19/news-p.v1.20230519.ecf5a6d0839e45159881d2aeb5a63002_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여가부도 ‘2차 가해’ 우려한 박원순 옹호 다큐, 제작발표회 강행]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202305181402001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202305181402001</guid>
-            <pubDate>Thu, 18 May 2023 05:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[고 박원순 전 서울시장의 성폭력 사건을 다루는 다큐멘터리 &lt;첫 변론&gt;의 제작발표회가 16일 열렸다. 한국성폭력상담소 등 여성단체는 “막무가내 성폭력 부정주의에 기인한 2차 가해”라고 비판했다.박원순을믿는사람들은 서울 중구 달개비에서 제작발표회를 열고 “박 전 시장은 사후 언론의 일방적 보도로 인해 일반 시민들에게 성추행범, 성범죄자로 낙인찍혔다”며 “부시장, 비서실장 등 소위 ‘6층 사람들’도 권력형 성범죄의 방조범으로 인식돼 버렸다”고 주장했다.이...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/18/news-p.v1.20230518.1210adbac3ad45e68e0dba53b47bf4d0_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
