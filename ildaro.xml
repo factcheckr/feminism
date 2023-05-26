@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 02:04:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 03:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1인 가구 여성이 주거의 권리를 묻습니다]]></title>
+            <link>https://ildaro.com/9636</link>
+            <guid>https://ildaro.com/9636</guid>
+            <pubDate>Fri, 26 May 2023 11:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[아파트 값은 치솟고 있었고, 임대 기간인 10년이 지나면 살던 집에서 쫓겨날 거라는 불안감이 엄습했습니다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023052616406049.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[딸이 말하기 시작했다…‘스위트 홈’의 민낯]]></title>
             <link>https://ildaro.com/9635</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 28 Apr 2023 00:06:00 GMT</pubDate>
             <content:encoded><![CDATA[“Although the black shoes were not visible in the darkness, I longed so much to wear that pair of shoes that I woke up in the middle of night and put them on.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023042814522729.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요양보호사들의 이야기를 ‘다르게’ 들을 수 있을까]]></title>
-            <link>https://ildaro.com/9616</link>
-            <guid>https://ildaro.com/9616</guid>
-            <pubDate>Thu, 27 Apr 2023 11:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘나는 여기가 적성에 맞’지만 ‘여기는 요양보호사들에게는 지옥’이고, ‘어르신들 만나는 것 자체가 너무 좋’지만 ‘정을 깊게 안 준다’. 한 사람이 말했지만 ...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023042719498638.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
