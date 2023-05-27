@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 May 2023 06:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 May 2023 07:10:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/8db502f0-d9e4-4efd-9a22-72e5dd429c50.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[In Making the Fat Free (Sal-puri) Ritual ‘Produce Choi Haeun’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9637</link>
+            <guid>https://ildaro.com/9637</guid>
+            <pubDate>Sat, 27 May 2023 07:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[Mom and Dad told me/ that they had me because they love each other/ Someday love will come to me […] White dress with a rose bouquet...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023052755344030.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[1인 가구 여성이 주거의 권리를 묻습니다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9636</link>
             <guid>https://ildaro.com/9636</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 29 Apr 2023 00:03:00 GMT</pubDate>
             <content:encoded><![CDATA[“당신의 두려움은 나뿐만 아니라 당신에게도 아픔을 준다. 그 두려움은 어떤 존재라도 될 수 있는 당신의 잠재력을 제한한다.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/202304290748824.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Drawing My Mother’s Life: (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9617</link>
-            <guid>https://ildaro.com/9617</guid>
-            <pubDate>Fri, 28 Apr 2023 00:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[“Although the black shoes were not visible in the darkness, I longed so much to wear that pair of shoes that I woke up in the middle of night and put them on.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/2023042814522729.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
