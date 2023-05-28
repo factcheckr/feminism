@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 May 2023 02:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 03:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/8db502f0-d9e4-4efd-9a22-72e5dd429c50.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[페미사이드, 경제구조적 맥락을 간과하지 말라 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9638</link>
+            <guid>https://ildaro.com/9638</guid>
+            <pubDate>Sun, 28 May 2023 00:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[마녀사냥이 도시보다는 주로 농촌에서 발생했고, 마녀로 내몰린 여성들은 주로 가난한 농민이었음을 제시한다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023052807566477.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[In Making the Fat Free (Sal-puri) Ritual ‘Produce Choi Haeun’ (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9637</link>
             <guid>https://ildaro.com/9637</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 01 May 2023 00:20:00 GMT</pubDate>
             <content:encoded><![CDATA[“경제적 여유가 없어 장래가 불안해 잠을 잘 수 없다”, “큰 병에 걸리거나 노년이 되어 거동을 못하게 되면 어떻게 생활하면 좋을지 모르겠다”는 절박한 메시지도...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/202305012808939.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성별에 대해 우리가 갖는 ‘두려움’ (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9618</link>
-            <guid>https://ildaro.com/9618</guid>
-            <pubDate>Sat, 29 Apr 2023 00:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[“당신의 두려움은 나뿐만 아니라 당신에게도 아픔을 준다. 그 두려움은 어떤 존재라도 될 수 있는 당신의 잠재력을 제한한다.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202304/202304290748824.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
