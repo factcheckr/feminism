@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 May 2023 06:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 May 2023 07:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘여성 서사’가 정치 드라마를 만났을 때!]]></title>
+            <link>https://ildaro.com/9639</link>
+            <guid>https://ildaro.com/9639</guid>
+            <pubDate>Mon, 29 May 2023 07:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[원팡은 멋진 정치인이면서, 커밍아웃한 레즈비언이다. 드라마에서 원팡의 성정체성은 유별난 일로 다뤄지지 않지만, 그가 성소수자라는 건 분명하게 드러난다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023052949499652.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[페미사이드, 경제구조적 맥락을 간과하지 말라]]></title>
             <link>https://ildaro.com/9638</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 15 May 2023 04:14:12 GMT</pubDate>
             <content:encoded><![CDATA[“이 방송의 목적이 ‘진짜 해결’이었다면, 성폭력이 일어난 구조와 방식을 설명하고, 성폭력을 일으키는 구조적 요인이 우리 현실에 다양한 방식으로 녹아들어 있다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023050257342233.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중노년 싱글여성 과반 ‘노년에도 일해야 먹고 산다’]]></title>
-            <link>https://ildaro.com/9619</link>
-            <guid>https://ildaro.com/9619</guid>
-            <pubDate>Mon, 01 May 2023 00:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[“경제적 여유가 없어 장래가 불안해 잠을 잘 수 없다”, “큰 병에 걸리거나 노년이 되어 거동을 못하게 되면 어떻게 생활하면 좋을지 모르겠다”는 절박한 메시지도...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/202305012808939.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
