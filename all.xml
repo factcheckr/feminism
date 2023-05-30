@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 00:57:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 02:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여성은 또 죽었고 젠더폭력 입법은 멈춰있다 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/gender/article/202305301029001</link>
+            <guid>https://www.khan.co.kr/national/gender/article/202305301029001</guid>
+            <pubDate>Tue, 30 May 2023 02:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[서울 금천구에서 교제폭력으로 경찰 조사를 받은 30대 남성이 조사 직후 상대 여성을 살해하는 사건이 발생한 이후 교제폭력의 입법공백을 지적하는 목소리가 높아지고 있다. 대중의 이목이 쏠리는 젠더폭력 사건이 발생할 때마다 국회에서 ‘반짝’ 법안이 발의됐다가도 제대로 논의되지 않은 채 사장되는 일이 반복되고 있다. 법 규정의 사각지대에서 ‘막을 수 있던’ 죽음이 반복되고 있다는 비판이 제기된다.29일 국회 의안정보시스템을 보면, 현재 국회에 계류 중인 교제...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/30/news-p.v1.20230530.c9edbdc36f3248eba7e7827781408a53_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전 연인 ‘보복살해’ 여파 가시기도 전에 … 곳곳서 잇따른 ‘교제폭력’ (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202305291037001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 22 May 2023 06:15:34 GMT</pubDate>
             <content:encoded><![CDATA[지난 15일 방송통신심의위원회 통신자문특별위원회에서 디씨인사이드의 우울증 갤러리 차단 문제에 대해 유해 정보가 있는 사이트이긴 하지만 차단할 정도는 아니라는 자문 의견을 제시한 것으로 알려졌다. 4월16일 한 청소년이 고층 건물에서 투신하는 과정을 SNS로 중계하는 사건이 일어났는데, 해당 청소년이 디씨인사이드 우울증 갤러리에서 만난 남성으로부터 성착취 피해를 당했다는 점이 드러났고, 이달 5일에도 해당 갤러리에서 지속적으로 괴롭힘을 당한 청소년이 자살 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/22/news-p.v1.20230522.3cd1880114e94588a6cf0c20d8290b1e_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“정형화한 ‘남성성’ 벗어날 때 세상은 더 나아진다” (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202305221010001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202305221010001</guid>
-            <pubDate>Mon, 22 May 2023 02:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[지난 100여년 간 여성들은 투표권을 쟁취했고 고등 교육과 유급 노동에 접근할 권리도 얻어냈다. 여성들은 지도력, 투지, 결단력 등 ‘남성성’으로 일컬어지는 자질을 활용해 ‘남성의 영역’에 진입했다. 그러나 여전히 임금 격차, 경제적 자립, 여성 대상 폭력 등 문제들이 산적했고 갈 길도 멀다. 성평등에 대한 저항인 ‘백래시’가 전세계적으로 거세지면서 여성혐오를 앞세운 가부장적 국가 지도자인 ‘스트롱맨’들이 부상하는가 하면 일부에선 ‘남성성의 위기’론을 퍼...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/22/news-p.v1.20230519.73ca3408066f455297375df6506f5b27_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여성은 또 죽었고 젠더폭력 입법은 멈춰있다 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/gender/article/202305301029001</link>
+            <guid>https://www.khan.co.kr/national/gender/article/202305301029001</guid>
+            <pubDate>Tue, 30 May 2023 02:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[서울 금천구에서 교제폭력으로 경찰 조사를 받은 30대 남성이 조사 직후 상대 여성을 살해하는 사건이 발생한 이후 교제폭력의 입법공백을 지적하는 목소리가 높아지고 있다. 대중의 이목이 쏠리는 젠더폭력 사건이 발생할 때마다 국회에서 ‘반짝’ 법안이 발의됐다가도 제대로 논의되지 않은 채 사장되는 일이 반복되고 있다. 법 규정의 사각지대에서 ‘막을 수 있던’ 죽음이 반복되고 있다는 비판이 제기된다.29일 국회 의안정보시스템을 보면, 현재 국회에 계류 중인 교제...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/30/news-p.v1.20230530.c9edbdc36f3248eba7e7827781408a53_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전 연인 ‘보복살해’ 여파 가시기도 전에 … 곳곳서 잇따른 ‘교제폭력’ (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202305291037001</link>
             <guid>https://www.khan.co.kr/national/gender/article/202305291037001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 22 May 2023 06:15:34 GMT</pubDate>
             <content:encoded><![CDATA[지난 15일 방송통신심의위원회 통신자문특별위원회에서 디씨인사이드의 우울증 갤러리 차단 문제에 대해 유해 정보가 있는 사이트이긴 하지만 차단할 정도는 아니라는 자문 의견을 제시한 것으로 알려졌다. 4월16일 한 청소년이 고층 건물에서 투신하는 과정을 SNS로 중계하는 사건이 일어났는데, 해당 청소년이 디씨인사이드 우울증 갤러리에서 만난 남성으로부터 성착취 피해를 당했다는 점이 드러났고, 이달 5일에도 해당 갤러리에서 지속적으로 괴롭힘을 당한 청소년이 자살 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/22/news-p.v1.20230522.3cd1880114e94588a6cf0c20d8290b1e_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“정형화한 ‘남성성’ 벗어날 때 세상은 더 나아진다” (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202305221010001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202305221010001</guid>
-            <pubDate>Mon, 22 May 2023 02:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[지난 100여년 간 여성들은 투표권을 쟁취했고 고등 교육과 유급 노동에 접근할 권리도 얻어냈다. 여성들은 지도력, 투지, 결단력 등 ‘남성성’으로 일컬어지는 자질을 활용해 ‘남성의 영역’에 진입했다. 그러나 여전히 임금 격차, 경제적 자립, 여성 대상 폭력 등 문제들이 산적했고 갈 길도 멀다. 성평등에 대한 저항인 ‘백래시’가 전세계적으로 거세지면서 여성혐오를 앞세운 가부장적 국가 지도자인 ‘스트롱맨’들이 부상하는가 하면 일부에선 ‘남성성의 위기’론을 퍼...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/22/news-p.v1.20230519.73ca3408066f455297375df6506f5b27_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[칸에서 만난 양자경이 한 말? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
