@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 23:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 01:05:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[종교 공동체 강간 피해자 “동물들조차 여자들보다 안전하게 산다”]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202305311002011</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202305311002011</guid>
+            <pubDate>Wed, 31 May 2023 01:03:42 GMT</pubDate>
+            <content:encoded><![CDATA[2005년부터 개신교 교파인 메노파 신자들이 일군 몰로치나 공동체 마을에 사는 거의 모든 소녀와 성인 여자가 강간당한다. 이들은 가짓과 식물 벨라도나로 만든 농장 동물용 마취제 스프레이를 맞고 의식을 잃었다. 다음날 온몸에서 고통을 느끼며 깨어났다. 종종 몸에서 피도 흘렸다. 범인이 공동체 남자 8명이라고 밝혀진 건 2009년이다. 2005~2009년 300명이 넘는 여자들이 침대에서 폭행당했다. 강간 뒤 임신한 피해자가 조산하면서 아기가 죽는 일도 벌어졌다.전기도 없이...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/31/news-p.v1.20230530.1ca0b7f6a9dc4489a1052807a54fbbf1_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[저출생 책임을 비혼 여성에게만 묻는 무책임함]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202305301510001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 23 May 2023 06:14:37 GMT</pubDate>
             <content:encoded><![CDATA[조정실씨(65)는 아이들 손을 놓지 못했다. 수료증을 받아든 수지(가명·15)도 발걸음을 떼지 못했다. “잘 지내고 있어. 꼭 다시 만나자.” “돌아올 수 있을 때까지 기다릴게요.” 수지가 참았던 눈물을 보이자 센터장인 조씨가 아이의 마른 몸을 껴안았다. 객석에 앉아 딸을 지켜보던 어머니가 소리 내 울기 시작했다. 선생님도, 아이들도, 다른 어머니들도 따라 울었다. 20여명이 모인 ‘작은 수료식’은 눈물바다가 됐다.전국 유일의 학교폭력 피해자 기숙형 지원기관인 ‘해...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/23/news-p.v1.20230523.34cb1ae24c5b4d6f95564dd52e4a1b19_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[덩치에 대한 편견, 여자는 ‘풍채’!]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202305230959001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202305230959001</guid>
-            <pubDate>Tue, 23 May 2023 02:06:07 GMT</pubDate>
-            <content:encoded><![CDATA[디즈니·픽사 애니메이션 &lt;인사이드 아웃&gt;은 한참 전 개봉했는데 지금까지도 종종 생각나는 작품이다. 열한 살 소녀 라일리의 내면에서 일어나는 일들을 유쾌하게 그렸다. ‘기쁨’, ‘슬픔’, ‘소심’, ‘까칠’, ‘버럭’이라는 다섯 가지 감정을 캐릭터로 만들었다. 기억과 심리에 대한 비유와 통찰이 재미나 가끔 다시 본다.한 가지 마음에 안 드는 것은 ‘덩치’ 문제다. 라일리의 행복이 위기에 처할 때마다 문제 해결의 중심에 서는 ‘기쁨이’는 군살 없는 마른...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/23/news-p.v1.20230522.c9de499b28ac4980bc36e95ff5ce4e94_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
