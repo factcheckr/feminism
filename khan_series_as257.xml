@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 05:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 06:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰, 부산 돌려차기 살인미수 사건 “강간 목적 있었다” 35년 구형]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202306011510001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202306011510001</guid>
+            <pubDate>Thu, 01 Jun 2023 06:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[부산진구 서면에서 귀가하던 20대 여성을 무차별 폭행해 의식을 잃게 한 일명 ‘부산 서면 돌려차기 살인미수 사건’ 항소심 재판에서 검찰이 피고인에게 징역 35년을 구형했다.31일 부산고법 형사 2-1부(최환 부장판사)가 진행한 피고인 A씨(30)에 대한 결심공판에서 검찰은 징역 35년, 위치추적장치 부착, 보호관찰명령 20년을 각각 구형했다.검찰은 이날 1심에서 A씨에게 적용했던 살인미수 혐의를 예비적 공소사실로, 강간살인미수 혐의를 주위적 공소사실로 하는 공소장 변경...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/01/news-p.v1.20230601.e8dedb048f48431dbc10763a40b56d03_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헌법재판소, 아동학대로 처벌받은 보육교사 자격 취소  “합헌”]]></title>
             <link>https://www.khan.co.kr/national/court-law/article/202306011010001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 25 May 2023 02:04:17 GMT</pubDate>
             <content:encoded><![CDATA[사우디아라비아 첫 여성 우주인 레이야나 바르나위를 태운 미 우주탐사 기업 스페이스X의 민간 우주선 ‘크루 드래건’이 22일(현지시간) 국제우주정거장(ISS)에 도착해 본격적인 활동에 돌입했다.줄기세포 연구원이었던 바르나위가 우주로 향할 수 있었던 배경엔 무함마드 빈살만 사우디 왕세자가 추진하는 ‘비전 2030’이 있었다. 빈살만 왕세자는 비전 2030을 통해 사우디 경제·사회 시스템 개혁을 도모했고, 특히 여성의 사회 참여를 프로젝트의 주요 키워드로 삼았다.사우디 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/25/news-p.v1.20230525.1cc99a328f4a46fb8b17ac5a0723fba2_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영국 주간지 이코노미스트 “한국 여성의 자살률 왜 높은가?”]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202305241510001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202305241510001</guid>
-            <pubDate>Wed, 24 May 2023 06:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[영국 시사주간지 이코노미스트가 한국 여성의 높은 자살률에 주목하는 기사를 내보냈다. 이코노미스트는 한국 여성이 전통적 역할을 수행해야 하면서도 초경쟁사회에서 살아남아야 한다는 “모순적인 기대를 강요받고 있다”는 점을 높은 자살률의 원인으로 꼽았다.이코노미스트는 22일(현지시간) 공개된 기사에서 지난 10년 동안 감소세를 보였던 한국의 자살률이 2018년을 기점으로 다시 늘기 시작, 리투아니아를 제치고 경제협력개발기구(OECD) 회원국 1위로 올라섰다는 점에 주목...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/24/news-p.v1.20230523.a2d2ba328bf64483830a032bba8a64c5_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
