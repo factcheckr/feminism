@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 09:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 10:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청년 실태도, 여성 실태도 ‘서울 이야기잖아요’]]></title>
+            <link>https://ildaro.com/9642</link>
+            <guid>https://ildaro.com/9642</guid>
+            <pubDate>Fri, 02 Jun 2023 10:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[“서울 수치 때문에 그래요.” 서울 임금 수준이 상대적으로 높아 평균 소득을 상승시켰다는 이야기다. 다른 지역은 이보다 더 적다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023060244289393.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가족을 구성할 권리에 차별을 두지 마세요]]></title>
             <link>https://ildaro.com/9641</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 07 May 2023 10:58:00 GMT</pubDate>
             <content:encoded><![CDATA[“쌤도 페미라면서요?” 복도를 가득 채운 학생들로 둘러싸인 채, 칼날 같은 질문이 나에게 날아왔다. 그 순간 나는 사실 휘청였다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023050702131032.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산타여, 어디까지 가봤나요?]]></title>
-            <link>https://ildaro.com/9622</link>
-            <guid>https://ildaro.com/9622</guid>
-            <pubDate>Fri, 05 May 2023 00:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[백인 시스젠더 성인 남성인 산타가 온 마을에 선물을 주러 오는 날. 그런데 과연 산타가 유색인 트랜스젠더 성노동자 여성들의 거리인 이곳에도 올까....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023050515339835.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
