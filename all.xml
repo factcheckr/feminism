@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 05:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 06:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[마음의 허기를 채우는 따뜻한 손길 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202306021517001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202306021517001</guid>
+            <pubDate>Fri, 02 Jun 2023 06:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[서울에 와서 알았다. 비가 그렇게 많이 내릴 수도 있다는 걸. 아르바이트를 끝내고 돌아오니 지층의 자취방은 이미 발목까지 침수가 되어 문을 여는 것도 힘들었다. 패닉 상태였는데 이상하게도 배가 고팠다. 편의점에서 컵라면과 삼각김밥을 사서 먹었다. 학교도 자퇴하고 집도 멋대로 나와 혼자 살아가던 열 일곱 살이었지만 그런 패기는 절박한 순간이 되자 위력을 잃었다. 나는 여전히 판단과 결정이 세상에서 제일 어려운 10대였다. 창밖으로 그칠 기미 없는 비를 보...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/02/news-p.v1.20230602.f3b3c2e82996497abe3990a1f2e5ff89_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“위안부 합의 문서 비공개 정당” 대법원이 외면한 ‘피해자의 알 권리’ (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/court-law/article/202306021047001</link>
             <guid>https://www.khan.co.kr/national/court-law/article/202306021047001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 26 May 2023 03:11:13 GMT</pubDate>
             <content:encoded><![CDATA[“ ‘최초’는 외로운 단어잖아요. 당시에는 여형사가 없으니 어떤 형사가 되어야 하는지를 고민했던 거 같아요. 사건만 보고 갔는데 다양한 길이 만들어진 거죠.”한국 경찰 역사상 첫 강력계 여형사이자 국내 여자 경찰의 역사를 새롭게 쓴 박미옥 전 경정(55)이 33년 경찰 인생 기록을 담은 &lt;형사 박미옥&gt;을 펴냈다.그는 정년을 7년 남겨둔 2021년 제주 서귀포에서 형사과장을 끝으로 명예퇴직했다. 현재는 제주에서 책을 읽고 글을 쓰며 제2의 인생을 살고 있다....]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/26/news-p.v1.20230525.38d4869f52964654ba07aac5f52f1332_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“기저귀 찬 게이” 이충상 인권위원의 ‘반인권적’인 문제 발언들 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202305251510001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202305251510001</guid>
-            <pubDate>Thu, 25 May 2023 06:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[“훈련소에서는 자살, 자해가 없다는 것을 말씀드리고 싶다.”“(이태원 핼러윈) 사고는 예방 가능한 재난이었다고 보이지 않는다.”“(하청업체 노동자에게 원청업체와의 단체교섭권을 주는 것은) 결국 대우조선해양이 그 하청회사의 근로자들에게 인심을 쓰는 것”- 이충상 인권위원‘군 신병 훈련소 인권상황 개선 권고의 건’에 “기저귀 찬 게이” 등 성소수자 혐오성 소수의견을 썼다 지운 이충상 국가인권위원회 인권위원의 문제적 발언이 그 외에도 상당수인 것으로 파악됐다...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/25/news-p.v1.20230525.8a68eb7cca9a40ffbf8fae389b6baa91_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[칸에서 만난 양자경이 한 말? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
