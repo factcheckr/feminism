@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 03:06:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 04:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세대론과 ‘90년대생 노동 서사’에서 빠진 것]]></title>
+            <link>https://ildaro.com/9643</link>
+            <guid>https://ildaro.com/9643</guid>
+            <pubDate>Sun, 04 Jun 2023 09:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[이어져 있는 문제지요. 20대 때 성희롱을 당하지 않는 사회에선 50대도 무시를 당하지 않을 거예요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/202306045148958.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청년 실태도, 여성 실태도 ‘서울 이야기잖아요’]]></title>
             <link>https://ildaro.com/9642</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 15 May 2023 04:14:12 GMT</pubDate>
             <content:encoded><![CDATA[배우 캐스팅. 작품 설명을 하고 나면 (퀴어 캐릭터를 해야 한다는 것에) 조심스러워하는 분들이 여전히 꽤 있더라고요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023050804188143.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[얼굴 없는 비난자에서 몸을 가진 비판자가 되기]]></title>
-            <link>https://ildaro.com/9623</link>
-            <guid>https://ildaro.com/9623</guid>
-            <pubDate>Sun, 07 May 2023 10:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[“쌤도 페미라면서요?” 복도를 가득 채운 학생들로 둘러싸인 채, 칼날 같은 질문이 나에게 날아왔다. 그 순간 나는 사실 휘청였다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023050702131032.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
