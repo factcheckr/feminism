@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 08:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 09:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/8db502f0-d9e4-4efd-9a22-72e5dd429c50.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[촬영 현장에서 NO라고 말하기 어렵잖아요 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9644</link>
+            <guid>https://ildaro.com/9644</guid>
+            <pubDate>Mon, 05 Jun 2023 09:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[감독이 있고, 프로듀서가 있고, 조감독이 있고, 헤드 스텝이 있고, 어시스턴트들이 있고…. 피라미드 아래에 있고, 나이가 어린 사람들은 어떤 말을 하기가 되게 힘들어...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023060529041628.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[세대론과 ‘90년대생 노동 서사’에서 빠진 것 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9643</link>
             <guid>https://ildaro.com/9643</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 15 May 2023 04:14:12 GMT</pubDate>
             <content:encoded><![CDATA[They shouted, “I think she is brown,” “That is Ariel,” “She’s a black girl,” “I’m crying,” and, “She’s black!”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023050919491386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지엘(Girl’s Love) 드라마 만들고 있습니다! (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9624</link>
-            <guid>https://ildaro.com/9624</guid>
-            <pubDate>Mon, 15 May 2023 04:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[배우 캐스팅. 작품 설명을 하고 나면 (퀴어 캐릭터를 해야 한다는 것에) 조심스러워하는 분들이 여전히 꽤 있더라고요....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023050804188143.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
