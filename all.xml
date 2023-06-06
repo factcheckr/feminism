@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Jun 2023 12:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jun 2023 13:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/8db502f0-d9e4-4efd-9a22-72e5dd429c50.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘러브신’을 방해하는 사람이 아닙니다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9645</link>
+            <guid>https://ildaro.com/9645</guid>
+            <pubDate>Tue, 06 Jun 2023 13:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[IC는 배우 편이라는 오해가 있는데, IC는 감독의 의도에 맞는 장면을 만드는 것과 동시에 배우의 권리도 지켜질 수 있도록 조율하는 사람이에요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023060651507462.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[촬영 현장에서 NO라고 말하기 어렵잖아요 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9644</link>
             <guid>https://ildaro.com/9644</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 10 May 2023 00:17:00 GMT</pubDate>
             <content:encoded><![CDATA[후쿠시마현 어민들은 “(오염수를) 보관할 방법은 많이 있다. 방류를 서두를 필요가 없다”며, 오염수 방출에 강력하게 반대하고 있다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023051022236214.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“A Mermaid Like Me!” We All Need Someone Like Us (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9625</link>
-            <guid>https://ildaro.com/9625</guid>
-            <pubDate>Mon, 05 Jun 2023 16:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[They shouted, “I think she is brown,” “That is Ariel,” “She’s a black girl,” “I’m crying,” and, “She’s black!”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023050919491386.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
