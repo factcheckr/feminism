@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 05:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 06:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나의 유년시절, 엄마는 ‘나쁜 엄마’ 였을까?]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202306071510001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202306071510001</guid>
+            <pubDate>Wed, 07 Jun 2023 06:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[“이건, 하늘이 주신 기회야.” &lt;나쁜 엄마&gt;(JTBC)에서 영순(라미란 분)은 사고로 지능이 7세 때로 돌아간 아들 강호(이도현 분)에게 말한다.사람들은 누구나 과거를 돌이키고 싶어 하는데, 그동안의 기억을 모두 잊고 ‘일곱 살부터’ 시작해야 하는 강호는 그런 기회를 잡았다는 의미이다. 35세의 남성이 하루아침에 7세의 지능을 가지게 되자 ‘바보’라는 소리를 듣는데, 아들이 상처받을까봐 영순이 내뱉은 임기응변이다. 이 말은 그러나 작품 전체를 관통하는 중요한...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/07/news-p.v1.20230607.f04d972b7f0e4296ac56437f341f8d49_P1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이란 이어 아프간에서 여학생 독극물 공격, 초등생 80여명 중독]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202306071026001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 31 May 2023 01:03:42 GMT</pubDate>
             <content:encoded><![CDATA[2005년부터 개신교 교파인 메노파 신자들이 일군 몰로치나 공동체 마을에 사는 거의 모든 소녀와 성인 여자가 강간당한다. 이들은 가짓과 식물 벨라도나로 만든 농장 동물용 마취제 스프레이를 맞고 의식을 잃었다. 다음날 온몸에서 고통을 느끼며 깨어났다. 종종 몸에서 피도 흘렸다. 범인이 공동체 남자 8명이라고 밝혀진 건 2009년이다. 2005~2009년 300명이 넘는 여자들이 침대에서 폭행당했다. 강간 뒤 임신한 피해자가 조산하면서 아기가 죽는 일도 벌어졌다.전기도 없이...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/31/news-p.v1.20230530.1ca0b7f6a9dc4489a1052807a54fbbf1_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저출생 책임을 비혼 여성에게만 묻는 무책임함]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202305301510001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202305301510001</guid>
-            <pubDate>Tue, 30 May 2023 06:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[어떤 대상에 대해 이야기하는 콘텐츠는 종종 정작 그 대상보다 오히려 그걸 만든 창작자에 대해 더 많은 것을 알려주고는 한다. 최근 인기 유튜버 진용진이 한국의 비혼 여성에 대해 그린 &lt;외면&gt; 역시 그러하다. 그의 채널 주요 콘텐츠 ‘없는 영화’의 3회짜리 단편인 이 작품 부제는 ‘비혼주의 30대 여자 인생’이다. 과연 그들 비혼 여성들이 무엇을 ‘외면’했다는 걸까. 이야기는 서른을 앞둔 여성 은정과 그의 동성 친구들의 대화로 시작되며, 그들의 대화...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/30/news-p.v1.20230530.c6fe9166c7624c66a45f08224bac88c4_P1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
