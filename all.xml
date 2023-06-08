@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 05:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 06:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[불편하고 웃기는 존재의 총합 ‘이반지하’, 정상사회 견고함을 흔들다 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202306081510001</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202306081510001</guid>
+            <pubDate>Thu, 08 Jun 2023 06:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[인터넷 검색창에 ‘이반지하’라고 쳐보자. 혼란스럽다. 머리에 ‘탈’을 쓰고 성별을 인식하는 기준이 되는 신체 부위를 겨우 가린 채 무대 위에서 공연하는 카리스마 넘치는 모습부터 단발머리에 스카프를 두른 비교적 ‘정상적’인 모습까지. 이반지하를 수식하는 단어 또한 많다. 퀴어 페미니스트, 현대미술가, 퍼포머, 애니메이션 감독, 작가. 반지하 방에 작품을 쌓아놓고 편의점 아르바이트로 생계를 충당한다. 이반지하를 하나로 요약하기는 불가능하다. 이 요란하고 이상...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/08/news-p.v1.20230607.12f8484520bb4beabbc5276c02d2ee9d_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘아동·청소년 가장’ 돌봄노동의 굴레, 정부 정책은 요원 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202306081010001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 01 Jun 2023 01:13:08 GMT</pubDate>
             <content:encoded><![CDATA[아동학대 관련 범죄로 처벌을 받은 어린이집 원장이나 보육교사에 대해 행정청이 재량으로 자격을 취소할 수 있도록 한 법 조항은 헌법에 어긋나지 않는다고 헌법재판소가 판단했다.헌재는 영유아보육법 제48조 1항3호에 대한 헌법소원 사건에서 재판관 전원일치 의견으로 합헌 결정했다고 30일 밝혔다. 이 조항은 ‘보건복지부 장관은 어린이집 원장이나 보육교사가 아동학대 관련 범죄로 처벌을 받은 경우 자격을 취소할 수 있다’고 규정한다.헌법소원 청구인들은 대구의 한 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/01/news-p.v1.20230531.5483d26876f94bfe9951749e4e946990_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘값싼’ 외국인 가사도우미 추진, 정책을 보면 그 나라의 격이 보인다 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202305311510001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202305311510001</guid>
-            <pubDate>Wed, 31 May 2023 06:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[풍요로운 국가에서 미래세대의 인구 감소는 오래된 문제다. 미래세대 인구가 감소하면 여러 측면에서 국가 경제가 어려워진다. 무엇보다 ‘노동인구’가 감소한다. 특히 풍요로운 국가에서 성장한 젊은 세대들은 더럽고, 힘들고, 어려운 일들을 피하는 경향이 있어 하부 경제를 돌리는 데 큰 어려움을 겪는다. 여기에 더해 노동인구가 줄어드니 연금을 내는 이의 숫자가 줄어들어 사회보장제도를 유지하기도 힘겨워진다.이 때문에 풍요로운 국가들은 대체로 두 가지 방식으로 대...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/31/news-p.v1.20230531.036641a6e09b48a4ab98f632f1bc01f8_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[불편하고 웃기는 존재의 총합 ‘이반지하’, 정상사회 견고함을 흔들다 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202306081510001</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202306081510001</guid>
+            <pubDate>Thu, 08 Jun 2023 06:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[인터넷 검색창에 ‘이반지하’라고 쳐보자. 혼란스럽다. 머리에 ‘탈’을 쓰고 성별을 인식하는 기준이 되는 신체 부위를 겨우 가린 채 무대 위에서 공연하는 카리스마 넘치는 모습부터 단발머리에 스카프를 두른 비교적 ‘정상적’인 모습까지. 이반지하를 수식하는 단어 또한 많다. 퀴어 페미니스트, 현대미술가, 퍼포머, 애니메이션 감독, 작가. 반지하 방에 작품을 쌓아놓고 편의점 아르바이트로 생계를 충당한다. 이반지하를 하나로 요약하기는 불가능하다. 이 요란하고 이상...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/08/news-p.v1.20230607.12f8484520bb4beabbc5276c02d2ee9d_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘아동·청소년 가장’ 돌봄노동의 굴레, 정부 정책은 요원 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202306081010001</link>
             <guid>https://www.khan.co.kr/opinion/column/article/202306081010001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 01 Jun 2023 01:13:08 GMT</pubDate>
             <content:encoded><![CDATA[아동학대 관련 범죄로 처벌을 받은 어린이집 원장이나 보육교사에 대해 행정청이 재량으로 자격을 취소할 수 있도록 한 법 조항은 헌법에 어긋나지 않는다고 헌법재판소가 판단했다.헌재는 영유아보육법 제48조 1항3호에 대한 헌법소원 사건에서 재판관 전원일치 의견으로 합헌 결정했다고 30일 밝혔다. 이 조항은 ‘보건복지부 장관은 어린이집 원장이나 보육교사가 아동학대 관련 범죄로 처벌을 받은 경우 자격을 취소할 수 있다’고 규정한다.헌법소원 청구인들은 대구의 한 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/01/news-p.v1.20230531.5483d26876f94bfe9951749e4e946990_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘값싼’ 외국인 가사도우미 추진, 정책을 보면 그 나라의 격이 보인다 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202305311510001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202305311510001</guid>
-            <pubDate>Wed, 31 May 2023 06:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[풍요로운 국가에서 미래세대의 인구 감소는 오래된 문제다. 미래세대 인구가 감소하면 여러 측면에서 국가 경제가 어려워진다. 무엇보다 ‘노동인구’가 감소한다. 특히 풍요로운 국가에서 성장한 젊은 세대들은 더럽고, 힘들고, 어려운 일들을 피하는 경향이 있어 하부 경제를 돌리는 데 큰 어려움을 겪는다. 여기에 더해 노동인구가 줄어드니 연금을 내는 이의 숫자가 줄어들어 사회보장제도를 유지하기도 힘겨워진다.이 때문에 풍요로운 국가들은 대체로 두 가지 방식으로 대...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/05/31/news-p.v1.20230531.036641a6e09b48a4ab98f632f1bc01f8_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[칸에서 만난 양자경이 한 말? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
