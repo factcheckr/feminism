@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 01:02:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 02:32:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘아동·청소년 가장’ 돌봄노동의 굴레, 정부 정책은 요원]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202306081010001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202306081010001</guid>
+            <pubDate>Thu, 08 Jun 2023 02:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[“뭐가 되고 싶니, 이런 것 좀 그만 물어봤으면 좋겠어요.”막 중학생이 된 아이의 이 한마디에 잔뜩 지친 삶이 묻어났다. 뇌병변장애 여성의 사건 지원을 위해 집에 찾아갔다가 만난 이 아이는 중증장애인 엄마와 단둘이 살고 있었다. 할머니마저 얼마 전 돌아가시면서 사실상 모든 집안 살림을 도맡아 하는 중이었다. 거동이 어려운 엄마 대신 자신을 키워주신 할머니에 대한 고마움을 엄마 돌보는 일로 옮겨와서 매일 버티고 있던 것이다.아이를 장기적으로 지원할 방법...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/08/news-p.v1.20230607.56065e71bbd544988baa07d155453bd2_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나의 유년시절, 엄마는 ‘나쁜 엄마’ 였을까?]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202306071510001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 31 May 2023 06:15:52 GMT</pubDate>
             <content:encoded><![CDATA[풍요로운 국가에서 미래세대의 인구 감소는 오래된 문제다. 미래세대 인구가 감소하면 여러 측면에서 국가 경제가 어려워진다. 무엇보다 ‘노동인구’가 감소한다. 특히 풍요로운 국가에서 성장한 젊은 세대들은 더럽고, 힘들고, 어려운 일들을 피하는 경향이 있어 하부 경제를 돌리는 데 큰 어려움을 겪는다. 여기에 더해 노동인구가 줄어드니 연금을 내는 이의 숫자가 줄어들어 사회보장제도를 유지하기도 힘겨워진다.이 때문에 풍요로운 국가들은 대체로 두 가지 방식으로 대...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/31/news-p.v1.20230531.036641a6e09b48a4ab98f632f1bc01f8_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[종교 공동체 강간 피해자 “동물들조차 여자들보다 안전하게 산다”]]></title>
-            <link>https://www.khan.co.kr/culture/book/article/202305311002011</link>
-            <guid>https://www.khan.co.kr/culture/book/article/202305311002011</guid>
-            <pubDate>Wed, 31 May 2023 01:02:58 GMT</pubDate>
-            <content:encoded><![CDATA[2005년부터 개신교 교파인 메노파 신자들이 일군 몰로치나 공동체 마을에 사는 거의 모든 소녀와 성인 여자가 강간당한다. 이들은 가짓과 식물 벨라도나로 만든 농장 동물용 마취제 스프레이를 맞고 의식을 잃었다. 다음날 온몸에서 고통을 느끼며 깨어났다. 종종 몸에서 피도 흘렸다. 범인이 공동체 남자 8명이라고 밝혀진 건 2009년이다. 2005~2009년 300명이 넘는 여자들이 침대에서 폭행당했다. 강간 뒤 임신한 피해자가 조산하면서 아기가 죽는 일도 벌어졌다.전기도 없이...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/05/31/news-p.v1.20230530.1ca0b7f6a9dc4489a1052807a54fbbf1_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
