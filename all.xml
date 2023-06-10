@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 23:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jun 2023 00:59:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/8db502f0-d9e4-4efd-9a22-72e5dd429c50.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[전환치료 캠프, ‘잘못된 교육이 분명합니다’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9647</link>
+            <guid>https://ildaro.com/9647</guid>
+            <pubDate>Sat, 10 Jun 2023 08:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[불쑥 떠오르는 회상을, 나도 모르게 꾸는 무의식의 꿈을 어떻게 막을 것인가. 무슨 교육으로, 치료로, 종교로 막을 셈이냐고 영화는 묻는다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023061058197303.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘최소한’을 넘어서는 돌봄을 희망할 수 있을까 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9646</link>
             <guid>https://ildaro.com/9646</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 14 May 2023 00:03:00 GMT</pubDate>
             <content:encoded><![CDATA[D에게 일어난 사건의 실체는 에어비앤비 운영자가 가담하여 2명 이상이 약물을 이용해 저지른 준강간 사건이었다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023051417545898.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘여성’이 빠졌다…윤석열 정부 1년에 대한 여성계 평가 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9627</link>
-            <guid>https://ildaro.com/9627</guid>
-            <pubDate>Wed, 07 Jun 2023 21:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[“여성정책이 실종돼서 분석할 자료조차 없다.” 윤석열 정부 1년 정책에 대해, 신경아 한림대학교 교수는 이렇게 논평했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023051256524664.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
