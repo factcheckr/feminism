@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 01:05:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 02:52:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마을이장은 남성만 하라는 법이 있나요? 인권위 “간접차별”]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202306121010001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202306121010001</guid>
+            <pubDate>Mon, 12 Jun 2023 02:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[60년간 남성만 마을 이장으로 선출해온 관행은 여성을 배제하는 ‘간접차별’이라는 국가인권위원회의 결정이 나왔다.인권위는 지난 60여년간 여성이 이장으로 추천되거나 임명된 사실이 없고 소수 남성 주도로 이장 후보를 추천해온 A 마을의 사례를 검토한 결과 간접차별의 소지가 있는 것으로 판단했다고 8일 밝혔다.이장 선출 시 여성에게 피선거권이 없다는 사실을 알게 된 A 마을 주민 B씨는 ‘이장 선출에서 여성이 배제되는 것은 명백한 성차별’이라며 인권위에 진정...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/12/news-p.v1.20230609.2e3479c038b243c0a884b98ece675ca1_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[육아휴직 길게 쓸 수 있지만…한국 아빠들 거의 사용하지 않는다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202306091515001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 02 Jun 2023 06:18:10 GMT</pubDate>
             <content:encoded><![CDATA[서울에 와서 알았다. 비가 그렇게 많이 내릴 수도 있다는 걸. 아르바이트를 끝내고 돌아오니 지층의 자취방은 이미 발목까지 침수가 되어 문을 여는 것도 힘들었다. 패닉 상태였는데 이상하게도 배가 고팠다. 편의점에서 컵라면과 삼각김밥을 사서 먹었다. 학교도 자퇴하고 집도 멋대로 나와 혼자 살아가던 열 일곱 살이었지만 그런 패기는 절박한 순간이 되자 위력을 잃었다. 나는 여전히 판단과 결정이 세상에서 제일 어려운 10대였다. 창밖으로 그칠 기미 없는 비를 보...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/02/news-p.v1.20230602.f3b3c2e82996497abe3990a1f2e5ff89_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“위안부 합의 문서 비공개 정당” 대법원이 외면한 ‘피해자의 알 권리’]]></title>
-            <link>https://www.khan.co.kr/national/court-law/article/202306021047001</link>
-            <guid>https://www.khan.co.kr/national/court-law/article/202306021047001</guid>
-            <pubDate>Fri, 02 Jun 2023 02:46:13 GMT</pubDate>
-            <content:encoded><![CDATA[외교부가 2015년 한·일 위안부 문제 합의와 관련한 문서를 비공개한 조치는 정당하다는 대법원 판결이 나왔다. 소송을 제기한 지 7년 4개월 만에 정보공개를 둘러싼 다툼은 일단락됐으나 고령인 위안부 피해자들이 합의의 전모를 확인할 길은 사라졌다.대법원 3부(주심 이흥구 대법관)는 1일 송기호 변호사가 한·일 양국의 위안부 문제 합의 과정에서 논의한 내용을 담은 문건 일부를 공개하라며 외교부 장관을 상대로 낸 정보 비공개 처분 취소소송 상고심에서 원고 패소 판...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/02/news-p.v1.20230602.7f1ba4c85f5e4aaaa65dfec50ed3679a_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
