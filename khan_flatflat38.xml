@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 05:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 06:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여자라서 교육기회 놓친 ‘딸’들에게 78세 인희씨가 전하는 ‘꿈’]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202306131510001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202306131510001</guid>
+            <pubDate>Tue, 13 Jun 2023 06:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[올해 서울시 고졸 검정고시 최고령 합격자인 1945년생 유인희씨(78)의 지난 4년은 ‘의지’ 그 자체였다. 월요일부터 토요일까지 주 6일을 꼬박 요양보호사로 일했고, 퇴근 후 시간에는 틈틈이 검정고시를 위한 학업에 정진했다.지난 5일 동대문구 회기동의 ‘상록야학’에서 노년의 긴 노력 끝에 ‘고졸’ 학력을 얻은 유씨를 만났다. 그는 “스스로 노년을 책임지겠다”며 사회복지학 전공을 다음 목표로 세웠다고 했다.유씨가 국민학교(초등학교)밖에 마치지 못한 이유는 비슷한...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/13/news-p.v1.20230612.fe532e3807be44a28d42db5c6d797088_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신대구부산 수납원 ‘완승’으로 보이는 판결 이면엔 ‘저임금 여성’ 현실]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202306131010001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 07 Jun 2023 02:51:11 GMT</pubDate>
             <content:encoded><![CDATA[이란에 이어 아프가니스탄에서도 여학생들을 타깃으로 한 독극물 공격이 발생해 수십명의 학생들이 병원에 실려갔다.5일(현지시간) AP통신 등에 따르면 탈레반이 장악한 아프가니스탄에서 초등학교 여학생들을 겨냥한 공격으로 80여명이 집단으로 독극물에 중독됐다. 지난 3일~4일 북부 사리풀주 산차라크 지역의 인접한 두 개의 초등학교에 있는 여학생들이 차례로 공격 대상이 됐다.모함마드 라흐마니 주 교육국장은 AP통신에 “나스완에카보드 아브 학교에서 60명, 나스완에파이자...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/07/news-p.v1.20230607.d827f737a3104c359a9234267ffb2970_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘지구 걱정’으로 잠 못 이루는 당신에게 건네는 ‘연대의 손길’]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202306051510001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202306051510001</guid>
-            <pubDate>Mon, 05 Jun 2023 06:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[어떤 날엔 쉬이 잠에 들지 못한다. 너무 많은 생각 때문일 것이다. 앞날을 그리다 보면 그렇게 된다. 몇년 후, 혹은 몇십년 후가 두려운 건 내 삶의 필수 조건들이 나빠질 게 분명해서다. 홀로세를 지나 인류세로 접어들어 기후위기 시대를 사는 우리의 생태적 운명을 콧노래하며 낙관하기란 어렵다. 나에게 미래란 기후위기와 떼어놓을 수 없는 무엇이다. 그런 밤엔 나처럼 잠 못 들고 있을 것만 같은 친구의 얼굴이 떠오른다. 프랑스 서점 매대에서 저널리스트 로르 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/05/news-p.v1.20230605.5f84cc574d2f46599fd299af17d1cb64_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
