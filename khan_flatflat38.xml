@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 03:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 04:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신대구부산 수납원 ‘완승’으로 보이는 판결 이면엔 ‘저임금 여성’ 현실]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202306131010001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202306131010001</guid>
+            <pubDate>Tue, 13 Jun 2023 04:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[주식회사 신대구부산 민자고속도로 하청업체 소속 요금수납원들의 ‘불법 파견’ 인정 판결이 소송 제기 4년6개월 만에 나왔다. 정규직으로 직접 고용하라는 판결이다. 1심과 2심에 이어 대법원은 노동자 손을 들어줬다. 재판부는 원청업체 신대구부산이 요금수납원들을 지휘·감독했다고 판단했다. 민자고속도로 소속 요금수납원에 대한 불법 파견이 인정된 것은 이번이 처음이다. 공기업 한국도로공사 하청업체 요금수납원들에 대한 불법 파견 인정은 2019년에 나왔다.민자고속도로 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/13/news-p.v1.20230612.db91a3d67a20413486e002b4410b1dd6_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘부산 돌려차기’ 항소심서 20년 선고, ‘강간살인미수’ 인정]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202306121543001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 05 Jun 2023 06:14:11 GMT</pubDate>
             <content:encoded><![CDATA[어떤 날엔 쉬이 잠에 들지 못한다. 너무 많은 생각 때문일 것이다. 앞날을 그리다 보면 그렇게 된다. 몇년 후, 혹은 몇십년 후가 두려운 건 내 삶의 필수 조건들이 나빠질 게 분명해서다. 홀로세를 지나 인류세로 접어들어 기후위기 시대를 사는 우리의 생태적 운명을 콧노래하며 낙관하기란 어렵다. 나에게 미래란 기후위기와 떼어놓을 수 없는 무엇이다. 그런 밤엔 나처럼 잠 못 들고 있을 것만 같은 친구의 얼굴이 떠오른다. 프랑스 서점 매대에서 저널리스트 로르 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/05/news-p.v1.20230605.5f84cc574d2f46599fd299af17d1cb64_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘선택적’으로 MZ 노동자와 만나는 정부, 청년들 마음 멍든다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202306051010001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202306051010001</guid>
-            <pubDate>Mon, 05 Jun 2023 05:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[“머리를 자르고 오니 뒷머리에 손을 넣고 뒤로 잡아당겨요.‘너 여자니까 머리 길러’이러면서 구렛나루를 잡아당기고….”- 테스트테크에 노동자 김민희씨충북 청원의 반도체 전기검사 전문업체 테스트테크에서 일하는 김민희씨(22)가 회사 관리자에게 머리채를 잡힌 경험을 털어놓았습니다.“핸드폰을 주면서 머리 안 자르겠다고 녹음하라고, 녹음 안 하면 휴가 안 보낼 거라며 팔을 세게 꼬집었어요.”중소기업인 테스트테크는 현장 직원 대부분이 20~30대 청년입니다. 대부분의 경...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/05/news-p.v1.20230602.f023a27a39c24274b9303603f0121245_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
