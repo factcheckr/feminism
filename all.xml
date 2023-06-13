@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 08:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 09:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/853892e1-2a2c-446c-aa5a-3ab7367988ea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘혼인’의 자유와 권리, 성별 상관없이 ‘평등’하게 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9650</link>
+            <guid>https://ildaro.com/9650</guid>
+            <pubDate>Tue, 13 Jun 2023 09:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[혼인평등법은 민법 812조 ‘혼인의 성립’과 민법 767조 ‘친족의 정의’를 개정함으로써 모든 이가 결혼의 자유와 권리를 평등하게 가질 수 있도록 하였다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023061309053128.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[섬에서 농사지으며 기후위기 정말 실감합니다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9649</link>
             <guid>https://ildaro.com/9649</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 18 May 2023 10:53:00 GMT</pubDate>
             <content:encoded><![CDATA[“누구든 함께 돌보고 생활하고 부양하고 있다면 돌봄이나 노동, 복지, 장례 등 생애 전 과정에서 가족으로서의 권리를 인정하고 보장할 수 있도록 법안을 구성했다.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023051857554800.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How have universities responded to #MeToo incidents? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9630</link>
-            <guid>https://ildaro.com/9630</guid>
-            <pubDate>Wed, 07 Jun 2023 21:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[Victims can only go back to their everyday lives when the perpetrator is punished. I want to stop now and go back to my everyday life....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/202305175226717.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
