@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 01:02:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 02:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대법관 자격에서 ‘젠더’가 중요한 이유]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202306141005001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202306141005001</guid>
+            <pubDate>Wed, 14 Jun 2023 02:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[미국의 연방대법관 인사청문회에서는 인종차별, 총기 규제 등 미국 사회가 당면한 쟁점에 관해 치열한 법적 논증이 오갈 것 같지만, 사실 그렇지는 않다. 백악관과 후보자의 목표는 인준 통과이고, 이를 위해 검증된 전략은 답변을 회피하는 것이다. 민감한 질문이 나오면, 나중에 재판 대상이 될 수 있는 법적 이슈에 관해 구체적 입장을 밝히기 곤란하다는 식으로 넘어간다. 보는 입장에선 맥 빠지기도 하지만, 법관은 개별 사건에 관해 선입견을 배제하고 중립성을 유지...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/14/news-p.v1.20230613.0e5df087c0ee4111850d794caf6dc1e1_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여자라서 교육기회 놓친 ‘딸’들에게 78세 인희씨가 전하는 ‘꿈’]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202306131510001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 07 Jun 2023 06:13:53 GMT</pubDate>
             <content:encoded><![CDATA[“이건, 하늘이 주신 기회야.” &lt;나쁜 엄마&gt;(JTBC)에서 영순(라미란 분)은 사고로 지능이 7세 때로 돌아간 아들 강호(이도현 분)에게 말한다.사람들은 누구나 과거를 돌이키고 싶어 하는데, 그동안의 기억을 모두 잊고 ‘일곱 살부터’ 시작해야 하는 강호는 그런 기회를 잡았다는 의미이다. 35세의 남성이 하루아침에 7세의 지능을 가지게 되자 ‘바보’라는 소리를 듣는데, 아들이 상처받을까봐 영순이 내뱉은 임기응변이다. 이 말은 그러나 작품 전체를 관통하는 중요한...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/07/news-p.v1.20230607.f04d972b7f0e4296ac56437f341f8d49_P1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이란 이어 아프간에서 여학생 독극물 공격, 초등생 80여명 중독]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202306071026001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202306071026001</guid>
-            <pubDate>Wed, 07 Jun 2023 02:51:11 GMT</pubDate>
-            <content:encoded><![CDATA[이란에 이어 아프가니스탄에서도 여학생들을 타깃으로 한 독극물 공격이 발생해 수십명의 학생들이 병원에 실려갔다.5일(현지시간) AP통신 등에 따르면 탈레반이 장악한 아프가니스탄에서 초등학교 여학생들을 겨냥한 공격으로 80여명이 집단으로 독극물에 중독됐다. 지난 3일~4일 북부 사리풀주 산차라크 지역의 인접한 두 개의 초등학교에 있는 여학생들이 차례로 공격 대상이 됐다.모함마드 라흐마니 주 교육국장은 AP통신에 “나스완에카보드 아브 학교에서 60명, 나스완에파이자...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/07/news-p.v1.20230607.d827f737a3104c359a9234267ffb2970_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
