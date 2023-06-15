@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 05:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 06:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[저출생 대책으로 ‘서울팅’ 추진하던 오세훈, 비판 여론에 ‘전면 재검토’]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202306151510001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202306151510001</guid>
+            <pubDate>Thu, 15 Jun 2023 06:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[오세훈 서울시장이 저출생 대책 중 하나로 추진하던 만남 주선 사업 ‘서울팅’의 전면 재검토를 지시했다. 저출생 효과가 불분명하다는 등의 지적(경향신문 6월15일자 12면 보도)을 받아들인 것이다.15일 경향신문 취재를 종합하면, 서울시는 이날 서울팅이 저출생 문제를 실효적으로 해결할 수 있는지를 다시 논의하기로 하고 사업 추진을 재점검하기로 결정했다.서울시 관계자는 “서울팅은 저출생 대책으로서는 돌아볼 필요가 있다고 판단했다”며 “이 정책으로 인해 더 좋은...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/15/news-p.v1.20230615.c918d44bcfe74cc9861399ea5aa9c28c_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[10년 사이 한국 성평등 인식 후퇴]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202306151008021</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 09 Jun 2023 02:53:54 GMT</pubDate>
             <content:encoded><![CDATA[“이대로 놔두지 말자.”대만 정계에서 ‘미투’(나도 고발한다) 운동이 터져나왔다. 내년 1월 총통 선거를 앞두고 집권 민진당은 내부에서 불거진 폭로로 위기에 처했으며, 야당 국민당 또한 도마에 올랐다. 대만판 ‘미투’는 정치권을 넘어 사회 전반으로 확산하고 있다.7일(현지시간) 워싱턴포스트(WP)는 대만의 넷플릭스 정치 드라마 &lt;인선지인: 웨이브 메이커스&gt;가 ‘미투’ 쓰나미를 낳고 있다고 전했다. 지난 4월 첫 방영된 이 드라마는 선거를 앞두고 한 후보자의...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/09/news-p.v1.20230608.b72bced62f034e888afadca3ae0c1afe_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불편하고 웃기는 존재의 총합 ‘이반지하’, 정상사회 견고함을 흔들다]]></title>
-            <link>https://www.khan.co.kr/culture/book/article/202306081510001</link>
-            <guid>https://www.khan.co.kr/culture/book/article/202306081510001</guid>
-            <pubDate>Thu, 08 Jun 2023 06:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[인터넷 검색창에 ‘이반지하’라고 쳐보자. 혼란스럽다. 머리에 ‘탈’을 쓰고 성별을 인식하는 기준이 되는 신체 부위를 겨우 가린 채 무대 위에서 공연하는 카리스마 넘치는 모습부터 단발머리에 스카프를 두른 비교적 ‘정상적’인 모습까지. 이반지하를 수식하는 단어 또한 많다. 퀴어 페미니스트, 현대미술가, 퍼포머, 애니메이션 감독, 작가. 반지하 방에 작품을 쌓아놓고 편의점 아르바이트로 생계를 충당한다. 이반지하를 하나로 요약하기는 불가능하다. 이 요란하고 이상...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/08/news-p.v1.20230607.12f8484520bb4beabbc5276c02d2ee9d_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
