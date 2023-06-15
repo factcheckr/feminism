@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 01:01:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 02:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10년 사이 한국 성평등 인식 후퇴 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202306151008021</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202306151008021</guid>
+            <pubDate>Thu, 15 Jun 2023 02:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;※이 기사는 2023년 6월 13일자 경향신문 사설 ‘한국 성평등 인식 10년 새 최악 됐다는 유엔 보고서’를 재가공하였습니다.&gt;한국의 성평등 인식이 심각하게 퇴보한 것으로 확인됐다. 12일 유엔 산하 유엔개발계획(UNDP)의 젠더사회규범지수(GSNI) 보고서를 보면, 조사대상 38개국의 2010~2014년 기간과 2017~2022년 시기를 비교한 결과 한국은 ‘성별에 대한 편견 없는 인구’ 비율이 칠레에 이어 가장 많이 감소한 것으로 나타났다. 별도 37개국 조사에서는 성평등 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/15/news-p.v1.20230614.25a4efd8e4b24da29cd73c4e41bef1bf_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JP모건-성착취 피해자 합의, 금융기관도 성범죄 ‘연대책임’ 있다 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202306141510001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 08 Jun 2023 06:14:04 GMT</pubDate>
             <content:encoded><![CDATA[인터넷 검색창에 ‘이반지하’라고 쳐보자. 혼란스럽다. 머리에 ‘탈’을 쓰고 성별을 인식하는 기준이 되는 신체 부위를 겨우 가린 채 무대 위에서 공연하는 카리스마 넘치는 모습부터 단발머리에 스카프를 두른 비교적 ‘정상적’인 모습까지. 이반지하를 수식하는 단어 또한 많다. 퀴어 페미니스트, 현대미술가, 퍼포머, 애니메이션 감독, 작가. 반지하 방에 작품을 쌓아놓고 편의점 아르바이트로 생계를 충당한다. 이반지하를 하나로 요약하기는 불가능하다. 이 요란하고 이상...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/08/news-p.v1.20230607.12f8484520bb4beabbc5276c02d2ee9d_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘아동·청소년 가장’ 돌봄노동의 굴레, 정부 정책은 요원 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202306081010001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202306081010001</guid>
-            <pubDate>Thu, 08 Jun 2023 02:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[“뭐가 되고 싶니, 이런 것 좀 그만 물어봤으면 좋겠어요.”막 중학생이 된 아이의 이 한마디에 잔뜩 지친 삶이 묻어났다. 뇌병변장애 여성의 사건 지원을 위해 집에 찾아갔다가 만난 이 아이는 중증장애인 엄마와 단둘이 살고 있었다. 할머니마저 얼마 전 돌아가시면서 사실상 모든 집안 살림을 도맡아 하는 중이었다. 거동이 어려운 엄마 대신 자신을 키워주신 할머니에 대한 고마움을 엄마 돌보는 일로 옮겨와서 매일 버티고 있던 것이다.아이를 장기적으로 지원할 방법...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/08/news-p.v1.20230607.56065e71bbd544988baa07d155453bd2_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[10년 사이 한국 성평등 인식 후퇴 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202306151008021</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202306151008021</guid>
+            <pubDate>Thu, 15 Jun 2023 02:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;※이 기사는 2023년 6월 13일자 경향신문 사설 ‘한국 성평등 인식 10년 새 최악 됐다는 유엔 보고서’를 재가공하였습니다.&gt;한국의 성평등 인식이 심각하게 퇴보한 것으로 확인됐다. 12일 유엔 산하 유엔개발계획(UNDP)의 젠더사회규범지수(GSNI) 보고서를 보면, 조사대상 38개국의 2010~2014년 기간과 2017~2022년 시기를 비교한 결과 한국은 ‘성별에 대한 편견 없는 인구’ 비율이 칠레에 이어 가장 많이 감소한 것으로 나타났다. 별도 37개국 조사에서는 성평등 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/15/news-p.v1.20230614.25a4efd8e4b24da29cd73c4e41bef1bf_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[JP모건-성착취 피해자 합의, 금융기관도 성범죄 ‘연대책임’ 있다 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202306141510001</link>
             <guid>https://www.khan.co.kr/world/world-general/article/202306141510001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 08 Jun 2023 06:14:04 GMT</pubDate>
             <content:encoded><![CDATA[인터넷 검색창에 ‘이반지하’라고 쳐보자. 혼란스럽다. 머리에 ‘탈’을 쓰고 성별을 인식하는 기준이 되는 신체 부위를 겨우 가린 채 무대 위에서 공연하는 카리스마 넘치는 모습부터 단발머리에 스카프를 두른 비교적 ‘정상적’인 모습까지. 이반지하를 수식하는 단어 또한 많다. 퀴어 페미니스트, 현대미술가, 퍼포머, 애니메이션 감독, 작가. 반지하 방에 작품을 쌓아놓고 편의점 아르바이트로 생계를 충당한다. 이반지하를 하나로 요약하기는 불가능하다. 이 요란하고 이상...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/08/news-p.v1.20230607.12f8484520bb4beabbc5276c02d2ee9d_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘아동·청소년 가장’ 돌봄노동의 굴레, 정부 정책은 요원 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202306081010001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202306081010001</guid>
-            <pubDate>Thu, 08 Jun 2023 02:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[“뭐가 되고 싶니, 이런 것 좀 그만 물어봤으면 좋겠어요.”막 중학생이 된 아이의 이 한마디에 잔뜩 지친 삶이 묻어났다. 뇌병변장애 여성의 사건 지원을 위해 집에 찾아갔다가 만난 이 아이는 중증장애인 엄마와 단둘이 살고 있었다. 할머니마저 얼마 전 돌아가시면서 사실상 모든 집안 살림을 도맡아 하는 중이었다. 거동이 어려운 엄마 대신 자신을 키워주신 할머니에 대한 고마움을 엄마 돌보는 일로 옮겨와서 매일 버티고 있던 것이다.아이를 장기적으로 지원할 방법...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/08/news-p.v1.20230607.56065e71bbd544988baa07d155453bd2_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서바이벌 예능도 여자가 접수했다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
