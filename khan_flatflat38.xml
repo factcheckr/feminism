@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 06:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 07:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[살해되는 여성들, 정보라는 ‘귀신 이야기’에서 한국현실을 끌어왔다]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202306161530001</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202306161530001</guid>
+            <pubDate>Fri, 16 Jun 2023 07:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[고양이는 왜 죽였어?아이가 물었다. “고양이는 아무 짓도 안 했는데.”아이 아버지가 죽인 고양이는 죽은 친구의 아내가 기르던 것이다. 이 여자는 남자의 정부였다. 남자는 친구의 죽음 뒤 걱정이 돼 여자 집을 찾아갔다. “여자의 눈물, 여자의 외로움과 비탄과 달랠 길 없는 무기력한 고통”에서 “달콤하고 비뚤어진 음침한 즐거움”을 느꼈다. 서로 위로하고, 애도하다 같이 잤다. 남자는 “여자의 벗은 몸을 안고 친구와의 추억을 한없이 이야기하는 것”을 좋아했다...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/16/news-p.v1.20230615.70eab6d9fc584f36a61ddfbb66af6640_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤 대통령 공약 ‘무고죄 처벌 강화’, 대법원 양형위 “논의 않기로”]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202306161040001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 12 Jun 2023 02:51:14 GMT</pubDate>
             <content:encoded><![CDATA[60년간 남성만 마을 이장으로 선출해온 관행은 여성을 배제하는 ‘간접차별’이라는 국가인권위원회의 결정이 나왔다.인권위는 지난 60여년간 여성이 이장으로 추천되거나 임명된 사실이 없고 소수 남성 주도로 이장 후보를 추천해온 A 마을의 사례를 검토한 결과 간접차별의 소지가 있는 것으로 판단했다고 8일 밝혔다.이장 선출 시 여성에게 피선거권이 없다는 사실을 알게 된 A 마을 주민 B씨는 ‘이장 선출에서 여성이 배제되는 것은 명백한 성차별’이라며 인권위에 진정...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/12/news-p.v1.20230609.2e3479c038b243c0a884b98ece675ca1_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[육아휴직 길게 쓸 수 있지만…한국 아빠들 거의 사용하지 않는다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202306091515001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202306091515001</guid>
-            <pubDate>Fri, 09 Jun 2023 07:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[한국에서 아빠들은 경제협력개발기구(OECD)에서 가장 긴 육아휴직을 쓸 수 있지만 실제 사용률은 한 자릿수에 그치는 것으로 나타났다.6일 OECD 자료를 보면 한국은 2021년 기준 육아휴직자 가운데 남성은 20%대였다. 한국의 여성 경제활동 참가율이 약 60%로 OECD 평균에 못 치는 것을 고려하면 저조한 남성 육아휴직자 비율은 더욱 도드라진다.스웨덴, 아이슬란드, 포르투갈, 노르웨이 등 육아휴직 남성 할당제를 시행하는 나라들과 덴마크는 육아휴직자 중 남성이 40%를...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/09/news-p.v1.20230608.4a3c20fb3d05472abe9e8ed2626ba22e_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
