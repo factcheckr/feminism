@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 01:02:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 02:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤 대통령 공약 ‘무고죄 처벌 강화’, 대법원 양형위 “논의 않기로” (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202306161040001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202306161040001</guid>
+            <pubDate>Fri, 16 Jun 2023 02:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[대법원 양형위원회가 무고죄의 처벌 형량을 강화하는 방안을 논의하지 않기로 했다. 윤석열 대통령이 2030 남성 유권자를 겨냥해 공약으로 내세웠다가 비판을 받은 무고죄 처벌 강화를 법무부가 양형위에 심의를 제안하는 방식으로 공식 추진했는데, 양형위가 채택하지 않은 것이다.양형위는 지난 12일 전체회의에서 향후 2년간 양형기준을 설정·수정할 대상 범죄로 지식재산권범죄·마약범죄·스토킹범죄·동물학대범죄·사기범죄·전자금융거래법위반범죄·성범죄를 선정했다고 13일 밝혔다. ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/16/news-p.v1.20230609.50333a05f7b84a99b3ab0a679bcd1e35_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[저출생 대책으로 ‘서울팅’ 추진하던 오세훈, 비판 여론에 ‘전면 재검토’ (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202306151510001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 09 Jun 2023 07:10:44 GMT</pubDate>
             <content:encoded><![CDATA[한국에서 아빠들은 경제협력개발기구(OECD)에서 가장 긴 육아휴직을 쓸 수 있지만 실제 사용률은 한 자릿수에 그치는 것으로 나타났다.6일 OECD 자료를 보면 한국은 2021년 기준 육아휴직자 가운데 남성은 20%대였다. 한국의 여성 경제활동 참가율이 약 60%로 OECD 평균에 못 치는 것을 고려하면 저조한 남성 육아휴직자 비율은 더욱 도드라진다.스웨덴, 아이슬란드, 포르투갈, 노르웨이 등 육아휴직 남성 할당제를 시행하는 나라들과 덴마크는 육아휴직자 중 남성이 40%를...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/09/news-p.v1.20230608.4a3c20fb3d05472abe9e8ed2626ba22e_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드라마가 촉발한 대만판 ‘미투’ 확산, “이대로 놔두지 말자” (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202306091015011</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202306091015011</guid>
-            <pubDate>Fri, 09 Jun 2023 02:53:09 GMT</pubDate>
-            <content:encoded><![CDATA[“이대로 놔두지 말자.”대만 정계에서 ‘미투’(나도 고발한다) 운동이 터져나왔다. 내년 1월 총통 선거를 앞두고 집권 민진당은 내부에서 불거진 폭로로 위기에 처했으며, 야당 국민당 또한 도마에 올랐다. 대만판 ‘미투’는 정치권을 넘어 사회 전반으로 확산하고 있다.7일(현지시간) 워싱턴포스트(WP)는 대만의 넷플릭스 정치 드라마 &lt;인선지인: 웨이브 메이커스&gt;가 ‘미투’ 쓰나미를 낳고 있다고 전했다. 지난 4월 첫 방영된 이 드라마는 선거를 앞두고 한 후보자의...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/09/news-p.v1.20230608.b72bced62f034e888afadca3ae0c1afe_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤 대통령 공약 ‘무고죄 처벌 강화’, 대법원 양형위 “논의 않기로” (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202306161040001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202306161040001</guid>
+            <pubDate>Fri, 16 Jun 2023 02:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[대법원 양형위원회가 무고죄의 처벌 형량을 강화하는 방안을 논의하지 않기로 했다. 윤석열 대통령이 2030 남성 유권자를 겨냥해 공약으로 내세웠다가 비판을 받은 무고죄 처벌 강화를 법무부가 양형위에 심의를 제안하는 방식으로 공식 추진했는데, 양형위가 채택하지 않은 것이다.양형위는 지난 12일 전체회의에서 향후 2년간 양형기준을 설정·수정할 대상 범죄로 지식재산권범죄·마약범죄·스토킹범죄·동물학대범죄·사기범죄·전자금융거래법위반범죄·성범죄를 선정했다고 13일 밝혔다. ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/16/news-p.v1.20230609.50333a05f7b84a99b3ab0a679bcd1e35_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[저출생 대책으로 ‘서울팅’ 추진하던 오세훈, 비판 여론에 ‘전면 재검토’ (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202306151510001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202306151510001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 09 Jun 2023 07:10:44 GMT</pubDate>
             <content:encoded><![CDATA[한국에서 아빠들은 경제협력개발기구(OECD)에서 가장 긴 육아휴직을 쓸 수 있지만 실제 사용률은 한 자릿수에 그치는 것으로 나타났다.6일 OECD 자료를 보면 한국은 2021년 기준 육아휴직자 가운데 남성은 20%대였다. 한국의 여성 경제활동 참가율이 약 60%로 OECD 평균에 못 치는 것을 고려하면 저조한 남성 육아휴직자 비율은 더욱 도드라진다.스웨덴, 아이슬란드, 포르투갈, 노르웨이 등 육아휴직 남성 할당제를 시행하는 나라들과 덴마크는 육아휴직자 중 남성이 40%를...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/09/news-p.v1.20230608.4a3c20fb3d05472abe9e8ed2626ba22e_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드라마가 촉발한 대만판 ‘미투’ 확산, “이대로 놔두지 말자” (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202306091015011</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202306091015011</guid>
-            <pubDate>Fri, 09 Jun 2023 02:53:09 GMT</pubDate>
-            <content:encoded><![CDATA[“이대로 놔두지 말자.”대만 정계에서 ‘미투’(나도 고발한다) 운동이 터져나왔다. 내년 1월 총통 선거를 앞두고 집권 민진당은 내부에서 불거진 폭로로 위기에 처했으며, 야당 국민당 또한 도마에 올랐다. 대만판 ‘미투’는 정치권을 넘어 사회 전반으로 확산하고 있다.7일(현지시간) 워싱턴포스트(WP)는 대만의 넷플릭스 정치 드라마 &lt;인선지인: 웨이브 메이커스&gt;가 ‘미투’ 쓰나미를 낳고 있다고 전했다. 지난 4월 첫 방영된 이 드라마는 선거를 앞두고 한 후보자의...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/09/news-p.v1.20230608.b72bced62f034e888afadca3ae0c1afe_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서바이벌 예능도 여자가 접수했다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
@@ -326,6 +326,14 @@
             <pubDate>Mon, 27 Mar 2023 23:12:58 GMT</pubDate>
             <content:encoded><![CDATA[오늘 뉴스레터는, 시사 이슈보다는 제가 최근에 읽은 책 내용으로 채워보려고 해요. 문화부에서 출판을 담당하는 저는 신간을 받아서 좋은 책을 소개하는 서평 기사를 쓰는 것이 주된 일인데요. 비교적 한 주 동안 다룰만한 여성 이슈가 적었고, 지난주에 읽은 이 책이 무척 좋아서, 허스펙티브 독자 여러분과 나누고 싶었습니다. 제목은 '나는 왜 나보다 남을 더 신경 쓸까?(현암사 발행)'예요. 부제는 '눈치보기, 호감 얻기, 욕구 억누르기로 지쳐버린 여성들을 위한 심리학'입니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/853892e1-2a2c-446c-aa5a-3ab7367988ea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[식민지 명문여고에 다녔던 ‘제국의 소녀들’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9652</link>
+            <guid>https://ildaro.com/9652</guid>
+            <pubDate>Fri, 16 Jun 2023 10:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[“지배 역사가 끝나도 일본인의 식민자로서의 정신사는 끝나지 않는다”는 ‘식민지 책임’ 의식으로 식민자 생활을 밝힐 필요를 느꼈다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023061602502407.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[동성혼도, 생활동반자 관계도 가능한 사회가 될 거예요 (일다 ─ 전체기사)]]></title>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 14 Jun 2023 12:22:31 GMT</pubDate>
             <content:encoded><![CDATA[유치원에서도 크리스마스 선물이 남자용, 여자용으로 나뉘어 있고요. 보육자가 지금까지 내재화해온 젠더 고정관념을 아무 생각 없이 아이들에게 강요하는 셈이죠....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023052133188634.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고용 성차별, 성별 임금격차 해소 의지 있는가? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9632</link>
-            <guid>https://ildaro.com/9632</guid>
-            <pubDate>Sat, 20 May 2023 11:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[“현재 노동과 젠더 이슈는 반격의 대상이며, 구조적 성차별은 부정되고, 성평등 정책과 여성노동 정책은 후퇴하면서, 점차 존재 자체가 실종될 처지에 있다”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023052029067154.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
