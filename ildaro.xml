@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ildaro.com/sub_view.html</id>
-    <title>일다 ─ 전체기사</title>
-    <updated>2023-06-17T17:11:16.592Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ildaro.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>일다 ─ 전체기사</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 17 Jun 2023 18:14:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[식민지 명문여고에 다녔던 ‘제국의 소녀들’]]></title>
+            <link>https://ildaro.com/9652</link>
+            <guid>https://ildaro.com/9652</guid>
+            <pubDate>Fri, 16 Jun 2023 10:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[“지배 역사가 끝나도 일본인의 식민자로서의 정신사는 끝나지 않는다”는 ‘식민지 책임’ 의식으로 식민자 생활을 밝힐 필요를 느꼈다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023061602502407.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동성혼도, 생활동반자 관계도 가능한 사회가 될 거예요]]></title>
+            <link>https://ildaro.com/9651</link>
+            <guid>https://ildaro.com/9651</guid>
+            <pubDate>Sat, 17 Jun 2023 18:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[‘동성 간 결혼이 안 되던 시기가 있었다고?’라고 생각할 시대가 올 거에요. 굉장히 가까운 미래에 그렇게 될 거라고 생각하고요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023061456066031.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘혼인’의 자유와 권리, 성별 상관없이 ‘평등’하게]]></title>
+            <link>https://ildaro.com/9650</link>
+            <guid>https://ildaro.com/9650</guid>
+            <pubDate>Sat, 17 Jun 2023 18:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[혼인평등법은 민법 812조 ‘혼인의 성립’과 민법 767조 ‘친족의 정의’를 개정함으로써 모든 이가 결혼의 자유와 권리를 평등하게 가질 수 있도록 하였다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023061309053128.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[섬에서 농사지으며 기후위기 정말 실감합니다]]></title>
+            <link>https://ildaro.com/9649</link>
+            <guid>https://ildaro.com/9649</guid>
+            <pubDate>Mon, 12 Jun 2023 09:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[어느 날 농업용수를 뿌렸는데 작물이 다 시들시들해져서 ‘왜 이러지?’ 했는데 알고 보니 짠물이 올라온 거였어요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023061234328925.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Resume Writing Night]]></title>
+            <link>https://ildaro.com/9648</link>
+            <guid>https://ildaro.com/9648</guid>
+            <pubDate>Sat, 17 Jun 2023 18:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[I’m already 29. Any licenses? Don’t have any. And there’s only one thing I can list as work experience. Everything else is simply “experience”....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023061136246179.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전환치료 캠프, ‘잘못된 교육이 분명합니다’]]></title>
+            <link>https://ildaro.com/9647</link>
+            <guid>https://ildaro.com/9647</guid>
+            <pubDate>Sat, 10 Jun 2023 08:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[불쑥 떠오르는 회상을, 나도 모르게 꾸는 무의식의 꿈을 어떻게 막을 것인가. 무슨 교육으로, 치료로, 종교로 막을 셈이냐고 영화는 묻는다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023061058197303.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘최소한’을 넘어서는 돌봄을 희망할 수 있을까]]></title>
+            <link>https://ildaro.com/9646</link>
+            <guid>https://ildaro.com/9646</guid>
+            <pubDate>Thu, 08 Jun 2023 10:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[“요양보호사 기저귀만 갈러 가네.” 어떤 사람들은 그런 얘기를 하더라고요. 그게 아니잖아요, 그게 다가 아니잖아요"...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023060805265023.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘러브신’을 방해하는 사람이 아닙니다]]></title>
+            <link>https://ildaro.com/9645</link>
+            <guid>https://ildaro.com/9645</guid>
+            <pubDate>Sat, 17 Jun 2023 18:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[IC는 배우 편이라는 오해가 있는데, IC는 감독의 의도에 맞는 장면을 만드는 것과 동시에 배우의 권리도 지켜질 수 있도록 조율하는 사람이에요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023060651507462.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[촬영 현장에서 NO라고 말하기 어렵잖아요]]></title>
+            <link>https://ildaro.com/9644</link>
+            <guid>https://ildaro.com/9644</guid>
+            <pubDate>Sat, 17 Jun 2023 18:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[감독이 있고, 프로듀서가 있고, 조감독이 있고, 헤드 스텝이 있고, 어시스턴트들이 있고…. 피라미드 아래에 있고, 나이가 어린 사람들은 어떤 말을 하기가 되게 힘들어...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023060529041628.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세대론과 ‘90년대생 노동 서사’에서 빠진 것]]></title>
+            <link>https://ildaro.com/9643</link>
+            <guid>https://ildaro.com/9643</guid>
+            <pubDate>Sun, 04 Jun 2023 09:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[이어져 있는 문제지요. 20대 때 성희롱을 당하지 않는 사회에선 50대도 무시를 당하지 않을 거예요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/202306045148958.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청년 실태도, 여성 실태도 ‘서울 이야기잖아요’]]></title>
+            <link>https://ildaro.com/9642</link>
+            <guid>https://ildaro.com/9642</guid>
+            <pubDate>Sat, 17 Jun 2023 18:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[“서울 수치 때문에 그래요.” 서울 임금 수준이 상대적으로 높아 평균 소득을 상승시켰다는 이야기다. 다른 지역은 이보다 더 적다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023060244289393.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족을 구성할 권리에 차별을 두지 마세요]]></title>
+            <link>https://ildaro.com/9641</link>
+            <guid>https://ildaro.com/9641</guid>
+            <pubDate>Sat, 17 Jun 2023 18:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[10년이 넘는 기간 동안 함께 살지도 않았고, 최소한의 교류조차 없어 어디에서 어떻게 지내는지 알지 못하는 혈연관계인 이들이 유일한 내 가족일까요?...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/202306010342696.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[90년대생 여성 노동자들의 우울에는 이유가 있다]]></title>
+            <link>https://ildaro.com/9640</link>
+            <guid>https://ildaro.com/9640</guid>
+            <pubDate>Wed, 31 May 2023 11:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[이들은 평균 3번의 이직을 경험했으며, 보통 30인 미만 영세사업장에서 월 평균 최저임금 수준의 임금을 받으며 일하다가 2년이 되기 전에 다른 일자리로 이직했다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023053157516325.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘여성 서사’가 정치 드라마를 만났을 때!]]></title>
+            <link>https://ildaro.com/9639</link>
+            <guid>https://ildaro.com/9639</guid>
+            <pubDate>Sat, 17 Jun 2023 18:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[원팡은 멋진 정치인이면서, 커밍아웃한 레즈비언이다. 드라마에서 원팡의 성정체성은 유별난 일로 다뤄지지 않지만, 그가 성소수자라는 건 분명하게 드러난다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023052949499652.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[페미사이드, 경제구조적 맥락을 간과하지 말라]]></title>
+            <link>https://ildaro.com/9638</link>
+            <guid>https://ildaro.com/9638</guid>
+            <pubDate>Sun, 28 May 2023 00:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[마녀사냥이 도시보다는 주로 농촌에서 발생했고, 마녀로 내몰린 여성들은 주로 가난한 농민이었음을 제시한다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023052807566477.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[In Making the Fat Free (Sal-puri) Ritual ‘Produce Choi Haeun’]]></title>
+            <link>https://ildaro.com/9637</link>
+            <guid>https://ildaro.com/9637</guid>
+            <pubDate>Sat, 17 Jun 2023 18:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[Mom and Dad told me/ that they had me because they love each other/ Someday love will come to me […] White dress with a rose bouquet...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023052755344030.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1인 가구 여성이 주거의 권리를 묻습니다]]></title>
+            <link>https://ildaro.com/9636</link>
+            <guid>https://ildaro.com/9636</guid>
+            <pubDate>Fri, 26 May 2023 11:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[아파트 값은 치솟고 있었고, 임대 기간인 10년이 지나면 살던 집에서 쫓겨날 거라는 불안감이 엄습했습니다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023052616406049.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[딸이 말하기 시작했다…‘스위트 홈’의 민낯]]></title>
+            <link>https://ildaro.com/9635</link>
+            <guid>https://ildaro.com/9635</guid>
+            <pubDate>Sat, 17 Jun 2023 18:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[어느 날 친구가 물었다. “아무도 안 볼 때 사람들이 제일 버리고 싶어 하는 게 뭔지 알아?” 모르겠다고 하니 친구는 비밀스럽게 말했다. “가족이래.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023052454395939.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당신의 덕질을 응원합니다]]></title>
+            <link>https://ildaro.com/9634</link>
+            <guid>https://ildaro.com/9634</guid>
+            <pubDate>Tue, 23 May 2023 00:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[흔히 덕질이나 팬덤 문화는 청소년 시기의 일시적인 현상이거나, 혹은 현실에 집중하지 못하는 사람들이 하는 헛소비로 여겨진다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023052334438317.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어린이에게 ‘젠더 중립적 일러스트’를 보여주세요!]]></title>
+            <link>https://ildaro.com/9633</link>
+            <guid>https://ildaro.com/9633</guid>
+            <pubDate>Sat, 17 Jun 2023 18:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[유치원에서도 크리스마스 선물이 남자용, 여자용으로 나뉘어 있고요. 보육자가 지금까지 내재화해온 젠더 고정관념을 아무 생각 없이 아이들에게 강요하는 셈이죠....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023052133188634.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
