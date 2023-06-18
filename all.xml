@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 04:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2023 05:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/853892e1-2a2c-446c-aa5a-3ab7367988ea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[갱년기 증후군 원인에는 ‘젠더 편향’ 사회도 큰 몫 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9653</link>
+            <guid>https://ildaro.com/9653</guid>
+            <pubDate>Sun, 18 Jun 2023 00:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[사회의 젠더 편향이야말로 심신의 부조화로 이어지는 문제의 근원이라는 관점에서 진료하는 산부인과 의사는 많지 않다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023061830073191.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[식민지 명문여고에 다녔던 ‘제국의 소녀들’ (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9652</link>
             <guid>https://ildaro.com/9652</guid>
@@ -478,14 +486,6 @@
             <pubDate>Tue, 23 May 2023 00:31:00 GMT</pubDate>
             <content:encoded><![CDATA[흔히 덕질이나 팬덤 문화는 청소년 시기의 일시적인 현상이거나, 혹은 현실에 집중하지 못하는 사람들이 하는 헛소비로 여겨진다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023052334438317.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어린이에게 ‘젠더 중립적 일러스트’를 보여주세요! (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9633</link>
-            <guid>https://ildaro.com/9633</guid>
-            <pubDate>Sat, 17 Jun 2023 18:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[유치원에서도 크리스마스 선물이 남자용, 여자용으로 나뉘어 있고요. 보육자가 지금까지 내재화해온 젠더 고정관념을 아무 생각 없이 아이들에게 강요하는 셈이죠....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023052133188634.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
