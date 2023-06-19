@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 22:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 23:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/13/news-p.v1.20230612.db91a3d67a20413486e002b4410b1dd6_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[20대 초 여성 절반 "아이 안 낳겠다" (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1313</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1313</guid>
+            <pubDate>Mon, 19 Jun 2023 23:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 뉴스레터는 다소 '스압'일 예정이에요. 인구, 출산을 중심으로 사회 문제를 전반적으로 들여다본 한국일보 창간기획 '절반 쇼크가 온다'를 소개하려고 합니다. 3부 13회 연재되는 긴 시리즈라, 특히 결혼과 여성 등 젠더 관련 꼭지를 발췌해 여러분에게 소개할 예정입니다. 다루는 내용이 무척 방대한 만큼 기사의 모든 내용을 소개하지는 못하더라도, 길을 잃지 않으시도록 일목요연하게 잘 엮어보도록 할게요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/6e2e0466-3ec1-4563-ad3a-f3d2ab34093c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[서바이벌 예능도 여자가 접수했다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1307</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1307</guid>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 03 Apr 2023 23:11:53 GMT</pubDate>
             <content:encoded><![CDATA[약 한 달 전부터 윤석열 대통령의 저출산·고령사회위원회의 회의 내용을 오매불망 기다리며 여러분께도 예고했었죠. 지난달 28일, 회의가 개최됐고 '윤석열표 저출생 대책'이 발표됐습니다. 지금부터 그 내용을 함께 찬찬히 살펴보시죠.&nbsp;]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/1c25fb83-f921-4f5f-83ad-c81e1461e11b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혹시, 번아웃인가요? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1230</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1230</guid>
-            <pubDate>Mon, 27 Mar 2023 23:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 뉴스레터는, 시사 이슈보다는 제가 최근에 읽은 책 내용으로 채워보려고 해요. 문화부에서 출판을 담당하는 저는 신간을 받아서 좋은 책을 소개하는 서평 기사를 쓰는 것이 주된 일인데요. 비교적 한 주 동안 다룰만한 여성 이슈가 적었고, 지난주에 읽은 이 책이 무척 좋아서, 허스펙티브 독자 여러분과 나누고 싶었습니다. 제목은 '나는 왜 나보다 남을 더 신경 쓸까?(현암사 발행)'예요. 부제는 '눈치보기, 호감 얻기, 욕구 억누르기로 지쳐버린 여성들을 위한 심리학'입니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/853892e1-2a2c-446c-aa5a-3ab7367988ea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제주의 과거를 잇고, 자연을 잇고, 사람을 잇는 책방 (일다 ─ 전체기사)]]></title>
