@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 04:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 05:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/853892e1-2a2c-446c-aa5a-3ab7367988ea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[제주의 과거를 잇고, 자연을 잇고, 사람을 잇는 책방 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9654</link>
+            <guid>https://ildaro.com/9654</guid>
+            <pubDate>Mon, 19 Jun 2023 00:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[올해 100세인 제주 사람 양오생 씨는 작년에 동네 책방에서 석 달간 그림을 그렸다. 제주에서 태어나 어릴 때부터 물질 다닌 이야기, 신도리에서 해녀회 회장을 한 이야...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023061957011867.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[갱년기 증후군 원인에는 ‘젠더 편향’ 사회도 큰 몫 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9653</link>
             <guid>https://ildaro.com/9653</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 17 Jun 2023 18:14:11 GMT</pubDate>
             <content:encoded><![CDATA[어느 날 친구가 물었다. “아무도 안 볼 때 사람들이 제일 버리고 싶어 하는 게 뭔지 알아?” 모르겠다고 하니 친구는 비밀스럽게 말했다. “가족이래.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023052454395939.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 덕질을 응원합니다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9634</link>
-            <guid>https://ildaro.com/9634</guid>
-            <pubDate>Tue, 23 May 2023 00:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[흔히 덕질이나 팬덤 문화는 청소년 시기의 일시적인 현상이거나, 혹은 현실에 집중하지 못하는 사람들이 하는 헛소비로 여겨진다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023052334438317.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
