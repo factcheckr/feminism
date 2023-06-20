@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 05:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 06:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘성소수자 친화적인 일터’를 꿈꾸는 노동자들]]></title>
+            <link>https://ildaro.com/9655</link>
+            <guid>https://ildaro.com/9655</guid>
+            <pubDate>Tue, 20 Jun 2023 06:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[특히 놀랐던 건 신규 조합원 교육이나 간부 양성교육 등에서 “남성, 여성뿐만 아니라 다른 성도 있다”, “그들이 우리와 함께 있다는 걸 알아라”는 말을 하더라고요...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023062044557965.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제주의 과거를 잇고, 자연을 잇고, 사람을 잇는 책방]]></title>
             <link>https://ildaro.com/9654</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 26 May 2023 11:06:00 GMT</pubDate>
             <content:encoded><![CDATA[아파트 값은 치솟고 있었고, 임대 기간인 10년이 지나면 살던 집에서 쫓겨날 거라는 불안감이 엄습했습니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023052616406049.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[딸이 말하기 시작했다…‘스위트 홈’의 민낯]]></title>
-            <link>https://ildaro.com/9635</link>
-            <guid>https://ildaro.com/9635</guid>
-            <pubDate>Sat, 17 Jun 2023 18:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[어느 날 친구가 물었다. “아무도 안 볼 때 사람들이 제일 버리고 싶어 하는 게 뭔지 알아?” 모르겠다고 하니 친구는 비밀스럽게 말했다. “가족이래.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023052454395939.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

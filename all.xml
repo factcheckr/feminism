@@ -4,11 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 05:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 06:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[강인한 육체적 능력이 ‘여성’의 아름다움이다 (경향신문 ─ 플랫)]]></title>
+            <title><![CDATA[일본 직장인의 우울증, 피해자는 남성의 언어로만 설명된다 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202306201500001</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202306201500001</guid>
+            <pubDate>Tue, 20 Jun 2023 06:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[“일본 사람들은 왜 우울증에 걸릴 만큼 일을 하는가? 과로사라니, 죽을 때까지 일을 한다는 게 말이 되는가?”이 책은 기타나카 준코 교수가 1990년대 말 북미 친구들에게 받은 한 질문으로부터 시작했다. 정신의학과 우울증을 둘러싼 논의는 국가와 지역, 사회마다 다르게 나타난다. 각 사회의 상황이 우울증과 자살 증가에 영향을 미친다. 기타나카 교수로부터 일본의 과로 우울증과 자살에 대한 이야기를 들은 미국인들은 못 믿겠다는 듯한 표정을 지었다. 실제 과로사...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/20/news-p.v1.20230620.ebf6b6ecd20d43e7957292b944574231_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남성의 전유물? 강인한 육체적 능력이 ‘여성’의 아름다움이다 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202306201010001</link>
             <guid>https://www.khan.co.kr/opinion/column/article/202306201010001</guid>
             <pubDate>Tue, 20 Jun 2023 02:09:44 GMT</pubDate>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 14 Jun 2023 02:16:16 GMT</pubDate>
             <content:encoded><![CDATA[미국의 연방대법관 인사청문회에서는 인종차별, 총기 규제 등 미국 사회가 당면한 쟁점에 관해 치열한 법적 논증이 오갈 것 같지만, 사실 그렇지는 않다. 백악관과 후보자의 목표는 인준 통과이고, 이를 위해 검증된 전략은 답변을 회피하는 것이다. 민감한 질문이 나오면, 나중에 재판 대상이 될 수 있는 법적 이슈에 관해 구체적 입장을 밝히기 곤란하다는 식으로 넘어간다. 보는 입장에선 맥 빠지기도 하지만, 법관은 개별 사건에 관해 선입견을 배제하고 중립성을 유지...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/14/news-p.v1.20230613.0e5df087c0ee4111850d794caf6dc1e1_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여자라서 교육기회 놓친 ‘딸’들에게 78세 인희씨가 전하는 ‘꿈’ (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202306131510001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202306131510001</guid>
-            <pubDate>Tue, 13 Jun 2023 06:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[올해 서울시 고졸 검정고시 최고령 합격자인 1945년생 유인희씨(78)의 지난 4년은 ‘의지’ 그 자체였다. 월요일부터 토요일까지 주 6일을 꼬박 요양보호사로 일했고, 퇴근 후 시간에는 틈틈이 검정고시를 위한 학업에 정진했다.지난 5일 동대문구 회기동의 ‘상록야학’에서 노년의 긴 노력 끝에 ‘고졸’ 학력을 얻은 유씨를 만났다. 그는 “스스로 노년을 책임지겠다”며 사회복지학 전공을 다음 목표로 세웠다고 했다.유씨가 국민학교(초등학교)밖에 마치지 못한 이유는 비슷한...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/13/news-p.v1.20230612.fe532e3807be44a28d42db5c6d797088_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,7 +168,15 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[강인한 육체적 능력이 ‘여성’의 아름다움이다 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <title><![CDATA[일본 직장인의 우울증, 피해자는 남성의 언어로만 설명된다 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202306201500001</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202306201500001</guid>
+            <pubDate>Tue, 20 Jun 2023 06:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[“일본 사람들은 왜 우울증에 걸릴 만큼 일을 하는가? 과로사라니, 죽을 때까지 일을 한다는 게 말이 되는가?”이 책은 기타나카 준코 교수가 1990년대 말 북미 친구들에게 받은 한 질문으로부터 시작했다. 정신의학과 우울증을 둘러싼 논의는 국가와 지역, 사회마다 다르게 나타난다. 각 사회의 상황이 우울증과 자살 증가에 영향을 미친다. 기타나카 교수로부터 일본의 과로 우울증과 자살에 대한 이야기를 들은 미국인들은 못 믿겠다는 듯한 표정을 지었다. 실제 과로사...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/20/news-p.v1.20230620.ebf6b6ecd20d43e7957292b944574231_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남성의 전유물? 강인한 육체적 능력이 ‘여성’의 아름다움이다 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202306201010001</link>
             <guid>https://www.khan.co.kr/opinion/column/article/202306201010001</guid>
             <pubDate>Tue, 20 Jun 2023 02:09:44 GMT</pubDate>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 14 Jun 2023 02:16:16 GMT</pubDate>
             <content:encoded><![CDATA[미국의 연방대법관 인사청문회에서는 인종차별, 총기 규제 등 미국 사회가 당면한 쟁점에 관해 치열한 법적 논증이 오갈 것 같지만, 사실 그렇지는 않다. 백악관과 후보자의 목표는 인준 통과이고, 이를 위해 검증된 전략은 답변을 회피하는 것이다. 민감한 질문이 나오면, 나중에 재판 대상이 될 수 있는 법적 이슈에 관해 구체적 입장을 밝히기 곤란하다는 식으로 넘어간다. 보는 입장에선 맥 빠지기도 하지만, 법관은 개별 사건에 관해 선입견을 배제하고 중립성을 유지...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/14/news-p.v1.20230613.0e5df087c0ee4111850d794caf6dc1e1_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여자라서 교육기회 놓친 ‘딸’들에게 78세 인희씨가 전하는 ‘꿈’ (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202306131510001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202306131510001</guid>
-            <pubDate>Tue, 13 Jun 2023 06:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[올해 서울시 고졸 검정고시 최고령 합격자인 1945년생 유인희씨(78)의 지난 4년은 ‘의지’ 그 자체였다. 월요일부터 토요일까지 주 6일을 꼬박 요양보호사로 일했고, 퇴근 후 시간에는 틈틈이 검정고시를 위한 학업에 정진했다.지난 5일 동대문구 회기동의 ‘상록야학’에서 노년의 긴 노력 끝에 ‘고졸’ 학력을 얻은 유씨를 만났다. 그는 “스스로 노년을 책임지겠다”며 사회복지학 전공을 다음 목표로 세웠다고 했다.유씨가 국민학교(초등학교)밖에 마치지 못한 이유는 비슷한...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/13/news-p.v1.20230612.fe532e3807be44a28d42db5c6d797088_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[20대 초 여성 절반 "아이 안 낳겠다" (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
@@ -326,6 +326,14 @@
             <pubDate>Mon, 03 Apr 2023 23:11:53 GMT</pubDate>
             <content:encoded><![CDATA[약 한 달 전부터 윤석열 대통령의 저출산·고령사회위원회의 회의 내용을 오매불망 기다리며 여러분께도 예고했었죠. 지난달 28일, 회의가 개최됐고 '윤석열표 저출생 대책'이 발표됐습니다. 지금부터 그 내용을 함께 찬찬히 살펴보시죠.&nbsp;]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/1c25fb83-f921-4f5f-83ad-c81e1461e11b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘성소수자 친화적인 일터’를 꿈꾸는 노동자들 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9655</link>
+            <guid>https://ildaro.com/9655</guid>
+            <pubDate>Tue, 20 Jun 2023 06:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[특히 놀랐던 건 신규 조합원 교육이나 간부 양성교육 등에서 “남성, 여성뿐만 아니라 다른 성도 있다”, “그들이 우리와 함께 있다는 걸 알아라”는 말을 하더라고요...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023062044557965.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제주의 과거를 잇고, 자연을 잇고, 사람을 잇는 책방 (일다 ─ 전체기사)]]></title>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 26 May 2023 11:06:00 GMT</pubDate>
             <content:encoded><![CDATA[아파트 값은 치솟고 있었고, 임대 기간인 10년이 지나면 살던 집에서 쫓겨날 거라는 불안감이 엄습했습니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023052616406049.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[딸이 말하기 시작했다…‘스위트 홈’의 민낯 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9635</link>
-            <guid>https://ildaro.com/9635</guid>
-            <pubDate>Sat, 17 Jun 2023 18:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[어느 날 친구가 물었다. “아무도 안 볼 때 사람들이 제일 버리고 싶어 하는 게 뭔지 알아?” 모르겠다고 하니 친구는 비밀스럽게 말했다. “가족이래.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023052454395939.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

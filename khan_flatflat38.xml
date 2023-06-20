@@ -4,11 +4,19 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 05:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 06:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[강인한 육체적 능력이 ‘여성’의 아름다움이다]]></title>
+            <title><![CDATA[일본 직장인의 우울증, 피해자는 남성의 언어로만 설명된다]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202306201500001</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202306201500001</guid>
+            <pubDate>Tue, 20 Jun 2023 06:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[“일본 사람들은 왜 우울증에 걸릴 만큼 일을 하는가? 과로사라니, 죽을 때까지 일을 한다는 게 말이 되는가?”이 책은 기타나카 준코 교수가 1990년대 말 북미 친구들에게 받은 한 질문으로부터 시작했다. 정신의학과 우울증을 둘러싼 논의는 국가와 지역, 사회마다 다르게 나타난다. 각 사회의 상황이 우울증과 자살 증가에 영향을 미친다. 기타나카 교수로부터 일본의 과로 우울증과 자살에 대한 이야기를 들은 미국인들은 못 믿겠다는 듯한 표정을 지었다. 실제 과로사...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/20/news-p.v1.20230620.ebf6b6ecd20d43e7957292b944574231_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남성의 전유물? 강인한 육체적 능력이 ‘여성’의 아름다움이다]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202306201010001</link>
             <guid>https://www.khan.co.kr/opinion/column/article/202306201010001</guid>
             <pubDate>Tue, 20 Jun 2023 02:09:44 GMT</pubDate>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 14 Jun 2023 02:16:16 GMT</pubDate>
             <content:encoded><![CDATA[미국의 연방대법관 인사청문회에서는 인종차별, 총기 규제 등 미국 사회가 당면한 쟁점에 관해 치열한 법적 논증이 오갈 것 같지만, 사실 그렇지는 않다. 백악관과 후보자의 목표는 인준 통과이고, 이를 위해 검증된 전략은 답변을 회피하는 것이다. 민감한 질문이 나오면, 나중에 재판 대상이 될 수 있는 법적 이슈에 관해 구체적 입장을 밝히기 곤란하다는 식으로 넘어간다. 보는 입장에선 맥 빠지기도 하지만, 법관은 개별 사건에 관해 선입견을 배제하고 중립성을 유지...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/14/news-p.v1.20230613.0e5df087c0ee4111850d794caf6dc1e1_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여자라서 교육기회 놓친 ‘딸’들에게 78세 인희씨가 전하는 ‘꿈’]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202306131510001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202306131510001</guid>
-            <pubDate>Tue, 13 Jun 2023 06:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[올해 서울시 고졸 검정고시 최고령 합격자인 1945년생 유인희씨(78)의 지난 4년은 ‘의지’ 그 자체였다. 월요일부터 토요일까지 주 6일을 꼬박 요양보호사로 일했고, 퇴근 후 시간에는 틈틈이 검정고시를 위한 학업에 정진했다.지난 5일 동대문구 회기동의 ‘상록야학’에서 노년의 긴 노력 끝에 ‘고졸’ 학력을 얻은 유씨를 만났다. 그는 “스스로 노년을 책임지겠다”며 사회복지학 전공을 다음 목표로 세웠다고 했다.유씨가 국민학교(초등학교)밖에 마치지 못한 이유는 비슷한...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/13/news-p.v1.20230612.fe532e3807be44a28d42db5c6d797088_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
