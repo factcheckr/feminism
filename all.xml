@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 12:28:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 13:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/1c25fb83-f921-4f5f-83ad-c81e1461e11b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“I Haven’t Been Trying My Best” (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9656</link>
+            <guid>https://ildaro.com/9656</guid>
+            <pubDate>Wed, 21 Jun 2023 13:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[“First of all, I want to say that I haven’t been trying my best. I was an outsider in the outfield bleachers.” Who was this person?...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023062142266442.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘성소수자 친화적인 일터’를 꿈꾸는 노동자들 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9655</link>
             <guid>https://ildaro.com/9655</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 17 Jun 2023 18:14:11 GMT</pubDate>
             <content:encoded><![CDATA[Mom and Dad told me/ that they had me because they love each other/ Someday love will come to me […] White dress with a rose bouquet...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023052755344030.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1인 가구 여성이 주거의 권리를 묻습니다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9636</link>
-            <guid>https://ildaro.com/9636</guid>
-            <pubDate>Fri, 26 May 2023 11:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[아파트 값은 치솟고 있었고, 임대 기간인 10년이 지나면 살던 집에서 쫓겨날 거라는 불안감이 엄습했습니다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023052616406049.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
