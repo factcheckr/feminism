@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 23:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 01:09:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세상은 나에게 부끄러움을 주문했다]]></title>
+            <link>https://ildaro.com/9657</link>
+            <guid>https://ildaro.com/9657</guid>
+            <pubDate>Thu, 22 Jun 2023 08:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[“남겨놓은 감정, 해결하지 않은 감정, 느껴야 할 때 느끼지 않은 감정은 언제고 값을 치르러 온다.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023062209102593.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“I Haven’t Been Trying My Best”]]></title>
             <link>https://ildaro.com/9656</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 28 May 2023 00:02:00 GMT</pubDate>
             <content:encoded><![CDATA[마녀사냥이 도시보다는 주로 농촌에서 발생했고, 마녀로 내몰린 여성들은 주로 가난한 농민이었음을 제시한다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023052807566477.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[In Making the Fat Free (Sal-puri) Ritual ‘Produce Choi Haeun’]]></title>
-            <link>https://ildaro.com/9637</link>
-            <guid>https://ildaro.com/9637</guid>
-            <pubDate>Sat, 17 Jun 2023 18:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[Mom and Dad told me/ that they had me because they love each other/ Someday love will come to me […] White dress with a rose bouquet...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023052755344030.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
