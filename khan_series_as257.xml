@@ -4,9 +4,25 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 04:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 05:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[업무 효율성 저하시키는 ‘작업복’, 여성 노동자에 대한 ‘편견’ 만든다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202306221339011</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202306221339011</guid>
+            <pubDate>Thu, 22 Jun 2023 05:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[형틀목수 김명순씨(51)의 안전대에는 여기저기 오래된 바느질 자국이 있다. 양 어깨와 허리춤, 허벅지 부분의 바느질 자국은 다른 부분과 박음질 모양도, 실 색깔도 조금 다르다. 직접 꿰맸기 때문이다. 안전대는 건설 노동자들이 전신에 착용하는 띠 모양의 보호구다. 높이가 2m 이상인 곳에서 작업할 때 추락을 막기 위해 쓴다. 김씨와 같은 건설 노동자들은 특별한 ‘작업복’이 없다. 김씨는 집에서 입던 낡은 긴팔 셔츠, 앉았다 일어났다 하기에 편한 긴바지를 입고 출...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/22/news-p.v1.20230621.33f6ce70f0fe491ca818097e26e51fec_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남성 기준의 ‘작업복’ 여성 노동자를 위한 ‘안전장비’는 없다]]></title>
+            <link>https://www.khan.co.kr/national/labor/article/202306221339001</link>
+            <guid>https://www.khan.co.kr/national/labor/article/202306221339001</guid>
+            <pubDate>Thu, 22 Jun 2023 05:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[전남 여수국가산업단지에서 일하는 여성 용접사 박효심씨(64)는 약 20년 전, 처음 현장에 갔던 때를 또렷이 기억한다.60만t에 달하는 거대한 가스탱크의 철판 윗부분을 용접하러 올라가자, 남성 작업자들이 수군거리기 시작했다. 지금보다도 훨씬 여성이 드물었던 산업단지, 불과 열과 빛을 다루는 용접은 당연히 남성들 몫이었다. 기분 나쁜 수군거림을 한 귀로 듣고 흘리려 했지만 이내 회사가 그를 압박했다. “다른 사람들이 여자를 쓰면 일을 안 하겠다고 한다.”결국 일...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/22/news-p.v1.20230621.58b2e122a4664f9fbb1d62e02ad0ebd3_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[침몰한 난민선 가장 후미진 화물칸에 여성과 아동들이 있었다]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202306211510001</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 16 Jun 2023 02:16:43 GMT</pubDate>
             <content:encoded><![CDATA[대법원 양형위원회가 무고죄의 처벌 형량을 강화하는 방안을 논의하지 않기로 했다. 윤석열 대통령이 2030 남성 유권자를 겨냥해 공약으로 내세웠다가 비판을 받은 무고죄 처벌 강화를 법무부가 양형위에 심의를 제안하는 방식으로 공식 추진했는데, 양형위가 채택하지 않은 것이다.양형위는 지난 12일 전체회의에서 향후 2년간 양형기준을 설정·수정할 대상 범죄로 지식재산권범죄·마약범죄·스토킹범죄·동물학대범죄·사기범죄·전자금융거래법위반범죄·성범죄를 선정했다고 13일 밝혔다. ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/16/news-p.v1.20230609.50333a05f7b84a99b3ab0a679bcd1e35_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저출생 대책으로 ‘서울팅’ 추진하던 오세훈, 비판 여론에 ‘전면 재검토’]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202306151510001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202306151510001</guid>
-            <pubDate>Thu, 15 Jun 2023 06:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[오세훈 서울시장이 저출생 대책 중 하나로 추진하던 만남 주선 사업 ‘서울팅’의 전면 재검토를 지시했다. 저출생 효과가 불분명하다는 등의 지적(경향신문 6월15일자 12면 보도)을 받아들인 것이다.15일 경향신문 취재를 종합하면, 서울시는 이날 서울팅이 저출생 문제를 실효적으로 해결할 수 있는지를 다시 논의하기로 하고 사업 추진을 재점검하기로 결정했다.서울시 관계자는 “서울팅은 저출생 대책으로서는 돌아볼 필요가 있다고 판단했다”며 “이 정책으로 인해 더 좋은...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/15/news-p.v1.20230615.c918d44bcfe74cc9861399ea5aa9c28c_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10년 사이 한국 성평등 인식 후퇴]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202306151008021</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202306151008021</guid>
-            <pubDate>Thu, 15 Jun 2023 02:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;※이 기사는 2023년 6월 13일자 경향신문 사설 ‘한국 성평등 인식 10년 새 최악 됐다는 유엔 보고서’를 재가공하였습니다.&gt;한국의 성평등 인식이 심각하게 퇴보한 것으로 확인됐다. 12일 유엔 산하 유엔개발계획(UNDP)의 젠더사회규범지수(GSNI) 보고서를 보면, 조사대상 38개국의 2010~2014년 기간과 2017~2022년 시기를 비교한 결과 한국은 ‘성별에 대한 편견 없는 인구’ 비율이 칠레에 이어 가장 많이 감소한 것으로 나타났다. 별도 37개국 조사에서는 성평등 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/15/news-p.v1.20230614.25a4efd8e4b24da29cd73c4e41bef1bf_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
