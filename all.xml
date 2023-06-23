@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 06:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 07:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘심신미약’을 악용하는 범죄자에게 울리는 경종 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202306231520001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202306231520001</guid>
+            <pubDate>Fri, 23 Jun 2023 07:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[형사 정신감정에 대한 가장 큰 오해는 ‘감경을 위한 제도’라는 것이다. 무거운 범죄를 저지른 이들이 응당한 처벌을 받지 않고 ‘심신미약’이나 ‘심신상실’로 판정받는 것은 형평성에 맞지 않다는 주장도 있다. ‘심신미약’은 사물을 변별하거나 의사를 결정할 능력이 미약해진 상태를 뜻하고, ‘심신상실’은 그 같은 능력이 없는 상태를 가리킨다. 법무부 산하 국립법무병원(치료감호소)에서 5년간 일하며 230건 이상의 정신감정을 진행한 차승민 정신과 전문의는 “정신감...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/23/news-p.v1.20230622.be4214747ca343e4ab0583d5349ffa75_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스토킹 가해자 이제 피해자에게 합의 종용 못 한다, 법안 국회 통과 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/politics/assembly/article/202306231030001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 19 Jun 2023 02:16:39 GMT</pubDate>
             <content:encoded><![CDATA[일본 사이타마현이 운영하는 공원에서 잡지사 등이 ‘수영복 차림 여성 촬영회’를 계획했다가 공원 측이 장소 대여를 거부해 행사 일부가 취소됐다.지난 8일 사이타마현의 공원을 관리하는 위탁기관인 현공원녹지협회는 오는 10~25일 현내 공원 두 곳에서 열릴 예정인 6건의 ‘수영복 차림 여성 촬영회’ 일괄 중단을 요청했다. 협회는 공원 대여 조건에 ‘지나치게 노출이 심한 수영복이나 선정적인 자세는 피한다’는 규정이 있는데 이달 촬영회를 신청한 업체 6곳 중 2곳...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/19/news-p.v1.20230616.3b7389546707409e8281c8b4192aab9f_P1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[살해되는 여성들, 정보라는 ‘귀신 이야기’에서 한국현실을 끌어왔다 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/book/article/202306161530001</link>
-            <guid>https://www.khan.co.kr/culture/book/article/202306161530001</guid>
-            <pubDate>Fri, 16 Jun 2023 07:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[고양이는 왜 죽였어?아이가 물었다. “고양이는 아무 짓도 안 했는데.”아이 아버지가 죽인 고양이는 죽은 친구의 아내가 기르던 것이다. 이 여자는 남자의 정부였다. 남자는 친구의 죽음 뒤 걱정이 돼 여자 집을 찾아갔다. “여자의 눈물, 여자의 외로움과 비탄과 달랠 길 없는 무기력한 고통”에서 “달콤하고 비뚤어진 음침한 즐거움”을 느꼈다. 서로 위로하고, 애도하다 같이 잤다. 남자는 “여자의 벗은 몸을 안고 친구와의 추억을 한없이 이야기하는 것”을 좋아했다...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/16/news-p.v1.20230615.70eab6d9fc584f36a61ddfbb66af6640_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘심신미약’을 악용하는 범죄자에게 울리는 경종 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202306231520001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202306231520001</guid>
+            <pubDate>Fri, 23 Jun 2023 07:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[형사 정신감정에 대한 가장 큰 오해는 ‘감경을 위한 제도’라는 것이다. 무거운 범죄를 저지른 이들이 응당한 처벌을 받지 않고 ‘심신미약’이나 ‘심신상실’로 판정받는 것은 형평성에 맞지 않다는 주장도 있다. ‘심신미약’은 사물을 변별하거나 의사를 결정할 능력이 미약해진 상태를 뜻하고, ‘심신상실’은 그 같은 능력이 없는 상태를 가리킨다. 법무부 산하 국립법무병원(치료감호소)에서 5년간 일하며 230건 이상의 정신감정을 진행한 차승민 정신과 전문의는 “정신감...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/23/news-p.v1.20230622.be4214747ca343e4ab0583d5349ffa75_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스토킹 가해자 이제 피해자에게 합의 종용 못 한다, 법안 국회 통과 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/politics/assembly/article/202306231030001</link>
             <guid>https://www.khan.co.kr/politics/assembly/article/202306231030001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 19 Jun 2023 02:16:39 GMT</pubDate>
             <content:encoded><![CDATA[일본 사이타마현이 운영하는 공원에서 잡지사 등이 ‘수영복 차림 여성 촬영회’를 계획했다가 공원 측이 장소 대여를 거부해 행사 일부가 취소됐다.지난 8일 사이타마현의 공원을 관리하는 위탁기관인 현공원녹지협회는 오는 10~25일 현내 공원 두 곳에서 열릴 예정인 6건의 ‘수영복 차림 여성 촬영회’ 일괄 중단을 요청했다. 협회는 공원 대여 조건에 ‘지나치게 노출이 심한 수영복이나 선정적인 자세는 피한다’는 규정이 있는데 이달 촬영회를 신청한 업체 6곳 중 2곳...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/19/news-p.v1.20230616.3b7389546707409e8281c8b4192aab9f_P1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[살해되는 여성들, 정보라는 ‘귀신 이야기’에서 한국현실을 끌어왔다 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/book/article/202306161530001</link>
-            <guid>https://www.khan.co.kr/culture/book/article/202306161530001</guid>
-            <pubDate>Fri, 16 Jun 2023 07:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[고양이는 왜 죽였어?아이가 물었다. “고양이는 아무 짓도 안 했는데.”아이 아버지가 죽인 고양이는 죽은 친구의 아내가 기르던 것이다. 이 여자는 남자의 정부였다. 남자는 친구의 죽음 뒤 걱정이 돼 여자 집을 찾아갔다. “여자의 눈물, 여자의 외로움과 비탄과 달랠 길 없는 무기력한 고통”에서 “달콤하고 비뚤어진 음침한 즐거움”을 느꼈다. 서로 위로하고, 애도하다 같이 잤다. 남자는 “여자의 벗은 몸을 안고 친구와의 추억을 한없이 이야기하는 것”을 좋아했다...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/16/news-p.v1.20230615.70eab6d9fc584f36a61ddfbb66af6640_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[20대 초 여성 절반 "아이 안 낳겠다" (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
