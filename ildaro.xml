@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Jun 2023 23:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 01:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘인권변호사’에 의한 성폭력이 사회에 울린 경고음]]></title>
+            <link>https://ildaro.com/9659</link>
+            <guid>https://ildaro.com/9659</guid>
+            <pubDate>Sun, 25 Jun 2023 09:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[일상생활에서 상하 관계가 구축된 상황에서 피해자가 빠져나갈 구멍을 막은 채, 서서히 성적인 화제를 내비치다가 최종적으로 성적 행위에 이르는 것....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023062555043391.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[술, 약물을 이용한 성폭력이 계속 발생하는 이유]]></title>
             <link>https://ildaro.com/9658</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 31 May 2023 11:47:00 GMT</pubDate>
             <content:encoded><![CDATA[이들은 평균 3번의 이직을 경험했으며, 보통 30인 미만 영세사업장에서 월 평균 최저임금 수준의 임금을 받으며 일하다가 2년이 되기 전에 다른 일자리로 이직했다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023053157516325.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘여성 서사’가 정치 드라마를 만났을 때!]]></title>
-            <link>https://ildaro.com/9639</link>
-            <guid>https://ildaro.com/9639</guid>
-            <pubDate>Thu, 22 Jun 2023 06:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[원팡은 멋진 정치인이면서, 커밍아웃한 레즈비언이다. 드라마에서 원팡의 성정체성은 유별난 일로 다뤄지지 않지만, 그가 성소수자라는 건 분명하게 드러난다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023052949499652.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
