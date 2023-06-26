@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 01:09:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 03:03:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[응급실 24시, 간호사들이 있다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202306261112001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202306261112001</guid>
+            <pubDate>Mon, 26 Jun 2023 03:02:41 GMT</pubDate>
+            <content:encoded><![CDATA[오후 7시9분, 일반 응급환자 한 명 추가오후 7시12분, 중증 응급환자 1명 엑스레이 촬영오후 7시14분, 응급환자 또 들어옴오후 7시15분, 119구급차 한 대 들어오는 중오후 7시16분, 일반과 중증구역 병상 각 8개에 모두 환자들이 다 차 있음삶과 죽음의 경계가 넘나드는 곳, 병원 응급실 풍경이다. 응급실은 빠른 처치가 필요한 중증환자들이 쏟아진다. 시간이 곧 생명과 이어진다. 응급환자가 처음 의료진과 마주하는 공간인 응급실에는 간호사들이 있다.간호사들의 고강도 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/26/news-p.v1.20230626.e7cefb88a406428784e9dbb141f1771c_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘심신미약’을 악용하는 범죄자에게 울리는 경종]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202306231520001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 19 Jun 2023 06:15:29 GMT</pubDate>
             <content:encoded><![CDATA[타인의 나체 사진을 인터넷에 올렸을 때 ‘배포에 동의하지 않는다’는 당사자의 의사를 확인할 수 없더라도 죄가 될 수 있다는 대법원의 판단이 나왔다.대법원 3부(주심 이흥구 대법관)는 15일 성폭력범죄의처벌등에관한특례법 위반(카메라등 이용 촬영·반포) 등 혐의로 기소된 A씨의 상고심에서 무죄를 선고한 원심을 깨고 사건을 서울남부지법으로 돌려보냈다.A씨는 2021년 9월 나체 상태 남성과 옷을 입은 여성이 한 침대에 앉아 있는 사진을 ‘한국야동’이라는 제목으로 인...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/19/news-p.v1.20230619.4b91b04c73ca4a5f89a6a5177284f6db_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수영복 차림 여성 촬영회, 일본서 “성 상품화 목적인가” 비판]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202306191010001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202306191010001</guid>
-            <pubDate>Mon, 19 Jun 2023 02:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[일본 사이타마현이 운영하는 공원에서 잡지사 등이 ‘수영복 차림 여성 촬영회’를 계획했다가 공원 측이 장소 대여를 거부해 행사 일부가 취소됐다.지난 8일 사이타마현의 공원을 관리하는 위탁기관인 현공원녹지협회는 오는 10~25일 현내 공원 두 곳에서 열릴 예정인 6건의 ‘수영복 차림 여성 촬영회’ 일괄 중단을 요청했다. 협회는 공원 대여 조건에 ‘지나치게 노출이 심한 수영복이나 선정적인 자세는 피한다’는 규정이 있는데 이달 촬영회를 신청한 업체 6곳 중 2곳...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/19/news-p.v1.20230616.3b7389546707409e8281c8b4192aab9f_P1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
