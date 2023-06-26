@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 22:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 23:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[결혼과 출산 말고 다른 '가족']]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1327</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1327</guid>
+            <pubDate>Mon, 26 Jun 2023 23:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[연애는 안 하고, 결혼은 더더욱 멀어지고, 출산은 생각만 해도 두려운 젊은이들. 그렇다고 해서 인구가 이대로 소멸하도록 둘 수는 없는 노릇인데요. 사실 이 같은 저출생은 한국만의 일은 아니고, 선진국의 반열에 오른 여러 국가들이 이미 겪은 현상이기도 합니다. 그렇다면 다른 나라는 어떻게 저출생을 극복했을까요?]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/e895e18c-a693-4451-b59b-8c640a706f83.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[20대 초 여성 절반 "아이 안 낳겠다"]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1313</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 10 Apr 2023 23:12:22 GMT</pubDate>
             <content:encoded><![CDATA[지난 한 달 동안에는 꽤 여러 차례 출산과 육아에 대해 이야기 했어요. 아무래도 합계출산율 0.78명이라는 충격적인 통계가 발표된 직후인데다, 윤석열 대통령의 출산 정책이 발표됐기 때문이죠. 하지만 3년 차 함께하고 있는 지금, 여러분도 잘 아시다시피 허스펙티브는 여러분의 주체적이고 자율적인 선택이라면 그 어떤 삶의 양식이라도 응원하는 거. 구태여 말 더하지 않아도 되겠지요?]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/56538de7-7f75-40ec-a77f-a9614f0dd41d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이래서 아이 낳겠어요?]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1238</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1238</guid>
-            <pubDate>Mon, 03 Apr 2023 23:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[약 한 달 전부터 윤석열 대통령의 저출산·고령사회위원회의 회의 내용을 오매불망 기다리며 여러분께도 예고했었죠. 지난달 28일, 회의가 개최됐고 '윤석열표 저출생 대책'이 발표됐습니다. 지금부터 그 내용을 함께 찬찬히 살펴보시죠.&nbsp;]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/1c25fb83-f921-4f5f-83ad-c81e1461e11b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
