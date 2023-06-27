@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 05:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 06:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가사노동 ‘싸게’ 외국인에게 맡기고 아이 낳으라고요?]]></title>
+            <link>https://ildaro.com/9660</link>
+            <guid>https://ildaro.com/9660</guid>
+            <pubDate>Tue, 27 Jun 2023 06:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[“외국인 가사노동자 도입 소식을 듣고, 우리 가정관리사들은 생각이 복잡하다. (정부는) 우리가 하는 노동을 어떻게 바라보고 있는가?...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023062721316511.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘인권변호사’에 의한 성폭력이 사회에 울린 경고음]]></title>
             <link>https://ildaro.com/9659</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 26 Jun 2023 23:13:56 GMT</pubDate>
             <content:encoded><![CDATA[10년이 넘는 기간 동안 함께 살지도 않았고, 최소한의 교류조차 없어 어디에서 어떻게 지내는지 알지 못하는 혈연관계인 이들이 유일한 내 가족일까요?...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/202306010342696.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[90년대생 여성 노동자들의 우울에는 이유가 있다]]></title>
-            <link>https://ildaro.com/9640</link>
-            <guid>https://ildaro.com/9640</guid>
-            <pubDate>Wed, 31 May 2023 11:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[이들은 평균 3번의 이직을 경험했으며, 보통 30인 미만 영세사업장에서 월 평균 최저임금 수준의 임금을 받으며 일하다가 2년이 되기 전에 다른 일자리로 이직했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202305/2023053157516325.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
