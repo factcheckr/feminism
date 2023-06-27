@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 06:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 07:13:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[낮은 육아휴직 사용률, 어떻게 높일건가]]></title>
+            <link>https://www.khan.co.kr/national/labor/article/202306271529001</link>
+            <guid>https://www.khan.co.kr/national/labor/article/202306271529001</guid>
+            <pubDate>Tue, 27 Jun 2023 07:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[심각한 저출생 위기 상황에서 육아휴직 제도의 실효성을 높이기 위해 사회보험 형태의 새로운 연대기금이 필요하다는 주장이 제기됐다. 지난 6월 20일 국회에서 열린 초저출생·인구위기대책위원회 연속포럼 ‘선택과 집중, 아동 돌봄이 답이다’에서 정재철 전 민주정책연구원 연구위원은 어린이연대기금을 제안했다. 국민연금보험료, 국민건강보험료, 노인장기요양보험료 등에서 추가징수를 통해 안정적 재원을 확보한 후 기금을 만든다는 내용이다. 이 기금을 육아휴직 급여, 아동수...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/27/news-p.v1.20230627.2dd6d60539b8448a817ea9cb5c066612_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[금녀의 구역은 없다, ‘편견’을 깨부순 ‘사이렌’ 김현아 소방장]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202306271021001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 21 Jun 2023 02:14:12 GMT</pubDate>
             <content:encoded><![CDATA[발레리나 강미선(39)이 발레계 최고 영예인 ‘브누아 드 라 당스’ 최우수 여성 무용수상을 받았다. 한국인으로선 다섯 번째로 세계 최고 무용수에 선정된 것이다.‘브누아 드 라 당스’ 조직위원회는 20일(현지시간) 러시아 모스크바 볼쇼이 극장에서 열린 시상식에서 한국 유니버설발레단 수석무용수 강미선과 중국 국립발레단 프리마 발레리나 추윤팅을 최우수 여성 무용수로 공동 선정했다. 강미선은 지난 3월 국립극장에서 공연한 &lt;코리아 이모션&gt; 중 ‘미리내길’에서 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/21/news-p.v1.20230621.46d0e7c752f84f7fbb6bb7216ab8d63a_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 직장인의 우울증, 피해자는 남성의 언어로만 설명된다]]></title>
-            <link>https://www.khan.co.kr/culture/book/article/202306201500001</link>
-            <guid>https://www.khan.co.kr/culture/book/article/202306201500001</guid>
-            <pubDate>Tue, 20 Jun 2023 06:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[“일본 사람들은 왜 우울증에 걸릴 만큼 일을 하는가? 과로사라니, 죽을 때까지 일을 한다는 게 말이 되는가?”이 책은 기타나카 준코 교수가 1990년대 말 북미 친구들에게 받은 한 질문으로부터 시작했다. 정신의학과 우울증을 둘러싼 논의는 국가와 지역, 사회마다 다르게 나타난다. 각 사회의 상황이 우울증과 자살 증가에 영향을 미친다. 기타나카 교수로부터 일본의 과로 우울증과 자살에 대한 이야기를 들은 미국인들은 못 믿겠다는 듯한 표정을 지었다. 실제 과로사...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/20/news-p.v1.20230620.ebf6b6ecd20d43e7957292b944574231_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
