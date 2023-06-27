@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 01:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 02:58:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금녀의 구역은 없다, ‘편견’을 깨부순 ‘사이렌’ 김현아 소방장]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202306271021001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202306271021001</guid>
+            <pubDate>Tue, 27 Jun 2023 02:57:26 GMT</pubDate>
+            <content:encoded><![CDATA[‘편견을 먹고 사는 직업’에 종사하는 여성들이 출연한 프로그램이 지난달 전세계에 공개됐다. 넷플릭스 오리지널 예능 &lt;사이렌: 불의 섬&gt;은 전·현직 경찰관, 소방관, 군인, 경호원, 스턴트맨, 운동선수 여성 24인이 직업의 명예를 걸고 싸우는 서바이벌 프로그램이다. 여성들이 진흙을 뒤집어쓰고, 망치와 삽을 들고 경쟁하는 모습은 시청자들에게 짜릿함을 선사했다. 출연자들은 “악바리는 자신 있거든요” “센 놈이랑 붙자, 그게 멋있지” 같은 기개 넘치는 대사를 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/27/news-p.v1.20230626.d5a5cc2f36984492941bfa29d9299aba_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국 임신중단권 폐기 1년, 바이든 “건강 접근권 보호할 것”]]></title>
             <link>https://www.khan.co.kr/world/america/article/202306261600001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 20 Jun 2023 06:15:23 GMT</pubDate>
             <content:encoded><![CDATA[“일본 사람들은 왜 우울증에 걸릴 만큼 일을 하는가? 과로사라니, 죽을 때까지 일을 한다는 게 말이 되는가?”이 책은 기타나카 준코 교수가 1990년대 말 북미 친구들에게 받은 한 질문으로부터 시작했다. 정신의학과 우울증을 둘러싼 논의는 국가와 지역, 사회마다 다르게 나타난다. 각 사회의 상황이 우울증과 자살 증가에 영향을 미친다. 기타나카 교수로부터 일본의 과로 우울증과 자살에 대한 이야기를 들은 미국인들은 못 믿겠다는 듯한 표정을 지었다. 실제 과로사...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/20/news-p.v1.20230620.ebf6b6ecd20d43e7957292b944574231_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남성의 전유물? 강인한 육체적 능력이 ‘여성’의 아름다움이다]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202306201010001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202306201010001</guid>
-            <pubDate>Tue, 20 Jun 2023 02:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 온라인을 휩쓸고 지금까지 회자되는 문장이 있다. “강함은 아름다움에 뒤처지지 않는 가치이다.” “호랑이가 고양이가 되려고 노력하지 마라.” 이것은 디시인사이드 유도 갤러리에 올라온 글로, 체격이 큰 여성들에게 유도를 ‘영업’한다. 작성자는 유도에서 체급은 농구에서 신장만큼 중요하다며, 큰 체격의 여성은 곧 “호랑이로 태어난” 것이니 고양이가 되려고 애쓰지 말라고 주장한다. 여성의 몸과 운동 담론, 2020 도쿄 올림픽에서 활약한 여성 운동선수들의 인...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/20/news-p.v1.20230619.8cd035d5e33243ee84c07c47b38aa322_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
