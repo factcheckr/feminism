@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 06:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 07:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세계 100위권 밖으로 밀려난 한국의 성평등 수준 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202306281530001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202306281530001</guid>
+            <pubDate>Wed, 28 Jun 2023 07:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[한국의 성평등 수준이 세계 100위 밖으로 밀려났다.20일(현지시간) 세계경제포럼(WEF)이 내놓은 2023년 세계 젠더 격차 보고서(Global Gender Gap Report 2023)를 보면 한국의 젠더 격차 지수는 0.680을 기록, 전체 146개 국가 중 105위를 기록했다. 지난해 99위보다 6계단 하락했다.젠더 격차 지수는 1에 가까울수록 양성평등이 잘 이뤄져 있다는 의미다. 한국은 지난해보다 지수가 0.010 떨어졌다. 한국의 젠더 격차 지수는 2019년 108위, 2020년 102위, 작년 99위로 수년...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/28/news-p.v1.20230628.bc7d38b45fe4496ebaf511e67dfae868_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘이주 여성’이 매년 미국인 이웃들을 위해 파티를 연 이유 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/book/article/202306281030001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 22 Jun 2023 05:10:16 GMT</pubDate>
             <content:encoded><![CDATA[전남 여수국가산업단지에서 일하는 여성 용접사 박효심씨(64)는 약 20년 전, 처음 현장에 갔던 때를 또렷이 기억한다.60만t에 달하는 거대한 가스탱크의 철판 윗부분을 용접하러 올라가자, 남성 작업자들이 수군거리기 시작했다. 지금보다도 훨씬 여성이 드물었던 산업단지, 불과 열과 빛을 다루는 용접은 당연히 남성들 몫이었다. 기분 나쁜 수군거림을 한 귀로 듣고 흘리려 했지만 이내 회사가 그를 압박했다. “다른 사람들이 여자를 쓰면 일을 안 하겠다고 한다.”결국 일...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/22/news-p.v1.20230621.58b2e122a4664f9fbb1d62e02ad0ebd3_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[침몰한 난민선 가장 후미진 화물칸에 여성과 아동들이 있었다 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202306211510001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202306211510001</guid>
-            <pubDate>Wed, 21 Jun 2023 06:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[유럽으로 향하는 지중해 난민선에서 국적별·성별 차별이 존재했다는 증언이 나왔다. 가장 많은 사망자가 나온 파키스탄은 국가 애도의 날을 선포했다.18일(현지시간) 가디언에 따르면, 지난 14일 그리스 펠로폰네소스 연안서 침몰한 난민선에 탑승했던 생존자들은 파키스탄 국적자들이 다른 국적자와 달리 배가 침몰할 때 생존 가능성이 훨씬 낮은 갑판 아래층으로 밀려났다고 진술했다. 가디언은 승조원들이 물을 찾거나 탈출을 시도하는 파키스탄 국적자를 학대했다고도 전했다.현...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/21/news-p.v1.20230620.e04bdb4754d44e0088329abf7e9c284f_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[세계 100위권 밖으로 밀려난 한국의 성평등 수준 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202306281530001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202306281530001</guid>
+            <pubDate>Wed, 28 Jun 2023 07:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[한국의 성평등 수준이 세계 100위 밖으로 밀려났다.20일(현지시간) 세계경제포럼(WEF)이 내놓은 2023년 세계 젠더 격차 보고서(Global Gender Gap Report 2023)를 보면 한국의 젠더 격차 지수는 0.680을 기록, 전체 146개 국가 중 105위를 기록했다. 지난해 99위보다 6계단 하락했다.젠더 격차 지수는 1에 가까울수록 양성평등이 잘 이뤄져 있다는 의미다. 한국은 지난해보다 지수가 0.010 떨어졌다. 한국의 젠더 격차 지수는 2019년 108위, 2020년 102위, 작년 99위로 수년...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/28/news-p.v1.20230628.bc7d38b45fe4496ebaf511e67dfae868_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘이주 여성’이 매년 미국인 이웃들을 위해 파티를 연 이유 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/book/article/202306281030001</link>
             <guid>https://www.khan.co.kr/culture/book/article/202306281030001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 22 Jun 2023 05:10:16 GMT</pubDate>
             <content:encoded><![CDATA[전남 여수국가산업단지에서 일하는 여성 용접사 박효심씨(64)는 약 20년 전, 처음 현장에 갔던 때를 또렷이 기억한다.60만t에 달하는 거대한 가스탱크의 철판 윗부분을 용접하러 올라가자, 남성 작업자들이 수군거리기 시작했다. 지금보다도 훨씬 여성이 드물었던 산업단지, 불과 열과 빛을 다루는 용접은 당연히 남성들 몫이었다. 기분 나쁜 수군거림을 한 귀로 듣고 흘리려 했지만 이내 회사가 그를 압박했다. “다른 사람들이 여자를 쓰면 일을 안 하겠다고 한다.”결국 일...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/22/news-p.v1.20230621.58b2e122a4664f9fbb1d62e02ad0ebd3_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[침몰한 난민선 가장 후미진 화물칸에 여성과 아동들이 있었다 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202306211510001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202306211510001</guid>
-            <pubDate>Wed, 21 Jun 2023 06:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[유럽으로 향하는 지중해 난민선에서 국적별·성별 차별이 존재했다는 증언이 나왔다. 가장 많은 사망자가 나온 파키스탄은 국가 애도의 날을 선포했다.18일(현지시간) 가디언에 따르면, 지난 14일 그리스 펠로폰네소스 연안서 침몰한 난민선에 탑승했던 생존자들은 파키스탄 국적자들이 다른 국적자와 달리 배가 침몰할 때 생존 가능성이 훨씬 낮은 갑판 아래층으로 밀려났다고 진술했다. 가디언은 승조원들이 물을 찾거나 탈출을 시도하는 파키스탄 국적자를 학대했다고도 전했다.현...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/21/news-p.v1.20230620.e04bdb4754d44e0088329abf7e9c284f_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[결혼과 출산 말고 다른 '가족' (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
