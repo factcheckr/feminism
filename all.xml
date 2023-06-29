@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Jun 2023 03:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 05:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/56538de7-7f75-40ec-a77f-a9614f0dd41d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Writing a New Resume that Resembles Me (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9661</link>
+            <guid>https://ildaro.com/9661</guid>
+            <pubDate>Thu, 29 Jun 2023 00:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[As I revisited my memories one by one and wrote down what I did each year, the thoughts I’d had at those times also gradually came back to me. I...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023062913161324.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가사노동 ‘싸게’ 외국인에게 맡기고 아이 낳으라고요? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9660</link>
             <guid>https://ildaro.com/9660</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 26 Jun 2023 23:13:56 GMT</pubDate>
             <content:encoded><![CDATA[“서울 수치 때문에 그래요.” 서울 임금 수준이 상대적으로 높아 평균 소득을 상승시켰다는 이야기다. 다른 지역은 이보다 더 적다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023060244289393.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족을 구성할 권리에 차별을 두지 마세요 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9641</link>
-            <guid>https://ildaro.com/9641</guid>
-            <pubDate>Mon, 26 Jun 2023 23:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[10년이 넘는 기간 동안 함께 살지도 않았고, 최소한의 교류조차 없어 어디에서 어떻게 지내는지 알지 못하는 혈연관계인 이들이 유일한 내 가족일까요?...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/202306010342696.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
