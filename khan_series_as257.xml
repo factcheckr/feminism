@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 23:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 03:05:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘활동가 생애 첫 월급봉투’ 응원과 지지로 나아간다]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202306291020001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202306291020001</guid>
+            <pubDate>Thu, 29 Jun 2023 03:04:32 GMT</pubDate>
+            <content:encoded><![CDATA[나에게도 다양한 첫 월급이 있었다. 첫 아르바이트비로 받은 현금 10만원이 담긴 소박한 봉투도 있었고 통장에 찍힌 숫자를 보면 괜히 웃음이 나던 회사원 시절의 첫 월급도 있었다. 그중에 가장 기억에 남는 첫 월급은 시민사회로 발을 들인 뒤 받은 첫 활동비였다. 작은 풀뿌리단체에서 일했던 터라 단체의 재정으로는 도저히 인건비를 줄 수 없었지만 우연히 만난 이 단체가 너무 좋았고 내가 배우고 익혀 가진 것들을 잘 쓸 수 있는 곳이어서, 함께하는 것만으로도...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/29/news-p.v1.20230628.d0db0fca3d6147b0b0acfc7075eaf889_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세계 100위권 밖으로 밀려난 한국의 성평등 수준]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202306281530001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 22 Jun 2023 05:11:00 GMT</pubDate>
             <content:encoded><![CDATA[형틀목수 김명순씨(51)의 안전대에는 여기저기 오래된 바느질 자국이 있다. 양 어깨와 허리춤, 허벅지 부분의 바느질 자국은 다른 부분과 박음질 모양도, 실 색깔도 조금 다르다. 직접 꿰맸기 때문이다. 안전대는 건설 노동자들이 전신에 착용하는 띠 모양의 보호구다. 높이가 2m 이상인 곳에서 작업할 때 추락을 막기 위해 쓴다. 김씨와 같은 건설 노동자들은 특별한 ‘작업복’이 없다. 김씨는 집에서 입던 낡은 긴팔 셔츠, 앉았다 일어났다 하기에 편한 긴바지를 입고 출...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/22/news-p.v1.20230621.33f6ce70f0fe491ca818097e26e51fec_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남성 기준의 ‘작업복’ 여성 노동자를 위한 ‘안전장비’는 없다]]></title>
-            <link>https://www.khan.co.kr/national/labor/article/202306221339001</link>
-            <guid>https://www.khan.co.kr/national/labor/article/202306221339001</guid>
-            <pubDate>Thu, 22 Jun 2023 05:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[전남 여수국가산업단지에서 일하는 여성 용접사 박효심씨(64)는 약 20년 전, 처음 현장에 갔던 때를 또렷이 기억한다.60만t에 달하는 거대한 가스탱크의 철판 윗부분을 용접하러 올라가자, 남성 작업자들이 수군거리기 시작했다. 지금보다도 훨씬 여성이 드물었던 산업단지, 불과 열과 빛을 다루는 용접은 당연히 남성들 몫이었다. 기분 나쁜 수군거림을 한 귀로 듣고 흘리려 했지만 이내 회사가 그를 압박했다. “다른 사람들이 여자를 쓰면 일을 안 하겠다고 한다.”결국 일...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/22/news-p.v1.20230621.58b2e122a4664f9fbb1d62e02ad0ebd3_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
