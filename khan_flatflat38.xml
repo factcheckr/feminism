@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Jun 2023 05:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 08:23:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘출생통보제’ 도입해도 사각지대 놓인 ‘병원 밖 출산’]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202306291549001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202306291549001</guid>
+            <pubDate>Thu, 29 Jun 2023 08:21:14 GMT</pubDate>
+            <content:encoded><![CDATA[정부와 국회가 영·유아 범죄를 방지하기 위해 ‘출생통보제’ 도입에 속도를 내고 있다.이르면 오는 30일 국회 본회의에서 관련 법안이 통과될 가능성이 있다. 하지만 이 제도 도입 후에도 ‘병원 밖 출생’ 사례가 사각지대로 남을 것이라는 우려가 제기되고 있다. 전문가들은 위기 임신부와 비혼모, 아동에 대한 지원 체계를 촘촘히 만들어야 한다고 입을 모은다.출생통보제는 그동안 부모에게만 부과한 출생신고 의무를 의료기관에도 부과하는 것을 골자로 한다. 출생통보제...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/29/news-p.v1.20230629.ab96c5d5bf154d639be7475c2c5fc20d_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘활동가 생애 첫 월급봉투’ 응원과 지지로 나아간다]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202306291020001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 23 Jun 2023 02:56:37 GMT</pubDate>
             <content:encoded><![CDATA[스토킹 피해자가 처벌을 원하지 않아도 가해자를 처벌할 수 있도록 한 법안이 21일 국회 본회의를 통과했다. 법안에는 법원이 재판 중이라도 필요하면 가해자에게 전자발찌(위치추적 전자장치)를 채울 수 있도록 한 내용도 담겼다.국회는 21일 본회의에서 이같은 내용의 스토킹 범죄 처벌법 개정안을 재석 의원 246명 전원 찬성으로 의결했다.이 법안은 지난해 ‘신당역 살인 사건’을 계기로 스토킹 피해자 보호를 강화하기 위해 마련됐다. 스토킹 범죄에 대한 반의사 불벌죄...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/23/news-p.v1.20230622.80650e09b8834ff3a15be0fac583d434_P1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[업무 효율성 저하시키는 ‘작업복’, 여성 노동자에 대한 ‘편견’ 만든다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202306221339011</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202306221339011</guid>
-            <pubDate>Thu, 22 Jun 2023 05:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[형틀목수 김명순씨(51)의 안전대에는 여기저기 오래된 바느질 자국이 있다. 양 어깨와 허리춤, 허벅지 부분의 바느질 자국은 다른 부분과 박음질 모양도, 실 색깔도 조금 다르다. 직접 꿰맸기 때문이다. 안전대는 건설 노동자들이 전신에 착용하는 띠 모양의 보호구다. 높이가 2m 이상인 곳에서 작업할 때 추락을 막기 위해 쓴다. 김씨와 같은 건설 노동자들은 특별한 ‘작업복’이 없다. 김씨는 집에서 입던 낡은 긴팔 셔츠, 앉았다 일어났다 하기에 편한 긴바지를 입고 출...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/22/news-p.v1.20230621.33f6ce70f0fe491ca818097e26e51fec_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
