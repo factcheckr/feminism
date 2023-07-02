@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 08:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 09:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/56538de7-7f75-40ec-a77f-a9614f0dd41d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[소년은 야망을 가지고 소녀는 뭘 가질까요? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9664</link>
+            <guid>https://ildaro.com/9664</guid>
+            <pubDate>Sun, 02 Jul 2023 09:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[보이즈 비 앰비셔스. 소년에게 야망을 심어주고, 남자들을 거칠게 찍어낼 동안 소녀들은 어떻게 그려졌는가....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023070212251915.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[위력에 의한 성폭력, ‘강간죄’로 처벌할 수 있어야 한다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9663</link>
             <guid>https://ildaro.com/9663</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 26 Jun 2023 23:13:56 GMT</pubDate>
             <content:encoded><![CDATA[IC는 배우 편이라는 오해가 있는데, IC는 감독의 의도에 맞는 장면을 만드는 것과 동시에 배우의 권리도 지켜질 수 있도록 조율하는 사람이에요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023060651507462.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[촬영 현장에서 NO라고 말하기 어렵잖아요 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9644</link>
-            <guid>https://ildaro.com/9644</guid>
-            <pubDate>Mon, 26 Jun 2023 23:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[감독이 있고, 프로듀서가 있고, 조감독이 있고, 헤드 스텝이 있고, 어시스턴트들이 있고…. 피라미드 아래에 있고, 나이가 어린 사람들은 어떤 말을 하기가 되게 힘들어...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023060529041628.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
