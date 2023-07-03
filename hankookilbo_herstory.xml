@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 22:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 23:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[365일 중 허락된 단 하루]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1336</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1336</guid>
+            <pubDate>Mon, 03 Jul 2023 23:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 지난 주말, 서울 을지로2가 일대에서 열린 24회 서울퀴어문화축제(이하 퀴어축제) 소식으로 채워볼게요. 퀴어축제를 둘러싼 다양한 이야기를 맥락있게 담았습니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/a8022d5e-f4e1-483b-8f60-7c6dbe96d276.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[결혼과 출산 말고 다른 '가족']]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1327</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 17 Apr 2023 22:11:33 GMT</pubDate>
             <content:encoded><![CDATA[지난 16일은 세월호 참사 9주기였어요. 저는 아직도 대학생이었던 참사 당일 뉴스 속보를 보던 기억이 생생해요. 여러분에게 그해 4월은 어떤 기억으로 남아있나요.&nbsp;오늘 뉴스레터는 사회적 참사 이후 트라우마라는 길고 어두운 터널을 힘겹게 뚫고 나오면서도, 강인하게 자신의 목소리를 내는 두 생존자의 이야기와 세월호를 기억하는 사람들의 이야기를 전합니다.&nbsp;]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/4cecc502-e054-4412-8d8c-72709ec6969f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비혼으로 늙으면 어떨까?]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1244</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1244</guid>
-            <pubDate>Mon, 10 Apr 2023 23:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[지난 한 달 동안에는 꽤 여러 차례 출산과 육아에 대해 이야기 했어요. 아무래도 합계출산율 0.78명이라는 충격적인 통계가 발표된 직후인데다, 윤석열 대통령의 출산 정책이 발표됐기 때문이죠. 하지만 3년 차 함께하고 있는 지금, 여러분도 잘 아시다시피 허스펙티브는 여러분의 주체적이고 자율적인 선택이라면 그 어떤 삶의 양식이라도 응원하는 거. 구태여 말 더하지 않아도 되겠지요?]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/56538de7-7f75-40ec-a77f-a9614f0dd41d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
