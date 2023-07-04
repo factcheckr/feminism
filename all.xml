@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 05:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 06:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/4cecc502-e054-4412-8d8c-72709ec6969f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[임신과 출산을 선택할 권리가 비혼 여성에게도 있다! (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9665</link>
+            <guid>https://ildaro.com/9665</guid>
+            <pubDate>Tue, 04 Jul 2023 06:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[‘결혼하면 자녀를 가져야 한다’는 견해에 대한 동의율도 꾸준히 감소 추세다. 반대로 ‘결혼하지 않고도 자녀를 가질 수 있다’는 견해에 대한 동의율은 꾸준히 상...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023070458087887.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[소년은 야망을 가지고 소녀는 뭘 가질까요? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9664</link>
             <guid>https://ildaro.com/9664</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 08 Jun 2023 10:54:00 GMT</pubDate>
             <content:encoded><![CDATA[“요양보호사 기저귀만 갈러 가네.” 어떤 사람들은 그런 얘기를 하더라고요. 그게 아니잖아요, 그게 다가 아니잖아요"...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023060805265023.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘러브신’을 방해하는 사람이 아닙니다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9645</link>
-            <guid>https://ildaro.com/9645</guid>
-            <pubDate>Mon, 26 Jun 2023 23:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[IC는 배우 편이라는 오해가 있는데, IC는 감독의 의도에 맞는 장면을 만드는 것과 동시에 배우의 권리도 지켜질 수 있도록 조율하는 사람이에요....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023060651507462.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
