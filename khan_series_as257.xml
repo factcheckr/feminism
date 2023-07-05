@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 06:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 07:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여성 탄압 탈레반, 이번엔 “여성 미용실 폐쇄” 명령]]></title>
+            <link>https://www.khan.co.kr/world/mideast-africa/article/202307051522001</link>
+            <guid>https://www.khan.co.kr/world/mideast-africa/article/202307051522001</guid>
+            <pubDate>Wed, 05 Jul 2023 07:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[아프가니스탄 탈레반 정부가 여성들이 이용하는 미용실을 폐쇄하라고 명령했다.4일(현지시간) AP통신·가디언 등에 따르면, 탈레반 정부는 “여성 미용실의 폐쇄 기한은 한달”이라며 수도 카불을 포함한 전국의 미용실에 명령을 내렸다. 폐쇄 명령의 이유는 별도로 언급하지 않았다. 기한이 지나면 미용실은 폐쇄를 보고해야 한다.탈레반은 2021년 8월 미군이 철수한 이후 가혹한 통치를 이어가고 있다. 앞서 여중학교를 폐쇄한 데 이어 여학생의 대입시험 응시를 금지한 바 있다...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/05/news-p.v1.20230705.1b529943a2044f80a4519c68103f83c1_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘전지적 여성 시점’으로 들여다 본 IT업계 이면, 성차별과 착취]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202307051028001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 28 Jun 2023 07:12:43 GMT</pubDate>
             <content:encoded><![CDATA[한국의 성평등 수준이 세계 100위 밖으로 밀려났다.20일(현지시간) 세계경제포럼(WEF)이 내놓은 2023년 세계 젠더 격차 보고서(Global Gender Gap Report 2023)를 보면 한국의 젠더 격차 지수는 0.680을 기록, 전체 146개 국가 중 105위를 기록했다. 지난해 99위보다 6계단 하락했다.젠더 격차 지수는 1에 가까울수록 양성평등이 잘 이뤄져 있다는 의미다. 한국은 지난해보다 지수가 0.010 떨어졌다. 한국의 젠더 격차 지수는 2019년 108위, 2020년 102위, 작년 99위로 수년...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/28/news-p.v1.20230628.bc7d38b45fe4496ebaf511e67dfae868_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘이주 여성’이 매년 미국인 이웃들을 위해 파티를 연 이유]]></title>
-            <link>https://www.khan.co.kr/culture/book/article/202306281030001</link>
-            <guid>https://www.khan.co.kr/culture/book/article/202306281030001</guid>
-            <pubDate>Wed, 28 Jun 2023 02:55:22 GMT</pubDate>
-            <content:encoded><![CDATA[어머니는 ‘블랙베리 여사’였다. 여름이면 동네 어귀 숲에서 블랙베리를 따 팔았다. 숲속 곰이나 총을 든 백인 남성에 주눅 들지 않았다. 38구경 총을 가지고 다녔다. “엄마의 블랙베리 수확은 채집의 스릴감과 주변 사람 모두를 먹일 수 있다는 만족감에서 시작되었다.”어머니는 또 ‘버섯 여사’였다. 가을이면 버섯을 따러 다녔다. 균류학을 공부하려 &lt;버섯 사냥꾼을 위한 휴대용 도감&gt;을 반복해 읽었다. 그 버섯을 유통업체에 팔았다.미국 작은 백인 마을의 한국...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/06/28/news-p.v1.20230626.5e998ba1aefd447c864e4c6eba495c19_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
