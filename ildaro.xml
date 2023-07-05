@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 12:28:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 13:26:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가족끼리 알아서 생존하라고 하는 사회가 진짜 ‘위기’다]]></title>
+            <link>https://ildaro.com/9666</link>
+            <guid>https://ildaro.com/9666</guid>
+            <pubDate>Wed, 05 Jul 2023 13:26:13 GMT</pubDate>
+            <content:encoded><![CDATA[가족주의에 기반을 둔 사회의 결과는 현재 어떠한가? 노인빈곤율 OECD 국가 중 1위, OECD 평균 자살율보다 2배 이상 자살율 높은 나라, 저출생 세계 1위다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/202307053946724.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임신과 출산을 선택할 권리가 비혼 여성에게도 있다!]]></title>
             <link>https://ildaro.com/9665</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 10 Jun 2023 08:50:00 GMT</pubDate>
             <content:encoded><![CDATA[불쑥 떠오르는 회상을, 나도 모르게 꾸는 무의식의 꿈을 어떻게 막을 것인가. 무슨 교육으로, 치료로, 종교로 막을 셈이냐고 영화는 묻는다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023061058197303.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘최소한’을 넘어서는 돌봄을 희망할 수 있을까]]></title>
-            <link>https://ildaro.com/9646</link>
-            <guid>https://ildaro.com/9646</guid>
-            <pubDate>Thu, 08 Jun 2023 10:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[“요양보호사 기저귀만 갈러 가네.” 어떤 사람들은 그런 얘기를 하더라고요. 그게 아니잖아요, 그게 다가 아니잖아요"...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023060805265023.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
