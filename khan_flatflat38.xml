@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 01:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 02:57:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘전지적 여성 시점’으로 들여다 본 IT업계 이면, 성차별과 착취]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202307051028001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202307051028001</guid>
+            <pubDate>Wed, 05 Jul 2023 02:55:53 GMT</pubDate>
+            <content:encoded><![CDATA[“세상을 변화시킨다고들 하지만 바뀌지 않는 내부, 성찰부터 해야”2000년대 초부터 근무 경험 토대 업계 성차별·과로 등 이면 고발‘네카라쿠배’(네이버·카카오·라인·쿠팡·배달의민족), 억대 연봉, 스톡옵션, 신기술…. 정보기술(IT) 업계 하면 떠오르는 화려한 이미지다. 화려한 조명 뒤편엔 어두운 곳이 있기 마련이다. 48시간 안 자고 일하는 과로문화, 상대방을 깎아내리는 ‘독성말투’, 새로운 기술과 서비스를 통해 이뤄지는 성착취·범죄와 같은 것들이다. 가려져서 아예 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/05/news-p.v1.20230704.35eeb6d5e3e546999f965e396e3b704a_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아프리카 여성 위협하는 미국의 ‘임신중지권 폐기’]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202307041611001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 28 Jun 2023 02:54:37 GMT</pubDate>
             <content:encoded><![CDATA[어머니는 ‘블랙베리 여사’였다. 여름이면 동네 어귀 숲에서 블랙베리를 따 팔았다. 숲속 곰이나 총을 든 백인 남성에 주눅 들지 않았다. 38구경 총을 가지고 다녔다. “엄마의 블랙베리 수확은 채집의 스릴감과 주변 사람 모두를 먹일 수 있다는 만족감에서 시작되었다.”어머니는 또 ‘버섯 여사’였다. 가을이면 버섯을 따러 다녔다. 균류학을 공부하려 &lt;버섯 사냥꾼을 위한 휴대용 도감&gt;을 반복해 읽었다. 그 버섯을 유통업체에 팔았다.미국 작은 백인 마을의 한국...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/28/news-p.v1.20230626.5e998ba1aefd447c864e4c6eba495c19_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낮은 육아휴직 사용률, 어떻게 높일건가]]></title>
-            <link>https://www.khan.co.kr/national/labor/article/202306271529001</link>
-            <guid>https://www.khan.co.kr/national/labor/article/202306271529001</guid>
-            <pubDate>Tue, 27 Jun 2023 07:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[심각한 저출생 위기 상황에서 육아휴직 제도의 실효성을 높이기 위해 사회보험 형태의 새로운 연대기금이 필요하다는 주장이 제기됐다. 지난 6월 20일 국회에서 열린 초저출생·인구위기대책위원회 연속포럼 ‘선택과 집중, 아동 돌봄이 답이다’에서 정재철 전 민주정책연구원 연구위원은 어린이연대기금을 제안했다. 국민연금보험료, 국민건강보험료, 노인장기요양보험료 등에서 추가징수를 통해 안정적 재원을 확보한 후 기금을 만든다는 내용이다. 이 기금을 육아휴직 급여, 아동수...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/27/news-p.v1.20230627.2dd6d60539b8448a817ea9cb5c066612_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
