@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 09:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 10:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[When ‘Megalia’ Feminists Encountered Gender Studies]]></title>
+            <link>https://ildaro.com/9667</link>
+            <guid>https://ildaro.com/9667</guid>
+            <pubDate>Thu, 06 Jul 2023 10:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[Most of us had ideas that were still a bit too unorganized to become academic papers, but that were clearly too good to waste as a few lines of complaining in a social media post....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023070622141579.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가족끼리 알아서 생존하라고 하는 사회가 진짜 ‘위기’다]]></title>
             <link>https://ildaro.com/9666</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 26 Jun 2023 23:13:56 GMT</pubDate>
             <content:encoded><![CDATA[I’m already 29. Any licenses? Don’t have any. And there’s only one thing I can list as work experience. Everything else is simply “experience”....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023061136246179.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전환치료 캠프, ‘잘못된 교육이 분명합니다’]]></title>
-            <link>https://ildaro.com/9647</link>
-            <guid>https://ildaro.com/9647</guid>
-            <pubDate>Sat, 10 Jun 2023 08:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[불쑥 떠오르는 회상을, 나도 모르게 꾸는 무의식의 꿈을 어떻게 막을 것인가. 무슨 교육으로, 치료로, 종교로 막을 셈이냐고 영화는 묻는다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023061058197303.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
