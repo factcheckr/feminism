@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 06:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 07:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘나홀로 양육 책임’, 영아 유기사건은 개인의 문제가 아니다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202307071530001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202307071530001</guid>
+            <pubDate>Fri, 07 Jul 2023 07:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[“화났죠. 근데 시간이 지날수록 ‘오죽하면 그랬을까’ 싶네요.” “아기를 엄마 혼자 만드나요? 양육 나 몰라라 한 아빠도 처벌해야죠.”친모가 자녀 2명을 살해해 냉장고에 유기한 ‘냉장고 영아시신 사건’을 계기로 영아 학대 문제가 공론화되고 있다. 경찰청은 지난 5일 기준 ‘출생 미신고 영아’ 사건 598건(사망 10건, 소재 확인 48건, 소재 불명 540건)을 수사 중이라고 6일 밝혔다. 유기범 대부분은 친모이며 10·20대다. 경찰청에 따르면 2013년부터 9년간 경찰이 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/07/news-p.v1.20230706.a92a4423edbf47a5959ba56829d7dbe2_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인도 ‘레슬링계 미투’ 이후, 커지는 제도개선과 선수보호 대비책]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202307071032001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 30 Jun 2023 06:16:05 GMT</pubDate>
             <content:encoded><![CDATA[“엄마, 학교에서 한 거야.” 며칠 전 초등학교 1학년인 아이가 ‘집안일 백과사전’이라는 활동지를 내밀었다. “집에서 누군가 해야만 하는 집안일들입니다. 우리 가족 중에서 주로 누가 하고 있을까요?” 장보기, 빨래 널기부터 식사 준비, 설거지하기 등 15가지 집안일이 정리된 활동지였다. 아이의 눈에는 어떻게 비쳤을까. 중복 답변 결과 엄마 5가지, 아빠 5가지, 할아버지 6가지였다. 식물 기르기 등 할아버지가 단독으로 하고 있는 것으로 표시한 것이 많았다. 아이...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/30/news-p.v1.20230629.2d1b65d1dff549b693101549a33f228b_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연평균 기온이 1도 오를 때 여성 대상 가정폭력도 늘어난다]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202306301031001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202306301031001</guid>
-            <pubDate>Fri, 30 Jun 2023 02:47:56 GMT</pubDate>
-            <content:encoded><![CDATA[인도 등 남아시아 3개국에서 연평균 기온이 상승하면 여성들이 가정 폭력 등을 경험할 가능성이 증가한다는 연구 결과가 나왔다.가디언은 28일(현지시간) 미국의학협회 정신의학회지에 최근 실린 ‘남아시아 저소득 및 중간소득 국가에서 파트너 폭력 발생과 기온과의 연관성’ 논문 결과를 인용해, 연평균 기온이 1도 상승하면 신체적·성적 가정 폭력이 6.3% 이상 증가한 것으로 나타났다고 보도했다. 인도의 경우 기온이 1도 오를 때 신체적 폭력은 8% 증가했으며, 성적 폭력...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/06/30/news-p.v1.20230629.8bc3efbe14934c53b80f8b6b89df6556_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
