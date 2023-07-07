@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 10:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 11:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/4cecc502-e054-4412-8d8c-72709ec6969f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가사, 육아, 간병, 통역, 감정노동하는 ‘영케어러’ 수면위로 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9668</link>
+            <guid>https://ildaro.com/9668</guid>
+            <pubDate>Fri, 07 Jul 2023 11:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[‘영케어러’에 대한 법적 정의는 없지만, 일반적으로는 어른이 책임져야 할 가사노동이나 가족 돌봄, 감정적인 서포트 등을 수행하는 18세 미만을 이른다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023070727079316.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[When ‘Megalia’ Feminists Encountered Gender Studies (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9667</link>
             <guid>https://ildaro.com/9667</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 12 Jun 2023 09:21:00 GMT</pubDate>
             <content:encoded><![CDATA[어느 날 농업용수를 뿌렸는데 작물이 다 시들시들해져서 ‘왜 이러지?’ 했는데 알고 보니 짠물이 올라온 거였어요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023061234328925.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Resume Writing Night (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9648</link>
-            <guid>https://ildaro.com/9648</guid>
-            <pubDate>Mon, 26 Jun 2023 23:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[I’m already 29. Any licenses? Don’t have any. And there’s only one thing I can list as work experience. Everything else is simply “experience”....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023061136246179.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
