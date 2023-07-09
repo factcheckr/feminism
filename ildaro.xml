@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 06:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 07:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[학교에선 내 미래를 상상할 수 없다는 게 가장 힘들었어요]]></title>
+            <link>https://ildaro.com/9669</link>
+            <guid>https://ildaro.com/9669</guid>
+            <pubDate>Sun, 09 Jul 2023 07:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[학교 다녔을 때 가장 힘들었던 건, ‘여기도 내 자리가 아니고 저기도 내 자리가 아닌 것 같다’는 것보다 ‘나중을 상상할 수 없다’는 거였어요...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/202307092248735.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가사, 육아, 간병, 통역, 감정노동하는 ‘영케어러’ 수면위로]]></title>
             <link>https://ildaro.com/9668</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 26 Jun 2023 23:13:56 GMT</pubDate>
             <content:encoded><![CDATA[혼인평등법은 민법 812조 ‘혼인의 성립’과 민법 767조 ‘친족의 정의’를 개정함으로써 모든 이가 결혼의 자유와 권리를 평등하게 가질 수 있도록 하였다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023061309053128.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[섬에서 농사지으며 기후위기 정말 실감합니다]]></title>
-            <link>https://ildaro.com/9649</link>
-            <guid>https://ildaro.com/9649</guid>
-            <pubDate>Mon, 12 Jun 2023 09:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[어느 날 농업용수를 뿌렸는데 작물이 다 시들시들해져서 ‘왜 이러지?’ 했는데 알고 보니 짠물이 올라온 거였어요....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023061234328925.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
