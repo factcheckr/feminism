@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 06:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 07:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘금녀의 벽’에 작은 균열일지라도…현대차 ‘생산직’ 첫 여성 합격]]></title>
+            <link>https://www.khan.co.kr/national/labor/article/202307101521001</link>
+            <guid>https://www.khan.co.kr/national/labor/article/202307101521001</guid>
+            <pubDate>Mon, 10 Jul 2023 07:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[10년 만의 현대자동차 생산직(기술직) 공개채용에서 최소 6명의 여성 합격자가 나왔다. 200여 명 중 6명이라는 적은 인원이지만, 노동계는 그간 여성을 한 명도 뽑지 않았던 현대차 기술직 공채에서 최초의 여성 합격자가 나온 데 의의를 뒀다.민주노총 금속노조는 “이번 신규 채용은 회사 창립 후 여성 노동자에게 처음으로 열린 기술직 공채의 문”이라며 “공채를 통해 여성으로 처음 입사한 6명을 비롯해 모든 합격 노동자에게 환영의 인사를 전한다”고 10일 밝혔다.현...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/10/news-p.v1.20230710.6c0259c203bb4ff983926e3c519bbb10_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[브라질 룰라 대통령 제안, ‘남녀 동일임금 의무화 법’ 추진된다]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202307101010001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 04 Jul 2023 02:56:37 GMT</pubDate>
             <content:encoded><![CDATA[백인, 금발, 9등신 비율과 날렵한 몸선을 가진 인형 바비는 백인 우월주의와 외모지상주의를 조장한다는 비난을 받아왔다. 이후 흑인 바비를 시작으로 다양한 인종의 바비 인형은 물론 통통한 바비, 키 작은 바비, 휠체어를 탄 바비 등 다양한 몸을 가진 바비들도 등장했다.이달 중순 개봉될 예정인 영화 &lt;바비&gt;는 무엇이든 될 수 있는 ‘바비랜드’에서 살던 바비가 뜻밖의 사건에 휘말리며 현실 세계로 향하는 이야기를 담았다.&lt;바비&gt;의 주역인 세 여성이 내...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/04/news-p.v1.20230704.def5360226be4930a2974bb0c4501d72_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지난해 지자체 여성 공무원 비율 49.4%···역대 최고]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202307031235001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202307031235001</guid>
-            <pubDate>Mon, 03 Jul 2023 04:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 전국 자치단체의 여성 공무원 비율이 절반에 육박했다. 역대 최고치이다.2일 행정안전부의 ‘지방자치단체 여성공무원 인사통계’에 따르면 지난해 기준 전국 지방자치단체 여성공무원은 15만2509명으로 전체의 49.4%를 차지했다. 이는 전년도(14만5379명, 48.1%)에 비해 1.3% 포인트 늘어난 수치로 역대 최고치다.지역별로는 부산(55.1%), 서울(53.2%), 인천(52.7%) 순으로 여성 공무원이 많았다. 여성공무원 비율이 50%가 넘는 지역은 서울, 부산, 인천, 광주, 대전, 울산, ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/03/news-p.v1.20230703.9ec743abeb5c4487a300c5901bcd4bab_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
