@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 08:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 09:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[학교 밖 퀴어에게도 교실은 필요하다!]]></title>
+            <link>https://ildaro.com/9670</link>
+            <guid>https://ildaro.com/9670</guid>
+            <pubDate>Mon, 10 Jul 2023 09:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[또래들과 함께 할 수 있는 공간, 우리만을 위한 교실이요. 우리 삶을 솔직하게 다루고, 정말 집합적인 경험으로 설명하는 언어를 만들기 위한 공간으로요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023071025099864.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[학교에선 내 미래를 상상할 수 없다는 게 가장 힘들었어요]]></title>
             <link>https://ildaro.com/9669</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 26 Jun 2023 23:13:56 GMT</pubDate>
             <content:encoded><![CDATA[‘동성 간 결혼이 안 되던 시기가 있었다고?’라고 생각할 시대가 올 거에요. 굉장히 가까운 미래에 그렇게 될 거라고 생각하고요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023061456066031.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘혼인’의 자유와 권리, 성별 상관없이 ‘평등’하게]]></title>
-            <link>https://ildaro.com/9650</link>
-            <guid>https://ildaro.com/9650</guid>
-            <pubDate>Mon, 26 Jun 2023 23:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[혼인평등법은 민법 812조 ‘혼인의 성립’과 민법 767조 ‘친족의 정의’를 개정함으로써 모든 이가 결혼의 자유와 권리를 평등하게 가질 수 있도록 하였다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023061309053128.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
