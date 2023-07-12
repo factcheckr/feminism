@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 01:08:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 02:55:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“고추 따던 할매들. 우리도 랩을 해” 칠곡 ‘할미넴’이 떴다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202307121010001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202307121010001</guid>
+            <pubDate>Wed, 12 Jul 2023 02:53:28 GMT</pubDate>
+            <content:encoded><![CDATA[“고추 따던 할매들. 땅콩 캐던 할매들. 우리도 랩을 해, 계속해서 뱉을래.”“소밥 주다 개밥 줘. 개밥 주다 소밥 줘. 그래도 난 연습해, 랩을 매일 연습해.”- 경북 칠곡군 할머니들의 랩여든이 넘어 한글을 깨친 경북 칠곡군 할머니들이 래퍼로 변신해 힙합 공연을 펼쳐 눈길을 끌고 있다. 이 할머니들은 대통령의 글꼴로 알려진 칠곡할매글꼴 제작자다. 칠곡할매글꼴은 성인문해교육을 통해 한글을 배운 다섯명의 할머니가 수없이 연습한 끝에 제작한 인터넷 글씨체(5종...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/12/news-p.v1.20230711.57f0d02ab95746c9beda4048e3733801_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘신당역 스토킹살인’ 전주환 2심 무기징역···“참작 가능한 사정 없다”]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202307111621001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 05 Jul 2023 07:12:38 GMT</pubDate>
             <content:encoded><![CDATA[아프가니스탄 탈레반 정부가 여성들이 이용하는 미용실을 폐쇄하라고 명령했다.4일(현지시간) AP통신·가디언 등에 따르면, 탈레반 정부는 “여성 미용실의 폐쇄 기한은 한달”이라며 수도 카불을 포함한 전국의 미용실에 명령을 내렸다. 폐쇄 명령의 이유는 별도로 언급하지 않았다. 기한이 지나면 미용실은 폐쇄를 보고해야 한다.탈레반은 2021년 8월 미군이 철수한 이후 가혹한 통치를 이어가고 있다. 앞서 여중학교를 폐쇄한 데 이어 여학생의 대입시험 응시를 금지한 바 있다...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/05/news-p.v1.20230705.1b529943a2044f80a4519c68103f83c1_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘전지적 여성 시점’으로 들여다 본 IT업계 이면, 성차별과 착취]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202307051028001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202307051028001</guid>
-            <pubDate>Wed, 05 Jul 2023 02:55:53 GMT</pubDate>
-            <content:encoded><![CDATA[“세상을 변화시킨다고들 하지만 바뀌지 않는 내부, 성찰부터 해야”2000년대 초부터 근무 경험 토대 업계 성차별·과로 등 이면 고발‘네카라쿠배’(네이버·카카오·라인·쿠팡·배달의민족), 억대 연봉, 스톡옵션, 신기술…. 정보기술(IT) 업계 하면 떠오르는 화려한 이미지다. 화려한 조명 뒤편엔 어두운 곳이 있기 마련이다. 48시간 안 자고 일하는 과로문화, 상대방을 깎아내리는 ‘독성말투’, 새로운 기술과 서비스를 통해 이뤄지는 성착취·범죄와 같은 것들이다. 가려져서 아예 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/05/news-p.v1.20230704.35eeb6d5e3e546999f965e396e3b704a_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
