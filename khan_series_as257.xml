@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 05:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 06:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 달 내내 주변 곳곳을 ‘무지개 빛깔’로 물들이는 캐나다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202307121510001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202307121510001</guid>
+            <pubDate>Wed, 12 Jul 2023 06:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[초여름으로 접어드는 6월 서울 중구 정동길 한복판에는 무지개 깃발이 걸린다. 성소수자가 한 달 내내 자긍심을 뽐내는 ‘프라이드 먼스’를 맞아 주한 캐나다대사관이 대사관 건물 외벽에 거는 연대의 상징이다. 지난 6일 만난 타마라 모휘니 주한 캐나다 대사는 “프라이드 먼스는 캐나다의 국가적 캠페인”이라고 자랑스럽게 설명했다.캐나다는 ‘전 세계 성소수자들의 강력하고 자랑스러운 지지자’를 표방한다. 각국에 주재하는 캐나다 대사관은 퀴어 축제에 참여하고, 사회...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/12/news-p.v1.20230711.a34246add89643a194fc2846997af8a0_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“고추 따던 할매들. 우리도 랩을 해” 칠곡 ‘할미넴’이 떴다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202307121010001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 06 Jul 2023 02:58:28 GMT</pubDate>
             <content:encoded><![CDATA[문을 열자 바닥에 있는 납작한 소독 발판이 먼저 눈에 들어온다. 락스가 자박한 발판에 위생장화를 신은 발을 담갔다 뺀다. 안으로 들어서자 이번엔 사방이 스테인리스다. “고온주의” “감전주의” “뜨거움 주의” “경고문: 콘베어 고리에 옷이나 장갑이 끼어들어가지 않도록 주의하십시오” 등등. 눈길이 닿는 거의 모든 곳에 빨갛고 노란 경고문이 붙어있다. 걸을 때마다 바닥에서 뽀드득 소리가 난다. 창문 앞 벽면에는 대형 솥 3개가, 솥 주변에는 동그란 모양의 카...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/06/news-p.v1.20230705.5086e0d03d9e4a808e7d764766003e8c_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성 탄압 탈레반, 이번엔 “여성 미용실 폐쇄” 명령]]></title>
-            <link>https://www.khan.co.kr/world/mideast-africa/article/202307051522001</link>
-            <guid>https://www.khan.co.kr/world/mideast-africa/article/202307051522001</guid>
-            <pubDate>Wed, 05 Jul 2023 07:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[아프가니스탄 탈레반 정부가 여성들이 이용하는 미용실을 폐쇄하라고 명령했다.4일(현지시간) AP통신·가디언 등에 따르면, 탈레반 정부는 “여성 미용실의 폐쇄 기한은 한달”이라며 수도 카불을 포함한 전국의 미용실에 명령을 내렸다. 폐쇄 명령의 이유는 별도로 언급하지 않았다. 기한이 지나면 미용실은 폐쇄를 보고해야 한다.탈레반은 2021년 8월 미군이 철수한 이후 가혹한 통치를 이어가고 있다. 앞서 여중학교를 폐쇄한 데 이어 여학생의 대입시험 응시를 금지한 바 있다...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/05/news-p.v1.20230705.1b529943a2044f80a4519c68103f83c1_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
