@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 09:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 10:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시도: 요양시설과 집의 이분법을 질문하기]]></title>
+            <link>https://ildaro.com/9672</link>
+            <guid>https://ildaro.com/9672</guid>
+            <pubDate>Thu, 13 Jul 2023 10:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[“사생활이요. 독방이면 제일 좋겠지만, 그게 안 되면 하다못해 칸막이해서라도 사적 공간이 보장되면 좋겠어요.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023071336282418.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘가족’ 없어도 고립되지 않고 존엄하게 살 수 있는 사회]]></title>
             <link>https://ildaro.com/9671</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 18 Jun 2023 00:25:00 GMT</pubDate>
             <content:encoded><![CDATA[사회의 젠더 편향이야말로 심신의 부조화로 이어지는 문제의 근원이라는 관점에서 진료하는 산부인과 의사는 많지 않다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023061830073191.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식민지 명문여고에 다녔던 ‘제국의 소녀들’]]></title>
-            <link>https://ildaro.com/9652</link>
-            <guid>https://ildaro.com/9652</guid>
-            <pubDate>Fri, 16 Jun 2023 10:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[“지배 역사가 끝나도 일본인의 식민자로서의 정신사는 끝나지 않는다”는 ‘식민지 책임’ 의식으로 식민자 생활을 밝힐 필요를 느꼈다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023061602502407.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
