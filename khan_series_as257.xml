@@ -4,9 +4,25 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 01:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 02:58:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“여자들 실업급여로 샤넬사고 해외여행” 여성을 부정수급자로 일반화한 여당 공청회]]></title>
+            <link>https://www.khan.co.kr/national/labor/article/202307131125001</link>
+            <guid>https://www.khan.co.kr/national/labor/article/202307131125001</guid>
+            <pubDate>Thu, 13 Jul 2023 02:58:15 GMT</pubDate>
+            <content:encoded><![CDATA[박대출 국민의힘 정책위의장이 12일 “실업급여를 받으러 온 젊은이 중 실질적 구직자는 아주 어두운 얼굴로 오는데, 한 부류는 밝은 얼굴로 와서 실업급여를 받아 명품 선글라스 끼고 해외여행에 다녀온다고 한다”고 말했다.국민의힘 노동개혁특별위원회는 이날 국회에서 ‘실업급여 제도개선 공청회’를 개최한 뒤 “실업급여제도가 악용돼 달콤한 보너스라는 뜻으로 ‘시럽급여’라는 말이 나오지 않도록 해야 한다는 데 공감했다”고 밝혔다. 이에 정부·여당은 월 180여만원 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/13/news-p.v1.20230713.c7dda71f93164e21ab5953e61aaa1cee_P1.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[여성 직원만 ‘붙는 치마’ ‘5cm 구두’…같은 일, 다른 작업복]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202307131010001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202307131010001</guid>
+            <pubDate>Thu, 13 Jul 2023 02:58:15 GMT</pubDate>
+            <content:encoded><![CDATA[모든 작업복에는 계급이 담긴다. 무슨 옷을 입고, 어떤 모자를 쓰고, 어느 사원증을 매는가는 그 사람이 사회와 조직에서 어디쯤 서 있는지를 보여준다. 작업복 중에서도 서비스업 종사자들이 주로 입는 ‘유니폼’은 독특하다. 회사 이름과 정체성을 드러내는 유니폼은 구성원에게는 소속감과 자부심을, 고객에게는 신뢰감을 준다. 유니폼은 고객과 직원을 구분하고, 평상복과 작업복을 분리한다는 점에서 유용하다. 하지만 성별과 계급에 따라 차이를 둔 유니폼은 기능적·상징...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/13/news-p.v1.20230712.50e67fb9c404440fb7f7a9414a2d3665_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 달 내내 주변 곳곳을 ‘무지개 빛깔’로 물들이는 캐나다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202307121510001</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 07 Jul 2023 03:24:52 GMT</pubDate>
             <content:encoded><![CDATA[인도 영화 &lt;당갈&gt;은 편견을 깨부수고 인도에 첫 국제대회 메달을 안겨 준 여성 레슬링 선수의 이야기를 다룬다. 하지만 &lt;당갈&gt;의 주인공들이 현실에서 마주쳐야 하는 벽은 승부의 세계보다 높고 잔혹했다. 지난 반년 동안 경기장이 아닌 거리로 나가 ‘미투’(나도 고발한다) 운동을 벌여야 했던 인도의 레슬링 여성 선수들은 지금 또 하나의 벽을 깨부수려 하고 있다.로이터통신은 3일(현지시간) 인도 레슬링계에서 ‘미투’가 터져나온 이후, 선수 보호와 제도 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/07/news-p.v1.20230706.8694b20640274360881820cdc29476a7_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“생리통 완화”…월경용품 거짓·과장 광고 무더기 적발]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202307061514001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202307061514001</guid>
-            <pubDate>Thu, 06 Jul 2023 06:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[식품의약품안전처가 월경용품의 기능을 거짓·과장한 온라인 광고 사례 222건을 적발하고 접속차단 등의 조치를 취했다고 5일 밝혔다.식약처는 지난 5월28일 세계 월경의 날을 맞아 5월24일부터 6월15일까지 월경혈의 위생처리를 위해 사용하는 월경용품인 생리대와 탐폰, 월경컵(생리컵)의 온라인 광고 500건을 집중 점검한 결과, 거짓·과장 광고로 약사법을 위반한 222건을 적발했다고 밝혔다.무허가 제품의 해외직구·구매대행 광고 150건(67.6%), 공산품 ‘위생팬티’를 의약외품 ‘...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/06/news-p.v1.20230706.9164c10672a74621be0461a8b25f81b7_P1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[음식 위생은 보호하지만 급식조리사들 안전은 지키지 못하는 작업복]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202307061016001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202307061016001</guid>
-            <pubDate>Thu, 06 Jul 2023 02:58:28 GMT</pubDate>
-            <content:encoded><![CDATA[문을 열자 바닥에 있는 납작한 소독 발판이 먼저 눈에 들어온다. 락스가 자박한 발판에 위생장화를 신은 발을 담갔다 뺀다. 안으로 들어서자 이번엔 사방이 스테인리스다. “고온주의” “감전주의” “뜨거움 주의” “경고문: 콘베어 고리에 옷이나 장갑이 끼어들어가지 않도록 주의하십시오” 등등. 눈길이 닿는 거의 모든 곳에 빨갛고 노란 경고문이 붙어있다. 걸을 때마다 바닥에서 뽀드득 소리가 난다. 창문 앞 벽면에는 대형 솥 3개가, 솥 주변에는 동그란 모양의 카...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/06/news-p.v1.20230705.5086e0d03d9e4a808e7d764766003e8c_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
