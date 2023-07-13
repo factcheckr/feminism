@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 06:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 07:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동성 부부의 출산 결심, 축복하지 못할 임신은 없다]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202307131530001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202307131530001</guid>
+            <pubDate>Thu, 13 Jul 2023 07:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[“저 임신 8개월이에요!” 이 말에 대다수는 기꺼운 마음으로 임신부와 태아를 축복할 것이다. 그렇다면 레즈비언이 임신을 했다면? 안타깝게도 ‘사회적 논란’이 될 게 뻔하다. 동성애를 죄라고 주장하거나 이성애만 가능하다고 믿는 이들에게는 ‘있을 수 없는 일’이기 때문이다. 다양한 성적 지향을 추구하거나 지지하는 이들 중 누군가도 불편하게 여길 수 있다. 결혼과 출산을 통한 ‘정상성’ 추구가 오히려 그 정상성 안에 갇히게 되는 것으로 여겨질 수 있기 때문...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/13/news-p.v1.20230712.b39c8663dd5f4bcdaea4ce5a02937c5d_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“여자들 실업급여로 샤넬사고 해외여행” 여성을 부정수급자로 일반화한 여당 공청회]]></title>
             <link>https://www.khan.co.kr/national/labor/article/202307131125001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 07 Jul 2023 07:12:06 GMT</pubDate>
             <content:encoded><![CDATA[“화났죠. 근데 시간이 지날수록 ‘오죽하면 그랬을까’ 싶네요.” “아기를 엄마 혼자 만드나요? 양육 나 몰라라 한 아빠도 처벌해야죠.”친모가 자녀 2명을 살해해 냉장고에 유기한 ‘냉장고 영아시신 사건’을 계기로 영아 학대 문제가 공론화되고 있다. 경찰청은 지난 5일 기준 ‘출생 미신고 영아’ 사건 598건(사망 10건, 소재 확인 48건, 소재 불명 540건)을 수사 중이라고 6일 밝혔다. 유기범 대부분은 친모이며 10·20대다. 경찰청에 따르면 2013년부터 9년간 경찰이 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/07/news-p.v1.20230706.a92a4423edbf47a5959ba56829d7dbe2_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인도 ‘레슬링계 미투’ 이후, 커지는 제도개선과 선수보호 대비책]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202307071032001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202307071032001</guid>
-            <pubDate>Fri, 07 Jul 2023 03:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[인도 영화 &lt;당갈&gt;은 편견을 깨부수고 인도에 첫 국제대회 메달을 안겨 준 여성 레슬링 선수의 이야기를 다룬다. 하지만 &lt;당갈&gt;의 주인공들이 현실에서 마주쳐야 하는 벽은 승부의 세계보다 높고 잔혹했다. 지난 반년 동안 경기장이 아닌 거리로 나가 ‘미투’(나도 고발한다) 운동을 벌여야 했던 인도의 레슬링 여성 선수들은 지금 또 하나의 벽을 깨부수려 하고 있다.로이터통신은 3일(현지시간) 인도 레슬링계에서 ‘미투’가 터져나온 이후, 선수 보호와 제도 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/07/news-p.v1.20230706.8694b20640274360881820cdc29476a7_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
