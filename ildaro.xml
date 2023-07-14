@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 11:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 12:24:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘성매매’라고 불린, 원치 않은 성관계]]></title>
+            <link>https://ildaro.com/9674</link>
+            <guid>https://ildaro.com/9674</guid>
+            <pubDate>Fri, 14 Jul 2023 12:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[성매매 여성은 성매매 과정에서 무엇에 동의하고, 무엇에 동의하지 않았는가? 무엇보다 성매매 구조 안에서 무엇에 동의‘할’ 수 있고, 무엇에 동의‘할’ 수 없는가...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023071420565258.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시도: 요양시설과 집의 이분법을 질문하기]]></title>
             <link>https://ildaro.com/9672</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 19 Jun 2023 00:48:00 GMT</pubDate>
             <content:encoded><![CDATA[올해 100세인 제주 사람 양오생 씨는 작년에 동네 책방에서 석 달간 그림을 그렸다. 제주에서 태어나 어릴 때부터 물질 다닌 이야기, 신도리에서 해녀회 회장을 한 이야...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023061957011867.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갱년기 증후군 원인에는 ‘젠더 편향’ 사회도 큰 몫]]></title>
-            <link>https://ildaro.com/9653</link>
-            <guid>https://ildaro.com/9653</guid>
-            <pubDate>Sun, 18 Jun 2023 00:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[사회의 젠더 편향이야말로 심신의 부조화로 이어지는 문제의 근원이라는 관점에서 진료하는 산부인과 의사는 많지 않다...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023061830073191.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
