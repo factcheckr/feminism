@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 09:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 10:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“실업급여 받는 여성은 표정 검열까지 해야 하나”… 비난받는 ‘시럽급여’ 망언 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/labor/article/202307141845001</link>
+            <guid>https://www.khan.co.kr/national/labor/article/202307141845001</guid>
+            <pubDate>Fri, 14 Jul 2023 10:12:18 GMT</pubDate>
+            <content:encoded><![CDATA[“왜 젊은 사람, 여자들이 실업급여 많이 받냐고? 실업을 많이 당하니까 그렇지.”“임금보다 실업급여가 많았던 사람이 45만명이라고 하면, 노동급여 올릴 생각을 해야지 실업급여를 줄이는 게 말이 되냐?”국민의힘 노동개혁특별위원회가 지난 12일 국회에서 개최한 ‘실업급여 제도개선 공청회’ 이후 후폭풍이 날이 갈수록 커지고 있다. 공청회는 정부·여당이 검토 중인 월 180여만원 수준인 실업급여 하한액을 낮추거나 폐지하는 방안을 뒷받침하는 차원에서 준비됐다. 당시 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/14/news-p.v1.20230714.667487fda1ad40019e3acf901602f732_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[출산 사실이 알려지는 것 자체가 두려운 여성들 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202307141530001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 11 Jul 2023 02:24:50 GMT</pubDate>
             <content:encoded><![CDATA[대법원이 지난 4월말 준강간 미수 혐의 피고인의 무죄를 확정한 사건을 두고 법조계와 학계, 시민사회에서 비판이 이어지고 있다. ‘가장 보통의 준강간 사건’으로 불리는 사건이다. 종전까지는 성범죄 판결에서 강간죄 성립요건인 폭행·협박의 범위와 피해자 진술의 신빙성을 지나치게 협소하게 판단한 점이 문제가 됐다면, 이번 판결에선 ‘피고인의 고의를 어떻게 인정할 것인지’가 쟁점으로 떠올랐다. 지난달 30일 법원 내 모임인 현대사회와성범죄연구회가 이 판결을 주제...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/11/news-p.v1.20230710.dbdda611e880499c94ed4e39607b9937_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘금녀의 벽’에 작은 균열일지라도…현대차 ‘생산직’ 첫 여성 합격 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/labor/article/202307101521001</link>
-            <guid>https://www.khan.co.kr/national/labor/article/202307101521001</guid>
-            <pubDate>Mon, 10 Jul 2023 07:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[10년 만의 현대자동차 생산직(기술직) 공개채용에서 최소 6명의 여성 합격자가 나왔다. 200여 명 중 6명이라는 적은 인원이지만, 노동계는 그간 여성을 한 명도 뽑지 않았던 현대차 기술직 공채에서 최초의 여성 합격자가 나온 데 의의를 뒀다.민주노총 금속노조는 “이번 신규 채용은 회사 창립 후 여성 노동자에게 처음으로 열린 기술직 공채의 문”이라며 “공채를 통해 여성으로 처음 입사한 6명을 비롯해 모든 합격 노동자에게 환영의 인사를 전한다”고 10일 밝혔다.현...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/10/news-p.v1.20230710.6c0259c203bb4ff983926e3c519bbb10_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“실업급여 받는 여성은 표정 검열까지 해야 하나”… 비난받는 ‘시럽급여’ 망언 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/labor/article/202307141845001</link>
+            <guid>https://www.khan.co.kr/national/labor/article/202307141845001</guid>
+            <pubDate>Fri, 14 Jul 2023 10:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[“왜 젊은 사람, 여자들이 실업급여 많이 받냐고? 실업을 많이 당하니까 그렇지.”“임금보다 실업급여가 많았던 사람이 45만명이라고 하면, 노동급여 올릴 생각을 해야지 실업급여를 줄이는 게 말이 되냐?”국민의힘 노동개혁특별위원회가 지난 12일 국회에서 개최한 ‘실업급여 제도개선 공청회’ 이후 후폭풍이 날이 갈수록 커지고 있다. 공청회는 정부·여당이 검토 중인 월 180여만원 수준인 실업급여 하한액을 낮추거나 폐지하는 방안을 뒷받침하는 차원에서 준비됐다. 당시 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/14/news-p.v1.20230714.667487fda1ad40019e3acf901602f732_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[출산 사실이 알려지는 것 자체가 두려운 여성들 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202307141530001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202307141530001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 11 Jul 2023 02:24:50 GMT</pubDate>
             <content:encoded><![CDATA[대법원이 지난 4월말 준강간 미수 혐의 피고인의 무죄를 확정한 사건을 두고 법조계와 학계, 시민사회에서 비판이 이어지고 있다. ‘가장 보통의 준강간 사건’으로 불리는 사건이다. 종전까지는 성범죄 판결에서 강간죄 성립요건인 폭행·협박의 범위와 피해자 진술의 신빙성을 지나치게 협소하게 판단한 점이 문제가 됐다면, 이번 판결에선 ‘피고인의 고의를 어떻게 인정할 것인지’가 쟁점으로 떠올랐다. 지난달 30일 법원 내 모임인 현대사회와성범죄연구회가 이 판결을 주제...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/11/news-p.v1.20230710.dbdda611e880499c94ed4e39607b9937_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘금녀의 벽’에 작은 균열일지라도…현대차 ‘생산직’ 첫 여성 합격 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/labor/article/202307101521001</link>
-            <guid>https://www.khan.co.kr/national/labor/article/202307101521001</guid>
-            <pubDate>Mon, 10 Jul 2023 07:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[10년 만의 현대자동차 생산직(기술직) 공개채용에서 최소 6명의 여성 합격자가 나왔다. 200여 명 중 6명이라는 적은 인원이지만, 노동계는 그간 여성을 한 명도 뽑지 않았던 현대차 기술직 공채에서 최초의 여성 합격자가 나온 데 의의를 뒀다.민주노총 금속노조는 “이번 신규 채용은 회사 창립 후 여성 노동자에게 처음으로 열린 기술직 공채의 문”이라며 “공채를 통해 여성으로 처음 입사한 6명을 비롯해 모든 합격 노동자에게 환영의 인사를 전한다”고 10일 밝혔다.현...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/10/news-p.v1.20230710.6c0259c203bb4ff983926e3c519bbb10_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엄마를 욕하기 전 생각할 것들 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
