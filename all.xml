@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jul 2023 01:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jul 2023 03:08:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/c31eaccd-285a-4b86-8c91-397be820014a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Regaining Hope While Campaigning Alone (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9675</link>
+            <guid>https://ildaro.com/9675</guid>
+            <pubDate>Sun, 16 Jul 2023 11:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[When I was in middle school, I received a scholarship given by the thermal power plant, and I called this ‘life pay.’...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023071605395508.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘성매매’라고 불린, 원치 않은 성관계 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9674</link>
             <guid>https://ildaro.com/9674</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 26 Jun 2023 23:13:56 GMT</pubDate>
             <content:encoded><![CDATA[특히 놀랐던 건 신규 조합원 교육이나 간부 양성교육 등에서 “남성, 여성뿐만 아니라 다른 성도 있다”, “그들이 우리와 함께 있다는 걸 알아라”는 말을 하더라고요...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023062044557965.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제주의 과거를 잇고, 자연을 잇고, 사람을 잇는 책방 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9654</link>
-            <guid>https://ildaro.com/9654</guid>
-            <pubDate>Mon, 19 Jun 2023 00:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[올해 100세인 제주 사람 양오생 씨는 작년에 동네 책방에서 석 달간 그림을 그렸다. 제주에서 태어나 어릴 때부터 물질 다닌 이야기, 신도리에서 해녀회 회장을 한 이야...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023061957011867.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
