@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 22:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 23:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/12/news-p.v1.20230711.57f0d02ab95746c9beda4048e3733801_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["여성할당제는 공정한 제도다" (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1356</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1356</guid>
+            <pubDate>Mon, 17 Jul 2023 23:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 '경제'와 관련된 두 권의 책을 소개해 드려요. 프랑스 출신의 경제학자 폴린 그로장은 사회에 깊게 뿌리내린 성차별 관습이 여성과 남성의 경제 불평등과 얽혀 있다는 의미에서 '가부장 자본주의'라는 용어를 고안했어요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/c3a08f39-ffc1-44b0-bb7d-5bab17370858.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[엄마를 욕하기 전 생각할 것들 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1349</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1349</guid>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 01 May 2023 23:12:46 GMT</pubDate>
             <content:encoded><![CDATA[한 대에 2억 원이 넘는 아우디의 고성능 전기차와 내연기관 스포츠카를 만드는 독일의 뵐링어 호페 공장에서는 한국에선 보기 힘든 여성 생산직(기술직) 직원들이 여럿 눈에 띄었는데요. 공장 관계자에 따르면 생산 라인 내 여성 비율은 약 30%로 사실상 모든 공정에 배치됐다고 합니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/0f94fdb1-2221-4e64-9d68-82833c3f5da6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마흔살 전업주부, 대학원에 갔다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1259</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1259</guid>
-            <pubDate>Mon, 24 Apr 2023 23:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 여성들에게 꿈과 희망을 심어주고, 좋은 본보기가 되어주는 한 곤충학자의 이야기를 담아왔어요. 주인공은 바로 '한국의 파브르'라는 별명을 가진 정부희 곤충학 박사입니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/c31eaccd-285a-4b86-8c91-397be820014a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[문학계 미투가 남긴 과제, ‘문법을 바꿔라’ (일다 ─ 전체기사)]]></title>
