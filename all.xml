@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jul 2023 23:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 01:10:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/c31eaccd-285a-4b86-8c91-397be820014a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[문학계 미투가 남긴 과제, ‘문법을 바꿔라’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9676</link>
+            <guid>https://ildaro.com/9676</guid>
+            <pubDate>Mon, 17 Jul 2023 09:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[프리랜서 고용이 많은 문화예술계 특성상, 자신이 어느 권력/위계 구조에 속해 있는지 자각하기 어려운 현실에 주목했다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023071718277305.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Regaining Hope While Campaigning Alone (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9675</link>
             <guid>https://ildaro.com/9675</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 26 Jun 2023 23:13:56 GMT</pubDate>
             <content:encoded><![CDATA[“First of all, I want to say that I haven’t been trying my best. I was an outsider in the outfield bleachers.” Who was this person?...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023062142266442.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘성소수자 친화적인 일터’를 꿈꾸는 노동자들 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9655</link>
-            <guid>https://ildaro.com/9655</guid>
-            <pubDate>Mon, 26 Jun 2023 23:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[특히 놀랐던 건 신규 조합원 교육이나 간부 양성교육 등에서 “남성, 여성뿐만 아니라 다른 성도 있다”, “그들이 우리와 함께 있다는 걸 알아라”는 말을 하더라고요...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023062044557965.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
