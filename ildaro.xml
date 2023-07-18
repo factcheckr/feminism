@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 05:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 06:16:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“외국인은 범죄자인가요?” 日 출입국관리법 개정 논란]]></title>
+            <link>https://ildaro.com/9677</link>
+            <guid>https://ildaro.com/9677</guid>
+            <pubDate>Tue, 18 Jul 2023 06:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[“작년에 9년 동안 갖고 있던 비자가 취소되어버렸어요. 이유를 물으니 ‘외국인이라서’ 그렇대요. 외국인은 범죄자인가요?”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/202307181826377.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[문학계 미투가 남긴 과제, ‘문법을 바꿔라’]]></title>
             <link>https://ildaro.com/9676</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 22 Jun 2023 08:56:00 GMT</pubDate>
             <content:encoded><![CDATA[“남겨놓은 감정, 해결하지 않은 감정, 느껴야 할 때 느끼지 않은 감정은 언제고 값을 치르러 온다.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023062209102593.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“I Haven’t Been Trying My Best”]]></title>
-            <link>https://ildaro.com/9656</link>
-            <guid>https://ildaro.com/9656</guid>
-            <pubDate>Mon, 26 Jun 2023 23:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[“First of all, I want to say that I haven’t been trying my best. I was an outsider in the outfield bleachers.” Who was this person?...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023062142266442.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
