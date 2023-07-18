@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 23:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 01:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이란, 여성들 히잡 착용 여부 단속 재개]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202307181019001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202307181019001</guid>
+            <pubDate>Tue, 18 Jul 2023 01:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[이란 당국이 여성들의 히잡 착용 여부를 단속하는 도덕경찰을 다시 거리에 투입했다는 보도가 16일(현지시간) 나왔다. 지난해 9월 히잡을 제대로 착용하지 않았다는 이유로 도덕경찰에 끌려간 뒤 의문사한 20대 여성 마흐사 아미니 사건 이후 약 10개월 만이다.AP통신에 따르면 사이드 몬타제르 알메흐디 이란 경찰청 대변인은 이날 “도덕경찰이 공공장소에서 히잡을 착용하지 않은 여성 단속을 재개할 예정”이라고 밝혔다. 실제로 이날 수도 테헤란에선 도덕경찰이 거리를 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/18/news-p.v1.20230717.5f2b6c5011df4a33814e74df78949a42_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[버려진 옷들, 환경오염 재앙이 되다[플랫]]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202307171515001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 12 Jul 2023 06:16:18 GMT</pubDate>
             <content:encoded><![CDATA[초여름으로 접어드는 6월 서울 중구 정동길 한복판에는 무지개 깃발이 걸린다. 성소수자가 한 달 내내 자긍심을 뽐내는 ‘프라이드 먼스’를 맞아 주한 캐나다대사관이 대사관 건물 외벽에 거는 연대의 상징이다. 지난 6일 만난 타마라 모휘니 주한 캐나다 대사는 “프라이드 먼스는 캐나다의 국가적 캠페인”이라고 자랑스럽게 설명했다.캐나다는 ‘전 세계 성소수자들의 강력하고 자랑스러운 지지자’를 표방한다. 각국에 주재하는 캐나다 대사관은 퀴어 축제에 참여하고, 사회...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/12/news-p.v1.20230711.a34246add89643a194fc2846997af8a0_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“고추 따던 할매들. 우리도 랩을 해” 칠곡 ‘할미넴’이 떴다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202307121010001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202307121010001</guid>
-            <pubDate>Wed, 12 Jul 2023 02:54:14 GMT</pubDate>
-            <content:encoded><![CDATA[“고추 따던 할매들. 땅콩 캐던 할매들. 우리도 랩을 해, 계속해서 뱉을래.”“소밥 주다 개밥 줘. 개밥 주다 소밥 줘. 그래도 난 연습해, 랩을 매일 연습해.”- 경북 칠곡군 할머니들의 랩여든이 넘어 한글을 깨친 경북 칠곡군 할머니들이 래퍼로 변신해 힙합 공연을 펼쳐 눈길을 끌고 있다. 이 할머니들은 대통령의 글꼴로 알려진 칠곡할매글꼴 제작자다. 칠곡할매글꼴은 성인문해교육을 통해 한글을 배운 다섯명의 할머니가 수없이 연습한 끝에 제작한 인터넷 글씨체(5종...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/12/news-p.v1.20230711.57f0d02ab95746c9beda4048e3733801_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
