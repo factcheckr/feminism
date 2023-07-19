@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 06:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 07:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[포용하는 마음 ‘그럴 수 있어’…양희은이 들려주는 ‘인생담’ (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202307191510001</link>
             <guid>https://www.khan.co.kr/culture/culture-general/article/202307191510001</guid>
-            <pubDate>Wed, 19 Jul 2023 06:14:41 GMT</pubDate>
+            <pubDate>Wed, 19 Jul 2023 06:13:57 GMT</pubDate>
             <content:encoded><![CDATA[53년 차 가수, 24년째 아침 라디오 프로그램 진행자, 일흔의 나이…. 가수 양희은의 이력을 따져보면 새삼 놀랍다. 1971년 발표한 데뷔곡 ‘아침이슬’의 생명력처럼, 양희은도 생생하게 살아있다. 매일 아침 특유의 크고 풍부한 목소리로 라디오 청취자들의 귀를 사로잡고, 까마득하게 어린 후배 뮤지션들과 함께 신곡을 발표한다. 그는 현 시대와 같은 걸음으로 걷고 있다. “언제까지 해야겠다는 계획은 없어요. 허락할 때까지 해야지. 다만 노래방에서 계속 마이크 혼자 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/19/news-p.v1.20230718.19339a61aed34f208e78fb0b0fb0beb3_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/0f94fdb1-2221-4e64-9d68-82833c3f5da6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[침묵을 깬 여자들이 함께 떠나는 여행 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9678</link>
+            <guid>https://ildaro.com/9678</guid>
+            <pubDate>Wed, 19 Jul 2023 07:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[여성들과 처음 같이 글을 쓰고 책을 만들기 시작했을 때, 주변 남성들로부터 “왜 여자들끼리만 하냐”는 질문을 많이 받았다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023071939312478.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“외국인은 범죄자인가요?” 日 출입국관리법 개정 논란 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9677</link>
             <guid>https://ildaro.com/9677</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 26 Jun 2023 23:13:56 GMT</pubDate>
             <content:encoded><![CDATA[“평소 주량보다 적게 마셨는데 기억이 없고, 평상시와 다르게 구토가 심하고 꿈꾸는 듯한 상태가 계속되어 약물을 탔는지 의심스러워요.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023062324406475.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세상은 나에게 부끄러움을 주문했다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9657</link>
-            <guid>https://ildaro.com/9657</guid>
-            <pubDate>Thu, 22 Jun 2023 08:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[“남겨놓은 감정, 해결하지 않은 감정, 느껴야 할 때 느끼지 않은 감정은 언제고 값을 치르러 온다.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023062209102593.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

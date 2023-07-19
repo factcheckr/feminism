@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 06:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 07:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[침묵을 깬 여자들이 함께 떠나는 여행]]></title>
+            <link>https://ildaro.com/9678</link>
+            <guid>https://ildaro.com/9678</guid>
+            <pubDate>Wed, 19 Jul 2023 07:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[여성들과 처음 같이 글을 쓰고 책을 만들기 시작했을 때, 주변 남성들로부터 “왜 여자들끼리만 하냐”는 질문을 많이 받았다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023071939312478.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“외국인은 범죄자인가요?” 日 출입국관리법 개정 논란]]></title>
             <link>https://ildaro.com/9677</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 26 Jun 2023 23:13:56 GMT</pubDate>
             <content:encoded><![CDATA[“평소 주량보다 적게 마셨는데 기억이 없고, 평상시와 다르게 구토가 심하고 꿈꾸는 듯한 상태가 계속되어 약물을 탔는지 의심스러워요.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023062324406475.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세상은 나에게 부끄러움을 주문했다]]></title>
-            <link>https://ildaro.com/9657</link>
-            <guid>https://ildaro.com/9657</guid>
-            <pubDate>Thu, 22 Jun 2023 08:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[“남겨놓은 감정, 해결하지 않은 감정, 느껴야 할 때 느끼지 않은 감정은 언제고 값을 치르러 온다.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023062209102593.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
