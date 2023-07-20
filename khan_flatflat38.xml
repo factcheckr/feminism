@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 07:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 08:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[허술하고 엉뚱한데 똑똑한 … 빛나는 ‘예능 치트키’ 미미]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202307201615001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202307201615001</guid>
+            <pubDate>Thu, 20 Jul 2023 08:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[이 정도면 ‘갑툭튀’다. 어느 별에서 왔는지 묻고 싶을 정도다.연예인들이 이국적 풍경을 자랑하는 외국에 간다. 먹음직스러운 음식을 눈앞에 두고 게임을 한다. 게임을 잘하거나 못하는 모습에서 웃음이 터진다. 사실 ‘그저 그럴 수 있는 밋밋한’ 포맷인 &lt;뿅뿅 지구오락실 2&gt;는 지난달 한국갤럽의 ‘좋아하는 방송영상 프로그램’ 조사에서 1위를 차지했다. 이 조사를 시작한 2013년 이후 여성 예능 프로그램으로는 처음으로 1위를 차지한 것.흔한 형태의 프로그램이...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/20/news-p.v1.20230720.fa913b47b5ff461a8e725968da9f4b89_P1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘인하대 성폭행 추락사’ 가해자 2심도 징역 20년]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202307201451001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 14 Jul 2023 10:12:18 GMT</pubDate>
             <content:encoded><![CDATA[“왜 젊은 사람, 여자들이 실업급여 많이 받냐고? 실업을 많이 당하니까 그렇지.”“임금보다 실업급여가 많았던 사람이 45만명이라고 하면, 노동급여 올릴 생각을 해야지 실업급여를 줄이는 게 말이 되냐?”국민의힘 노동개혁특별위원회가 지난 12일 국회에서 개최한 ‘실업급여 제도개선 공청회’ 이후 후폭풍이 날이 갈수록 커지고 있다. 공청회는 정부·여당이 검토 중인 월 180여만원 수준인 실업급여 하한액을 낮추거나 폐지하는 방안을 뒷받침하는 차원에서 준비됐다. 당시 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/14/news-p.v1.20230714.667487fda1ad40019e3acf901602f732_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[출산 사실이 알려지는 것 자체가 두려운 여성들]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202307141530001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202307141530001</guid>
-            <pubDate>Fri, 14 Jul 2023 07:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[“피고인은 연인과의 사이에 임신했으나 헤어졌고, 출산 준비를 하지 않던 중 주거지 화장실의 변기에 앉아 출산했다. 영아를 8시간가량 자신의 방 침대에 눕혀두었다. 이후 서랍장에 넣어 유기함으로써 사망에 이르게 했다. 임신 및 출산 사실이 부모에게 알려지는 것이 두렵다는 이유였다.”(수원지법 평택지원 2018년 판결)영아 유기 범행 동기로 “출산 사실을 주변 사람에게 숨기기 위해”라고 진술한 경우가 가장 많다는 연구 결과가 나왔다. 경제적 어려움이나 생부와 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/14/news-p.v1.20230714.d1760264e7ea4adc82da1fa47b953e98_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
