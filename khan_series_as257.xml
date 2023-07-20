@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 05:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 06:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘인하대 성폭행 추락사’ 가해자 2심도 징역 20년]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202307201451001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202307201451001</guid>
+            <pubDate>Thu, 20 Jul 2023 06:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[인하대학교에서 여학생을 성폭행하려다 창밖으로 떨어져 숨지게 한 혐의로 기소된 가해자가 2심에서도 징역 20년을 선고받았다.서울고법 형사10부(재판장 남성민)는 성폭력범죄처벌법 위반(강간살인) 혐의로 기소된 A씨(21)에 대해 준강간치사 혐의를 유죄로 판단하고 1심과 같이 징역 20년을 선고했다.A씨는 지난해 7월15일 새벽 인천 미추홀구 인하대 캠퍼스 내 단과대학 건물에서 동급 여학생 B씨를 성폭행하려다 B씨를 창밖으로 떨어뜨려 숨지게 한 혐의로 기소됐다. B씨는 같은...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/20/news-p.v1.20230720.46429ebaacde49de99d78286125c1404_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[또 ‘여성 지우기’ 나선 여가부, 10년 추진한 정책 명칭서 ‘여성’ 삭제]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202307201011001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 14 Jul 2023 07:12:23 GMT</pubDate>
             <content:encoded><![CDATA[“피고인은 연인과의 사이에 임신했으나 헤어졌고, 출산 준비를 하지 않던 중 주거지 화장실의 변기에 앉아 출산했다. 영아를 8시간가량 자신의 방 침대에 눕혀두었다. 이후 서랍장에 넣어 유기함으로써 사망에 이르게 했다. 임신 및 출산 사실이 부모에게 알려지는 것이 두렵다는 이유였다.”(수원지법 평택지원 2018년 판결)영아 유기 범행 동기로 “출산 사실을 주변 사람에게 숨기기 위해”라고 진술한 경우가 가장 많다는 연구 결과가 나왔다. 경제적 어려움이나 생부와 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/14/news-p.v1.20230714.d1760264e7ea4adc82da1fa47b953e98_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“각종 통증이 직업병”…자신의 몸은 돌보지 못하는 돌봄노동자]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202307141040001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202307141040001</guid>
-            <pubDate>Fri, 14 Jul 2023 02:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[“요양보호사는 휴무날에는 집안일보다 내일의 근무를 위해서 치료를 받으러 가야 합니다. 손목과 허리 통증으로 인해 물리치료나 침 치료도 하루에 절반 이상 해왔습니다. 하루에도 수십 번 어르신 체위변경을 하고, 프로그램이나 화장실 이동할 때마다 휠체어에 탑승시키는 일은 어마어마한 힘이 듭니다. 하루는 장시간 야간 근무 중 근육 이상을 느껴 거울을 보니 입이 우측으로 돌아가있어 병원에서 구안와사(안면신경마비)진단을 받았는데, 대체인력을 구하지 못해 계속 근...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/14/news-p.v1.20230713.5b5cf6b09a7341e0a7e0c29e8f6cf2a7_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
