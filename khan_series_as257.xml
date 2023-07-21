@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 01:00:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 02:10:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘외국인 가사 인력’ 도입…실효성 가지려면 ‘근로시간 단축’ 병행돼야]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202307211019001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202307211019001</guid>
+            <pubDate>Fri, 21 Jul 2023 02:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 합계출산율 0.59명을 기록한 서울에서 이르면 하반기부터 외국인 가사 인력 제도가 시범 도입된다. 육아 부담을 낮춰 최악의 초저출생 현상을 극복해보려는 취지다. 하지만 전문가들은 ‘가격’에 초점을 맞춘 돌봄 정책을 경계했다. 부모의 노동시간을 줄이는 방식이 함께 논의되지 않는 제도는 실효성을 담보할 수 없다고 지적했다.서울시는 19일 오전 서울시청 대회의실에서 ‘외국인 가사(육아) 인력 도입 전문가 토론회’를 열고 해외 사례와 예상되는 우려 등을 논...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/21/news-p.v1.20230720.e6eae83809e646da951109588d513eb4_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[허술하고 엉뚱한데 똑똑한 … 빛나는 ‘예능 치트키’ 미미]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202307201615001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 17 Jul 2023 03:01:49 GMT</pubDate>
             <content:encoded><![CDATA[실업급여를 ‘시럽급여’로, 실업자를 ‘베짱이’에 비유하며 실업급여 하한액(최저임금 80%)을 폐지 혹은 인하하려는 당정의 여론몰이가 역풍을 맞고 있다. 특히 “여성·청년들이 실업급여를 받는 중 해외여행을 가거나 샤넬 선글라스를 산다”는 고용노동부 직원 발언은 여성·청년의 반발을 사고 있다. 노동계는 당정의 실업급여 제도개편이 충분한 의견수렴 없이 추진하다 여론의 역풍으로 사실상 좌초된 ‘주 최대 69시간’ 사태처럼 흘러갈 것으로 보고 있다.한국노총·민주노총...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/17/news-p.v1.20230714.120884ec71984e77a8ff1f9b8f987c3b_P1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[“실업급여 받는 여성은 표정 검열까지 해야 하나”… 비난받는 ‘시럽급여’ 망언]]></title>
-            <link>https://www.khan.co.kr/national/labor/article/202307141845001</link>
-            <guid>https://www.khan.co.kr/national/labor/article/202307141845001</guid>
-            <pubDate>Fri, 14 Jul 2023 10:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[“왜 젊은 사람, 여자들이 실업급여 많이 받냐고? 실업을 많이 당하니까 그렇지.”“임금보다 실업급여가 많았던 사람이 45만명이라고 하면, 노동급여 올릴 생각을 해야지 실업급여를 줄이는 게 말이 되냐?”국민의힘 노동개혁특별위원회가 지난 12일 국회에서 개최한 ‘실업급여 제도개선 공청회’ 이후 후폭풍이 날이 갈수록 커지고 있다. 공청회는 정부·여당이 검토 중인 월 180여만원 수준인 실업급여 하한액을 낮추거나 폐지하는 방안을 뒷받침하는 차원에서 준비됐다. 당시 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/14/news-p.v1.20230714.667487fda1ad40019e3acf901602f732_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
