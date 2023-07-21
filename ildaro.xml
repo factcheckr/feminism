@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 03:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 04:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[결혼은 너무 ‘문제적’인 제도라서…]]></title>
+            <link>https://ildaro.com/9679</link>
+            <guid>https://ildaro.com/9679</guid>
+            <pubDate>Fri, 21 Jul 2023 00:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[국가는 행정을 통해 “사랑하는 남녀가 결혼해서 그 사랑의 결실로 얻은 자녀를 사랑으로 양육한다”는 새로운 가족 정상성을 산업화 과정에서 만들어 왔다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023072150558067.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[침묵을 깬 여자들이 함께 떠나는 여행]]></title>
             <link>https://ildaro.com/9678</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 25 Jun 2023 09:46:00 GMT</pubDate>
             <content:encoded><![CDATA[일상생활에서 상하 관계가 구축된 상황에서 피해자가 빠져나갈 구멍을 막은 채, 서서히 성적인 화제를 내비치다가 최종적으로 성적 행위에 이르는 것....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023062555043391.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[술, 약물을 이용한 성폭력이 계속 발생하는 이유]]></title>
-            <link>https://ildaro.com/9658</link>
-            <guid>https://ildaro.com/9658</guid>
-            <pubDate>Mon, 26 Jun 2023 23:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[“평소 주량보다 적게 마셨는데 기억이 없고, 평상시와 다르게 구토가 심하고 꿈꾸는 듯한 상태가 계속되어 약물을 탔는지 의심스러워요.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023062324406475.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
