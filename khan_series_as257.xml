@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 07:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 08:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[젠더·권력·차별 문제 속에서 만들어진 #인생샷…‘인생샷 뒤의 여자들’]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202307211624001</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202307211624001</guid>
+            <pubDate>Fri, 21 Jul 2023 08:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[인스타그램 애플리케이션(앱)을 열어 ‘#인생샷’을 검색해보자. 무려 240만개의 게시물이 나온다. 아름다운 얼굴과 몸매, 세련된 패션, 빼어난 경치가 ‘삼위일체’된 사진들이다. 주로 20대로 보이는 젊은 여성들이 주인공이다. 인생샷을 그저 잘 나온 ‘셀카’ 정도로 치면 서운하다. 철저히 계획적이며 노동집약적인 과정을 거쳐 완성되기 때문이다. 인생샷을 찍기 위해 예쁜 카페나 멋진 장소를 사전 ‘온라인 답사’하고, 배경에 어울리는 옷을 세심하게 고른다. 무엇보다 자...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/21/news-p.v1.20230721.242808ab5dcb4f1fb2d7f57bcd06c5af_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘외국인 가사 인력’ 도입…실효성 가지려면 ‘근로시간 단축’ 병행돼야]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202307211019001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 17 Jul 2023 06:17:20 GMT</pubDate>
             <content:encoded><![CDATA[버려진 옷들로 형상화한 거대한 무덤이 국회의원과 보좌진·방문객들의 눈길을 사로잡았다. 지난 12일 서울 여의도 국회의원회관 3층 3로비에서 열린 ‘옷, 재앙이 되다’ 전시장 모습이다. 지난 10일부터 3일간 열린 이 전시회는 생산부터 유통·소비·폐기까지 의류의 생애 주기를 통해 패션 산업이 환경오염에 미치는 심각성을 알리기 위해 사단법인 다시입다연구소가 기획했다.정주연 다시입다연구소 대표(48)는 “패션 산업이 배출하는 탄소는 전 세계 탄소 배출량의 10%”라며 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/17/news-p.v1.20230717.922315b4b29a404ea7bb813bf95258ab_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“실업급여에서도 ‘실업자다움’ 강요하나” 여성계 비판]]></title>
-            <link>https://www.khan.co.kr/national/labor/article/202307171010001</link>
-            <guid>https://www.khan.co.kr/national/labor/article/202307171010001</guid>
-            <pubDate>Mon, 17 Jul 2023 03:01:49 GMT</pubDate>
-            <content:encoded><![CDATA[실업급여를 ‘시럽급여’로, 실업자를 ‘베짱이’에 비유하며 실업급여 하한액(최저임금 80%)을 폐지 혹은 인하하려는 당정의 여론몰이가 역풍을 맞고 있다. 특히 “여성·청년들이 실업급여를 받는 중 해외여행을 가거나 샤넬 선글라스를 산다”는 고용노동부 직원 발언은 여성·청년의 반발을 사고 있다. 노동계는 당정의 실업급여 제도개편이 충분한 의견수렴 없이 추진하다 여론의 역풍으로 사실상 좌초된 ‘주 최대 69시간’ 사태처럼 흘러갈 것으로 보고 있다.한국노총·민주노총...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/17/news-p.v1.20230714.120884ec71984e77a8ff1f9b8f987c3b_P1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
