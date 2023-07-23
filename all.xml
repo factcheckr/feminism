@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jul 2023 02:36:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jul 2023 03:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/0f94fdb1-2221-4e64-9d68-82833c3f5da6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[청소년들이 겪은, 동의하지 않은 성관계 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9680</link>
+            <guid>https://ildaro.com/9680</guid>
+            <pubDate>Sun, 23 Jul 2023 11:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘그런 애를 왜 만났니?’ ‘그렇게 했는데 가만히 있었니?’ ‘그런 행동이 싫은데 왜 계속 사귀었니?’...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023072325015699.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[결혼은 너무 ‘문제적’인 제도라서… (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9679</link>
             <guid>https://ildaro.com/9679</guid>
@@ -478,14 +486,6 @@
             <pubDate>Tue, 27 Jun 2023 06:16:58 GMT</pubDate>
             <content:encoded><![CDATA[“외국인 가사노동자 도입 소식을 듣고, 우리 가정관리사들은 생각이 복잡하다. (정부는) 우리가 하는 노동을 어떻게 바라보고 있는가?...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023062721316511.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘인권변호사’에 의한 성폭력이 사회에 울린 경고음 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9659</link>
-            <guid>https://ildaro.com/9659</guid>
-            <pubDate>Sun, 25 Jun 2023 09:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[일상생활에서 상하 관계가 구축된 상황에서 피해자가 빠져나갈 구멍을 막은 채, 서서히 성적인 화제를 내비치다가 최종적으로 성적 행위에 이르는 것....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023062555043391.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
