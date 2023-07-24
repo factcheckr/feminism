@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 09:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 10:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Why do female artists have to choose between work and family?]]></title>
+            <link>https://ildaro.com/9681</link>
+            <guid>https://ildaro.com/9681</guid>
+            <pubDate>Mon, 24 Jul 2023 10:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[My peer, director Myung Soo-Hee, who directed the movie 24 (2015) and is currently raising a child, told me of her fear of career disruption....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023072429517440.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청소년들이 겪은, 동의하지 않은 성관계]]></title>
             <link>https://ildaro.com/9680</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 29 Jun 2023 00:07:00 GMT</pubDate>
             <content:encoded><![CDATA[As I revisited my memories one by one and wrote down what I did each year, the thoughts I’d had at those times also gradually came back to me. I...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023062913161324.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가사노동 ‘싸게’ 외국인에게 맡기고 아이 낳으라고요?]]></title>
-            <link>https://ildaro.com/9660</link>
-            <guid>https://ildaro.com/9660</guid>
-            <pubDate>Sun, 23 Jul 2023 15:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[“외국인 가사노동자 도입 소식을 듣고, 우리 가정관리사들은 생각이 복잡하다. (정부는) 우리가 하는 노동을 어떻게 바라보고 있는가?...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023062721316511.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
