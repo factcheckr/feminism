@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 22:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 23:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리, 오늘 오전 11시에 만나요]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1369</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1369</guid>
+            <pubDate>Mon, 24 Jul 2023 23:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[현지시간 20일 열린 2023 호주·뉴질랜드 여자월드컵이 갖는 의미는 큽니다. 우선 역대 최대 규모입니다. 한국을 비롯한 32개 참가국 선수들이 우승을 노립니다. 선수들은 성차별과 편견과도 맞서 싸웁니다. 직전 대회인 2019 프랑스 여성월드컵보다 상금은 3배 올랐지만, 2022년 카타르 남성월드컵보다 훨씬 못 미칩니다.&nbsp;]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/e3115a00-088b-4a32-be6f-a155ba272123.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["여성할당제는 공정한 제도다"]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1356</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 08 May 2023 23:12:37 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 한국일보의 상담 콘텐츠에 접수된 한 사연으로 뉴스레터를 채워보려고 해요. 원가족으로부터 큰 고초를 겪고 계신 이 분의 고민에 이입하지 않을 수 없었고, 매주 사려 깊은 상담을 해주는 정우열 정신건강의학과 전문의의 답변이 제게도 큰 위로가 되었기 때문에 나누고 싶었어요. 뉴스레터 본문에는 사연자의 '이야기'만 담습니다. 이 사연을 두고 정 원장은 어떤 대답을 했을지 섬네일을 눌러 기사를 통해 확인하세요!]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/dfd830d2-6456-4906-b26c-be0819a43459.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자동차를 여자가 만든다고?]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1265</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1265</guid>
-            <pubDate>Mon, 01 May 2023 23:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[한 대에 2억 원이 넘는 아우디의 고성능 전기차와 내연기관 스포츠카를 만드는 독일의 뵐링어 호페 공장에서는 한국에선 보기 힘든 여성 생산직(기술직) 직원들이 여럿 눈에 띄었는데요. 공장 관계자에 따르면 생산 라인 내 여성 비율은 약 30%로 사실상 모든 공정에 배치됐다고 합니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/0f94fdb1-2221-4e64-9d68-82833c3f5da6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
