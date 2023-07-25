@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 06:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 07:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“가부장제에 부딪치지 않게 조심하세요”···‘핑크 코미디’ 바비]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202307251510001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202307251510001</guid>
+            <pubDate>Tue, 25 Jul 2023 07:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[올해로 64세. 1959년 3월9일 미국 장난감 박람회에 처음 등장한 바비 인형의 나이다. 마텔사가 출시한 바비는 검은색과 흰색이 교차된 줄무늬 수영복을 입고, 굽 높은 샌들과 나비모양 선글라스를 착용한 채 나타났다. 팔다리가 통통한 3등신 아기 인형이 여아들의 옆자리를 꿰차고 있던 때, 갑자기 등장한 8등신 ‘글래머’ 인형이 완구시장을 휩쓸었다.이후 다양한 직업의 바비 인형이 출시됐다. 패션 모델, 교사, 트럭운전사, 의사, 가수, 우주비행사, 대통령, 하키선수, ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/25/news-p.v1.20230725.5808725901634c77ad57658cc2303b76_P1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[“이란 히잡 착용거부로 수감된 여성들, 교도관이 알몸 수색·찰영도”]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202307251010001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 19 Jul 2023 06:13:57 GMT</pubDate>
             <content:encoded><![CDATA[53년 차 가수, 24년째 아침 라디오 프로그램 진행자, 일흔의 나이…. 가수 양희은의 이력을 따져보면 새삼 놀랍다. 1971년 발표한 데뷔곡 ‘아침이슬’의 생명력처럼, 양희은도 생생하게 살아있다. 매일 아침 특유의 크고 풍부한 목소리로 라디오 청취자들의 귀를 사로잡고, 까마득하게 어린 후배 뮤지션들과 함께 신곡을 발표한다. 그는 현 시대와 같은 걸음으로 걷고 있다. “언제까지 해야겠다는 계획은 없어요. 허락할 때까지 해야지. 다만 노래방에서 계속 마이크 혼자 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/19/news-p.v1.20230718.19339a61aed34f208e78fb0b0fb0beb3_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[14년 만에 사라지는 서울 시내 여성우선주차장]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202307191009001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202307191009001</guid>
-            <pubDate>Wed, 19 Jul 2023 01:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[서울 시내 공공시설 등에 설치됐던 여성우선주차장이 14년 만에 사라진다.서울시는 기존 여성우선주차장 주차구획을 ‘가족배려주차장’으로 전환하는 주차장 설치 및 관리 조례 일부개정조례를 18일 공포·시행한다고 밝혔다.앞서 지난 11일 제10회 조례·규칙 심의위원회를 열고 60건의 조례 공포안과 2건의 규칙안을 심의·의결한 데 따른 것이다.이번 조례안 시행으로 여성으로 한정됐던 해당 주차구획은 임산부나 영유아를 동반한 운전자, 고령 운전자 등 이동이 불편한 사람으로...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/19/news-p.v1.20230718.c1a77d5224bd4bfeaaf3416b7bc2f345_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
