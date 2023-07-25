@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 02:45:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 03:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[“이란 히잡 착용거부로 수감된 여성들, 교도관이 알몸 수색·찰영도” (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202307251010001</link>
             <guid>https://www.khan.co.kr/world/world-general/article/202307251010001</guid>
-            <pubDate>Tue, 25 Jul 2023 02:44:23 GMT</pubDate>
+            <pubDate>Tue, 25 Jul 2023 02:43:38 GMT</pubDate>
             <content:encoded><![CDATA[이란 당국이 히잡 착용 거부 운동을 펼치다가 수감된 여성의 알몸을 수색하고 촬영까지 했다는 폭로가 20일(현지시간) 나왔다. 여성들의 히잡 착용 여부를 단속하는 도덕경찰이 다시 거리에 투입되는 등 신정국가 이란의 폭정이 여전하다는 지적이 나온다.이란 대표 여성 인권운동가인 모즈간 케샤바르즈는 이날 영국 BBC와의 인터뷰에서 지난해 1월 악명 높은 수도 테헤란 에빈교도소에서 겪은 고초를 털어놨다.그는 “감옥에 있는 동안 보안 카메라 앞에서 3차례 알몸 수색...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/25/news-p.v1.20230725.329ed163f6554b3e86b3145152ff9587_P1.jpeg" length="0" type="image/jpeg"/>
         </item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/dfd830d2-6456-4906-b26c-be0819a43459.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아름다움을 본 죄, 못 본 죄 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9682</link>
+            <guid>https://ildaro.com/9682</guid>
+            <pubDate>Tue, 25 Jul 2023 11:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[“언젠가 바닷물이 들어오면 다시 살아날 수 있는 땅도 갯벌이라 생각한다. 갯벌이었기 때문에 갯벌이라고 불러줘야 한다. 그래야 살릴 수 있다”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023072554405590.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Why do female artists have to choose between work and family? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9681</link>
             <guid>https://ildaro.com/9681</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 23 Jul 2023 15:12:07 GMT</pubDate>
             <content:encoded><![CDATA[출연 계약서도 공연 직전 혹은 공연 도중에 작성하는 경우가 많기 때문에 무대에 올라가는 순간까지 나는 언제나 ‘대체 가능한 존재’라는 것에 대한 불안함도 있다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023062944471666.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Writing a New Resume that Resembles Me (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9661</link>
-            <guid>https://ildaro.com/9661</guid>
-            <pubDate>Thu, 29 Jun 2023 00:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[As I revisited my memories one by one and wrote down what I did each year, the thoughts I’d had at those times also gradually came back to me. I...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023062913161324.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

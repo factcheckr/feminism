@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 02:45:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 03:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아름다움을 본 죄, 못 본 죄]]></title>
+            <link>https://ildaro.com/9682</link>
+            <guid>https://ildaro.com/9682</guid>
+            <pubDate>Tue, 25 Jul 2023 11:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[“언젠가 바닷물이 들어오면 다시 살아날 수 있는 땅도 갯벌이라 생각한다. 갯벌이었기 때문에 갯벌이라고 불러줘야 한다. 그래야 살릴 수 있다”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023072554405590.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Why do female artists have to choose between work and family?]]></title>
             <link>https://ildaro.com/9681</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 23 Jul 2023 15:12:07 GMT</pubDate>
             <content:encoded><![CDATA[출연 계약서도 공연 직전 혹은 공연 도중에 작성하는 경우가 많기 때문에 무대에 올라가는 순간까지 나는 언제나 ‘대체 가능한 존재’라는 것에 대한 불안함도 있다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023062944471666.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Writing a New Resume that Resembles Me]]></title>
-            <link>https://ildaro.com/9661</link>
-            <guid>https://ildaro.com/9661</guid>
-            <pubDate>Thu, 29 Jun 2023 00:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[As I revisited my memories one by one and wrote down what I did each year, the thoughts I’d had at those times also gradually came back to me. I...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023062913161324.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
