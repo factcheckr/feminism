@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 01:03:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 02:45:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“이란 히잡 착용거부로 수감된 여성들, 교도관이 알몸 수색·찰영도”]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202307251010001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202307251010001</guid>
+            <pubDate>Tue, 25 Jul 2023 02:43:38 GMT</pubDate>
+            <content:encoded><![CDATA[이란 당국이 히잡 착용 거부 운동을 펼치다가 수감된 여성의 알몸을 수색하고 촬영까지 했다는 폭로가 20일(현지시간) 나왔다. 여성들의 히잡 착용 여부를 단속하는 도덕경찰이 다시 거리에 투입되는 등 신정국가 이란의 폭정이 여전하다는 지적이 나온다.이란 대표 여성 인권운동가인 모즈간 케샤바르즈는 이날 영국 BBC와의 인터뷰에서 지난해 1월 악명 높은 수도 테헤란 에빈교도소에서 겪은 고초를 털어놨다.그는 “감옥에 있는 동안 보안 카메라 앞에서 3차례 알몸 수색...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/25/news-p.v1.20230725.329ed163f6554b3e86b3145152ff9587_P1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[성별·나이 권력에 무너지는 ‘2030 여성교사 노동권’]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202307241530001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 19 Jul 2023 01:59:27 GMT</pubDate>
             <content:encoded><![CDATA[서울 시내 공공시설 등에 설치됐던 여성우선주차장이 14년 만에 사라진다.서울시는 기존 여성우선주차장 주차구획을 ‘가족배려주차장’으로 전환하는 주차장 설치 및 관리 조례 일부개정조례를 18일 공포·시행한다고 밝혔다.앞서 지난 11일 제10회 조례·규칙 심의위원회를 열고 60건의 조례 공포안과 2건의 규칙안을 심의·의결한 데 따른 것이다.이번 조례안 시행으로 여성으로 한정됐던 해당 주차구획은 임산부나 영유아를 동반한 운전자, 고령 운전자 등 이동이 불편한 사람으로...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/19/news-p.v1.20230718.c1a77d5224bd4bfeaaf3416b7bc2f345_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스토킹 신고 이유로 직장 내 불이익 막는다, 스토킹방지법 시행]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202307181510001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202307181510001</guid>
-            <pubDate>Tue, 18 Jul 2023 06:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[18일부터 ‘스토킹방지법(스토킹방지및피해자보호등에관한법률)’이 시행된다. 스토킹 피해 발생 단계부터 피해자를 두텁게 보호하는 내용이 담겼고, 정부의 예방·방지 책무를 규정했다. 스토킹 신고를 이유로 직장 내에서 불이익을 주는 것도 금지된다.여성가족부는 피해자 주거지원·치료회복·법률구조, 직장 내 불이익 금지 조치 등을 담은 스토킹방지법이 시행된다고 지난 17일 밝혔다. 스토킹방지법은 ‘신당역 스토킹 살인사건’ 등 스토킹 범죄들을 계기로 지난 1월 제정됐다. 기...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/18/news-p.v1.20230718.0740194e815a4254a83f77cdae9a131a_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
