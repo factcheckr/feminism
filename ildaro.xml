@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 11:10:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 12:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강제노역이 깃든 댐 “탈출한 조선인 온 산을 뒤져 찾아내”]]></title>
+            <link>https://ildaro.com/9683</link>
+            <guid>https://ildaro.com/9683</guid>
+            <pubDate>Wed, 26 Jul 2023 12:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[간토 지역의 ‘레저 스팟’으로 잘 알려진 가나가와현 사가미(相模)호. 그 생성의 근원인 사가미댐에서는 전쟁 중에 조선인, 중국인의 강제노역이 이루어졌다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023072636473115.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아름다움을 본 죄, 못 본 죄]]></title>
             <link>https://ildaro.com/9682</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 01 Jul 2023 10:23:00 GMT</pubDate>
             <content:encoded><![CDATA[미투 운동 시기 ‘업무상 위력 간음죄’가 주목받은 것은, 그동안 강간죄와 강제추행죄로는 구제하지 못했던 권력형 성폭력의 구조가 드러났기 때문이다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023070129465511.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무용계 미투 운동, 새로운 생태계를 꿈꾸는 무용인들]]></title>
-            <link>https://ildaro.com/9662</link>
-            <guid>https://ildaro.com/9662</guid>
-            <pubDate>Sun, 23 Jul 2023 15:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[출연 계약서도 공연 직전 혹은 공연 도중에 작성하는 경우가 많기 때문에 무대에 올라가는 순간까지 나는 언제나 ‘대체 가능한 존재’라는 것에 대한 불안함도 있다...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202306/2023062944471666.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
