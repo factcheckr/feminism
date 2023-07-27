@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 00:54:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 01:57:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘현역 의사 주먹 서열 1위’ 서려경 교수]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202307271010001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202307271010001</guid>
+            <pubDate>Thu, 27 Jul 2023 01:55:58 GMT</pubDate>
+            <content:encoded><![CDATA[낮에는 병원에서 환자를 돌보고, 퇴근 후에는 링에 올라 상대 선수와 불꽃 튀는 스파링(서로의 기량을 겨루는 대련)을 한다. 본캐(캐릭터)는 신생아중환자실 전담전문의, 부캐는 프로복싱 선수인 서려경 순천향대 천안병원 소아청소년과 교수(31)의 일상이다.서 교수는 최근 서울에서 열린 ‘KBM 한국 여성 라이트플라이급 타이틀매치’에서 임찬미 선수를 8라운드 38초 만에 TKO(주심의 승패 선언)로 꺾고 챔피언 벨트를 따냈다. 2020년 프로 데뷔 후 지금까지 통산 전적 7전6승...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/27/news-p.v1.20230725.00e4ea7db9674d7c8b22e1facdbdaab9_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“성교육·성평등 어린이책 빼라” 도넘은 ‘도서검열’ 민원]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202307261510001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 20 Jul 2023 08:13:46 GMT</pubDate>
             <content:encoded><![CDATA[이 정도면 ‘갑툭튀’다. 어느 별에서 왔는지 묻고 싶을 정도다.연예인들이 이국적 풍경을 자랑하는 외국에 간다. 먹음직스러운 음식을 눈앞에 두고 게임을 한다. 게임을 잘하거나 못하는 모습에서 웃음이 터진다. 사실 ‘그저 그럴 수 있는 밋밋한’ 포맷인 &lt;뿅뿅 지구오락실 2&gt;는 지난달 한국갤럽의 ‘좋아하는 방송영상 프로그램’ 조사에서 1위를 차지했다. 이 조사를 시작한 2013년 이후 여성 예능 프로그램으로는 처음으로 1위를 차지한 것.흔한 형태의 프로그램이...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/20/news-p.v1.20230720.fa913b47b5ff461a8e725968da9f4b89_P1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘인하대 성폭행 추락사’ 가해자 2심도 징역 20년]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202307201451001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202307201451001</guid>
-            <pubDate>Thu, 20 Jul 2023 06:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[인하대학교에서 여학생을 성폭행하려다 창밖으로 떨어져 숨지게 한 가해자가 2심에서도 징역 20년을 선고받았다.서울고법 형사10부(재판장 남성민)는 성폭력범죄처벌법상 강간살인 혐의로 기소된 A씨(21)에 대해 준강간치사 혐의를 유죄로 판단하고 1심과 같이 징역 20년을 선고했다.A씨는 지난해 7월15일 오전 1시쯤 인천 미추홀구 인하대 캠퍼스 내 한 단과대학 건물에서 술에 취해 의식을 잃은 동급 여학생 B씨를 성폭행하려다 창밖으로 떨어뜨려 숨지게 한 혐의로 기소됐다. ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/20/news-p.v1.20230720.46429ebaacde49de99d78286125c1404_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
