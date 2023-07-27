@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 05:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 06:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북한이 여성에게 부여한 책무 “전통적인 성역할+공적노동” (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202307271511001</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202307271511001</guid>
+            <pubDate>Thu, 27 Jul 2023 06:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[“아이들을 낳아 키우고 남편들을 내세우는 것을 미덕으로 여기는 우리 소박한 녀인들에게 있어서 행복은 가정과 남편과 아이들을 떠나서 론할 수 없다”. 북한 소설가 김홍균의 &lt;행복한 사람들&gt;의 한 대목이다.이지순(통일연구원 연구위원)은 ‘전통적 가족관계와 수평적 젠더의 공진화: 북한 소설을 중심으로’에서 이 작품을 분석하며 다음과 같이 정리했다.“법과 제도는 가정과 사회에서 남녀평등 보장, 그러나 일상에서는 정형화된 성역할 유지”, “사회적 노동과 사...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/27/news-p.v1.20230727.631ac1faa9f9444da09db2fa352e66fd_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘현역 의사 주먹 서열 1위’ 서려경 교수 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202307271010001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 21 Jul 2023 02:08:43 GMT</pubDate>
             <content:encoded><![CDATA[2022년 합계출산율 0.59명을 기록한 서울에서 이르면 하반기부터 외국인 가사 인력 제도가 시범 도입된다. 육아 부담을 낮춰 최악의 초저출생 현상을 극복해보려는 취지다. 하지만 전문가들은 ‘가격’에 초점을 맞춘 돌봄 정책을 경계했다. 부모의 노동시간을 줄이는 방식이 함께 논의되지 않는 제도는 실효성을 담보할 수 없다고 지적했다.서울시는 19일 오전 서울시청 대회의실에서 ‘외국인 가사(육아) 인력 도입 전문가 토론회’를 열고 해외 사례와 예상되는 우려 등을 논...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/21/news-p.v1.20230720.e6eae83809e646da951109588d513eb4_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허술하고 엉뚱한데 똑똑한 … 빛나는 ‘예능 치트키’ 미미 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202307201615001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202307201615001</guid>
-            <pubDate>Thu, 20 Jul 2023 08:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[이 정도면 ‘갑툭튀’다. 어느 별에서 왔는지 묻고 싶을 정도다.연예인들이 이국적 풍경을 자랑하는 외국에 간다. 먹음직스러운 음식을 눈앞에 두고 게임을 한다. 게임을 잘하거나 못하는 모습에서 웃음이 터진다. 사실 ‘그저 그럴 수 있는 밋밋한’ 포맷인 &lt;뿅뿅 지구오락실 2&gt;는 지난달 한국갤럽의 ‘좋아하는 방송영상 프로그램’ 조사에서 1위를 차지했다. 이 조사를 시작한 2013년 이후 여성 예능 프로그램으로는 처음으로 1위를 차지한 것.흔한 형태의 프로그램이...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/20/news-p.v1.20230720.fa913b47b5ff461a8e725968da9f4b89_P1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[북한이 여성에게 부여한 책무 “전통적인 성역할+공적노동” (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202307271511001</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202307271511001</guid>
+            <pubDate>Thu, 27 Jul 2023 06:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[“아이들을 낳아 키우고 남편들을 내세우는 것을 미덕으로 여기는 우리 소박한 녀인들에게 있어서 행복은 가정과 남편과 아이들을 떠나서 론할 수 없다”. 북한 소설가 김홍균의 &lt;행복한 사람들&gt;의 한 대목이다.이지순(통일연구원 연구위원)은 ‘전통적 가족관계와 수평적 젠더의 공진화: 북한 소설을 중심으로’에서 이 작품을 분석하며 다음과 같이 정리했다.“법과 제도는 가정과 사회에서 남녀평등 보장, 그러나 일상에서는 정형화된 성역할 유지”, “사회적 노동과 사...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/27/news-p.v1.20230727.631ac1faa9f9444da09db2fa352e66fd_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘현역 의사 주먹 서열 1위’ 서려경 교수[플랫] (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202307271010001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202307271010001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Jul 2023 02:08:43 GMT</pubDate>
             <content:encoded><![CDATA[2022년 합계출산율 0.59명을 기록한 서울에서 이르면 하반기부터 외국인 가사 인력 제도가 시범 도입된다. 육아 부담을 낮춰 최악의 초저출생 현상을 극복해보려는 취지다. 하지만 전문가들은 ‘가격’에 초점을 맞춘 돌봄 정책을 경계했다. 부모의 노동시간을 줄이는 방식이 함께 논의되지 않는 제도는 실효성을 담보할 수 없다고 지적했다.서울시는 19일 오전 서울시청 대회의실에서 ‘외국인 가사(육아) 인력 도입 전문가 토론회’를 열고 해외 사례와 예상되는 우려 등을 논...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/21/news-p.v1.20230720.e6eae83809e646da951109588d513eb4_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허술하고 엉뚱한데 똑똑한 … 빛나는 ‘예능 치트키’ 미미 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202307201615001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202307201615001</guid>
-            <pubDate>Thu, 20 Jul 2023 08:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[이 정도면 ‘갑툭튀’다. 어느 별에서 왔는지 묻고 싶을 정도다.연예인들이 이국적 풍경을 자랑하는 외국에 간다. 먹음직스러운 음식을 눈앞에 두고 게임을 한다. 게임을 잘하거나 못하는 모습에서 웃음이 터진다. 사실 ‘그저 그럴 수 있는 밋밋한’ 포맷인 &lt;뿅뿅 지구오락실 2&gt;는 지난달 한국갤럽의 ‘좋아하는 방송영상 프로그램’ 조사에서 1위를 차지했다. 이 조사를 시작한 2013년 이후 여성 예능 프로그램으로는 처음으로 1위를 차지한 것.흔한 형태의 프로그램이...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/20/news-p.v1.20230720.fa913b47b5ff461a8e725968da9f4b89_P1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[우리, 오늘 오전 11시에 만나요 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
