@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 00:54:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 02:02:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“여가부 폐지”한다고 떠벌리더니, UN엔 “사실과 달라”]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202307281010001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202307281010001</guid>
+            <pubDate>Fri, 28 Jul 2023 02:01:12 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 UN에 보낸 답변서에서 “정부조직 개편안이 여성가족부 폐지를 위한 것이라는 주장은 사실과 다르다”고 해명한 것으로 파악됐다. 시민사회는 “정부의 답변은 여가부 폐지의 본질을 호도하는 황당한 거짓말”이라고 비판했다.정부는 지난해 10월 여성가족부의 업무를 보건복지부 산하로 이관하는 정부조직 개편안을 내놨다. 이에 림 알살렘 UN 여성폭력특별보고관과 여성차별실무그룹은 지난 5월22일 한국 정부에 공개서한을 보내 우려를 표했다. 그러자 정부가 “정부조직...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/28/news-p.v1.20230727.fb3cfd2142b34d7498d0836e11813ce3_P1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[북한이 여성에게 부여한 책무 “전통적인 성역할+공적노동”]]></title>
             <link>https://www.khan.co.kr/culture/book/article/202307271511001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 21 Jul 2023 08:14:04 GMT</pubDate>
             <content:encoded><![CDATA[인스타그램 애플리케이션(앱)을 열어 ‘#인생샷’을 검색해보자. 무려 240만개의 게시물이 나온다. 아름다운 얼굴과 몸매, 세련된 패션, 빼어난 경치가 ‘삼위일체’된 사진들이다. 주로 20대로 보이는 젊은 여성들이 주인공이다. 인생샷을 그저 잘 나온 ‘셀카’ 정도로 치면 서운하다. 철저히 계획적이며 노동집약적인 과정을 거쳐 완성되기 때문이다. 인생샷을 찍기 위해 예쁜 카페나 멋진 장소를 사전 ‘온라인 답사’하고, 배경에 어울리는 옷을 세심하게 고른다. 무엇보다 자...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/21/news-p.v1.20230721.242808ab5dcb4f1fb2d7f57bcd06c5af_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘외국인 가사 인력’ 도입…실효성 가지려면 ‘근로시간 단축’ 병행돼야]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202307211019001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202307211019001</guid>
-            <pubDate>Fri, 21 Jul 2023 02:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 합계출산율 0.59명을 기록한 서울에서 이르면 하반기부터 외국인 가사 인력 제도가 시범 도입된다. 육아 부담을 낮춰 최악의 초저출생 현상을 극복해보려는 취지다. 하지만 전문가들은 ‘가격’에 초점을 맞춘 돌봄 정책을 경계했다. 부모의 노동시간을 줄이는 방식이 함께 논의되지 않는 제도는 실효성을 담보할 수 없다고 지적했다.서울시는 19일 오전 서울시청 대회의실에서 ‘외국인 가사(육아) 인력 도입 전문가 토론회’를 열고 해외 사례와 예상되는 우려 등을 논...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/21/news-p.v1.20230720.e6eae83809e646da951109588d513eb4_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
