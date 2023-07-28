@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 12:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 13:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[왜 ‘비동의 강간죄’ 도입을 두려워하는가?]]></title>
+            <link>https://ildaro.com/9685</link>
+            <guid>https://ildaro.com/9685</guid>
+            <pubDate>Fri, 28 Jul 2023 13:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[폭행·협박이 없는 성폭력의 경우는 ‘아는 관계’가 비중이 높았는데(64.3%), 채팅상대자, 동급생·선후배, 단순대면인, 직장관계자, (전·현)애인 순이었다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023072811171711.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미투 운동이 가져온 것 ‘작은 승리를 기억하라’]]></title>
             <link>https://ildaro.com/9684</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 23 Jul 2023 15:12:07 GMT</pubDate>
             <content:encoded><![CDATA[‘결혼하면 자녀를 가져야 한다’는 견해에 대한 동의율도 꾸준히 감소 추세다. 반대로 ‘결혼하지 않고도 자녀를 가질 수 있다’는 견해에 대한 동의율은 꾸준히 상...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023070458087887.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소년은 야망을 가지고 소녀는 뭘 가질까요?]]></title>
-            <link>https://ildaro.com/9664</link>
-            <guid>https://ildaro.com/9664</guid>
-            <pubDate>Sun, 23 Jul 2023 15:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[보이즈 비 앰비셔스. 소년에게 야망을 심어주고, 남자들을 거칠게 찍어낼 동안 소녀들은 어떻게 그려졌는가....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023070212251915.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
