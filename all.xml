@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jul 2023 12:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jul 2023 13:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/dfd830d2-6456-4906-b26c-be0819a43459.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘젠더된 도리’로 내 삶을 펼쳐 보인다! (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9686</link>
+            <guid>https://ildaro.com/9686</guid>
+            <pubDate>Sat, 29 Jul 2023 13:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[(트랜스)젠더 언니들 만났을 때. 들을 수 있는 언피씨한(정치적으로 올바르지 않은) 이야기들(웃음). 자신의 치부라고 할 수 있는, 상처가 될 수 있는 지점들을 잘 이용...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023072905234821.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[왜 ‘비동의 강간죄’ 도입을 두려워하는가? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9685</link>
             <guid>https://ildaro.com/9685</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 23 Jul 2023 15:12:07 GMT</pubDate>
             <content:encoded><![CDATA[가족주의에 기반을 둔 사회의 결과는 현재 어떠한가? 노인빈곤율 OECD 국가 중 1위, OECD 평균 자살율보다 2배 이상 자살율 높은 나라, 저출생 세계 1위다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/202307053946724.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임신과 출산을 선택할 권리가 비혼 여성에게도 있다! (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9665</link>
-            <guid>https://ildaro.com/9665</guid>
-            <pubDate>Sun, 23 Jul 2023 15:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[‘결혼하면 자녀를 가져야 한다’는 견해에 대한 동의율도 꾸준히 감소 추세다. 반대로 ‘결혼하지 않고도 자녀를 가질 수 있다’는 견해에 대한 동의율은 꾸준히 상...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023070458087887.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
