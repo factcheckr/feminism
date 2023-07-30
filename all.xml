@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jul 2023 13:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 14:10:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/dfd830d2-6456-4906-b26c-be0819a43459.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Turning Twenty and Joining a Labor Union for Part-Timers (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9687</link>
+            <guid>https://ildaro.com/9687</guid>
+            <pubDate>Sun, 30 Jul 2023 14:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[My mom was a big influence on my decision to work in the labor union. She started working when I was in my first year of middle school....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023073027206334.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘젠더된 도리’로 내 삶을 펼쳐 보인다! (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9686</link>
             <guid>https://ildaro.com/9686</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 23 Jul 2023 15:12:07 GMT</pubDate>
             <content:encoded><![CDATA[Most of us had ideas that were still a bit too unorganized to become academic papers, but that were clearly too good to waste as a few lines of complaining in a social media post....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023070622141579.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족끼리 알아서 생존하라고 하는 사회가 진짜 ‘위기’다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9666</link>
-            <guid>https://ildaro.com/9666</guid>
-            <pubDate>Sun, 23 Jul 2023 15:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[가족주의에 기반을 둔 사회의 결과는 현재 어떠한가? 노인빈곤율 OECD 국가 중 1위, OECD 평균 자살율보다 2배 이상 자살율 높은 나라, 저출생 세계 1위다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/202307053946724.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
