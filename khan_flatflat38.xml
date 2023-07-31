@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 05:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 06:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“패션디자이너가 돼야겠다”는 결심, 분단 아픔 속 피어난 꿈]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202307311512001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202307311512001</guid>
+            <pubDate>Mon, 31 Jul 2023 06:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[“분단의 고통은 할아버지가 참전하셨던 6·25전쟁에서 끝나지 않고 북한이탈주민에게도 이산가족의 아픔으로 이어지고 있어요. 가족과 만나지 못하는 새로운 이산가족 청년들이 계속 생기고 있다는 것은 너무 큰 비극이라고 생각합니다.”패션디자이너 권봄씨(29)는 정전협정 후에도 고향으로 오지 못하고 북한에서 세상을 떠난 국군포로의 손녀다.지난 21일 서울 중구 경향신문사에서 만난 권씨의 겉모습은 영락없는 MZ세대였지만, 또래 친구들에 비해 통일이나 분단에 대한 생각이...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/31/news-p.v1.20230728.c3a74608ec504ad7aaa870697e995e51_P1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[“아프다” 말 못하는 콜센터 노동자]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202307311009001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 25 Jul 2023 02:43:38 GMT</pubDate>
             <content:encoded><![CDATA[이란 당국이 히잡 착용 거부 운동을 펼치다가 수감된 여성의 알몸을 수색하고 촬영까지 했다는 폭로가 20일(현지시간) 나왔다. 여성들의 히잡 착용 여부를 단속하는 도덕경찰이 다시 거리에 투입되는 등 신정국가 이란의 폭정이 여전하다는 지적이 나온다.이란 대표 여성 인권운동가인 모즈간 케샤바르즈는 이날 영국 BBC와의 인터뷰에서 지난해 1월 악명 높은 수도 테헤란 에빈교도소에서 겪은 고초를 털어놨다.그는 “감옥에 있는 동안 보안 카메라 앞에서 3차례 알몸 수색...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/25/news-p.v1.20230725.329ed163f6554b3e86b3145152ff9587_P1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[성별·나이 권력에 무너지는 ‘2030 여성교사 노동권’]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202307241530001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202307241530001</guid>
-            <pubDate>Mon, 24 Jul 2023 07:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[“선생님 결혼 안 하셨죠” “애는 키워봤어요?” “젊어서 뭘 모르는 것 같은데…”2030 초등학교 여성교사들은 ‘교사’로서 일하기 이전에 성별·나이를 앞세운 부당함을 견뎌내야 한다고 토로한다. 학부모 민원 제기만이 아니다. 학교내 관리자들까지 곳곳이 ‘지뢰밭’이다. 부당한 민원제기나 불합리한 지시들은 교사 개인의 몫으로 떠넘겨진다.올해 6년 차 초등교사 박미진씨(29·가명)는 24일 경향신문과의 통화에서 최근 서울 서초구의 초등학교에서 발생한 교사 사망 사건이...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/24/news-p.v1.20230721.d17b5cf5c9cc4a918e8ff2f27e65c0a4_P1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
