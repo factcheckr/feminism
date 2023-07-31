@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 22:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 23:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여자는 '성' 얘기하면 왜 안돼?]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1376</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1376</guid>
+            <pubDate>Mon, 31 Jul 2023 23:11:36 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 특별히 독자 피드백함에 접수된 요청을 소개하고 그에 관한 기사를 소개하는 식으로 뉴스레터를 구성해 봤습니다. 뉴스레터 하단으로 이동하시면, 허스펙티브에 의견을 보낼 수 있다는 거 알고 계시죠? 얼마 전에 허스펙티브에 이러한 의견이 들어왔어요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/78d84b00-3603-4f92-a533-a6ee452d3ace.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리, 오늘 오전 11시에 만나요]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1369</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 15 May 2023 23:11:35 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 두 가지 최신 이슈를 가지고 와봤어요. 바로 '제사'와 '군대'입니다. 두 글자를 보자마자 '헉!'하고 숨이 막히시진 않으신가요. 두 가지 모두 한국 사회의 남성 중심적 가부장제를 강화하고 혹은 재생산하는 기제로 사용되는 관습이죠. 가족과 징병은 성평등을 논의할 때 결코 빠질 수 없는 주제일 겁니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/b3b8df59-d074-43ee-a43f-ba0a89500d70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["족쇄같은 가족, 떠나도 될까요?"]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1271</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1271</guid>
-            <pubDate>Mon, 08 May 2023 23:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 한국일보의 상담 콘텐츠에 접수된 한 사연으로 뉴스레터를 채워보려고 해요. 원가족으로부터 큰 고초를 겪고 계신 이 분의 고민에 이입하지 않을 수 없었고, 매주 사려 깊은 상담을 해주는 정우열 정신건강의학과 전문의의 답변이 제게도 큰 위로가 되었기 때문에 나누고 싶었어요. 뉴스레터 본문에는 사연자의 '이야기'만 담습니다. 이 사연을 두고 정 원장은 어떤 대답을 했을지 섬네일을 눌러 기사를 통해 확인하세요!]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/dfd830d2-6456-4906-b26c-be0819a43459.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
