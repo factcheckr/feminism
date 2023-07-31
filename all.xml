@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 11:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 12:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/dfd830d2-6456-4906-b26c-be0819a43459.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[장애여성의 ‘동의 여부’를 묻지 않는 사회 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9688</link>
+            <guid>https://ildaro.com/9688</guid>
+            <pubDate>Mon, 31 Jul 2023 12:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[왜 장애여성 성폭력 사건의 유무죄 판단 근거가 피해자의 ‘장애’가 되어야 하는가? 왜 장애여성의 일상생활 능력이 성적 자기결정권 행사 능력으로 협소하게 해석되...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023073118402695.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Turning Twenty and Joining a Labor Union for Part-Timers (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9687</link>
             <guid>https://ildaro.com/9687</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 23 Jul 2023 15:12:07 GMT</pubDate>
             <content:encoded><![CDATA[‘영케어러’에 대한 법적 정의는 없지만, 일반적으로는 어른이 책임져야 할 가사노동이나 가족 돌봄, 감정적인 서포트 등을 수행하는 18세 미만을 이른다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023070727079316.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[When ‘Megalia’ Feminists Encountered Gender Studies (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9667</link>
-            <guid>https://ildaro.com/9667</guid>
-            <pubDate>Sun, 23 Jul 2023 15:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[Most of us had ideas that were still a bit too unorganized to become academic papers, but that were clearly too good to waste as a few lines of complaining in a social media post....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023070622141579.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
