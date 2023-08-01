@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 23:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 01:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[딸이 떠안은 ‘독박’ 돌봄기 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202308011010001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202308011010001</guid>
+            <pubDate>Tue, 01 Aug 2023 01:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[올해 초 독립선언을 했다. 정확히는 더 이상 어머니를 모시지 않겠다는 선언이었다. 어머니를 부양한 지난 9년 동안 내가 어떻게 버텼는지 뻔히 아는 동생들은 군말이 없었다. 나의 대안은 4남매가 더 확실히 돌봄을 분담하고 책임지는 것이었다. 돌아가면서 한 달씩 어머니 모시고 살기. 그리고 병원케어는 신경외과, 정신과, 심장내과, 척추센터 등으로 나누어 담당하기. 이것에도 동생들은 이견이 없었다.작년 초에도 나는 “돌봄을 하는 자도 돌봄이 필요하다”며 한 달에...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/01/news-p.v1.20230727.1918a17ee1044c00bbe52e8c3c0482f1_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“패션디자이너가 돼야겠다”는 결심, 분단 아픔 속 피어난 꿈 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202307311512001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202307311512001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 25 Jul 2023 07:10:49 GMT</pubDate>
             <content:encoded><![CDATA[올해로 64세. 1959년 3월9일 미국 장난감 박람회에 처음 등장한 바비 인형의 나이다. 마텔사가 출시한 바비는 검은색과 흰색이 교차된 줄무늬 수영복을 입고, 굽 높은 샌들과 나비모양 선글라스를 착용한 채 나타났다. 팔다리가 통통한 3등신 아기 인형이 여아들의 옆자리를 꿰차고 있던 때, 갑자기 등장한 8등신 ‘글래머’ 인형이 완구시장을 휩쓸었다.이후 다양한 직업의 바비 인형이 출시됐다. 패션 모델, 교사, 트럭운전사, 의사, 가수, 우주비행사, 대통령, 하키선수, ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/25/news-p.v1.20230725.5808725901634c77ad57658cc2303b76_P1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[“이란 히잡 착용거부로 수감된 여성들, 교도관이 알몸 수색·찰영도” (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202307251010001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202307251010001</guid>
-            <pubDate>Tue, 25 Jul 2023 02:43:38 GMT</pubDate>
-            <content:encoded><![CDATA[이란 당국이 히잡 착용 거부 운동을 펼치다가 수감된 여성의 알몸을 수색하고 촬영까지 했다는 폭로가 20일(현지시간) 나왔다. 여성들의 히잡 착용 여부를 단속하는 도덕경찰이 다시 거리에 투입되는 등 신정국가 이란의 폭정이 여전하다는 지적이 나온다.이란 대표 여성 인권운동가인 모즈간 케샤바르즈는 이날 영국 BBC와의 인터뷰에서 지난해 1월 악명 높은 수도 테헤란 에빈교도소에서 겪은 고초를 털어놨다.그는 “감옥에 있는 동안 보안 카메라 앞에서 3차례 알몸 수색...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/25/news-p.v1.20230725.329ed163f6554b3e86b3145152ff9587_P1.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[여자는 '성' 얘기하면 왜 안돼? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
