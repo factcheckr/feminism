@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 05:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 06:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노동시간·돌봄 공공성 외면, ‘외국인 가사도우미’에 목매는 정부]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202308011510001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202308011510001</guid>
+            <pubDate>Tue, 01 Aug 2023 06:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[“…이와 같이, 가사노동 분야 외국인력 활용 요구는 계속 커지고 있습니다.”31일 오전 서울 중구 로얄호텔에서 시민·전문가 90여명이 참석한 가운데 열린 ‘외국인 가사노동자 시범사업 계획안 공청회’. 발제자로 나선 이상임 고용노동부 외국인력담당관이 올해 외국인 가사노동자 100여명을 도입하는 시범사업 계획을 설명하자, 15명의 노동·여성단체 활동가들이 조용히 종이로 만든 손팻말을 들었다. 이들은 ‘노예제 도입 중단’이라는 문구가 한 글자씩 적힌 손팻말을 나눠...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/01/news-p.v1.20230731.46e849438dd04075a85e57fc584878d0_P1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[딸이 떠안은 ‘독박’ 돌봄기]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202308011010001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 26 Jul 2023 02:10:24 GMT</pubDate>
             <content:encoded><![CDATA[얼마 전부터 엄지발가락 주변에 찌릿한 통증이 간혹 있었다. 병원에 갔더니 무지외반증이라는 진단이 나왔다. 의사 선생님은 증상이 심하지 않으니 당장 수술이나 약처방은 필요 없다며 일상생활에서 주의할 점을 자세히 안내했는데 슬프게도 콕 집어 축구를 말리셨다. 꼭 맞는 신발, 많이 걷고 뛰는 것, 엄지발가락에 무리가 가는 급격한 방향전환 등 의사 선생님이 하지 말라는 모든 것이 축구에 포함되어 있었다. 당장 그날 저녁에도 연습모임을 잡아두었는데 이런 청천벽...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/26/news-p.v1.20230725.10f7330b7f9241ccb0b6159a742fecbb_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“가부장제에 부딪치지 않게 조심하세요”···‘핑크 코미디’ 바비]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202307251510001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202307251510001</guid>
-            <pubDate>Tue, 25 Jul 2023 07:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[올해로 64세. 1959년 3월9일 미국 장난감 박람회에 처음 등장한 바비 인형의 나이다. 마텔사가 출시한 바비는 검은색과 흰색이 교차된 줄무늬 수영복을 입고, 굽 높은 샌들과 나비모양 선글라스를 착용한 채 나타났다. 팔다리가 통통한 3등신 아기 인형이 여아들의 옆자리를 꿰차고 있던 때, 갑자기 등장한 8등신 ‘글래머’ 인형이 완구시장을 휩쓸었다.이후 다양한 직업의 바비 인형이 출시됐다. 패션 모델, 교사, 트럭운전사, 의사, 가수, 우주비행사, 대통령, 하키선수, ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/25/news-p.v1.20230725.5808725901634c77ad57658cc2303b76_P1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
