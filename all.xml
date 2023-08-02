@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 05:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 06:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/b3b8df59-d074-43ee-a43f-ba0a89500d70.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여성의 노동생애 들여다보기…왜 ‘복합차별’인가? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9689</link>
+            <guid>https://ildaro.com/9689</guid>
+            <pubDate>Wed, 02 Aug 2023 06:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[우리가 더 연대할 수밖에 없고, 동료 시민으로서 귀를 기울여야 하는 이유를 열어준다는 차원에서 ‘복합차별’은 의미가 있는 개념인 것 같아요...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/202308021812444.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[장애여성의 ‘동의 여부’를 묻지 않는 사회 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9688</link>
             <guid>https://ildaro.com/9688</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 23 Jul 2023 15:12:07 GMT</pubDate>
             <content:encoded><![CDATA[학교 다녔을 때 가장 힘들었던 건, ‘여기도 내 자리가 아니고 저기도 내 자리가 아닌 것 같다’는 것보다 ‘나중을 상상할 수 없다’는 거였어요...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/202307092248735.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가사, 육아, 간병, 통역, 감정노동하는 ‘영케어러’ 수면위로 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9668</link>
-            <guid>https://ildaro.com/9668</guid>
-            <pubDate>Sun, 23 Jul 2023 15:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[‘영케어러’에 대한 법적 정의는 없지만, 일반적으로는 어른이 책임져야 할 가사노동이나 가족 돌봄, 감정적인 서포트 등을 수행하는 18세 미만을 이른다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023070727079316.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
