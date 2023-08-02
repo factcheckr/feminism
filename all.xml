@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 06:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 07:11:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연기 인생 60년, 손숙이 전하는 “삶에 대한 찬가” (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202308021520001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202308021520001</guid>
+            <pubDate>Wed, 02 Aug 2023 07:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[“당신 품에 안겨서, 이렇게 당신 품에 안겨, 눈을 감고 누워서, 나는 가벼워져요. 낱낱이, 샅샅이, 당신은 내 몸 구석구석을 어루만지고 나는 내 몸을 잊어버려요. 거북의 목, 굳은 어깨, 굽은 등, 어긋난 허리, 처진 가슴, 흘러내리는 배, 늘어진 엉덩이….”배우 손숙(79)의 말은 탄식과 한숨을 닮아 있었다. 깡마른 손으로 자신의 몸 여기저기를 만졌다. 허공을 바라보며 쓸쓸히 웃기도 하고 중얼거리며 허탈하게 주저앉기도 했다. 손숙은 1일 서울 서초구 양재동 신시...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/02/news-p.v1.20230802.cca9a1c9030f4ee78d7820e6311ce6fb_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[살아있다면 이런 모습이었을까…AI로 구현한 아르헨 군부독재 희생자 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202308021029001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 27 Jul 2023 01:55:58 GMT</pubDate>
             <content:encoded><![CDATA[낮에는 병원에서 환자를 돌보고, 퇴근 후에는 링에 올라 상대 선수와 불꽃 튀는 스파링(서로의 기량을 겨루는 대련)을 한다. 본캐(캐릭터)는 신생아중환자실 전담전문의, 부캐는 프로복싱 선수인 서려경 순천향대 천안병원 소아청소년과 교수(31)의 일상이다.서 교수는 최근 서울에서 열린 ‘KBM 한국 여성 라이트플라이급 타이틀매치’에서 임찬미 선수를 8라운드 38초 만에 TKO(주심의 승패 선언)로 꺾고 챔피언 벨트를 따냈다. 2020년 프로 데뷔 후 지금까지 통산 전적 7전6승...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/27/news-p.v1.20230725.00e4ea7db9674d7c8b22e1facdbdaab9_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“성교육·성평등 어린이책 빼라” 도넘은 ‘도서검열’ 민원 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202307261510001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202307261510001</guid>
-            <pubDate>Wed, 26 Jul 2023 06:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[보수성향 학부모 단체들이 충남 일대 공공도서관에 성교육·성평등을 주제로 한 어린이책 등을 “폐기처분해 달라”는 민원을 전방위로 제기해 논란이 일고 있다. 집요한 민원제기에 몇몇 도서관은 해당 도서들을 서가에서 제외하는 조치를 취했다.충남 일대의 공공도서관들에는 지난 5월쯤부터 항의방문·전화민원 등을 통해 ‘문제 도서’들을 도서관에서 폐기해달라는 요구가 빗발쳤다고 한다.경향신문이 입수한 시민단체 ‘꿈키움성장연구소’가 충남 지역 도서관에 보낸 공문을 살...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/26/news-p.v1.20230726.14dfa4aa4dab46788f5c41b8475f87eb_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연기 인생 60년, 손숙이 전하는 “삶에 대한 찬가” (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202308021520001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202308021520001</guid>
+            <pubDate>Wed, 02 Aug 2023 07:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[“당신 품에 안겨서, 이렇게 당신 품에 안겨, 눈을 감고 누워서, 나는 가벼워져요. 낱낱이, 샅샅이, 당신은 내 몸 구석구석을 어루만지고 나는 내 몸을 잊어버려요. 거북의 목, 굳은 어깨, 굽은 등, 어긋난 허리, 처진 가슴, 흘러내리는 배, 늘어진 엉덩이….”배우 손숙(79)의 말은 탄식과 한숨을 닮아 있었다. 깡마른 손으로 자신의 몸 여기저기를 만졌다. 허공을 바라보며 쓸쓸히 웃기도 하고 중얼거리며 허탈하게 주저앉기도 했다. 손숙은 1일 서울 서초구 양재동 신시...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/02/news-p.v1.20230802.cca9a1c9030f4ee78d7820e6311ce6fb_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[살아있다면 이런 모습이었을까…AI로 구현한 아르헨 군부독재 희생자 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202308021029001</link>
             <guid>https://www.khan.co.kr/world/world-general/article/202308021029001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 27 Jul 2023 01:55:58 GMT</pubDate>
             <content:encoded><![CDATA[낮에는 병원에서 환자를 돌보고, 퇴근 후에는 링에 올라 상대 선수와 불꽃 튀는 스파링(서로의 기량을 겨루는 대련)을 한다. 본캐(캐릭터)는 신생아중환자실 전담전문의, 부캐는 프로복싱 선수인 서려경 순천향대 천안병원 소아청소년과 교수(31)의 일상이다.서 교수는 최근 서울에서 열린 ‘KBM 한국 여성 라이트플라이급 타이틀매치’에서 임찬미 선수를 8라운드 38초 만에 TKO(주심의 승패 선언)로 꺾고 챔피언 벨트를 따냈다. 2020년 프로 데뷔 후 지금까지 통산 전적 7전6승...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/27/news-p.v1.20230725.00e4ea7db9674d7c8b22e1facdbdaab9_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“성교육·성평등 어린이책 빼라” 도넘은 ‘도서검열’ 민원 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202307261510001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202307261510001</guid>
-            <pubDate>Wed, 26 Jul 2023 06:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[보수성향 학부모 단체들이 충남 일대 공공도서관에 성교육·성평등을 주제로 한 어린이책 등을 “폐기처분해 달라”는 민원을 전방위로 제기해 논란이 일고 있다. 집요한 민원제기에 몇몇 도서관은 해당 도서들을 서가에서 제외하는 조치를 취했다.충남 일대의 공공도서관들에는 지난 5월쯤부터 항의방문·전화민원 등을 통해 ‘문제 도서’들을 도서관에서 폐기해달라는 요구가 빗발쳤다고 한다.경향신문이 입수한 시민단체 ‘꿈키움성장연구소’가 충남 지역 도서관에 보낸 공문을 살...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/07/26/news-p.v1.20230726.14dfa4aa4dab46788f5c41b8475f87eb_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여자는 '성' 얘기하면 왜 안돼? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
