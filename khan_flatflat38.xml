@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 00:58:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 01:59:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두 엄마 사이에서 자랄 아이에게 들려주고 싶은 말]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202308031006001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202308031006001</guid>
+            <pubDate>Thu, 03 Aug 2023 01:58:15 GMT</pubDate>
+            <content:encoded><![CDATA[혹시 혁명이라는 게 일어나고 있다면 나는 겨우 뒷줄에서 까치발을 든 사람일 것 같다. ‘이상하고 뛰어난 친구들아, 이번엔 또 뭘 해낸 거니?’ 선구자가 쳐놓은 사고와 이뤄놓은 업적을 종종대며 따라가는 동안 혁명의 끄트머리에서 내 삶도 변해간다.오랜 동지 규진의 임신 소식을 듣던 밤 나는 문득 더 강하고 웃긴 사람이 되고 싶어졌다. 규진이 이미 그런 엄마이긴 하지만 양육이 엄마들만의 책임이어서는 안 되기 때문이다. 엄마 친구로서의 나, 시민으로서의 나,...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/03/news-p.v1.20230802.3df2ebb62f794c57b1dbdecabd34cf8a_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연기 인생 60년, 손숙이 전하는 “삶에 대한 찬가”]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202308021520001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 27 Jul 2023 06:14:09 GMT</pubDate>
             <content:encoded><![CDATA[“아이들을 낳아 키우고 남편들을 내세우는 것을 미덕으로 여기는 우리 소박한 녀인들에게 있어서 행복은 가정과 남편과 아이들을 떠나서 론할 수 없다”. 북한 소설가 김홍균의 &lt;행복한 사람들&gt;의 한 대목이다.이지순(통일연구원 연구위원)은 ‘전통적 가족관계와 수평적 젠더의 공진화: 북한 소설을 중심으로’에서 이 작품을 분석하며 다음과 같이 정리했다.“법과 제도는 가정과 사회에서 남녀평등 보장, 그러나 일상에서는 정형화된 성역할 유지”, “사회적 노동과 사...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/27/news-p.v1.20230727.79a84bffa644414b97b5268aa7237045_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘현역 의사 주먹 서열 1위’ 서려경 교수]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202307271010001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202307271010001</guid>
-            <pubDate>Thu, 27 Jul 2023 01:55:58 GMT</pubDate>
-            <content:encoded><![CDATA[낮에는 병원에서 환자를 돌보고, 퇴근 후에는 링에 올라 상대 선수와 불꽃 튀는 스파링(서로의 기량을 겨루는 대련)을 한다. 본캐(캐릭터)는 신생아중환자실 전담전문의, 부캐는 프로복싱 선수인 서려경 순천향대 천안병원 소아청소년과 교수(31)의 일상이다.서 교수는 최근 서울에서 열린 ‘KBM 한국 여성 라이트플라이급 타이틀매치’에서 임찬미 선수를 8라운드 38초 만에 TKO(주심의 승패 선언)로 꺾고 챔피언 벨트를 따냈다. 2020년 프로 데뷔 후 지금까지 통산 전적 7전6승...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/27/news-p.v1.20230725.00e4ea7db9674d7c8b22e1facdbdaab9_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
