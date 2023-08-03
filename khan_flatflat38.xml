@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 05:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 06:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무단 채취당한 흑인 여성의 세포, 72년만에 보상받는다]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202308031512001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202308031512001</guid>
+            <pubDate>Thu, 03 Aug 2023 06:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[나도 모르는 새 내 신체의 일부가 실험도구가 돼 엄청난 부가가치를 창출하는데 사용됐다면 어떻게 해야 할까. 70여년 전 세포를 무단 채취당해 본인도 모르게 인류 의학사에 기여하게 된 미국 흑인 여성이 마침내 보상받을 수 있게 됐다.BBC는 1일(현지시간) 자신의 세포를 도둑 맞았던 헨리에타 렉스의 유족과 렉스의 사망 전 채취한 암세포를 배양해 전 세계 실험실에 판매한 써모피셔사이언티픽(Thermo Fisher Scientific)이 전날 합의에 도달했다고 보도했다. 이날은...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/03/news-p.v1.20230802.05d7d47fe4044a64ac7367d89875570f_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[두 엄마 사이에서 자랄 아이에게 들려주고 싶은 말]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202308031006001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 28 Jul 2023 02:00:28 GMT</pubDate>
             <content:encoded><![CDATA[정부가 UN에 보낸 답변서에서 “정부조직 개편안이 여성가족부 폐지를 위한 것이라는 주장은 사실과 다르다”고 해명한 것으로 파악됐다. 시민사회는 “정부의 답변은 여가부 폐지의 본질을 호도하는 황당한 거짓말”이라고 비판했다.정부는 지난해 10월 여성가족부의 업무를 보건복지부 산하로 이관하는 정부조직 개편안을 내놨다. 이에 림 알살렘 UN 여성폭력특별보고관과 여성차별실무그룹은 지난 5월22일 한국 정부에 공개서한을 보내 우려를 표했다. 그러자 정부가 “정부조직...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/28/news-p.v1.20230727.fb3cfd2142b34d7498d0836e11813ce3_P1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[북한이 여성에게 부여한 책무 “전통적인 성역할+공적노동”]]></title>
-            <link>https://www.khan.co.kr/culture/book/article/202307271511001</link>
-            <guid>https://www.khan.co.kr/culture/book/article/202307271511001</guid>
-            <pubDate>Thu, 27 Jul 2023 06:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[“아이들을 낳아 키우고 남편들을 내세우는 것을 미덕으로 여기는 우리 소박한 녀인들에게 있어서 행복은 가정과 남편과 아이들을 떠나서 론할 수 없다”. 북한 소설가 김홍균의 &lt;행복한 사람들&gt;의 한 대목이다.이지순(통일연구원 연구위원)은 ‘전통적 가족관계와 수평적 젠더의 공진화: 북한 소설을 중심으로’에서 이 작품을 분석하며 다음과 같이 정리했다.“법과 제도는 가정과 사회에서 남녀평등 보장, 그러나 일상에서는 정형화된 성역할 유지”, “사회적 노동과 사...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/07/27/news-p.v1.20230727.79a84bffa644414b97b5268aa7237045_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
