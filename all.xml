@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 22:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 23:11:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/01/news-p.v1.20230727.1918a17ee1044c00bbe52e8c3c0482f1_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[저출생 구원투수가 온다? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1387</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1387</guid>
+            <pubDate>Mon, 07 Aug 2023 23:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 뉴스레터는 '외국인 가사노동자' 이슈에 대해 쓴 외부필진의 강렬한 칼럼 제목으로 문을 열었습니다. 고용노동부가 연내 필리핀 등 외국 출신 노동자를 100명가량 받아들여 서울에서 '외국인 가사도우미' 사업을 시범 운영한다는 계획을 공식화했습니다. 직장에 다니며 아이를 키우는 20~40대 맞벌이 부부, 한부모, 임산부 등이 서비스 이용자가 될 예정입니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/70617d18-90a1-4f3c-8a7b-941604a5049b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여자는 '성' 얘기하면 왜 안돼? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1376</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1376</guid>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 22 May 2023 23:12:21 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 76회 칸 영화제가 열리고 있는 프랑스에서의 소식부터 시작해 봅니다. “남자들은 60대에도, 70대에도, 80대에도 밖에 나가 모험에 나서는데 왜 여자들만 집에 머물러야 하나요?” 이 멋진 언니가 또 명언을 제조했습니다. 아시아계 최초로 오스카 여우주연상을 받은 량쯔충 이야기입니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/7aba21e0-9394-4589-ab8f-948fb16cb2d3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서자차별보다 거센 남녀차별을 끊다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1278</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1278</guid>
-            <pubDate>Mon, 15 May 2023 23:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 두 가지 최신 이슈를 가지고 와봤어요. 바로 '제사'와 '군대'입니다. 두 글자를 보자마자 '헉!'하고 숨이 막히시진 않으신가요. 두 가지 모두 한국 사회의 남성 중심적 가부장제를 강화하고 혹은 재생산하는 기제로 사용되는 관습이죠. 가족과 징병은 성평등을 논의할 때 결코 빠질 수 없는 주제일 겁니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/b3b8df59-d074-43ee-a43f-ba0a89500d70.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가족 ‘밖’에서 울타리를 만드는 사람들의 도전 (일다 ─ 전체기사)]]></title>
