@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 04:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 05:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/7aba21e0-9394-4589-ab8f-948fb16cb2d3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[People Ask Me When I Will Get Married (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9693</link>
+            <guid>https://ildaro.com/9693</guid>
+            <pubDate>Tue, 08 Aug 2023 05:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[I had never thought I would or could marry and just always thought marriage had nothing to do with me. My boyfriend is a man who identifies as bisexual, but all of his past lovers were men...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023080827499802.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가족 ‘밖’에서 울타리를 만드는 사람들의 도전 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9692</link>
             <guid>https://ildaro.com/9692</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 23 Jul 2023 15:12:07 GMT</pubDate>
             <content:encoded><![CDATA[성매매 여성은 성매매 과정에서 무엇에 동의하고, 무엇에 동의하지 않았는가? 무엇보다 성매매 구조 안에서 무엇에 동의‘할’ 수 있고, 무엇에 동의‘할’ 수 없는가...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023071420565258.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시도: 요양시설과 집의 이분법을 질문하기 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9672</link>
-            <guid>https://ildaro.com/9672</guid>
-            <pubDate>Sun, 23 Jul 2023 15:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[“사생활이요. 독방이면 제일 좋겠지만, 그게 안 되면 하다못해 칸막이해서라도 사적 공간이 보장되면 좋겠어요.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023071336282418.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
