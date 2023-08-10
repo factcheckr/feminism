@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 06:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 07:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이주여성 대상으로 발생하는 성폭력의 특징들]]></title>
+            <link>https://ildaro.com/9696</link>
+            <guid>https://ildaro.com/9696</guid>
+            <pubDate>Thu, 10 Aug 2023 07:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[사돈으로부터 피해를 당하고도 말이 통하지 않는 상황 속에 도움을 요청할 곳이 없어 다시 자리에 돌아와 ‘웃을 수밖에 없었던’ 피해자(친정엄마)의 사정...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023081005044977.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여자-남자, 동성애자-이성애자의 우정에 대한 편견을 부수다!]]></title>
             <link>https://ildaro.com/9695</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 17 Jul 2023 09:11:00 GMT</pubDate>
             <content:encoded><![CDATA[프리랜서 고용이 많은 문화예술계 특성상, 자신이 어느 권력/위계 구조에 속해 있는지 자각하기 어려운 현실에 주목했다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023071718277305.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Regaining Hope While Campaigning Alone]]></title>
-            <link>https://ildaro.com/9675</link>
-            <guid>https://ildaro.com/9675</guid>
-            <pubDate>Sun, 16 Jul 2023 11:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[When I was in middle school, I received a scholarship given by the thermal power plant, and I called this ‘life pay.’...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023071605395508.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

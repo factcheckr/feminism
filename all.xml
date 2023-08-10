@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 06:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 07:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[치유와 공감의 과정…‘제 몫’을 쓰는 여성들 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202308101511001</link>
             <guid>https://www.khan.co.kr/culture/culture-general/article/202308101511001</guid>
-            <pubDate>Thu, 10 Aug 2023 06:14:36 GMT</pubDate>
+            <pubDate>Thu, 10 Aug 2023 06:13:53 GMT</pubDate>
             <content:encoded><![CDATA[“당신은 그런 글을 쓰고 싶었다. 한번 읽고 나면 읽기 전의 자신으로는 되돌아갈 수 없는 글을 … 언제나 마음 깊은 곳에 잠겨 있는 당신의 느낌과 생각을 언어로 변화시켜 누군가와 이어질 수 있는 글을….”최은영의 단편 ‘몫’ 중 ‘해진(당신)’이가 대학교지 선배 ‘정윤’의 글을 읽고 든 생각과 바람이다. 글 제목은 ‘A여자대학교에서의 집단 폭력, 일부 학생들의 문제인가’다. 1996년 집단 폭력(실제 사건이다)의 수위가 더 높았다. 해진과 정윤이 다니던 학교...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/10/news-p.v1.20230810.16f157b6a6f04af59a39b2e33bae746e_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/7aba21e0-9394-4589-ab8f-948fb16cb2d3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이주여성 대상으로 발생하는 성폭력의 특징들 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9696</link>
+            <guid>https://ildaro.com/9696</guid>
+            <pubDate>Thu, 10 Aug 2023 07:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[사돈으로부터 피해를 당하고도 말이 통하지 않는 상황 속에 도움을 요청할 곳이 없어 다시 자리에 돌아와 ‘웃을 수밖에 없었던’ 피해자(친정엄마)의 사정...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023081005044977.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여자-남자, 동성애자-이성애자의 우정에 대한 편견을 부수다! (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9695</link>
             <guid>https://ildaro.com/9695</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 17 Jul 2023 09:11:00 GMT</pubDate>
             <content:encoded><![CDATA[프리랜서 고용이 많은 문화예술계 특성상, 자신이 어느 권력/위계 구조에 속해 있는지 자각하기 어려운 현실에 주목했다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023071718277305.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Regaining Hope While Campaigning Alone (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9675</link>
-            <guid>https://ildaro.com/9675</guid>
-            <pubDate>Sun, 16 Jul 2023 11:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[When I was in middle school, I received a scholarship given by the thermal power plant, and I called this ‘life pay.’...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023071605395508.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
