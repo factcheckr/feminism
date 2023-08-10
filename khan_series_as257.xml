@@ -4,7 +4,7 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 07:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 08:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/08/news-p.v1.20230807.8cfd201c2e8b460796aa9bce27bf457b_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김혜수-염정아 두 배우가 의지하고 끌어주며 완성한 영화 ‘밀수’]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202308081010001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202308081010001</guid>
+            <pubDate>Thu, 10 Aug 2023 08:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[너 나 모르냐?가족처럼 지냈지만 사고로 뿔뿔이 흩어져 생사도 모른 지 3년. 고향으로 돌아온 춘자는 자신을 적대하는 진숙에게 묻는다. 열네 살 식모살이를 시작으로 어촌마을 군천에 이른 혈혈단신 춘자는 배우 김혜수가, 선장인 아버지와 함께 마을 사람들을 어우르고 이끄는 해녀 진숙은 염정아가 연기했다. 춘자의 “너 나 모르냐”는 깊은 애정, 서운함, 간절함이 담긴 말이다. 올 여름 최고 기대작 &lt;밀수&gt;는 뜨겁고 복잡다단한 관계를 가진 두 여자를 중심으...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/08/news-p.v1.20230803.15d4e94aae8440cca17790b2988275ff_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[마약 감별만 20년 국과수 여성 연구관, “나는 정교한 과학 부품”]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202308071456011</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202308071456011</guid>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 04 Aug 2023 02:00:12 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 기술로 사람과 흡사하게 생긴 캐릭터를 손쉽게 만들 수 있게 되자 AI를 이용한 아동·청소년 성착취물이 늘고 있다. 최근에는 ‘이미지 생성 AI’를 이용해 아동 성착취물을 제작·소지했다 기소된 첫 사례가 나왔다.2일 유튜브에 ‘AI 룩북’ ‘스쿨룩’ 등 단어를 입력해 검색한 결과, 교복을 입은 채로 과도한 신체 노출을 하고 있는 캐릭터가 나오는 영상이 10건 이상 검색됐다. 이 영상은 모두 성인인증 등 절차 없이 누구나 시청할 수 있게 돼 있다...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/04/news-p.v1.20230803.84efbdb0e86d4838a1741d3085db5c83_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무단 채취당한 흑인 여성의 세포, 72년 만에 보상받는다]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202308031512001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202308031512001</guid>
-            <pubDate>Thu, 03 Aug 2023 06:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[나도 모르는 새 내 신체의 일부가 실험도구가 돼 엄청난 부가가치를 창출하는데 사용됐다면 어떻게 해야 할까. 70여년 전 세포를 무단 채취당해 본인도 모르게 인류 의학사에 기여하게 된 미국 흑인 여성이 마침내 보상받을 수 있게 됐다.BBC는 1일(현지시간) 자신의 세포를 도둑 맞았던 헨리에타 렉스의 유족과 렉스의 사망 전 채취한 암세포를 배양해 전 세계 실험실에 판매한 써모피셔사이언티픽(Thermo Fisher Scientific)이 전날 합의에 도달했다고 보도했다. 이날은...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/03/news-p.v1.20230802.05d7d47fe4044a64ac7367d89875570f_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
