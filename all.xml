@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Aug 2023 00:45:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Aug 2023 01:40:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/7aba21e0-9394-4589-ab8f-948fb16cb2d3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘극작가 여자모임.’ 지속가능한 연극을 위한 헌장 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9697</link>
+            <guid>https://ildaro.com/9697</guid>
+            <pubDate>Sat, 12 Aug 2023 10:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[헌장을 공표한 ‘극작가 여자모임.’은 ‘사후에 희곡이 남는 작가가 된다’를 목표로 2013년에 네 명의 극작가가 만든 팀이다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023081229164361.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이주여성 대상으로 발생하는 성폭력의 특징들 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9696</link>
             <guid>https://ildaro.com/9696</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 23 Jul 2023 15:12:07 GMT</pubDate>
             <content:encoded><![CDATA[“작년에 9년 동안 갖고 있던 비자가 취소되어버렸어요. 이유를 물으니 ‘외국인이라서’ 그렇대요. 외국인은 범죄자인가요?”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/202307181826377.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문학계 미투가 남긴 과제, ‘문법을 바꿔라’ (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9676</link>
-            <guid>https://ildaro.com/9676</guid>
-            <pubDate>Mon, 17 Jul 2023 09:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[프리랜서 고용이 많은 문화예술계 특성상, 자신이 어느 권력/위계 구조에 속해 있는지 자각하기 어려운 현실에 주목했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023071718277305.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
