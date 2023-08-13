@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Aug 2023 03:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Aug 2023 04:13:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“못 본 척하는 것은 가해자의 협력자가 되겠다는 선택”]]></title>
+            <link>https://ildaro.com/9698</link>
+            <guid>https://ildaro.com/9698</guid>
+            <pubDate>Sun, 13 Aug 2023 11:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[요즘엔 연습 첫날에 괴롭힘과 관련한 교육을 하는 단체가 늘어났습니다. 그렇게 하면 공연팀 안에서 괴롭힘 문제에 대해 언급하기 쉬워지고, 확산되죠....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023081300171690.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘극작가 여자모임.’ 지속가능한 연극을 위한 헌장]]></title>
             <link>https://ildaro.com/9697</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 23 Jul 2023 15:12:07 GMT</pubDate>
             <content:encoded><![CDATA[여성들과 처음 같이 글을 쓰고 책을 만들기 시작했을 때, 주변 남성들로부터 “왜 여자들끼리만 하냐”는 질문을 많이 받았다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023071939312478.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“외국인은 범죄자인가요?” 日 출입국관리법 개정 논란]]></title>
-            <link>https://ildaro.com/9677</link>
-            <guid>https://ildaro.com/9677</guid>
-            <pubDate>Sun, 23 Jul 2023 15:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[“작년에 9년 동안 갖고 있던 비자가 취소되어버렸어요. 이유를 물으니 ‘외국인이라서’ 그렇대요. 외국인은 범죄자인가요?”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/202307181826377.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
