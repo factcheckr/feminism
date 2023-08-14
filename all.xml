@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 09:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 10:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[“며느리가 남자라니!” 슬로건이 드러내는 가족제도의 차별과 배제 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202308141728001</link>
             <guid>https://www.khan.co.kr/culture/culture-general/article/202308141728001</guid>
-            <pubDate>Mon, 14 Aug 2023 09:11:17 GMT</pubDate>
+            <pubDate>Mon, 14 Aug 2023 09:10:33 GMT</pubDate>
             <content:encoded><![CDATA[며느리가 남자라니!이 구호는 유서가 깊다. 2007년 최초로 차별금지법이 발의될 때 “며느리가 남자라니!”라고 개탄하는 구호가 처음 등장했다. 2010년 김수현 작가가 쓴 드라마 &lt;인생은 아름다워&gt;에서 게이 커플이 등장하면서 한 일간지 1면엔 “며느리가 남자라니 동성애가 웬말이냐!”라는 광고가 실렸다. 지난해 국회 앞에서 차별금지법 제정을 요구하는 단식농성이 벌어지고 있을 때에도 이 구호는 어김없이 등장했다. 이번엔 ‘여자 사위’가 추가됐다. “남자가 며느...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/14/news-p.v1.20230814.0ffa2e8dfc0041859b32f0ed197ee058_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/7aba21e0-9394-4589-ab8f-948fb16cb2d3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“언니가 읽는 책을 보면 언니의 생활이 보인다” (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9699</link>
+            <guid>https://ildaro.com/9699</guid>
+            <pubDate>Mon, 14 Aug 2023 10:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[『자매의 책장』은 제목만 듣고도 마음이 동한 책이었다. 나는 책과 뗄 수 없는 관계로 살아가고, 동생은 내게 요즘 재미있는 책이 뭐냐고 가끔 물어오곤 하니까....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023081438284252.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“못 본 척하는 것은 가해자의 협력자가 되겠다는 선택” (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9698</link>
             <guid>https://ildaro.com/9698</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 21 Jul 2023 00:41:00 GMT</pubDate>
             <content:encoded><![CDATA[국가는 행정을 통해 “사랑하는 남녀가 결혼해서 그 사랑의 결실로 얻은 자녀를 사랑으로 양육한다”는 새로운 가족 정상성을 산업화 과정에서 만들어 왔다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023072150558067.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[침묵을 깬 여자들이 함께 떠나는 여행 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9678</link>
-            <guid>https://ildaro.com/9678</guid>
-            <pubDate>Sun, 23 Jul 2023 15:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[여성들과 처음 같이 글을 쓰고 책을 만들기 시작했을 때, 주변 남성들로부터 “왜 여자들끼리만 하냐”는 질문을 많이 받았다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023071939312478.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
