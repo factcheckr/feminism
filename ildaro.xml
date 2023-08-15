@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 07:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 08:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Countless Foreign Children are Growing Up in Korea]]></title>
+            <link>https://ildaro.com/9700</link>
+            <guid>https://ildaro.com/9700</guid>
+            <pubDate>Tue, 15 Aug 2023 08:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[The word “foreigner” seems harmless, but it gives us a feeling that it is someone who is very unfamiliar and distant....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023081527176616.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“언니가 읽는 책을 보면 언니의 생활이 보인다”]]></title>
             <link>https://ildaro.com/9699</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 23 Jul 2023 11:22:00 GMT</pubDate>
             <content:encoded><![CDATA[‘그런 애를 왜 만났니?’ ‘그렇게 했는데 가만히 있었니?’ ‘그런 행동이 싫은데 왜 계속 사귀었니?’...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023072325015699.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결혼은 너무 ‘문제적’인 제도라서…]]></title>
-            <link>https://ildaro.com/9679</link>
-            <guid>https://ildaro.com/9679</guid>
-            <pubDate>Fri, 21 Jul 2023 00:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[국가는 행정을 통해 “사랑하는 남녀가 결혼해서 그 사랑의 결실로 얻은 자녀를 사랑으로 양육한다”는 새로운 가족 정상성을 산업화 과정에서 만들어 왔다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023072150558067.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
