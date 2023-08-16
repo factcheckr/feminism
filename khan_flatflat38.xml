@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 00:46:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 01:42:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국 첫 여성 IOC 선수위원 나올까, ‘골프 여제’ 박은비 낙점]]></title>
+            <link>https://www.khan.co.kr/sports/sports-general/article/202308161015001</link>
+            <guid>https://www.khan.co.kr/sports/sports-general/article/202308161015001</guid>
+            <pubDate>Wed, 16 Aug 2023 01:41:17 GMT</pubDate>
+            <content:encoded><![CDATA[‘골프 여제’ 박인비(35)가 국제올림픽위원회(IOC) 선수위원 선거에 나설 한국 후보로 사실상 결정됐다.대한체육회는 14일 서울 강남구 인터컨티넨탈 코엑스에서 제2차 원로회의를 열어 내년 파리 올림픽 기간 진행될 새 IOC 선수위원 선출 투표에 출마할 국내 후보자로 박인비를 추천했다고 밝혔다.대한체육회는 “박인비가 평가위원회에서 만장일치로 가장 높은 점수를 획득했다”고 전했다. 대한체육회는 16∼17일 선수위원회의 의결 절차를 거친 뒤 박인비를 IOC 선수위...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/16/news-p.v1.20230816.ef865326aa13444c80bb98ba6cbdef01_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“며느리가 남자라니!” 슬로건이 드러내는 가족제도의 차별과 배제]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202308141728001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 08 Aug 2023 08:13:58 GMT</pubDate>
             <content:encoded><![CDATA[비혼모의 영아살해 뉴스로 떠들썩하다. 정부가 출생 미등록 영·유아 전수조사에 나섰고, 내년 출생통보제 시행에 맞춰 보호출산제를 도입해야 한다는 주장이 나온다. 한 명의 아이라도 더 살려야 한다는 선의에서 나온 움직임이다. 그런데 이런 선의가 비혼모에 대한 편견과 차별에서 비롯됐다는 점은 종종 간과된다. 오영나 한국미혼모지원네트워크 대표를 지난달 20일 그가 법무사로 일하는 서울 강남구의 사무실에서 만났다. 오 대표는 “정부가 출생통보제에 이어 보호출산제...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/08/news-p.v1.20230807.8cfd201c2e8b460796aa9bce27bf457b_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김혜수-염정아 두 배우가 의지하고 끌어주며 완성한 영화 ‘밀수’]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202308081010001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202308081010001</guid>
-            <pubDate>Thu, 10 Aug 2023 08:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[너 나 모르냐?가족처럼 지냈지만 사고로 뿔뿔이 흩어져 생사도 모른 지 3년. 고향으로 돌아온 춘자는 자신을 적대하는 진숙에게 묻는다. 열네 살 식모살이를 시작으로 어촌마을 군천에 이른 혈혈단신 춘자는 배우 김혜수가, 선장인 아버지와 함께 마을 사람들을 어우르고 이끄는 해녀 진숙은 염정아가 연기했다. 춘자의 “너 나 모르냐”는 깊은 애정, 서운함, 간절함이 담긴 말이다. 올 여름 최고 기대작 &lt;밀수&gt;는 뜨겁고 복잡다단한 관계를 가진 두 여자를 중심으...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/08/news-p.v1.20230803.15d4e94aae8440cca17790b2988275ff_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

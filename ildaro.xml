@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 00:46:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 01:42:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“끊어질듯 이어지고 사라질듯 부활”하는 여성국극]]></title>
+            <link>https://ildaro.com/9701</link>
+            <guid>https://ildaro.com/9701</guid>
+            <pubDate>Wed, 16 Aug 2023 10:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘여성국극은 음악적으로도, 무대적으로도 얼마든지 변화할 수 있는 열린 구조다’라는 걸 보여드릴 거거든요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023081621538780.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Countless Foreign Children are Growing Up in Korea]]></title>
             <link>https://ildaro.com/9700</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 14 Aug 2023 18:14:15 GMT</pubDate>
             <content:encoded><![CDATA[My peer, director Myung Soo-Hee, who directed the movie 24 (2015) and is currently raising a child, told me of her fear of career disruption....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023072429517440.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청소년들이 겪은, 동의하지 않은 성관계]]></title>
-            <link>https://ildaro.com/9680</link>
-            <guid>https://ildaro.com/9680</guid>
-            <pubDate>Sun, 23 Jul 2023 11:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘그런 애를 왜 만났니?’ ‘그렇게 했는데 가만히 있었니?’ ‘그런 행동이 싫은데 왜 계속 사귀었니?’...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023072325015699.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
