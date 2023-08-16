@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 06:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 07:12:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘딩동댕 유치원’에 자폐 아동 캐릭터 ‘별이’ 나온다]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202308161528001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202308161528001</guid>
+            <pubDate>Wed, 16 Aug 2023 07:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[국내 어린이 프로그램 최초로 EBS TV의 &lt;딩동댕 유치원&gt;에 자폐 스펙트럼 장애를 가진 캐릭터가 등장한다.EBS는 15일 “어린이 프로그램 &lt;딩동댕 유치원&gt;에서 발달장애 아동의 특성을 알고, 이해할 수 있는 장을 마련하기 위해 ‘자폐 스펙트럼 장애’를 가진 캐릭터 ‘별이’를 탄생시켰다”며 “타인에 대한 태도와 인식이 정착되는 유아·어린이 시기에 경계와 존중, 다양성이라는 가치를 보다 폭넓게 받아들일 수 있게 하는 &lt;딩동댕 유치원&gt;의 또다른 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/16/news-p.v1.20230816.ba322199d36e4644be7665e621b12785_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국 첫 여성 IOC 선수위원 나올까, ‘골프 여제’ 박은비 낙점]]></title>
             <link>https://www.khan.co.kr/sports/sports-general/article/202308161015001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 09 Aug 2023 01:59:54 GMT</pubDate>
             <content:encoded><![CDATA[남녀 간 근로소득이 연간 평균 약 2000만원의 격차를 보이는 것으로 나타났다. 남성 근로소득 대비 여성 근로소득은 60% 수준이었다.8일 국회 기획재정위원회 소속 더불어민주당 진선미 의원이 국세청으로부터 제출받은 ‘성별 근로소득 천분위 자료’에 따르면 2021년 전체 근로소득자 1995만9000명이 신고한 총급여는 803조2086억원이었다.이 중 남성 근로소득자(1112만명)의 총급여는 543조1903억원으로 전체의 67.6%를 차지했다. 여성 근로소득자(883만4000명)의 총급여는 259조9735...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/09/news-p.v1.20230808.2a86bab0b11a4def8b740dbff4095c16_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“보호출산제보다 우선되야 할 건, 위기 임신 여성을 위한 지원”]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202308081703001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202308081703001</guid>
-            <pubDate>Tue, 08 Aug 2023 08:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[비혼모의 영아살해 뉴스로 떠들썩하다. 정부가 출생 미등록 영·유아 전수조사에 나섰고, 내년 출생통보제 시행에 맞춰 보호출산제를 도입해야 한다는 주장이 나온다. 한 명의 아이라도 더 살려야 한다는 선의에서 나온 움직임이다. 그런데 이런 선의가 비혼모에 대한 편견과 차별에서 비롯됐다는 점은 종종 간과된다. 오영나 한국미혼모지원네트워크 대표를 지난달 20일 그가 법무사로 일하는 서울 강남구의 사무실에서 만났다. 오 대표는 “정부가 출생통보제에 이어 보호출산제...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/08/news-p.v1.20230807.8cfd201c2e8b460796aa9bce27bf457b_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
