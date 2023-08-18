@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 00:45:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 01:42:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부부간 성관계는 언제든 동의된 것이다? 숨겨진 범죄, 아내강간]]></title>
+            <link>https://ildaro.com/9702</link>
+            <guid>https://ildaro.com/9702</guid>
+            <pubDate>Fri, 18 Aug 2023 09:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[여성이 경험한 ‘평생 성적 폭력의 가해자’의 13.5%는 배우자이다. 범죄 통계에서 성폭력 피해자와 가해자의 관계 중 남편에 의한 성폭력 범죄를 파악할 수 있는 항목...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023081800254133.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“끊어질듯 이어지고 사라질듯 부활”하는 여성국극]]></title>
             <link>https://ildaro.com/9701</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 25 Jul 2023 11:49:00 GMT</pubDate>
             <content:encoded><![CDATA[“언젠가 바닷물이 들어오면 다시 살아날 수 있는 땅도 갯벌이라 생각한다. 갯벌이었기 때문에 갯벌이라고 불러줘야 한다. 그래야 살릴 수 있다”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023072554405590.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why do female artists have to choose between work and family?]]></title>
-            <link>https://ildaro.com/9681</link>
-            <guid>https://ildaro.com/9681</guid>
-            <pubDate>Mon, 14 Aug 2023 18:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[My peer, director Myung Soo-Hee, who directed the movie 24 (2015) and is currently raising a child, told me of her fear of career disruption....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023072429517440.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
