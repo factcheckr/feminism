@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 04:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 05:11:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/7aba21e0-9394-4589-ab8f-948fb16cb2d3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[대학은 거기 있어, 여자들은 갈 거야 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9703</link>
+            <guid>https://ildaro.com/9703</guid>
+            <pubDate>Sun, 20 Aug 2023 11:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[미투는 분명히 사람들을 바꿔놓았다. 무언가 잘못되었다고 말하는 여성은 전보다 분명히 많아졌고, 힘이 세다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023082034366961.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[부부간 성관계는 언제든 동의된 것이다? 숨겨진 범죄, 아내강간 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9702</link>
             <guid>https://ildaro.com/9702</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 14 Aug 2023 18:14:15 GMT</pubDate>
             <content:encoded><![CDATA[간토 지역의 ‘레저 스팟’으로 잘 알려진 가나가와현 사가미(相模)호. 그 생성의 근원인 사가미댐에서는 전쟁 중에 조선인, 중국인의 강제노역이 이루어졌다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023072636473115.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아름다움을 본 죄, 못 본 죄 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9682</link>
-            <guid>https://ildaro.com/9682</guid>
-            <pubDate>Tue, 25 Jul 2023 11:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[“언젠가 바닷물이 들어오면 다시 살아날 수 있는 땅도 갯벌이라 생각한다. 갯벌이었기 때문에 갯벌이라고 불러줘야 한다. 그래야 살릴 수 있다”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023072554405590.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
