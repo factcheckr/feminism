@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 22:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 23:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잼버리 파행, 여가부가 독박?]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1402</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1402</guid>
+            <pubDate>Mon, 21 Aug 2023 23:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[폭염과 운영 부실로 중단 위기에 처했고, 계속 진행되기는 했지만 행사는 파행을 거듭했습니다. 온열질환자가 대거 발생하는가 하면, 열악한 환경 탓에 고충을 겪고 있다는 사실이 알려지면서 각국 대사관에는 본국에 있는 학부모들에게서 항의가 빗발쳤습니다. 미국과 영국 등 참가자가 많은 국가들이 조기 퇴영하고, 야외 행사 대부분은 취소됐습니다.&nbsp;]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/7a9ed982-fb66-4d36-bc5a-65b3641e596a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[저출생 구원투수가 온다?]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1387</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 13 Jun 2023 04:14:08 GMT</pubDate>
             <content:encoded><![CDATA[예능 속 여성들의 몸은 '날씬하고 아름답다'라는 평을 듣기 위해 존재하지 않습니다. 상의를 훌렁훌렁 벗고 스포츠 속옷만 입은 채 도끼를 들어 장작을 패는 모습. 전완근의 잔근육을 뽐내며 적진의 벽을 기어오르는 모습. 전투가 마음같이 흘러가지 않을 때 거침없이 욕설을 내뱉고, 경쟁심에 불타오르는 모습은 미디어가 그간 왜곡해온 여성의 이미지와 무척 다릅니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/952c0151-6323-47c5-8953-86ec06c774cf.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[칸에서 만난 양자경이 한 말?]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1287</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1287</guid>
-            <pubDate>Mon, 22 May 2023 23:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 76회 칸 영화제가 열리고 있는 프랑스에서의 소식부터 시작해 봅니다. “남자들은 60대에도, 70대에도, 80대에도 밖에 나가 모험에 나서는데 왜 여자들만 집에 머물러야 하나요?” 이 멋진 언니가 또 명언을 제조했습니다. 아시아계 최초로 오스카 여우주연상을 받은 량쯔충 이야기입니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/7aba21e0-9394-4589-ab8f-948fb16cb2d3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
