@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 10:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 11:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘사이렌’ 연출에 있는 것과 없는 것]]></title>
+            <link>https://ildaro.com/9704</link>
+            <guid>https://ildaro.com/9704</guid>
+            <pubDate>Mon, 21 Aug 2023 11:10:47 GMT</pubDate>
+            <content:encoded><![CDATA[다른 세계를 욕망하며 성차별 사회와 기지전을 펼치기 위해서는 좀 더 다층적 전략이 필요하다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023082109085985.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대학은 거기 있어, 여자들은 갈 거야]]></title>
             <link>https://ildaro.com/9703</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 14 Aug 2023 18:14:15 GMT</pubDate>
             <content:encoded><![CDATA[당장 변화를 만들어내지 못함에 답답해하고 좌절할 것이 아니라, 작은 변화에 초점을 두고 그 순간을 승리의 경험으로 기억해야 한다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023072752401015.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강제노역이 깃든 댐 “탈출한 조선인 온 산을 뒤져 찾아내”]]></title>
-            <link>https://ildaro.com/9683</link>
-            <guid>https://ildaro.com/9683</guid>
-            <pubDate>Mon, 14 Aug 2023 18:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[간토 지역의 ‘레저 스팟’으로 잘 알려진 가나가와현 사가미(相模)호. 그 생성의 근원인 사가미댐에서는 전쟁 중에 조선인, 중국인의 강제노역이 이루어졌다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023072636473115.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
