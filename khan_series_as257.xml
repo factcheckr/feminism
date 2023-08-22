@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 00:45:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 01:44:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘마동석 팔뚝’이 자랑스러운, 진짜 싸우는 여자들 ‘격투기 선수’]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202308221020001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202308221020001</guid>
+            <pubDate>Tue, 22 Aug 2023 01:43:20 GMT</pubDate>
+            <content:encoded><![CDATA[“싸우고 싶었다”는 여자들이 있다. 주먹을 휘두르고 킥을 날리며 힘과 기술을 겨루는, 종합격투기 선수들이다. 싸우기 위해 몸을 단련하는 김영지(31), 허주경(19) 선수를 지난달 3일 강원 원주시 단구동 제이킥짐(이하 체육관)에서 만났다.선수들이 훈련하는 체육관은 지하에 있다. 한 층 아래로 내려가는 계단 옆 벽면을 따라 선수들의 경기사진이 줄지어 걸려 있었다. 단연 눈에 띄는 건 김 선수의 프로데뷔(2017년) 사진이었다. 일본의 요시코 선수와 벌인 경기로, 김 선수...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/22/news-p.v1.20230822.768da489796d4869940ce888e60d8b89_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[탈레반의 아프간 재집권 2년, 지워지는 ‘여성의 존재’]]></title>
             <link>https://www.khan.co.kr/world/mideast-africa/article/202308211547001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 14 Aug 2023 09:11:17 GMT</pubDate>
             <content:encoded><![CDATA[며느리가 남자라니!이 구호는 유서가 깊다. 2007년 최초로 차별금지법이 발의될 때 “며느리가 남자라니!”라고 개탄하는 구호가 처음 등장했다. 2010년 김수현 작가가 쓴 드라마 &lt;인생은 아름다워&gt;에서 게이 커플이 등장하면서 한 일간지 1면엔 “며느리가 남자라니 동성애가 웬말이냐!”라는 광고가 실렸다. 지난해 국회 앞에서 차별금지법 제정을 요구하는 단식농성이 벌어지고 있을 때에도 이 구호는 어김없이 등장했다. 이번엔 ‘여자 사위’가 추가됐다. “남자가 며느...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/14/news-p.v1.20230814.0ffa2e8dfc0041859b32f0ed197ee058_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이탈리아 대표한 페미니스트 지성, 미켈라 무르자 별세]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202308141048001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202308141048001</guid>
-            <pubDate>Mon, 14 Aug 2023 02:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[이탈리아를 대표하는 작가이자 지식인 미켈라 무르자가 10일(현지시간) 별세했다. 향년 51세.이탈리아 안사(ANSA) 통신은 무르자가 몇 달 전 신장암 4기 판정을 받고 투병 끝에 이날 로마에서 숨을 거뒀다고 전했다.1972년 이탈리아 사르데냐섬의 카브라스에서 태어난 무르자는 신학을 공부한 뒤 종교 교사로 재직했다. 이후 그는 상점 점원, 세무 직원, 야간경비 등 다양한 직업을 경험했다.무르자는 2006년 텔레마케터로 일한 경험을 바탕으로 쓴 첫 소설 &lt;세상은 알아...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/14/news-p.v1.20230814.ddd17d9332e546d9be1c0ac4090701c1_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
