@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 01:43:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 02:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[죽음으로 내모는 교육 시스템, 또 ‘땜빵’할 것인가?]]></title>
+            <link>https://ildaro.com/9705</link>
+            <guid>https://ildaro.com/9705</guid>
+            <pubDate>Wed, 23 Aug 2023 10:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[대체 지금 학교에선 무슨 일이 일어나고 있는가? 한시적 ‘땜빵’이나 주먹구구식 행정이 아니라, 변화를 만들기 위해선 무엇이 필요하며 정부는 무엇을 놓치고 있는...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023082308244094.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘사이렌’ 연출에 있는 것과 없는 것]]></title>
             <link>https://ildaro.com/9704</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 14 Aug 2023 18:14:15 GMT</pubDate>
             <content:encoded><![CDATA[폭행·협박이 없는 성폭력의 경우는 ‘아는 관계’가 비중이 높았는데(64.3%), 채팅상대자, 동급생·선후배, 단순대면인, 직장관계자, (전·현)애인 순이었다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023072811171711.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미투 운동이 가져온 것 ‘작은 승리를 기억하라’]]></title>
-            <link>https://ildaro.com/9684</link>
-            <guid>https://ildaro.com/9684</guid>
-            <pubDate>Mon, 14 Aug 2023 18:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[당장 변화를 만들어내지 못함에 답답해하고 좌절할 것이 아니라, 작은 변화에 초점을 두고 그 순간을 승리의 경험으로 기억해야 한다...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023072752401015.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

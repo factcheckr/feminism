@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 01:43:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 02:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[나이 듦을 받아들이는 마음 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202308231010001</link>
             <guid>https://www.khan.co.kr/opinion/column/article/202308231010001</guid>
-            <pubDate>Wed, 23 Aug 2023 01:42:16 GMT</pubDate>
+            <pubDate>Wed, 23 Aug 2023 01:41:32 GMT</pubDate>
             <content:encoded><![CDATA[“아이고, 많이 늙었다.” 나와 함께 사는 박모씨는 거의 모든 드라마의 첫 회, 첫 감상을 저렇게 시작한다. “당연하지, 저 배우 나이가 몇인데, 저 정도면 나이든 티도 안 나네”라는 나의 대꾸도 늘 똑같다. 지겨우리만큼 똑같이 반복되는 이 대화가 어느 날 갑자기 거슬리기 시작했다. 누가 생각해봐도 저 배우들은 온갖 의학기술과 미용기술을 이용해 본인의 노화를 철저하게 감추거나 혹은 늦추고 있는데, 오직 여성주인공만을 굳이 꼭 집어 많이 늙었다고 평하는 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/23/news-p.v1.20230822.1239eecf151644b0bf9d905cc56eb06e_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/952c0151-6323-47c5-8953-86ec06c774cf.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[죽음으로 내모는 교육 시스템, 또 ‘땜빵’할 것인가? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9705</link>
+            <guid>https://ildaro.com/9705</guid>
+            <pubDate>Wed, 23 Aug 2023 10:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[대체 지금 학교에선 무슨 일이 일어나고 있는가? 한시적 ‘땜빵’이나 주먹구구식 행정이 아니라, 변화를 만들기 위해선 무엇이 필요하며 정부는 무엇을 놓치고 있는...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023082308244094.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘사이렌’ 연출에 있는 것과 없는 것 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9704</link>
             <guid>https://ildaro.com/9704</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 14 Aug 2023 18:14:15 GMT</pubDate>
             <content:encoded><![CDATA[폭행·협박이 없는 성폭력의 경우는 ‘아는 관계’가 비중이 높았는데(64.3%), 채팅상대자, 동급생·선후배, 단순대면인, 직장관계자, (전·현)애인 순이었다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023072811171711.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미투 운동이 가져온 것 ‘작은 승리를 기억하라’ (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9684</link>
-            <guid>https://ildaro.com/9684</guid>
-            <pubDate>Mon, 14 Aug 2023 18:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[당장 변화를 만들어내지 못함에 답답해하고 좌절할 것이 아니라, 작은 변화에 초점을 두고 그 순간을 승리의 경험으로 기억해야 한다...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023072752401015.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
