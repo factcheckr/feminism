@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 00:46:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 01:43:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나이 듦을 받아들이는 마음 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202308231010001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202308231010001</guid>
+            <pubDate>Wed, 23 Aug 2023 01:41:32 GMT</pubDate>
+            <content:encoded><![CDATA[“아이고, 많이 늙었다.” 나와 함께 사는 박모씨는 거의 모든 드라마의 첫 회, 첫 감상을 저렇게 시작한다. “당연하지, 저 배우 나이가 몇인데, 저 정도면 나이든 티도 안 나네”라는 나의 대꾸도 늘 똑같다. 지겨우리만큼 똑같이 반복되는 이 대화가 어느 날 갑자기 거슬리기 시작했다. 누가 생각해봐도 저 배우들은 온갖 의학기술과 미용기술을 이용해 본인의 노화를 철저하게 감추거나 혹은 늦추고 있는데, 오직 여성주인공만을 굳이 꼭 집어 많이 늙었다고 평하는 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/23/news-p.v1.20230822.1239eecf151644b0bf9d905cc56eb06e_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“우리는 훨씬 끈질기다”···서울국제여성영화제 24일 개막 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202308221628001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Aug 2023 07:09:55 GMT</pubDate>
             <content:encoded><![CDATA[국내 어린이 프로그램 최초로 EBS TV의 &lt;딩동댕 유치원&gt;에 자폐 스펙트럼 장애를 가진 캐릭터가 등장한다.EBS는 15일 “어린이 프로그램 &lt;딩동댕 유치원&gt;에서 발달장애 아동의 특성을 알고, 이해할 수 있는 장을 마련하기 위해 ‘자폐 스펙트럼 장애’를 가진 캐릭터 ‘별이’를 탄생시켰다”며 “타인에 대한 태도와 인식이 정착되는 유아·어린이 시기에 경계와 존중, 다양성이라는 가치를 보다 폭넓게 받아들일 수 있게 하는 &lt;딩동댕 유치원&gt;의 또다른 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/16/news-p.v1.20230816.ba322199d36e4644be7665e621b12785_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 첫 여성 IOC 선수위원 나올까, ‘골프 여제’ 박은비 낙점 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/sports/sports-general/article/202308161015001</link>
-            <guid>https://www.khan.co.kr/sports/sports-general/article/202308161015001</guid>
-            <pubDate>Wed, 16 Aug 2023 01:41:17 GMT</pubDate>
-            <content:encoded><![CDATA[‘골프 여제’ 박인비(35)가 국제올림픽위원회(IOC) 선수위원 선거에 나설 한국 후보로 사실상 결정됐다.대한체육회는 14일 서울 강남구 인터컨티넨탈 코엑스에서 제2차 원로회의를 열어 내년 파리 올림픽 기간 진행될 새 IOC 선수위원 선출 투표에 출마할 국내 후보자로 박인비를 추천했다고 밝혔다.대한체육회는 “박인비가 평가위원회에서 만장일치로 가장 높은 점수를 획득했다”고 전했다. 대한체육회는 16∼17일 선수위원회의 의결 절차를 거친 뒤 박인비를 IOC 선수위...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/16/news-p.v1.20230816.ef865326aa13444c80bb98ba6cbdef01_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나이 듦을 받아들이는 마음 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202308231010001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202308231010001</guid>
+            <pubDate>Wed, 23 Aug 2023 01:42:16 GMT</pubDate>
+            <content:encoded><![CDATA[“아이고, 많이 늙었다.” 나와 함께 사는 박모씨는 거의 모든 드라마의 첫 회, 첫 감상을 저렇게 시작한다. “당연하지, 저 배우 나이가 몇인데, 저 정도면 나이든 티도 안 나네”라는 나의 대꾸도 늘 똑같다. 지겨우리만큼 똑같이 반복되는 이 대화가 어느 날 갑자기 거슬리기 시작했다. 누가 생각해봐도 저 배우들은 온갖 의학기술과 미용기술을 이용해 본인의 노화를 철저하게 감추거나 혹은 늦추고 있는데, 오직 여성주인공만을 굳이 꼭 집어 많이 늙었다고 평하는 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/23/news-p.v1.20230822.1239eecf151644b0bf9d905cc56eb06e_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“우리는 훨씬 끈질기다”···서울국제여성영화제 24일 개막 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202308221628001</link>
             <guid>https://www.khan.co.kr/culture/culture-general/article/202308221628001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Aug 2023 07:09:55 GMT</pubDate>
             <content:encoded><![CDATA[국내 어린이 프로그램 최초로 EBS TV의 &lt;딩동댕 유치원&gt;에 자폐 스펙트럼 장애를 가진 캐릭터가 등장한다.EBS는 15일 “어린이 프로그램 &lt;딩동댕 유치원&gt;에서 발달장애 아동의 특성을 알고, 이해할 수 있는 장을 마련하기 위해 ‘자폐 스펙트럼 장애’를 가진 캐릭터 ‘별이’를 탄생시켰다”며 “타인에 대한 태도와 인식이 정착되는 유아·어린이 시기에 경계와 존중, 다양성이라는 가치를 보다 폭넓게 받아들일 수 있게 하는 &lt;딩동댕 유치원&gt;의 또다른 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/16/news-p.v1.20230816.ba322199d36e4644be7665e621b12785_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 첫 여성 IOC 선수위원 나올까, ‘골프 여제’ 박은비 낙점 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/sports/sports-general/article/202308161015001</link>
-            <guid>https://www.khan.co.kr/sports/sports-general/article/202308161015001</guid>
-            <pubDate>Wed, 16 Aug 2023 01:41:17 GMT</pubDate>
-            <content:encoded><![CDATA[‘골프 여제’ 박인비(35)가 국제올림픽위원회(IOC) 선수위원 선거에 나설 한국 후보로 사실상 결정됐다.대한체육회는 14일 서울 강남구 인터컨티넨탈 코엑스에서 제2차 원로회의를 열어 내년 파리 올림픽 기간 진행될 새 IOC 선수위원 선출 투표에 출마할 국내 후보자로 박인비를 추천했다고 밝혔다.대한체육회는 “박인비가 평가위원회에서 만장일치로 가장 높은 점수를 획득했다”고 전했다. 대한체육회는 16∼17일 선수위원회의 의결 절차를 거친 뒤 박인비를 IOC 선수위...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/16/news-p.v1.20230816.ef865326aa13444c80bb98ba6cbdef01_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잼버리 파행, 여가부가 독박? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
