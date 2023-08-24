@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 06:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 07:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[It’s Just that We’re Used to Anxiety]]></title>
+            <link>https://ildaro.com/9706</link>
+            <guid>https://ildaro.com/9706</guid>
+            <pubDate>Thu, 24 Aug 2023 07:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[“Those bitches... are fucking pretty.” My friend heard not just what I said but also what one of the men said as they passed....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023082448346935.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[죽음으로 내모는 교육 시스템, 또 ‘땜빵’할 것인가?]]></title>
             <link>https://ildaro.com/9705</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 14 Aug 2023 18:14:15 GMT</pubDate>
             <content:encoded><![CDATA[(트랜스)젠더 언니들 만났을 때. 들을 수 있는 언피씨한(정치적으로 올바르지 않은) 이야기들(웃음). 자신의 치부라고 할 수 있는, 상처가 될 수 있는 지점들을 잘 이용...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023072905234821.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왜 ‘비동의 강간죄’ 도입을 두려워하는가?]]></title>
-            <link>https://ildaro.com/9685</link>
-            <guid>https://ildaro.com/9685</guid>
-            <pubDate>Mon, 14 Aug 2023 18:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[폭행·협박이 없는 성폭력의 경우는 ‘아는 관계’가 비중이 높았는데(64.3%), 채팅상대자, 동급생·선후배, 단순대면인, 직장관계자, (전·현)애인 순이었다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023072811171711.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
