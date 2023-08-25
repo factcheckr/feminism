@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 05:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 06:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘엄마’는 테러리스트에게 총 겨누는 CIA 팀장… 여성 투톱 첩보물 ‘라이어니스’]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202308251509001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202308251509001</guid>
+            <pubDate>Fri, 25 Aug 2023 06:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[여성 잠입요원은 숨어 있습니다. 밖에선 총을 든 사람들이 그를 찾으려고 뛰어다닙니다. ‘라이어니스’ 교전팀의 리더 조(조 샐다나)는 이 잠입요원과 통화하며 그를 구출하기 위해 교전을 준비합니다. 통화 중 비명이 들립니다. 잠입요원이 테러 조직에 발각됐다고 판단한 조는 드론 폭격을 지시합니다. 거대한 폭발이 일어납니다. 여성 요원의 정체가 발각되고 나서 수모를 겪느니 죽음을 택하는 게 낫다고 판단한 겁니다. 강렬한 카리스마를 발휘하는 조는 최종 폭격 지시...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/25/news-p.v1.20230825.594a2523c16d415a9453dd71c71c32fe_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신림동 등산길 오른 시민들…“장갑차와 호신용품 아닌 성평등이 필요하다”]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202308251032001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 21 Aug 2023 01:42:48 GMT</pubDate>
             <content:encoded><![CDATA[지난 17일 서울 관악구 신림동 공원에서 여성을 너클로 폭행하고 성폭행한 최모씨(30)는 공원 인근 야산에 폐쇄회로(CC)TV가 없는 점을 노려 범행 장소를 택한 것으로 파악됐다. 최씨는 지난 4월 강간하려는 목적으로 인터넷에서 손에 끼는 금속 재질의 너클을 구매했다.18일 서울 관악경찰서에 따르면, 최씨는 “등산로를 걷다가 피해자를 발견했다. 강간을 하고 싶어 범행했다”며 “그곳을 자주 다녀 CCTV가 없다는 것을 알고 있어 범행 장소를 정한 것”이라고 진술했다...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/18/rcv.YNA.20230818.PYH2023081810790001300_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결별에 앙심 전 연인 사진 유포한 남성, 미 법원 “1.6조 배상하라”]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202308181013001</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202308181013001</guid>
-            <pubDate>Fri, 18 Aug 2023 01:41:58 GMT</pubDate>
-            <content:encoded><![CDATA[미국에서 결별에 앙심을 품고 전 여자친구의 사생활 영상과 사진을 온라인에 유포한 남성에게 12억달러(약 1조6000억원)의 배상금을 지급하라는 판결이 15일(현지시간) 나왔다.뉴욕타임스(NYT) 등 외신에 따르면 미국 텍사스주 휴스턴 해리슨카운티 지역 배심원단은 이날 헤어진 전 여자친구의 사적인 영상과 사진을 인터넷상에 유포한 혐의로 재판에 넘겨진 마키스 자말 잭슨에게 배상금 12억달러를 지급하라고 평결했다.앞서 텍사스주에 거주하는 피해 여성은 잭슨을 상대로 “성적...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/18/news-p.v1.20230818.f7af289ed68540df9be7e2981d7e46b2_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
