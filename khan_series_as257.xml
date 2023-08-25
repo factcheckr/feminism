@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 00:46:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 01:44:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신림동 등산길 오른 시민들…“장갑차와 호신용품 아닌 성평등이 필요하다”]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202308251032001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202308251032001</guid>
+            <pubDate>Fri, 25 Aug 2023 01:44:06 GMT</pubDate>
+            <content:encoded><![CDATA[“그 사건이 아니었다면 그녀는 여느 때와 같이 동네 공원을 걷고, 숲길을 걷고, 출근하며 일상을 누리고 있었을 것입니다. 우리가 여기 서 있는 것처럼요.”24일 검은 옷을 입은 시민들이 여느 동네의 뒷산과 다르지 않은 관악구의 한 둘레길에 모였다. 지난 17일 이 길을 통해 출근하다 폭행 및 성폭행 피해를 입고 끝내 숨진 A씨를 추모하기 위해서다.오전 10시라는 이른 시간임에도 시민 150여명이 자리했다. 한국성폭력상담소·한국여성의전화 등 91개 여성인권시민단체...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/25/news-p.v1.20230825.90b900c2c1124dd5b9d7814794d6ab3a_P1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[성인지 교육 영상 만들면서 ‘성평등’ ‘여성혐오’ 사용금지한 문체부]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202308241406001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 18 Aug 2023 01:41:58 GMT</pubDate>
             <content:encoded><![CDATA[미국에서 결별에 앙심을 품고 전 여자친구의 사생활 영상과 사진을 온라인에 유포한 남성에게 12억달러(약 1조6000억원)의 배상금을 지급하라는 판결이 15일(현지시간) 나왔다.뉴욕타임스(NYT) 등 외신에 따르면 미국 텍사스주 휴스턴 해리슨카운티 지역 배심원단은 이날 헤어진 전 여자친구의 사적인 영상과 사진을 인터넷상에 유포한 혐의로 재판에 넘겨진 마키스 자말 잭슨에게 배상금 12억달러를 지급하라고 평결했다.앞서 텍사스주에 거주하는 피해 여성은 잭슨을 상대로 “성적...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/18/news-p.v1.20230818.f7af289ed68540df9be7e2981d7e46b2_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중대재해 원인을 묻기 위해 두 딸은 투사가 됐다]]></title>
-            <link>https://www.khan.co.kr/national/labor/article/202308171509001</link>
-            <guid>https://www.khan.co.kr/national/labor/article/202308171509001</guid>
-            <pubDate>Thu, 17 Aug 2023 06:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[생전 좋아하시던 소주 한 잔을 올리며 아버지를 제대로 배웅하기까지 꼬박 37일이 걸렸다. 지난달 19일 오전 10시 광주광역시 남구 한국아델리움더펜트 건설현장에서 고 마채진씨의 추모제가 열렸다. 아버지를 앗아간 화물용 승강기 앞에 차려진 제사상을 향해 마씨의 둘째 딸 마혜진씨(28)가 네 번 절을 올렸다. 안전모를 쓴 건설노동자들과 검은 정장을 입은 시공사 한국건설 임원도 허리를 숙여 고인의 넋을 위로했다. 그 모습을 보던 첫째 마혜운씨(32)는 양손으로 만삭의...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/17/news-p.v1.20230816.392005b00f6449f585be98cd9cccd496_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
