@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Aug 2023 00:43:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 01:41:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/952c0151-6323-47c5-8953-86ec06c774cf.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[살던 집에서 죽는 것이 최상의 마침표일까? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9708</link>
+            <guid>https://ildaro.com/9708</guid>
+            <pubDate>Sat, 26 Aug 2023 10:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[지인에게 “나는 조롱에 갇힌 새 신세”라고 한탄하기도 했어요. 하지만 다른 한편으로 “여기는 사람 소리가 있어서 따뜻하다”는 이야기도 합니다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023082611192453.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[에콰도르 교도소에서 탄생한 페미니스트 단체 이야기 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9707</link>
             <guid>https://ildaro.com/9707</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 14 Aug 2023 18:14:15 GMT</pubDate>
             <content:encoded><![CDATA[왜 장애여성 성폭력 사건의 유무죄 판단 근거가 피해자의 ‘장애’가 되어야 하는가? 왜 장애여성의 일상생활 능력이 성적 자기결정권 행사 능력으로 협소하게 해석되...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023073118402695.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Turning Twenty and Joining a Labor Union for Part-Timers (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9687</link>
-            <guid>https://ildaro.com/9687</guid>
-            <pubDate>Mon, 14 Aug 2023 18:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[My mom was a big influence on my decision to work in the labor union. She started working when I was in my first year of middle school....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023073027206334.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
