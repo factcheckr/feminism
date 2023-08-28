@@ -4,9 +4,25 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 00:47:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 01:46:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안세영, 한국 배드민턴 새 역사 썼다 ‘세계선수권 금메달’]]></title>
+            <link>https://www.khan.co.kr/sports/sports-general/article/202308281035001</link>
+            <guid>https://www.khan.co.kr/sports/sports-general/article/202308281035001</guid>
+            <pubDate>Mon, 28 Aug 2023 01:45:19 GMT</pubDate>
+            <content:encoded><![CDATA[한국 여자 배드민턴 간판 안세영(21·삼성생명)이 한국 여자 단식 사상 처음으로 세계선수권 금메달을 따냈다.세계랭킹 1위 안세영은 27일 덴마크 코펜하겐에서 열린 2023 세계배드민턴연맹(BWF) 세계개인선수권대회 여자 단식 결승전에서 세계 6위 카롤리나 마린(스페인)을 2-0(21-12 21-10)으로 꺾었다.앞서 1993년 대회에서 준우승한 방수현 이후 30년 만에 여자 단식 결승에 진출한 안세영은 마린을 제압하며 1977년 시작한 이 대회 사상 처음으로 한국 선수의 여자 단식 우승이...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/28/news-p.v1.20230828.162e087c537b40a3a758e6600e8d7ecf_P1.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[전동드릴로 뚝딱뚝딱, 손수레 만들어 기부봉사하는 여고생들]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202308281010011</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202308281010011</guid>
+            <pubDate>Mon, 28 Aug 2023 01:45:19 GMT</pubDate>
+            <content:encoded><![CDATA[지난 19일 오후 충북 청주시 서원구 사직동의 한 목공방. ‘드르륵’하는 전동드릴 소리가 들렸다. 이 곳에선 청주여자상업고등학교 목공 창업동아리 ‘아랫목’ 회원들의 작업이 한창이었다.전동드릴을 든 김가영양(18·청주여상 3학년)이 능숙하게 합판에 구멍을 뚫었다. 이어 김양 옆에 있던 학생이 전동 드라이버로 합판에 나사를 박아 넣었다. 드릴로 구멍을 뚫고 나사를 박아 넣는 작업이 수차례 계속되면서 크고 작은 합판 여러 개가 이어졌고, 커다란 손수레 적재함이 완...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/28/news-p.v1.20230823.ee131ff0613944bc8ca9d3bf73c50fbe_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘엄마’는 테러리스트에게 총 겨누는 CIA 팀장… 여성 투톱 첩보물 ‘라이어니스’]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202308251509001</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 21 Aug 2023 07:11:21 GMT</pubDate>
             <content:encoded><![CDATA[“우리는 함께 행복했다. 공부를 했고, 가끔 모여 놀았다. 자전거를 타기도 했다.”아프가니스탄 여성 자흐라(20)는 2년 전 자신의 일상을 이렇게 되돌아봤다. 그의 삶은 2021년 8월15일 탈레반이 아프간을 다시 장악하면서 180도 바뀌었다. 자흐라는 이제 더 이상 자전거를 타지 않고, 학교도 가지 않는다. 얼굴을 가리지 않고는 바깥을 걸을 수도 없다. 그는 “거울 앞에 서있을 때면 2년 전과는 딴판인 나 자신을 본다. 과거를 떠올리면 슬프다”고 CNN에 말했다.탈레반...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/21/news-p.v1.20230818.b5f342f094fc4243a51b5ea5ad501bc8_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성의 안전 ‘앗아버린’ 관악구의원, 성범죄는 우연이 아니다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202308211027001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202308211027001</guid>
-            <pubDate>Mon, 21 Aug 2023 01:42:48 GMT</pubDate>
-            <content:encoded><![CDATA[“다시 한번 말해봐라. 여성들의 공포감이 피해망상인지.”불특정 여성을 대상으로 삼은 ‘신림동 등산로 성폭행 살인’ 사건 이후 정치권을 향한 비판도 커지고 있다. ‘여성가족부 폐지’를 비롯한 각종 젠더 갈등 이슈를 대선 공약에 내걸어 갈등을 조장한 정치권의 책임이 작지 않다는 것이다. 특히 일각의 ‘반페미니즘 정서’를 자극해 표심을 얻고 의정활동을 벌이는 지역·청년 정치인에 대해서는 사퇴 촉구 운동까지 벌어지고 있다.20일 서울 관악구의회 홈페이지 참여...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/21/news-p.v1.20230821.696351be4f974822ac094d81d09178d5_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“CCTV 없는 것 알고” 성범죄 저지른 가해자, 둘레길이 범행장소로]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202308181723001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202308181723001</guid>
-            <pubDate>Mon, 21 Aug 2023 01:42:48 GMT</pubDate>
-            <content:encoded><![CDATA[지난 17일 서울 관악구 신림동 공원에서 여성을 너클로 폭행하고 성폭행한 최모씨(30)는 공원 인근 야산에 폐쇄회로(CC)TV가 없는 점을 노려 범행 장소를 택한 것으로 파악됐다. 최씨는 지난 4월 강간하려는 목적으로 인터넷에서 손에 끼는 금속 재질의 너클을 구매했다.18일 서울 관악경찰서에 따르면, 최씨는 “등산로를 걷다가 피해자를 발견했다. 강간을 하고 싶어 범행했다”며 “그곳을 자주 다녀 CCTV가 없다는 것을 알고 있어 범행 장소를 정한 것”이라고 진술했다...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/18/rcv.YNA.20230818.PYH2023081810790001300_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
