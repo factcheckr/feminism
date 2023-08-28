@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 22:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 23:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[악인의 서사를 어떻게 볼까]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1413</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1413</guid>
+            <pubDate>Mon, 28 Aug 2023 23:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[신림동의 공원 둘레길에서 여성을 둔기로 떄리고 성폭행해 숨지게 한 피의자의 신상정보와 머그샷이 공개됐는데요. 이름은 최윤종이고, 30세 남성입니다. 최씨는 17일 신림동 둘레길에서 피해자를 너클로 폭행하고 성폭행해 숨지게 한 혐의를 받고 있습니다. 피해자는 병원에 이송됐을 때 이미 심폐정지 상태로, 생존 가능성이 낮았다고 합니다. 이에 유족 측은 "살인 고의성이 명백하다"고 주장합니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/e2c5953b-ae47-4341-b125-a345ffadf1e6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잼버리 파행, 여가부가 독박?]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1402</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 19 Jun 2023 23:11:50 GMT</pubDate>
             <content:encoded><![CDATA[오늘 뉴스레터는 다소 '스압'일 예정이에요. 인구, 출산을 중심으로 사회 문제를 전반적으로 들여다본 한국일보 창간기획 '절반 쇼크가 온다'를 소개하려고 합니다. 3부 13회 연재되는 긴 시리즈라, 특히 결혼과 여성 등 젠더 관련 꼭지를 발췌해 여러분에게 소개할 예정입니다. 다루는 내용이 무척 방대한 만큼 기사의 모든 내용을 소개하지는 못하더라도, 길을 잃지 않으시도록 일목요연하게 잘 엮어보도록 할게요.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/6e2e0466-3ec1-4563-ad3a-f3d2ab34093c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서바이벌 예능도 여자가 접수했다]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1307</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1307</guid>
-            <pubDate>Tue, 13 Jun 2023 04:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[예능 속 여성들의 몸은 '날씬하고 아름답다'라는 평을 듣기 위해 존재하지 않습니다. 상의를 훌렁훌렁 벗고 스포츠 속옷만 입은 채 도끼를 들어 장작을 패는 모습. 전완근의 잔근육을 뽐내며 적진의 벽을 기어오르는 모습. 전투가 마음같이 흘러가지 않을 때 거침없이 욕설을 내뱉고, 경쟁심에 불타오르는 모습은 미디어가 그간 왜곡해온 여성의 이미지와 무척 다릅니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/952c0151-6323-47c5-8953-86ec06c774cf.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
