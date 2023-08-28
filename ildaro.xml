@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 01:46:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 02:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미투 이후의 연극]]></title>
+            <link>https://ildaro.com/9709</link>
+            <guid>https://ildaro.com/9709</guid>
+            <pubDate>Mon, 28 Aug 2023 08:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난 5년간 창작자들은 끝없는 변화를 요구하고, 요구받았다. 변화는 마법같이 일어나지 않았다. 투쟁했고, 쟁취했다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023082835241245.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[살던 집에서 죽는 것이 최상의 마침표일까?]]></title>
             <link>https://ildaro.com/9708</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 14 Aug 2023 18:14:15 GMT</pubDate>
             <content:encoded><![CDATA[우리가 더 연대할 수밖에 없고, 동료 시민으로서 귀를 기울여야 하는 이유를 열어준다는 차원에서 ‘복합차별’은 의미가 있는 개념인 것 같아요...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/202308021812444.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장애여성의 ‘동의 여부’를 묻지 않는 사회]]></title>
-            <link>https://ildaro.com/9688</link>
-            <guid>https://ildaro.com/9688</guid>
-            <pubDate>Mon, 14 Aug 2023 18:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[왜 장애여성 성폭력 사건의 유무죄 판단 근거가 피해자의 ‘장애’가 되어야 하는가? 왜 장애여성의 일상생활 능력이 성적 자기결정권 행사 능력으로 협소하게 해석되...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202307/2023073118402695.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
