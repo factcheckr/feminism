@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 06:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 07:11:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[월드컵 시상식 ‘강제 입맞춤 사건’이 일으킨 스페인 페미니즘 물결]]></title>
+            <link>https://www.khan.co.kr/sports/sports-general/article/202308301519001</link>
+            <guid>https://www.khan.co.kr/sports/sports-general/article/202308301519001</guid>
+            <pubDate>Wed, 30 Aug 2023 07:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[2023 국제축구연맹(FIFA) 여자 월드컵 시상식 무대에서 스페인왕립축구연맹(RFEF) 루이스 루비알레스 회장이 우승을 차지한 스페인 대표팀 헤니페르 에르모소 선수의 얼굴에 강제로 입을 맞춘 사건의 파장이 확산하면서 스페인 전역의 페미니즘 움직임으로 이어지고 있다.27일(현지시간) 엘파이스 등에 따르면 사건 발생 후 동료 선수들을 비롯해 축구팬과 스페인 국민도 에르모소 선수에게 지지를 나타냈다. 이들은 “우리는 에르모소와 함께한다”고 적혀있는 티셔츠를 입거나 포...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/30/news-p.v1.20230830.e3d1e599fc4e4091a013669deb5f21cf_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['그여자가방에들어가신다'···여성 홈리스 생애를 기록하다]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202308301010011</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 24 Aug 2023 01:41:11 GMT</pubDate>
             <content:encoded><![CDATA[1948년 이스라엘 건국·점령 과정에서 군인들에 의해 자행된 강간·살해 사건“끝 간 데 없이 펼쳐진 건조한 네게브 사막 위로 극심한 팔월의 더위”가 도사리던 때다. 이스라엘인은 ‘독립 전쟁’, 팔레스타인인들은 ‘알 나크바(대재앙)’라 부르는, 이스라엘의 팔레스타인 침략과 점령, 팔레스타인인 축출 이듬해가 배경이다. 1949년 8월9일 “온전한 두 채의 오두막과 부분적으로 파손된 세 번째 집 벽의 잔해”밖에 없던 니림에 이스라엘 군인들이 주둔한다. 이들의 임무는 이...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/24/news-p.v1.20230823.66cd2ea129534c039e43bbafc3fc9dc2_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이 듦을 받아들이는 마음]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202308231010001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202308231010001</guid>
-            <pubDate>Wed, 23 Aug 2023 01:41:32 GMT</pubDate>
-            <content:encoded><![CDATA[“아이고, 많이 늙었다.” 나와 함께 사는 박모씨는 거의 모든 드라마의 첫 회, 첫 감상을 저렇게 시작한다. “당연하지, 저 배우 나이가 몇인데, 저 정도면 나이든 티도 안 나네”라는 나의 대꾸도 늘 똑같다. 지겨우리만큼 똑같이 반복되는 이 대화가 어느 날 갑자기 거슬리기 시작했다. 누가 생각해봐도 저 배우들은 온갖 의학기술과 미용기술을 이용해 본인의 노화를 철저하게 감추거나 혹은 늦추고 있는데, 오직 여성주인공만을 굳이 꼭 집어 많이 늙었다고 평하는 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/23/news-p.v1.20230822.1239eecf151644b0bf9d905cc56eb06e_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
