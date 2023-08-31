@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 00:46:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 01:45:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주디스 버틀러 “임신중지 반대는 가부장적 가족행태 강화” (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/gender/article/202308311014001</link>
+            <guid>https://www.khan.co.kr/national/gender/article/202308311014001</guid>
+            <pubDate>Thu, 31 Aug 2023 01:43:45 GMT</pubDate>
+            <content:encoded><![CDATA[“(한국) 법무부 장관은 피할 수 없는 일을 피하려고 하네요.”세계 최하위인 합계출산율 0.78명은 한국이 직면한 ‘재생산(임신·출산·양육) 위기’를 보여주지만 한국은 여전히 ‘정상가족’에 대한 압력이 강력한 사회다. 국가인권위원회는 2005년 ‘혼인, 혈연, 입양으로 이루어진 단위’만 ‘가족’으로 인정한 ‘건강가정기본법’을 정비해 다양한 가족 형태를 수용할 수 있도록 하도록 권고했다. 18년이 지났음에도 건강가정기본법은 그대로이고 혈연이나 혼인으로 맺어지지 않은...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/31/news-p.v1.20230830.b0f4399a8f03407c9d90a2988093e603_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[월드컵 시상식 ‘강제 입맞춤 사건’이 일으킨 스페인 페미니즘 물결 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/sports/sports-general/article/202308301519001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 24 Aug 2023 05:10:27 GMT</pubDate>
             <content:encoded><![CDATA[문화체육관광부가 지난해 성인지 교육 관련 영상제작 용역사업을 진행하면서 ‘성평등’ ‘여성혐오’ 등 특정 단어를 “사용하지 말라”고 검열한 것으로 확인됐다. ‘금지어’ 설정은 부적절한 개입이라는 지적에 더해 자칫 문화예술계 전반을 향한 ‘가이드라인’으로 확대될 우려도 제기된다.24일 경향신문 취재를 종합하면 문체부는 지난해 ‘문화콘텐츠 제작인력 대상 성인지 교육 영상’ 제작을 진행했다. 지난해 3월 발표한 제안요청서에는 추진배경 및 필요성으로 “성평등 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/24/news-p.v1.20230824.c69e5c40952a4e4091054c1456425c19_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[20년이 넘어도 강간·살해는 ‘사소한 일’일 수 없다 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202308241017001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202308241017001</guid>
-            <pubDate>Thu, 24 Aug 2023 01:41:11 GMT</pubDate>
-            <content:encoded><![CDATA[1948년 이스라엘 건국·점령 과정에서 군인들에 의해 자행된 강간·살해 사건“끝 간 데 없이 펼쳐진 건조한 네게브 사막 위로 극심한 팔월의 더위”가 도사리던 때다. 이스라엘인은 ‘독립 전쟁’, 팔레스타인인들은 ‘알 나크바(대재앙)’라 부르는, 이스라엘의 팔레스타인 침략과 점령, 팔레스타인인 축출 이듬해가 배경이다. 1949년 8월9일 “온전한 두 채의 오두막과 부분적으로 파손된 세 번째 집 벽의 잔해”밖에 없던 니림에 이스라엘 군인들이 주둔한다. 이들의 임무는 이...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/24/news-p.v1.20230823.66cd2ea129534c039e43bbafc3fc9dc2_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[주디스 버틀러 “임신중지 반대는 가부장적 가족행태 강화” (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/gender/article/202308311014001</link>
+            <guid>https://www.khan.co.kr/national/gender/article/202308311014001</guid>
+            <pubDate>Thu, 31 Aug 2023 01:44:29 GMT</pubDate>
+            <content:encoded><![CDATA[“(한국) 법무부 장관은 피할 수 없는 일을 피하려고 하네요.”세계 최하위인 합계출산율 0.78명은 한국이 직면한 ‘재생산(임신·출산·양육) 위기’를 보여주지만 한국은 여전히 ‘정상가족’에 대한 압력이 강력한 사회다. 국가인권위원회는 2005년 ‘혼인, 혈연, 입양으로 이루어진 단위’만 ‘가족’으로 인정한 ‘건강가정기본법’을 정비해 다양한 가족 형태를 수용할 수 있도록 하도록 권고했다. 18년이 지났음에도 건강가정기본법은 그대로이고 혈연이나 혼인으로 맺어지지 않은...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/31/news-p.v1.20230830.b0f4399a8f03407c9d90a2988093e603_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[월드컵 시상식 ‘강제 입맞춤 사건’이 일으킨 스페인 페미니즘 물결 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/sports/sports-general/article/202308301519001</link>
             <guid>https://www.khan.co.kr/sports/sports-general/article/202308301519001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 24 Aug 2023 05:10:27 GMT</pubDate>
             <content:encoded><![CDATA[문화체육관광부가 지난해 성인지 교육 관련 영상제작 용역사업을 진행하면서 ‘성평등’ ‘여성혐오’ 등 특정 단어를 “사용하지 말라”고 검열한 것으로 확인됐다. ‘금지어’ 설정은 부적절한 개입이라는 지적에 더해 자칫 문화예술계 전반을 향한 ‘가이드라인’으로 확대될 우려도 제기된다.24일 경향신문 취재를 종합하면 문체부는 지난해 ‘문화콘텐츠 제작인력 대상 성인지 교육 영상’ 제작을 진행했다. 지난해 3월 발표한 제안요청서에는 추진배경 및 필요성으로 “성평등 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/24/news-p.v1.20230824.c69e5c40952a4e4091054c1456425c19_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[20년이 넘어도 강간·살해는 ‘사소한 일’일 수 없다 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202308241017001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202308241017001</guid>
-            <pubDate>Thu, 24 Aug 2023 01:41:11 GMT</pubDate>
-            <content:encoded><![CDATA[1948년 이스라엘 건국·점령 과정에서 군인들에 의해 자행된 강간·살해 사건“끝 간 데 없이 펼쳐진 건조한 네게브 사막 위로 극심한 팔월의 더위”가 도사리던 때다. 이스라엘인은 ‘독립 전쟁’, 팔레스타인인들은 ‘알 나크바(대재앙)’라 부르는, 이스라엘의 팔레스타인 침략과 점령, 팔레스타인인 축출 이듬해가 배경이다. 1949년 8월9일 “온전한 두 채의 오두막과 부분적으로 파손된 세 번째 집 벽의 잔해”밖에 없던 니림에 이스라엘 군인들이 주둔한다. 이들의 임무는 이...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/24/news-p.v1.20230823.66cd2ea129534c039e43bbafc3fc9dc2_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[악인의 서사를 어떻게 볼까 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
