@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 05:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 06:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서로 지켜주고, 비켜주는 가족의 탄생…‘남남’의 전혜진, 최수영]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202308311509001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202308311509001</guid>
+            <pubDate>Thu, 31 Aug 2023 06:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[ENA 채널에서 방영된 드라마 &lt;남남&gt;은 전형성을 벗어난 가족 서사를 보여줬다. 엄마를 ‘모성애 가득한 여성’을 넘어, ‘성적 욕망을 지닌 여성’으로 그렸다. 피가 섞였다고 무조건 가족이 아니라 서로의 자리를 인정해주고 지켜줄 때 가족이라고 말했다. 1회 시청률 1.2%에서 시작한 &lt;남남&gt;은 최종회 12회엔 5.5%까지 올랐다. 이는 지난해 &lt;이상한 변호사 우영우&gt; 이후 ENA 최고 시청률이었다. &lt;남남&gt;에서 고등학생 때 아이를 낳아 혼자 기른...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/31/news-p.v1.20230831.77a925a78c5d42c79fe3214d3ce50a9f_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주디스 버틀러 “임신중지 반대는 가부장적 가족행태 강화”]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202308311014001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 25 Aug 2023 01:44:06 GMT</pubDate>
             <content:encoded><![CDATA[“그 사건이 아니었다면 그녀는 여느 때와 같이 동네 공원을 걷고, 숲길을 걷고, 출근하며 일상을 누리고 있었을 것입니다. 우리가 여기 서 있는 것처럼요.”24일 검은 옷을 입은 시민들이 여느 동네의 뒷산과 다르지 않은 관악구의 한 둘레길에 모였다. 지난 17일 이 길을 통해 출근하다 폭행 및 성폭행 피해를 입고 끝내 숨진 A씨를 추모하기 위해서다.오전 10시라는 이른 시간임에도 시민 150여명이 자리했다. 한국성폭력상담소·한국여성의전화 등 91개 여성인권시민단체...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/25/news-p.v1.20230825.90b900c2c1124dd5b9d7814794d6ab3a_P1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[성인지 교육 영상 만들면서 ‘성평등’ ‘여성혐오’ 사용금지한 문체부]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202308241406001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202308241406001</guid>
-            <pubDate>Thu, 24 Aug 2023 05:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[문화체육관광부가 지난해 성인지 교육 관련 영상제작 용역사업을 진행하면서 ‘성평등’ ‘여성혐오’ 등 특정 단어를 “사용하지 말라”고 검열한 것으로 확인됐다. ‘금지어’ 설정은 부적절한 개입이라는 지적에 더해 자칫 문화예술계 전반을 향한 ‘가이드라인’으로 확대될 우려도 제기된다.24일 경향신문 취재를 종합하면 문체부는 지난해 ‘문화콘텐츠 제작인력 대상 성인지 교육 영상’ 제작을 진행했다. 지난해 3월 발표한 제안요청서에는 추진배경 및 필요성으로 “성평등 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/24/news-p.v1.20230824.c69e5c40952a4e4091054c1456425c19_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
