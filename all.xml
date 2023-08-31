@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 13:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 14:11:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/6e2e0466-3ec1-4563-ad3a-f3d2ab34093c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘모두가 집이 필요합니다. 청소년도 마찬가지에요’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9711</link>
+            <guid>https://ildaro.com/9711</guid>
+            <pubDate>Thu, 31 Aug 2023 14:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[서로를 환대하는 세상을 만들 수 있도록 함께 노력했음 좋겠어요. 그리고 ‘자립에 필요한 게 무엇일까?’ 했을 때 ‘어른이 필요하다’는 말 좀 그만하자고요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/202308310810145.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아픈 몸들이 속속 말하기에 나섰다! (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9710</link>
             <guid>https://ildaro.com/9710</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 05 Aug 2023 10:31:00 GMT</pubDate>
             <content:encoded><![CDATA[여성에게는 ‘순결’이 목숨만큼 중요하고, 섹스를 한 여자는 부정하다는 한결같은 이야기를 다른 방식으로 여성 캐릭터를 죽이면서 설파해왔다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023080537098521.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구조적 차별의 실체를 밝히는 ‘듣기’에 대하여 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9690</link>
-            <guid>https://ildaro.com/9690</guid>
-            <pubDate>Wed, 30 Aug 2023 04:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[차별과 권력이 고정되어 있다고 전제할수록, 역설적으로 여성들의 경험도 좁게 이야기될 수밖에 없어요....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023080319557863.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
