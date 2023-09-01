@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 00:50:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 01:53:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘두 엄마’가 딸을 낳았습니다]]></title>
+            <link>https://www.khan.co.kr/national/gender/article/202309011024001</link>
+            <guid>https://www.khan.co.kr/national/gender/article/202309011024001</guid>
+            <pubDate>Fri, 01 Sep 2023 01:51:34 GMT</pubDate>
+            <content:encoded><![CDATA[국내 레즈비언 커플 중 처음으로 임신 사실을 공개한 김규진(31)·김세연(34)씨 부부가 딸을 출산했다.김규진씨는 지난달 30일 자신의 사회관계망서비스(SNS)에 ‘오출완(오늘 출산 완료라는 뜻ㅎㅎ)’이라는 메시지를 올려 출산 소식을 알렸다. 김씨는 당일 오전 4시30분 3.2㎏의 딸 ‘란이’(태명)를 낳았다.이들 부부는 지난해 12월 벨기에의 한 난임병원에서 기증받은 정자로 시험관 시술을 통한 인공수정 후 임신했다. 한국 병원에서는 법적 부부 또는 사실혼 관계에 있는...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/01/news-p.v1.20230901.86cdb0662b3e4b85a1cd58d8952127d9_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[교제폭력 신고 보복살인범 1심서 무기징역]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202308311652001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 28 Aug 2023 01:44:34 GMT</pubDate>
             <content:encoded><![CDATA[지난 19일 오후 충북 청주시 서원구 사직동의 한 목공방. ‘드르륵’하는 전동드릴 소리가 들렸다. 이 곳에선 청주여자상업고등학교 목공 창업동아리 ‘아랫목’ 회원들의 작업이 한창이었다.전동드릴을 든 김가영양(18·청주여상 3학년)이 능숙하게 합판에 구멍을 뚫었다. 이어 김양 옆에 있던 학생이 전동 드라이버로 합판에 나사를 박아 넣었다. 드릴로 구멍을 뚫고 나사를 박아 넣는 작업이 수차례 계속되면서 크고 작은 합판 여러 개가 이어졌고, 커다란 손수레 적재함이 완...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/28/news-p.v1.20230823.ee131ff0613944bc8ca9d3bf73c50fbe_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘엄마’는 테러리스트에게 총 겨누는 CIA 팀장… 여성 투톱 첩보물 ‘라이어니스’]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202308251509001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202308251509001</guid>
-            <pubDate>Fri, 25 Aug 2023 06:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[여성 잠입요원은 숨어 있습니다. 밖에선 총을 든 사람들이 그를 찾으려고 뛰어다닙니다. ‘라이어니스’ 교전팀의 리더 조(조 샐다나)는 이 잠입요원과 통화하며 그를 구출하기 위해 교전을 준비합니다. 통화 중 비명이 들립니다. 잠입요원이 테러 조직에 발각됐다고 판단한 조는 드론 폭격을 지시합니다. 거대한 폭발이 일어납니다. 여성 요원의 정체가 발각되고 나서 수모를 겪느니 죽음을 택하는 게 낫다고 판단한 겁니다. 강렬한 카리스마를 발휘하는 조는 최종 폭격 지시...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/25/news-p.v1.20230825.594a2523c16d415a9453dd71c71c32fe_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
