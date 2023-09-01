@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 06:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 07:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Stepping into School Life, Where “Responsibility” Matters Most]]></title>
+            <link>https://ildaro.com/9712</link>
+            <guid>https://ildaro.com/9712</guid>
+            <pubDate>Fri, 01 Sep 2023 07:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[You know the saying, “No news is good news”? At a school that only likes to hear “no news,” teachers are trained to become passive....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023090159304386.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘모두가 집이 필요합니다. 청소년도 마찬가지에요’]]></title>
             <link>https://ildaro.com/9711</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 07 Aug 2023 10:08:00 GMT</pubDate>
             <content:encoded><![CDATA[장애여성들은 어떤 가족 형태이든 ‘내가 장애가 있더라도 차별하지 않는 평등한 관계’를 원했다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023080715384847.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘파이널 걸’ 공포, 여성, 클리셰의 기묘한 삼각관계]]></title>
-            <link>https://ildaro.com/9691</link>
-            <guid>https://ildaro.com/9691</guid>
-            <pubDate>Sat, 05 Aug 2023 10:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[여성에게는 ‘순결’이 목숨만큼 중요하고, 섹스를 한 여자는 부정하다는 한결같은 이야기를 다른 방식으로 여성 캐릭터를 죽이면서 설파해왔다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023080537098521.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

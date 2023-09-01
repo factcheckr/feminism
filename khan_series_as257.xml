@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 06:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 07:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“성매매 여성도 불법촬영 당하지 않을 권리 있다” 첫 국가 배상청구]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202309011518001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202309011518001</guid>
+            <pubDate>Fri, 01 Sep 2023 07:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[경찰이 성매매 업소 단속 현장에서 업소 여성의 나체를 촬영한 뒤 이 촬영물을 수사정보라고 공유하는 등 위법한 수사를 했다며 피해 여성들이 국가를 상대로 손해배상 청구소송을 제기했다. 성매매 업소 단속 과정에서 발생한 인권침해 문제로 국가배상청구가 제기된 것은 처음이다.민주사회를위한변호사모임과 한국사이버성폭력대응센터 등은 지난달 30일 민변 대회의실에서 기자회견을 열고 성매매 여성을 상대로 이뤄진 경찰의 위법수사에 대해 국가배상청구를 제기한다고 밝혔다...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/09/01/news-p.v1.20230831.52a2df9f4e6341a7a177badfb194050c_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘두 엄마’가 딸을 낳았습니다]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202309011024001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 28 Aug 2023 01:45:19 GMT</pubDate>
             <content:encoded><![CDATA[한국 여자 배드민턴 간판 안세영(21·삼성생명)이 한국 여자 단식 사상 처음으로 세계선수권 금메달을 따냈다.세계랭킹 1위 안세영은 27일 덴마크 코펜하겐에서 열린 2023 세계배드민턴연맹(BWF) 세계개인선수권대회 여자 단식 결승전에서 세계 6위 카롤리나 마린(스페인)을 2-0(21-12 21-10)으로 꺾었다.앞서 1993년 대회에서 준우승한 방수현 이후 30년 만에 여자 단식 결승에 진출한 안세영은 마린을 제압하며 1977년 시작한 이 대회 사상 처음으로 한국 선수의 여자 단식 우승이...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/28/news-p.v1.20230828.162e087c537b40a3a758e6600e8d7ecf_P1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[전동드릴로 뚝딱뚝딱, 손수레 만들어 기부봉사하는 여고생들]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202308281010011</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202308281010011</guid>
-            <pubDate>Mon, 28 Aug 2023 01:45:19 GMT</pubDate>
-            <content:encoded><![CDATA[지난 19일 오후 충북 청주시 서원구 사직동의 한 목공방. ‘드르륵’하는 전동드릴 소리가 들렸다. 이 곳에선 청주여자상업고등학교 목공 창업동아리 ‘아랫목’ 회원들의 작업이 한창이었다.전동드릴을 든 김가영양(18·청주여상 3학년)이 능숙하게 합판에 구멍을 뚫었다. 이어 김양 옆에 있던 학생이 전동 드라이버로 합판에 나사를 박아 넣었다. 드릴로 구멍을 뚫고 나사를 박아 넣는 작업이 수차례 계속되면서 크고 작은 합판 여러 개가 이어졌고, 커다란 손수레 적재함이 완...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/28/news-p.v1.20230823.ee131ff0613944bc8ca9d3bf73c50fbe_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
