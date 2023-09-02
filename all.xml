@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Sep 2023 06:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 07:10:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/6e2e0466-3ec1-4563-ad3a-f3d2ab34093c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나는 아직 그날 일어났던 일의 이름을 모른다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9713</link>
+            <guid>https://ildaro.com/9713</guid>
+            <pubDate>Sat, 02 Sep 2023 07:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[항거불능이어도 성적인 행위에 대해서는 동의가 있었을 것이라는 것이 기본값인가? 그것도 아니면 술에 취한 채 겪는 성폭력은 보호하지 않아도 되는 것인가?...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023090243402828.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Stepping into School Life, Where “Responsibility” Matters Most (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9712</link>
             <guid>https://ildaro.com/9712</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 30 Aug 2023 04:13:43 GMT</pubDate>
             <content:encoded><![CDATA[I had never thought I would or could marry and just always thought marriage had nothing to do with me. My boyfriend is a man who identifies as bisexual, but all of his past lovers were men...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023080827499802.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족 ‘밖’에서 울타리를 만드는 사람들의 도전 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9692</link>
-            <guid>https://ildaro.com/9692</guid>
-            <pubDate>Mon, 07 Aug 2023 10:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[장애여성들은 어떤 가족 형태이든 ‘내가 장애가 있더라도 차별하지 않는 평등한 관계’를 원했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023080715384847.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
