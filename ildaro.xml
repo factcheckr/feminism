@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Sep 2023 13:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Sep 2023 14:10:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지옥에서 연대하기]]></title>
+            <link>https://ildaro.com/9714</link>
+            <guid>https://ildaro.com/9714</guid>
+            <pubDate>Sun, 03 Sep 2023 14:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[그냥 여기서, 지옥에서 살아야 한다. 송나미랑 황선우처럼 같이 살면 좀 나을 것이다. 그러니까 다들 살면 좋겠다. 지옥에도 연대는 있다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/202309030731598.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나는 아직 그날 일어났던 일의 이름을 모른다]]></title>
             <link>https://ildaro.com/9713</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 30 Aug 2023 04:13:43 GMT</pubDate>
             <content:encoded><![CDATA[아현이 나의 커밍아웃을, 자신의 세계가 흔들리는 지진 같은 일이라 표현했잖아요. 보통 사람은 지진이 나면 대피하러 가거든요. 근데 얘는 그 진원지를 찾아 나서는 ...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023080823503971.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[People Ask Me When I Will Get Married]]></title>
-            <link>https://ildaro.com/9693</link>
-            <guid>https://ildaro.com/9693</guid>
-            <pubDate>Wed, 30 Aug 2023 04:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[I had never thought I would or could marry and just always thought marriage had nothing to do with me. My boyfriend is a man who identifies as bisexual, but all of his past lovers were men...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023080827499802.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
