@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 00:47:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 01:45:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[극단적 선택에 내몰리는 아프간 여성들…“무너지고 있다”]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202309041011001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202309041011001</guid>
+            <pubDate>Mon, 04 Sep 2023 01:44:54 GMT</pubDate>
+            <content:encoded><![CDATA[“내게는 헤로인 중독자인 사촌과 비참하게 결혼하거나 아니면 자살하거나의 두 선택지가 있었다. 나는 후자를 선택했다.”한 아프가니스탄 여성(18)은 자신이 스스로 죽기를 선택한 이유를 이처럼 설명했다. 그는 자살 시도 후 살아남았지만, 만약 다시 결혼을 강요당한다면 이번엔 실패하지 않겠다고 했다. 28일(현지시간) 가디언은 이처럼 아프간 여성들이 탈레반 재집권 이후 교육의 기회를 비롯해 일상에서 누리던 자유를 박탈당하면서 극단적인 선택으로 내몰리고 있는 현실을...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/09/04/news-p.v1.20230901.7b1b799b6c754e7e9125710523760937_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“성매매 여성도 불법촬영 당하지 않을 권리 있다” 첫 국가 배상청구]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202309011518001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 29 Aug 2023 01:44:35 GMT</pubDate>
             <content:encoded><![CDATA[아프가니스탄 탈레반 정권이 여성의 국립공원 출입을 금지했다.27일(현지시간) BBC·AP통신에 따르면, 탈레반은 “보안군을 동원해 여성들이 바미얀주에 있는 반드에아미르 국립공원을 방문하는 것을 막겠다”고 밝혔다.이는 모하마드 칼레드 하나피 선악부 장관대행이 이 지역을 방문해 “여성들이 반드에아미르 국립공원에서 올바른 히잡 착용법을 준수하지 않았다”고 말한 뒤 일주일 만에 나온 조치다. 당시 그는 “여성에게 관광은 필수가 아니다”라며 해결책을 찾을 때까지 여...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/29/news-p.v1.20230829.8b78c437fb34466fb5eba5282a665c3b_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안세영, 한국 배드민턴 새 역사 썼다 ‘세계선수권 금메달’]]></title>
-            <link>https://www.khan.co.kr/sports/sports-general/article/202308281035001</link>
-            <guid>https://www.khan.co.kr/sports/sports-general/article/202308281035001</guid>
-            <pubDate>Mon, 28 Aug 2023 01:45:19 GMT</pubDate>
-            <content:encoded><![CDATA[한국 여자 배드민턴 간판 안세영(21·삼성생명)이 한국 여자 단식 사상 처음으로 세계선수권 금메달을 따냈다.세계랭킹 1위 안세영은 27일 덴마크 코펜하겐에서 열린 2023 세계배드민턴연맹(BWF) 세계개인선수권대회 여자 단식 결승전에서 세계 6위 카롤리나 마린(스페인)을 2-0(21-12 21-10)으로 꺾었다.앞서 1993년 대회에서 준우승한 방수현 이후 30년 만에 여자 단식 결승에 진출한 안세영은 마린을 제압하며 1977년 시작한 이 대회 사상 처음으로 한국 선수의 여자 단식 우승이...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/28/news-p.v1.20230828.162e087c537b40a3a758e6600e8d7ecf_P1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
