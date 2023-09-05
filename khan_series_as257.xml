@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 00:45:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 01:43:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘신당역 스토킹 살인사건’ 1년, 여성들은 여전히 일터가 무섭다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202309051010001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202309051010001</guid>
+            <pubDate>Tue, 05 Sep 2023 01:42:49 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 9월14일 서울지하철 2호선 신당역에서 서울교통공사 직원이 스토킹을 당하다 숨진 ‘신당역 스토킹 살인사건’이 일어났다. 사건 1년이 돼 가는 지금도 여성 직장인에게 ‘안전한 일터’는 요원하다. 정부가 직장 내 성범죄에 여전히 ‘솜방망이 처벌’로 일관한다는 비판도 나온다.노동법률단체 직장갑질119는 4일 서울 중구 신당역 앞에서 ‘신당역 살인사건 사건 1년 추모주간 선포 기자회견’을 열어 “사건 1년이 지났지만 여전히 우리 사회는 여성 노동자를 보호해주...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/09/05/news-p.v1.20230904.d4e34b5580094fae8f11f6bdb00dd840_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[극단적 선택에 내몰리는 아프간 여성들…“무너지고 있다”]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202309041011001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 29 Aug 2023 06:14:46 GMT</pubDate>
             <content:encoded><![CDATA[오래된, 어느 시기에 누구나 한 번쯤은 들어봤을, 농담이라지만 웃을 수 없는 말이 있다. “○○는 얼굴이 무기잖아.” 주어의 자리에는 ‘너’라는 이인칭이나 제삼자의 이름이 자유롭게 들어가는데, 이때 적용되는 규칙은 명료하다. 그 대상이 ‘여성’일 것. 이 말은 주로 (밤길에) 안전을 걱정하는 여성을 조롱하고 모욕하는 목적으로 쓰인다. “얼굴”이 “무기”라는 표현은, 번역하면 다음과 같다. “남성의 욕망에 부합하지 못하는 여성은, 성범죄의 대상조차 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/29/news-p.v1.20230829.748a1029ba5645dfbece312002650c9c_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성 탄압 탈레반 정권, 이번엔 “여성 국립공원 출입 막겠다”]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202308291013001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202308291013001</guid>
-            <pubDate>Tue, 29 Aug 2023 01:44:35 GMT</pubDate>
-            <content:encoded><![CDATA[아프가니스탄 탈레반 정권이 여성의 국립공원 출입을 금지했다.27일(현지시간) BBC·AP통신에 따르면, 탈레반은 “보안군을 동원해 여성들이 바미얀주에 있는 반드에아미르 국립공원을 방문하는 것을 막겠다”고 밝혔다.이는 모하마드 칼레드 하나피 선악부 장관대행이 이 지역을 방문해 “여성들이 반드에아미르 국립공원에서 올바른 히잡 착용법을 준수하지 않았다”고 말한 뒤 일주일 만에 나온 조치다. 당시 그는 “여성에게 관광은 필수가 아니다”라며 해결책을 찾을 때까지 여...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/29/news-p.v1.20230829.8b78c437fb34466fb5eba5282a665c3b_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

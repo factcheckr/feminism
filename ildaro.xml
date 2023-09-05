@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 00:45:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 01:43:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세상에는 ‘인터섹스’인 사람들이 있다는 것, 상식이 되길]]></title>
+            <link>https://ildaro.com/9715</link>
+            <guid>https://ildaro.com/9715</guid>
+            <pubDate>Tue, 05 Sep 2023 09:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[제가 바라는 것은 단순해요. 사회 전체가, 인터섹스인 사람이 있다는 것을 당연하게 생각하는 것입니다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023090502167923.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지옥에서 연대하기]]></title>
             <link>https://ildaro.com/9714</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 30 Aug 2023 04:13:43 GMT</pubDate>
             <content:encoded><![CDATA[사돈으로부터 피해를 당하고도 말이 통하지 않는 상황 속에 도움을 요청할 곳이 없어 다시 자리에 돌아와 ‘웃을 수밖에 없었던’ 피해자(친정엄마)의 사정...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023081005044977.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여자-남자, 동성애자-이성애자의 우정에 대한 편견을 부수다!]]></title>
-            <link>https://ildaro.com/9695</link>
-            <guid>https://ildaro.com/9695</guid>
-            <pubDate>Wed, 30 Aug 2023 04:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[아현이 나의 커밍아웃을, 자신의 세계가 흔들리는 지진 같은 일이라 표현했잖아요. 보통 사람은 지진이 나면 대피하러 가거든요. 근데 얘는 그 진원지를 찾아 나서는 ...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023080823503971.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
