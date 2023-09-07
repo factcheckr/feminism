@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 00:45:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 01:45:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스위첸 광고 ‘문명의 충돌2’, 작은 위화감이 든다면]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202309071009001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202309071009001</guid>
+            <pubDate>Thu, 07 Sep 2023 01:44:31 GMT</pubDate>
+            <content:encoded><![CDATA[사십 대 초반 구간을 지나며 편해진 게 하나 있다. 이젠 웬만해선 ‘아직도 아이 생각은 없어?’라는 질문을 듣지 않는다는 것. 당장 나에게 생각이 있다고 출아법으로 방광 즈음에 아이를 스스로 임신해 출산할 수 있는 게 아니거니와 둘만의 삶에 충분히 만족하고 있음에도, 결혼하고 아이 없는 상황을 언젠가 번복할 결심이나 미뤄두는 숙제처럼 생각하는 이들을 납득시키기란 어렵다. 무자녀 부부가 자신들의 결정을 납득시키는 방법은 얼른 늙어 남들을 포기시키는 것...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/09/07/news-p.v1.20230906.f3704d4f92f24ac38d0e039a244c5ae7_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여가부 폐지하려고 각종 사업 통·폐합한 결과는 청소년 지원 예산 삭감]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202309061508001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 31 Aug 2023 06:14:25 GMT</pubDate>
             <content:encoded><![CDATA[ENA 채널에서 방영된 드라마 &lt;남남&gt;은 전형성을 벗어난 가족 서사를 보여줬다. 엄마를 ‘모성애 가득한 여성’을 넘어, ‘성적 욕망을 지닌 여성’으로 그렸다. 피가 섞였다고 무조건 가족이 아니라 서로의 자리를 인정해주고 지켜줄 때 가족이라고 말했다. 1회 시청률 1.2%에서 시작한 &lt;남남&gt;은 최종회 12회엔 5.5%까지 올랐다. 이는 지난해 &lt;이상한 변호사 우영우&gt; 이후 ENA 최고 시청률이었다. &lt;남남&gt;에서 고등학생 때 아이를 낳아 혼자 기른...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/31/news-p.v1.20230831.77a925a78c5d42c79fe3214d3ce50a9f_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주디스 버틀러 “임신중지 반대는 가부장적 가족행태 강화”]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202308311014001</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202308311014001</guid>
-            <pubDate>Thu, 31 Aug 2023 01:44:29 GMT</pubDate>
-            <content:encoded><![CDATA[“(한국) 법무부 장관은 피할 수 없는 일을 피하려고 하네요.”세계 최하위인 합계출산율 0.78명은 한국이 직면한 ‘재생산(임신·출산·양육) 위기’를 보여주지만 한국은 여전히 ‘정상가족’에 대한 압력이 강력한 사회다. 국가인권위원회는 2005년 ‘혼인, 혈연, 입양으로 이루어진 단위’만 ‘가족’으로 인정한 ‘건강가정기본법’을 정비해 다양한 가족 형태를 수용할 수 있도록 하도록 권고했다. 18년이 지났음에도 건강가정기본법은 그대로이고 혈연이나 혼인으로 맺어지지 않은...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/08/31/news-p.v1.20230830.b0f4399a8f03407c9d90a2988093e603_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

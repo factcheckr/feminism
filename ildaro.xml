@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 00:45:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 01:45:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여자씨름 선수들이 일으키는 ‘모래바람’이 불어온다]]></title>
+            <link>https://ildaro.com/9716</link>
+            <guid>https://ildaro.com/9716</guid>
+            <pubDate>Thu, 07 Sep 2023 09:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[미디어에서 여자씨름이 조금씩 보여지면서 인지도도 올라갔고, 팬도 많아진 것 같아요. 지금이 여자씨름 역사상 가장 팬이 많이 늘어난 시점이 아닌가 싶을 정도로요...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023090747222928.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세상에는 ‘인터섹스’인 사람들이 있다는 것, 상식이 되길]]></title>
             <link>https://ildaro.com/9715</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 12 Aug 2023 10:22:00 GMT</pubDate>
             <content:encoded><![CDATA[헌장을 공표한 ‘극작가 여자모임.’은 ‘사후에 희곡이 남는 작가가 된다’를 목표로 2013년에 네 명의 극작가가 만든 팀이다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023081229164361.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이주여성 대상으로 발생하는 성폭력의 특징들]]></title>
-            <link>https://ildaro.com/9696</link>
-            <guid>https://ildaro.com/9696</guid>
-            <pubDate>Wed, 30 Aug 2023 04:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[사돈으로부터 피해를 당하고도 말이 통하지 않는 상황 속에 도움을 요청할 곳이 없어 다시 자리에 돌아와 ‘웃을 수밖에 없었던’ 피해자(친정엄마)의 사정...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023081005044977.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
