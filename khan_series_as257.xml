@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 08:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 09:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민주당 여성위 “이균용, 여성폭력 가해자 상습 감형…지명 철회하라”]]></title>
+            <link>https://www.khan.co.kr/politics/politics-general/article/202309081750001</link>
+            <guid>https://www.khan.co.kr/politics/politics-general/article/202309081750001</guid>
+            <pubDate>Fri, 08 Sep 2023 09:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[더불어민주당 전국여성위원회가 이균용 대법원장 후보자 지명을 철회하라고 윤석열 대통령에게 8일 촉구했다. 이 후보자가 내린 판결 중 여성폭력 가해자 감형이 있었다는 점을 이유로 들었다.민주당 전국여성위는 이날 국회 소통관에서 기자회견을 해 “각종 여성폭력 사건의 가해자들에게 상습적으로 감형 판결을 한 이균용 대법원장 후보자에 대한 윤석열 대통령의 지명을 즉각 철회하라”고 밝혔다.민주당 전국여성위는 이 후보자의 판사 시절 판결 중 여성폭력 감형 사례를 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/09/08/news-p.v1.20230908.290897d7ae944717bf2d4055cf43092f_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[함께 꿈을 키워나간 세 명의 ‘듣보’ 여자들, 다큐를 만들다]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202309081010001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 01 Sep 2023 07:10:42 GMT</pubDate>
             <content:encoded><![CDATA[경찰이 성매매 업소 단속 현장에서 업소 여성의 나체를 촬영한 뒤 이 촬영물을 수사정보라고 공유하는 등 위법한 수사를 했다며 피해 여성들이 국가를 상대로 손해배상 청구소송을 제기했다. 성매매 업소 단속 과정에서 발생한 인권침해 문제로 국가배상청구가 제기된 것은 처음이다.민주사회를위한변호사모임과 한국사이버성폭력대응센터 등은 지난달 30일 민변 대회의실에서 기자회견을 열고 성매매 여성을 상대로 이뤄진 경찰의 위법수사에 대해 국가배상청구를 제기한다고 밝혔다...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/09/01/news-p.v1.20230831.52a2df9f4e6341a7a177badfb194050c_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘두 엄마’가 딸을 낳았습니다]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202309011024001</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202309011024001</guid>
-            <pubDate>Fri, 01 Sep 2023 01:52:20 GMT</pubDate>
-            <content:encoded><![CDATA[국내 레즈비언 커플 중 처음으로 임신 사실을 공개한 김규진(31)·김세연(34)씨 부부가 딸을 출산했다.김규진씨는 지난달 30일 자신의 사회관계망서비스(SNS)에 ‘오출완(오늘 출산 완료라는 뜻ㅎㅎ)’이라는 메시지를 올려 출산 소식을 알렸다. 김씨는 당일 오전 4시30분 3.2㎏의 딸 ‘란이’(태명)를 낳았다.이들 부부는 지난해 12월 벨기에의 한 난임병원에서 기증받은 정자로 시험관 시술을 통한 인공수정 후 임신했다. 한국 병원에서는 법적 부부 또는 사실혼 관계에 있는...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/09/01/news-p.v1.20230901.86cdb0662b3e4b85a1cd58d8952127d9_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
