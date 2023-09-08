@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 00:46:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 01:45:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[함께 꿈을 키워나간 세 명의 ‘듣보’ 여자들, 다큐를 만들다]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202309081010001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202309081010001</guid>
+            <pubDate>Fri, 08 Sep 2023 01:44:20 GMT</pubDate>
+            <content:encoded><![CDATA[2018년, 권하정은 영화과를 졸업한 뒤 슬럼프에 빠진다. 아무것도 하고 싶지 않고, 아무와도 만나고 싶지 않던 시기. 하정은 집에서 혼자 많은 시간을 보낸다. 어느 날 친구 김아현의 단편영화 상영회 초대장이 온다. 친구를 축하하기 위해 “거의 1년 만에 집 밖으로 나선” 하정은 상영회에 초청된 무명의 가수 이승윤의 노래와 만난다. 그리고 크게 위로받는다. 승윤의 앨범에 있는 다른 노래들까지 다 찾아 들은 하정은 생각한다. ‘나, 이 가수랑 같이 작업해보고 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/08/news-p.v1.20230907.e985acdc16f8492bbc4d94c0380f81cf_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[갈등·혐오 시대에 ‘젠더’ ‘페미니즘’을 가르친다는 의미]]></title>
             <link>https://www.khan.co.kr/national/labor/article/202309071400001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 01 Sep 2023 01:51:34 GMT</pubDate>
             <content:encoded><![CDATA[국내 레즈비언 커플 중 처음으로 임신 사실을 공개한 김규진(31)·김세연(34)씨 부부가 딸을 출산했다.김규진씨는 지난달 30일 자신의 사회관계망서비스(SNS)에 ‘오출완(오늘 출산 완료라는 뜻ㅎㅎ)’이라는 메시지를 올려 출산 소식을 알렸다. 김씨는 당일 오전 4시30분 3.2㎏의 딸 ‘란이’(태명)를 낳았다.이들 부부는 지난해 12월 벨기에의 한 난임병원에서 기증받은 정자로 시험관 시술을 통한 인공수정 후 임신했다. 한국 병원에서는 법적 부부 또는 사실혼 관계에 있는...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/01/news-p.v1.20230901.86cdb0662b3e4b85a1cd58d8952127d9_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[교제폭력 신고 보복살인범 1심서 무기징역]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202308311652001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202308311652001</guid>
-            <pubDate>Thu, 31 Aug 2023 08:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[교제폭력을 신고한 연인을 살해한 혐의로 구속된 김모씨(33)가 1심에서 무기징역을 선고받았다.서울남부지법 형사11부(부장판사 정도성)는 31일 김씨의 보복살인·사체유기 등 8가지 혐의에 대해 모두 유죄 판단을 내리고 무기징역을 선고했다. 성폭력치료 프로그램 40시간 이수, 신상정보 등록 15년, 30년간 위치추적 전자장치(전자발찌) 부착도 함께 명령했다. 피해자 유족 접근, 마약 중독성 물질 사용도 금지됐다.재판부는 “계획적으로 살인을 저질렀고 범행 수법이 잔혹해 피고인...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/08/31/news-p.v1.20230528.1bc265f51ba14a84a6c0a645f4ad257b_P1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
