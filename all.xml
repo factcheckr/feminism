@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Sep 2023 03:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 04:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/e895e18c-a693-4451-b59b-8c640a706f83.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[로컬여행은 ‘마음의 지도’를 따라 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9717</link>
+            <guid>https://ildaro.com/9717</guid>
+            <pubDate>Sat, 09 Sep 2023 11:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[코로나 팬데믹 후, 일본 여행이 재개된다는 소식과 함께 떠난 그녀의 우연한 여행은 거기서 그치질 않고, 지금도 이어지고 있다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023090928263258.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여자씨름 선수들이 일으키는 ‘모래바람’이 불어온다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9716</link>
             <guid>https://ildaro.com/9716</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 13 Aug 2023 11:45:00 GMT</pubDate>
             <content:encoded><![CDATA[요즘엔 연습 첫날에 괴롭힘과 관련한 교육을 하는 단체가 늘어났습니다. 그렇게 하면 공연팀 안에서 괴롭힘 문제에 대해 언급하기 쉬워지고, 확산되죠....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023081300171690.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘극작가 여자모임.’ 지속가능한 연극을 위한 헌장 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9697</link>
-            <guid>https://ildaro.com/9697</guid>
-            <pubDate>Sat, 12 Aug 2023 10:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[헌장을 공표한 ‘극작가 여자모임.’은 ‘사후에 희곡이 남는 작가가 된다’를 목표로 2013년에 네 명의 극작가가 만든 팀이다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023081229164361.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
