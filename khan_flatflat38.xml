@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 05:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 06:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스토킹 살인 피해자 신상 공개한 유족의 호소 “가해자 엄벌”]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202309111509001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202309111509001</guid>
+            <pubDate>Mon, 11 Sep 2023 06:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[전 연인에게 스토킹을 당하다 흉기에 찔려 숨진 여성의 유족이 피해자의 실명과 얼굴을 공개하며 가해자 엄벌을 촉구하고 나섰다. 신당역 스토킹 살인 사건 1주기가 나흘 앞으로 다가왔지만 유사한 스토킹 살인 범행이 근절되지 않고 있다.지난 8일 온라인 게시판 ‘네이트판’에는 ‘스토킹에 시달리다가 제 동생이 죽었습니다’란 제목의 글이 올라왔다. 피해자 이은총씨의 유족인 글쓴이는 “가해자는 은총이의 전 남자친구”라며 “우연히 테니스 동호회에서 만나 연인 관계...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/11/news-p.v1.20230911.64a12e8ff67c48cab84708a311cdfee2_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미성년자 성착취 공식 인정한 일본 거대 엔터 ‘자니스’]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202309111031001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 05 Sep 2023 01:42:04 GMT</pubDate>
             <content:encoded><![CDATA[지난해 9월14일 서울지하철 2호선 신당역에서 서울교통공사 직원이 스토킹을 당하다 숨진 ‘신당역 스토킹 살인사건’이 일어났다. 사건 1년이 돼 가는 지금도 여성 직장인에게 ‘안전한 일터’는 요원하다. 정부가 직장 내 성범죄에 여전히 ‘솜방망이 처벌’로 일관한다는 비판도 나온다.노동법률단체 직장갑질119는 4일 서울 중구 신당역 앞에서 ‘신당역 살인사건 사건 1년 추모주간 선포 기자회견’을 열어 “사건 1년이 지났지만 여전히 우리 사회는 여성 노동자를 보호해주...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/05/news-p.v1.20230904.d4e34b5580094fae8f11f6bdb00dd840_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[극단적 선택에 내몰리는 아프간 여성들…“무너지고 있다”]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202309041011001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202309041011001</guid>
-            <pubDate>Mon, 04 Sep 2023 01:44:10 GMT</pubDate>
-            <content:encoded><![CDATA[“내게는 헤로인 중독자인 사촌과 비참하게 결혼하거나 아니면 자살하거나의 두 선택지가 있었다. 나는 후자를 선택했다.”한 아프가니스탄 여성(18)은 자신이 스스로 죽기를 선택한 이유를 이처럼 설명했다. 그는 자살 시도 후 살아남았지만, 만약 다시 결혼을 강요당한다면 이번엔 실패하지 않겠다고 했다. 28일(현지시간) 가디언은 이처럼 아프간 여성들이 탈레반 재집권 이후 교육의 기회를 비롯해 일상에서 누리던 자유를 박탈당하면서 극단적인 선택으로 내몰리고 있는 현실을...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/04/news-p.v1.20230901.7b1b799b6c754e7e9125710523760937_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
