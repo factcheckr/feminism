@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 22:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 23:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/09/05/news-p.v1.20230904.d4e34b5580094fae8f11f6bdb00dd840_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[통계로 보는 한국 여성의 삶 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1432</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1432</guid>
+            <pubDate>Mon, 11 Sep 2023 23:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[지난 한 주(9월 1~7일)는 양성평등기본법에 의거한 '양성평등주간'이었습니다. 여성가족부는 매년 이맘 때쯤, 부문별 통계에 의거하여 성평등 척도를 판단할 수 있는 귀한 자료인 '통계로 보는 남녀의 삶'을 발표하고 있어요.여기서 잠깐! 뉴스레터의 제목은 '통계로 보는 여성의 삶'인데 왜 자료 제목은 '남녀의 삶'이냐고요?]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/b863d0c2-a0b9-4625-bfda-05bdabcdd4b5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이런 대법원장, 어떤가요? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1424</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1424</guid>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 03 Jul 2023 23:14:19 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 지난 주말, 서울 을지로2가 일대에서 열린 24회 서울퀴어문화축제(이하 퀴어축제) 소식으로 채워볼게요. 퀴어축제를 둘러싼 다양한 이야기를 맥락있게 담았습니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/a8022d5e-f4e1-483b-8f60-7c6dbe96d276.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결혼과 출산 말고 다른 '가족' (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1327</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1327</guid>
-            <pubDate>Mon, 26 Jun 2023 23:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[연애는 안 하고, 결혼은 더더욱 멀어지고, 출산은 생각만 해도 두려운 젊은이들. 그렇다고 해서 인구가 이대로 소멸하도록 둘 수는 없는 노릇인데요. 사실 이 같은 저출생은 한국만의 일은 아니고, 선진국의 반열에 오른 여러 국가들이 이미 겪은 현상이기도 합니다. 그렇다면 다른 나라는 어떻게 저출생을 극복했을까요?]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/e895e18c-a693-4451-b59b-8c640a706f83.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여성 홈리스는 왜 안 보일까요? (일다 ─ 전체기사)]]></title>
