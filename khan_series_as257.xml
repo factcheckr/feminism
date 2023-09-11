@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 00:46:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 01:46:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미성년자 성착취 공식 인정한 일본 거대 엔터 ‘자니스’]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202309111031001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202309111031001</guid>
+            <pubDate>Mon, 11 Sep 2023 01:45:31 GMT</pubDate>
+            <content:encoded><![CDATA[일본 대형 연예기획사 ‘자니스 사무소’(이하 자니스)의 후지시마 주리 게이코 사장이 과거 회사 창업자가 미성년자 연습생에게 성폭력을 저지른 사실을 인정하며 사임했다고 7일 밝혔다.후지시마 사장은 이날 연 기자회견에서 “진심으로 사과드린다”면서 사퇴 의사를 밝혔다. 후지시마 사장은 창업자 고 자니 기타가와의 조카이다.후임 사장은 과거 자니스 소속 아이돌 그룹 ‘소년대’ 멤버 출신의 연예인인 히가시야마 노리유키가 맡았다. 함께 기자회견장에 나온 히가시야마...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/09/11/news-p.v1.20230911.c0030f3c3d004e1ab6c198fdbca6b466_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[민주당 여성위 “이균용, 여성폭력 가해자 상습 감형…지명 철회하라”]]></title>
             <link>https://www.khan.co.kr/politics/politics-general/article/202309081750001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 04 Sep 2023 01:44:54 GMT</pubDate>
             <content:encoded><![CDATA[“내게는 헤로인 중독자인 사촌과 비참하게 결혼하거나 아니면 자살하거나의 두 선택지가 있었다. 나는 후자를 선택했다.”한 아프가니스탄 여성(18)은 자신이 스스로 죽기를 선택한 이유를 이처럼 설명했다. 그는 자살 시도 후 살아남았지만, 만약 다시 결혼을 강요당한다면 이번엔 실패하지 않겠다고 했다. 28일(현지시간) 가디언은 이처럼 아프간 여성들이 탈레반 재집권 이후 교육의 기회를 비롯해 일상에서 누리던 자유를 박탈당하면서 극단적인 선택으로 내몰리고 있는 현실을...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/09/04/news-p.v1.20230901.7b1b799b6c754e7e9125710523760937_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“성매매 여성도 불법촬영 당하지 않을 권리 있다” 첫 국가 배상청구]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202309011518001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202309011518001</guid>
-            <pubDate>Fri, 01 Sep 2023 07:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[경찰이 성매매 업소 단속 현장에서 업소 여성의 나체를 촬영한 뒤 이 촬영물을 수사정보라고 공유하는 등 위법한 수사를 했다며 피해 여성들이 국가를 상대로 손해배상 청구소송을 제기했다. 성매매 업소 단속 과정에서 발생한 인권침해 문제로 국가배상청구가 제기된 것은 처음이다.민주사회를위한변호사모임과 한국사이버성폭력대응센터 등은 지난달 30일 민변 대회의실에서 기자회견을 열고 성매매 여성을 상대로 이뤄진 경찰의 위법수사에 대해 국가배상청구를 제기한다고 밝혔다...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/09/01/news-p.v1.20230831.52a2df9f4e6341a7a177badfb194050c_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
