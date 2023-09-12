@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 04:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 05:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/a8022d5e-f4e1-483b-8f60-7c6dbe96d276.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“여성이 (⏤ ⏤ ⏤ ⏤) 만든다” (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9720</link>
+            <guid>https://ildaro.com/9720</guid>
+            <pubDate>Tue, 12 Sep 2023 05:11:43 GMT</pubDate>
+            <content:encoded><![CDATA[누군가는 ‘남성영화’를 배제하는 서울여성독립영화제의 조건이 차별적이라 할지 모른다. 그들 역시 ‘남성영화’를 위한 시공간이 언제, 어디에나 존재한다는 사실...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023091205416899.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여성 홈리스는 왜 안 보일까요? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9719</link>
             <guid>https://ildaro.com/9719</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 16 Aug 2023 10:13:00 GMT</pubDate>
             <content:encoded><![CDATA[‘여성국극은 음악적으로도, 무대적으로도 얼마든지 변화할 수 있는 열린 구조다’라는 걸 보여드릴 거거든요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023081621538780.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Countless Foreign Children are Growing Up in Korea (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9700</link>
-            <guid>https://ildaro.com/9700</guid>
-            <pubDate>Wed, 30 Aug 2023 04:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[The word “foreigner” seems harmless, but it gives us a feeling that it is someone who is very unfamiliar and distant....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023081527176616.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
