@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 23:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 00:46:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/a8022d5e-f4e1-483b-8f60-7c6dbe96d276.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[혼인평등, 가족구성권, 그리고 차별금지법제정 운동 ‘사이’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9721</link>
+            <guid>https://ildaro.com/9721</guid>
+            <pubDate>Thu, 14 Sep 2023 09:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[혼인평등 운동이 혼인에 있어 선택권의 문제를 넘어, 평등을 확장해나가는 운동이 되기 위해 어떤 언어로 설명하고, 어떻게 연대를 만들어갈 수 있는가가 과제로 놓여...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023091441111342.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“여성이 (⏤ ⏤ ⏤ ⏤) 만든다” (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9720</link>
             <guid>https://ildaro.com/9720</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 18 Aug 2023 09:57:00 GMT</pubDate>
             <content:encoded><![CDATA[여성이 경험한 ‘평생 성적 폭력의 가해자’의 13.5%는 배우자이다. 범죄 통계에서 성폭력 피해자와 가해자의 관계 중 남편에 의한 성폭력 범죄를 파악할 수 있는 항목...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023081800254133.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“끊어질듯 이어지고 사라질듯 부활”하는 여성국극 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9701</link>
-            <guid>https://ildaro.com/9701</guid>
-            <pubDate>Wed, 16 Aug 2023 10:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘여성국극은 음악적으로도, 무대적으로도 얼마든지 변화할 수 있는 열린 구조다’라는 걸 보여드릴 거거든요....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023081621538780.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
