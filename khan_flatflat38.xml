@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 04:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 05:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김행 여가부장관 내정자, 여가부 폐지 “드라마틱하게 엑시트(exit) 하겠다”]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202309141341001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202309141341001</guid>
+            <pubDate>Thu, 14 Sep 2023 05:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[김행 여성가족부 장관 내정자가 14일 김건희 여사와의 20년 친분설에 대해 “가짜뉴스”라고 말했다. 윤석열 대통령의 공약인 여가부 폐지에 대해선 “드라마틱하게 엑시트(exit)하겠다”며 폐지 찬성 뜻을 밝혔다.김 내정자는 이날 오전 서울 서대문구 한국청소년활동진흥원에 차려진 인사청문회 준비 사무실로 첫 출근하며 기자들과 만나 이 같은 입장을 밝혔다.김 내정자는 김건희 여사와의 친분설을 묻는 질문에 “질문을 해줘서 정말 고맙다. 나는 70년대 학번이고 여사님은...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/14/news-p.v1.20230914.6025a2da97eb41d1944e893d913ba8ef_P1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[‘신당역 스토킹 살인 사건’ 1년, 법적 공백 메워져도 여전히 부족한 ‘피해자 보호조치’]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202309141048001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 08 Sep 2023 09:10:32 GMT</pubDate>
             <content:encoded><![CDATA[더불어민주당 전국여성위원회가 이균용 대법원장 후보자 지명을 철회하라고 윤석열 대통령에게 8일 촉구했다. 이 후보자가 내린 판결 중 여성폭력 가해자 감형이 있었다는 점을 이유로 들었다.민주당 전국여성위는 이날 국회 소통관에서 기자회견을 해 “각종 여성폭력 사건의 가해자들에게 상습적으로 감형 판결을 한 이균용 대법원장 후보자에 대한 윤석열 대통령의 지명을 즉각 철회하라”고 밝혔다.민주당 전국여성위는 이 후보자의 판사 시절 판결 중 여성폭력 감형 사례를 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/08/news-p.v1.20230908.290897d7ae944717bf2d4055cf43092f_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[함께 꿈을 키워나간 세 명의 ‘듣보’ 여자들, 다큐를 만들다]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202309081010001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202309081010001</guid>
-            <pubDate>Fri, 08 Sep 2023 01:44:20 GMT</pubDate>
-            <content:encoded><![CDATA[2018년, 권하정은 영화과를 졸업한 뒤 슬럼프에 빠진다. 아무것도 하고 싶지 않고, 아무와도 만나고 싶지 않던 시기. 하정은 집에서 혼자 많은 시간을 보낸다. 어느 날 친구 김아현의 단편영화 상영회 초대장이 온다. 친구를 축하하기 위해 “거의 1년 만에 집 밖으로 나선” 하정은 상영회에 초청된 무명의 가수 이승윤의 노래와 만난다. 그리고 크게 위로받는다. 승윤의 앨범에 있는 다른 노래들까지 다 찾아 들은 하정은 생각한다. ‘나, 이 가수랑 같이 작업해보고 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/08/news-p.v1.20230907.e985acdc16f8492bbc4d94c0380f81cf_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
