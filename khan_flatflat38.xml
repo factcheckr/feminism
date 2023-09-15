@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 06:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 07:11:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이란 ‘히잡 시위’ 1년… 잊히는 듯, 결코 멈추지 않은 투쟁의 목소리]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202309151544001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202309151544001</guid>
+            <pubDate>Fri, 15 Sep 2023 07:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[히잡 미착용 의문사 이란 여성 아미니 사망 1년22세 이란 여성 마흐사 아미니가 히잡을 느슨하게 착용했다는 이유로 도덕경찰에 체포됐다가 의문사한 지 오는 16일(현지시간)로 만 1년이 된다. 아미니 죽음을 계기로 이란에선 대규모 반정부 시위가 전개됐고, 에브라힘 라이시 대통령을 비롯한 이란 정부는 이를 잔인하게 탄압했다. 노르웨이에 본부를 둔 인권단체 이란휴먼라이츠(IHR)가 지난 4월 발표한 보고서에 따르면 시위 첫 달에만 최소 537명이 사망했다.당시 국제사회...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/15/news-p.v1.20230915.0ab171c5c0b14d98a2a87eee46832f62_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남자라 ‘5만원’ 더 받는 농촌 “몇천 년 만에 처음 동일임금을 말하다”]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202309150959001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 12 Sep 2023 01:42:26 GMT</pubDate>
             <content:encoded><![CDATA[한국은 1996년 경제협력개발기구(OECD) 가입 이래 27년째 성별 임금격차가 가장 큰 국가다. 그마저도 개별 사업장에 대해서 들여다볼 수 있는 통계는 공개되지 않는다.여성의 몫을 미뤄뒀던 대가는 하나씩 청구서가 돼 날아오고 있다. 영국의 제2의 도시 버밍엄은 5일(현지시간) 대법원의 남녀 동일 임금 판결에 따라 최대 7억6000만파운드(약 1조7000억원)를 지급해야 하는데 재원이 없어 사실상 파산을 선언했다. 과거 버밍엄 시의회는 환경미화와 같이 남성들이 많은 직종에만...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/12/news-p.v1.20230911.2536f708369e4a7f8fbc94adc74e8b60_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스토킹 살인 피해자 신상 공개한 유족의 호소 “가해자 엄벌”]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202309111509001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202309111509001</guid>
-            <pubDate>Mon, 11 Sep 2023 06:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[전 연인에게 스토킹을 당하다 흉기에 찔려 숨진 여성의 유족이 피해자의 실명과 얼굴을 공개하며 가해자 엄벌을 촉구하고 나섰다. 신당역 스토킹 살인 사건 1주기가 나흘 앞으로 다가왔지만 유사한 스토킹 살인 범행이 근절되지 않고 있다.지난 8일 온라인 게시판 ‘네이트판’에는 ‘스토킹에 시달리다가 제 동생이 죽었습니다’란 제목의 글이 올라왔다. 피해자 이은총씨의 유족인 글쓴이는 “가해자는 은총이의 전 남자친구”라며 “우연히 테니스 동호회에서 만나 연인 관계...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/11/news-p.v1.20230911.64a12e8ff67c48cab84708a311cdfee2_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
