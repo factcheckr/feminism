@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 00:47:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 01:46:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남자라 ‘5만원’ 더 받는 농촌 “몇천 년 만에 처음 동일임금을 말하다”]]></title>
+            <link>https://www.khan.co.kr/national/gender/article/202309150959001</link>
+            <guid>https://www.khan.co.kr/national/gender/article/202309150959001</guid>
+            <pubDate>Fri, 15 Sep 2023 01:45:53 GMT</pubDate>
+            <content:encoded><![CDATA[한국은 1996년 경제협력개발기구(OECD) 가입 이래 27년째 성별 임금격차가 가장 큰 국가다. 지난해 상장법인 전체의 남성 1인당 평균임금은 8676만원, 여성은 6015만원으로 나타났다. 2019년 이래 격차가 가장 많이 좁혀졌지만 여전히 여성의 임금이 남성의 70%에도 미치지 못했다. 성별 임금격차가 가장 큰 산업은 농업, 임업 및 어업(43.8%)이었다.점차 농업에서 여성 농업인이 담당하는 비중이 커지고 있다. 그러나 여성들은 농업인으로서의 지위를 제대로 인정받지 못하고 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/09/15/news-p.v1.20230914.019dbc0ab27a42e78894cea9cf781769_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[법원, 부하직원 강제 추행한 오거돈 전 부산시장에 “5000만원 배상하라”]]></title>
             <link>https://www.khan.co.kr/national/court-law/article/202309141630001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 11 Sep 2023 06:14:54 GMT</pubDate>
             <content:encoded><![CDATA[전 연인에게 스토킹을 당하다 흉기에 찔려 숨진 여성의 유족이 피해자의 실명과 얼굴을 공개하며 가해자 엄벌을 촉구하고 나섰다. 신당역 스토킹 살인 사건 1주기가 나흘 앞으로 다가왔지만 유사한 스토킹 살인 범행이 근절되지 않고 있다.지난 8일 온라인 게시판 ‘네이트판’에는 ‘스토킹에 시달리다가 제 동생이 죽었습니다’란 제목의 글이 올라왔다. 피해자 이은총씨의 유족인 글쓴이는 “가해자는 은총이의 전 남자친구”라며 “우연히 테니스 동호회에서 만나 연인 관계...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/09/11/news-p.v1.20230911.64a12e8ff67c48cab84708a311cdfee2_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미성년자 성착취 공식 인정한 일본 거대 엔터 ‘자니스’]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202309111031001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202309111031001</guid>
-            <pubDate>Mon, 11 Sep 2023 01:45:31 GMT</pubDate>
-            <content:encoded><![CDATA[일본 대형 연예기획사 ‘자니스 사무소’(이하 자니스)의 후지시마 주리 게이코 사장이 과거 회사 창업자가 미성년자 연습생에게 성폭력을 저지른 사실을 인정하며 사임했다고 7일 밝혔다.후지시마 사장은 이날 연 기자회견에서 “진심으로 사과드린다”면서 사퇴 의사를 밝혔다. 후지시마 사장은 창업자 고 자니 기타가와의 조카이다.후임 사장은 과거 자니스 소속 아이돌 그룹 ‘소년대’ 멤버 출신의 연예인인 히가시야마 노리유키가 맡았다. 함께 기자회견장에 나온 히가시야마...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/09/11/news-p.v1.20230911.c0030f3c3d004e1ab6c198fdbca6b466_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
