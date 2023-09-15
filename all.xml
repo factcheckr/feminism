@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 09:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 10:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/a8022d5e-f4e1-483b-8f60-7c6dbe96d276.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[결국 ‘강간죄’는 피해자에게 죄의 책임을 묻는가? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9722</link>
+            <guid>https://ildaro.com/9722</guid>
+            <pubDate>Fri, 15 Sep 2023 10:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[“미투 하지 마. 가족이 다 불행해져. 지금까지 참고 살았으니까 앞으로도 쭉 참고 살아. 너 그러면 엄마 제 명에 못 죽어.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023091552359477.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[혼인평등, 가족구성권, 그리고 차별금지법제정 운동 ‘사이’ (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9721</link>
             <guid>https://ildaro.com/9721</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 20 Aug 2023 11:31:00 GMT</pubDate>
             <content:encoded><![CDATA[미투는 분명히 사람들을 바꿔놓았다. 무언가 잘못되었다고 말하는 여성은 전보다 분명히 많아졌고, 힘이 세다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023082034366961.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부부간 성관계는 언제든 동의된 것이다? 숨겨진 범죄, 아내강간 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9702</link>
-            <guid>https://ildaro.com/9702</guid>
-            <pubDate>Fri, 18 Aug 2023 09:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[여성이 경험한 ‘평생 성적 폭력의 가해자’의 13.5%는 배우자이다. 범죄 통계에서 성폭력 피해자와 가해자의 관계 중 남편에 의한 성폭력 범죄를 파악할 수 있는 항목...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023081800254133.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
