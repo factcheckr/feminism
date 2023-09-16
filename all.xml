@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Sep 2023 11:10:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2023 12:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/a8022d5e-f4e1-483b-8f60-7c6dbe96d276.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여성들의 ‘번아웃’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9723</link>
+            <guid>https://ildaro.com/9723</guid>
+            <pubDate>Sat, 16 Sep 2023 12:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[케이트 맨은 저서 『다운 걸: 여성혐오의 논리』에서 ‘베푸는 인간’(human giver)과 ‘존재하는 인간’(human being)이라는 용어를 제시했다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023091606362596.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[결국 ‘강간죄’는 피해자에게 죄의 책임을 묻는가? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9722</link>
             <guid>https://ildaro.com/9722</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 14 Sep 2023 07:11:50 GMT</pubDate>
             <content:encoded><![CDATA[다른 세계를 욕망하며 성차별 사회와 기지전을 펼치기 위해서는 좀 더 다층적 전략이 필요하다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023082109085985.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대학은 거기 있어, 여자들은 갈 거야 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9703</link>
-            <guid>https://ildaro.com/9703</guid>
-            <pubDate>Sun, 20 Aug 2023 11:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[미투는 분명히 사람들을 바꿔놓았다. 무언가 잘못되었다고 말하는 여성은 전보다 분명히 많아졌고, 힘이 세다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023082034366961.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
