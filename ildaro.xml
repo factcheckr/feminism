@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 10:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 11:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Moving beyond eonni-approved feminism]]></title>
+            <link>https://ildaro.com/9724</link>
+            <guid>https://ildaro.com/9724</guid>
+            <pubDate>Sun, 17 Sep 2023 11:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[“What we are trying to create isn’t a world full of good adults, but a world in which you’re not afraid even if you meet a bad adult.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023091717113480.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여성들의 ‘번아웃’]]></title>
             <link>https://ildaro.com/9723</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 23 Aug 2023 10:57:00 GMT</pubDate>
             <content:encoded><![CDATA[대체 지금 학교에선 무슨 일이 일어나고 있는가? 한시적 ‘땜빵’이나 주먹구구식 행정이 아니라, 변화를 만들기 위해선 무엇이 필요하며 정부는 무엇을 놓치고 있는...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023082308244094.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘사이렌’ 연출에 있는 것과 없는 것]]></title>
-            <link>https://ildaro.com/9704</link>
-            <guid>https://ildaro.com/9704</guid>
-            <pubDate>Thu, 14 Sep 2023 07:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[다른 세계를 욕망하며 성차별 사회와 기지전을 펼치기 위해서는 좀 더 다층적 전략이 필요하다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023082109085985.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
