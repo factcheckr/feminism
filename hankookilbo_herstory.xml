@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 22:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 23:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그 날로부터 1년이 지났다]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1445</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1445</guid>
+            <pubDate>Mon, 18 Sep 2023 23:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[벌써 1년이 되었습니다. 히잡을 제대로 쓰지 않았다는 이유로 경찰에 체포됐던 22세 여성 마흐사 아미니가 의문사한 지 말입니다. 현지시간으로 사망 1주기인 16일, 이란 테헤란 거리는 정부의 무자비한 단속에도 이런 구호가 울려 퍼졌습니다. "여성, 생명, 자유!" "독재자에게 죽음을!" 하나, 이란 정부는 시위자에 대한 공개 사형 집행 등으로 민심을 틀어막고 있습니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/fbbd20f6-f24a-4d56-96a5-cc3f47b5e12a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[통계로 보는 한국 여성의 삶]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1432</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 10 Jul 2023 23:13:02 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 조금 무거운 뉴스로 여러분을 찾아왔습니다. '유령 아동'이라는 말, 들어보셨나요? 병원 출산 기록은 있지만 출생신고가 되지 않은, 이른바 '미신고 영아'를 말합니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/b9208b94-9704-49cf-9bde-042f4fe97ac3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[365일 중 허락된 단 하루]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1336</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1336</guid>
-            <pubDate>Mon, 03 Jul 2023 23:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 지난 주말, 서울 을지로2가 일대에서 열린 24회 서울퀴어문화축제(이하 퀴어축제) 소식으로 채워볼게요. 퀴어축제를 둘러싼 다양한 이야기를 맥락있게 담았습니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/a8022d5e-f4e1-483b-8f60-7c6dbe96d276.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
