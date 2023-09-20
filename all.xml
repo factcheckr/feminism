@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 02:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 03:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[모로코 지진 이후…성폭력 노출된 소녀들, 월경용품 구하기도 어려워 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202309201100001</link>
             <guid>https://www.khan.co.kr/world/world-general/article/202309201100001</guid>
-            <pubDate>Wed, 20 Sep 2023 02:17:54 GMT</pubDate>
+            <pubDate>Wed, 20 Sep 2023 02:17:08 GMT</pubDate>
             <content:encoded><![CDATA[규모 6.8 강진으로 3000명 가까이 숨진 모로코에서 아동·청소년 여성들이 성폭력에 노출된 것으로 나타났다. 지진 피해 지역 여성들은 생리용품 수급이 어려워졌으며 위생 문제 또한 겪고 있다.18일(현지시간) 알자지라에 따르면, 모로코 강진 이후 아동·청소년 여성들의 결혼과 성적 착취를 조장하는 게시글이 온라인에 잇따라 올라왔다.생존자 지원에 나선 한 성인 남성은 10살 남짓한 소녀 옆에서 포즈를 취하는 사진을 자신의 인스타그램에 올려 “이 아이는 나와 함께 (카...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/09/20/news-p.v1.20230920.95110026edbc4c718f4e3ebc62b79a1e_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/b9208b94-9704-49cf-9bde-042f4fe97ac3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[생활동반자법은 누구를 대변하는가? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9726</link>
+            <guid>https://ildaro.com/9726</guid>
+            <pubDate>Wed, 20 Sep 2023 10:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[생활동반자등록은 이성/동성 혼인을 위한 사전 준비도 아니고, 동성혼을 허용하지 않기 위해서 동성파트너들에게 차별적으로 주어지는 혜택이 되어서도 안 된다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023092001393350.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[성소수자, ‘나이듦’을 이야기하다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9725</link>
             <guid>https://ildaro.com/9725</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 25 Aug 2023 09:47:00 GMT</pubDate>
             <content:encoded><![CDATA[“주말이 되면 고용주와 그 가족이 멋 부리고 미술관이나 공연장에 갔다. 나는 그런 장소에 입고 갈 만한 옷도 없었고, 나와는 상관없는 장소라고 느꼈다.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023082554145109.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[It’s Just that We’re Used to Anxiety (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9706</link>
-            <guid>https://ildaro.com/9706</guid>
-            <pubDate>Thu, 14 Sep 2023 07:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[“Those bitches... are fucking pretty.” My friend heard not just what I said but also what one of the men said as they passed....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023082448346935.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

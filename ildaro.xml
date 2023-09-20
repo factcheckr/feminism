@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 02:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 03:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생활동반자법은 누구를 대변하는가?]]></title>
+            <link>https://ildaro.com/9726</link>
+            <guid>https://ildaro.com/9726</guid>
+            <pubDate>Wed, 20 Sep 2023 10:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[생활동반자등록은 이성/동성 혼인을 위한 사전 준비도 아니고, 동성혼을 허용하지 않기 위해서 동성파트너들에게 차별적으로 주어지는 혜택이 되어서도 안 된다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023092001393350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성소수자, ‘나이듦’을 이야기하다]]></title>
             <link>https://ildaro.com/9725</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 25 Aug 2023 09:47:00 GMT</pubDate>
             <content:encoded><![CDATA[“주말이 되면 고용주와 그 가족이 멋 부리고 미술관이나 공연장에 갔다. 나는 그런 장소에 입고 갈 만한 옷도 없었고, 나와는 상관없는 장소라고 느꼈다.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023082554145109.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[It’s Just that We’re Used to Anxiety]]></title>
-            <link>https://ildaro.com/9706</link>
-            <guid>https://ildaro.com/9706</guid>
-            <pubDate>Thu, 14 Sep 2023 07:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[“Those bitches... are fucking pretty.” My friend heard not just what I said but also what one of the men said as they passed....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023082448346935.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
