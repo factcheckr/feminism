@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 04:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 05:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국보다 앞서 강간죄 개정한 일본…‘비동의 성교죄’ 들여다보기]]></title>
+            <link>https://ildaro.com/9727</link>
+            <guid>https://ildaro.com/9727</guid>
+            <pubDate>Thu, 21 Sep 2023 05:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[이는 “No Means No” 형법이라고 할 수 있습니다. 그리고 처벌 규정의 본질 및 조문에 부합하는 명칭으로서 죄명도 ‘비동의 성교 등 죄’로 변경되었습니다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023092116097708.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[생활동반자법은 누구를 대변하는가?]]></title>
             <link>https://ildaro.com/9726</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 26 Aug 2023 10:02:00 GMT</pubDate>
             <content:encoded><![CDATA[지인에게 “나는 조롱에 갇힌 새 신세”라고 한탄하기도 했어요. 하지만 다른 한편으로 “여기는 사람 소리가 있어서 따뜻하다”는 이야기도 합니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023082611192453.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에콰도르 교도소에서 탄생한 페미니스트 단체 이야기]]></title>
-            <link>https://ildaro.com/9707</link>
-            <guid>https://ildaro.com/9707</guid>
-            <pubDate>Fri, 25 Aug 2023 09:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[“주말이 되면 고용주와 그 가족이 멋 부리고 미술관이나 공연장에 갔다. 나는 그런 장소에 입고 갈 만한 옷도 없었고, 나와는 상관없는 장소라고 느꼈다.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023082554145109.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
