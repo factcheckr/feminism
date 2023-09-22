@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 09:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 10:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[“화류계 썰 푼다” 친근하게 다가가는 성매매 알선 콘텐츠 , 통로 된 SNS (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202309221754001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202309221754001</guid>
-            <pubDate>Fri, 22 Sep 2023 09:11:50 GMT</pubDate>
+            <pubDate>Fri, 22 Sep 2023 09:11:01 GMT</pubDate>
             <content:encoded><![CDATA[‘낯가림 심한데 화류계 가능? 더 알아보려면 링크 클릭.’한 유튜브 채널 ‘고정 댓글’에 적힌 글이다. 유튜브, 틱톡, 엑스(옛 트위터) 등을 동시에 운영하는 이 채널에는 ‘#시급 10만원 #초보가능 #밤알바’ ‘키스방 알바하는 10대도 봤습니다’라는 자막과 함께 유흥업계 종사자의 생활을 소개하는 영상이 올라와 있다. 채널 운영자가 올린 웹사이트 주소를 클릭하자 유흥업소 알선 사이트로 연결됐다. ‘일당 50만원’ ‘당일 현금 지급’ 등 조건을 내걸고 노래방·바·가...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/09/22/news-p.v1.20230922.e3c11817deb341e28f688aaafa895d4d_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/b9208b94-9704-49cf-9bde-042f4fe97ac3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“방광염은 직업병” 일터 화장실을 조명하라 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9728</link>
+            <guid>https://ildaro.com/9728</guid>
+            <pubDate>Fri, 22 Sep 2023 10:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[‘화장실에 의해 건강 문제를 겪고 있다’는 비율이 48.3%, ‘화장실과 관련한 심리적 문제(우울, 불안, 자존감 저하 등)가 발생한다’는 비율이 58.9%나 된다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023092207403153.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한국보다 앞서 강간죄 개정한 일본…‘비동의 성교죄’ 들여다보기 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9727</link>
             <guid>https://ildaro.com/9727</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 28 Aug 2023 08:28:00 GMT</pubDate>
             <content:encoded><![CDATA[지난 5년간 창작자들은 끝없는 변화를 요구하고, 요구받았다. 변화는 마법같이 일어나지 않았다. 투쟁했고, 쟁취했다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023082835241245.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[살던 집에서 죽는 것이 최상의 마침표일까? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9708</link>
-            <guid>https://ildaro.com/9708</guid>
-            <pubDate>Sat, 26 Aug 2023 10:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[지인에게 “나는 조롱에 갇힌 새 신세”라고 한탄하기도 했어요. 하지만 다른 한편으로 “여기는 사람 소리가 있어서 따뜻하다”는 이야기도 합니다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023082611192453.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
