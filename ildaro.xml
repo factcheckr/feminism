@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Sep 2023 10:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Sep 2023 11:09:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[환대가 있는 장소, 빛바래지 않는 여행의 기억]]></title>
+            <link>https://ildaro.com/9729</link>
+            <guid>https://ildaro.com/9729</guid>
+            <pubDate>Sat, 23 Sep 2023 11:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[20여 년 전에는 해외여행을 갈 때 ‘한국적인 선물’을 챙겨가라는 팁이 있었다. 인삼 껌이라도 챙겨 가는 게 예의라는 분위기였다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023092315546259.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“방광염은 직업병” 일터 화장실을 조명하라]]></title>
             <link>https://ildaro.com/9728</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 14 Sep 2023 07:11:50 GMT</pubDate>
             <content:encoded><![CDATA[“병원에 가면 내 앞뒤로 사람이 이렇게 많은데, 거리에선 왜 그 어떤 아픔도 보이지 않는걸까? 너무 이상하다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023083001531430.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미투 이후의 연극]]></title>
-            <link>https://ildaro.com/9709</link>
-            <guid>https://ildaro.com/9709</guid>
-            <pubDate>Mon, 28 Aug 2023 08:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난 5년간 창작자들은 끝없는 변화를 요구하고, 요구받았다. 변화는 마법같이 일어나지 않았다. 투쟁했고, 쟁취했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023082835241245.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
