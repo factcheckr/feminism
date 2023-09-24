@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Sep 2023 09:10:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Sep 2023 10:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/b9208b94-9704-49cf-9bde-042f4fe97ac3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우리가 화장실 이야기를 더 많이 해야 하는 이유 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9730</link>
+            <guid>https://ildaro.com/9730</guid>
+            <pubDate>Sun, 24 Sep 2023 10:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[학습지 방문 노동자였던 나의 어머니는 화장실로 인한 불편함을 겪고 싶지 않아, 일할 땐 물을 거의 마시지 않는다고 했다. 그게 버릇이 되어 신장에 문제가 생겼다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/202309245554599.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[환대가 있는 장소, 빛바래지 않는 여행의 기억 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9729</link>
             <guid>https://ildaro.com/9729</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 14 Sep 2023 07:11:50 GMT</pubDate>
             <content:encoded><![CDATA[서로를 환대하는 세상을 만들 수 있도록 함께 노력했음 좋겠어요. 그리고 ‘자립에 필요한 게 무엇일까?’ 했을 때 ‘어른이 필요하다’는 말 좀 그만하자고요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/202308310810145.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아픈 몸들이 속속 말하기에 나섰다! (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9710</link>
-            <guid>https://ildaro.com/9710</guid>
-            <pubDate>Thu, 14 Sep 2023 07:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[“병원에 가면 내 앞뒤로 사람이 이렇게 많은데, 거리에선 왜 그 어떤 아픔도 보이지 않는걸까? 너무 이상하다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/2023083001531430.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
