@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 22:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 23:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나는 돈을 사랑한다!]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1453</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1453</guid>
+            <pubDate>Mon, 25 Sep 2023 23:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[에그머니나! 이 무슨 제목인지 깜짝 놀라셨죠? 속물 같은 선언이긴 하지만, 고백합니다. 저는 정말 돈이 좋습니다. 혹시나 실망하여 '뒤로' 결정을 내리기 전, 조금만 참고 본문을 함께 읽어주세요. 오늘은 시사 현안을 다루는 대신, '파이낸셜 페미니스트(클레이하우스 발행)'라는 책을 소개하려고 하는데요. 필경 평소 '돈'에 관해 저와 같은 고민을 하시는 독자분들이 많을 것이라 생각해요. 다소 개인적인 생각까지 함께 더해 여러분과 돈 이야기를 하고 싶어요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/3735b481-770e-4baf-b718-5e2a1293f244.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그 날로부터 1년이 지났다]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1445</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 17 Jul 2023 23:14:21 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 '경제'와 관련된 두 권의 책을 소개해 드려요. 프랑스 출신의 경제학자 폴린 그로장은 사회에 깊게 뿌리내린 성차별 관습이 여성과 남성의 경제 불평등과 얽혀 있다는 의미에서 '가부장 자본주의'라는 용어를 고안했어요.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/c3a08f39-ffc1-44b0-bb7d-5bab17370858.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엄마를 욕하기 전 생각할 것들]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1349</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1349</guid>
-            <pubDate>Mon, 10 Jul 2023 23:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 조금 무거운 뉴스로 여러분을 찾아왔습니다. '유령 아동'이라는 말, 들어보셨나요? 병원 출산 기록은 있지만 출생신고가 되지 않은, 이른바 '미신고 영아'를 말합니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/b9208b94-9704-49cf-9bde-042f4fe97ac3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
