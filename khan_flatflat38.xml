@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 06:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 07:11:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘엄마’에게만 ‘모성’을 강요하는 학교가 있다면?…‘좋은 엄마 학교’]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202309261515011</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202309261515011</guid>
+            <pubDate>Tue, 26 Sep 2023 07:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[“지독하게 일이 꼬여버린” 9월 어느 날이다. 프리다는 생후 18개월인 딸 해리엇을 데리고 있다는 경찰 연락을 받고는 경찰서로 갔다. “부인은 아이를 혼자 두고 집을 나갔습니다. 동네 사람들이 아이 울음소리를 들었고요”.아동보호국 소속 사회복지사가 조사 때 말했다. “대체 어느 엄마가 외출하고 싶거나 나가봐야 할 때 아기도 데려가야 한다는 걸 모르나요?” 경찰은 유죄를 입증하는 보고서에 “그녀가 자신의 일을 자녀의 안전보다 중요하다고 판단했다”고 지적했...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/26/news-p.v1.20230926.7898b272a6c649eda5f1e1d6eb062fdb_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“여성 노동자 최후의 보루”…‘고용평등상담실’ 지원 중단한 노동부]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202309261000001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 20 Sep 2023 06:14:10 GMT</pubDate>
             <content:encoded><![CDATA[김행 여성가족부 장관 후보자가 2012년 위키트리 유튜브 방송에서 “낙태(임신중지)가 금지된 필리핀에서는 한국인 남자들이 필리핀 여자를 취하고 도망쳐도 코피노를 다 낳는다”면서 “너무 가난하거나 강간을 당해 임신을 원치 않을 경우에도 우리 모두가 부드럽게 받아들일 수 있는 톨러런스(tolerance·관용)가 있으면 여자가 어떻게든 아이를 키울 수 있다고 생각한다”고 말한 것으로 20일 확인됐다. 가톨릭 국가인 필리핀에서는 임신중지 여성을 최대 6년의 징역형에 처한...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/20/news-p.v1.20230920.854b5b14c451444ebc1f753768c6f857_P1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[모로코 지진 이후…성폭력 노출된 소녀들, 월경용품 구하기도 어려워]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202309201100001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202309201100001</guid>
-            <pubDate>Wed, 20 Sep 2023 02:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[규모 6.8 강진으로 3000명 가까이 숨진 모로코에서 아동·청소년 여성들이 성폭력에 노출된 것으로 나타났다. 지진 피해 지역 여성들은 생리용품 수급이 어려워졌으며 위생 문제 또한 겪고 있다.18일(현지시간) 알자지라에 따르면, 모로코 강진 이후 아동·청소년 여성들의 결혼과 성적 착취를 조장하는 게시글이 온라인에 잇따라 올라왔다.생존자 지원에 나선 한 성인 남성은 10살 남짓한 소녀 옆에서 포즈를 취하는 사진을 자신의 인스타그램에 올려 “이 아이는 나와 함께 (카...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/20/news-p.v1.20230920.95110026edbc4c718f4e3ebc62b79a1e_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
