@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 02:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 03:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/c3a08f39-ffc1-44b0-bb7d-5bab17370858.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“尹정부 고용평등 포기선언” 민간 고용평등상담실 폐지에 분노 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9731</link>
+            <guid>https://ildaro.com/9731</guid>
+            <pubDate>Tue, 26 Sep 2023 11:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[공적 시스템이 외면하거나, 공적 시스템에 접근할 수 없는 노동자들이 분명 존재하는 상황에서 민간 상담실을 없애는 건, 사각지대에 놓인 노동자들의 문제를 해결하...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023092640572125.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우리가 화장실 이야기를 더 많이 해야 하는 이유 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9730</link>
             <guid>https://ildaro.com/9730</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 14 Sep 2023 07:11:50 GMT</pubDate>
             <content:encoded><![CDATA[You know the saying, “No news is good news”? At a school that only likes to hear “no news,” teachers are trained to become passive....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023090159304386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘모두가 집이 필요합니다. 청소년도 마찬가지에요’ (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9711</link>
-            <guid>https://ildaro.com/9711</guid>
-            <pubDate>Thu, 14 Sep 2023 07:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[서로를 환대하는 세상을 만들 수 있도록 함께 노력했음 좋겠어요. 그리고 ‘자립에 필요한 게 무엇일까?’ 했을 때 ‘어른이 필요하다’는 말 좀 그만하자고요....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202308/202308310810145.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
