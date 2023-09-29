@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Sep 2023 06:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2023 07:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/c3a08f39-ffc1-44b0-bb7d-5bab17370858.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“We’re Not Going to Disappear Quietly Because We’ve Gone Bankrupt” (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9733</link>
+            <guid>https://ildaro.com/9733</guid>
+            <pubDate>Fri, 29 Sep 2023 07:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[The three broke women who declared they wouldn’t quietly disappear did not consider themselves “losers” in a capitalist society where bankruptcy is equated with failure....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023092916543057.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아픈 사람 이야기, 어디서 접하고 있나요? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9732</link>
             <guid>https://ildaro.com/9732</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 14 Sep 2023 07:11:50 GMT</pubDate>
             <content:encoded><![CDATA[그냥 여기서, 지옥에서 살아야 한다. 송나미랑 황선우처럼 같이 살면 좀 나을 것이다. 그러니까 다들 살면 좋겠다. 지옥에도 연대는 있다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/202309030731598.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 아직 그날 일어났던 일의 이름을 모른다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9713</link>
-            <guid>https://ildaro.com/9713</guid>
-            <pubDate>Thu, 14 Sep 2023 07:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[항거불능이어도 성적인 행위에 대해서는 동의가 있었을 것이라는 것이 기본값인가? 그것도 아니면 술에 취한 채 겪는 성폭력은 보호하지 않아도 되는 것인가?...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023090243402828.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
