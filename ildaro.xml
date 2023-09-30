@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Sep 2023 23:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 00:46:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘당신에게 페미니즘 책을 추천해드려요’]]></title>
+            <link>https://ildaro.com/9734</link>
+            <guid>https://ildaro.com/9734</guid>
+            <pubDate>Sat, 30 Sep 2023 09:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[“저를 포함해 페미니스트들 역시 실패를 하기 마련이기 때문에, 페미니즘의 역사를 배우는 일이 중요하다고 생각해요”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023093025439102.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“We’re Not Going to Disappear Quietly Because We’ve Gone Bankrupt”]]></title>
             <link>https://ildaro.com/9733</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 05 Sep 2023 09:57:00 GMT</pubDate>
             <content:encoded><![CDATA[제가 바라는 것은 단순해요. 사회 전체가, 인터섹스인 사람이 있다는 것을 당연하게 생각하는 것입니다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023090502167923.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지옥에서 연대하기]]></title>
-            <link>https://ildaro.com/9714</link>
-            <guid>https://ildaro.com/9714</guid>
-            <pubDate>Thu, 14 Sep 2023 07:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[그냥 여기서, 지옥에서 살아야 한다. 송나미랑 황선우처럼 같이 살면 좀 나을 것이다. 그러니까 다들 살면 좋겠다. 지옥에도 연대는 있다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/202309030731598.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
