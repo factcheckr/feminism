@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Oct 2023 01:47:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 02:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/c3a08f39-ffc1-44b0-bb7d-5bab17370858.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[떠나지 않고 남은 이주노동자들이 만든 사회 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9735</link>
+            <guid>https://ildaro.com/9735</guid>
+            <pubDate>Mon, 02 Oct 2023 10:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[이민자 국가로서의 독일의 이야기는 손님 노동자와 함께 시작되었으며, 이들의 서사가 ‘손님‘으로 끝나지 않았기 때문에 가능했다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023100256363989.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘당신에게 페미니즘 책을 추천해드려요’ (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9734</link>
             <guid>https://ildaro.com/9734</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 07 Sep 2023 09:37:00 GMT</pubDate>
             <content:encoded><![CDATA[미디어에서 여자씨름이 조금씩 보여지면서 인지도도 올라갔고, 팬도 많아진 것 같아요. 지금이 여자씨름 역사상 가장 팬이 많이 늘어난 시점이 아닌가 싶을 정도로요...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023090747222928.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세상에는 ‘인터섹스’인 사람들이 있다는 것, 상식이 되길 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9715</link>
-            <guid>https://ildaro.com/9715</guid>
-            <pubDate>Tue, 05 Sep 2023 09:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[제가 바라는 것은 단순해요. 사회 전체가, 인터섹스인 사람이 있다는 것을 당연하게 생각하는 것입니다...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023090502167923.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
