@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 00:48:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 01:50:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생활동반자법에도 담기지 못한 가족이 있습니다]]></title>
+            <link>https://ildaro.com/9736</link>
+            <guid>https://ildaro.com/9736</guid>
+            <pubDate>Wed, 04 Oct 2023 09:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[“이주노동자들이 외로워할 수 있고, 연애를 하고 결혼도 할 수 있다는 생각을 아예 하지 않는 거다. 이들이 가족을 구성할 수 있다는 상상 자체를 하지 않는다.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023100459086039.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[떠나지 않고 남은 이주노동자들이 만든 사회]]></title>
             <link>https://ildaro.com/9735</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 09 Sep 2023 11:20:00 GMT</pubDate>
             <content:encoded><![CDATA[코로나 팬데믹 후, 일본 여행이 재개된다는 소식과 함께 떠난 그녀의 우연한 여행은 거기서 그치질 않고, 지금도 이어지고 있다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023090928263258.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여자씨름 선수들이 일으키는 ‘모래바람’이 불어온다]]></title>
-            <link>https://ildaro.com/9716</link>
-            <guid>https://ildaro.com/9716</guid>
-            <pubDate>Thu, 07 Sep 2023 09:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[미디어에서 여자씨름이 조금씩 보여지면서 인지도도 올라갔고, 팬도 많아진 것 같아요. 지금이 여자씨름 역사상 가장 팬이 많이 늘어난 시점이 아닌가 싶을 정도로요...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023090747222928.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 00:48:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 01:50:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘소록도’의 천사 할매, 마가렛 피사렉]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202310041044001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202310041044001</guid>
+            <pubDate>Wed, 04 Oct 2023 01:49:27 GMT</pubDate>
+            <content:encoded><![CDATA[〈 ※이 기사는 2023년 3월 15일자 경향신문 ‘파란 눈의 ‘한센인 할매’’를 재가공하였습니다. 〉서럽도록 외로운 ‘작은 사슴섬’ 소록도에 파란 눈의 천사 할매들이 있었다. 한 살 많은 마리안느가 큰할매, 한 살 적은 마가렛은 작은할매다. 오스트리아 인스브루크대학병원 간호학교를 마치고 1960년대 한국의 한센인 격리 수용지 소록도를 찾아 온 두 간호사는 20대 청춘 시절부터 70대에 이르기까지 평생을 환자들과 함께했다. 1995년 12월 소록도에 간 경...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/04/news-p.v1.20231004.9d9c5702bc05424db083c697d927f368_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[피해자에게 한 발 나아간 법… ‘항거 곤란’ 폐기한 ‘강제추행죄’]]></title>
             <link>https://www.khan.co.kr/national/court-law/article/202309271003001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 21 Sep 2023 06:14:40 GMT</pubDate>
             <content:encoded><![CDATA[귀가하던 20대 여성을 무차별 폭행해 의식을 잃게 한 이른바 ‘부산 돌려차기’ 사건의 가해자가 징역 20년형을 확정받았다.대법원 1부(주심 서경환 대법관)는 성폭력처벌법 위반(강간등살인) 혐의로 기소된 이모씨에게 징역 20년을 선고한 원심 판결을 21일 확정했다.이씨는 지난해 5월22일 오전 5시쯤 부산 진구 서면에서 귀가하던 여성 피해자를 10여분간 쫓아간 뒤 오피스텔 공동현관에서 때려 살해하려 한 혐의로 2심에서 징역 20년을 선고받았다.당초 이씨는 살인미수 혐의로...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/09/21/news-p.v1.20230921.2a2b4a842d024120a54e8d7d58be6c04_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“여성은 약하고 제압할 수 있다는 편견, 깨고 싶었죠 ” 동네를 지키는 여성들]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202309211001001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202309211001001</guid>
-            <pubDate>Thu, 21 Sep 2023 01:44:14 GMT</pubDate>
-            <content:encoded><![CDATA[지난 14일 오후 7시30분 무렵 서울 강동구 고덕파출소에 다양한 연령대의 여성들이 모였다. 등 뒤에 ‘순찰’이라고 적힌 형광조끼를 입고 한 손에는 야광봉을 든 채였다. 이들은 경찰과 야간 합동 순찰을 위해 모인 고덕1동 여성 자율방범대원들이다. 류재광 고덕파출소장이 파출소 밖에서 이들을 맞았다.지난달 관악구 등산로 살인 사건 이후 고덕 여성자율방범대는 부쩍 바빠졌다. 주 2회 1~2시간 정도 동네를 돈다. 동네 야산을 순찰하는 빈도도 늘었다. 이날의 순찰 코...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/09/21/news-p.v1.20230920.0da7a73ed77c4ff09219cccaec87916d_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
