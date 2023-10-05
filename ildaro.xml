@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 03:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 04:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신은 기계와 더 닮았나요, 돼지와 더 닮았나요?]]></title>
+            <link>https://ildaro.com/9737</link>
+            <guid>https://ildaro.com/9737</guid>
+            <pubDate>Thu, 05 Oct 2023 00:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[털을 한 올 한 올 보기도 하고 소의 머리에 붙은 벌레의 이동을 보기도 한다. 영화는 인간의 리듬을 걷어내고, 한 번도 기다려보지 않았던 존재를 위해 시간을 들이게 ...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023100516144708.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[생활동반자법에도 담기지 못한 가족이 있습니다]]></title>
             <link>https://ildaro.com/9736</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 10 Sep 2023 09:25:00 GMT</pubDate>
             <content:encoded><![CDATA[“We want to say that we aren’t deficient just because we only graduated high school. It’s not because we’re lacking something that we didn’t go to university. It’s our choice....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023091029579414.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로컬여행은 ‘마음의 지도’를 따라]]></title>
-            <link>https://ildaro.com/9717</link>
-            <guid>https://ildaro.com/9717</guid>
-            <pubDate>Sat, 09 Sep 2023 11:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[코로나 팬데믹 후, 일본 여행이 재개된다는 소식과 함께 떠난 그녀의 우연한 여행은 거기서 그치질 않고, 지금도 이어지고 있다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023090928263258.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
