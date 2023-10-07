@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Oct 2023 13:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 14:10:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/c3a08f39-ffc1-44b0-bb7d-5bab17370858.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“Kim Hyeonjin, Born 1998,” A Girl Falsely Framed As A #MeToo Liar (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9739</link>
+            <guid>https://ildaro.com/9739</guid>
+            <pubDate>Sat, 07 Oct 2023 14:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[instead of “Hyeonjin, Born 1998” which was the result of false frame by the perpetrator, I call her name once again—“Hyeonjin,” the brave survivor....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/202310075534615.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[도시재생 마을에서 ‘어쩌다 보니 글로벌한 파티’ (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9738</link>
             <guid>https://ildaro.com/9738</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 14 Sep 2023 07:11:50 GMT</pubDate>
             <content:encoded><![CDATA[누군가는 ‘남성영화’를 배제하는 서울여성독립영화제의 조건이 차별적이라 할지 모른다. 그들 역시 ‘남성영화’를 위한 시공간이 언제, 어디에나 존재한다는 사실...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023091205416899.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성 홈리스는 왜 안 보일까요? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9719</link>
-            <guid>https://ildaro.com/9719</guid>
-            <pubDate>Thu, 14 Sep 2023 07:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[‘홈리스가 뭔 노동이야? 그 사람들이 일을 하면 홈리스가 아니겠지’라는 편견과 달리 여성 홈리스도 노동을 한다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023091026485217.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
