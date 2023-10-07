@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Oct 2023 03:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 04:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/c3a08f39-ffc1-44b0-bb7d-5bab17370858.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[도시재생 마을에서 ‘어쩌다 보니 글로벌한 파티’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9738</link>
+            <guid>https://ildaro.com/9738</guid>
+            <pubDate>Sat, 07 Oct 2023 00:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[마침 그날 도착해 타마를 먼저 만날 수 있었던 걸 생각해보면, 나의 여행 운을 다시금 실감할 수 있다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/202310075407894.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[당신은 기계와 더 닮았나요, 돼지와 더 닮았나요? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9737</link>
             <guid>https://ildaro.com/9737</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 14 Sep 2023 07:11:50 GMT</pubDate>
             <content:encoded><![CDATA[‘홈리스가 뭔 노동이야? 그 사람들이 일을 하면 홈리스가 아니겠지’라는 편견과 달리 여성 홈리스도 노동을 한다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023091026485217.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[High School Graduate Workers: We Are Not Deficient (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9718</link>
-            <guid>https://ildaro.com/9718</guid>
-            <pubDate>Sun, 10 Sep 2023 09:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[“We want to say that we aren’t deficient just because we only graduated high school. It’s not because we’re lacking something that we didn’t go to university. It’s our choice....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023091029579414.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
