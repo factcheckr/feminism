@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Oct 2023 10:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2023 11:09:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신은 인종차별주의자가 아닌가요?]]></title>
+            <link>https://ildaro.com/9740</link>
+            <guid>https://ildaro.com/9740</guid>
+            <pubDate>Sun, 08 Oct 2023 11:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[너와 나/우리를 가르는, 그 차이를 “눈에 보이는 ‘외모’로부터 눈에 보이지 않는 ‘혈통’과 ‘지성’을 상상하고 우열을 매기는 데서 출발”하는 인종주의가 문제...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023100844425535.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“Kim Hyeonjin, Born 1998,” A Girl Falsely Framed As A #MeToo Liar]]></title>
             <link>https://ildaro.com/9739</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 14 Sep 2023 09:33:00 GMT</pubDate>
             <content:encoded><![CDATA[혼인평등 운동이 혼인에 있어 선택권의 문제를 넘어, 평등을 확장해나가는 운동이 되기 위해 어떤 언어로 설명하고, 어떻게 연대를 만들어갈 수 있는가가 과제로 놓여...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023091441111342.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“여성이 (⏤ ⏤ ⏤ ⏤) 만든다”]]></title>
-            <link>https://ildaro.com/9720</link>
-            <guid>https://ildaro.com/9720</guid>
-            <pubDate>Thu, 14 Sep 2023 07:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[누군가는 ‘남성영화’를 배제하는 서울여성독립영화제의 조건이 차별적이라 할지 모른다. 그들 역시 ‘남성영화’를 위한 시공간이 언제, 어디에나 존재한다는 사실...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023091205416899.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
