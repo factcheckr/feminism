@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 22:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 23:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/09/26/news-p.v1.20230925.a70f4f715169488b90babb2001863b2b_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["왜 남자만 군대 가?" (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1466</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1466</guid>
+            <pubDate>Mon, 09 Oct 2023 23:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 최근 헌법재판소의 결정 하나를 소개하는 짧은 뉴스레터로 여러분을 만나려고 합니다.&nbsp;]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/406b52a4-68ac-4716-9e70-ffe665ed9278.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[나는 돈을 사랑한다! (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1453</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1453</guid>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 24 Jul 2023 23:11:35 GMT</pubDate>
             <content:encoded><![CDATA[현지시간 20일 열린 2023 호주·뉴질랜드 여자월드컵이 갖는 의미는 큽니다. 우선 역대 최대 규모입니다. 한국을 비롯한 32개 참가국 선수들이 우승을 노립니다. 선수들은 성차별과 편견과도 맞서 싸웁니다. 직전 대회인 2019 프랑스 여성월드컵보다 상금은 3배 올랐지만, 2022년 카타르 남성월드컵보다 훨씬 못 미칩니다.&nbsp;]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/e3115a00-088b-4a32-be6f-a155ba272123.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["여성할당제는 공정한 제도다" (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1356</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1356</guid>
-            <pubDate>Mon, 17 Jul 2023 23:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 '경제'와 관련된 두 권의 책을 소개해 드려요. 프랑스 출신의 경제학자 폴린 그로장은 사회에 깊게 뿌리내린 성차별 관습이 여성과 남성의 경제 불평등과 얽혀 있다는 의미에서 '가부장 자본주의'라는 용어를 고안했어요.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/c3a08f39-ffc1-44b0-bb7d-5bab17370858.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[당신은 인종차별주의자가 아닌가요? (일다 ─ 전체기사)]]></title>
