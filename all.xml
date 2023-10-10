@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 00:47:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 01:46:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[학대와 차별, 고민해 본 적 없는 ‘외국인 가사노동자제도’의 민낯 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202310101015001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202310101015001</guid>
+            <pubDate>Tue, 10 Oct 2023 01:44:32 GMT</pubDate>
+            <content:encoded><![CDATA[매주 일요일이면 홍콩 센트럴 인근 광장과 상가는 신문이나 깔개를 깔고 삼삼오오 모여 앉은 여성들로 가득 찬다. 노래를 부르고 춤을 추거나 텐트를 치고 쉬는 모습도 흔하다. 이들은 인도네시아나 필리핀에서 온 가사노동자로, 유일한 휴일인 일요일을 맞아 고용주의 집에서 나와 시간을 보낸다. 1970년대부터 외국인 가사노동자를 받기 시작해 현재 약 33만8000명(2022년 기준)이 일하고 있는 홍콩에서 익숙하게 굳어진 풍경이다.세계는 가사노동자를 내보내고 받아들이는 망...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/10/news-p.v1.20231006.f7c8b17dbdf3492485284648c51271ed_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해 노벨평화상에 ‘이란 여성인권운동가’ 나르게스 모하마디 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202310061830001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 26 Sep 2023 07:10:27 GMT</pubDate>
             <content:encoded><![CDATA[“지독하게 일이 꼬여버린” 9월 어느 날이다. 프리다는 생후 18개월인 딸 해리엇을 데리고 있다는 경찰 연락을 받고는 경찰서로 갔다. “부인은 아이를 혼자 두고 집을 나갔습니다. 동네 사람들이 아이 울음소리를 들었고요”.아동보호국 소속 사회복지사가 조사 때 말했다. “대체 어느 엄마가 외출하고 싶거나 나가봐야 할 때 아기도 데려가야 한다는 걸 모르나요?” 경찰은 유죄를 입증하는 보고서에 “그녀가 자신의 일을 자녀의 안전보다 중요하다고 판단했다”고 지적했...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/26/news-p.v1.20230926.7898b272a6c649eda5f1e1d6eb062fdb_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“여성 노동자 최후의 보루”…‘고용평등상담실’ 지원 중단한 노동부 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202309261000001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202309261000001</guid>
-            <pubDate>Tue, 26 Sep 2023 01:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[“간곡히 부탁드립니다. 고용평등상담실을 없애지 말아 주세요. 직장 내 성희롱 피해자의 외침을 외면하지 말아 주세요.”20대 직장인 A씨는 지난해 전 직장에서 대표에게 직장 내 성희롱·성추행을 당하고 퇴사했다. A씨는 노동청과 경찰에 대표를 신고했다. 검찰은 대표에게 죄가 있다고 보고 대표를 약식기소(정식재판 대신 서면재판으로 벌금형을 내려달라는 청구)했지만, 대표가 이에 불복해 정식재판을 요구하면서 법적 다툼이 길어졌다.A씨는 법률·노무상담조차 받지 못한 채...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/09/26/news-p.v1.20230925.a70f4f715169488b90babb2001863b2b_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[학대와 차별, 고민해 본 적 없는 ‘외국인 가사노동자제도’의 민낯 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202310101015001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202310101015001</guid>
+            <pubDate>Tue, 10 Oct 2023 01:45:18 GMT</pubDate>
+            <content:encoded><![CDATA[매주 일요일이면 홍콩 센트럴 인근 광장과 상가는 신문이나 깔개를 깔고 삼삼오오 모여 앉은 여성들로 가득 찬다. 노래를 부르고 춤을 추거나 텐트를 치고 쉬는 모습도 흔하다. 이들은 인도네시아나 필리핀에서 온 가사노동자로, 유일한 휴일인 일요일을 맞아 고용주의 집에서 나와 시간을 보낸다. 1970년대부터 외국인 가사노동자를 받기 시작해 현재 약 33만8000명(2022년 기준)이 일하고 있는 홍콩에서 익숙하게 굳어진 풍경이다.세계는 가사노동자를 내보내고 받아들이는 망...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/10/news-p.v1.20231006.f7c8b17dbdf3492485284648c51271ed_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[올해 노벨평화상에 ‘이란 여성인권운동가’ 나르게스 모하마디 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202310061830001</link>
             <guid>https://www.khan.co.kr/world/world-general/article/202310061830001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 26 Sep 2023 07:10:27 GMT</pubDate>
             <content:encoded><![CDATA[“지독하게 일이 꼬여버린” 9월 어느 날이다. 프리다는 생후 18개월인 딸 해리엇을 데리고 있다는 경찰 연락을 받고는 경찰서로 갔다. “부인은 아이를 혼자 두고 집을 나갔습니다. 동네 사람들이 아이 울음소리를 들었고요”.아동보호국 소속 사회복지사가 조사 때 말했다. “대체 어느 엄마가 외출하고 싶거나 나가봐야 할 때 아기도 데려가야 한다는 걸 모르나요?” 경찰은 유죄를 입증하는 보고서에 “그녀가 자신의 일을 자녀의 안전보다 중요하다고 판단했다”고 지적했...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/09/26/news-p.v1.20230926.7898b272a6c649eda5f1e1d6eb062fdb_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“여성 노동자 최후의 보루”…‘고용평등상담실’ 지원 중단한 노동부 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202309261000001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202309261000001</guid>
-            <pubDate>Tue, 26 Sep 2023 01:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[“간곡히 부탁드립니다. 고용평등상담실을 없애지 말아 주세요. 직장 내 성희롱 피해자의 외침을 외면하지 말아 주세요.”20대 직장인 A씨는 지난해 전 직장에서 대표에게 직장 내 성희롱·성추행을 당하고 퇴사했다. A씨는 노동청과 경찰에 대표를 신고했다. 검찰은 대표에게 죄가 있다고 보고 대표를 약식기소(정식재판 대신 서면재판으로 벌금형을 내려달라는 청구)했지만, 대표가 이에 불복해 정식재판을 요구하면서 법적 다툼이 길어졌다.A씨는 법률·노무상담조차 받지 못한 채...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/09/26/news-p.v1.20230925.a70f4f715169488b90babb2001863b2b_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["왜 남자만 군대 가?" (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
