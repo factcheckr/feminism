@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 00:47:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 01:46:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성매매 단속하며 인권침해 했던 경찰…‘성매매 단속 지침’ 만든다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202310111017001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202310111017001</guid>
+            <pubDate>Wed, 11 Oct 2023 01:45:57 GMT</pubDate>
+            <content:encoded><![CDATA[경찰이 국가인권위원회의 권고에 따라 성매매 단속 관련한 지침을 제정하고, 성매매 피의자의 인권보호를 위한 내부 실태조사를 실시하기로 했다.9일 경향신문이 이성만 무소속 의원실을 통해 확보한 자료를 종합하면, 경찰청은 성매매 단속과 관련한 인권위 권고 결정에 대해 ‘수용하겠다’는 입장을 최근 인권위에 제출했다. 경찰청은 “전국 풍속업무 경찰관들이 성매매 등 단속 현장에서 헌법상 보장된 국민의 기본적 인권을 보장하되 (중략) 단속 현장 촬영시 인격권, 개인...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/11/news-p.v1.20231011.60cce21bfed54defa5a923303a7dfac4_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[절룩이는 걸음으로…‘집념’이 만든 21세 안세영의 금메달]]></title>
             <link>https://www.khan.co.kr/sports/olympic-asian_games/article/202310101546011</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 04 Oct 2023 06:15:01 GMT</pubDate>
             <content:encoded><![CDATA[2016년 5월17일 서울 지하철 강남역 인근 화장실에서 한 남성이 일면식도 없는 여성을 살해한 ‘강남역 살인사건’이 일어났다. 가해자가 여성이 들어올 때까지 기다리다가 범행을 저질렀고 “여성들에게 피해를 봐서 범행했다”고 진술했는데도, 수사기관은 “여성혐오 범죄라고 볼 수 없다”고 했다. 여성학계와 시민사회에서는 수사기관의 성평등 인식이 낮다며 반발했다. 이후 여성이 살해당하는 사건이 일어날 때마다 ‘여성혐오 범죄’ 여부를 둘러싸고 논쟁이 반복됐다.한국도...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/04/news-p.v1.20231004.4897deb0434b429c8ee5293cc0c889ab_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘소록도’의 천사 할매, 마가렛 피사렉]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202310041044001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202310041044001</guid>
-            <pubDate>Wed, 04 Oct 2023 01:49:27 GMT</pubDate>
-            <content:encoded><![CDATA[〈 ※이 기사는 2023년 3월 15일자 경향신문 ‘파란 눈의 ‘한센인 할매’’를 재가공하였습니다. 〉서럽도록 외로운 ‘작은 사슴섬’ 소록도에 파란 눈의 천사 할매들이 있었다. 한 살 많은 마리안느가 큰할매, 한 살 적은 마가렛은 작은할매다. 오스트리아 인스브루크대학병원 간호학교를 마치고 1960년대 한국의 한센인 격리 수용지 소록도를 찾아 온 두 간호사는 20대 청춘 시절부터 70대에 이르기까지 평생을 환자들과 함께했다. 1995년 12월 소록도에 간 경...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/04/news-p.v1.20231004.9d9c5702bc05424db083c697d927f368_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
