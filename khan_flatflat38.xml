@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 06:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 07:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘탐욕스러운 일자리’ 문제가 가장 심각한 나라]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202310111521001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202310111521001</guid>
+            <pubDate>Wed, 11 Oct 2023 07:10:33 GMT</pubDate>
+            <content:encoded><![CDATA[〈※이 기사는 2023년 10월 11일자 경향신문 ‘[여적]탐욕스러운 일자리’를 재가공하였습니다.〉올해 노벨 경제학상 수상자인 클로디아 골딘 하버드대 교수는 노동시장의 여성 차별에 천착했다. 그는 남녀 임금격차 원인 중 하나로 ‘탐욕스러운 일자리’(Greedy work)를 꼽는다. 남성들은 장시간의 강도 높은 노동으로 두둑한 보수를 받는 ‘탐욕스러운 일자리’를 택하고, 여성들은 가정과 육아라는 전통적인 성별 역할 규범에 따라 ‘유연한 일자리’를 선택한다는 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/11/news-p.v1.20231011.a2bcb20e39bc42d5883c0d7e828e83fc_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성매매 단속하며 인권침해 했던 경찰…‘성매매 단속 지침’ 만든다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202310111017001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 05 Oct 2023 01:50:16 GMT</pubDate>
             <content:encoded><![CDATA[인권단체 헹가우 “16세 가라완드 의식 불명”지하철에서 부축받아 실려 나오는 영상 공개이란 당국 “평소 저혈압…폭행 없었다” 부인이란에서 히잡을 제대로 착용하지 않은 10대 여성이 도덕경찰로부터 폭행을 당해 혼수상태에 빠졌다는 주장이 3일(현지시간) 제기됐다. 지난해 9월16일 20대 여성 마흐사 아미니가 같은 이유로 구금됐다가 의문사한 지 1년만에 비슷한 사건이 발생한 것이다. 인권단체는 진상 조사를 요구했고, 이란 당국은 피해자 부모를 앞세워 여론 통제에 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/05/news-p.v1.20231004.73b608b392484144ade0065d6f623325_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[통계도 기준도 없는 ‘여성혐오 범죄’…“국제표준 도입이 예방 첫걸음”]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202310041502001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202310041502001</guid>
-            <pubDate>Wed, 04 Oct 2023 06:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[2016년 5월17일 서울 지하철 강남역 인근 화장실에서 한 남성이 일면식도 없는 여성을 살해한 ‘강남역 살인사건’이 일어났다. 가해자가 여성이 들어올 때까지 기다리다가 범행을 저질렀고 “여성들에게 피해를 봐서 범행했다”고 진술했는데도, 수사기관은 “여성혐오 범죄라고 볼 수 없다”고 했다. 여성학계와 시민사회에서는 수사기관의 성평등 인식이 낮다며 반발했다. 이후 여성이 살해당하는 사건이 일어날 때마다 ‘여성혐오 범죄’ 여부를 둘러싸고 논쟁이 반복됐다.한국도...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/04/news-p.v1.20231004.4897deb0434b429c8ee5293cc0c889ab_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
