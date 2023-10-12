@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 06:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 07:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘신당역 스토킹 살인’ 전주환 무기징역 확정… 유족 “가석방 없어야”]]></title>
+            <link>https://www.khan.co.kr/national/court-law/article/202310121602001</link>
+            <guid>https://www.khan.co.kr/national/court-law/article/202310121602001</guid>
+            <pubDate>Thu, 12 Oct 2023 07:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[직장 동료를 스토킹한 끝에 신당역에서 살해한 전주환이 대법원에서 무기징역형을 확정받았다.대법원 3부(주심 노정희 대법관)는 특정범죄가중처벌등에 관한 법률 위반(보복살인), 스토킹처벌법, 주거침입 등 혐의로 기소된 전씨에게 무기징역을 선고한 원심을 12일 확정했다.전씨는 지난해 9월 서울지하철 2호선 신당역 여자 화장실에서 미리 준비한 흉기로 서울교통공사 입사 동기인 피해자를 살해한 혐의로 재판에 넘겨졌다. 당시 그는 범행 전 피해자를 협박하고 밤낮을 가리지 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/12/news-p.v1.20231012.ac25294a11f640e0bbf9d7eb24d81dc6_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[처벌 조항도, 처벌 사례도 없는 알바사이트의 ‘성매매 업소’ 광고]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202310121033011</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 06 Oct 2023 01:46:14 GMT</pubDate>
             <content:encoded><![CDATA[방진마스크와 안전모를 착용한 신혜씨, 목장갑을 끼고 망치를 든 애숙씨, 작업화를 신고 드라이버를 허리에 찬 영금씨…….지난 9월14일 서울 영등포구 국회 의원회관 로비에는 이 같은 복장을 입은 건설현장 여성노동자 사진전이 열렸다.사진전을 연 민주노총 건설노조는 “대한민국 건설현장에서는 곳곳에서 여성노동자들이 한 사람의 기능인으로 역할을 하고 있다”며 “건설산업 내 다양한 직종과 계층 속 여성노동자들의 모습을 알리고, 일상 속 현장에서 다양한 여성노동자의...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/06/news-p.v1.20231005.7f6168ace086492187705b6d15832138_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“만화를 그린 덕분에 살았네요”… ‘도박 중독자의 가족’ 이하진 작가]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202310051720001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202310051720001</guid>
-            <pubDate>Thu, 05 Oct 2023 09:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[만화가 이하진은 도박 중독자의 가족이다. 시동생이 중독자다. 수에 밝았던 남편의 동생은 오래전부터 가족의 돈을 도맡아 관리했다. 어느 날 시동생이 주식으로 가족들의 돈을 날렸다. 2008년 글로벌 금융위기 때였다.가족들은 경제 상황 악화에 따른 어쩔 수 없는 일이라 여기고 그냥 넘겼다. 곧 더 안 좋은 소식이 들렸다. 시동생이 어머니의 아파트 판 돈까지 몽땅 한곳에 투자했다 전부 잃었다는 것이다.작가가 ‘중독’에 대해서 알아보기 시작한 것은 이때부터였다. ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/05/news-p.v1.20231005.8660ec104e5845fe878f5f05191d45c0_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
