@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 02:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 03:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/e3115a00-088b-4a32-be6f-a155ba272123.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[여성 비율 높지만, 여성에게 좋은 일터는 아니거든요 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9742</link>
+            <guid>https://ildaro.com/9742</guid>
+            <pubDate>Thu, 12 Oct 2023 11:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[임신과 출산이라는 생애주기의 한 과정이 ‘문제’가 되어버리는 억울한 심정을 아는 여자들은, 나와 내 주변의 여자들이 이 직장을 다닐 수 있도록 무던히 애를 쓴다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023101254059300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘스포츠 미투’의 흔적 찾기 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9741</link>
             <guid>https://ildaro.com/9741</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 16 Sep 2023 12:18:49 GMT</pubDate>
             <content:encoded><![CDATA[케이트 맨은 저서 『다운 걸: 여성혐오의 논리』에서 ‘베푸는 인간’(human giver)과 ‘존재하는 인간’(human being)이라는 용어를 제시했다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023091606362596.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결국 ‘강간죄’는 피해자에게 죄의 책임을 묻는가? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9722</link>
-            <guid>https://ildaro.com/9722</guid>
-            <pubDate>Fri, 15 Sep 2023 10:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[“미투 하지 마. 가족이 다 불행해져. 지금까지 참고 살았으니까 앞으로도 쭉 참고 살아. 너 그러면 엄마 제 명에 못 죽어.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023091552359477.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
