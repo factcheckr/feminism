@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 00:49:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 01:53:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장하준 “성평등 뒤로 돌리려는 것, 19세기에나 할 수 있는 생각” (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202310131034001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202310131034001</guid>
+            <pubDate>Fri, 13 Oct 2023 01:51:24 GMT</pubDate>
+            <content:encoded><![CDATA[“어떻게 하면 노동시간 늘릴까, 어떻게 하면 그나마 일궈온 성평등을 뒤로 돌릴까, 어떻게 하면 가난한 나라의 사람들 데려와 3등 시민으로 만들어서 착취할까 생각하는 건 19세기에나 할 수 있는 생각입니다.”- 장하준 교수장하준 런던대 교수가 지난 6일(현지시간) 신경아 한림대 교수와의 대담에서 “한국은 1960년대로 돌아가는 게 아니라 1860년대로 돌아가고 있다”고 거세게 비판했다.한국은 경제협력개발기구(OECD)에서 통계를 작성해 온 이래 회원국 중 가장 큰 성별...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/13/news-p.v1.20231011.38898bc5794e4cf5be2575a9ee708e60_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘신당역 스토킹 살인’ 전주환 무기징역 확정… 유족 “가석방 없어야” (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/court-law/article/202310121602001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 06 Oct 2023 06:14:16 GMT</pubDate>
             <content:encoded><![CDATA[“혐오 장사로 주가 79배 올려” 비판에… 김 후보자, 책임 인정 대신 “언론 현실”김행 여성가족부 장관 후보자는 5일 자신이 부회장을 맡고 있는 인터넷 매체 ‘위키트리’가 성희롱성, 2차 가해 보도를 했다는 지적에 대해 “저도 부끄럽다”면서도 “이게 지금 대한민국 언론의 현실”이라고 주장했다. 위키트리 운영에 대한 자신의 책임을 인정하는 대신 언론계 현실이 그렇다고 반박한 것이다.김 후보자는 이날 국회에서 열린 여성가족부 장관 인사청문회에서 용혜인 기...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/06/news-p.v1.20231006.f2efecc68541470ab8de7b61ce4e6bb5_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건설현장에 ‘여성 노동자들’이 있다 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/labor/article/202310061010001</link>
-            <guid>https://www.khan.co.kr/national/labor/article/202310061010001</guid>
-            <pubDate>Fri, 06 Oct 2023 01:45:29 GMT</pubDate>
-            <content:encoded><![CDATA[방진마스크와 안전모를 착용한 신혜씨, 목장갑을 끼고 망치를 든 애숙씨, 작업화를 신고 드라이버를 허리에 찬 영금씨…….지난 9월14일 서울 영등포구 국회 의원회관 로비에는 이 같은 복장을 입은 건설현장 여성노동자 사진전이 열렸다.사진전을 연 민주노총 건설노조는 “대한민국 건설현장에서는 곳곳에서 여성노동자들이 한 사람의 기능인으로 역할을 하고 있다”며 “건설산업 내 다양한 직종과 계층 속 여성노동자들의 모습을 알리고, 일상 속 현장에서 다양한 여성노동자의...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/06/news-p.v1.20231005.7f6168ace086492187705b6d15832138_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[장하준 “성평등 뒤로 돌리려는 것, 19세기에나 할 수 있는 생각” (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202310131034001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202310131034001</guid>
+            <pubDate>Fri, 13 Oct 2023 01:52:10 GMT</pubDate>
+            <content:encoded><![CDATA[“어떻게 하면 노동시간 늘릴까, 어떻게 하면 그나마 일궈온 성평등을 뒤로 돌릴까, 어떻게 하면 가난한 나라의 사람들 데려와 3등 시민으로 만들어서 착취할까 생각하는 건 19세기에나 할 수 있는 생각입니다.”- 장하준 교수장하준 런던대 교수가 지난 6일(현지시간) 신경아 한림대 교수와의 대담에서 “한국은 1960년대로 돌아가는 게 아니라 1860년대로 돌아가고 있다”고 거세게 비판했다.한국은 경제협력개발기구(OECD)에서 통계를 작성해 온 이래 회원국 중 가장 큰 성별...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/13/news-p.v1.20231011.38898bc5794e4cf5be2575a9ee708e60_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘신당역 스토킹 살인’ 전주환 무기징역 확정… 유족 “가석방 없어야” (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/court-law/article/202310121602001</link>
             <guid>https://www.khan.co.kr/national/court-law/article/202310121602001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 06 Oct 2023 06:14:16 GMT</pubDate>
             <content:encoded><![CDATA[“혐오 장사로 주가 79배 올려” 비판에… 김 후보자, 책임 인정 대신 “언론 현실”김행 여성가족부 장관 후보자는 5일 자신이 부회장을 맡고 있는 인터넷 매체 ‘위키트리’가 성희롱성, 2차 가해 보도를 했다는 지적에 대해 “저도 부끄럽다”면서도 “이게 지금 대한민국 언론의 현실”이라고 주장했다. 위키트리 운영에 대한 자신의 책임을 인정하는 대신 언론계 현실이 그렇다고 반박한 것이다.김 후보자는 이날 국회에서 열린 여성가족부 장관 인사청문회에서 용혜인 기...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/06/news-p.v1.20231006.f2efecc68541470ab8de7b61ce4e6bb5_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건설현장에 ‘여성 노동자들’이 있다 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/labor/article/202310061010001</link>
-            <guid>https://www.khan.co.kr/national/labor/article/202310061010001</guid>
-            <pubDate>Fri, 06 Oct 2023 01:45:29 GMT</pubDate>
-            <content:encoded><![CDATA[방진마스크와 안전모를 착용한 신혜씨, 목장갑을 끼고 망치를 든 애숙씨, 작업화를 신고 드라이버를 허리에 찬 영금씨…….지난 9월14일 서울 영등포구 국회 의원회관 로비에는 이 같은 복장을 입은 건설현장 여성노동자 사진전이 열렸다.사진전을 연 민주노총 건설노조는 “대한민국 건설현장에서는 곳곳에서 여성노동자들이 한 사람의 기능인으로 역할을 하고 있다”며 “건설산업 내 다양한 직종과 계층 속 여성노동자들의 모습을 알리고, 일상 속 현장에서 다양한 여성노동자의...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/06/news-p.v1.20231005.7f6168ace086492187705b6d15832138_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["왜 남자만 군대 가?" (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
