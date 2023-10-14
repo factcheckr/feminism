@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Oct 2023 01:44:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2023 02:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘뚱뚱한 여자’를 무시해도 용인하는 사회]]></title>
+            <link>https://ildaro.com/9743</link>
+            <guid>https://ildaro.com/9743</guid>
+            <pubDate>Sat, 14 Oct 2023 09:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[“뚱뚱한 사람들은 불완전하다고, 음식을 두려워하고 의심해야 한다고, 내 몸은 실패작이라고, 나 같은 몸으로 살아가는 것은 삶다운 삶이 절대 아니라고 가르쳤다”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023101448255621.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여성 비율 높지만, 여성에게 좋은 일터는 아니거든요]]></title>
             <link>https://ildaro.com/9742</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 17 Sep 2023 11:10:08 GMT</pubDate>
             <content:encoded><![CDATA[“What we are trying to create isn’t a world full of good adults, but a world in which you’re not afraid even if you meet a bad adult.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023091717113480.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성들의 ‘번아웃’]]></title>
-            <link>https://ildaro.com/9723</link>
-            <guid>https://ildaro.com/9723</guid>
-            <pubDate>Sat, 16 Sep 2023 12:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[케이트 맨은 저서 『다운 걸: 여성혐오의 논리』에서 ‘베푸는 인간’(human giver)과 ‘존재하는 인간’(human being)이라는 용어를 제시했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023091606362596.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
