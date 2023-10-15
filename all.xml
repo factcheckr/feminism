@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Oct 2023 09:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Oct 2023 10:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/e3115a00-088b-4a32-be6f-a155ba272123.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[‘돌봄을 하지 않는 노동자’만 들어올 수 있는 일터? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9744</link>
+            <guid>https://ildaro.com/9744</guid>
+            <pubDate>Sun, 15 Oct 2023 10:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[평소에 자녀가 아픈 걸로 휴가를 썼다? 그러면, 어휴, 책임감 없어. 팀장은 휴가를 쓸 거면 “문제 없게 하고 가라” 하거든요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023101538268466.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘뚱뚱한 여자’를 무시해도 용인하는 사회 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9743</link>
             <guid>https://ildaro.com/9743</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 18 Sep 2023 10:05:00 GMT</pubDate>
             <content:encoded><![CDATA[‘대만 퉁즈 핫라인 협회’는 2012년부터 나이든 레즈비언들의 이야기를 듣는 작업을 시작했고, 8년의 시간을 거쳐 2020년 책 『할머니의 여자친구』를 출간했다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023091811157025.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Moving beyond eonni-approved feminism (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9724</link>
-            <guid>https://ildaro.com/9724</guid>
-            <pubDate>Sun, 17 Sep 2023 11:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[“What we are trying to create isn’t a world full of good adults, but a world in which you’re not afraid even if you meet a bad adult.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023091717113480.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
