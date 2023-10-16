@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 22:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 23:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[얘들아, 우리 축구하자!]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1476</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1476</guid>
+            <pubDate>Mon, 16 Oct 2023 23:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[허스펙티브를 보낸 지 3년 째, 드디어 첫 광고가 들어왔습니다. 🎉🎉 특히 첫 광고가 10월 15일 체육의 날을 맞아, 여성들에 운동장을 돌려주기 위한 취지의 한국양성평등교육진흥원의 이벤트를 소개하는 내용이라는 것이 더욱 뜻 깊은데요. 이는 허스펙티브가 오랫동안 독자님 여러분과 함께 쌓아온 공감대와 그 방향을 같이 하는 것이기 때문에 기쁜 마음으로 뉴스레터를 양평원의 콘텐츠 내용으로 채웠습니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/8dad26a5-79d3-4f49-9e80-16f84ad477d3.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["왜 남자만 군대 가?"]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1466</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 31 Jul 2023 23:11:36 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 특별히 독자 피드백함에 접수된 요청을 소개하고 그에 관한 기사를 소개하는 식으로 뉴스레터를 구성해 봤습니다. 뉴스레터 하단으로 이동하시면, 허스펙티브에 의견을 보낼 수 있다는 거 알고 계시죠? 얼마 전에 허스펙티브에 이러한 의견이 들어왔어요.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/78d84b00-3603-4f92-a533-a6ee452d3ace.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리, 오늘 오전 11시에 만나요]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1369</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1369</guid>
-            <pubDate>Mon, 24 Jul 2023 23:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[현지시간 20일 열린 2023 호주·뉴질랜드 여자월드컵이 갖는 의미는 큽니다. 우선 역대 최대 규모입니다. 한국을 비롯한 32개 참가국 선수들이 우승을 노립니다. 선수들은 성차별과 편견과도 맞서 싸웁니다. 직전 대회인 2019 프랑스 여성월드컵보다 상금은 3배 올랐지만, 2022년 카타르 남성월드컵보다 훨씬 못 미칩니다.&nbsp;]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/e3115a00-088b-4a32-be6f-a155ba272123.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
