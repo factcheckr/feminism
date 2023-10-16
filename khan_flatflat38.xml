@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 00:48:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 01:51:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성희롱에 신체적 위협까지…통계조사원이 겪는 ‘문 뒤의 공포’]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202310161041001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202310161041001</guid>
+            <pubDate>Mon, 16 Oct 2023 01:50:15 GMT</pubDate>
+            <content:encoded><![CDATA[“늘 낯선 사람 집을 방문해야 하니 무슨 일이 일어날지 모르는 거죠. 항상 긴장하게 돼요. 조사원 대부분이 여성이고….”통계청 통계조사원 A씨(57)는 3년 전 한 가구를 방문했다가 겪은 위협을 아직도 잊지 못한다. 초인종을 눌렀더니 화가 잔뜩 난 중년 남성이 쿵쿵대며 계단을 내려와 손을 번쩍 쳐올렸다. A씨를 본 남성은 손을 내렸지만, A씨는 일을 마치고 돌아오면서도 덜덜 떨었다. 모르는 집을 찾을 때마다 겪는 ‘문 뒤의 공포’는 20년 이상 일한 A씨에게...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/16/news-p.v1.20231016.471d9cb5f4994d6dad196215bf00259e_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장하준 “성평등 뒤로 돌리려는 것, 19세기에나 할 수 있는 생각”]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202310131034001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 06 Oct 2023 10:11:25 GMT</pubDate>
             <content:encoded><![CDATA[노벨위원회가 6일 올해 노벨평화상 수상자로 이란의 인권운동가 나르게스 모하마디를 선정했다고 밝혔다.위원회는 올해 수상자와 관련해 여성 권리와 기후 변화와 관련된 활동을 벌인 인사들에게 초점을 맞추고 있었던 것으로 전해졌다. 모하마디는 그간 이란의 여성 억압에 맞서 싸우고, 인권과 자유를 증진하기 위해 투쟁한 공로를 인정받았다. 그는 현재 수감 중이다.노벨위원회에 따르면 올해 수상 후보자는 351명으로 역대 두 번째로 많았다. 이 중에는 버락 오바마 전 미...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/06/news-p.v1.20231006.0afdf89738c940fc81fba73a6fb16e1b_P1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘역대급 노출’ ‘몹쓸 짓’ 기사로 돈 번 김행 여성가족부 장관 후보자]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202310061459001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202310061459001</guid>
-            <pubDate>Fri, 06 Oct 2023 06:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[“혐오 장사로 주가 79배 올려” 비판에… 김 후보자, 책임 인정 대신 “언론 현실”김행 여성가족부 장관 후보자는 5일 자신이 부회장을 맡고 있는 인터넷 매체 ‘위키트리’가 성희롱성, 2차 가해 보도를 했다는 지적에 대해 “저도 부끄럽다”면서도 “이게 지금 대한민국 언론의 현실”이라고 주장했다. 위키트리 운영에 대한 자신의 책임을 인정하는 대신 언론계 현실이 그렇다고 반박한 것이다.김 후보자는 이날 국회에서 열린 여성가족부 장관 인사청문회에서 용혜인 기...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/06/news-p.v1.20231006.f2efecc68541470ab8de7b61ce4e6bb5_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
