@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 09:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 10:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/e3115a00-088b-4a32-be6f-a155ba272123.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[의료‧돌봄 시스템의 모든 틈을 메우는 이름, ‘보호자’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9746</link>
+            <guid>https://ildaro.com/9746</guid>
+            <pubDate>Mon, 16 Oct 2023 10:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[의사나 간호사가 찾을 때 항상 대답해야 하는 사람, 병원이 해주지 않는 것들을 해내야 하는 사람, 환자의 치료와 회복의 단계마다 많은 것을 선택하고 결정해야 하는...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023101621388600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The Reason Why Sexual Violence Committed with the Help of Alcohol and Drugs Persists (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9745</link>
             <guid>https://ildaro.com/9745</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 21 Sep 2023 05:11:40 GMT</pubDate>
             <content:encoded><![CDATA[이는 “No Means No” 형법이라고 할 수 있습니다. 그리고 처벌 규정의 본질 및 조문에 부합하는 명칭으로서 죄명도 ‘비동의 성교 등 죄’로 변경되었습니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023092116097708.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생활동반자법은 누구를 대변하는가? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9726</link>
-            <guid>https://ildaro.com/9726</guid>
-            <pubDate>Wed, 20 Sep 2023 10:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[생활동반자등록은 이성/동성 혼인을 위한 사전 준비도 아니고, 동성혼을 허용하지 않기 위해서 동성파트너들에게 차별적으로 주어지는 혜택이 되어서도 안 된다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023092001393350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
