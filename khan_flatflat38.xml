@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 06:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 07:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[게임유저들 ‘또’ 페미 사상검증, 카카오게임즈 ‘게임 구현’ 취소]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202310161525011</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202310161525011</guid>
+            <pubDate>Mon, 16 Oct 2023 07:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[카카오게임즈 모바일 게임 ‘가디언 테일즈’가 진행한 공모전에서 게임 이용자(유저)들이 공모전 참여 여성 작가의 ‘페미니즘 성향’을 문제 삼자 당선작을 게임에 구현하겠던 가디언 테일즈는 발표 7시간 만에 결정을 번복했다. 회사는 “젠더 이슈 때문이 아니”라는 입장이지만 일부 게임 유저들이 여성 작가의 사회관계망서비스(SNS) 등을 뒤지고 문제제기하면 회사가 받아들이는 행태를 반복하고 있다는 비판이 나온다.16일 경향신문 취재 결과 가디언 테일즈는 지난 8월 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/16/news-p.v1.20231015.ca52bb0deaa24ba0bbecc9735cc2ec22_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성희롱에 신체적 위협까지…통계조사원이 겪는 ‘문 뒤의 공포’]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202310161041001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 10 Oct 2023 01:44:32 GMT</pubDate>
             <content:encoded><![CDATA[매주 일요일이면 홍콩 센트럴 인근 광장과 상가는 신문이나 깔개를 깔고 삼삼오오 모여 앉은 여성들로 가득 찬다. 노래를 부르고 춤을 추거나 텐트를 치고 쉬는 모습도 흔하다. 이들은 인도네시아나 필리핀에서 온 가사노동자로, 유일한 휴일인 일요일을 맞아 고용주의 집에서 나와 시간을 보낸다. 1970년대부터 외국인 가사노동자를 받기 시작해 현재 약 33만8000명(2022년 기준)이 일하고 있는 홍콩에서 익숙하게 굳어진 풍경이다.세계는 가사노동자를 내보내고 받아들이는 망...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/10/news-p.v1.20231006.f7c8b17dbdf3492485284648c51271ed_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해 노벨평화상에 ‘이란 여성인권운동가’ 나르게스 모하마디]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202310061830001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202310061830001</guid>
-            <pubDate>Fri, 06 Oct 2023 10:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[노벨위원회가 6일 올해 노벨평화상 수상자로 이란의 인권운동가 나르게스 모하마디를 선정했다고 밝혔다.위원회는 올해 수상자와 관련해 여성 권리와 기후 변화와 관련된 활동을 벌인 인사들에게 초점을 맞추고 있었던 것으로 전해졌다. 모하마디는 그간 이란의 여성 억압에 맞서 싸우고, 인권과 자유를 증진하기 위해 투쟁한 공로를 인정받았다. 그는 현재 수감 중이다.노벨위원회에 따르면 올해 수상 후보자는 351명으로 역대 두 번째로 많았다. 이 중에는 버락 오바마 전 미...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/06/news-p.v1.20231006.0afdf89738c940fc81fba73a6fb16e1b_P1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
