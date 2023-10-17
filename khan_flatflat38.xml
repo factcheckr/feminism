@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 07:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 08:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“남군은 경례, 여군은 애교?” 성차별 지적에 여성 지운 파주시]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202310171634001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202310171634001</guid>
+            <pubDate>Tue, 17 Oct 2023 08:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[도라산 전망대에 설치된 남녀 군인 구조물이 성차별적이라는 시민단체의 지적에 경기 파주시가 여군 구조물을 철거한 것으로 파악됐다. 성차별 문제를 지적하자 문제를 해결하는 대신 한쪽 성을 지워버리는 방식으로 대처했다는 지적이 나온다.17일 군인권센터 부설 군성폭력상담소에 따르면 지난달 30일까지 경기 파주시 도라산 전망대 잔디광장에 남성 군인은 경례 자세, 여성 군인은 허리에 손을 얹고 주먹을 움켜쥔 채 다리를 모으고 ‘화이팅’ 하는 자세를 취한 구조물이...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/17/news-p.v1.20231017.3a2e17dc04784deea2270a40eb770023_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘여성적 오염’에서 도망치는 서구문화의 전통을 파헤치다]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202310171215001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 10 Oct 2023 07:10:33 GMT</pubDate>
             <content:encoded><![CDATA[“경기가 어떻게 끝났는지도 모르겠어요.”믹스트존을 지나는 안세영(21·삼성생명)은 오른쪽 다리를 제대로 딛지도 못하는 상태였다. 시상대에서 내려올 때도 조심스럽게 한발씩 내디뎌야 했고, 평지도 절룩거리며 걸었다. 그런 부상도 아시아 정상을 향한 ‘세계 1위’의 집념을 꺾진 못했다.안세영이 오른 무릎 부상을 이겨내고 2022 항저우 아시안게임 여자 단식 챔피언에 올랐다.세계랭킹 1위인 안세영은 지난 7일 중국 저장성 항저우 빈장체육관에서 끝난 대회 여자 단식 결승...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/10/news-p.v1.20231010.cfa0039762e84a38b1d1f68f5db783e9_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노벨 경제학상, 뿌리깊은 ‘성별 임금격차’ 원인 분석한 클로디아 골딘]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202310101404001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202310101404001</guid>
-            <pubDate>Tue, 10 Oct 2023 05:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[올해 노벨 경제학상은 노동시장에서 뿌리 깊은 성별 임금격차의 원인을 분석하고 대안을 모색하는 데 기여해온 미국 경제학자 클로디아 골딘 하버드대 교수(77)가 수상의 영예를 안았다.스웨덴 왕립과학원 노벨위원회는 9일(현지시간) 골딘 교수를 올해 경제학상 수상자로 선정했다고 발표했다. 골딘 교수는 2009년 엘리너 오스트롬, 2019년 에스테르 뒤플로에 이어 3번째 여성 노벨 경제학상 수상자다.위원회는 골딘 교수가 기록보관소를 샅샅이 뒤지며 미국에서 200년 이상의 데이...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/10/news-p.v1.20231010.d61bb487fbc84ed6b4bcad0d0eec1e41_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
