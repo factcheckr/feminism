@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 00:48:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 01:48:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘한국에 돌아가지 않겠다’ 독일 정부와 맞선 한인 간호사들]]></title>
+            <link>https://ildaro.com/9747</link>
+            <guid>https://ildaro.com/9747</guid>
+            <pubDate>Wed, 18 Oct 2023 10:24:00 GMT</pubDate>
+            <content:encoded><![CDATA["우리는 독일 병원이 필요로 했기 때문에 이곳에 왔다. 하지만 우리는 상품처럼 이리저리 보내지기를 원하지 않는다."...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023101832258353.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[의료‧돌봄 시스템의 모든 틈을 메우는 이름, ‘보호자’]]></title>
             <link>https://ildaro.com/9746</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 22 Sep 2023 10:13:27 GMT</pubDate>
             <content:encoded><![CDATA[‘화장실에 의해 건강 문제를 겪고 있다’는 비율이 48.3%, ‘화장실과 관련한 심리적 문제(우울, 불안, 자존감 저하 등)가 발생한다’는 비율이 58.9%나 된다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023092207403153.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국보다 앞서 강간죄 개정한 일본…‘비동의 성교죄’ 들여다보기]]></title>
-            <link>https://ildaro.com/9727</link>
-            <guid>https://ildaro.com/9727</guid>
-            <pubDate>Thu, 21 Sep 2023 05:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[이는 “No Means No” 형법이라고 할 수 있습니다. 그리고 처벌 규정의 본질 및 조문에 부합하는 명칭으로서 죄명도 ‘비동의 성교 등 죄’로 변경되었습니다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023092116097708.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
