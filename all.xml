@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 07:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 08:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,7 +176,7 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/19/news-p.v1.20231018.0998ccf7496a4ae6a184890e47ab06c4_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여성 없는 재판부, 법정에 여성 법관이 있으면 달라지는 것 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <title><![CDATA[여성 없는 재판부, 법정에 여성 법관이 있으면 달라지는 것[플랫] (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202310181629001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202310181629001</guid>
             <pubDate>Wed, 18 Oct 2023 08:14:32 GMT</pubDate>
