@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 08:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 09:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[육아휴직으로 인한 승진탈락, ‘성차별’ 맞다는 의미 있는 판단]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202310191732001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202310191732001</guid>
+            <pubDate>Thu, 19 Oct 2023 09:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[〈※이 기사는 2023년 10월 17일자 경향신문 ‘[사설]육아휴직 썼다고 승진 탈락시킨‘성차별’ 철퇴, 온당하다’를 재가공하였습니다.〉 육아휴직을 썼다고 승진에서 탈락시킨 사업주에 대해 ‘성차별을 시정하라’는 판단이 처음으로 나왔다. 중앙노동위원회는 육아휴직 사용 후 복귀한 직원 직급을 강등하고 승진에서 차별한 과학·기술서비스업체 사업주에 대해 지난달 4일 성차별 시정명령 판정을 내렸다고 16일 밝혔다. 남녀고용평등법 개정으로 지난해 5월 고용상 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/19/news-p.v1.20231019.3388b6505ea047aaa57cc0ec790e2412_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“엄마가 행복해야 다문화 가정 인식도 바뀐다” 농구하는 엄마들]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202310191004001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 12 Oct 2023 07:11:31 GMT</pubDate>
             <content:encoded><![CDATA[직장 동료를 스토킹한 끝에 신당역에서 살해한 전주환이 대법원에서 무기징역형을 확정받았다.대법원 3부(주심 노정희 대법관)는 특정범죄가중처벌등에 관한 법률 위반(보복살인), 스토킹처벌법, 주거침입 등 혐의로 기소된 전씨에게 무기징역을 선고한 원심을 12일 확정했다.전씨는 지난해 9월 서울지하철 2호선 신당역 여자 화장실에서 미리 준비한 흉기로 서울교통공사 입사 동기인 피해자를 살해한 혐의로 재판에 넘겨졌다. 당시 그는 범행 전 피해자를 협박하고 밤낮을 가리지 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/12/news-p.v1.20231012.ac25294a11f640e0bbf9d7eb24d81dc6_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[처벌 조항도, 처벌 사례도 없는 알바사이트의 ‘성매매 업소’ 광고]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202310121033011</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202310121033011</guid>
-            <pubDate>Thu, 12 Oct 2023 01:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[알바천국·알바몬 구직사이트에서 삭제된 성매매 업소 의심 구직광고가 올 상반기에만 1만 건이 넘는 것으로 나타났다. 올 초 이 같은 문제가 지적된 바 있지만 이후에도 개선이 이뤄지지 않은 셈이다. 관련 법에 처벌 규정과 신고 의무가 없어 유명무실하다는 지적이 나온다.10일 경향신문이 국회 행정안전위원회 소속 더불어민주당 임호선 의원을 통해 입수한 자료에 따르면 지난 2월부터 7월 사이 구직사이트 알바몬과 알바천국에서 삭제된 성매매업소 의심 구직광고가 1만...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/12/news-p.v1.20231012.31e0a48c4bac429c8fef9af61bb3443f_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
