@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 00:48:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 01:47:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“엄마가 행복해야 다문화 가정 인식도 바뀐다” 농구하는 엄마들]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202310191004001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202310191004001</guid>
+            <pubDate>Thu, 19 Oct 2023 01:45:32 GMT</pubDate>
+            <content:encoded><![CDATA[“어머니들이 행복하게 사는 모습을 통해 다문화 가정에 대한 인식을 바꾸는 게 목표입니다. 다치지 말고, 싸우지 맙시다.”지난 12일 서울 용산구 이촌동 용산청소년센터 체육관. 양옆으로 길게 줄지어 선 운동복 차림의 여성 13명을 앞에 두고 천수길 한국농구발전연구소장이 말했다. 선수들 사이에 천 소장의 말을 옮기는 중국어와 영어 몇 마디가 바삐 오갔다. 한국농구발전연구소가 모집한 ‘다문화 어머니 농구단’은 이렇게 첫발을 뗐다.이들은 2012년부터 연구소가 운영...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/19/news-p.v1.20231018.0998ccf7496a4ae6a184890e47ab06c4_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여성 없는 재판부, 법정에 여성 법관이 있으면 달라지는 것]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202310181629001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 12 Oct 2023 01:43:01 GMT</pubDate>
             <content:encoded><![CDATA[알바천국·알바몬 구직사이트에서 삭제된 성매매 업소 의심 구직광고가 올 상반기에만 1만 건이 넘는 것으로 나타났다. 올 초 이 같은 문제가 지적된 바 있지만 이후에도 개선이 이뤄지지 않은 셈이다. 관련 법에 처벌 규정과 신고 의무가 없어 유명무실하다는 지적이 나온다.10일 경향신문이 국회 행정안전위원회 소속 더불어민주당 임호선 의원을 통해 입수한 자료에 따르면 지난 2월부터 7월 사이 구직사이트 알바몬과 알바천국에서 삭제된 성매매업소 의심 구직광고가 1만...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/12/news-p.v1.20231012.31e0a48c4bac429c8fef9af61bb3443f_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘탐욕스러운 일자리’ 문제가 가장 심각한 나라]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202310111521001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202310111521001</guid>
-            <pubDate>Wed, 11 Oct 2023 07:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[〈※이 기사는 2023년 10월 11일자 경향신문 ‘[여적]탐욕스러운 일자리’를 재가공하였습니다.〉올해 노벨 경제학상 수상자인 클로디아 골딘 하버드대 교수는 노동시장의 여성 차별에 천착했다. 그는 남녀 임금격차 원인 중 하나로 ‘탐욕스러운 일자리’(Greedy work)를 꼽는다. 남성들은 장시간의 강도 높은 노동으로 두둑한 보수를 받는 ‘탐욕스러운 일자리’를 택하고, 여성들은 가정과 육아라는 전통적인 성별 역할 규범에 따라 ‘유연한 일자리’를 선택한다는 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/11/news-p.v1.20231011.a2bcb20e39bc42d5883c0d7e828e83fc_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
