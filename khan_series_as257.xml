@@ -4,7 +4,7 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 06:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 07:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/20/news-p.v1.20231019.41a7120652054d048b3a607d3235d513_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오경미 대법관이 말하는 ‘대법관 다양화’가 필요한 이유]]></title>
+            <title><![CDATA[오경미 대법관이 말하는 ‘대법관 다양화’가 필요한 이유[플랫]]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202310201010001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202310201010001</guid>
             <pubDate>Fri, 20 Oct 2023 01:46:08 GMT</pubDate>
