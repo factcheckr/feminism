@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 10:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 11:10:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2014년생이 묻는다, 우리 사회 안전한가요?]]></title>
+            <link>https://ildaro.com/9748</link>
+            <guid>https://ildaro.com/9748</guid>
+            <pubDate>Fri, 20 Oct 2023 11:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[지금 우리 사회에서 어린이의 목소리를 들을 수 있는 곳이 거의 없잖아요. 이 목소리가 확장되는 게 정말 중요하다는 생각이 들어서 당사자를 무대 위에 올린거죠....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023102014111315.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘한국에 돌아가지 않겠다’ 독일 정부와 맞선 한인 간호사들]]></title>
             <link>https://ildaro.com/9747</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 23 Sep 2023 11:09:36 GMT</pubDate>
             <content:encoded><![CDATA[20여 년 전에는 해외여행을 갈 때 ‘한국적인 선물’을 챙겨가라는 팁이 있었다. 인삼 껌이라도 챙겨 가는 게 예의라는 분위기였다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023092315546259.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“방광염은 직업병” 일터 화장실을 조명하라]]></title>
-            <link>https://ildaro.com/9728</link>
-            <guid>https://ildaro.com/9728</guid>
-            <pubDate>Fri, 22 Sep 2023 10:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[‘화장실에 의해 건강 문제를 겪고 있다’는 비율이 48.3%, ‘화장실과 관련한 심리적 문제(우울, 불안, 자존감 저하 등)가 발생한다’는 비율이 58.9%나 된다...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023092207403153.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
