@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Oct 2023 11:09:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Oct 2023 12:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중간이 비어있는 도넛 같은 공동체를 꿈꿔]]></title>
+            <link>https://ildaro.com/9749</link>
+            <guid>https://ildaro.com/9749</guid>
+            <pubDate>Sat, 21 Oct 2023 12:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[가운데가 비어 있다는 건 카리스마형 리더나 단단한 중심 없이도 연결될 수 있다는 뜻이다. 하지만 중심이 눈에 보이지 않는다고 해서 비어있는 건 아니란다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023102154376602.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2014년생이 묻는다, 우리 사회 안전한가요?]]></title>
             <link>https://ildaro.com/9748</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 24 Sep 2023 10:11:25 GMT</pubDate>
             <content:encoded><![CDATA[학습지 방문 노동자였던 나의 어머니는 화장실로 인한 불편함을 겪고 싶지 않아, 일할 땐 물을 거의 마시지 않는다고 했다. 그게 버릇이 되어 신장에 문제가 생겼다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/202309245554599.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환대가 있는 장소, 빛바래지 않는 여행의 기억]]></title>
-            <link>https://ildaro.com/9729</link>
-            <guid>https://ildaro.com/9729</guid>
-            <pubDate>Sat, 23 Sep 2023 11:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[20여 년 전에는 해외여행을 갈 때 ‘한국적인 선물’을 챙겨가라는 팁이 있었다. 인삼 껌이라도 챙겨 가는 게 예의라는 분위기였다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023092315546259.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
