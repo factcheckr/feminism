@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Oct 2023 10:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 11:09:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/78d84b00-3603-4f92-a533-a6ee452d3ace.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘쓸모없음’의 사상에 저항하라 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9750</link>
+            <guid>https://ildaro.com/9750</guid>
+            <pubDate>Sun, 22 Oct 2023 11:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[‘쓸모없음’의 사상을 생각하기 위해서는 그 ‘쓸모없음’이 ‘권력자’에게 있어서의 ‘쓸모없음’이라고 바라보는 관점이 중요합니다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023102258056731.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[중간이 비어있는 도넛 같은 공동체를 꿈꿔 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9749</link>
             <guid>https://ildaro.com/9749</guid>
@@ -478,14 +486,6 @@
             <pubDate>Tue, 26 Sep 2023 11:33:00 GMT</pubDate>
             <content:encoded><![CDATA[공적 시스템이 외면하거나, 공적 시스템에 접근할 수 없는 노동자들이 분명 존재하는 상황에서 민간 상담실을 없애는 건, 사각지대에 놓인 노동자들의 문제를 해결하...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023092640572125.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리가 화장실 이야기를 더 많이 해야 하는 이유 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9730</link>
-            <guid>https://ildaro.com/9730</guid>
-            <pubDate>Sun, 24 Sep 2023 10:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[학습지 방문 노동자였던 나의 어머니는 화장실로 인한 불편함을 겪고 싶지 않아, 일할 땐 물을 거의 마시지 않는다고 했다. 그게 버릇이 되어 신장에 문제가 생겼다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/202309245554599.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
