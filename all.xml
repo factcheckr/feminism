@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 22:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 23:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/17/news-p.v1.20231013.752ab52271dd47f4b442d2eec6aa3277_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[남초 커뮤니티 대해부 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1482</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1482</guid>
+            <pubDate>Mon, 23 Oct 2023 23:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 두 권의 책을 소개하며 함께 생각할 거리를 던져보려고 해요. 모두 제가 직접 읽고 서평을 쓴 책입니다. 제법 날씨가 쌀쌀해졌는데, 야외활동이 어렵다면 이 두 권의 책을 읽고 허스펙티브와 함께 감상을 나눠보는 건 어떨까요?]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/e4b2d736-2fd8-4082-a323-3ed04cec61ae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[얘들아, 우리 축구하자! (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1476</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1476</guid>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 07 Aug 2023 23:11:26 GMT</pubDate>
             <content:encoded><![CDATA[오늘 뉴스레터는 '외국인 가사노동자' 이슈에 대해 쓴 외부필진의 강렬한 칼럼 제목으로 문을 열었습니다. 고용노동부가 연내 필리핀 등 외국 출신 노동자를 100명가량 받아들여 서울에서 '외국인 가사도우미' 사업을 시범 운영한다는 계획을 공식화했습니다. 직장에 다니며 아이를 키우는 20~40대 맞벌이 부부, 한부모, 임산부 등이 서비스 이용자가 될 예정입니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/70617d18-90a1-4f3c-8a7b-941604a5049b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여자는 '성' 얘기하면 왜 안돼? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1376</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1376</guid>
-            <pubDate>Mon, 31 Jul 2023 23:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 특별히 독자 피드백함에 접수된 요청을 소개하고 그에 관한 기사를 소개하는 식으로 뉴스레터를 구성해 봤습니다. 뉴스레터 하단으로 이동하시면, 허스펙티브에 의견을 보낼 수 있다는 거 알고 계시죠? 얼마 전에 허스펙티브에 이러한 의견이 들어왔어요.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/78d84b00-3603-4f92-a533-a6ee452d3ace.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘쓸모없음’의 사상에 저항하라 (일다 ─ 전체기사)]]></title>
