@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 01:48:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 02:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“임신중지약 사이트 차단은 정당하다” 판결한 법원]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202310231102001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202310231102001</guid>
+            <pubDate>Mon, 23 Oct 2023 02:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[법원이 임신중지약을 제공하는 해외 웹사이트 ‘위민온웹’의 접속을 차단한 방송통신심의위원회(방심위)의 조치가 정당하다고 판결했다.21일 법조계에 따르면 서울행정법원 행정12부(정용석 부장판사)는 지난 12일 캐나다 비영리법인 위민온웹 인터내셔널 파운데이션이 방심위를 상대로 낸 시정요구 처분 취소 소송에서 원고 패소로 판결했다.방심위는 지난 2021년 12월 위민온웹이 약사법 등을 위반해 임신중지유도제를 판매했다며 정보통신망법에 따라 망사업자들에게 위민온웹 접속을 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/23/news-p.v1.20231023.efe2ba93355e4f6982553614412b94bf_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[156명 중 8명, 최초이자 소수의 역사를 써온 여성 ‘대법관’들]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202310201503001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 16 Oct 2023 07:10:53 GMT</pubDate>
             <content:encoded><![CDATA[카카오게임즈 모바일 게임 ‘가디언 테일즈’가 진행한 공모전에서 게임 이용자(유저)들이 공모전 참여 여성 작가의 ‘페미니즘 성향’을 문제 삼자 당선작을 게임에 구현하겠던 가디언 테일즈는 발표 7시간 만에 결정을 번복했다. 회사는 “젠더 이슈 때문이 아니”라는 입장이지만 일부 게임 유저들이 여성 작가의 사회관계망서비스(SNS) 등을 뒤지고 문제제기하면 회사가 받아들이는 행태를 반복하고 있다는 비판이 나온다.16일 경향신문 취재 결과 가디언 테일즈는 지난 8월 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/16/news-p.v1.20231015.ca52bb0deaa24ba0bbecc9735cc2ec22_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성희롱에 신체적 위협까지…통계조사원이 겪는 ‘문 뒤의 공포’]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202310161041001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202310161041001</guid>
-            <pubDate>Mon, 16 Oct 2023 01:50:15 GMT</pubDate>
-            <content:encoded><![CDATA[“늘 낯선 사람 집을 방문해야 하니 무슨 일이 일어날지 모르는 거죠. 항상 긴장하게 돼요. 조사원 대부분이 여성이고….”통계청 통계조사원 A씨(57)는 3년 전 한 가구를 방문했다가 겪은 위협을 아직도 잊지 못한다. 초인종을 눌렀더니 화가 잔뜩 난 중년 남성이 쿵쿵대며 계단을 내려와 손을 번쩍 쳐올렸다. A씨를 본 남성은 손을 내렸지만, A씨는 일을 마치고 돌아오면서도 덜덜 떨었다. 모르는 집을 찾을 때마다 겪는 ‘문 뒤의 공포’는 20년 이상 일한 A씨에게...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/16/news-p.v1.20231016.471d9cb5f4994d6dad196215bf00259e_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
