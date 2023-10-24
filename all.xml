@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 05:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 06:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,7 +192,7 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/23/news-p.v1.20231023.efe2ba93355e4f6982553614412b94bf_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[156명 중 8명, 최초이자 소수의 역사를 써온 여성 ‘대법관’들 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <title><![CDATA[156명 중 8명, 최초이자 소수의 역사를 써온 여성 ‘대법관’들 [플랫] (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202310201503001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202310201503001</guid>
             <pubDate>Fri, 20 Oct 2023 06:14:40 GMT</pubDate>
