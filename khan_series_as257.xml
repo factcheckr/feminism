@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 00:47:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 01:46:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여성 고용률 올라도… ‘고용 성별격차’ OECD 8위]]></title>
+            <link>https://www.khan.co.kr/national/labor/article/202310251029001</link>
+            <guid>https://www.khan.co.kr/national/labor/article/202310251029001</guid>
+            <pubDate>Wed, 25 Oct 2023 01:45:31 GMT</pubDate>
+            <content:encoded><![CDATA[국내 여성 고용률이 과거보다 큰 폭 올랐음에도 불구하고 남녀 고용률 격차는 여전히 경제협력개발기구(OECD) 회원 38개국 가운데 8번째로 큰 것으로 나타났다.23일 OECD 기준 고용률 통계에 따르면 한국의 올해 2분기 고용률은 남성 76.92%, 여성 61.36%로 집계되며 남성의 고용률이 여성보다 15.56%포인트 높았다.이는 OECD 38개 회원국 중 튀르키예(36.32%포인트), 멕시코(29.55%포인트), 코스타리카(26.01%포인트), 콜롬비아(24.08%포인트), 그리스(17.95%포인트), 이탈리아(17.92...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/25/news-p.v1.20231025.94d010f7c20e4ab9b387f7f320703969_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘도덕경찰 폭행 의혹’ 이란 여성, 3주 만에 뇌사 판정]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202310241041001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 18 Oct 2023 01:48:11 GMT</pubDate>
             <content:encoded><![CDATA[17일 국회 환경노동위원회 국정감사에서 ‘게임업계 페미니즘 사이버불링(사이버 따돌림)·사상검증’으로부터 노동자를 보호하기 위한 방안이 처음 논의됐다. 고용노동부와 소속기관 서울·중부고용노동청은 “노동자 보호를 위한 필요한 조치를 취하겠다”고 밝혔다.우원식 더불어민주당 의원은 “피해 노동자를 보호해야 하는 의무는 정부에 있는데 게임업계는 완전 방치됐다”며 “특별근로감독이 필요하다”고 말했다. 이에 대해 하형소 서울고용노동청장은 “그간 근로감독은 중대재해 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/18/news-p.v1.20231018.ece55e7aee5a4da1b88e47612713a5db_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“남군은 경례, 여군은 애교?” 성차별 지적에 여성 지운 파주시]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202310171634001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202310171634001</guid>
-            <pubDate>Tue, 17 Oct 2023 08:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[도라산 전망대에 설치된 남녀 군인 구조물이 성차별적이라는 시민단체의 지적에 경기 파주시가 여군 구조물을 철거한 것으로 파악됐다. 성차별 문제를 지적하자 문제를 해결하는 대신 한쪽 성을 지워버리는 방식으로 대처했다는 지적이 나온다.17일 군인권센터 부설 군성폭력상담소에 따르면 지난달 30일까지 경기 파주시 도라산 전망대 잔디광장에 남성 군인은 경례 자세, 여성 군인은 허리에 손을 얹고 주먹을 움켜쥔 채 다리를 모으고 ‘화이팅’ 하는 자세를 취한 구조물이...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/17/news-p.v1.20231017.3a2e17dc04784deea2270a40eb770023_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
