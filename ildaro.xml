@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 09:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 10:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[저임금과 차별대우에 ‘파업’으로 맞선 이주여성노동자들]]></title>
+            <link>https://ildaro.com/9752</link>
+            <guid>https://ildaro.com/9752</guid>
+            <pubDate>Wed, 25 Oct 2023 10:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[회사의 예상과 다르게, 여성 이주노동자들은 시위의 동력을 잃지 않았다. 점차 독일인 남성 숙련공들도 시위에 참여하기 시작했다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023102516152415.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“1층이 있는 삶을 모두에게” 청사진을 그리는 사람들]]></title>
             <link>https://ildaro.com/9751</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 29 Sep 2023 07:11:42 GMT</pubDate>
             <content:encoded><![CDATA[The three broke women who declared they wouldn’t quietly disappear did not consider themselves “losers” in a capitalist society where bankruptcy is equated with failure....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023092916543057.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아픈 사람 이야기, 어디서 접하고 있나요?]]></title>
-            <link>https://ildaro.com/9732</link>
-            <guid>https://ildaro.com/9732</guid>
-            <pubDate>Thu, 28 Sep 2023 00:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[“브이로거들이 건강한 몸으로는 결코 알 수 없는, 아픈 몸의 경험에서만 배울 수 있는 삶을 성찰하고, 그것을 영상에 담아 보여준다”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023092832594622.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
