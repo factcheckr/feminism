@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 05:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 06:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예능 속 ‘찐친 케미’…‘남성 카르텔’이 주는 불균형한 위화감]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202310261432001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202310261432001</guid>
+            <pubDate>Thu, 26 Oct 2023 06:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[7년 전 처음 방영했던 JTBC &lt;패키지로 세계일주-뭉쳐야 뜬다&gt;(이하 &lt;뭉뜬&gt;)의 제목은 지금 보면 미래를 예견하는 듯하다. 아직 미완이던 안정환은 현재 가장 활발히 활동하는 예능인이 되었고, 이미 검증된 MC였던 김성주는 &lt;냉장고를 부탁해&gt;에서부터 본격적으로 이어져온 안정환과의 조합으로 몇 개의 예능과 MBC에서의 월드컵 및 아시안게임 중계, 그리고 탈모약 광고까지 함께했다. 공황장애로 방송을 떠났던 정형돈과 불미스러운 일로 출연이 한동안 금...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/26/news-p.v1.20231026.ecc8381ab5be4642807439cd4e13ea74_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘인하대 성폭행 추락사’ 가해자, 준강간치사죄 징역 20년 확정]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202310261108001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 19 Oct 2023 09:12:15 GMT</pubDate>
             <content:encoded><![CDATA[〈※이 기사는 2023년 10월 17일자 경향신문 ‘[사설]육아휴직 썼다고 승진 탈락시킨‘성차별’ 철퇴, 온당하다’를 재가공하였습니다.〉 육아휴직을 썼다고 승진에서 탈락시킨 사업주에 대해 ‘성차별을 시정하라’는 판단이 처음으로 나왔다. 중앙노동위원회는 육아휴직 사용 후 복귀한 직원 직급을 강등하고 승진에서 차별한 과학·기술서비스업체 사업주에 대해 지난달 4일 성차별 시정명령 판정을 내렸다고 16일 밝혔다. 남녀고용평등법 개정으로 지난해 5월 고용상 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/19/news-p.v1.20231019.3388b6505ea047aaa57cc0ec790e2412_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“엄마가 행복해야 다문화 가정 인식도 바뀐다” 농구하는 엄마들]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202310191004001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202310191004001</guid>
-            <pubDate>Thu, 19 Oct 2023 01:46:18 GMT</pubDate>
-            <content:encoded><![CDATA[“어머니들이 행복하게 사는 모습을 통해 다문화 가정에 대한 인식을 바꾸는 게 목표입니다. 다치지 말고, 싸우지 맙시다.”지난 12일 서울 용산구 이촌동 용산청소년센터 체육관. 양옆으로 길게 줄지어 선 운동복 차림의 여성 13명을 앞에 두고 천수길 한국농구발전연구소장이 말했다. 선수들 사이에 천 소장의 말을 옮기는 중국어와 영어 몇 마디가 바삐 오갔다. 한국농구발전연구소가 모집한 ‘다문화 어머니 농구단’은 이렇게 첫발을 뗐다.이들은 2012년부터 연구소가 운영...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/19/news-p.v1.20231018.0998ccf7496a4ae6a184890e47ab06c4_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
