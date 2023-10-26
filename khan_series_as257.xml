@@ -4,7 +4,7 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 07:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 08:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,7 +24,7 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/26/news-p.v1.20231026.61fa059c90b3434abe782b45e987482f_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[법원의 ‘엘리트 코스’… 사법행정 꽉 잡은 법관들의 ‘남성연대’]]></title>
+            <title><![CDATA[법원의 ‘엘리트 코스’… 사법행정 꽉 잡은 법관들의 ‘남성연대’[플랫]]]></title>
             <link>https://www.khan.co.kr/national/court-law/article/202310251425001</link>
             <guid>https://www.khan.co.kr/national/court-law/article/202310251425001</guid>
             <pubDate>Wed, 25 Oct 2023 06:15:43 GMT</pubDate>
