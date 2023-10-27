@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 05:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 06:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[외국인 가사노동자는 ‘고시원’에서 출·퇴근 하면 된다는 생각]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202310271424001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202310271424001</guid>
+            <pubDate>Fri, 27 Oct 2023 06:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[외국인 가사노동자 시범사업에 따라 이르면 올해 12월부터 입국하는 외국인 노동자 100명 중 일부에게는 초기 숙소로 고시원을 제공하는 방안이 추진된다. 사회적 고립을 심화시켜 외국인 노동자의 이탈을 부를 수 있다는 우려가 나온다.더불어민주당 노웅래 의원이 25일 고용노동부에서 제출받은 자료를 보면 외국인 가사노동자 시범사업자로 선정된 민간업체 한 곳은 가사노동자 숙소를 일하는 지역과 가까운 고시원으로 마련했다.해당 업체는 공모심사 시 제출한 계획서에서 “...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/27/news-p.v1.20231027.3319200350114ca1a4df4e7bba67453f_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘한국형 제시카법’ 법적 토대는 분명히, 부작용은 막아야]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202310271022001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 20 Oct 2023 06:15:29 GMT</pubDate>
             <content:encoded><![CDATA[156명 중 8명. 1948년 제헌헌법 제정 이후 현재까지 임명된 대법관 중 여성의 수다. 남성들이 지배한 법관 사회에서 여성 법관들은 가는 곳마다 최초이자 소수의 역사를 썼다. 2004년 첫 여성 대법관이 탄생했다. 그러나 보수적이고 폐쇄적인 법원 문화에서 여성 대법관 수는 정권 성향에 따라 오락가락했다.“여자가 판사라니! 시기상조요.” 1952년 김병로 대법원장이 이태영 박사를 판사로 임용하자고 건의하자 이승만 대통령이 했다는 말이다. 여성 최초로 서울대 법대를 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/20/news-p.v1.20231019.41a7120652054d048b3a607d3235d513_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오경미 대법관이 말하는 ‘대법관 다양화’가 필요한 이유[플랫]]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202310201010001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202310201010001</guid>
-            <pubDate>Fri, 20 Oct 2023 01:46:08 GMT</pubDate>
-            <content:encoded><![CDATA[오경미 대법관(55세)은 지난 8월20일 법원 내부에서 ‘특별한 강연’을 했다. 법원 내 ‘현대사회와 성범죄 연구회’가 주최한 법관 연수 강연이다. 오 대법관은 현재 3명인 여성 대법관 중 1명이다. 대법관 13명 중 권영준 대법관(53세) 다음으로 젊고, 사법연수원 기수(25기)는 권 대법관과 함께 가장 낮다. 2021년 9월 취임해 대법관 3년차인 오 대법관이 본 대법원은 어땠을까. 강연에서 그는 여성 대법관, 나아가 대법관 다양화가 필요하다고 말했다.오 대법관은 대법원을...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/20/news-p.v1.20231019.ae1209604b1546e4b2be2585fb7ba8d3_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
