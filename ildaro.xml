@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 02:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 03:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[교회 미투, 바뀐 것과 바뀌지 않은 것]]></title>
+            <link>https://ildaro.com/9753</link>
+            <guid>https://ildaro.com/9753</guid>
+            <pubDate>Fri, 27 Oct 2023 11:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[용기 낸 이들의 ‘이어 말하기’를 통해 개 교회, 각 교단, 신학교에서 미투 운동이 이어졌다. 성폭력 없는 교회, 안전한 교단, 평등한 신학교는 찾아보기 어렵다는 것...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/202310275948492.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[저임금과 차별대우에 ‘파업’으로 맞선 이주여성노동자들]]></title>
             <link>https://ildaro.com/9752</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 30 Sep 2023 09:18:00 GMT</pubDate>
             <content:encoded><![CDATA[“저를 포함해 페미니스트들 역시 실패를 하기 마련이기 때문에, 페미니즘의 역사를 배우는 일이 중요하다고 생각해요”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023093025439102.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“We’re Not Going to Disappear Quietly Because We’ve Gone Bankrupt”]]></title>
-            <link>https://ildaro.com/9733</link>
-            <guid>https://ildaro.com/9733</guid>
-            <pubDate>Fri, 29 Sep 2023 07:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[The three broke women who declared they wouldn’t quietly disappear did not consider themselves “losers” in a capitalist society where bankruptcy is equated with failure....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202309/2023092916543057.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
