@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Oct 2023 09:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Oct 2023 10:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/70617d18-90a1-4f3c-8a7b-941604a5049b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[팬데믹이 드러낸 ‘약자 소외’ 사회 직시해야 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9755</link>
+            <guid>https://ildaro.com/9755</guid>
+            <pubDate>Sun, 29 Oct 2023 10:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[가족이 ‘(장애인을) 죽이도록 만드는’ 사회는 이미 와 있습니다. 코로나로 인해 드러난 것은 약자의 ‘시설화’와 의료와 복지에서의 소외입니다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023102931402800.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Controversy over flip-flopping court decisions on sexual assault of sexual-minority female soldier (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9754</link>
             <guid>https://ildaro.com/9754</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 04 Oct 2023 09:44:00 GMT</pubDate>
             <content:encoded><![CDATA[“이주노동자들이 외로워할 수 있고, 연애를 하고 결혼도 할 수 있다는 생각을 아예 하지 않는 거다. 이들이 가족을 구성할 수 있다는 상상 자체를 하지 않는다.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023100459086039.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[떠나지 않고 남은 이주노동자들이 만든 사회 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9735</link>
-            <guid>https://ildaro.com/9735</guid>
-            <pubDate>Mon, 02 Oct 2023 10:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[이민자 국가로서의 독일의 이야기는 손님 노동자와 함께 시작되었으며, 이들의 서사가 ‘손님‘으로 끝나지 않았기 때문에 가능했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023100256363989.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
