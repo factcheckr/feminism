@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 22:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 23:12:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/23/news-p.v1.20231020.d7237d7bf02147429a735bac2f68317e_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여러분, 저 파업합니다... (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1493</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1493</guid>
+            <pubDate>Mon, 30 Oct 2023 23:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[지난 24일, 아이슬란드의 절반이 멈춰 섰어요. 아이슬란드 여성들은 1975년 첫 총파업을 한 뒤로, 특별한 계기가 있을 때마다 파업에 돌입했는데요. 2018년 파업 이후로 7번째 파업이지만, 24시간 전면 파업은 1975년 이후로 처음이라고 합니다. 유치원과 학교, 은행들은 문을 닫았어요. 아빠들은 재택 근무를 하거나 아이를 데리고 출근했습니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/8bc9260f-75c5-412b-88a6-440a3f9ac477.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[남초 커뮤니티 대해부 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1482</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1482</guid>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 21 Aug 2023 23:11:17 GMT</pubDate>
             <content:encoded><![CDATA[폭염과 운영 부실로 중단 위기에 처했고, 계속 진행되기는 했지만 행사는 파행을 거듭했습니다. 온열질환자가 대거 발생하는가 하면, 열악한 환경 탓에 고충을 겪고 있다는 사실이 알려지면서 각국 대사관에는 본국에 있는 학부모들에게서 항의가 빗발쳤습니다. 미국과 영국 등 참가자가 많은 국가들이 조기 퇴영하고, 야외 행사 대부분은 취소됐습니다.&nbsp;]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/7a9ed982-fb66-4d36-bc5a-65b3641e596a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저출생 구원투수가 온다? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1387</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1387</guid>
-            <pubDate>Mon, 07 Aug 2023 23:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 뉴스레터는 '외국인 가사노동자' 이슈에 대해 쓴 외부필진의 강렬한 칼럼 제목으로 문을 열었습니다. 고용노동부가 연내 필리핀 등 외국 출신 노동자를 100명가량 받아들여 서울에서 '외국인 가사도우미' 사업을 시범 운영한다는 계획을 공식화했습니다. 직장에 다니며 아이를 키우는 20~40대 맞벌이 부부, 한부모, 임산부 등이 서비스 이용자가 될 예정입니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/70617d18-90a1-4f3c-8a7b-941604a5049b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[딸에 대하여, 엄마에 대하여, (--)에 대하여 (일다 ─ 전체기사)]]></title>
