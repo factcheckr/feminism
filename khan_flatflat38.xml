@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 05:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 06:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성차별 해소 위한 ‘AA’ 게시의무, 한 번도 점검 안한 노동부]]></title>
+            <link>https://www.khan.co.kr/national/labor/article/202310301511001</link>
+            <guid>https://www.khan.co.kr/national/labor/article/202310301511001</guid>
+            <pubDate>Mon, 30 Oct 2023 06:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[고용노동부가 ‘적극적 고용개선조치(AA)’ 대상 사업주의 시행계획 게시의무 이행실태를 한 번도 점검하지 않은 것으로 확인됐다. 2006년 도입된 적극적 고용개선조치는 민간기업·공공기관 등을 대상으로 여성고용기준(여성 고용비율 및 관리자 비율)을 충족하도록 유도해 고용상 성차별을 해소하기 위한 제도다.노동부는 26일 더불어민주당 윤건영 의원에게 보낸 답변서에서 “적극적 고용개선조치 대상 사업주가 시행계획 및 이행실적을 게시하고 있는지 실태조사를 한 적은 없으나...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/30/news-p.v1.20231030.2875135552014eb0823a5153b04ed2c8_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[변화하는 혼인의 자유, 정치는 응답하라]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202310300958001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 23 Oct 2023 06:15:16 GMT</pubDate>
             <content:encoded><![CDATA[올해 38세인 박모씨는 두 아이를 키우는 전업주부다. 그가 전업주부의 길을 택한 건 2014년 겨울. 열에 아홉은 남성 직원인 자동차 부품회사에 다녔던 그는 첫 아이 출산 3개월 후 복직했다. 친정 부모가 아기를 봐 주었지만, 곧 고향으로 돌아가야 했다. 그 시절 그는 퇴근하면 부리나케 동네로 달려와 어린이집을 알아보러 다녔다. 그러나 어린이집마다 대기자가 너무 많아 아기를 받아주는 곳을 구하는 데 실패했다. 결국 사표를 썼다.그 뒤 9년이 흘렀다. 책에서 이...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/23/news-p.v1.20231020.d7237d7bf02147429a735bac2f68317e_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“임신중지약 사이트 차단은 정당하다” 판결한 법원]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202310231102001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202310231102001</guid>
-            <pubDate>Mon, 23 Oct 2023 02:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[법원이 임신중지약을 제공하는 해외 웹사이트 ‘위민온웹’의 접속을 차단한 방송통신심의위원회(방심위)의 조치가 정당하다고 판결했다.21일 법조계에 따르면 서울행정법원 행정12부(정용석 부장판사)는 지난 12일 캐나다 비영리법인 위민온웹 인터내셔널 파운데이션이 방심위를 상대로 낸 시정요구 처분 취소 소송에서 원고 패소로 판결했다.방심위는 지난 2021년 12월 위민온웹이 약사법 등을 위반해 임신중지유도제를 판매했다며 정보통신망법에 따라 망사업자들에게 위민온웹 접속을 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/23/news-p.v1.20231023.efe2ba93355e4f6982553614412b94bf_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
