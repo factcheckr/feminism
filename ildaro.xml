@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 03:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 04:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[딸에 대하여, 엄마에 대하여, (--)에 대하여]]></title>
+            <link>https://ildaro.com/9756</link>
+            <guid>https://ildaro.com/9756</guid>
+            <pubDate>Mon, 30 Oct 2023 04:14:42 GMT</pubDate>
+            <content:encoded><![CDATA["그럼에도 내가 아닌 누군가를 향해 가는, 포기하지 않는 마음들에 대해 생각하지 않을 수 없었다.”는 작가의 말....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023103009361489.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팬데믹이 드러낸 ‘약자 소외’ 사회 직시해야]]></title>
             <link>https://ildaro.com/9755</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 05 Oct 2023 00:08:00 GMT</pubDate>
             <content:encoded><![CDATA[털을 한 올 한 올 보기도 하고 소의 머리에 붙은 벌레의 이동을 보기도 한다. 영화는 인간의 리듬을 걷어내고, 한 번도 기다려보지 않았던 존재를 위해 시간을 들이게 ...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023100516144708.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생활동반자법에도 담기지 못한 가족이 있습니다]]></title>
-            <link>https://ildaro.com/9736</link>
-            <guid>https://ildaro.com/9736</guid>
-            <pubDate>Wed, 04 Oct 2023 09:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[“이주노동자들이 외로워할 수 있고, 연애를 하고 결혼도 할 수 있다는 생각을 아예 하지 않는 거다. 이들이 가족을 구성할 수 있다는 상상 자체를 하지 않는다.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023100459086039.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
