@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 00:49:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 01:48:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여성폭력 방지·피해자 예산 142억 삭감…“성평등의 퇴보다”]]></title>
+            <link>https://www.khan.co.kr/national/gender/article/202310311025001</link>
+            <guid>https://www.khan.co.kr/national/gender/article/202310311025001</guid>
+            <pubDate>Tue, 31 Oct 2023 01:47:55 GMT</pubDate>
+            <content:encoded><![CDATA[여성단체들과 시민 7200여명이 여성가족부의 여성폭력 방지 및 피해자 지원 예산 삭감을 ‘성평등 퇴보’로 규정하며 예산안 폐기를 촉구했다.한국여성의전화 등 569개 여성·시민단체로 구성된 ‘여성폭력 방지 및 피해자 지원 예산 감축 철회 촉구 공동행동’은 30일 오전 서울 여의도 국회 본관 앞에서 기자회견을 열어 “여성폭력 재발 방지와 폭력에 대한 전 사회적 인식을 제고하기 위한 예산이 모조리 사라진 것”이라며 “이러한 행보는 종국에는 우리 사회의 성평등을...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/31/news-p.v1.20231030.1f5b547ce59c4721b843b448c78c3757_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성차별 해소 위한 ‘AA’ 게시의무, 한 번도 점검 안한 노동부]]></title>
             <link>https://www.khan.co.kr/national/labor/article/202310301511001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 24 Oct 2023 01:45:50 GMT</pubDate>
             <content:encoded><![CDATA[히잡을 쓰지 않은 채 지하철에 탔다가 도덕경찰에 폭행을 당했다는 의혹이 일고 있는 이란 10대 여성이 결국 뇌사 판정을 받았다.22일(현지시간) 로이터통신·BBC 등에 따르면, 이란 국영 IRINN 방송은 이날 “아르미타 가라완드(16)의 최근 건강 상태에 대한 후속 조사 결과, 의료진의 노력에도 불구하고 뇌사 상태가 확실한 것으로 보인다”고 보도했다.가라완드는 지난 1일 테헤란 지하철에서 의식을 잃고 쓰러진 뒤 지금까지 테헤란 파르즈 병원에서 치료를 받아 왔다. ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/24/news-p.v1.20231024.623ae1ae546042f39f501c763625763f_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남성 중심으로 설계된 ‘국민연금’…모두 무신경했다, ‘여성 연금권’에]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202310231510001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202310231510001</guid>
-            <pubDate>Mon, 23 Oct 2023 06:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[올해 38세인 박모씨는 두 아이를 키우는 전업주부다. 그가 전업주부의 길을 택한 건 2014년 겨울. 열에 아홉은 남성 직원인 자동차 부품회사에 다녔던 그는 첫 아이 출산 3개월 후 복직했다. 친정 부모가 아기를 봐 주었지만, 곧 고향으로 돌아가야 했다. 그 시절 그는 퇴근하면 부리나케 동네로 달려와 어린이집을 알아보러 다녔다. 그러나 어린이집마다 대기자가 너무 많아 아기를 받아주는 곳을 구하는 데 실패했다. 결국 사표를 썼다.그 뒤 9년이 흘렀다. 책에서 이...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/23/news-p.v1.20231020.d7237d7bf02147429a735bac2f68317e_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
