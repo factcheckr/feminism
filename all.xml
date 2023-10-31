@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 05:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 06:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“인생을 계획할 수 있게 된” 대만, 아직은 다른 한국·일본 성소수자의 삶 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202310311445001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202310311445001</guid>
+            <pubDate>Tue, 31 Oct 2023 06:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[대만, 일본, 한국의 다른 정치 상황은 성소수자 당사자들의 삶에 영향을 미친다. 2019년 동성혼을 합법화한 대만은 지난 5월 동성 커플의 입양권도 확대했다. 아이를 입양할 수 있게 된 대만 커플은 “인생을 계획할 수 있게 됐다”고 소감을 밝혔다. 일본 성소수자 권리는 2015년 도쿄 시부야구에서 동성 커플에게 사실혼 관계 증명서를 발급하는 조례를 통과시키면서 전환점을 맞았고 지자체에 파트너십 제도가 확산되면서 현재 70% 이상 인구가 파트너십 제도의 영향을 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/31/news-p.v1.20231030.dd676c84730f49a88187aff9375b0849_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여성폭력 방지·피해자 예산 142억 삭감…“성평등의 퇴보다” (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202310311025001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 25 Oct 2023 01:44:45 GMT</pubDate>
             <content:encoded><![CDATA[국내 여성 고용률이 과거보다 큰 폭 올랐음에도 불구하고 남녀 고용률 격차는 여전히 경제협력개발기구(OECD) 회원 38개국 가운데 8번째로 큰 것으로 나타났다.23일 OECD 기준 고용률 통계에 따르면 한국의 올해 2분기 고용률은 남성 76.92%, 여성 61.36%로 집계되며 남성의 고용률이 여성보다 15.56%포인트 높았다.이는 OECD 38개 회원국 중 튀르키예(36.32%포인트), 멕시코(29.55%포인트), 코스타리카(26.01%포인트), 콜롬비아(24.08%포인트), 그리스(17.95%포인트), 이탈리아(17.92...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/25/news-p.v1.20231025.94d010f7c20e4ab9b387f7f320703969_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘도덕경찰 폭행 의혹’ 이란 여성, 3주 만에 뇌사 판정 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202310241041001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202310241041001</guid>
-            <pubDate>Tue, 24 Oct 2023 01:45:04 GMT</pubDate>
-            <content:encoded><![CDATA[히잡을 쓰지 않은 채 지하철에 탔다가 도덕경찰에 폭행을 당했다는 의혹이 일고 있는 이란 10대 여성이 결국 뇌사 판정을 받았다.22일(현지시간) 로이터통신·BBC 등에 따르면, 이란 국영 IRINN 방송은 이날 “아르미타 가라완드(16)의 최근 건강 상태에 대한 후속 조사 결과, 의료진의 노력에도 불구하고 뇌사 상태가 확실한 것으로 보인다”고 보도했다.가라완드는 지난 1일 테헤란 지하철에서 의식을 잃고 쓰러진 뒤 지금까지 테헤란 파르즈 병원에서 치료를 받아 왔다. ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/24/news-p.v1.20231024.623ae1ae546042f39f501c763625763f_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“인생을 계획할 수 있게 된” 대만, 아직은 다른 한국·일본 성소수자의 삶 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202310311445001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202310311445001</guid>
+            <pubDate>Tue, 31 Oct 2023 06:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[대만, 일본, 한국의 다른 정치 상황은 성소수자 당사자들의 삶에 영향을 미친다. 2019년 동성혼을 합법화한 대만은 지난 5월 동성 커플의 입양권도 확대했다. 아이를 입양할 수 있게 된 대만 커플은 “인생을 계획할 수 있게 됐다”고 소감을 밝혔다. 일본 성소수자 권리는 2015년 도쿄 시부야구에서 동성 커플에게 사실혼 관계 증명서를 발급하는 조례를 통과시키면서 전환점을 맞았고 지자체에 파트너십 제도가 확산되면서 현재 70% 이상 인구가 파트너십 제도의 영향을 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/31/news-p.v1.20231030.dd676c84730f49a88187aff9375b0849_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여성폭력 방지·피해자 예산 142억 삭감…“성평등의 퇴보다” (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202310311025001</link>
             <guid>https://www.khan.co.kr/national/gender/article/202310311025001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 25 Oct 2023 01:44:45 GMT</pubDate>
             <content:encoded><![CDATA[국내 여성 고용률이 과거보다 큰 폭 올랐음에도 불구하고 남녀 고용률 격차는 여전히 경제협력개발기구(OECD) 회원 38개국 가운데 8번째로 큰 것으로 나타났다.23일 OECD 기준 고용률 통계에 따르면 한국의 올해 2분기 고용률은 남성 76.92%, 여성 61.36%로 집계되며 남성의 고용률이 여성보다 15.56%포인트 높았다.이는 OECD 38개 회원국 중 튀르키예(36.32%포인트), 멕시코(29.55%포인트), 코스타리카(26.01%포인트), 콜롬비아(24.08%포인트), 그리스(17.95%포인트), 이탈리아(17.92...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/25/news-p.v1.20231025.94d010f7c20e4ab9b387f7f320703969_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘도덕경찰 폭행 의혹’ 이란 여성, 3주 만에 뇌사 판정 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202310241041001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202310241041001</guid>
-            <pubDate>Tue, 24 Oct 2023 01:45:04 GMT</pubDate>
-            <content:encoded><![CDATA[히잡을 쓰지 않은 채 지하철에 탔다가 도덕경찰에 폭행을 당했다는 의혹이 일고 있는 이란 10대 여성이 결국 뇌사 판정을 받았다.22일(현지시간) 로이터통신·BBC 등에 따르면, 이란 국영 IRINN 방송은 이날 “아르미타 가라완드(16)의 최근 건강 상태에 대한 후속 조사 결과, 의료진의 노력에도 불구하고 뇌사 상태가 확실한 것으로 보인다”고 보도했다.가라완드는 지난 1일 테헤란 지하철에서 의식을 잃고 쓰러진 뒤 지금까지 테헤란 파르즈 병원에서 치료를 받아 왔다. ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/24/news-p.v1.20231024.623ae1ae546042f39f501c763625763f_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여러분, 저 파업합니다... (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
