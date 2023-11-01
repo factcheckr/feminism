@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 06:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 07:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쫓아내려는 국가, 남으려는 사람들, 그리고 아이들]]></title>
+            <link>https://ildaro.com/9757</link>
+            <guid>https://ildaro.com/9757</guid>
+            <pubDate>Wed, 01 Nov 2023 07:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[이주노동자의 삶이 선주민의 삶과 가까워지자, 이들을 혐오하는 극우의 목소리가 사회에서 점점 힘을 얻었다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/202311015017712.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[딸에 대하여, 엄마에 대하여, (--)에 대하여]]></title>
             <link>https://ildaro.com/9756</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 07 Oct 2023 00:47:00 GMT</pubDate>
             <content:encoded><![CDATA[마침 그날 도착해 타마를 먼저 만날 수 있었던 걸 생각해보면, 나의 여행 운을 다시금 실감할 수 있다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/202310075407894.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신은 기계와 더 닮았나요, 돼지와 더 닮았나요?]]></title>
-            <link>https://ildaro.com/9737</link>
-            <guid>https://ildaro.com/9737</guid>
-            <pubDate>Thu, 05 Oct 2023 00:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[털을 한 올 한 올 보기도 하고 소의 머리에 붙은 벌레의 이동을 보기도 한다. 영화는 인간의 리듬을 걷어내고, 한 번도 기다려보지 않았던 존재를 위해 시간을 들이게 ...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023100516144708.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

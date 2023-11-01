@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 06:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 07:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[성착취물 접근 링크 공유하면···대법원 “배포죄로 처벌 가능” (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/court-law/article/202311011449001</link>
             <guid>https://www.khan.co.kr/national/court-law/article/202311011449001</guid>
-            <pubDate>Wed, 01 Nov 2023 06:15:45 GMT</pubDate>
+            <pubDate>Wed, 01 Nov 2023 06:15:01 GMT</pubDate>
             <content:encoded><![CDATA[아동·청소년 성착취물에 접근할 수 있는 링크를 텔레그램 대화방에 게시했다면 성착취물 배포죄로 처벌할 수 있다고 대법원이 판단했다. 다만 타인이 개설한 성착취물 공유 대화방에 단순히 참여만 했다면 성착취물 소지죄로는 처벌할 수 없다고 봤다.대법원 1부(주심 오경미 대법관)는 아동·청소년의 성보호에 관한 법률 위반(성착취물소지) 등 혐의로 기소된 A씨에게 징역 5년6개월을 선고한 원심 판결을 깨고 사건을 서울고법 춘천재판부에 돌려보냈다고 30일 밝혔다.A씨는 20...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/11/01/news-p.v1.20231101.dc3c386ca0184126a5d100fa0957e21f_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/7a9ed982-fb66-4d36-bc5a-65b3641e596a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쫓아내려는 국가, 남으려는 사람들, 그리고 아이들 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9757</link>
+            <guid>https://ildaro.com/9757</guid>
+            <pubDate>Wed, 01 Nov 2023 07:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[이주노동자의 삶이 선주민의 삶과 가까워지자, 이들을 혐오하는 극우의 목소리가 사회에서 점점 힘을 얻었다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/202311015017712.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[딸에 대하여, 엄마에 대하여, (--)에 대하여 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9756</link>
             <guid>https://ildaro.com/9756</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 07 Oct 2023 00:47:00 GMT</pubDate>
             <content:encoded><![CDATA[마침 그날 도착해 타마를 먼저 만날 수 있었던 걸 생각해보면, 나의 여행 운을 다시금 실감할 수 있다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/202310075407894.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신은 기계와 더 닮았나요, 돼지와 더 닮았나요? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9737</link>
-            <guid>https://ildaro.com/9737</guid>
-            <pubDate>Thu, 05 Oct 2023 00:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[털을 한 올 한 올 보기도 하고 소의 머리에 붙은 벌레의 이동을 보기도 한다. 영화는 인간의 리듬을 걷어내고, 한 번도 기다려보지 않았던 존재를 위해 시간을 들이게 ...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023100516144708.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
