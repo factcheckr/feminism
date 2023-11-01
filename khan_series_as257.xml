@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 01:55:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 02:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과거보다 더 복합적이고 미묘한 …법원 내 ‘간접차별’의 방정식]]></title>
+            <link>https://www.khan.co.kr/national/court-law/article/202311011054001</link>
+            <guid>https://www.khan.co.kr/national/court-law/article/202311011054001</guid>
+            <pubDate>Wed, 01 Nov 2023 02:23:22 GMT</pubDate>
+            <content:encoded><![CDATA[법원을 피상적으로만 보면 여성 법관에 대한 차별이 없는 것 같다. 여성 법관이 출산·육아 때문에 불이익을 받지 않도록 제도가 개선됐고, 성평등이 중요하다는 인식이 확산돼 과거와 같은 노골적인 성차별은 없다는 것이다. 정말 그럴까.경향신문은 그 답을 얻고자 지난 8월부터 여성 판사들을 심층 인터뷰했다. 판사들은 직접적인 차별은 줄었을지 몰라도 간접적인 차별은 여전하다고 입을 모았다.한국 법원 특유의 관료주의, 장시간 노동과 많은 업무량 속에 여성 법관들은...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/11/01/news-p.v1.20231101.5fc73814708a44299caf236f79a18d1e_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“인생을 계획할 수 있게 된” 대만, 아직은 다른 한국·일본 성소수자의 삶]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202310311445001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 25 Oct 2023 06:15:43 GMT</pubDate>
             <content:encoded><![CDATA[법원은 재판을 하는 곳이지만, 재판외 업무도 적지 않다. 재판을 하기 위해 법원 조직을 운영하고 인사와 예산을 짜며 각종 정책을 기획·집행하는 ‘사법행정’이 있다. 매년 2월 전국 법원에서 판사 800명 이상이 인사발령을 받아 이동한다. 사법부 1년 예산은 2조원이 넘는다. 사법행정은 재판에도 영향을 미친다.현행법상 사법행정을 총괄하는 권한은 대법원장에게 있다. 대법원장은 전국 법관 3000여명의 인사권을 갖고 있고, 각급 법원의 법원장들은 소속 법관들에 대해 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/25/news-p.v1.20231023.d7b4ee123ae64528b896316b671be86d_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성 고용률 올라도… ‘고용 성별격차’ OECD 8위]]></title>
-            <link>https://www.khan.co.kr/national/labor/article/202310251029001</link>
-            <guid>https://www.khan.co.kr/national/labor/article/202310251029001</guid>
-            <pubDate>Wed, 25 Oct 2023 01:45:31 GMT</pubDate>
-            <content:encoded><![CDATA[국내 여성 고용률이 과거보다 큰 폭 올랐음에도 불구하고 남녀 고용률 격차는 여전히 경제협력개발기구(OECD) 회원 38개국 가운데 8번째로 큰 것으로 나타났다.23일 OECD 기준 고용률 통계에 따르면 한국의 올해 2분기 고용률은 남성 76.92%, 여성 61.36%로 집계되며 남성의 고용률이 여성보다 15.56%포인트 높았다.이는 OECD 38개 회원국 중 튀르키예(36.32%포인트), 멕시코(29.55%포인트), 코스타리카(26.01%포인트), 콜롬비아(24.08%포인트), 그리스(17.95%포인트), 이탈리아(17.92...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/25/news-p.v1.20231025.94d010f7c20e4ab9b387f7f320703969_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
