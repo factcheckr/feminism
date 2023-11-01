@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 05:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 06:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성착취물 접근 링크 공유하면···대법원 “배포죄로 처벌 가능”]]></title>
+            <link>https://www.khan.co.kr/national/court-law/article/202311011449001</link>
+            <guid>https://www.khan.co.kr/national/court-law/article/202311011449001</guid>
+            <pubDate>Wed, 01 Nov 2023 06:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[아동·청소년 성착취물에 접근할 수 있는 링크를 텔레그램 대화방에 게시했다면 성착취물 배포죄로 처벌할 수 있다고 대법원이 판단했다. 다만 타인이 개설한 성착취물 공유 대화방에 단순히 참여만 했다면 성착취물 소지죄로는 처벌할 수 없다고 봤다.대법원 1부(주심 오경미 대법관)는 아동·청소년의 성보호에 관한 법률 위반(성착취물소지) 등 혐의로 기소된 A씨에게 징역 5년6개월을 선고한 원심 판결을 깨고 사건을 서울고법 춘천재판부에 돌려보냈다고 30일 밝혔다.A씨는 20...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/01/news-p.v1.20231101.dc3c386ca0184126a5d100fa0957e21f_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[과거보다 더 복합적이고 미묘한 …법원 내 ‘간접차별’의 방정식]]></title>
             <link>https://www.khan.co.kr/national/court-law/article/202311011054001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 26 Oct 2023 02:17:05 GMT</pubDate>
             <content:encoded><![CDATA[인하대학교에서 여학생을 성폭행하려다 창밖으로 떨어져 숨지게 한 가해자에게 징역 20년이 확정됐다.대법원 1부(주심 김선수 대법관)는 성폭력범죄처벌법상 강간살인 혐의로 기소된 A씨(21)의 준강간치사 혐의를 유죄로 판단해 징역 20년을 선고한 원심 판결을 26일 확정했다.A씨는 지난해 7월15일 오전 1시쯤 인천 미추홀구 인하대 캠퍼스 내 한 단과대학 건물에서 술에 취해 의식을 잃은 동급 여학생 B씨를 성폭행하려다 창밖으로 떨어뜨려 숨지게 한 혐의로 기소됐다. B씨는...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/26/news-p.v1.20231026.61fa059c90b3434abe782b45e987482f_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법원의 ‘엘리트 코스’… 사법행정 꽉 잡은 법관들의 ‘남성연대’]]></title>
-            <link>https://www.khan.co.kr/national/court-law/article/202310251425001</link>
-            <guid>https://www.khan.co.kr/national/court-law/article/202310251425001</guid>
-            <pubDate>Wed, 25 Oct 2023 06:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[법원은 재판을 하는 곳이지만, 재판외 업무도 적지 않다. 재판을 하기 위해 법원 조직을 운영하고 인사와 예산을 짜며 각종 정책을 기획·집행하는 ‘사법행정’이 있다. 매년 2월 전국 법원에서 판사 800명 이상이 인사발령을 받아 이동한다. 사법부 1년 예산은 2조원이 넘는다. 사법행정은 재판에도 영향을 미친다.현행법상 사법행정을 총괄하는 권한은 대법원장에게 있다. 대법원장은 전국 법관 3000여명의 인사권을 갖고 있고, 각급 법원의 법원장들은 소속 법관들에 대해 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/10/25/news-p.v1.20231023.d7b4ee123ae64528b896316b671be86d_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
