@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 04:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 05:11:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/7a9ed982-fb66-4d36-bc5a-65b3641e596a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[잇단 '흉기난동’…왜 누군가의 울분만 폭력이 되는가 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9758</link>
+            <guid>https://ildaro.com/9758</guid>
+            <pubDate>Fri, 03 Nov 2023 05:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[많은 언론이 ‘흉기난동’ 범죄에 대해 이야기하며 “사회적으로 배제된 집단들이 갖고 있는 울분이 표출되었다는 식”으로 거론했다. “이 사회적으로 배제된 집단...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023110319475285.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[쫓아내려는 국가, 남으려는 사람들, 그리고 아이들 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9757</link>
             <guid>https://ildaro.com/9757</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 27 Oct 2023 08:15:38 GMT</pubDate>
             <content:encoded><![CDATA[instead of “Hyeonjin, Born 1998” which was the result of false frame by the perpetrator, I call her name once again—“Hyeonjin,” the brave survivor....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/202310075534615.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도시재생 마을에서 ‘어쩌다 보니 글로벌한 파티’ (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9738</link>
-            <guid>https://ildaro.com/9738</guid>
-            <pubDate>Sat, 07 Oct 2023 00:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[마침 그날 도착해 타마를 먼저 만날 수 있었던 걸 생각해보면, 나의 여행 운을 다시금 실감할 수 있다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/202310075407894.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
