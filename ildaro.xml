@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Nov 2023 11:09:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2023 12:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여행에는 우연도 있고 행운도 따른다, 오노미치의 마법]]></title>
+            <link>https://ildaro.com/9759</link>
+            <guid>https://ildaro.com/9759</guid>
+            <pubDate>Sat, 04 Nov 2023 12:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[70대 노인은 자신이 도쿄 근방에서 왔는데 일본 전국을 자전거로 자주 다녀 보았지만 ‘여기가 젤 좋아’라고 말한다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023110441162285.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잇단 '흉기난동’…왜 누군가의 울분만 폭력이 되는가]]></title>
             <link>https://ildaro.com/9758</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 27 Oct 2023 08:15:38 GMT</pubDate>
             <content:encoded><![CDATA[너와 나/우리를 가르는, 그 차이를 “눈에 보이는 ‘외모’로부터 눈에 보이지 않는 ‘혈통’과 ‘지성’을 상상하고 우열을 매기는 데서 출발”하는 인종주의가 문제...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023100844425535.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“Kim Hyeonjin, Born 1998,” A Girl Falsely Framed As A #MeToo Liar]]></title>
-            <link>https://ildaro.com/9739</link>
-            <guid>https://ildaro.com/9739</guid>
-            <pubDate>Fri, 27 Oct 2023 08:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[instead of “Hyeonjin, Born 1998” which was the result of false frame by the perpetrator, I call her name once again—“Hyeonjin,” the brave survivor....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/202310075534615.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
