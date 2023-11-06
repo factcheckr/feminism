@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 22:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 23:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싱글맘, 사장님이 되다]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1503</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1503</guid>
+            <pubDate>Mon, 06 Nov 2023 23:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 '아름다운재단'의 '희망가게'를 소개하는 내용으로 콘텐츠를 만들었어요. 희망가게는 한부모 여성이 사장님이 되어 경영하는 가게입니다. 아름다운재단은 '세상을 바꾸는 아름다운 여성'이라는 구호 아래&nbsp;자립의지가 강하고 창업준비가 충분히 된 여성들에게 마이크로크레딧 형식으로 창업자금을 지원해요. 상환된 돈은 또 다른 여성들의 희망가게를 여는데 쓰인답니다! 지금까지 500호점이 넘는 희망가게가 탄생했어요. 정말 멋지지 않나요?]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/102dd581-707e-44bd-a272-bdda35885b49.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[여러분, 저 파업합니다...]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1493</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 28 Aug 2023 23:11:52 GMT</pubDate>
             <content:encoded><![CDATA[신림동의 공원 둘레길에서 여성을 둔기로 떄리고 성폭행해 숨지게 한 피의자의 신상정보와 머그샷이 공개됐는데요. 이름은 최윤종이고, 30세 남성입니다. 최씨는 17일 신림동 둘레길에서 피해자를 너클로 폭행하고 성폭행해 숨지게 한 혐의를 받고 있습니다. 피해자는 병원에 이송됐을 때 이미 심폐정지 상태로, 생존 가능성이 낮았다고 합니다. 이에 유족 측은 "살인 고의성이 명백하다"고 주장합니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/e2c5953b-ae47-4341-b125-a345ffadf1e6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잼버리 파행, 여가부가 독박?]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1402</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1402</guid>
-            <pubDate>Mon, 21 Aug 2023 23:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[폭염과 운영 부실로 중단 위기에 처했고, 계속 진행되기는 했지만 행사는 파행을 거듭했습니다. 온열질환자가 대거 발생하는가 하면, 열악한 환경 탓에 고충을 겪고 있다는 사실이 알려지면서 각국 대사관에는 본국에 있는 학부모들에게서 항의가 빗발쳤습니다. 미국과 영국 등 참가자가 많은 국가들이 조기 퇴영하고, 야외 행사 대부분은 취소됐습니다.&nbsp;]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/7a9ed982-fb66-4d36-bc5a-65b3641e596a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
