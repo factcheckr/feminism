@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 05:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 06:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여성노동자가 차별받지 않기를 바라는 ‘고용성평등센터’의 ‘진심’]]></title>
+            <link>https://www.khan.co.kr/national/labor/article/202311061511001</link>
+            <guid>https://www.khan.co.kr/national/labor/article/202311061511001</guid>
+            <pubDate>Mon, 06 Nov 2023 06:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[“고용평등상담실은 고용평등 의식 확산을 통한 성평등한 노동환경 조성과 함께 현장 노동자들이 겪는 고충을 함께 고민하고 해결 방안을 찾는 데 구심점 역할을 해왔다. 앞으로도 고용평등상담실이 피해자들의 든든한 버팀목이 될 수 있길 바라며, 성희롱·성차별 등 피해 고충이 있는 경우 주저하지 말고 고용평등상담실이나 고용노동부를 찾아주실 것을 부탁드린다.”2022년 2월 고용노동부는 &lt;고용평등상담실 우수사례집&gt;을 발표하면서 고용평등상담실의 성과에 대해 이같이...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/11/06/news-p.v1.20231106.9ff3539af830431eaadaff41cdcdcc6e_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘성인지 감수성’ ‘피해자다움 통념 배제’ …여성 대법관들이 확장시킨 ‘젠더 판례’]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202311031417001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 30 Oct 2023 01:48:57 GMT</pubDate>
             <content:encoded><![CDATA[사랑하는 사람이 아플 때 병원에서 보호자가 될 수 없고 함께 미래를 꿈꾸고 싶은 사람과 계획을 세우는 일이 불가능하다면. 사랑하는 사람들이 결합할 권리를 사회가 제한할 수 있다는 생각은 합당해 보이지 않지만 동성 커플의 현실은 다르다. 2001년 네덜란드가 동성 결혼을 합법화한지 22년이 됐다. 이제 동성 결혼을 법적으로 인정하는 국가는 35개다. 성적지향이나 성별 정체성에 관계 없이 ‘모두의 결혼’이 법적으로 평등하게 인정받을 수 있도록 변화하고 있는 것...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/30/news-p.v1.20231027.72b67c76c0864650a73a4683aa5c7655_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[외국인 가사노동자는 ‘고시원’에서 출·퇴근 하면 된다는 생각]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202310271424001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202310271424001</guid>
-            <pubDate>Fri, 27 Oct 2023 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[외국인 가사노동자 시범사업에 따라 이르면 올해 12월부터 입국하는 외국인 노동자 100명 중 일부에게는 초기 숙소로 고시원을 제공하는 방안이 추진된다. 사회적 고립을 심화시켜 외국인 노동자의 이탈을 부를 수 있다는 우려가 나온다.더불어민주당 노웅래 의원이 25일 고용노동부에서 제출받은 자료를 보면 외국인 가사노동자 시범사업자로 선정된 민간업체 한 곳은 가사노동자 숙소를 일하는 지역과 가까운 고시원으로 마련했다.해당 업체는 공모심사 시 제출한 계획서에서 “...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/10/27/news-p.v1.20231027.3319200350114ca1a4df4e7bba67453f_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
