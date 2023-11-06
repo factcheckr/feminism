@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 00:49:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 01:54:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폭탄을 사랑하지 마세요]]></title>
+            <link>https://ildaro.com/9761</link>
+            <guid>https://ildaro.com/9761</guid>
+            <pubDate>Mon, 06 Nov 2023 10:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[원제는 〈닥터 스트레인지러브 : 또는 어떻게 내가 걱정을 떨치고 폭탄을 사랑하게 되었는가〉이다. 어떠한 상황에서도 폭탄을 사랑하지는 말자...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023110622289249.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[This Isn’t “Kindness,” It’s Extra Work]]></title>
             <link>https://ildaro.com/9760</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 12 Oct 2023 11:28:00 GMT</pubDate>
             <content:encoded><![CDATA[임신과 출산이라는 생애주기의 한 과정이 ‘문제’가 되어버리는 억울한 심정을 아는 여자들은, 나와 내 주변의 여자들이 이 직장을 다닐 수 있도록 무던히 애를 쓴다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023101254059300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘스포츠 미투’의 흔적 찾기]]></title>
-            <link>https://ildaro.com/9741</link>
-            <guid>https://ildaro.com/9741</guid>
-            <pubDate>Tue, 10 Oct 2023 11:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘스포츠 미투’의 상징적 사건으로 알려져 있는 이 사건을 계기로, 시민들의 여론은 체육계의 자성과 혁신을 촉구하며 정부와 체육계를 압박했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023101021261844.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
