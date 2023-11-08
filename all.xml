@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 01:49:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 02:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[사랑하는 사람과 ‘결혼할 자유’를 위해…변화를 이끄는 사람들 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202311081001001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202311081001001</guid>
-            <pubDate>Wed, 08 Nov 2023 01:49:18 GMT</pubDate>
+            <pubDate>Wed, 08 Nov 2023 01:48:37 GMT</pubDate>
             <content:encoded><![CDATA[성별 정체성을 이유로 가족 구성에 제약을 받지 않도록 법과 제도를 변화시키는 데에는 한국·대만·일본의 인권·시민단체들의 역할이 컸다. 경향신문은 각국의 인권·시민단체들과의 인터뷰를 통해 성소수자 권리 확대를 위해 어떤 활동을 했는지, 상대적으로 속도가 더딘 한국이 나아갈 방법은 무엇인지 들어봤다. 리싱 대만 성소수자가족권익촉진회 활동가와 추이링 국제앰네스티 대만지부 사무처장, 치엔치에 대만 반려자권익추진연맹 사무처장은 지난달 27~29일 만났고 나머지 단체...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/11/08/news-p.v1.20231108.0d1e031bb7354e789293622fa2e5c2d8_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/e2c5953b-ae47-4341-b125-a345ffadf1e6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일터에서 커밍아웃 할 수 없는 이유 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9762</link>
+            <guid>https://ildaro.com/9762</guid>
+            <pubDate>Wed, 08 Nov 2023 11:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[수자 노동 문제를 다루는 어떤 자리에서건 주요하게 나오는 이야기는 ‘드러냄’. 그러니까 주체가 만들어지는 문제이다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023110817227571.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[폭탄을 사랑하지 마세요 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9761</link>
             <guid>https://ildaro.com/9761</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 14 Oct 2023 09:41:00 GMT</pubDate>
             <content:encoded><![CDATA[“뚱뚱한 사람들은 불완전하다고, 음식을 두려워하고 의심해야 한다고, 내 몸은 실패작이라고, 나 같은 몸으로 살아가는 것은 삶다운 삶이 절대 아니라고 가르쳤다”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023101448255621.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성 비율 높지만, 여성에게 좋은 일터는 아니거든요 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9742</link>
-            <guid>https://ildaro.com/9742</guid>
-            <pubDate>Thu, 12 Oct 2023 11:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[임신과 출산이라는 생애주기의 한 과정이 ‘문제’가 되어버리는 억울한 심정을 아는 여자들은, 나와 내 주변의 여자들이 이 직장을 다닐 수 있도록 무던히 애를 쓴다...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023101254059300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

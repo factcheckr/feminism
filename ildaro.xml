@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 01:49:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 02:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일터에서 커밍아웃 할 수 없는 이유]]></title>
+            <link>https://ildaro.com/9762</link>
+            <guid>https://ildaro.com/9762</guid>
+            <pubDate>Wed, 08 Nov 2023 11:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[수자 노동 문제를 다루는 어떤 자리에서건 주요하게 나오는 이야기는 ‘드러냄’. 그러니까 주체가 만들어지는 문제이다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023110817227571.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폭탄을 사랑하지 마세요]]></title>
             <link>https://ildaro.com/9761</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 14 Oct 2023 09:41:00 GMT</pubDate>
             <content:encoded><![CDATA[“뚱뚱한 사람들은 불완전하다고, 음식을 두려워하고 의심해야 한다고, 내 몸은 실패작이라고, 나 같은 몸으로 살아가는 것은 삶다운 삶이 절대 아니라고 가르쳤다”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023101448255621.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성 비율 높지만, 여성에게 좋은 일터는 아니거든요]]></title>
-            <link>https://ildaro.com/9742</link>
-            <guid>https://ildaro.com/9742</guid>
-            <pubDate>Thu, 12 Oct 2023 11:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[임신과 출산이라는 생애주기의 한 과정이 ‘문제’가 되어버리는 억울한 심정을 아는 여자들은, 나와 내 주변의 여자들이 이 직장을 다닐 수 있도록 무던히 애를 쓴다...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023101254059300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
