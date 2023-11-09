@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 05:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 06:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신과 ‘동시대’를 살아간다는 영광]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202311091500001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202311091500001</guid>
+            <pubDate>Thu, 09 Nov 2023 06:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[‘거대한 동시대인’이라는 말을 만지작거린다. 마거릿 애트우드의 책 &lt;타오르는 질문들&gt;에서 발견한 표현이다. 이 책에는 시몬 드 보부아르에 관한 글이 실려 있는데 애트우드가 거장일 때 쓴 원고인데도 보부아르를 향한 흥분감이 역력하다. 오래전 토론토에서 대학을 다니던 젊은 애트우드에게 프랑스 실존주의자들은 숭배의 대상이었다. 카뮈와 베케트와 사르트르 같은 명사들 사이에서 여자는 딱 한 사람 뿐이었고 그게 보부아르였으니 그에 대한 애트우드의 선망을 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/09/news-p.v1.20231108.98226133f78f46b0a8b80ea8e367d444_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주관적으로 규정한 몸에 마음 빼앗기지 않길, ‘에브리씽 나우’]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202311091016001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 02 Nov 2023 01:45:25 GMT</pubDate>
             <content:encoded><![CDATA[“사랑은 사랑이다(Love is Love).”지난달 28일 대만 타이베이 퀴어 퍼레이드에 참가한 말레이시아 국적의 엘렌(31)은 ‘다양성’을 이렇게 정의했다. “사랑이 성 정체성, 나이, 성별 등 이유로 방해받아선 안 된다는 것이 다양성입니다.” 그의 애인 실비(30)도 “우리는 자부심을 가질 필요가 있다. 어떤 성적 지향성을 가지고 있든 그 역시 ‘나’”라고 말했다.매년 10월 말 대만 곳곳은 무지갯빛으로 물든다. 수도 타이베이에서 아시아 최대 규모의 퀴어 퍼레이드가 열리...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/02/news-p.v1.20231102.a61f65c32ece4c128cd61f3049d77005_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성착취물 접근 링크 공유하면···대법원 “배포죄로 처벌 가능”]]></title>
-            <link>https://www.khan.co.kr/national/court-law/article/202311011449001</link>
-            <guid>https://www.khan.co.kr/national/court-law/article/202311011449001</guid>
-            <pubDate>Wed, 01 Nov 2023 06:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[아동·청소년 성착취물에 접근할 수 있는 링크를 텔레그램 대화방에 게시했다면 성착취물 배포죄로 처벌할 수 있다고 대법원이 판단했다. 다만 타인이 개설한 성착취물 공유 대화방에 단순히 참여만 했다면 성착취물 소지죄로는 처벌할 수 없다고 봤다.대법원 1부(주심 오경미 대법관)는 아동·청소년의 성보호에 관한 법률 위반(성착취물소지) 등 혐의로 기소된 A씨에게 징역 5년6개월을 선고한 원심 판결을 깨고 사건을 서울고법 춘천재판부에 돌려보냈다고 30일 밝혔다.A씨는 20...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/01/news-p.v1.20231101.dc3c386ca0184126a5d100fa0957e21f_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
