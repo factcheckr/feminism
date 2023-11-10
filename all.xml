@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 11:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 12:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/e2c5953b-ae47-4341-b125-a345ffadf1e6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘좋은 엄마’들이 사는 세상은 유토피아일까? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9764</link>
+            <guid>https://ildaro.com/9764</guid>
+            <pubDate>Fri, 10 Nov 2023 12:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[왜 ‘나르시시즘’일까. 엄마의 자기애는 ‘병증’으로 보기 때문이다. 자아가 ‘있’으면 욕망을 가진다. 욕망하는 엄마는 이기적이다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023111034319452.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[차별의 공통분모…우리는 좀더 연결될 필요가 있다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9763</link>
             <guid>https://ildaro.com/9763</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 16 Oct 2023 09:22:00 GMT</pubDate>
             <content:encoded><![CDATA[In the process of receiving support and counseling, the victims of quasi-rape often speak with frustration that they cannot remember what happened at the moment...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023101627357754.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘돌봄을 하지 않는 노동자’만 들어올 수 있는 일터? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9744</link>
-            <guid>https://ildaro.com/9744</guid>
-            <pubDate>Fri, 27 Oct 2023 08:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[평소에 자녀가 아픈 걸로 휴가를 썼다? 그러면, 어휴, 책임감 없어. 팀장은 휴가를 쓸 거면 “문제 없게 하고 가라” 하거든요....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023101538268466.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
