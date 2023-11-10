@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 00:48:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 01:51:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[작가들 ‘노조’를 선언하다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202311101004001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202311101004001</guid>
+            <pubDate>Fri, 10 Nov 2023 01:48:50 GMT</pubDate>
+            <content:encoded><![CDATA[“좋아서 한다는 이유로 터무니없이 낮은 보수를 받거나 아무렇게나 부당한 처우를 참아야 하는 건 아니잖아요. 그건 별개죠. 책은 하늘에서 떨어지는 게 아니라 작가와 출판노동자의 피땀입니다.”책은 낭만과 정의를 말하지만, 그 책을 만드는 과정도 낭만적이고 정의로울까. 20년째 르포·논픽션을 쓰고 있는 은유 작가는 고개를 가로젓는다.&lt;글쓰기의 최전선&gt; &lt;있지만 없는 아이들&gt; 등 책을 내며 나름 유명 작가가 됐지만, 청탁 원고료는 여전히 글쓰기를 시작한...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/10/news-p.v1.20231101.5714e7a3c8134e38a663b095de07ef69_P1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[당신과 ‘동시대’를 살아간다는 영광]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202311091500001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 03 Nov 2023 01:47:37 GMT</pubDate>
             <content:encoded><![CDATA[“관광 선진국들은 무장애 여행에 대한 사회적 합의를 1990년대부터 이뤄냈습니다. 한국은 이제 시작하는 단계죠.”전동 휠체어를 탄 여행작가 전윤선씨(56)는 지난 20일 한국의 무장애 여행 실태에 대해 이렇게 말했다.무장애 여행은 장애인이나 영·유아 가족, 노령자 등 여행 약자들도 제약 없이 할 수 있는 여행을 뜻한다. 서울 중구 정동의 한 카페에서 만난 그는 “유럽 여러 나라들은 오래된 건물에도 휠체어가 들어갈 경사로가 다 갖춰져 있다. 여행안내 책자에는 장...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/03/news-p.v1.20231102.07ccb007149d4dd0b71cacad7a5e784c_P1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[“사랑은 사랑이다”…대만 퀴어퍼레이드가 축제인 이유]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202311021037001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202311021037001</guid>
-            <pubDate>Thu, 02 Nov 2023 01:45:25 GMT</pubDate>
-            <content:encoded><![CDATA[“사랑은 사랑이다(Love is Love).”지난달 28일 대만 타이베이 퀴어 퍼레이드에 참가한 말레이시아 국적의 엘렌(31)은 ‘다양성’을 이렇게 정의했다. “사랑이 성 정체성, 나이, 성별 등 이유로 방해받아선 안 된다는 것이 다양성입니다.” 그의 애인 실비(30)도 “우리는 자부심을 가질 필요가 있다. 어떤 성적 지향성을 가지고 있든 그 역시 ‘나’”라고 말했다.매년 10월 말 대만 곳곳은 무지갯빛으로 물든다. 수도 타이베이에서 아시아 최대 규모의 퀴어 퍼레이드가 열리...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/02/news-p.v1.20231102.a61f65c32ece4c128cd61f3049d77005_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
