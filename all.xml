@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 00:53:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 01:56:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/e2c5953b-ae47-4341-b125-a345ffadf1e6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[보트피플(서독)과 손님노동자(동독)로 온 베트남 이주민 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9765</link>
+            <guid>https://ildaro.com/9765</guid>
+            <pubDate>Sun, 12 Nov 2023 10:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[이들은 ‘독일에 사는 베트남 사람들은 보이지 않고, 조용해 이민자들의 모델이 된다’, ‘영원히 열심히 일하는 영리한 아시아인’이라는 진부한 편견을 깨고 있다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023111214542468.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘좋은 엄마’들이 사는 세상은 유토피아일까? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9764</link>
             <guid>https://ildaro.com/9764</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 27 Oct 2023 08:15:38 GMT</pubDate>
             <content:encoded><![CDATA[의사나 간호사가 찾을 때 항상 대답해야 하는 사람, 병원이 해주지 않는 것들을 해내야 하는 사람, 환자의 치료와 회복의 단계마다 많은 것을 선택하고 결정해야 하는...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023101621388600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Reason Why Sexual Violence Committed with the Help of Alcohol and Drugs Persists (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9745</link>
-            <guid>https://ildaro.com/9745</guid>
-            <pubDate>Mon, 16 Oct 2023 09:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[In the process of receiving support and counseling, the victims of quasi-rape often speak with frustration that they cannot remember what happened at the moment...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023101627357754.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
