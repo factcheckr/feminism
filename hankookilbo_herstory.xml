@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 22:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 23:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국에도 시작된 '인셀 테러']]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1513</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1513</guid>
+            <pubDate>Mon, 13 Nov 2023 23:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[몇 주 전, 제가 '인셀 테러(위즈덤하우스 발행)'라는 책을 소개했던 것, 기억하시죠? 제가 썼던 서평과 더불어 말이예요. 영국인 작가 로라 베이츠가 1년 동안 '매노스피어'라고 일컬어지는, 우리나라의 남초 커뮤니티 같은 공간에 잠입하여 '유해한 남성성'이 어떻게 전염되고 확대 재생산되는지, 그리고 어떻게 단단한 하나의 신념 체계가 되었는지를 파헤친 책이었어요. 저는 최근 한국 사회에서 발생한 여러 사건들을 바라보면서 이 책을 다시 한번 들춰보지 않을 수 없었습니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/002918b0-daca-49b5-9093-f8b31cc59d65.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[싱글맘, 사장님이 되다]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1503</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 04 Sep 2023 23:10:58 GMT</pubDate>
             <content:encoded><![CDATA[이균용 대법원장 후보자가 본격적인 국회 청문 절차 준비에 들어갔습니다. 지난달 22일 윤석열 대통령이 차기 대법원장 후보자로 지명한 이후, 이 후보자가 과연 대법원장에 적법한 인물인지에 대한 의문이 곳곳에서 제기되고 있습니다.  허스펙티브는, 특히 문제가 되는 그의 판결에 주목합니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/83e5708d-4cc4-4b2d-a893-9b79d252362f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[악인의 서사를 어떻게 볼까]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1413</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1413</guid>
-            <pubDate>Mon, 28 Aug 2023 23:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[신림동의 공원 둘레길에서 여성을 둔기로 떄리고 성폭행해 숨지게 한 피의자의 신상정보와 머그샷이 공개됐는데요. 이름은 최윤종이고, 30세 남성입니다. 최씨는 17일 신림동 둘레길에서 피해자를 너클로 폭행하고 성폭행해 숨지게 한 혐의를 받고 있습니다. 피해자는 병원에 이송됐을 때 이미 심폐정지 상태로, 생존 가능성이 낮았다고 합니다. 이에 유족 측은 "살인 고의성이 명백하다"고 주장합니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/e2c5953b-ae47-4341-b125-a345ffadf1e6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
