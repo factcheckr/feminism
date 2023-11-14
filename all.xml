@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 02:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 03:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/83e5708d-4cc4-4b2d-a893-9b79d252362f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘너 뭘 하고 싶어?’ 저 자신한테 계속 묻는 것 같아요 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9767</link>
+            <guid>https://ildaro.com/9767</guid>
+            <pubDate>Tue, 14 Nov 2023 11:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘아, 정해진 틀이라는 것도 내가 만들었구나. 내가 만든 틀 속에 내가 갇혀 있었던 거구나’ 깨달았어요. ‘다른 사람들의 말, 특히, 나를 모르는 다른 사람들의 말, 정...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023111435092109.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Neither “life-long pain” nor “complete healing” (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9766</link>
             <guid>https://ildaro.com/9766</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 27 Oct 2023 08:15:38 GMT</pubDate>
             <content:encoded><![CDATA[지금 우리 사회에서 어린이의 목소리를 들을 수 있는 곳이 거의 없잖아요. 이 목소리가 확장되는 게 정말 중요하다는 생각이 들어서 당사자를 무대 위에 올린거죠....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023102014111315.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘한국에 돌아가지 않겠다’ 독일 정부와 맞선 한인 간호사들 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9747</link>
-            <guid>https://ildaro.com/9747</guid>
-            <pubDate>Wed, 18 Oct 2023 10:24:00 GMT</pubDate>
-            <content:encoded><![CDATA["우리는 독일 병원이 필요로 했기 때문에 이곳에 왔다. 하지만 우리는 상품처럼 이리저리 보내지기를 원하지 않는다."...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023101832258353.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
