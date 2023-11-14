@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 05:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 06:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다시 혼자 된 얼룩말 ‘세로’…새 짝 찾아주는 것이 최선일까]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202311141424001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202311141424001</guid>
+            <pubDate>Tue, 14 Nov 2023 06:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[13일 오후 1시 서울 광진구 어린이대공원. 초식동물 방사장을 지나던 중학생 남자아이 무리가 “와, 얼룩말이다!” 하고 소리치며 왁자지껄 떠들었다. 남학생들이 가리킨 곳에선 지난달 3월 담장을 넘어 거리를 활보했던 얼룩말 ‘세로’가 바닥에 떨어진 낙엽을 우물거리며 씹고 있었다. 세로는 울타리 쪽으로 머리를 내밀거나 관람객을 등진 채 가만히 서 있었다. “암컷도 있었는데 죽었잖아” “왜 죽었어?” 40대로 보이는 여성과 초등학생 딸이 이야기하는 소리가 들렸다...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/11/14/news-p.v1.20231114.a8e58eb0cf3845b4a6f63a0e965e484b_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그저 숏컷일 뿐인데 황송하게도 ‘페미’ 대접]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202311131414001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 07 Nov 2023 01:51:26 GMT</pubDate>
             <content:encoded><![CDATA[편의점 여성 아르바이트생이 20대 남성으로부터 무차별 폭행을 당하는 사건이 발생했다.“머리가 짧은 것을 보니 페미니스트”라는 이유 등을 대며 폭행을 했는데, 온라인상에서 주로 나타나던 페미니즘 운동에 대한 백래시(반동)가 실생활에서까지 나타나고 있다는 우려가 나온다.경남 진주시 하대동의 한 편의점에서 아르바이트를 하던 A씨는 지난 4일 오전 0시15분쯤 20대 남성 B씨로부터 폭행을 당했다. A씨는 술에 취해 편의점에서 행패를 부리던 B씨에게 “경찰에 신고하겠...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/11/07/news-p.v1.20231106.c1acb34974244c4da021990bcd69a271_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성노동자가 차별받지 않기를 바라는 ‘고용성평등센터’의 ‘진심’]]></title>
-            <link>https://www.khan.co.kr/national/labor/article/202311061511001</link>
-            <guid>https://www.khan.co.kr/national/labor/article/202311061511001</guid>
-            <pubDate>Mon, 06 Nov 2023 06:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[“고용평등상담실은 고용평등 의식 확산을 통한 성평등한 노동환경 조성과 함께 현장 노동자들이 겪는 고충을 함께 고민하고 해결 방안을 찾는 데 구심점 역할을 해왔다. 앞으로도 고용평등상담실이 피해자들의 든든한 버팀목이 될 수 있길 바라며, 성희롱·성차별 등 피해 고충이 있는 경우 주저하지 말고 고용평등상담실이나 고용노동부를 찾아주실 것을 부탁드린다.”2022년 2월 고용노동부는 &lt;고용평등상담실 우수사례집&gt;을 발표하면서 고용평등상담실의 성과에 대해 이같이...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/11/06/news-p.v1.20231106.9ff3539af830431eaadaff41cdcdcc6e_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
