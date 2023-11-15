@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 06:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 07:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[앵커 ‘교체’ 편성 ‘삭제’…KBS 사장 취임 첫날에 벌어진 일]]></title>
+            <link>https://www.khan.co.kr/national/media/article/202311151544011</link>
+            <guid>https://www.khan.co.kr/national/media/article/202311151544011</guid>
+            <pubDate>Wed, 15 Nov 2023 07:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[“열 받아서 회원가입까지 했습니다. 그냥 하루아침에 사장이 ‘폐지해’ (하면) 그냥 바로 폐지하는 건가요? 모든 일에는 절차라는 게 있는 것입니다. 이건 해도 해도 너무하는 거 아닌가요? (삶의) 낙이 없어졌네요.”박민 KBS 사장 취임 첫날인 지난 13일 KBS가 간판 시사프로그램인 &lt;더 라이브&gt; 편성 삭제를 공지하자 공식 홈페이지 시청자 소감 게시판에는 이런 글을 포함해 시청자 의견이 수십개 올라왔다. &lt;더 라이브&gt; 운영진이 운영하는 유튜브 채널 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/11/15/news-p.v1.20231115.6e276ce78ead4ef8b765ba53c5ec4103_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[8년 활동 마무리하는 연세대 마지막 페미니즘 동아리 ‘페스포트’]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202311151011001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 08 Nov 2023 01:49:18 GMT</pubDate>
             <content:encoded><![CDATA[성별 정체성을 이유로 가족 구성에 제약을 받지 않도록 법과 제도를 변화시키는 데에는 한국·대만·일본의 인권·시민단체들의 역할이 컸다. 경향신문은 각국의 인권·시민단체들과의 인터뷰를 통해 성소수자 권리 확대를 위해 어떤 활동을 했는지, 상대적으로 속도가 더딘 한국이 나아갈 방법은 무엇인지 들어봤다. 리싱 대만 성소수자가족권익촉진회 활동가와 추이링 국제앰네스티 대만지부 사무처장, 치엔치에 대만 반려자권익추진연맹 사무처장은 지난달 27~29일 만났고 나머지 단체...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/11/08/news-p.v1.20231108.0d1e031bb7354e789293622fa2e5c2d8_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남성 독점 깬 각국 사법부···‘성별’넘어야 ‘소수자’까지 필연적으로 나아간다]]></title>
-            <link>https://www.khan.co.kr/national/court-law/article/202311071640001</link>
-            <guid>https://www.khan.co.kr/national/court-law/article/202311071640001</guid>
-            <pubDate>Tue, 07 Nov 2023 08:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[‘미국 최후의 인종 장벽이 깨졌다.’지난해 6월 조 바이든 미국 대통령이 미국 연방대법원 233년 역사상 최초로 흑인이자 여성인 커탄지 브라운 잭슨을 대법관에 지명한 것을 두고 미국 언론이 한 말이다. 바이든 대통령은 대선 후보 때부터 “대법관이 모두를 대표할 수 있도록 하겠다”고 말했다. 그리고 취임한 지 1년 반 만에 흑인 여성 대법관을 지명했다. 백인 남성 위주로 쌓아올려진 미국 대법원의 ‘강철 장벽’이 부서진 순간이었다.잭슨 대법관의 인준 과정이 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/11/07/news-p.v1.20231107.05267c4766c9459d83fcde7aba5a0b12_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
