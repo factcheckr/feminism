@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 02:26:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 03:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[성평등 도서 ‘폐기’ 인권조례 ‘폐지’…전국에 확산하는 ‘소수자 혐오’ (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202311161055001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202311161055001</guid>
-            <pubDate>Thu, 16 Nov 2023 02:25:21 GMT</pubDate>
+            <pubDate>Thu, 16 Nov 2023 02:24:38 GMT</pubDate>
             <content:encoded><![CDATA[전국 지방자치단체와 교육청이 제정한 인권조례나 인권헌장에 대한 폐지 시도가 곳곳에서 이어지고 있다. 10곳의 교육청에는 성교육 도서의 폐기를 요구하는 민원도 접수됐다. 인권단체들은 ‘소수자 혐오’가 확산하고 있는 것으로 판단하고 국가인권위원회의 전수조사를 요구하고 있다.13일 경향신문 취재를 종합하면 ‘광주광역시 학생인권조례 폐지 조례(안)’에 대한 주민조례 청구가 진행되고 있다. 조례 청구 대표자들은 지난달 5일부터 “광주시학생인권조례는 폐지돼야 한다”...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/11/16/news-p.v1.20231116.7a37764b94164ed297cd5b73e6617cc0_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/83e5708d-4cc4-4b2d-a893-9b79d252362f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[어느 홈리스 여성이 남긴 기록, ‘쓸모 없어 빛나는’ 세계 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9768</link>
+            <guid>https://ildaro.com/9768</guid>
+            <pubDate>Thu, 16 Nov 2023 11:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[고야마씨가 소중하게 지켜온 수십 권의 작은 노트는 비나 공원 습기에 손상되지 않도록 비닐로 겹겹이 싸여 있어서, 마치 누군가에게 언젠가 읽히기를 기다리고 있었...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023111634305158.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘너 뭘 하고 싶어?’ 저 자신한테 계속 묻는 것 같아요 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9767</link>
             <guid>https://ildaro.com/9767</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 27 Oct 2023 08:15:38 GMT</pubDate>
             <content:encoded><![CDATA[가운데가 비어 있다는 건 카리스마형 리더나 단단한 중심 없이도 연결될 수 있다는 뜻이다. 하지만 중심이 눈에 보이지 않는다고 해서 비어있는 건 아니란다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023102154376602.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2014년생이 묻는다, 우리 사회 안전한가요? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9748</link>
-            <guid>https://ildaro.com/9748</guid>
-            <pubDate>Fri, 27 Oct 2023 08:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[지금 우리 사회에서 어린이의 목소리를 들을 수 있는 곳이 거의 없잖아요. 이 목소리가 확장되는 게 정말 중요하다는 생각이 들어서 당사자를 무대 위에 올린거죠....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023102014111315.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
