@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 23:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Nov 2023 00:49:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/83e5708d-4cc4-4b2d-a893-9b79d252362f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“이런 게 되는 곳은 여기밖에 없으니까 놀자, 놀자, 놀자!” (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9769</link>
+            <guid>https://ildaro.com/9769</guid>
+            <pubDate>Sat, 18 Nov 2023 08:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[오노미치는 〈빈집 프로젝트〉로 전국에서 청년들이 모여들어 작은 가게나 이벤트를 이어가고 있다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023111801101229.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[어느 홈리스 여성이 남긴 기록, ‘쓸모 없어 빛나는’ 세계 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9768</link>
             <guid>https://ildaro.com/9768</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 27 Oct 2023 08:15:38 GMT</pubDate>
             <content:encoded><![CDATA[‘쓸모없음’의 사상을 생각하기 위해서는 그 ‘쓸모없음’이 ‘권력자’에게 있어서의 ‘쓸모없음’이라고 바라보는 관점이 중요합니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023102258056731.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중간이 비어있는 도넛 같은 공동체를 꿈꿔 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9749</link>
-            <guid>https://ildaro.com/9749</guid>
-            <pubDate>Fri, 27 Oct 2023 08:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[가운데가 비어 있다는 건 카리스마형 리더나 단단한 중심 없이도 연결될 수 있다는 뜻이다. 하지만 중심이 눈에 보이지 않는다고 해서 비어있는 건 아니란다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023102154376602.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
