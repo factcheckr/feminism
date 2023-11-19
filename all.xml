@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Nov 2023 10:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Nov 2023 11:11:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/83e5708d-4cc4-4b2d-a893-9b79d252362f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[먹는 임신중지약 승인한 日, 그런데 ‘제한’이 많다고? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9770</link>
+            <guid>https://ildaro.com/9770</guid>
+            <pubDate>Sun, 19 Nov 2023 11:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[임신중지 방식으로 일본 사회에서는 소파수술이 주를 이루는데, 여성들은 오랫동안 몸에 부담이 적은 ‘먹는 임신중지약’의 조기승인을 요구해왔다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023111919143767.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“이런 게 되는 곳은 여기밖에 없으니까 놀자, 놀자, 놀자!” (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9769</link>
             <guid>https://ildaro.com/9769</guid>
@@ -478,14 +486,6 @@
             <pubDate>Tue, 24 Oct 2023 11:58:00 GMT</pubDate>
             <content:encoded><![CDATA[“소송도 이겼고, 관련 법령도 달라졌는데, 왜 현실은 이렇게 달라지지 않았을까? 실질적으로 뭐가 문제인지 알아보기 위해 실제로 경사로를 깔아보기로 했다”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023102407403075.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘쓸모없음’의 사상에 저항하라 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9750</link>
-            <guid>https://ildaro.com/9750</guid>
-            <pubDate>Fri, 27 Oct 2023 08:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[‘쓸모없음’의 사상을 생각하기 위해서는 그 ‘쓸모없음’이 ‘권력자’에게 있어서의 ‘쓸모없음’이라고 바라보는 관점이 중요합니다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023102258056731.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
