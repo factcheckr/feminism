@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 09:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 10:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/83e5708d-4cc4-4b2d-a893-9b79d252362f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“다들 자기만의 어려움이 있잖아요? 서로에게 친절해져요” (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9771</link>
+            <guid>https://ildaro.com/9771</guid>
+            <pubDate>Mon, 20 Nov 2023 10:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[대학교에서 미술모델 겸 누드모델로 일해요. 가끔 일주일에 한 번씩 스탠드업 코미디 오픈 마이크에 가서, 별로 안 웃긴 농담을 하고 있어요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023112018525885.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[먹는 임신중지약 승인한 日, 그런데 ‘제한’이 많다고? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9770</link>
             <guid>https://ildaro.com/9770</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 27 Oct 2023 08:15:38 GMT</pubDate>
             <content:encoded><![CDATA[회사의 예상과 다르게, 여성 이주노동자들은 시위의 동력을 잃지 않았다. 점차 독일인 남성 숙련공들도 시위에 참여하기 시작했다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023102516152415.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“1층이 있는 삶을 모두에게” 청사진을 그리는 사람들 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9751</link>
-            <guid>https://ildaro.com/9751</guid>
-            <pubDate>Tue, 24 Oct 2023 11:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[“소송도 이겼고, 관련 법령도 달라졌는데, 왜 현실은 이렇게 달라지지 않았을까? 실질적으로 뭐가 문제인지 알아보기 위해 실제로 경사로를 깔아보기로 했다”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023102407403075.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
