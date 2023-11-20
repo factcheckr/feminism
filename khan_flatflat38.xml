@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 06:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 07:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘성범죄 무고’의 아이콘처럼 떠받들어지던 시인과, 동조하던 이들의 침묵]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202311201526011</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202311201526011</guid>
+            <pubDate>Mon, 20 Nov 2023 07:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[그 많던 응원의 목소리는 어디로 갔을까. 한때 성범죄 무고의 아이콘처럼 떠받들어지던 시인 박진성의 형사 2심 실형 선고 이후의 분위기는 놀랍도록 조용하다. 지난 11월10일, 자신이 성범죄 무고를 당했다며 피해 신고자의 신원을 공개하고 비난하던 박진성은 결국 명예훼손 혐의로 1년8개월의 실형을 선고받고 법정구속됐다. 그에 대한 성희롱 피해 고발이 있고 나서 무려 7년이 지난 후다. 2016년 트위터(현 엑스)를 통해 문단 내 성폭력 고발이 벌어지던 즈음, 과거 박...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/20/news-p.v1.20231120.36a8c57961eb41f2954acef94bea349c_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘유능하지만 무해한’ ‘겸손하지만 나대는’ 여성, 흠결 없는 파편들의 사회]]></title>
             <link>https://www.khan.co.kr/culture/book/article/202311201031011</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 10 Nov 2023 01:48:50 GMT</pubDate>
             <content:encoded><![CDATA[“좋아서 한다는 이유로 터무니없이 낮은 보수를 받거나 아무렇게나 부당한 처우를 참아야 하는 건 아니잖아요. 그건 별개죠. 책은 하늘에서 떨어지는 게 아니라 작가와 출판노동자의 피땀입니다.”책은 낭만과 정의를 말하지만, 그 책을 만드는 과정도 낭만적이고 정의로울까. 20년째 르포·논픽션을 쓰고 있는 은유 작가는 고개를 가로젓는다.&lt;글쓰기의 최전선&gt; &lt;있지만 없는 아이들&gt; 등 책을 내며 나름 유명 작가가 됐지만, 청탁 원고료는 여전히 글쓰기를 시작한...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/10/news-p.v1.20231101.5714e7a3c8134e38a663b095de07ef69_P1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신과 ‘동시대’를 살아간다는 영광]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202311091500001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202311091500001</guid>
-            <pubDate>Thu, 09 Nov 2023 06:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[‘거대한 동시대인’이라는 말을 만지작거린다. 마거릿 애트우드의 책 &lt;타오르는 질문들&gt;에서 발견한 표현이다. 이 책에는 시몬 드 보부아르에 관한 글이 실려 있는데 애트우드가 거장일 때 쓴 원고인데도 보부아르를 향한 흥분감이 역력하다. 오래전 토론토에서 대학을 다니던 젊은 애트우드에게 프랑스 실존주의자들은 숭배의 대상이었다. 카뮈와 베케트와 사르트르 같은 명사들 사이에서 여자는 딱 한 사람 뿐이었고 그게 보부아르였으니 그에 대한 애트우드의 선망을 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/09/news-p.v1.20231108.98226133f78f46b0a8b80ea8e367d444_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
