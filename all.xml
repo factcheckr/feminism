@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 22:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 23:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/11/10/news-p.v1.20231101.5714e7a3c8134e38a663b095de07ef69_P1.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA["나 한국여자 다 XX할 거야" (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1521</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1521</guid>
+            <pubDate>Mon, 20 Nov 2023 23:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[지난주 인셀에 대한 길고 긴 뉴스레터를 보냈어요. 사실 인셀이라고 하면 방구석에 처박힌 사회 부적응자만을 떠올리기 쉽지만, 그렇지만은 않고 오히려 어리고 평범한 남성들마저 인셀 문화에 물들고 있다는 이야기를 나눴어요. 그러면서 인셀 커뮤니티의 도태되어야 할 여론이 공론장을 넘어, 현실의 폭력으로 번지고 있는 양상이죠. 이를 다룬 지 일주일도 채 지나지 않아, 이번엔 이런 사건이 발생했습니다. 서울 도심 한복판인 롯데백화점 본점 전광판에 이런 메시지가 나타났습니다. "나 한국 여자 다 강간할 거야."]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/a474fd03-5563-4566-b1c5-0ce6b4ab916c.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[한국에도 시작된 '인셀 테러' (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1513</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1513</guid>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 11 Sep 2023 23:11:37 GMT</pubDate>
             <content:encoded><![CDATA[지난 한 주(9월 1~7일)는 양성평등기본법에 의거한 '양성평등주간'이었습니다. 여성가족부는 매년 이맘 때쯤, 부문별 통계에 의거하여 성평등 척도를 판단할 수 있는 귀한 자료인 '통계로 보는 남녀의 삶'을 발표하고 있어요.여기서 잠깐! 뉴스레터의 제목은 '통계로 보는 여성의 삶'인데 왜 자료 제목은 '남녀의 삶'이냐고요?]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/b863d0c2-a0b9-4625-bfda-05bdabcdd4b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이런 대법원장, 어떤가요? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1424</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1424</guid>
-            <pubDate>Mon, 04 Sep 2023 23:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[이균용 대법원장 후보자가 본격적인 국회 청문 절차 준비에 들어갔습니다. 지난달 22일 윤석열 대통령이 차기 대법원장 후보자로 지명한 이후, 이 후보자가 과연 대법원장에 적법한 인물인지에 대한 의문이 곳곳에서 제기되고 있습니다.  허스펙티브는, 특히 문제가 되는 그의 판결에 주목합니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/83e5708d-4cc4-4b2d-a893-9b79d252362f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“다들 자기만의 어려움이 있잖아요? 서로에게 친절해져요” (일다 ─ 전체기사)]]></title>
