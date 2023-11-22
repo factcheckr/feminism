@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 00:53:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 01:57:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“독일 아스파라거스는 착취의 맛” 독일판 깻잎 투쟁기]]></title>
+            <link>https://ildaro.com/9773</link>
+            <guid>https://ildaro.com/9773</guid>
+            <pubDate>Wed, 22 Nov 2023 10:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[계절노동자 중 일부는 “우리는 노예처럼 일했다.”, “그들은 우리의 여권을 빼앗고, 일을 제대로 안 한다고 총과 칼로 위협을 하기도 했다.”, “다시는 독일로 오지...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023112256069201.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[My Shrinking, Unfamiliar Self in the Workplace]]></title>
             <link>https://ildaro.com/9772</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 28 Oct 2023 09:11:40 GMT</pubDate>
             <content:encoded><![CDATA[“Many commanders have neglected their responsibility and duty to make a fair judgment about the victim’s statement and determine right from wrong,...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023102850517326.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[교회 미투, 바뀐 것과 바뀌지 않은 것]]></title>
-            <link>https://ildaro.com/9753</link>
-            <guid>https://ildaro.com/9753</guid>
-            <pubDate>Fri, 27 Oct 2023 11:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[용기 낸 이들의 ‘이어 말하기’를 통해 개 교회, 각 교단, 신학교에서 미투 운동이 이어졌다. 성폭력 없는 교회, 안전한 교단, 평등한 신학교는 찾아보기 어렵다는 것...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/202310275948492.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
