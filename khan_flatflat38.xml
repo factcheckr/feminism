@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 04:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 05:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰 “숏컷 여성 알바생 폭행은 혐오범죄”]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202311221410001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202311221410001</guid>
+            <pubDate>Wed, 22 Nov 2023 05:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰이 ‘숏컷(짧은 머리 모양) 여성 아르바이트생 폭행’ 사건을 “혐오범죄”로 규정하고 유사 사건을 엄정하게 대응하겠다고 밝혔다.대검찰청은 21일 “최근 경남 진주 소재 편의점에서 다른 범죄동기 없이 숏컷을 한 피해자를 향해 ‘너는 페미니스트니까 맞아도 된다’며 무차별적으로 폭행한 사건이 발생했다”며 “이는 전형적인 혐오범죄에 해당한다”고 했다. 이어 “혐오범죄는 특정 집단에 속한 사람들에게 범행의 표적이 될 수 있다는 공포와 불안감을 불러일으키는 등...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/22/news-p.v1.20231122.b50710dec5ef41e8b83d3833229d21c5_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“암컷이 나와서 설친다”···최강욱 전 의원의 여성비하]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202311220957001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 15 Nov 2023 01:52:58 GMT</pubDate>
             <content:encoded><![CDATA[“소리소문 없이 사라지기는 싫었어요. 우리가 이만큼 잘해왔다는 것을 보여주려 합니다.”연세대학교 페미니즘 동아리 ‘페스포트’ 구성원 장현주씨(24)와 박신형씨(28)는 동아리 마지막 활동으로 전시를 기획하는 이유를 이렇게 설명했다. 연세대 내 유일한 동아리 형태의 페미니즘 공동체인 페스포트는 오는 12월 8년의 활동을 마무리한다. 지난 10일 서울 서대문구에서 만난 두 사람은 덤덤한 목소리로 마지막 행사를 준비하는 소회를 밝혔다.페스포트가 활동을 마무리하는 것은...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/15/news-p.v1.20231114.ab494aa43b36474eb3698e6d79afd21d_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다시 혼자 된 얼룩말 ‘세로’…새 짝 찾아주는 것이 최선일까]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202311141424001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202311141424001</guid>
-            <pubDate>Tue, 14 Nov 2023 06:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[13일 오후 1시 서울 광진구 어린이대공원. 초식동물 방사장을 지나던 중학생 남자아이 무리가 “와, 얼룩말이다!” 하고 소리치며 왁자지껄 떠들었다. 남학생들이 가리킨 곳에선 지난달 3월 담장을 넘어 거리를 활보했던 얼룩말 ‘세로’가 바닥에 떨어진 낙엽을 우물거리며 씹고 있었다. 세로는 울타리 쪽으로 머리를 내밀거나 관람객을 등진 채 가만히 서 있었다. “암컷도 있었는데 죽었잖아” “왜 죽었어?” 40대로 보이는 여성과 초등학생 딸이 이야기하는 소리가 들렸다...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/14/news-p.v1.20231114.a8e58eb0cf3845b4a6f63a0e965e484b_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
