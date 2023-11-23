@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 00:50:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 01:54:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여성 경위에게 접대 강요하고도…가장 가벼운 ‘견책’ 처분 받은 파출소장]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202311231030001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202311231030001</guid>
+            <pubDate>Thu, 23 Nov 2023 01:52:34 GMT</pubDate>
+            <content:encoded><![CDATA[경찰이 부하 여직원을 사적인 자리에 불러 지역 유지를 접대하도록 강요한 전 금호파출소장 A씨에 대해 견책 처분을 내렸다. 견책 처분은 경징계 중에서도 가장 낮은 처분이다.21일 경향신문 취재 결과 서울경찰청은 지난 7일 징계위원회를 연 뒤 전날 A씨에게 견책 처분을 내렸다. 견책은 경찰 공무원이 받을 수 있는 징계 중 가장 가벼운 처분으로, 6개월간 승진에서 불이익을 받는다. A씨는 다음 달 정년 퇴임할 예정이라 견책 처분을 받더라도 불이익이 없다.앞서 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/23/news-p.v1.20231123.8858fbacb7534f319f5d131af9f3f330_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰 “숏컷 여성 알바생 폭행은 혐오범죄”]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202311221410001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 15 Nov 2023 07:10:48 GMT</pubDate>
             <content:encoded><![CDATA[“열 받아서 회원가입까지 했습니다. 그냥 하루아침에 사장이 ‘폐지해’ (하면) 그냥 바로 폐지하는 건가요? 모든 일에는 절차라는 게 있는 것입니다. 이건 해도 해도 너무하는 거 아닌가요? (삶의) 낙이 없어졌네요.”박민 KBS 사장 취임 첫날인 지난 13일 KBS가 간판 시사프로그램인 &lt;더 라이브&gt; 편성 삭제를 공지하자 공식 홈페이지 시청자 소감 게시판에는 이런 글을 포함해 시청자 의견이 수십개 올라왔다. &lt;더 라이브&gt; 운영진이 운영하는 유튜브 채널 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/15/news-p.v1.20231115.6e276ce78ead4ef8b765ba53c5ec4103_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8년 활동 마무리하는 연세대 마지막 페미니즘 동아리 ‘페스포트’]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202311151011001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202311151011001</guid>
-            <pubDate>Wed, 15 Nov 2023 01:52:58 GMT</pubDate>
-            <content:encoded><![CDATA[“소리소문 없이 사라지기는 싫었어요. 우리가 이만큼 잘해왔다는 것을 보여주려 합니다.”연세대학교 페미니즘 동아리 ‘페스포트’ 구성원 장현주씨(24)와 박신형씨(28)는 동아리 마지막 활동으로 전시를 기획하는 이유를 이렇게 설명했다. 연세대 내 유일한 동아리 형태의 페미니즘 공동체인 페스포트는 오는 12월 8년의 활동을 마무리한다. 지난 10일 서울 서대문구에서 만난 두 사람은 덤덤한 목소리로 마지막 행사를 준비하는 소회를 밝혔다.페스포트가 활동을 마무리하는 것은...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/15/news-p.v1.20231114.ab494aa43b36474eb3698e6d79afd21d_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
