@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 04:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 05:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘합당한 위자료 지급해야’ 위안부 범죄, 일본의 책임을 묻다 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202311241358001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202311241358001</guid>
+            <pubDate>Fri, 24 Nov 2023 05:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[〈※이 기사는 2023년 11월 24일자 경향신문 ‘[사설]반인륜적 위안부 범죄, 일본 책임 물은 판결 환영한다’를 재가공하였습니다.〉서울고등법원 민사부가 23일 이용수 할머니 등 위안부 피해자들이 일본 정부를 상대로 낸 손해배상 소송에서 ‘합당한 위자료를 지급해야 한다’며 원고 승소 판결을 내렸다. 한 나라의 주권 행위를 다른 나라에서 재판할 수 없다는 ‘국가면제’에 근거한 1심 각하 판결을 뒤집고, 법원이 피고 일본국에 법적 책임을 물은 것이다...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/24/news-p.v1.20231124.51e75fbff31b44fba0f78f3bb26e49d1_P1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[엄마와 만나지 못한 동안 학대로 숨진 시우, 엄마는 거리에 섰다 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202311241000001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 20 Nov 2023 01:54:35 GMT</pubDate>
             <content:encoded><![CDATA[‘유능하지만 무해할 것’, ‘겸손하지만 (적당히) 나댈 것’, ‘누구에게나 친밀하게 굴고 유쾌한 분위기를 만들어야 하지만 이성적 호감으로 오해받지는 않을 것’, ‘누구보다 압도적으로 일을 잘할 것’.노동시장에 진출한 많은 여성들은 자신도 모르게 위와 같은 아슬아슬한 줄타기를 수행하고 있다. 그 자신이 페미니스트이건 아니건, 남성중심 문화에 문제의식이 있건 없건 상관 없다. 남성이 기본값인 일터의 높은 장벽을 뚫으려면 ‘젠더 각본’의 수행은 선택이 아닌 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/20/news-p.v1.20231120.6ec287b3130e494c8b02c99024e1adcc_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[형, 미스터 린턴, 어린놈, 건방진놈 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202311171015001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202311171015001</guid>
-            <pubDate>Fri, 17 Nov 2023 01:53:24 GMT</pubDate>
-            <content:encoded><![CDATA[원래는 이 정부의 굳건한 남성연대에 대해 쓰려고 했다. 우격다짐으로 방송을 장악하는 모양새 뒤에 숨어 있는 남성연대 그리고 그에 맞서 신당을 만들겠다는 또 다른 남성의 언어는 다른 측면에서 더욱 문제적이라고 쓰려고 했다. 시작은 박민 KBS 사장 당시 후보자의 지난 7일 국회 인사청문회였다. KBS 사장 자리를 제안한 인물이 이 위원장 아니냐는 질문에 박 후보자는 사실이 아니라고 했지만 ‘사석에서 어떻게 부르느냐’는 질문에 “형이라고 부르기도 한다”고 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/17/news-p.v1.20231117.47dba6d854514003ac69ba997bd179b8_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘합당한 위자료 지급해야’ 위안부 범죄, 일본의 책임을 묻다 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202311241358001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202311241358001</guid>
+            <pubDate>Fri, 24 Nov 2023 05:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[〈※이 기사는 2023년 11월 24일자 경향신문 ‘[사설]반인륜적 위안부 범죄, 일본 책임 물은 판결 환영한다’를 재가공하였습니다.〉서울고등법원 민사부가 23일 이용수 할머니 등 위안부 피해자들이 일본 정부를 상대로 낸 손해배상 소송에서 ‘합당한 위자료를 지급해야 한다’며 원고 승소 판결을 내렸다. 한 나라의 주권 행위를 다른 나라에서 재판할 수 없다는 ‘국가면제’에 근거한 1심 각하 판결을 뒤집고, 법원이 피고 일본국에 법적 책임을 물은 것이다...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/11/24/news-p.v1.20231124.51e75fbff31b44fba0f78f3bb26e49d1_P1.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[엄마와 만나지 못한 동안 학대로 숨진 시우, 엄마는 거리에 섰다 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202311241000001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202311241000001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Nov 2023 01:54:35 GMT</pubDate>
             <content:encoded><![CDATA[‘유능하지만 무해할 것’, ‘겸손하지만 (적당히) 나댈 것’, ‘누구에게나 친밀하게 굴고 유쾌한 분위기를 만들어야 하지만 이성적 호감으로 오해받지는 않을 것’, ‘누구보다 압도적으로 일을 잘할 것’.노동시장에 진출한 많은 여성들은 자신도 모르게 위와 같은 아슬아슬한 줄타기를 수행하고 있다. 그 자신이 페미니스트이건 아니건, 남성중심 문화에 문제의식이 있건 없건 상관 없다. 남성이 기본값인 일터의 높은 장벽을 뚫으려면 ‘젠더 각본’의 수행은 선택이 아닌 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/11/20/news-p.v1.20231120.6ec287b3130e494c8b02c99024e1adcc_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[형, 미스터 린턴, 어린놈, 건방진놈 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202311171015001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202311171015001</guid>
-            <pubDate>Fri, 17 Nov 2023 01:53:24 GMT</pubDate>
-            <content:encoded><![CDATA[원래는 이 정부의 굳건한 남성연대에 대해 쓰려고 했다. 우격다짐으로 방송을 장악하는 모양새 뒤에 숨어 있는 남성연대 그리고 그에 맞서 신당을 만들겠다는 또 다른 남성의 언어는 다른 측면에서 더욱 문제적이라고 쓰려고 했다. 시작은 박민 KBS 사장 당시 후보자의 지난 7일 국회 인사청문회였다. KBS 사장 자리를 제안한 인물이 이 위원장 아니냐는 질문에 박 후보자는 사실이 아니라고 했지만 ‘사석에서 어떻게 부르느냐’는 질문에 “형이라고 부르기도 한다”고 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/11/17/news-p.v1.20231117.47dba6d854514003ac69ba997bd179b8_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["나 한국여자 다 XX할 거야" (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
