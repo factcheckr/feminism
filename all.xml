@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 02:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 03:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/b863d0c2-a0b9-4625-bfda-05bdabcdd4b5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[당신을 발견해주는 친구 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9774</link>
+            <guid>https://ildaro.com/9774</guid>
+            <pubDate>Fri, 24 Nov 2023 11:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[간결한 그림과 아기자기한 리듬감이 넘치는 이 책에서 가장 인상적인 장면은 초록빛 아이의 눈동자에 붉은빛 아이가 가득 담겨 있는 페이지이다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023112458466086.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“독일 아스파라거스는 착취의 맛” 독일판 깻잎 투쟁기 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9773</link>
             <guid>https://ildaro.com/9773</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 29 Oct 2023 10:12:06 GMT</pubDate>
             <content:encoded><![CDATA[가족이 ‘(장애인을) 죽이도록 만드는’ 사회는 이미 와 있습니다. 코로나로 인해 드러난 것은 약자의 ‘시설화’와 의료와 복지에서의 소외입니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023102931402800.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Controversy over flip-flopping court decisions on sexual assault of sexual-minority female soldier (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9754</link>
-            <guid>https://ildaro.com/9754</guid>
-            <pubDate>Sat, 28 Oct 2023 09:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[“Many commanders have neglected their responsibility and duty to make a fair judgment about the victim’s statement and determine right from wrong,...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023102850517326.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
