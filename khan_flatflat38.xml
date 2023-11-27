@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 00:50:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 01:54:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나는 당신의 ‘엄마’가 아닙니다]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202311271000001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202311271000001</guid>
+            <pubDate>Mon, 27 Nov 2023 01:53:27 GMT</pubDate>
+            <content:encoded><![CDATA[‘엄마, 이리 와서 불고기 사세요!’ 갑자기 나타나 내 앞을 가로막은 그의 말이 너무 당황스러워 잠깐 벙해 있다 살짝 옆으로 빠져나왔다. 생각지도 못한 순간에 내 앞길을 막아선 것도, 두부를 사러 잠시 들른 마트에서 불고기를 내미는 것도 모두 예상하지 못한 일이지만 무엇보다 나랑 나이 차이도 별로 나지 않아 보이는 성인 남성이 ‘엄마’라고 불렀다는 사실에 나는 어쩔 줄 몰랐다. 그는 왜 나에게 엄마라고 불렀을까.나도 아이의 선생님을 찾아뵙는 자리처럼 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/27/news-p.v1.20231120.eba78fea541d4fbd9bdad51a0a60c320_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘합당한 위자료 지급해야’ 위안부 범죄, 드디어 일본의 책임을 묻다]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202311241358001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 20 Nov 2023 07:10:41 GMT</pubDate>
             <content:encoded><![CDATA[그 많던 응원의 목소리는 어디로 갔을까. 한때 성범죄 무고의 아이콘처럼 떠받들어지던 시인 박진성의 형사 2심 실형 선고 이후의 분위기는 놀랍도록 조용하다. 지난 11월 8일, 자신이 성범죄 무고를 당했다며 피해 신고자의 신원을 공개하고 비난하던 박진성은 결국 명예훼손 혐의로 1년8개월의 실형을 선고받고 법정구속됐다. 그에 대한 성희롱 피해 고발이 있고 나서 무려 7년이 지난 후다. 2016년 트위터(현 엑스)를 통해 문단 내 성폭력 고발이 벌어지던 즈음, 과거 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/20/news-p.v1.20231120.36a8c57961eb41f2954acef94bea349c_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘유능하지만 무해한’ ‘겸손하지만 나대는’ 여성, 흠결 없는 파편들의 사회]]></title>
-            <link>https://www.khan.co.kr/culture/book/article/202311201031011</link>
-            <guid>https://www.khan.co.kr/culture/book/article/202311201031011</guid>
-            <pubDate>Mon, 20 Nov 2023 01:54:35 GMT</pubDate>
-            <content:encoded><![CDATA[‘유능하지만 무해할 것’, ‘겸손하지만 (적당히) 나댈 것’, ‘누구에게나 친밀하게 굴고 유쾌한 분위기를 만들어야 하지만 이성적 호감으로 오해받지는 않을 것’, ‘누구보다 압도적으로 일을 잘할 것’.노동시장에 진출한 많은 여성들은 자신도 모르게 위와 같은 아슬아슬한 줄타기를 수행하고 있다. 그 자신이 페미니스트이건 아니건, 남성중심 문화에 문제의식이 있건 없건 상관 없다. 남성이 기본값인 일터의 높은 장벽을 뚫으려면 ‘젠더 각본’의 수행은 선택이 아닌 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/20/news-p.v1.20231120.6ec287b3130e494c8b02c99024e1adcc_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
