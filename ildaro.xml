@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 11:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 12:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생계와 가치, 두 개의 노동 사이에서]]></title>
+            <link>https://ildaro.com/9776</link>
+            <guid>https://ildaro.com/9776</guid>
+            <pubDate>Mon, 27 Nov 2023 12:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[기후위기 대응을 말하는 활동가인 한편, 사람들에게 불안을 잠재우기 위해 상품을 팔아야 하는 보험설계사....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023112745081729.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이혼의 공포도, 나이듦의 공포도 ‘오류’가 많다]]></title>
             <link>https://ildaro.com/9775</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 01 Nov 2023 07:12:00 GMT</pubDate>
             <content:encoded><![CDATA[이주노동자의 삶이 선주민의 삶과 가까워지자, 이들을 혐오하는 극우의 목소리가 사회에서 점점 힘을 얻었다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/202311015017712.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[딸에 대하여, 엄마에 대하여, (--)에 대하여]]></title>
-            <link>https://ildaro.com/9756</link>
-            <guid>https://ildaro.com/9756</guid>
-            <pubDate>Mon, 30 Oct 2023 04:14:42 GMT</pubDate>
-            <content:encoded><![CDATA["그럼에도 내가 아닌 누군가를 향해 가는, 포기하지 않는 마음들에 대해 생각하지 않을 수 없었다.”는 작가의 말....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202310/2023103009361489.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
