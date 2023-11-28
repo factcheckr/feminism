@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 00:51:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 01:55:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘낙인’찍고, ‘신상’털고… 다시 시작된 게임업계의 ‘패턴화된 백래시’]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202311281040001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202311281040001</guid>
+            <pubDate>Tue, 28 Nov 2023 01:55:16 GMT</pubDate>
+            <content:encoded><![CDATA[넥슨 게임 홍보영상에 삽입된 이미지를 두고 게임업계 내에서 페미니즘에 대한 공격이 확산하고 있다. 일부 이용자들은 해당 이미지를 그린 직원을 해고하라고 압박하는가 하면 직원들 신상정보 일부는 온라인에 공개됐다. 전문가들은 ‘낙인찍기→개인 사회관계망서비스(SNS) 털이→남성 이용자들의 공격→게임회사의 사과’ 패턴을 답습한 전형적인 ‘게임업계 백래시’라고 분석했다. 창작자의 자기검열과 이용자 확장 제한으로 게임산업에도 부정적 영향을 끼칠 것...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/11/28/news-p.v1.20231128.e1b79832be3943d6a49cfb611c6447d0_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘남성혐오 표현’ 일부 유저 항의에 ‘진심으로 사과’한 게임사]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202311271450011</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 21 Nov 2023 02:29:31 GMT</pubDate>
             <content:encoded><![CDATA[문인을 꿈꿔 온 17세 소녀가 스무살 이상 많은 시인에게 성희롱을 당했다. 그가 성희롱 사실을 폭로하자 ‘허위 미투’라고 공격을 받고 재판까지 가게 됐다. 시인 박진성씨(45)에게 성희롱을 당했다고 폭로한 지 7년, 그 중 절반에 가까운 4년 동안 이어진 재판. 그 모든 순간 피해자 98년생 김현진씨(25)는 숨거나 피하지 않았다.지난 19일 서울 중구 경향신문사에서 기자와 만난 김씨는 “힘들어도 피해자의 언어로 이야기하는 게 중요하다고 생각했다”며 “기회가 있을 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/11/21/news-p.v1.20231120.27b7a330115c40449b216f45ff99cea6_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘문단 내 성폭력’ 가해자의 감옥행, 그제야 피해자의 ‘7년 감옥’이 끝났다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202311211106011</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202311211106011</guid>
-            <pubDate>Tue, 21 Nov 2023 02:29:31 GMT</pubDate>
-            <content:encoded><![CDATA[“나는 평소처럼 출근하지만, 가해자는 감옥에 있다.”법원이 지난 8일 시인 박진성씨에게 징역 1년8개월의 실형을 선고하며 그를 법정구속하고 며칠이 지나서야 피해자 김현진씨는 비로소 이렇게 생각했다고 한다. 김씨는 기나긴 법정 싸움이 일단락됐다는 게 실감나지 않는다고 했다. 한 달에 한 번씩 직장에 휴가를 쓰고 찾았던 법원에 더는 가지 않아도 된다는 사실에, 가해자 엄벌을 요구하는 탄원서를 쓰기 위해 증거자료를 찾지 않아도 된다는 사실에 막연히 ‘재판이 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/11/21/news-p.v1.20231121.c2a776fcc8b541c3829a68edd199a6c2_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
