@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 03:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 04:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/fbbd20f6-f24a-4d56-96a5-cc3f47b5e12a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[난민을 환대하던 독일의 목소리는 어디로 사라졌는가 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9778</link>
+            <guid>https://ildaro.com/9778</guid>
+            <pubDate>Wed, 29 Nov 2023 11:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[나치 때 박해를 받았던 독일인들이 다른 나라에서 보장된 망명의 권리 덕에 살아남을 수 있었다는 것이 근거가 되어, 망명의 권리는 단서 조항 없이 기본법에 포함되었...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023112901449159.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The Victim of Workplace Sexual Harassment Raised Her Banner: “I Didn’t Back Down” (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9777</link>
             <guid>https://ildaro.com/9777</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 04 Nov 2023 12:18:52 GMT</pubDate>
             <content:encoded><![CDATA[70대 노인은 자신이 도쿄 근방에서 왔는데 일본 전국을 자전거로 자주 다녀 보았지만 ‘여기가 젤 좋아’라고 말한다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023110441162285.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잇단 '흉기난동’…왜 누군가의 울분만 폭력이 되는가 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9758</link>
-            <guid>https://ildaro.com/9758</guid>
-            <pubDate>Fri, 03 Nov 2023 05:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[많은 언론이 ‘흉기난동’ 범죄에 대해 이야기하며 “사회적으로 배제된 집단들이 갖고 있는 울분이 표출되었다는 식”으로 거론했다. “이 사회적으로 배제된 집단...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023110319475285.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
