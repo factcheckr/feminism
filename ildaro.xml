@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 06:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 07:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국경을 열고 “우리는 할 수 있다”…독일은 지금]]></title>
+            <link>https://ildaro.com/9779</link>
+            <guid>https://ildaro.com/9779</guid>
+            <pubDate>Thu, 30 Nov 2023 07:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[이 기자회견에서 메르켈은 2015년 세계 언론을 장식하게 될 문장을 이야기한다. “독일은 강한 국가입니다. 우리는 많은 것을 해냈습니다. 그리고 해낼 수 있습니다.&amp;qu...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023113007516638.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[난민을 환대하던 독일의 목소리는 어디로 사라졌는가]]></title>
             <link>https://ildaro.com/9778</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 05 Nov 2023 08:13:24 GMT</pubDate>
             <content:encoded><![CDATA[The building where TV drama [Misaeng] was filmed. If main character Jang Geu-rae had been female, many of the episodes would have been different....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023110525309671.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여행에는 우연도 있고 행운도 따른다, 오노미치의 마법]]></title>
-            <link>https://ildaro.com/9759</link>
-            <guid>https://ildaro.com/9759</guid>
-            <pubDate>Sat, 04 Nov 2023 12:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[70대 노인은 자신이 도쿄 근방에서 왔는데 일본 전국을 자전거로 자주 다녀 보았지만 ‘여기가 젤 좋아’라고 말한다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023110441162285.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
