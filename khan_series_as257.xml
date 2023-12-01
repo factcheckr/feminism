@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 09:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 10:12:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넥슨 등 게임회사 10곳 노동자 보호조치 특별점검 받는다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202312011846001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202312011846001</guid>
+            <pubDate>Fri, 01 Dec 2023 10:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[일부 악성 유저(이용자)들의 온라인 괴롭힘으로 인한 게임업계 노동자의 피해가 커지면서 정부가 게임업체들에 대한 특별점검에 나선다.서울지방고용노동청은 오는 4∼31일 서울 소재 게임 업체에 대한 고객 응대 노동자 등 보호조치 특별점검 및 자율점검 지도를 실시한다고 1일 밝혔다. 현장점검 대상은 넥슨과 넷마블 등 10곳이다. 이번 점검은 최근 잇따른 게임 악성 유저들의 폭언 등 괴롭힘으로부터 노동자를 보호하기 위한 취지로 마련됐다.넥슨에선 최근 ‘메이플스...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/12/01/news-p.v1.20231201.6cabb685d4b6489db2cae06748bf7e5b_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘올해의 공익제보자상’ 받은 ‘새마을금고 갑질’ 고발 전직원]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202312011544001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 27 Nov 2023 06:15:50 GMT</pubDate>
             <content:encoded><![CDATA[게임 홍보영상에 남성혐오 표현이 들어갔다는 이용자들의 항의가 이어지자 게임사 넥슨이 사과문을 올리고 영상을 비공개 조치했다. 넥슨은 다른 게임에서도 해당 제작사의 영상을 비공개 조치했다. 온라인상에서 ‘페미니즘 사상검증’ 논란이 다시 불거지고 있다는 지적이 나온다.메이플스토리 제작사 넥슨은 26일 홈페이지에 “현재 커뮤니티에서 엔젤릭버스터 홍보물과 관련한 논란이 발생하고 있는 것을 확인했다. 많은 용사님(유저)께 걱정 끼쳐드린 점 진심으로 사과드리며 해...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/11/27/news-p.v1.20231127.c9923965f36345289abb8359c8d3574a_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 당신의 ‘엄마’가 아닙니다]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202311271000001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202311271000001</guid>
-            <pubDate>Mon, 27 Nov 2023 01:54:11 GMT</pubDate>
-            <content:encoded><![CDATA[‘엄마, 이리 와서 불고기 사세요!’ 갑자기 나타나 내 앞을 가로막은 그의 말이 너무 당황스러워 잠깐 벙해 있다 살짝 옆으로 빠져나왔다. 생각지도 못한 순간에 내 앞길을 막아선 것도, 두부를 사러 잠시 들른 마트에서 불고기를 내미는 것도 모두 예상하지 못한 일이지만 무엇보다 나랑 나이 차이도 별로 나지 않아 보이는 성인 남성이 ‘엄마’라고 불렀다는 사실에 나는 어쩔 줄 몰랐다. 그는 왜 나에게 엄마라고 불렀을까.나도 아이의 선생님을 찾아뵙는 자리처럼 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/11/27/news-p.v1.20231120.eba78fea541d4fbd9bdad51a0a60c320_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
