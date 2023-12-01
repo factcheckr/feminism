@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 23:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 00:56:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[게임행사 참가자에 “SNS 주소 내라”… 유저 ‘사상검증’ 시도한 넥슨]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202312010953001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202312010953001</guid>
+            <pubDate>Fri, 01 Dec 2023 00:54:24 GMT</pubDate>
+            <content:encoded><![CDATA[넥슨코리아의 대표 게임 중 하나인 ‘던전앤파이터’(이하 던파)가 최근 오프라인 플레이마켓 행사를 진행하면서 “유저(이용자)들의 알 권리”를 위한다며 참가자들의 사회관계망서비스(SNS) 계정을 제출받은 것으로 확인됐다. 회사가 SNS 계정을 통해 일부 유저들이 ‘페미니즘 사상검증’을 하도록 되레 길을 터줬다는 비판이 나온다. 실제 회사의 안내가 나온 뒤 특정 게임 유저들이 행사 참석자의 ‘성향’을 파악한다며 SNS 글을 뒤졌다. 시민사회단체는 “고용노동부는 넥...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/01/news-p.v1.20231130.49f2f792592349bd9f6144dd445a0f0b_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제대로 된 조사 없이…도미노처럼 번지는 게임업계 ‘손가락 검수’]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202311301616001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 24 Nov 2023 05:10:46 GMT</pubDate>
             <content:encoded><![CDATA[〈※이 기사는 2023년 11월 24일자 경향신문 ‘[사설]반인륜적 위안부 범죄, 일본 책임 물은 판결 환영한다’를 재가공하였습니다.〉서울고등법원 민사부가 23일 이용수 할머니 등 위안부 피해자들이 일본 정부를 상대로 낸 손해배상 소송에서 ‘합당한 위자료를 지급해야 한다’며 원고 승소 판결을 내렸다. 한 나라의 주권 행위를 다른 나라에서 재판할 수 없다는 ‘국가면제’에 근거한 1심 각하 판결을 뒤집고, 법원이 피고 일본국에 법적 책임을 물은 것이다...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/24/news-p.v1.20231124.51e75fbff31b44fba0f78f3bb26e49d1_P1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[엄마와 만나지 못한 동안 학대로 숨진 시우, 엄마는 거리에 섰다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202311241000001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202311241000001</guid>
-            <pubDate>Fri, 24 Nov 2023 01:50:41 GMT</pubDate>
-            <content:encoded><![CDATA[학대로 시우가 떠난지 246일…1인시위에 나선 엄마“시우가 많이 잘못됐습니다. 와 보셔야 할 것 같아요.”지난 2월 8일 오전 11시쯤 고 이시우군의 엄마 A씨(35)는 경찰의 전화를 받았다. 처음에는 보이스피싱이라고 생각했다. 경찰은 전날 숨진 시우가 부검 중이라고 했다. 이어지는 말은 믿을 수 없었다. 아동학대로 수사 중이라고 했다. “누가요? 누가 그랬어요?” A씨가 묻자 경찰은 말했다. “둘 다(계모, 친부)요.”남편과 이혼하고 아이를 만나지 못해 동분서주해 왔...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/11/24/news-p.v1.20231115.852b5b1b01734031b1176317ecc50a66_P1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
