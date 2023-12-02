@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Dec 2023 00:49:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Dec 2023 01:48:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/fbbd20f6-f24a-4d56-96a5-cc3f47b5e12a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“부산 갈 테니 기다려, 부산과 오노미치를 이어보자” (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9780</link>
+            <guid>https://ildaro.com/9780</guid>
+            <pubDate>Sat, 02 Dec 2023 10:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[“사람은 시간이나 마음의 여유가 있으면 누구나 친절할 수 있을 거야.”  도쿄 근교에서 직장 생활하다가 오노미치로 이주한 도이의 경험에서 우러나온 말이었다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023120215193570.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국경을 열고 “우리는 할 수 있다”…독일은 지금 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9779</link>
             <guid>https://ildaro.com/9779</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 06 Nov 2023 10:16:00 GMT</pubDate>
             <content:encoded><![CDATA[원제는 〈닥터 스트레인지러브 : 또는 어떻게 내가 걱정을 떨치고 폭탄을 사랑하게 되었는가〉이다. 어떠한 상황에서도 폭탄을 사랑하지는 말자...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023110622289249.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[This Isn’t “Kindness,” It’s Extra Work (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9760</link>
-            <guid>https://ildaro.com/9760</guid>
-            <pubDate>Sun, 05 Nov 2023 08:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[The building where TV drama [Misaeng] was filmed. If main character Jang Geu-rae had been female, many of the episodes would have been different....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023110525309671.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
