@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 22:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 23:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/11/28/news-p.v1.20231128.a550d7a24b4f4f258aec69035d297782_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[🤏조금 더 깊게 봅시다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1541</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1541</guid>
+            <pubDate>Mon, 04 Dec 2023 23:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[광기가 휩쓸고 간 날들이었습니다. 🤏 바로 이 집게손가락 때문입니다. 2년 전 'GS25 포스터'에 쏟아졌던 일부 한국 남성들의 생떼와 판박이입니다. 당시 뉴스레터에서도 조목조목 지적하였고, 앞으로 고민해야 할 지점까지 제시한 바 있는데요. 시간이 꽤 흘렀지만 한국 사회는 조금도 변하지 않은 듯합니다. 넥슨의 게임 메이플스토리 캐릭터 홍보 영상 속 집게손가락 모양을 두고, 또 집단으로 논란을 만들어냅니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/55729013-b3cf-40f6-aaa6-f49c86c16d82.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[가스, 석유 <<< 여성의 노동 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1532</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1532</guid>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 25 Sep 2023 23:11:19 GMT</pubDate>
             <content:encoded><![CDATA[에그머니나! 이 무슨 제목인지 깜짝 놀라셨죠? 속물 같은 선언이긴 하지만, 고백합니다. 저는 정말 돈이 좋습니다. 혹시나 실망하여 '뒤로' 결정을 내리기 전, 조금만 참고 본문을 함께 읽어주세요. 오늘은 시사 현안을 다루는 대신, '파이낸셜 페미니스트(클레이하우스 발행)'라는 책을 소개하려고 하는데요. 필경 평소 '돈'에 관해 저와 같은 고민을 하시는 독자분들이 많을 것이라 생각해요. 다소 개인적인 생각까지 함께 더해 여러분과 돈 이야기를 하고 싶어요.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/3735b481-770e-4baf-b718-5e2a1293f244.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그 날로부터 1년이 지났다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1445</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1445</guid>
-            <pubDate>Mon, 18 Sep 2023 23:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[벌써 1년이 되었습니다. 히잡을 제대로 쓰지 않았다는 이유로 경찰에 체포됐던 22세 여성 마흐사 아미니가 의문사한 지 말입니다. 현지시간으로 사망 1주기인 16일, 이란 테헤란 거리는 정부의 무자비한 단속에도 이런 구호가 울려 퍼졌습니다. "여성, 생명, 자유!" "독재자에게 죽음을!" 하나, 이란 정부는 시위자에 대한 공개 사형 집행 등으로 민심을 틀어막고 있습니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/fbbd20f6-f24a-4d56-96a5-cc3f47b5e12a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소멸과 필멸, 그리고 불멸 (일다 ─ 전체기사)]]></title>
