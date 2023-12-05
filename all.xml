@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 02:27:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 03:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/3735b481-770e-4baf-b718-5e2a1293f244.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“나는 나의 선배입니다” 외롭지 않은 노동환경을… (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9782</link>
+            <guid>https://ildaro.com/9782</guid>
+            <pubDate>Tue, 05 Dec 2023 11:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[충분한 원고료만큼 중요한 게 적절한 노동 시간이죠. 저희 작가들 엄청 일 많이 하거든요. 진짜....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023120556514864.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[소멸과 필멸, 그리고 불멸 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9781</link>
             <guid>https://ildaro.com/9781</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 09 Nov 2023 11:01:00 GMT</pubDate>
             <content:encoded><![CDATA[모드가 있는 금속노조는 2021년에 ‘모범단협’을 만들기도 했다. 성별과 소수자성 등을 이유로 차별하는 행위를 금지하는 내용이 담겼다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023110911227712.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일터에서 커밍아웃 할 수 없는 이유 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9762</link>
-            <guid>https://ildaro.com/9762</guid>
-            <pubDate>Wed, 08 Nov 2023 11:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[수자 노동 문제를 다루는 어떤 자리에서건 주요하게 나오는 이야기는 ‘드러냄’. 그러니까 주체가 만들어지는 문제이다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023110817227571.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
