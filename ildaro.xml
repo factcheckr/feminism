@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 05:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 06:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어떻게 전세사기 피해에서 탈출했냐고요?]]></title>
+            <link>https://ildaro.com/9783</link>
+            <guid>https://ildaro.com/9783</guid>
+            <pubDate>Wed, 06 Dec 2023 06:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[‘왜 당했냐?’는 말은 아무 의미 없다. “그러게 잘 좀 보지 그랬어, 조심하지 그랬어 등의 당사자를 탓하는 말을 하지 말라는 거죠.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023120623059308.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“나는 나의 선배입니다” 외롭지 않은 노동환경을…]]></title>
             <link>https://ildaro.com/9782</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 10 Nov 2023 12:20:57 GMT</pubDate>
             <content:encoded><![CDATA[왜 ‘나르시시즘’일까. 엄마의 자기애는 ‘병증’으로 보기 때문이다. 자아가 ‘있’으면 욕망을 가진다. 욕망하는 엄마는 이기적이다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023111034319452.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차별의 공통분모…우리는 좀더 연결될 필요가 있다]]></title>
-            <link>https://ildaro.com/9763</link>
-            <guid>https://ildaro.com/9763</guid>
-            <pubDate>Thu, 09 Nov 2023 11:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[모드가 있는 금속노조는 2021년에 ‘모범단협’을 만들기도 했다. 성별과 소수자성 등을 이유로 차별하는 행위를 금지하는 내용이 담겼다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023110911227712.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
