@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 06:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 07:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[What Is the Future of Marriage?]]></title>
+            <link>https://ildaro.com/9784</link>
+            <guid>https://ildaro.com/9784</guid>
+            <pubDate>Thu, 07 Dec 2023 07:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[It’s not a question of why people do or don’t marry, but a question of what marriage is. What will become of marriage?...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/202312075157137.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어떻게 전세사기 피해에서 탈출했냐고요?]]></title>
             <link>https://ildaro.com/9783</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 12 Nov 2023 10:05:00 GMT</pubDate>
             <content:encoded><![CDATA[이들은 ‘독일에 사는 베트남 사람들은 보이지 않고, 조용해 이민자들의 모델이 된다’, ‘영원히 열심히 일하는 영리한 아시아인’이라는 진부한 편견을 깨고 있다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023111229201902.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘좋은 엄마’들이 사는 세상은 유토피아일까?]]></title>
-            <link>https://ildaro.com/9764</link>
-            <guid>https://ildaro.com/9764</guid>
-            <pubDate>Fri, 10 Nov 2023 12:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[왜 ‘나르시시즘’일까. 엄마의 자기애는 ‘병증’으로 보기 때문이다. 자아가 ‘있’으면 욕망을 가진다. 욕망하는 엄마는 이기적이다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023111034319452.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
