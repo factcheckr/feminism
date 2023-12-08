@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 09:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 10:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘집게손가락’ 논란에…‘영국 업체’ 확인하고도 포스터 회수한 복지부]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202312081907001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202312081907001</guid>
+            <pubDate>Fri, 08 Dec 2023 10:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[보건복지부가 행사를 안내하는 포스터를 배포했다가 ‘집게손가락’ 모양의 이미지가 들어있다는 비판을 받자 이를 회수조치했다. 온라인 커뮤니티를 중심으로 외부 업체 소속 작가가 집게손가락을 교묘히 집어넣은 것이라는 소문이 돌았지만, 이 이미지는 2년 영국 업체가 만든 것으로 파악됐다. 억지 음모론에 정부 부처까지 굴복했다는 지적이 나온다.8일 경향신문 취재 결과 보건복지부는 지난 7일 ‘2023 의사과학자 콘퍼런스’ 포스터를 회수했다. 이 포스터에는 여성이 알약...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/12/08/news-p.v1.20231208.cdb8c7486dd5497c9079be63ac608a60_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뿌리 애니메이터 “논리에 맞지 않는 소수의 악성 민원에 귀 기울이지 않길 바란다”]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202312081648001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 04 Dec 2023 03:12:55 GMT</pubDate>
             <content:encoded><![CDATA[남초 커뮤니티를 중심으로 제기된 게임 캐릭터의 이른바 ‘집게손가락 논란’이 음모론에 불과한 정황이 추가로 확인됐다. ‘메이플스토리’의 엔젤릭버스터(엔버) MV 콘티뿐만 아니라 스튜디오 뿌리의 다른 영상들도 남성 감독이 연출하고 그린 사실이 드러난 것이다. 뿌리 총감독으로 캐릭터의 움직임을 만들고 검수한 이는 에미상을 수상한 유명 남성 애니메이터 김상진 감독과 해외 팬덤이 두터운 최인승 감독으로, 이들은 “감독 의도에 반해 애니메이터가 임의로 특정 장면...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/12/04/news-p.v1.20231204.33868737fd0f43bb942115e442d1d7ba_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넥슨 등 게임회사 10곳 노동자 보호조치 특별점검 받는다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202312011846001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202312011846001</guid>
-            <pubDate>Fri, 01 Dec 2023 10:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[일부 악성 유저(이용자)들의 온라인 괴롭힘으로 인한 게임업계 노동자의 피해가 커지면서 정부가 게임업체들에 대한 특별점검에 나선다.서울지방고용노동청은 오는 4∼31일 서울 소재 게임 업체에 대한 고객 응대 노동자 등 보호조치 특별점검 및 자율점검 지도를 실시한다고 1일 밝혔다. 현장점검 대상은 넥슨과 넷마블 등 10곳이다. 이번 점검은 최근 잇따른 게임 악성 유저들의 폭언 등 괴롭힘으로부터 노동자를 보호하기 위한 취지로 마련됐다.넥슨에선 최근 ‘메이플스...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/12/01/news-p.v1.20231201.6cabb685d4b6489db2cae06748bf7e5b_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
