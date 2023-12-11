@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 22:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 23:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/12/05/news-p.v1.20231205.5ed8393976d343a28d780ad8625a151f_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[독자님, 함께 쉬어볼까요? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1550</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1550</guid>
+            <pubDate>Mon, 11 Dec 2023 23:12:51 GMT</pubDate>
+            <content:encoded><![CDATA[지난 뉴스레터가 무척이나 버겁고 힘드셨죠? 그래서 이번 주는 조금 쉬어가는 느낌으로 편안한 내용을 가져와 봤습니다. 가부장제라는 조작된 게임에서 번아웃이 온 여성들이 지속 가능한 삶을 살게 하는 '회복 가이드'를 표방하는 책, '재가 된 여자들(책읽는수요일 발행)'을 소개할게요. 이 책은 제가 추천사를 쓰기도 했는데요. 기존의 유사한 도서들이 사회 구조와 문제를 지적한다면, 이 책은 여성들이 실생활에 적용해 볼 수 있는 다양한 방법을 과학적으로 제시합니다. 책의 모든 내용을 담을 수는 없지만, 책을 전반적으로 알 수 있도록 압축적으로 소개해 볼게요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/ed6fe2b6-70ef-4cf0-aa06-9f3e9a192690.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[🤏조금 더 깊게 봅시다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1541</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1541</guid>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 09 Oct 2023 23:11:39 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 최근 헌법재판소의 결정 하나를 소개하는 짧은 뉴스레터로 여러분을 만나려고 합니다.&nbsp;]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/406b52a4-68ac-4716-9e70-ffe665ed9278.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 돈을 사랑한다! (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1453</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1453</guid>
-            <pubDate>Mon, 25 Sep 2023 23:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[에그머니나! 이 무슨 제목인지 깜짝 놀라셨죠? 속물 같은 선언이긴 하지만, 고백합니다. 저는 정말 돈이 좋습니다. 혹시나 실망하여 '뒤로' 결정을 내리기 전, 조금만 참고 본문을 함께 읽어주세요. 오늘은 시사 현안을 다루는 대신, '파이낸셜 페미니스트(클레이하우스 발행)'라는 책을 소개하려고 하는데요. 필경 평소 '돈'에 관해 저와 같은 고민을 하시는 독자분들이 많을 것이라 생각해요. 다소 개인적인 생각까지 함께 더해 여러분과 돈 이야기를 하고 싶어요.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/3735b481-770e-4baf-b718-5e2a1293f244.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내년 3월 ‘여성 파업’이 기획되고 있다! (일다 ─ 전체기사)]]></title>
