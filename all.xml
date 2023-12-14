@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 01:54:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 02:25:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/406b52a4-68ac-4716-9e70-ffe665ed9278.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[노동권 침해 심각…‘집게 손 억지논란’ 그냥 두고 봐선 안돼 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9789</link>
+            <guid>https://ildaro.com/9789</guid>
+            <pubDate>Thu, 14 Dec 2023 11:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[페미니즘 사상 검증은 “노동자의 노동권을 침해한다는 점에서 문제”다. ‘의혹’에 휘말린 상당수 여성노동자는 작업물을 공개하지 못하게 되거나, 작업물이 회수...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023121415529978.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가자는 ‘절멸수용소’가 되어가고 있습니다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9788</link>
             <guid>https://ildaro.com/9788</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 19 Nov 2023 11:10:59 GMT</pubDate>
             <content:encoded><![CDATA[임신중지 방식으로 일본 사회에서는 소파수술이 주를 이루는데, 여성들은 오랫동안 몸에 부담이 적은 ‘먹는 임신중지약’의 조기승인을 요구해왔다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023111919143767.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“이런 게 되는 곳은 여기밖에 없으니까 놀자, 놀자, 놀자!” (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9769</link>
-            <guid>https://ildaro.com/9769</guid>
-            <pubDate>Sat, 18 Nov 2023 08:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[오노미치는 〈빈집 프로젝트〉로 전국에서 청년들이 모여들어 작은 가게나 이벤트를 이어가고 있다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023111801101229.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
