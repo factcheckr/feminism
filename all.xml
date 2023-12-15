@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 13:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 14:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/406b52a4-68ac-4716-9e70-ffe665ed9278.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[이민, 귀화의 문턱 낮추는 독일 사회의 미래는? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9790</link>
+            <guid>https://ildaro.com/9790</guid>
+            <pubDate>Fri, 15 Dec 2023 14:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[독일어를 한마디도 못 하던 시절, 내가 베를린의 한 박물관에서 표를 파는 일을 하면서 생활비를 벌 수 있었던 것도, 우연히 만난 광부 출신 할아버지 덕분이었다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023121528025527.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[노동권 침해 심각…‘집게 손 억지논란’ 그냥 두고 봐선 안돼 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9789</link>
             <guid>https://ildaro.com/9789</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 20 Nov 2023 10:13:45 GMT</pubDate>
             <content:encoded><![CDATA[대학교에서 미술모델 겸 누드모델로 일해요. 가끔 일주일에 한 번씩 스탠드업 코미디 오픈 마이크에 가서, 별로 안 웃긴 농담을 하고 있어요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023112018525885.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먹는 임신중지약 승인한 日, 그런데 ‘제한’이 많다고? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9770</link>
-            <guid>https://ildaro.com/9770</guid>
-            <pubDate>Sun, 19 Nov 2023 11:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[임신중지 방식으로 일본 사회에서는 소파수술이 주를 이루는데, 여성들은 오랫동안 몸에 부담이 적은 ‘먹는 임신중지약’의 조기승인을 요구해왔다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023111919143767.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
