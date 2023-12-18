@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 22:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 23:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/12/12/news-p.v1.20231212.75c69b9913dc495aaca9e0ce185df818_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[젊은이들 '나혼산' 금지령 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1559</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1559</guid>
+            <pubDate>Mon, 18 Dec 2023 23:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[최근 들어 고개를 어느 쪽으로 돌려도 '출산' '저출생' '인구' 같은 단어만 들리는 거, 저 뿐인가요? 14일 통계청이 발표한 '2022~2072년 장래인구추계' 자료 때문에 아마 관련 보도가 많아졌을텐데요. 저출생의 근본적 해법은 '성평등'이라는 여성과 여성계의 목소리에도 불구하고, 계속해서 헛발질 대책만 이어지고 있는 것이 무척 안타깝습니다.&nbsp;]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/57d7f580-a353-408c-ba6a-10b89fc5cbce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[독자님, 함께 쉬어볼까요? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1550</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1550</guid>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 16 Oct 2023 23:12:00 GMT</pubDate>
             <content:encoded><![CDATA[허스펙티브를 보낸 지 3년 째, 드디어 첫 광고가 들어왔습니다. 🎉🎉 특히 첫 광고가 10월 15일 체육의 날을 맞아, 여성들에 운동장을 돌려주기 위한 취지의 한국양성평등교육진흥원의 이벤트를 소개하는 내용이라는 것이 더욱 뜻 깊은데요. 이는 허스펙티브가 오랫동안 독자님 여러분과 함께 쌓아온 공감대와 그 방향을 같이 하는 것이기 때문에 기쁜 마음으로 뉴스레터를 양평원의 콘텐츠 내용으로 채웠습니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/8dad26a5-79d3-4f49-9e80-16f84ad477d3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["왜 남자만 군대 가?" (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1466</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1466</guid>
-            <pubDate>Mon, 09 Oct 2023 23:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 최근 헌법재판소의 결정 하나를 소개하는 짧은 뉴스레터로 여러분을 만나려고 합니다.&nbsp;]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/406b52a4-68ac-4716-9e70-ffe665ed9278.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국제결혼 지원조례는 ‘제도화된 차별’ 이제는 폐기해야 (일다 ─ 전체기사)]]></title>
