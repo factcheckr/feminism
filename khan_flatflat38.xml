@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 00:50:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 01:54:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“하느님은 모두를 환영”…‘동성 커플 축복’ 공식 허용한 교황청]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202312191032001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202312191032001</guid>
+            <pubDate>Tue, 19 Dec 2023 01:53:38 GMT</pubDate>
+            <content:encoded><![CDATA[교황청이 동성 커플에 대한 가톨릭 사제의 축복을 허용했다. 이성간 결혼만을 인정하면서도 축복의 대상을 동성 커플까지 확장한 것으로, 역사적인 변화라는 평가가 나온다.교황청 신앙교리성은 18일(현지시간) ‘간청하는 믿음(Fiducia supplicans)’이라는 제목의 교리 선언문에서 동성 커플이 원한다면 가톨릭 사제가 이들에 대해 축복을 집전해도 된다고 밝혔다. 이번 선언은 2021년 ‘동성 결합은 이성간 결혼만을 인정하는 교회의 교리를 훼손하는 것이기에 동성 커플을 축복할...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/19/news-p.v1.20231219.c0dbbdb3b7ff48ea8c26ecd52ad3a1c5_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아직도 공고한 부성 우선주의, ‘엄마 성 쓰기’는 어디까지 왔을까]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202312181730001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 13 Dec 2023 01:54:45 GMT</pubDate>
             <content:encoded><![CDATA[이란 정부가 지난해 이란 여성들의 히잡 반대 시위를 촉발한 고 마흐사 아미니의 가족들이 프랑스로 출국하는 것을 막았다.9일(현지시간) 영국 BBC방송은 아미니의 부모와 오빠가 인권 분야 최고 권위를 인정받는 사하로프 인권상을 받으러 프랑스행 비행기에 탑승하려 했으나 거부당했다고 보도했다.아미니 가족 변호인 치린 아르다카니는 “비자가 있는데도 출국이 금지됐다”며 “피해자 가족들의 국제 사회 연설이 이란 정부에 의해 막힌 것은 이번이 처음이다”라고 말했다...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/13/news-p.v1.20231213.f6ee0493dd514f258965969e4ad3eab3_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장혜영 “모든 남성은 가해자? 누가 그런 페미니즘 정치했나” 금태섭·류호정 비판]]></title>
-            <link>https://www.khan.co.kr/politics/politics-general/article/202312121438001</link>
-            <guid>https://www.khan.co.kr/politics/politics-general/article/202312121438001</guid>
-            <pubDate>Tue, 12 Dec 2023 06:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[‘새로운 선택’ 류호정의 페미니즘 정치 비판에 반격‘여성 징병제’엔 “별로 좋은 정치 행보라 생각 안 해”“새로운 세력을 만들겠다면 탈당이 누가 봐도 상식”장혜영 정의당 의원은 12일 같은 당 류호정 의원을 향해 “대한민국의 페미니즘, 여성주의가 모든 남성을 가해자로 설정해 놓고 추진됐다고 생각하지 않는다”고 밝혔다. 장 의원은 금태섭 전 의원이 이끄는 ‘새로운 선택’과 공동 창당을 선언한 류 의원에 대해 정의당 탈당을 조언했다.장 의원은 이날 SBS...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/12/news-p.v1.20231212.75c69b9913dc495aaca9e0ce185df818_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
