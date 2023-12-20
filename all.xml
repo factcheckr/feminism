@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 07:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 08:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/8dad26a5-79d3-4f49-9e80-16f84ad477d3.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[‘싫은 점도 있지만 잘하고 싶다’, 이 일의 매력 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9794</link>
+            <guid>https://ildaro.com/9794</guid>
+            <pubDate>Wed, 20 Dec 2023 11:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[지금은 더 좋은 환경에서 대우받고 싶기보다는, ‘참고 버텨서 위로 올라가자’는 마음이 커요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023122049332755.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국제결혼 지원조례는 ‘제도화된 차별’ 이제는 폐기해야 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9793</link>
             <guid>https://ildaro.com/9793</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 25 Nov 2023 14:10:06 GMT</pubDate>
             <content:encoded><![CDATA[“젊어 보이고 싶다”, “이제 나이 먹어 힘들어”, “그 나이에 대단하시네요!” 등, 누구든 생각하거나 말한 경험이 있지 않을까?...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023112515104950.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신을 발견해주는 친구 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9774</link>
-            <guid>https://ildaro.com/9774</guid>
-            <pubDate>Fri, 24 Nov 2023 11:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[간결한 그림과 아기자기한 리듬감이 넘치는 이 책에서 가장 인상적인 장면은 초록빛 아이의 눈동자에 붉은빛 아이가 가득 담겨 있는 페이지이다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023112458466086.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
