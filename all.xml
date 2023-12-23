@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Dec 2023 03:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Dec 2023 04:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/8dad26a5-79d3-4f49-9e80-16f84ad477d3.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[“덕분에” 한걸음 내딛는 용기를 얻다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9796</link>
+            <guid>https://ildaro.com/9796</guid>
+            <pubDate>Sat, 23 Dec 2023 00:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[백지인 나의 지도 위에는 언제나 골목이 흐른다. 걸어서 만들어 가는 지도다. 혼자 걸어도 좋고, 함께 걸어도 좋다. 걷다 보면 발걸음마다 이야기가 쌓인다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023122352043717.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[네가 홀로 떠나는 길을 걱정하지 않을게 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9795</link>
             <guid>https://ildaro.com/9795</guid>
@@ -478,14 +486,6 @@
             <pubDate>Tue, 28 Nov 2023 11:10:53 GMT</pubDate>
             <content:encoded><![CDATA[Her name is Kim Wonkyeong. As her attorney and her co-defendant, I was exhausted and often in pain—but, in the end, happy....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023112831558715.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생계와 가치, 두 개의 노동 사이에서 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9776</link>
-            <guid>https://ildaro.com/9776</guid>
-            <pubDate>Mon, 27 Nov 2023 12:21:26 GMT</pubDate>
-            <content:encoded><![CDATA[기후위기 대응을 말하는 활동가인 한편, 사람들에게 불안을 잠재우기 위해 상품을 팔아야 하는 보험설계사....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023112745081729.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
