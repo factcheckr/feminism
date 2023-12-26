@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 00:49:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 01:49:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[That Woman’s Final Supper]]></title>
+            <link>https://ildaro.com/9798</link>
+            <guid>https://ildaro.com/9798</guid>
+            <pubDate>Tue, 26 Dec 2023 09:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[On the winter solstice when the winter reached its peak, the women shared their homemade feast with their neighbors, celebrated the promise of spring, and created a festive scene together....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023122613118340.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[가난하고, 고독하고, 앞이 보이지 않는 나날을 나누어 갖기]]></title>
             <link>https://ildaro.com/9797</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 30 Nov 2023 07:11:50 GMT</pubDate>
             <content:encoded><![CDATA[이 기자회견에서 메르켈은 2015년 세계 언론을 장식하게 될 문장을 이야기한다. “독일은 강한 국가입니다. 우리는 많은 것을 해냈습니다. 그리고 해낼 수 있습니다.&amp;qu...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023113007516638.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[난민을 환대하던 독일의 목소리는 어디로 사라졌는가]]></title>
-            <link>https://ildaro.com/9778</link>
-            <guid>https://ildaro.com/9778</guid>
-            <pubDate>Wed, 29 Nov 2023 11:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[나치 때 박해를 받았던 독일인들이 다른 나라에서 보장된 망명의 권리 덕에 살아남을 수 있었다는 것이 근거가 되어, 망명의 권리는 단서 조항 없이 기본법에 포함되었...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023112901449159.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
