@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 10:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 11:10:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“여성폭력 현실 부정하는 정권” 예산 120억 감액]]></title>
+            <link>https://ildaro.com/9799</link>
+            <guid>https://ildaro.com/9799</guid>
+            <pubDate>Tue, 26 Dec 2023 11:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[문재인 정부와 차별성을 두고자 차용했음이 분명한 ‘권력형 성범죄’에 대해서조차 “마땅한 대책을 내놓지 않았다”고 꼬집었다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023122639078617.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[That Woman’s Final Supper]]></title>
             <link>https://ildaro.com/9798</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 02 Dec 2023 10:08:00 GMT</pubDate>
             <content:encoded><![CDATA[“사람은 시간이나 마음의 여유가 있으면 누구나 친절할 수 있을 거야.”  도쿄 근교에서 직장 생활하다가 오노미치로 이주한 도이의 경험에서 우러나온 말이었다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023120215193570.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국경을 열고 “우리는 할 수 있다”…독일은 지금]]></title>
-            <link>https://ildaro.com/9779</link>
-            <guid>https://ildaro.com/9779</guid>
-            <pubDate>Thu, 30 Nov 2023 07:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[이 기자회견에서 메르켈은 2015년 세계 언론을 장식하게 될 문장을 이야기한다. “독일은 강한 국가입니다. 우리는 많은 것을 해냈습니다. 그리고 해낼 수 있습니다.&amp;qu...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202311/2023113007516638.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
