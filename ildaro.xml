@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Dec 2023 12:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 13:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온라인 ‘성적 괴롭힘’…법이 담지 못한 여성폭력]]></title>
+            <link>https://ildaro.com/9800</link>
+            <guid>https://ildaro.com/9800</guid>
+            <pubDate>Wed, 27 Dec 2023 13:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[동의 없는 성행위 소리 및 대화 녹음, 데이트앱 등에서 얻은 개인정보를 이용한 사칭·성적 허위/사실 유포와 같이 “미처 유형화하지 못한 사례들이 포진해 있다.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023122744182983.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“여성폭력 현실 부정하는 정권” 예산 120억 감액]]></title>
             <link>https://ildaro.com/9799</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 03 Dec 2023 11:09:49 GMT</pubDate>
             <content:encoded><![CDATA[“극장이 무너져도 시민은 무너지지 않는다!”  결코 허물 수 없는 것이 있다. 포크레인보다 훨씬 크고 강한 것...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023120338503891.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“부산 갈 테니 기다려, 부산과 오노미치를 이어보자”]]></title>
-            <link>https://ildaro.com/9780</link>
-            <guid>https://ildaro.com/9780</guid>
-            <pubDate>Sat, 02 Dec 2023 10:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[“사람은 시간이나 마음의 여유가 있으면 누구나 친절할 수 있을 거야.”  도쿄 근교에서 직장 생활하다가 오노미치로 이주한 도이의 경험에서 우러나온 말이었다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023120215193570.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
