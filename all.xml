@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Dec 2023 02:24:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 03:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘처벌받을까 하는 불안감에도’…베이비박스에 남은 마음 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202312271058001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202312271058001</guid>
+            <pubDate>Wed, 27 Dec 2023 02:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[강유연씨(가명·26)는 지난여름 배 속에 아이가 생겼다는 걸 뒤늦게 알았다. 아이는 벌써 7개월 차라고 산부인과 의사는 말했다. 아이의 아버지인 전 남자친구와는 이미 헤어진 뒤였다. 강씨는 당시를 “인생의 암흑기였다”고 했다. 부산에서 서울로 발령이 나, 상경해 다니던 회사에서 그는 얼마 전 구조조정을 당한 터였다. 강씨는 아이와 둘만 존재했던 두 달여 동안 “두려웠고, 무기력했고, 안 좋은 생각도 많이 했다”고 했다.강씨는 아이를 혼자 잘 키울 자신이 도저...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/12/27/news-p.v1.20231227.285ba66c728545dc8daa7ecd6dab9d30_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[플랫이 선정한 올해의 여성 ‘98년생 김현진씨’ [플랫] (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202312261047011</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202312261047011</guid>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 19 Dec 2023 01:53:38 GMT</pubDate>
             <content:encoded><![CDATA[교황청이 동성 커플에 대한 가톨릭 사제의 축복을 허용했다. 이성간 결혼만을 인정하면서도 축복의 대상을 동성 커플까지 확장한 것으로, 역사적인 변화라는 평가가 나온다.교황청 신앙교리성은 18일(현지시간) ‘간청하는 믿음(Fiducia supplicans)’이라는 제목의 교리 선언문에서 동성 커플이 원한다면 가톨릭 사제가 이들에 대해 축복을 집전해도 된다고 밝혔다. 이번 선언은 2021년 ‘동성 결합은 이성간 결혼만을 인정하는 교회의 교리를 훼손하는 것이기에 동성 커플을 축복할...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/12/19/news-p.v1.20231219.c0dbbdb3b7ff48ea8c26ecd52ad3a1c5_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아직도 공고한 부성 우선주의, ‘엄마 성 쓰기’는 어디까지 왔을까 [플랫] (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202312181730001</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202312181730001</guid>
-            <pubDate>Mon, 18 Dec 2023 09:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[2008년 호주제 폐지를 골자로 한 민법 개정안이 시행됐지만 부성 우선주의는 여전히 공고하다. 민법은 원칙적으로 “자녀는 부의 성과 본을 따른다”고 규정한다. 다만 당시 개정안에 “부모가 혼인신고시 모의 성과 본을 따르기로 협의한 경우에는 모의 성과 본을 따른다”는 ‘선택지’를 만들었다. 이에 따라 혼인신고할 때 ‘자녀의 성·본은 모의 성·본으로 하는 협의를 했는가’라는 조항에 ‘예’라고 표기하고 별도 협의서를 제출한 경우 자녀에게 모의 성·본을 물려줄...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/12/18/news-p.v1.20231213.705cbb5498d44e17990f2472e1b7211b_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[젊은이들 '나혼산' 금지령 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
