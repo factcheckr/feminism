@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 00:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 01:49:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[같은 박사여도… ‘여성’이면 ‘임금 차별’ 받는다]]></title>
+            <link>https://www.khan.co.kr/national/labor/article/202312281012001</link>
+            <guid>https://www.khan.co.kr/national/labor/article/202312281012001</guid>
+            <pubDate>Thu, 28 Dec 2023 01:49:20 GMT</pubDate>
+            <content:encoded><![CDATA[박사학위 보유자도 성별·고용형태에 따른 ‘임금 차별’에 노출돼 있다는 분석 결과가 나왔다.김명환 한국직업능력연구원 부연구위원은 26일 발표한 ‘박사학위 보유자의 성별·고용형태별 임금 격차’ 보고서에서 “성별·고용형태별 격차는 한국 노동시장의 주요 특징 중 하나이며 박사학위 보유자 역시 이 차별적 구조에서 자유로울 수 없다”고 밝혔다.보고서는 성별 분석에서는 남성 박사 3600명·여성 박사 358명, 고용형태별 분석에서는 정규직 박사 3757명·비정규직 박사 237명...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/12/28/news-p.v1.20231228.53b55f90ef4341b88f085a76d57a21f1_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국민의 조건과 인간의 조건]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202312271521001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 20 Dec 2023 02:10:23 GMT</pubDate>
             <content:encoded><![CDATA[지난 10일 노르웨이 오슬로 시청에서 2023년 노벨 평화상 시상식이 열렸다. 이란의 인권운동가 나르게스 모하마디가 올해의 노벨 평화상 수상자로 선정되었다. 하지만 불법 시위 혐의로 10년9개월형을 선고받고 수감 중인 그는 시상식에 직접 참석하지 못했다. 시상식에는 8년째 어머니를 만나지 못한 17세 쌍둥이 자녀가 대리 수상자로 참석했다. 그리고 자녀들 사이에는 빈 의자가 놓여 있었다. 모하마디를 위한 자리였다.모하마디는 옥중에서 이란 정권을 ‘폭압적이며 반여성...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/12/20/news-p.v1.20231220.396d2e1eb5454684938e7ba0786050da_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“여자실업축구 바뀌지 않으면 여자축구 발전 없다”…지소연의 진심]]></title>
-            <link>https://www.khan.co.kr/sports/sports-general/article/202312191542001</link>
-            <guid>https://www.khan.co.kr/sports/sports-general/article/202312191542001</guid>
-            <pubDate>Tue, 19 Dec 2023 07:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[“이젠 달라질 때가 됐는데…”한국 여자축구를 대표하는 골잡이 지소연(32·수원FC)은 잔칫날 웃지 못했다.그는 지난 14일 2023 여자축구연맹 시상식에서 올해의 미드필더상과 도움상(6개)을 수상한 뒤 기자와 만나 “WK리그(여자실업축구)가 바뀌지 않으면 여자축구의 발전도 없다. 내가 (2010년) 해외로 떠났을 때와 돌아온 지금까지 제 자리 걸음”이라고 말했다.지소연이 2023년을 돌아보는 자리에서 실망감을 드러낸 것은 올해 여자축구가 발전할 호기를 놓친 영향이 컸다.호주·...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/12/19/news-p.v1.20231219.7fc57755c3f740bc92792ffee4336739_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
