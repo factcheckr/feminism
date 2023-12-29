@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 00:41:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 01:40:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘집게손가락’에만 반응하는 넥슨의 ‘선택적’ 사과…온라인서 끊이지 않는 논란 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202312291000011</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202312291000011</guid>
+            <pubDate>Fri, 29 Dec 2023 01:39:14 GMT</pubDate>
+            <content:encoded><![CDATA[넥슨이 게임 일러스트에 등장한 캐릭터의 집게손가락 포즈를 두고 재차 사과의 뜻을 밝혔다. 온라인상에선 “엉뚱한 곳에 사과하고 있다”는 비판이 이어졌다. ‘남혐’이 아니라는 하청업체의 주장과 증거는 외면하고 사실 확인 절차 없이 비판 여론에 떠밀려 ‘손가락 지우기’에만 급급하다는 것이다.김창섭 메이플스토리 총괄 디렉터는 지난 25일 홈페이지에 사과문을 게시했다. 캐릭터 ‘매그너스’의 일러스트가 주먹을 쥐고 있는 모습에서 손가락을 편 모양으로 수정되자 온...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/29/news-p.v1.20231229.5f15836085934800b68a4c9b59c952a0_P1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[같은 박사여도… ‘여성’이면 ‘임금 차별’ 받는다 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/labor/article/202312281012001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 21 Dec 2023 01:51:54 GMT</pubDate>
             <content:encoded><![CDATA[교황청이 가톨릭 사제의 동성커플 축복을 허용했다는 소식이 전해지자 국내 인권단체 등 시민사회에선 환영의 목소리가 이어졌다.천주교인권위원회는 20일 오전 ‘교황청의 동성커플 축복 허용 공식화 환영’ 논평을 내고 “동성커플을 축복하는 것조차 불가하다던 입장이 여기까지 변화한 것은 수많은 사람의 토론과 설득의 결과이기에 의미 있는 진전”이라며 “견고한 전통의 벽도 평등으로 나아가며 바뀔 수 있다는 상징적인 선언”이라고 평가했다. 지난 18일(현지시간) 교황청...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/21/news-p.v1.20231221.d7ccb62769be4b35b765649409d9d536_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노벨 평화상 시상식, 빈 의자에 피어난 수선화 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202312201043001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202312201043001</guid>
-            <pubDate>Wed, 20 Dec 2023 02:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[지난 10일 노르웨이 오슬로 시청에서 2023년 노벨 평화상 시상식이 열렸다. 이란의 인권운동가 나르게스 모하마디가 올해의 노벨 평화상 수상자로 선정되었다. 하지만 불법 시위 혐의로 10년9개월형을 선고받고 수감 중인 그는 시상식에 직접 참석하지 못했다. 시상식에는 8년째 어머니를 만나지 못한 17세 쌍둥이 자녀가 대리 수상자로 참석했다. 그리고 자녀들 사이에는 빈 의자가 놓여 있었다. 모하마디를 위한 자리였다.모하마디는 옥중에서 이란 정권을 ‘폭압적이며 반여성...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/20/news-p.v1.20231220.396d2e1eb5454684938e7ba0786050da_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘집게손가락’에만 반응하는 넥슨의 ‘선택적’ 사과…온라인서 끊이지 않는 논란 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202312291000011</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202312291000011</guid>
+            <pubDate>Fri, 29 Dec 2023 01:39:58 GMT</pubDate>
+            <content:encoded><![CDATA[넥슨이 게임 일러스트에 등장한 캐릭터의 집게손가락 포즈를 두고 재차 사과의 뜻을 밝혔다. 온라인상에선 “엉뚱한 곳에 사과하고 있다”는 비판이 이어졌다. ‘남혐’이 아니라는 하청업체의 주장과 증거는 외면하고 사실 확인 절차 없이 비판 여론에 떠밀려 ‘손가락 지우기’에만 급급하다는 것이다.김창섭 메이플스토리 총괄 디렉터는 지난 25일 홈페이지에 사과문을 게시했다. 캐릭터 ‘매그너스’의 일러스트가 주먹을 쥐고 있는 모습에서 손가락을 편 모양으로 수정되자 온...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/12/29/news-p.v1.20231229.5f15836085934800b68a4c9b59c952a0_P1.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[같은 박사여도… ‘여성’이면 ‘임금 차별’ 받는다 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/labor/article/202312281012001</link>
             <guid>https://www.khan.co.kr/national/labor/article/202312281012001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 21 Dec 2023 01:51:54 GMT</pubDate>
             <content:encoded><![CDATA[교황청이 가톨릭 사제의 동성커플 축복을 허용했다는 소식이 전해지자 국내 인권단체 등 시민사회에선 환영의 목소리가 이어졌다.천주교인권위원회는 20일 오전 ‘교황청의 동성커플 축복 허용 공식화 환영’ 논평을 내고 “동성커플을 축복하는 것조차 불가하다던 입장이 여기까지 변화한 것은 수많은 사람의 토론과 설득의 결과이기에 의미 있는 진전”이라며 “견고한 전통의 벽도 평등으로 나아가며 바뀔 수 있다는 상징적인 선언”이라고 평가했다. 지난 18일(현지시간) 교황청...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/12/21/news-p.v1.20231221.d7ccb62769be4b35b765649409d9d536_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노벨 평화상 시상식, 빈 의자에 피어난 수선화 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202312201043001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202312201043001</guid>
-            <pubDate>Wed, 20 Dec 2023 02:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[지난 10일 노르웨이 오슬로 시청에서 2023년 노벨 평화상 시상식이 열렸다. 이란의 인권운동가 나르게스 모하마디가 올해의 노벨 평화상 수상자로 선정되었다. 하지만 불법 시위 혐의로 10년9개월형을 선고받고 수감 중인 그는 시상식에 직접 참석하지 못했다. 시상식에는 8년째 어머니를 만나지 못한 17세 쌍둥이 자녀가 대리 수상자로 참석했다. 그리고 자녀들 사이에는 빈 의자가 놓여 있었다. 모하마디를 위한 자리였다.모하마디는 옥중에서 이란 정권을 ‘폭압적이며 반여성...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/12/20/news-p.v1.20231220.396d2e1eb5454684938e7ba0786050da_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[젊은이들 '나혼산' 금지령 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
