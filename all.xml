@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 06:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 07:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/8dad26a5-79d3-4f49-9e80-16f84ad477d3.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[“자연을 침해하지 않는 인권”을 생각합니다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9801</link>
+            <guid>https://ildaro.com/9801</guid>
+            <pubDate>Fri, 29 Dec 2023 07:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[깨끗한 바다에 이끌려 가고시마현 아마미오시마(奄美大島)의 학교에 부임했지만, 해수 온도 상승으로 백화한 산호를 보고 충격을 받았다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023122902026247.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[온라인 ‘성적 괴롭힘’…법이 담지 못한 여성폭력 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9800</link>
             <guid>https://ildaro.com/9800</guid>
@@ -478,14 +486,6 @@
             <pubDate>Tue, 05 Dec 2023 11:51:00 GMT</pubDate>
             <content:encoded><![CDATA[충분한 원고료만큼 중요한 게 적절한 노동 시간이죠. 저희 작가들 엄청 일 많이 하거든요. 진짜....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023120556514864.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소멸과 필멸, 그리고 불멸 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9781</link>
-            <guid>https://ildaro.com/9781</guid>
-            <pubDate>Sun, 03 Dec 2023 11:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[“극장이 무너져도 시민은 무너지지 않는다!”  결코 허물 수 없는 것이 있다. 포크레인보다 훨씬 크고 강한 것...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023120338503891.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
