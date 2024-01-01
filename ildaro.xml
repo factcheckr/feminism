@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jan 2024 10:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 11:10:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Who is allowed to chase their dreams?]]></title>
+            <link>https://ildaro.com/9803</link>
+            <guid>https://ildaro.com/9803</guid>
+            <pubDate>Mon, 01 Jan 2024 11:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[When, at 26 years old, I had quit my job and made plans to find work I liked, people gave me a lot of advice and a lot of pushback....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024010157471653.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“돈밖에 의지할 것이 없다”고 말하는 당신에게]]></title>
             <link>https://ildaro.com/9802</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Dec 2023 07:11:46 GMT</pubDate>
             <content:encoded><![CDATA[It’s not a question of why people do or don’t marry, but a question of what marriage is. What will become of marriage?...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/202312075157137.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어떻게 전세사기 피해에서 탈출했냐고요?]]></title>
-            <link>https://ildaro.com/9783</link>
-            <guid>https://ildaro.com/9783</guid>
-            <pubDate>Wed, 06 Dec 2023 06:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[‘왜 당했냐?’는 말은 아무 의미 없다. “그러게 잘 좀 보지 그랬어, 조심하지 그랬어 등의 당사자를 탓하는 말을 하지 말라는 거죠.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023120623059308.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
