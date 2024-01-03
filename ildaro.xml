@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 10:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 11:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“손가락 하나 움직이지 못한다 해도”…진심의 혁명을 말하다]]></title>
+            <link>https://ildaro.com/9805</link>
+            <guid>https://ildaro.com/9805</guid>
+            <pubDate>Wed, 03 Jan 2024 11:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[“사회는 반드시 ‘아무것도 할 수 없는 사람’을 위해 남아돌 정도로 많은 선택지를 준비해줘야 한다. ‘무언가를 하는’ 길도, ‘아무것도 하지 않는’ 길도, 같은 ...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024010343489180.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올림픽 출전을 포기한 선수, 실패한 삶인가요?]]></title>
             <link>https://ildaro.com/9804</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 09 Dec 2023 08:14:50 GMT</pubDate>
             <content:encoded><![CDATA[이곳에 홈리스들이 스스로 꾸려 온 생활이 뿌리내리고 있음은 움직일 수 없는 사실이다. 버려진 물품 등을 모아 나누는 등 서로 도우며 그럭저럭 살아가고 있다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/202312091205726.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청년 여성의 ‘고립’을 구성하는 요소들]]></title>
-            <link>https://ildaro.com/9785</link>
-            <guid>https://ildaro.com/9785</guid>
-            <pubDate>Fri, 08 Dec 2023 09:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[“오늘 또 쓰레기같이 보냈다. 앞으로 나는 어떡하지?” 여성 고립 청년들은 고립의 일상이 기억나지 않는다고 말했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023120832245899.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
