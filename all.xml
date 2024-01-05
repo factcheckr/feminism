@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 00:50:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 01:54:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단단하고 또렷한, 올해의 첫 책 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202401051028011</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202401051028011</guid>
+            <pubDate>Fri, 05 Jan 2024 01:53:19 GMT</pubDate>
+            <content:encoded><![CDATA[새해 첫날 듣는 음악이 그해 운명을 결정한다는 말이 있다. 우스운 미신이지만, 그저 다가올 해를 잘 가꿔보고 싶은 평범한 소망이기도 할 것이다. 그런데 만약 당신이 첫 음악은 이미 들어버렸고 은행에서 제공하는 신년 사주도 왠지 성에 차지 않는다면? 그래서 새로운 삶으로 끌어당기고 싶은 질 좋은 내러티브를 찾는다면? 그렇다면 이제는 새해의 첫 책을 고를 차례다. 음악이라면 새해가 가사를 따라간다고 믿듯 소설이라면 줄거리를 따라간다고 해야 할까? 그러나 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/05/news-p.v1.20240105.ad0809af41fe4aa48ca606912e5999f6_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘영아 유기’ 제대로 막으려면…출생통보제·보호출산제 첫 시행 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202401041517001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 27 Dec 2023 02:20:56 GMT</pubDate>
             <content:encoded><![CDATA[강유연씨(가명·26)는 지난여름 배 속에 아이가 생겼다는 걸 뒤늦게 알았다. 아이는 벌써 7개월 차라고 산부인과 의사는 말했다. 아이의 아버지인 전 남자친구와는 이미 헤어진 뒤였다. 강씨는 당시를 “인생의 암흑기였다”고 했다. 부산에서 서울로 발령이 나, 상경해 다니던 회사에서 그는 얼마 전 구조조정을 당한 터였다. 강씨는 아이와 둘만 존재했던 두 달여 동안 “두려웠고, 무기력했고, 안 좋은 생각도 많이 했다”고 했다.강씨는 아이를 혼자 잘 키울 자신이 도저...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/27/news-p.v1.20231227.285ba66c728545dc8daa7ecd6dab9d30_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플랫이 선정한 올해의 여성 ‘98년생 김현진씨’ (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202312261047011</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202312261047011</guid>
-            <pubDate>Tue, 26 Dec 2023 02:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[성희롱을 당했다고 폭로한 지 7년, 그중 절반에 가까운 4년 동안 이어진 재판. ‘무고 가해자’가 될 뻔했던 1998년생 김현진씨(25)는 숨거나 피하지 않았다. 김씨는 늘 재판에 참석해 자신의 피해 사실을 증언했다. 문단 내 성범죄 사건, 미투(#MeToo·나는 고발한다) 운동 등에서 자신의 피해 사실을 공개한 여러 피해자들은 ‘꽃뱀’ ‘무고범’이라는 시선과 싸워야 했다. 여성들은 ‘가해자는 감옥으로, 피해자는 일상으로’라고 외쳤지만 가해자가 감옥에 간 건 폭로한 지...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/26/news-p.v1.20231226.7cf1f67b1aee4c478b33e7e517334405_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[단단하고 또렷한, 올해의 첫 책 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202401051028011</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202401051028011</guid>
+            <pubDate>Fri, 05 Jan 2024 01:54:02 GMT</pubDate>
+            <content:encoded><![CDATA[새해 첫날 듣는 음악이 그해 운명을 결정한다는 말이 있다. 우스운 미신이지만, 그저 다가올 해를 잘 가꿔보고 싶은 평범한 소망이기도 할 것이다. 그런데 만약 당신이 첫 음악은 이미 들어버렸고 은행에서 제공하는 신년 사주도 왠지 성에 차지 않는다면? 그래서 새로운 삶으로 끌어당기고 싶은 질 좋은 내러티브를 찾는다면? 그렇다면 이제는 새해의 첫 책을 고를 차례다. 음악이라면 새해가 가사를 따라간다고 믿듯 소설이라면 줄거리를 따라간다고 해야 할까? 그러나 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/01/05/news-p.v1.20240105.ad0809af41fe4aa48ca606912e5999f6_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘영아 유기’ 제대로 막으려면…출생통보제·보호출산제 첫 시행 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202401041517001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202401041517001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 27 Dec 2023 02:20:56 GMT</pubDate>
             <content:encoded><![CDATA[강유연씨(가명·26)는 지난여름 배 속에 아이가 생겼다는 걸 뒤늦게 알았다. 아이는 벌써 7개월 차라고 산부인과 의사는 말했다. 아이의 아버지인 전 남자친구와는 이미 헤어진 뒤였다. 강씨는 당시를 “인생의 암흑기였다”고 했다. 부산에서 서울로 발령이 나, 상경해 다니던 회사에서 그는 얼마 전 구조조정을 당한 터였다. 강씨는 아이와 둘만 존재했던 두 달여 동안 “두려웠고, 무기력했고, 안 좋은 생각도 많이 했다”고 했다.강씨는 아이를 혼자 잘 키울 자신이 도저...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/12/27/news-p.v1.20231227.285ba66c728545dc8daa7ecd6dab9d30_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플랫이 선정한 올해의 여성 ‘98년생 김현진씨’ [플랫] (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202312261047011</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202312261047011</guid>
-            <pubDate>Tue, 26 Dec 2023 02:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[성희롱을 당했다고 폭로한 지 7년, 그중 절반에 가까운 4년 동안 이어진 재판. ‘무고 가해자’가 될 뻔했던 1998년생 김현진씨(25)는 숨거나 피하지 않았다. 김씨는 늘 재판에 참석해 자신의 피해 사실을 증언했다. 문단 내 성범죄 사건, 미투(#MeToo·나는 고발한다) 운동 등에서 자신의 피해 사실을 공개한 여러 피해자들은 ‘꽃뱀’ ‘무고범’이라는 시선과 싸워야 했다. 여성들은 ‘가해자는 감옥으로, 피해자는 일상으로’라고 외쳤지만 가해자가 감옥에 간 건 폭로한 지...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/12/26/news-p.v1.20231226.7cf1f67b1aee4c478b33e7e517334405_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[젊은이들 '나혼산' 금지령 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
