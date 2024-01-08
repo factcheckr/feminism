@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 09:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 10:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[출산율, 여성 고용 안정돼야 높아진다 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202401081808001</link>
             <guid>https://www.khan.co.kr/opinion/column/article/202401081808001</guid>
-            <pubDate>Mon, 08 Jan 2024 09:12:39 GMT</pubDate>
+            <pubDate>Mon, 08 Jan 2024 09:11:58 GMT</pubDate>
             <content:encoded><![CDATA[〈※이 기사는 2024년 1월 4일자 경향신문 ‘[사설]여성 고용 안정돼야 출산율 높아진다는 국회 보고서’을 재가공하였습니다.〉악화일로 출생률을 반전시키려면 여성 고용이 안정돼야 한다고 국회 입법조사처가 분석했다. ‘20~30대 여성의 고용·출산 보장을 위한 정책방향’이라는 보고서다. 입법처는 “기혼 여성의 출산장려와 초기 아동 양육지원 정책에 초점이 맞추어져왔던 저출산 정책의 방향을 전환할 필요가 있다”고 밝혔다. 만혼 때문에 출산율이 낮다는 것은...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/01/08/news-p.v1.20240108.0615294964b9480e8d2442431d491660_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/8dad26a5-79d3-4f49-9e80-16f84ad477d3.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[갑자기 어른이 되어버린 모두에게 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9808</link>
+            <guid>https://ildaro.com/9808</guid>
+            <pubDate>Mon, 08 Jan 2024 10:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[유정희와 김민영 그리고 수산나는 청주여자고등학교의 삼행시 클럽 해체를 위해 모였다. 학업에 집중하기 위함이었다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024010828381752.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[말이 씨가 된다는 얘기는 사실이었다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9807</link>
             <guid>https://ildaro.com/9807</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 14 Dec 2023 11:09:00 GMT</pubDate>
             <content:encoded><![CDATA[페미니즘 사상 검증은 “노동자의 노동권을 침해한다는 점에서 문제”다. ‘의혹’에 휘말린 상당수 여성노동자는 작업물을 공개하지 못하게 되거나, 작업물이 회수...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023121415529978.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가자는 ‘절멸수용소’가 되어가고 있습니다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9788</link>
-            <guid>https://ildaro.com/9788</guid>
-            <pubDate>Tue, 12 Dec 2023 07:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[우리가 할 수 있는 일은 가자에 대해 일단 아는 것이다. 반복되는 가자 공격의 역사적 배경은 무엇인가....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023121251307290.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
