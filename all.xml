@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 08:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 09:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[출산율, 여성 고용 안정돼야 높아진다 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202401081808001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202401081808001</guid>
+            <pubDate>Mon, 08 Jan 2024 09:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[〈※이 기사는 2024년 1월 4일자 경향신문 ‘[사설]여성 고용 안정돼야 출산율 높아진다는 국회 보고서’을 재가공하였습니다.〉악화일로 출생률을 반전시키려면 여성 고용이 안정돼야 한다고 국회 입법조사처가 분석했다. ‘20~30대 여성의 고용·출산 보장을 위한 정책방향’이라는 보고서다. 입법처는 “기혼 여성의 출산장려와 초기 아동 양육지원 정책에 초점이 맞추어져왔던 저출산 정책의 방향을 전환할 필요가 있다”고 밝혔다. 만혼 때문에 출산율이 낮다는 것은...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/08/news-p.v1.20240108.0615294964b9480e8d2442431d491660_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘페미’라고 맞았지만 ‘여성폭력’ 지원 받지 못해…숏컷 여성 알바생 폭행 그 후 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202401081105001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 29 Dec 2023 01:39:14 GMT</pubDate>
             <content:encoded><![CDATA[넥슨이 게임 일러스트에 등장한 캐릭터의 집게손가락 포즈를 두고 재차 사과의 뜻을 밝혔다. 온라인상에선 “엉뚱한 곳에 사과하고 있다”는 비판이 이어졌다. ‘남혐’이 아니라는 하청업체의 주장과 증거는 외면하고 사실 확인 절차 없이 비판 여론에 떠밀려 ‘손가락 지우기’에만 급급하다는 것이다.김창섭 메이플스토리 총괄 디렉터는 지난 25일 홈페이지에 사과문을 게시했다. 캐릭터 ‘매그너스’의 일러스트가 주먹을 쥐고 있는 모습에서 손가락을 편 모양으로 수정되자 온...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/29/news-p.v1.20231229.5f15836085934800b68a4c9b59c952a0_P1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[같은 박사여도… ‘여성’이면 ‘임금 차별’ 받는다 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/labor/article/202312281012001</link>
-            <guid>https://www.khan.co.kr/national/labor/article/202312281012001</guid>
-            <pubDate>Thu, 28 Dec 2023 01:48:35 GMT</pubDate>
-            <content:encoded><![CDATA[박사학위 보유자도 성별·고용형태에 따른 ‘임금 차별’에 노출돼 있다는 분석 결과가 나왔다.김명환 한국직업능력연구원 부연구위원은 26일 발표한 ‘박사학위 보유자의 성별·고용형태별 임금 격차’ 보고서에서 “성별·고용형태별 격차는 한국 노동시장의 주요 특징 중 하나이며 박사학위 보유자 역시 이 차별적 구조에서 자유로울 수 없다”고 밝혔다.보고서는 성별 분석에서는 남성 박사 3600명·여성 박사 358명, 고용형태별 분석에서는 정규직 박사 3757명·비정규직 박사 237명...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2023/12/28/news-p.v1.20231228.53b55f90ef4341b88f085a76d57a21f1_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[출산율, 여성 고용 안정돼야 높아진다 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202401081808001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202401081808001</guid>
+            <pubDate>Mon, 08 Jan 2024 09:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[〈※이 기사는 2024년 1월 4일자 경향신문 ‘[사설]여성 고용 안정돼야 출산율 높아진다는 국회 보고서’을 재가공하였습니다.〉악화일로 출생률을 반전시키려면 여성 고용이 안정돼야 한다고 국회 입법조사처가 분석했다. ‘20~30대 여성의 고용·출산 보장을 위한 정책방향’이라는 보고서다. 입법처는 “기혼 여성의 출산장려와 초기 아동 양육지원 정책에 초점이 맞추어져왔던 저출산 정책의 방향을 전환할 필요가 있다”고 밝혔다. 만혼 때문에 출산율이 낮다는 것은...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/01/08/news-p.v1.20240108.0615294964b9480e8d2442431d491660_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘페미’라고 맞았지만 ‘여성폭력’ 지원 받지 못해…숏컷 여성 알바생 폭행 그 후 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202401081105001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202401081105001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 29 Dec 2023 01:39:14 GMT</pubDate>
             <content:encoded><![CDATA[넥슨이 게임 일러스트에 등장한 캐릭터의 집게손가락 포즈를 두고 재차 사과의 뜻을 밝혔다. 온라인상에선 “엉뚱한 곳에 사과하고 있다”는 비판이 이어졌다. ‘남혐’이 아니라는 하청업체의 주장과 증거는 외면하고 사실 확인 절차 없이 비판 여론에 떠밀려 ‘손가락 지우기’에만 급급하다는 것이다.김창섭 메이플스토리 총괄 디렉터는 지난 25일 홈페이지에 사과문을 게시했다. 캐릭터 ‘매그너스’의 일러스트가 주먹을 쥐고 있는 모습에서 손가락을 편 모양으로 수정되자 온...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/12/29/news-p.v1.20231229.5f15836085934800b68a4c9b59c952a0_P1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[같은 박사여도… ‘여성’이면 ‘임금 차별’ 받는다 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/labor/article/202312281012001</link>
-            <guid>https://www.khan.co.kr/national/labor/article/202312281012001</guid>
-            <pubDate>Thu, 28 Dec 2023 01:48:35 GMT</pubDate>
-            <content:encoded><![CDATA[박사학위 보유자도 성별·고용형태에 따른 ‘임금 차별’에 노출돼 있다는 분석 결과가 나왔다.김명환 한국직업능력연구원 부연구위원은 26일 발표한 ‘박사학위 보유자의 성별·고용형태별 임금 격차’ 보고서에서 “성별·고용형태별 격차는 한국 노동시장의 주요 특징 중 하나이며 박사학위 보유자 역시 이 차별적 구조에서 자유로울 수 없다”고 밝혔다.보고서는 성별 분석에서는 남성 박사 3600명·여성 박사 358명, 고용형태별 분석에서는 정규직 박사 3757명·비정규직 박사 237명...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2023/12/28/news-p.v1.20231228.53b55f90ef4341b88f085a76d57a21f1_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[젊은이들 '나혼산' 금지령 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
