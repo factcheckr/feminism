@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 07:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 08:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/8dad26a5-79d3-4f49-9e80-16f84ad477d3.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[When You Are Called 'the Young Lady' instead of ‘the Director of the Film’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9809</link>
+            <guid>https://ildaro.com/9809</guid>
+            <pubDate>Tue, 09 Jan 2024 08:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[My experience is a far cry from theirs. In my opinion, there is no place safe from discrimination in a society full of gender inequality....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024010907074638.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[갑자기 어른이 되어버린 모두에게 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9808</link>
             <guid>https://ildaro.com/9808</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 15 Dec 2023 14:12:05 GMT</pubDate>
             <content:encoded><![CDATA[독일어를 한마디도 못 하던 시절, 내가 베를린의 한 박물관에서 표를 파는 일을 하면서 생활비를 벌 수 있었던 것도, 우연히 만난 광부 출신 할아버지 덕분이었다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023121528025527.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노동권 침해 심각…‘집게 손 억지논란’ 그냥 두고 봐선 안돼 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9789</link>
-            <guid>https://ildaro.com/9789</guid>
-            <pubDate>Thu, 14 Dec 2023 11:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[페미니즘 사상 검증은 “노동자의 노동권을 침해한다는 점에서 문제”다. ‘의혹’에 휘말린 상당수 여성노동자는 작업물을 공개하지 못하게 되거나, 작업물이 회수...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023121415529978.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
