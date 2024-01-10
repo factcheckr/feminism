@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 00:51:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 01:57:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘한동훈 영입 1호 변호사’가 만든 커뮤니티의 ‘여성혐오’]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202401101017001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202401101017001</guid>
+            <pubDate>Wed, 10 Jan 2024 01:56:31 GMT</pubDate>
+            <content:encoded><![CDATA[‘한동훈 국민의힘 비상대책위원회’의 1호 영입 인재인 박상수 변호사가 운영하던 법조인 커뮤니티에 극단적인 여성 혐오 발언과 동료 변호사에 대한 인신공격성 발언이 다수 게재돼온 것으로 나타났다. 한동훈 비대위원장은 지난 5일 “국민들이 전혀 공감하지 않는 극단적인 혐오의 언행을 하는 분은 우리 당에 있을 자리가 없을 것”이라고 했는데, 정작 1호 영입 인재인 박 변호사가 커뮤니티 운영자로서 혐오 발언을 방치해왔다는 지적이 나온다. 박 변호사는 해당 커뮤...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/01/10/news-p.v1.20240109.c2e9ab3e145e44e8b499603cf8b1a5df_P1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[성추행 사건 보고해 진급 밀린 군인 “진급일자 정정 불가”하다는 국방부]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202401091807001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 03 Jan 2024 01:52:46 GMT</pubDate>
             <content:encoded><![CDATA[흔히 여성 고용률이나 경제활동 참가율이 남성에 비해 낮은 원인을 출산에서 찾곤 한다. 취업 후 이제 막 일하기 시작할 시점에 출산을 하면 경력단절이 생기고, 또 이들을 고용하는 기업 역시 부담을 느껴 사원을 채용할 때 상대적으로 남성을 더 선호하게 된다는 것이다.반대로 최근 국내 출생률이 곤두박질치고 있는 상황에서 여성의 고용 안정성이 인구 감소세를 막는 핵심 열쇠가 될 것이라는 주장도 제기되고 있다. 여성이 고용시장에서 출산으로 인한 불이익을 받지...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/01/03/news-p.v1.20240103.cabd37e8aade4cc091f7578e3bf59b79_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뿌리의 ‘집게손가락 음모론’ 설명회, 유저는 한 명도 오지 않았다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202401021532001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202401021532001</guid>
-            <pubDate>Tue, 02 Jan 2024 07:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[‘집게손가락 음모론’으로 일부 남초 커뮤니티 이용자들의 표적이 된 애니메이션 외주제작사 ‘스튜디오 뿌리’가 29일 오프라인 설명회를 열었다. 뿌리 측은 누구든 해명을 요구하면 그에 답하는 방식으로 방식으로 설명회를 진행하려 했으나 현장에 이용자가 한 명도 나오지 않아 기자회견 형식으로 대체했다.스튜디오 뿌리는 이날 오후 2시쯤 서울시 구로구 사무실에서 기자회견 및 유저 설명회를 가졌다. 김상진 스튜디오 뿌리 총감독은 “유저분들에게 작업 과정을 보여드리...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/01/02/news-p.v1.20240102.0b486e72c5ee4da39b925dc86b106068_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
