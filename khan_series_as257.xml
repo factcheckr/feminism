@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 07:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 08:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘1일차’ 국회의원 김은희 “이 자리 설 수 있게 된 것, 미투 운동에 따른 국민 분노 때문”]]></title>
+            <link>https://www.khan.co.kr/politics/assembly/article/202401101649001</link>
+            <guid>https://www.khan.co.kr/politics/assembly/article/202401101649001</guid>
+            <pubDate>Wed, 10 Jan 2024 08:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[국회에 9일 처음 입성한 김은희 국민의힘 의원(33)은 “왜 몇 개월도 남지 않은 국회의원이 되려고 하는지 스스로에게 묻는다”며 “제 의원직 승계가 지난 미투 운동이 촉발한 사회적 분노를 다시 기억하고 우리 사회가 할 수 있는 것이 없는지 반성할 수 있는 계기가 되기를 소망한다”고 밝혔다.허은아 전 의원의 의원직 상실(탈당)에 따라 이날 비례대표 의원직을 승계한 김 의원은 국회 본회의에서 “국회 본회의장에서 제가 어떻게 국회의원으로 이 자리에 서게 됐는...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/01/10/news-p.v1.20240110.891547445e184c9bb9415587239d51e2_P1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[‘한동훈 영입 1호 변호사’가 만든 커뮤니티의 ‘여성혐오’]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202401101017001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 04 Jan 2024 01:52:39 GMT</pubDate>
             <content:encoded><![CDATA[〈※이 기사는 2024년 1월 4일자 경향신문 ‘엡스타인 명단’을 재가공하였습니다.〉미국 정·관·재계에서 ‘엡스타인 명단’이 화제가 되고 있다. 금융투기업자로 미국 주류사회 마당발이었던 제프리 엡스타인은 미성년자 성착취 범죄 조직을 운용했고, 2019년 감옥에서 자살했다. 이 사건으로 처벌된 사람은 엡스타인의 조력자 기슬레인 맥스웰이 유일하다. 지난달 뉴욕 연방법원 로레타 프레스카 판사는 한 피해자가 맥스웰을 상대로 낸 소송에서 언급된 관련자 실명을...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/01/04/news-p.v1.20240104.00bccda355224c86b7386ef28fa2ba69_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[출산 탓에 여성 고용률 낮다는 ‘새빨간 거짓말’]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202401031023001</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202401031023001</guid>
-            <pubDate>Wed, 03 Jan 2024 01:52:46 GMT</pubDate>
-            <content:encoded><![CDATA[흔히 여성 고용률이나 경제활동 참가율이 남성에 비해 낮은 원인을 출산에서 찾곤 한다. 취업 후 이제 막 일하기 시작할 시점에 출산을 하면 경력단절이 생기고, 또 이들을 고용하는 기업 역시 부담을 느껴 사원을 채용할 때 상대적으로 남성을 더 선호하게 된다는 것이다.반대로 최근 국내 출생률이 곤두박질치고 있는 상황에서 여성의 고용 안정성이 인구 감소세를 막는 핵심 열쇠가 될 것이라는 주장도 제기되고 있다. 여성이 고용시장에서 출산으로 인한 불이익을 받지...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/01/03/news-p.v1.20240103.cabd37e8aade4cc091f7578e3bf59b79_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
