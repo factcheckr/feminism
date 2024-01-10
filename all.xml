@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 09:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 10:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/8dad26a5-79d3-4f49-9e80-16f84ad477d3.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[분리교육이 분리된 사회를 만들었다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9810</link>
+            <guid>https://ildaro.com/9810</guid>
+            <pubDate>Wed, 10 Jan 2024 10:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[“선생님이 내 말을 들으려고도 하지 않고, 내가 이야기해도 지원인에게 통역을 시켰어요. 학교에서 나는 말을 하면 안 된다고 생각해, 친구들과도 점점 이야기를 할 ...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024011020132291.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[When You Are Called 'the Young Lady' instead of ‘the Director of the Film’ (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9809</link>
             <guid>https://ildaro.com/9809</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 16 Dec 2023 08:44:00 GMT</pubDate>
             <content:encoded><![CDATA[the ratio of gender minorities in their 20s and 30s living in apartments [in large complexes] was lower than that of people nationwide and they had a lower rate f owning their own home...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023121650361290.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이민, 귀화의 문턱 낮추는 독일 사회의 미래는? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9790</link>
-            <guid>https://ildaro.com/9790</guid>
-            <pubDate>Fri, 15 Dec 2023 14:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[독일어를 한마디도 못 하던 시절, 내가 베를린의 한 박물관에서 표를 파는 일을 하면서 생활비를 벌 수 있었던 것도, 우연히 만난 광부 출신 할아버지 덕분이었다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023121528025527.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
