@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 00:52:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 01:56:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘진료 일환’이라고 잡아떼는 의사들, 환자는 ‘성범죄’ 인지도 못했다]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202401110953001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202401110953001</guid>
+            <pubDate>Thu, 11 Jan 2024 01:56:04 GMT</pubDate>
+            <content:encoded><![CDATA[압구정 롤스로이스 사건(약물에 취해 차를 몰다 행인을 치어 숨지게 한 사건)’ 운전자에게 마약류를 처방한 의사가 마취상태인 여성 환자 10여명을 불법촬영한 혐의로 입건되면서 의사의 성범죄가 다시 문제로 떠올랐다. 2018년부터 5년간 성범죄 혐의로 경찰 수사를 받은 의사는 793명이다. 연평균 159명꼴이다. 10일 경향신문이 2019년부터 지난해까지 의사가 성범죄 혐의로 기소된 사건의 1심 판결문 10건과 2심 판결문 1건을 분석한 결과 진료실 등 내밀한 공간에서 진료...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/01/11/news-p.v1.20240110.f17d52f0221c4d4e9623458f53a5d6a1_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘1일차’ 국회의원 김은희 “이 자리 설 수 있게 된 것, 미투 운동에 따른 국민 분노 때문”]]></title>
             <link>https://www.khan.co.kr/politics/assembly/article/202401101649001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 04 Jan 2024 07:10:53 GMT</pubDate>
             <content:encoded><![CDATA[지난해 영아 출생 미신고와 유기·사망 사건이 전 사회적 문제로 드러나면서 정부와 국회가 관련 법률을 제·개정했다. 그간 ‘솜방망이 처벌’이라고 지적받아 온 영아유기죄와 영아살해죄를 폐기하고 일반 살인·유기죄와 동일하게 적용하도록 한 형법 개정안이 올해 2월 시행된다. 오는 7월엔 출생통보제와 보호출산제가 각각 첫 시행을 앞두고 있다.출생통보제는 그간 부모 등 보호자에게만 부여됐던 출생신고 의무를 확장해 의료기관이 아동의 출생사실을 국가에 통보하도록 한...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/01/04/news-p.v1.20240104.9b73ba2b8eb64b82a4b39fc287530d37_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘엡스타인 명단’ 공개와 사회적 공감대]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202401041032001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202401041032001</guid>
-            <pubDate>Thu, 04 Jan 2024 01:52:39 GMT</pubDate>
-            <content:encoded><![CDATA[〈※이 기사는 2024년 1월 4일자 경향신문 ‘엡스타인 명단’을 재가공하였습니다.〉미국 정·관·재계에서 ‘엡스타인 명단’이 화제가 되고 있다. 금융투기업자로 미국 주류사회 마당발이었던 제프리 엡스타인은 미성년자 성착취 범죄 조직을 운용했고, 2019년 감옥에서 자살했다. 이 사건으로 처벌된 사람은 엡스타인의 조력자 기슬레인 맥스웰이 유일하다. 지난달 뉴욕 연방법원 로레타 프레스카 판사는 한 피해자가 맥스웰을 상대로 낸 소송에서 언급된 관련자 실명을...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/01/04/news-p.v1.20240104.00bccda355224c86b7386ef28fa2ba69_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
