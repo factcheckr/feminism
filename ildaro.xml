@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 09:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 10:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그녀들의 이야기가 내 이야기가 될 때]]></title>
+            <link>https://ildaro.com/9811</link>
+            <guid>https://ildaro.com/9811</guid>
+            <pubDate>Thu, 11 Jan 2024 10:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[연두색과 진녹색, 하얀색 실을 꼬아 소원팔찌를 만들었다. 내가 ‘유진솔’이란 새 이름을 짓고 새 다짐을 할 무렵이다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024011102484605.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[분리교육이 분리된 사회를 만들었다]]></title>
             <link>https://ildaro.com/9810</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 17 Dec 2023 11:02:00 GMT</pubDate>
             <content:encoded><![CDATA[책으로 4.3을 보다 보면 ‘비극적인 일이 일어났고 폐허가 됐다’라고 생각하고 책장을 덮기 쉬운데, 글로만 이해해 온 4.3 너머의 삶의 이야기를 모을 수 있는 시간이었...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023121714317021.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gender minorities have lower rates of home ownership and higher rates of housing insecurity]]></title>
-            <link>https://ildaro.com/9791</link>
-            <guid>https://ildaro.com/9791</guid>
-            <pubDate>Sat, 16 Dec 2023 08:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[the ratio of gender minorities in their 20s and 30s living in apartments [in large complexes] was lower than that of people nationwide and they had a lower rate f owning their own home...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023121650361290.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
