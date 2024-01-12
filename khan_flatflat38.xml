@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 00:52:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 01:56:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여성 합격자 20% 안 되는데…‘남성에게 불리하다’며 채용 기준 바꾸는 소방청]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202401121041001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202401121041001</guid>
+            <pubDate>Fri, 12 Jan 2024 01:55:32 GMT</pubDate>
+            <content:encoded><![CDATA[소방당국이 2027년부터 소방관 채용 체력시험에서 남녀에게 같은 기준을 적용하기로 했다. 남성보다 여성에 낮은 체력평가 기준을 적용하는 현행 방식이 남성에게 불리하다는 것이다. 이미 좁은 여성 소방관 채용문이 더 좁아질 것으로 보인다.10일 경향신문 취재 결과 소방청은 지난해 10월 ‘소방공무원 채용 체력시험 개선안’을 만들어 소방청장에게 보고했다. 기존의 악력, 배근력, 윗몸일으키기, 제자리멀리뛰기, 앉아 앞으로 굽히기 등 기초체력을 측정하는 6개 종목을 소...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/12/news-p.v1.20240112.9a23b8465e2e40108118e7fb4d33771c_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국가가 부추긴 폭력··· 동성애처벌법 제정 후 테러 급증한 우간다]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202401111451001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 05 Jan 2024 07:10:14 GMT</pubDate>
             <content:encoded><![CDATA[미성년자 성착취 파문으로 미국 사회를 충격에 빠뜨렸던 억만장자 제프리 엡스타인의 재판 관련 문건이 3일(현지시간) 공개됐다. 뉴욕 법원의 명령에 따라 처음 공개된 943쪽 분량의 40여개 문건에는 엡스타인과 관련된 180여명의 실명과 그들에 대한 광범위한 증언이 담겼다.빌 클린턴과 도널드 트럼프 전 미국 대통령, 영국 앤드류 왕자, 가수 마이클 잭슨, 마술사 데이비드 카퍼필드 등의 이름이 확인된 가운데 엡스타인과 친분을 맺었던 고위 관료·학자·재계 인사들의 이름...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/05/news-p.v1.20240105.6756633f45644a9cbe36596407518aae_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단단하고 또렷한, 올해의 첫 책]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202401051028011</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202401051028011</guid>
-            <pubDate>Fri, 05 Jan 2024 01:53:19 GMT</pubDate>
-            <content:encoded><![CDATA[새해 첫날 듣는 음악이 그해 운명을 결정한다는 말이 있다. 우스운 미신이지만, 그저 다가올 해를 잘 가꿔보고 싶은 평범한 소망이기도 할 것이다. 그런데 만약 당신이 첫 음악은 이미 들어버렸고 은행에서 제공하는 신년 사주도 왠지 성에 차지 않는다면? 그래서 새로운 삶으로 끌어당기고 싶은 질 좋은 내러티브를 찾는다면? 그렇다면 이제는 새해의 첫 책을 고를 차례다. 음악이라면 새해가 가사를 따라간다고 믿듯 소설이라면 줄거리를 따라간다고 해야 할까? 그러나 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/05/news-p.v1.20240105.ad0809af41fe4aa48ca606912e5999f6_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
