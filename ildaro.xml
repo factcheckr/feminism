@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jan 2024 00:52:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jan 2024 01:54:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폭력에서 벗어나지 못하는 ‘오늘’을 보낸 당신에게]]></title>
+            <link>https://ildaro.com/9812</link>
+            <guid>https://ildaro.com/9812</guid>
+            <pubDate>Sat, 13 Jan 2024 10:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[가정폭력에 관해서는, 20여 년 전에 양손에 들 수 있는 만큼만 짐을 싸 들고 남편 곁을 떠났던 나 자신의 경험과 겹쳐진다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024011340549101.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그녀들의 이야기가 내 이야기가 될 때]]></title>
             <link>https://ildaro.com/9811</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 12 Jan 2024 00:52:36 GMT</pubDate>
             <content:encoded><![CDATA[이주여성(베트남 유학생)을 잠재적 ‘배우자’로 상정한 점. 한국인 남성과의 혼인으로 한국에 정착하는 걸 ‘유리한 기회’로 제공한다는 국가·인종·성별 우위적 관...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023121808168875.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4.3을 비극적 역사로만 알고 있나요? 제주 여성사 발굴]]></title>
-            <link>https://ildaro.com/9792</link>
-            <guid>https://ildaro.com/9792</guid>
-            <pubDate>Sun, 17 Dec 2023 11:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[책으로 4.3을 보다 보면 ‘비극적인 일이 일어났고 폐허가 됐다’라고 생각하고 책장을 덮기 쉬운데, 글로만 이해해 온 4.3 너머의 삶의 이야기를 모을 수 있는 시간이었...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023121714317021.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
