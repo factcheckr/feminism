@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 03:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 04:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“노조 경력을 이력서에 써도 되는 사회에 살고 싶어요”]]></title>
+            <link>https://ildaro.com/9814</link>
+            <guid>https://ildaro.com/9814</guid>
+            <pubDate>Tue, 16 Jan 2024 04:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[활동이나 운동에 대한 편견이 없는 사회면 좋겠어요. 분명 내가 노동조합에서 쌓은 전문성이 있을 거고, 그걸로 나를 보여줄 수도 있는 것도 있는 건데....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024011612273329.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성관계에서 ‘동의’를 둘러싼 여성들의 경험과 시도]]></title>
             <link>https://ildaro.com/9813</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 22 Dec 2023 09:58:00 GMT</pubDate>
             <content:encoded><![CDATA[운이 좋았던 나는 길 위에는 여자들이 쓴 글을 지지대 삼아 나아갈 수 있었다. 자급하는 농부들, 예술 하는 친구들이 만들어놓은 다리를 건넜다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023122201374863.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘싫은 점도 있지만 잘하고 싶다’, 이 일의 매력]]></title>
-            <link>https://ildaro.com/9794</link>
-            <guid>https://ildaro.com/9794</guid>
-            <pubDate>Wed, 20 Dec 2023 11:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[지금은 더 좋은 환경에서 대우받고 싶기보다는, ‘참고 버텨서 위로 올라가자’는 마음이 커요....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023122049332755.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
