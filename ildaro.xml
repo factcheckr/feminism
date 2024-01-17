@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 11:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 12:21:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Controversy over Harmful Media for Teens – the Historic “X Zone Incident”]]></title>
+            <link>https://ildaro.com/9815</link>
+            <guid>https://ildaro.com/9815</guid>
+            <pubDate>Wed, 17 Jan 2024 12:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[Why were sexual minorities so strongly enraged by the “X Zone incident"? Many factors certainly contributed, but the one I’d like to focus on is the fact that the X Zone was an internet community....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024011713478016.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“노조 경력을 이력서에 써도 되는 사회에 살고 싶어요”]]></title>
             <link>https://ildaro.com/9814</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 23 Dec 2023 00:44:00 GMT</pubDate>
             <content:encoded><![CDATA[백지인 나의 지도 위에는 언제나 골목이 흐른다. 걸어서 만들어 가는 지도다. 혼자 걸어도 좋고, 함께 걸어도 좋다. 걷다 보면 발걸음마다 이야기가 쌓인다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023122352043717.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네가 홀로 떠나는 길을 걱정하지 않을게]]></title>
-            <link>https://ildaro.com/9795</link>
-            <guid>https://ildaro.com/9795</guid>
-            <pubDate>Fri, 22 Dec 2023 09:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[운이 좋았던 나는 길 위에는 여자들이 쓴 글을 지지대 삼아 나아갈 수 있었다. 자급하는 농부들, 예술 하는 친구들이 만들어놓은 다리를 건넜다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023122201374863.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
