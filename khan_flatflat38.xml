@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 09:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 10:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[60만 동심 사로잡은 ‘깜냥’ 홍주희 작가의 ‘어린이를 위하는 마음’]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202401171826001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202401171826001</guid>
+            <pubDate>Wed, 17 Jan 2024 10:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[학습만화가 장악하고 있는 어린이책 분야에서 2020년 3월 1권 출간 이후 6권까지 총 60만부가 팔린 베스트셀러 동화 시리즈가 있다. 초등학교 저학년 추천 목록에 드는 동시에 전국 도서관 어린이책 대출 10위 안에 항상 포함되는 책. 바로 창비에서 나온 &lt;고양이 해결사 깜냥&gt;(이하 깜냥) 시리즈다. 지난해 10월 말 6권이 나온 날 교보문고에서는 일시 품절이 되기도 했다. 저학년 대상 순수 창작동화 중 &lt;깜냥&gt;의 존재감은 독보적이다.지금까지 ‘깜냥’은 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/17/news-p.v1.20240117.bf7271484d6d4ef4857680cad82e997d_P1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[노벨 평화상 받은 ‘여성인권운동가’ 모하마디 형기 늘린 이란]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202401171116001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 10 Jan 2024 08:14:13 GMT</pubDate>
             <content:encoded><![CDATA[국회에 9일 처음 입성한 김은희 국민의힘 의원(33)은 “왜 몇 개월도 남지 않은 국회의원이 되려고 하는지 스스로에게 묻는다”며 “제 의원직 승계가 지난 미투 운동이 촉발한 사회적 분노를 다시 기억하고 우리 사회가 할 수 있는 것이 없는지 반성할 수 있는 계기가 되기를 소망한다”고 밝혔다.허은아 전 의원의 의원직 상실(탈당)에 따라 이날 비례대표 의원직을 승계한 김 의원은 국회 본회의에서 “국회 본회의장에서 제가 어떻게 국회의원으로 이 자리에 서게 됐는...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/10/news-p.v1.20240110.891547445e184c9bb9415587239d51e2_P1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘한동훈 영입 1호 변호사’가 만든 커뮤니티의 ‘여성혐오’]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202401101017001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202401101017001</guid>
-            <pubDate>Wed, 10 Jan 2024 01:55:31 GMT</pubDate>
-            <content:encoded><![CDATA[‘한동훈 국민의힘 비상대책위원회’의 1호 영입 인재인 박상수 변호사가 운영하던 법조인 커뮤니티에 극단적인 여성 혐오 발언과 동료 변호사에 대한 인신공격성 발언이 다수 게재돼온 것으로 나타났다. 한동훈 비대위원장은 지난 5일 “국민들이 전혀 공감하지 않는 극단적인 혐오의 언행을 하는 분은 우리 당에 있을 자리가 없을 것”이라고 했는데, 정작 1호 영입 인재인 박 변호사가 커뮤니티 운영자로서 혐오 발언을 방치해왔다는 지적이 나온다. 박 변호사는 해당 커뮤...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/10/news-p.v1.20240109.c2e9ab3e145e44e8b499603cf8b1a5df_P1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
