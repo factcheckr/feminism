@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 00:51:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 01:55:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“생의 맛”을 맛보게 해준 할머니의 디저트]]></title>
+            <link>https://ildaro.com/9816</link>
+            <guid>https://ildaro.com/9816</guid>
+            <pubDate>Thu, 18 Jan 2024 10:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[꿀에 절인 밤, 갓 구운 아몬드와 헤이즐넛, 설탕이 솔솔 뿌려진 쿠키, 바삭하고 고소한 누가와 찰다(cialda), 따스한 핫초코의 냄새와 온도도 글에 담겨있다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024011810372342.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Controversy over Harmful Media for Teens – the Historic “X Zone Incident”]]></title>
             <link>https://ildaro.com/9815</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 12 Jan 2024 00:52:36 GMT</pubDate>
             <content:encoded><![CDATA[나에게 있어 고야마씨의 노트를 읽고 옮겨 적는 작업은 가난하고 고독하고 앞이 보이지 않는 불안한 나날을 나누어 갖는, 고야마씨와의 대화의 시간이었다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023122447157440.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“덕분에” 한걸음 내딛는 용기를 얻다]]></title>
-            <link>https://ildaro.com/9796</link>
-            <guid>https://ildaro.com/9796</guid>
-            <pubDate>Sat, 23 Dec 2023 00:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[백지인 나의 지도 위에는 언제나 골목이 흐른다. 걸어서 만들어 가는 지도다. 혼자 걸어도 좋고, 함께 걸어도 좋다. 걷다 보면 발걸음마다 이야기가 쌓인다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023122352043717.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

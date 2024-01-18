@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 00:51:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 01:55:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“아동 생존권과 양육비 안주는 부모의 명예를 다투는 것, 애초에 잘못된 비교”]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202401181048001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202401181048001</guid>
+            <pubDate>Thu, 18 Jan 2024 01:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[판결 후 다시 양육비 안 주려는 움직임…앞으로 누가 나설 수 있을까미투·학폭 가해자 공개…사적 제재니 하지 말라고 하면 모두 숨죽여야지난해 국내 합계출산율은 0.72명(통계청 장래인구추계). 사실상 세계 꼴찌로, 이 추세대로라면 한국이라는 나라가 지구상에서 가장 먼저 사라질 수도 있다는 암울한 전망까지 나온다. 아이 하나하나가 국가의 존립을 지탱하는 귀한 생명줄인 셈이다.그럼에도 아동에 대한 국가 차원의 보호막은 여전히 얇다. 여성가족부 ‘2021년 한부모 가...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/18/news-p.v1.20240118.d2c5b5426ace4d4087638a6604751dcc_P1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[60만 동심 사로잡은 ‘깜냥’ 홍민정 작가의 ‘어린이를 위하는 마음’]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202401171826001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 11 Jan 2024 01:55:22 GMT</pubDate>
             <content:encoded><![CDATA[압구정 롤스로이스 사건(약물에 취해 차를 몰다 행인을 치어 숨지게 한 사건)’ 운전자에게 마약류를 처방한 의사가 마취상태인 여성 환자 10여명을 불법촬영한 혐의로 입건되면서 의사의 성범죄가 다시 문제로 떠올랐다. 2018년부터 5년간 성범죄 혐의로 경찰 수사를 받은 의사는 793명이다. 연평균 159명꼴이다. 10일 경향신문이 2019년부터 지난해까지 의사가 성범죄 혐의로 기소된 사건의 1심 판결문 10건과 2심 판결문 1건을 분석한 결과 진료실 등 내밀한 공간에서 진료...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/11/news-p.v1.20240110.f17d52f0221c4d4e9623458f53a5d6a1_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘1일차’ 국회의원 김은희 “이 자리 설 수 있게 된 것, 미투 운동에 따른 국민 분노 때문”]]></title>
-            <link>https://www.khan.co.kr/politics/assembly/article/202401101649001</link>
-            <guid>https://www.khan.co.kr/politics/assembly/article/202401101649001</guid>
-            <pubDate>Wed, 10 Jan 2024 08:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[국회에 9일 처음 입성한 김은희 국민의힘 의원(33)은 “왜 몇 개월도 남지 않은 국회의원이 되려고 하는지 스스로에게 묻는다”며 “제 의원직 승계가 지난 미투 운동이 촉발한 사회적 분노를 다시 기억하고 우리 사회가 할 수 있는 것이 없는지 반성할 수 있는 계기가 되기를 소망한다”고 밝혔다.허은아 전 의원의 의원직 상실(탈당)에 따라 이날 비례대표 의원직을 승계한 김 의원은 국회 본회의에서 “국회 본회의장에서 제가 어떻게 국회의원으로 이 자리에 서게 됐는...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/10/news-p.v1.20240110.891547445e184c9bb9415587239d51e2_P1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
