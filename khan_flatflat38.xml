@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 06:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 07:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그냥 ‘게임’일 뿐일까]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202401181532001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202401181532001</guid>
+            <pubDate>Thu, 18 Jan 2024 07:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[게임 개발자 라프 코스터는 &lt;라프 코스터의 재미이론&gt;이라는 책에서 가상의 게임을 제시한다. 자, 가스실처럼 생긴 우물이 있다. 당신은 무고한 희생자들을 우물에 떨어뜨려 대량으로 학살하는 일을 한다. 희생자는 외형이 제각각이다. 어린 사람, 장성한 사람, 뚱뚱한 사람, 키 큰 사람 등 다양한 사람이 던져진다.바닥에 떨어진 희생자들은 우물에서 탈출하기 위해 타인을 밟고 올라선다. 만약 누가 우물 밖으로 나간다면 당신은 게임에서 진다. 하지만 희생자를 잘 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/18/news-p.v1.20240118.4e54aea2050d4bfa8a9a96cd9b072b79_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“아동 생존권과 양육비 안주는 부모의 명예를 다투는 것, 애초에 잘못된 비교”]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202401181048001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 11 Jan 2024 06:14:36 GMT</pubDate>
             <content:encoded><![CDATA[지난해 최대 사형까지 선고 가능한 동성애 처벌법을 제정해 국제적 논란을 일으켰던 우간다에서 성소수자를 겨냥한 테러 행위가 급증하고 있는 것으로 나타났다. ‘국가가 부추긴 혐오 범죄’라는 비판이 나온다. 미국의 극우성향 복음주의 개신교 단체들이 자금 지원 등으로 아프리카 국가들의 동성애 처벌법 입법에 영향력을 행사했다는 의혹도 제기되고 있다.7일(현지시간) 영국 가디언에 따르면 지난 3일 우간다의 유명 성소수자 인권운동가인 스티븐 카부예가 신원 미상의 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/11/news-p.v1.20240110.ea9e1aa258b145db8e6acb686f21fb43_P1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘진료 일환’이라고 잡아떼는 의사들, 환자는 ‘성범죄’ 인지도 못했다]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202401110953001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202401110953001</guid>
-            <pubDate>Thu, 11 Jan 2024 01:55:22 GMT</pubDate>
-            <content:encoded><![CDATA[압구정 롤스로이스 사건(약물에 취해 차를 몰다 행인을 치어 숨지게 한 사건)’ 운전자에게 마약류를 처방한 의사가 마취상태인 여성 환자 10여명을 불법촬영한 혐의로 입건되면서 의사의 성범죄가 다시 문제로 떠올랐다. 2018년부터 5년간 성범죄 혐의로 경찰 수사를 받은 의사는 793명이다. 연평균 159명꼴이다. 10일 경향신문이 2019년부터 지난해까지 의사가 성범죄 혐의로 기소된 사건의 1심 판결문 10건과 2심 판결문 1건을 분석한 결과 진료실 등 내밀한 공간에서 진료...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/11/news-p.v1.20240110.f17d52f0221c4d4e9623458f53a5d6a1_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
