@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Jan 2024 05:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jan 2024 06:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/8dad26a5-79d3-4f49-9e80-16f84ad477d3.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[‘생을 걸고’ 사죄와 보상 요구한 징용피해자의 마음 떠올려 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9818</link>
+            <guid>https://ildaro.com/9818</guid>
+            <pubDate>Sun, 21 Jan 2024 06:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[2012년 한국 대법원에 제기한 ‘징용공 소송’은 일본에서도 화제가 되었다. 피해자를 지원하는 ‘나고야 미쓰비시 조선여자근로정신대 소송을 지원하는 모임’에 가...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024012138183033.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[삶을 믿는 실험, 시작은 작은 날갯짓이었다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9817</link>
             <guid>https://ildaro.com/9817</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 12 Jan 2024 00:52:36 GMT</pubDate>
             <content:encoded><![CDATA[문재인 정부와 차별성을 두고자 차용했음이 분명한 ‘권력형 성범죄’에 대해서조차 “마땅한 대책을 내놓지 않았다”고 꼬집었다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023122639078617.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[That Woman’s Final Supper (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9798</link>
-            <guid>https://ildaro.com/9798</guid>
-            <pubDate>Tue, 26 Dec 2023 09:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[On the winter solstice when the winter reached its peak, the women shared their homemade feast with their neighbors, celebrated the promise of spring, and created a festive scene together....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023122613118340.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
