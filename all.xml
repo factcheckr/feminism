@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 09:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 10:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/8dad26a5-79d3-4f49-9e80-16f84ad477d3.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[진짜 위기는 “증발하고 싶은 여자들” 이야기를 모르는 것 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9819</link>
+            <guid>https://ildaro.com/9819</guid>
+            <pubDate>Mon, 22 Jan 2024 10:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[‘넌 너대로 살면 된다. 우린 우리가 알아서 살테니’ 하지만, (부모한테) 집이 없다? 안정적인 소득이 없다? 그러면, 청년여성들의 부모돌봄에 대한 불안은 더 증폭되...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024012258265097.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘생을 걸고’ 사죄와 보상 요구한 징용피해자의 마음 떠올려 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9818</link>
             <guid>https://ildaro.com/9818</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 12 Jan 2024 00:52:36 GMT</pubDate>
             <content:encoded><![CDATA[동의 없는 성행위 소리 및 대화 녹음, 데이트앱 등에서 얻은 개인정보를 이용한 사칭·성적 허위/사실 유포와 같이 “미처 유형화하지 못한 사례들이 포진해 있다.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023122744182983.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“여성폭력 현실 부정하는 정권” 예산 120억 감액 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9799</link>
-            <guid>https://ildaro.com/9799</guid>
-            <pubDate>Fri, 12 Jan 2024 00:52:36 GMT</pubDate>
-            <content:encoded><![CDATA[문재인 정부와 차별성을 두고자 차용했음이 분명한 ‘권력형 성범죄’에 대해서조차 “마땅한 대책을 내놓지 않았다”고 꼬집었다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023122639078617.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
