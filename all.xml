@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 22:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 23:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/01/15/news-p.v1.20240115.42a66255af6e44ccb61f73ead3c53ac2_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['여성 + 기자'로 사는 법 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1598</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1598</guid>
+            <pubDate>Mon, 22 Jan 2024 23:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[오래간만에 돌아와 본문 주제로 '여성' '기자'로 산다는 것을 가져온 건, 조금 이기적인 선택일까요? 하지만 동료 여성 기자들에 대한 애정을 담아, 더 나아가 우리 사회의 성평등을 이끄는데 여성 기자들의 분투가 분명히 존재했다는 자부심과 존경심으로 이 뉴스레터를 작성해봅니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/2f28694d-5e3e-4aea-82d7-b67ba55580a2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[젊은이들 '나혼산' 금지령 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1559</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1559</guid>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 23 Oct 2023 23:11:45 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 두 권의 책을 소개하며 함께 생각할 거리를 던져보려고 해요. 모두 제가 직접 읽고 서평을 쓴 책입니다. 제법 날씨가 쌀쌀해졌는데, 야외활동이 어렵다면 이 두 권의 책을 읽고 허스펙티브와 함께 감상을 나눠보는 건 어떨까요?]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/e4b2d736-2fd8-4082-a323-3ed04cec61ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[얘들아, 우리 축구하자! (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1476</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1476</guid>
-            <pubDate>Mon, 16 Oct 2023 23:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[허스펙티브를 보낸 지 3년 째, 드디어 첫 광고가 들어왔습니다. 🎉🎉 특히 첫 광고가 10월 15일 체육의 날을 맞아, 여성들에 운동장을 돌려주기 위한 취지의 한국양성평등교육진흥원의 이벤트를 소개하는 내용이라는 것이 더욱 뜻 깊은데요. 이는 허스펙티브가 오랫동안 독자님 여러분과 함께 쌓아온 공감대와 그 방향을 같이 하는 것이기 때문에 기쁜 마음으로 뉴스레터를 양평원의 콘텐츠 내용으로 채웠습니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/8dad26a5-79d3-4f49-9e80-16f84ad477d3.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[진짜 위기는 “증발하고 싶은 여자들” 이야기를 모르는 것 (일다 ─ 전체기사)]]></title>
