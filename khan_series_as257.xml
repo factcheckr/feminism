@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 02:00:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 02:35:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실력도 철학도 없는 여야의 저출생 대책]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202401221103001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202401221103001</guid>
+            <pubDate>Mon, 22 Jan 2024 02:34:31 GMT</pubDate>
+            <content:encoded><![CDATA[국민의힘과 민주당이 모처럼 의견의 일치를 봤다. 지난 18일 동시에 발표된 저출생 대책이다. 4월 총선을 앞둔 선거용이기는 하지만, ‘막대한 예산만 쓰고 성과는 없다’는 비판과 함께 국민의 큰 걱정거리가 되어버린 정책이라 언론의 관심도 컸다. 결과는 ‘예상대로, 그러나 예상보다 훨씬 걱정스러운 것’이었다.국민의힘은 배우자 출산휴가를 현행 10일에서 1개월(유급)로 늘려 의무화하고 육아휴직 급여 상한 인상, 연 5일 유급 자녀돌봄휴가, 육아동료수당, 여성가족부 폐...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/01/22/news-p.v1.20240122.4b5e7d08418346678d2005d9667ebb9a_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘여성의 날’ 축하한 일러스트레이터 콘텐츠 지운 ‘명일방주’…이유는 ‘갈등조장’]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202401191116001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 12 Jan 2024 08:15:17 GMT</pubDate>
             <content:encoded><![CDATA[1972년 미국 의회를 통과한 ‘교육개정법 제9편’은 “미국에서 그 누구도 성별을 이유로 연방정부의 재정 지원을 받는 모든 교육 프로그램 또는 활동에서 제외되거나, 혜택을 받지 못하거나, 차별 대상이 되어서는 안 된다”는 말로 시작한다. 이후 ‘타이틀 나인’이라 불린 이 법은 “미국 교육에서 성차별을 금지한 최초의 법”으로 기록됐다. 일각에선 ‘여성이 투표권을 얻은 이래 가장 중요한 법’이라고도 표현한다.초반 구절만 읽으면 교육기관 내 성차별을 완곡하게 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/01/12/news-p.v1.20240112.2da8974c818f4b9ab42f734cbf8a090a_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성 합격자 20% 안 되는데…‘남성에게 불리하다’며 채용 기준 바꾸는 소방청]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202401121041001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202401121041001</guid>
-            <pubDate>Fri, 12 Jan 2024 01:56:13 GMT</pubDate>
-            <content:encoded><![CDATA[소방당국이 2027년부터 소방관 채용 체력시험에서 남녀에게 같은 기준을 적용하기로 했다. 남성보다 여성에 낮은 체력평가 기준을 적용하는 현행 방식이 남성에게 불리하다는 것이다. 이미 좁은 여성 소방관 채용문이 더 좁아질 것으로 보인다.10일 경향신문 취재 결과 소방청은 지난해 10월 ‘소방공무원 채용 체력시험 개선안’을 만들어 소방청장에게 보고했다. 기존의 악력, 배근력, 윗몸일으키기, 제자리멀리뛰기, 앉아 앞으로 굽히기 등 기초체력을 측정하는 6개 종목을 소...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/01/12/news-p.v1.20240112.9a23b8465e2e40108118e7fb4d33771c_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
