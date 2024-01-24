@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 06:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 07:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘살찐 몸’이라고?…크고 아름다운 ‘나’를 좋아하기로 한 여성들]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202401241609001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202401241609001</guid>
+            <pubDate>Wed, 24 Jan 2024 07:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[살찐 몸은 우리에게 가장 익숙한 몸 중 하나다. 좀 부었을 뿐인데 “살쪘냐”라는 무심한 지적을 들어본 기억, 살이 쪄서 둔해 보인다는 얘기를 들어본 경험은 누구에게나 한번쯤 있을 것이다.그런데 몸을 향한 타인의 시선이나 압박은 모두에게 똑같은 영향을 미치지 않는다. 지난해 질병관리청이 발표한 2022년 국민건강영양조사 결과를 보면 성인 남성의 비만율은 47.7%인 반면 여성은 25.7%였다. 비만율은 체중(㎏)을 신장(ｍ)의 제곱으로 나눈 체질량지수(BMI·...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/24/news-p.v1.20240124.d3444a5d6d7d44a6b82522a7b152ae27_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남성만 ‘영업직’인 회사, ‘영업직’만 승진했다…‘간접 성차별’ 인정]]></title>
             <link>https://www.khan.co.kr/national/labor/article/202401240957001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 17 Jan 2024 02:26:29 GMT</pubDate>
             <content:encoded><![CDATA[이란 반정부 시위 지원 등을 이유로 복역 중인 2023년 노벨평화상 수상자 나르게스 모하마디(51)의 형기가 15개월 더 늘어났다.15일(현지시간) BBC 등에 따르면 이란 혁명재판소는 이미 징역 12년형을 선고받고 복역 중인 모하마디에게 ‘반정부 선전 유포’ 혐의로 15개월의 징역형을 추가로 선고했다. 이번 재판은 지난해 12월19일부터 궐석 상태로 진행돼 왔다.모하마디는 또 이번 재판에서 2년간 테헤란 외부 지역으로 유배 명령도 받게 됐다. 이에 따라 현재 수감된 예빈...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/17/news-p.v1.20240117.abab14e8959847128c887f96a3f6d34f_P1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[일하다 다쳐도 “잘 몰라서”··· 산재신청 망설이는 청년 여성들]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202401161521001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202401161521001</guid>
-            <pubDate>Tue, 16 Jan 2024 07:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[스타일리스트 A씨(30)는 수십 벌의 의상을 옮기고 지방 촬영으로 장시간 이동하는 등 “몸이 안 아프면 이상”할 정도로 일했다. 결국 디스크가 심해졌지만 산재보험 처리는 못 했다.A씨는 “(스타일리스트 등) 프리랜서에게 4대 보험이 적용된 지 얼마 안 됐다. 보통 4대 보험도 없고 세금도 안 떼고 일했다”며 “회사에서 산재처리를 해 줄 리도 없고 우리도 지식이 없어 회사에 말 못하고, 결국 퇴사하게 된다”고 했다.청년 여성 노동자들이 일 때문에 아프고 다쳐도...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/16/news-p.v1.20240116.1973b7b60365498e8a60400935c9fb28_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
