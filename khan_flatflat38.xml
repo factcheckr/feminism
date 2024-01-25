@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 06:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 07:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[첫 인정된 여성 간호사 ‘태아산재’, ‘죽은 법’ 소리 듣지 않으려면]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202401251534001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202401251534001</guid>
+            <pubDate>Thu, 25 Jan 2024 07:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[〈※이 기사는 2024년 1월 22일자 경향신문 ‘[사설]여성 간호사 ‘태아 산재’ 첫 인정, 모성 보호 강화 전기로’를 재가공하였습니다.〉근로복지공단이 위험한 근무 환경에 노출돼 선천성 질환아를 낳은 간호사의 산업재해를 인정했다. 2020년 대법원 판결로 제주의료원 간호사 4명의 자녀 질병이 산재로 인정받은 적 있지만, 공단이 인정한 것은 처음이다. 공단은 자녀의 선천성 뇌 기형 질환에 대해 산재 신청을 한 간호사 A씨의 사례를 지난달 15일 업무상...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/25/news-p.v1.20240125.ebad60f0f8944885920f571ec7e59ca8_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“부당한 업무 전환은 퇴사 강요”… 자신의 목소리를 내는 ‘아나운서’ 이산하]]></title>
             <link>https://www.khan.co.kr/national/labor/article/202401251009001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 18 Jan 2024 01:54:20 GMT</pubDate>
             <content:encoded><![CDATA[판결 후 다시 양육비 안 주려는 움직임…앞으로 누가 나설 수 있을까미투·학폭 가해자 공개…사적 제재니 하지 말라고 하면 모두 숨죽여야지난해 국내 합계출산율은 0.72명(통계청 장래인구추계). 사실상 세계 꼴찌로, 이 추세대로라면 한국이라는 나라가 지구상에서 가장 먼저 사라질 수도 있다는 암울한 전망까지 나온다. 아이 하나하나가 국가의 존립을 지탱하는 귀한 생명줄인 셈이다.그럼에도 아동에 대한 국가 차원의 보호막은 여전히 얇다. 여성가족부 ‘2021년 한부모 가...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/18/news-p.v1.20240118.d2c5b5426ace4d4087638a6604751dcc_P1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[60만 동심 사로잡은 ‘깜냥’ 홍민정 작가의 ‘어린이를 위하는 마음’]]></title>
-            <link>https://www.khan.co.kr/culture/culture-general/article/202401171826001</link>
-            <guid>https://www.khan.co.kr/culture/culture-general/article/202401171826001</guid>
-            <pubDate>Wed, 17 Jan 2024 10:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[학습만화가 장악하고 있는 어린이책 분야에서 2020년 3월 1권 출간 이후 6권까지 총 60만부가 팔린 베스트셀러 동화 시리즈가 있다. 초등학교 저학년 추천 목록에 드는 동시에 전국 도서관 어린이책 대출 10위 안에 항상 포함되는 책. 바로 창비에서 나온 &lt;고양이 해결사 깜냥&gt;(이하 깜냥) 시리즈다. 지난해 10월 말 6권이 나온 날 교보문고에서는 일시 품절이 되기도 했다. 저학년 대상 순수 창작동화 중 &lt;깜냥&gt;의 존재감은 독보적이다.지금까지 ‘깜냥’은 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/17/news-p.v1.20240117.bf7271484d6d4ef4857680cad82e997d_P1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
