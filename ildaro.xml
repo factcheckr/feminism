@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 05:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 06:23:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국의 퀴어연극에 관한 기록이 여기 있다!]]></title>
+            <link>https://ildaro.com/9822</link>
+            <guid>https://ildaro.com/9822</guid>
+            <pubDate>Fri, 26 Jan 2024 06:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[2000년대부터 간간히 출몰하던 퀴어연극 공연 기록이 2015년 ‘페미니즘 리부트’ 이후로 늘어났다가, 2018년을 기점으로 확 급증하는 게 보여요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024012618504249.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Insight into Feminism I Had in Prison]]></title>
             <link>https://ildaro.com/9821</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 12 Jan 2024 00:52:36 GMT</pubDate>
             <content:encoded><![CDATA[When, at 26 years old, I had quit my job and made plans to find work I liked, people gave me a lot of advice and a lot of pushback....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024010157471653.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“돈밖에 의지할 것이 없다”고 말하는 당신에게]]></title>
-            <link>https://ildaro.com/9802</link>
-            <guid>https://ildaro.com/9802</guid>
-            <pubDate>Sun, 31 Dec 2023 00:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[본인의 노후와 돌봄에 대해 물으면 “돌봄은 결국 돈으로 버티게 되는 것”이니, “결론은 하나. 돈을 많이 벌어야”겠다는 것이다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202312/2023123149464964.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

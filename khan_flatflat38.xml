@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 05:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 06:23:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강제동원 피해자들 또 승소, 대법 “후지코시 1억원씩 배상해야”]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202401261419001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202401261419001</guid>
+            <pubDate>Fri, 26 Jan 2024 06:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[일제강점기 강제동원 피해자들에게 일본 기업이 손해를 배상해야 한다는 대법원 판결이 25일 또 나왔다. 일본 기업의 배상 책임을 인정하는 확정 판결은 앞으로도 이어질 것으로 보인다. 윤석열 정부가 추진하는 ‘제3자 변제’ 논란도 계속될 것으로 전망된다.대법원 1부(주심 노태악 대법관)는 이날 고 김옥순 할머니 등 강제동원 피해자 23명과 그 가족들이 일본 기업 후지코시를 상대로 낸 손해배상 청구소송 3건의 상고심에서 원고 일부승소 판결한 원심을 확정했다. 이...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/26/news-p.v1.20240126.db416bc5a1bf45b6ac1acb367949a826_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[작곡가 진은숙, 아시아인 최초 ‘클래식 노벨상’ 지멘스 음악상 수상]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202401261019001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 19 Jan 2024 02:27:35 GMT</pubDate>
             <content:encoded><![CDATA[한 게임유통사가 일러스트레이터가 과거 사회관계망서비스(SNS)에 여성인권 관련 글을 올린 것이 알려지자 해당 일러스트레이터가 참여한 콘텐츠를 삭제해 논란이 일고 있다. 지난해부터 이어져온 게임업계의 ‘페미니즘 마녀사냥’이 반복되고 있다는 지적이 나온다.게임 ‘명일방주’의 운영팀은 지난 17일 온라인 공식 카페에 “16일 업로드된 유튜브 쇼츠 2건과 2차 창작 축전 1건을 삭제했다”고 밝혔다. 운영팀은 해당 콘텐츠 창작에 참여한 일러스트레이터가 “유저 간의 분...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/19/news-p.v1.20240119.a8d716eb45024797a786aab31d03adf4_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그냥 ‘게임’일 뿐일까]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202401181532001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202401181532001</guid>
-            <pubDate>Thu, 18 Jan 2024 07:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[게임 개발자 라프 코스터는 &lt;라프 코스터의 재미이론&gt;이라는 책에서 가상의 게임을 제시한다. 자, 가스실처럼 생긴 우물이 있다. 당신은 무고한 희생자들을 우물에 떨어뜨려 대량으로 학살하는 일을 한다. 희생자는 외형이 제각각이다. 어린 사람, 장성한 사람, 뚱뚱한 사람, 키 큰 사람 등 다양한 사람이 던져진다.바닥에 떨어진 희생자들은 우물에서 탈출하기 위해 타인을 밟고 올라선다. 만약 누가 우물 밖으로 나간다면 당신은 게임에서 진다. 하지만 희생자를 잘 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/18/news-p.v1.20240118.4e54aea2050d4bfa8a9a96cd9b072b79_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
