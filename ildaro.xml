@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Jan 2024 11:09:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 12:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화는 세상을 바꿀 수 없다]]></title>
+            <link>https://ildaro.com/9823</link>
+            <guid>https://ildaro.com/9823</guid>
+            <pubDate>Sat, 27 Jan 2024 12:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[영화는 진실과 거짓이 서로 반대가 아니라는 것을 말하는 매체다. 연출된 진실. 그것을 나는 가짜라고 부를 수 없다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024012726351345.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국의 퀴어연극에 관한 기록이 여기 있다!]]></title>
             <link>https://ildaro.com/9822</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 12 Jan 2024 00:52:36 GMT</pubDate>
             <content:encoded><![CDATA[리오는 도쿄 올림픽이 원래 열리기로 했던 시점을 몇 개월 앞두고 국가대표에서 사퇴하고 올림픽을 포기한다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024010248163700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Who is allowed to chase their dreams?]]></title>
-            <link>https://ildaro.com/9803</link>
-            <guid>https://ildaro.com/9803</guid>
-            <pubDate>Fri, 12 Jan 2024 00:52:36 GMT</pubDate>
-            <content:encoded><![CDATA[When, at 26 years old, I had quit my job and made plans to find work I liked, people gave me a lot of advice and a lot of pushback....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024010157471653.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
