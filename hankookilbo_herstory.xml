@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 22:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 23:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[저의 생기부를 공개합니다]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1607</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1607</guid>
+            <pubDate>Mon, 29 Jan 2024 23:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 무려 저의 '생활기록부'를 공개하려고 해요. 오늘 나눌 이야기와 저의 생기부 속 과거가 무척 맞닿아 있기 때문이죠. 책 '직업을 때려치운 여자들(직때녀)' 리뷰로 이야기를 나눠볼게요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/737b694d-d5b0-4502-8347-9ec71ad3bf47.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['여성 + 기자'로 사는 법]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1598</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 30 Oct 2023 23:11:52 GMT</pubDate>
             <content:encoded><![CDATA[지난 24일, 아이슬란드의 절반이 멈춰 섰어요. 아이슬란드 여성들은 1975년 첫 총파업을 한 뒤로, 특별한 계기가 있을 때마다 파업에 돌입했는데요. 2018년 파업 이후로 7번째 파업이지만, 24시간 전면 파업은 1975년 이후로 처음이라고 합니다. 유치원과 학교, 은행들은 문을 닫았어요. 아빠들은 재택 근무를 하거나 아이를 데리고 출근했습니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/8bc9260f-75c5-412b-88a6-440a3f9ac477.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[남초 커뮤니티 대해부]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1482</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1482</guid>
-            <pubDate>Mon, 23 Oct 2023 23:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 두 권의 책을 소개하며 함께 생각할 거리를 던져보려고 해요. 모두 제가 직접 읽고 서평을 쓴 책입니다. 제법 날씨가 쌀쌀해졌는데, 야외활동이 어렵다면 이 두 권의 책을 읽고 허스펙티브와 함께 감상을 나눠보는 건 어떨까요?]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/e4b2d736-2fd8-4082-a323-3ed04cec61ae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
