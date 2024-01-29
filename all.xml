@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 02:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 03:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[범행동기 “모른다”는 최윤종의 변명, 법원 판단은 ‘여성혐오 계획살인’ (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202401291112001</link>
             <guid>https://www.khan.co.kr/national/gender/article/202401291112001</guid>
-            <pubDate>Mon, 29 Jan 2024 02:17:52 GMT</pubDate>
+            <pubDate>Mon, 29 Jan 2024 02:17:09 GMT</pubDate>
             <content:encoded><![CDATA[출근 중 일면식도 없는 남성에게 살해당했다. 그것도 한낮의 등산로에서.지난해 8월 17일 서울 관악구에서 발생한 ‘등산로 살인사건’의 전말은 이렇다. 초등학교 교사 A씨는 오후 2시에 시작되는 교직원 연수 준비를 위해 출근길 발걸음을 서둘렀다. 그가 택했던 길은 평범한 생태공원의 한 둘렛길이었다. 운동 겸 출근을 위해 평소에도 자주 다니던 길이다.이곳에서 A씨는 참변을 당했다. 난생처음 보는 남성에게 머리를 여러 번 얻어맞았다. 남성은 소리치며 힘껏 반항하...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/01/29/news-p.v1.20240129.e5a644cd5ac14861bff4833c6def1576_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/e4b2d736-2fd8-4082-a323-3ed04cec61ae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[열악한 콜센터노동 묘사가 기분 나빴던 이유 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9824</link>
+            <guid>https://ildaro.com/9824</guid>
+            <pubDate>Mon, 29 Jan 2024 00:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[최근에 삶의 변화를 준 키워드가 있습니다. 바로, ‘퇴사’입니다. 네, 퇴사하고 나니 지금 당장 저를 소개할 수 있는 마땅한 단어가 없네요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/202401291236582.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[영화는 세상을 바꿀 수 없다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9823</link>
             <guid>https://ildaro.com/9823</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 12 Jan 2024 00:52:36 GMT</pubDate>
             <content:encoded><![CDATA[“사회는 반드시 ‘아무것도 할 수 없는 사람’을 위해 남아돌 정도로 많은 선택지를 준비해줘야 한다. ‘무언가를 하는’ 길도, ‘아무것도 하지 않는’ 길도, 같은 ...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024010343489180.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올림픽 출전을 포기한 선수, 실패한 삶인가요? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9804</link>
-            <guid>https://ildaro.com/9804</guid>
-            <pubDate>Fri, 12 Jan 2024 00:52:36 GMT</pubDate>
-            <content:encoded><![CDATA[리오는 도쿄 올림픽이 원래 열리기로 했던 시점을 몇 개월 앞두고 국가대표에서 사퇴하고 올림픽을 포기한다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024010248163700.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
