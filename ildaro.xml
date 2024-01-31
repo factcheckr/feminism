@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 23:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 00:47:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리 사회는 왜 ‘가난을 벗어나’라고 표현할까요?]]></title>
+            <link>https://ildaro.com/9825</link>
+            <guid>https://ildaro.com/9825</guid>
+            <pubDate>Wed, 31 Jan 2024 09:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[자세히 보면 ‘가난을 겪었다, 가난했었다’는 말보다 ‘가난을 극복했다, 벗어났다’는 말을 더 많이 쓴단 말이죠. 가난에서 벗어난다는 거, 누군가에겐 가능할 수도...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024013142488750.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[열악한 콜센터노동 묘사가 기분 나빴던 이유]]></title>
             <link>https://ildaro.com/9824</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 12 Jan 2024 00:52:36 GMT</pubDate>
             <content:encoded><![CDATA[또 다른 친족성폭력 생존자를 만나고 활동을 시작하는 시기만 해도 이렇게 스펙트럼이 넓어질 것이라고 예상하지 못했다고 한다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024010509155740.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“손가락 하나 움직이지 못한다 해도”…진심의 혁명을 말하다]]></title>
-            <link>https://ildaro.com/9805</link>
-            <guid>https://ildaro.com/9805</guid>
-            <pubDate>Fri, 12 Jan 2024 00:52:36 GMT</pubDate>
-            <content:encoded><![CDATA[“사회는 반드시 ‘아무것도 할 수 없는 사람’을 위해 남아돌 정도로 많은 선택지를 준비해줘야 한다. ‘무언가를 하는’ 길도, ‘아무것도 하지 않는’ 길도, 같은 ...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024010343489180.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
