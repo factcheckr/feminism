@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 00:47:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 01:45:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여성 장관에게 “아줌마 일 잘하네”…시대 착오적인 ‘외모 평가’에 뒤집힌 일본]]></title>
+            <link>https://www.khan.co.kr/world/japan/article/202401311043001</link>
+            <guid>https://www.khan.co.kr/world/japan/article/202401311043001</guid>
+            <pubDate>Wed, 31 Jan 2024 01:43:34 GMT</pubDate>
+            <content:encoded><![CDATA[일본 집권여당인 자민당의 아소 다로 부총재가 여성 장관을 향해 시대 착오적인 ‘외모 평가’ 발언을 내놔 정계에 후폭풍이 일고 있다. 이번 논란을 계기로 열악한 일본의 성평등 현실을 되돌아봐야 한다는 지적도 나온다.30일 교도통신 등에 따르면 아소 부총재는 지난 28일 후쿠오카에서 열린 한 강연에서 가미카와 요코 외무상이 지난해 9월 미국 뉴욕을 방문했을 때 보여준 외교 능력을 평가하던 중 “그리 아름다운 분이라고 말하기는 어렵지만, 당당하게 이야기하고 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/31/news-p.v1.20240131.6cc55148f1594989984e8633f2a66080_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“바비 없이는 켄도 없다”… ‘성차별’ 논란 일으킨 오스카의 ‘바비’ 패싱]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202401301001001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 24 Jan 2024 01:56:34 GMT</pubDate>
             <content:encoded><![CDATA[사실상 남성 직원만 달성 가능한 기준으로 승진심사를 해 온 대기업이 중앙노동위원회로부터 고용상 성차별 시정명령을 받았다. 겉으로 드러나지 않는 간접적 성차별을 인정한 사례다.중노위는 기계 제조·판매기업 A사에게 고용상 성차별 시정명령을 내렸다고 23일 밝혔다.A사 국내사업본부는 직접 영업을 하는 영업관리직은 전원이 남성, 영업활동을 하지 않는 영업지원직은 전원이 여성이었다. A사는 지난해 상반기 2급갑(과장급) 승진심사에서 직접 영업을 했을 때만 쌓을 수 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/24/news-p.v1.20240123.072f579c678a4e68a9ad96c998b02df8_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“무조건 피고인 유죄로 판단해선 안 된다”는 대법 판결…‘성인지 감수성 오해’ 비판]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202401231359021</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202401231359021</guid>
-            <pubDate>Tue, 23 Jan 2024 05:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[대법원이 ‘성범죄 사건을 심리할 때 성인지 감수성을 견지하더라도 피해자 진술에 따라 무조건 피고인을 유죄로 판단해서는 안 된다’는 취지의 판결을 내놓아 법원 안팎에서 논란이 일고 있다. 성범죄 재판에서 이른바 ‘피해자다움’에 대한 편견이 작동하곤 해 2018년 대법원이 성인지 감수성 법리를 세웠는데, 이번 판결은 이 법리를 오해한 게 아니냐는 것이다.대법원 2부(주심 천대엽 대법관)는 성폭력처벌법 위반 혐의로 기소된 피고인에게 원심이 유죄로 판단한 사건을...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/23/news-p.v1.20240123.88264421be434ec693b42188ac7dea13_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
