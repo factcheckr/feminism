@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 06:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 07:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“위안부 매춘” 발언 ‘무죄’…의문만 남은 류석춘 판결]]></title>
+            <link>https://www.khan.co.kr/national/court-law/article/202402011532001</link>
+            <guid>https://www.khan.co.kr/national/court-law/article/202402011532001</guid>
+            <pubDate>Thu, 01 Feb 2024 07:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[법원이 “일본군 위안부는 매춘”이라는 류석춘 전 연세대 교수의 발언이 명예훼손에 해당하지 않는다고 판단한 것을 두고 ‘법원의 이번 판단이 과거사 피해자들에 대한 2차 가해를 확산할 수 있다’는 지적이 나오고 있다. 류 전 교수는 31일 위안부 피해자 정기 수요시위 앞 맞불집회를 찾아 “한몫 했다는 보람이 있다”고 했다.역사적 사실이라 처벌할 수 없다?류 전 교수는 2019년 9월 발전사회학 과목에서 “지금 매춘 사업이 있지 않냐. (위안부는) 그거랑 비슷한 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/02/01/news-p.v1.20240201.29e17e17f4cc45bdb3b96b3b4e9a5d6f_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여전히 전력을 다하는 슈퍼모델 4인의 이야기 ‘더 슈퍼모델’]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202402010956001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 25 Jan 2024 01:57:56 GMT</pubDate>
             <content:encoded><![CDATA[“거부 의사를 밝혔는데도 (원래 직무와 전혀 다른) 편집요원으로 배치한 것은 소송에 대한 보복성 징계라고밖에 안 느껴져요.”UBC 울산방송에서 날씨를 알려주고 뉴스를 진행하던 9년 차 아나운서 이산하씨는 지난 17일 기자와 통화하면서 이렇게 말했다. 그는 요즘 회사 앞에서 팻말을 들고 1인시위를 하고 있다. 2015년부터 UBC에서 모닝와이드 뉴스 앵커, 라디오 방송 &lt;이산하의 잠못드는 밤 그대는&gt; 진행, &lt;주말여행, 여기 어때요&gt; 취재·방송 등을 맡아 온...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/01/25/news-p.v1.20240124.6d35456f76e445449fe89a8bd0a3d505_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘살찐 몸’이라고?…크고 아름다운 ‘나’를 좋아하기로 한 여성들]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202401241609001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202401241609001</guid>
-            <pubDate>Wed, 24 Jan 2024 07:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[살찐 몸은 우리에게 가장 익숙한 몸 중 하나다. 좀 부었을 뿐인데 “살쪘냐”라는 무심한 지적을 들어본 기억, 살이 쪄서 둔해 보인다는 얘기를 들어본 경험은 누구에게나 한번쯤 있을 것이다.그런데 몸을 향한 타인의 시선이나 압박은 모두에게 똑같은 영향을 미치지 않는다. 지난해 질병관리청이 발표한 2022년 국민건강영양조사 결과를 보면 성인 남성의 비만율은 47.7%인 반면 여성은 25.7%였다. 비만율은 체중(㎏)을 신장(ｍ)의 제곱으로 나눈 체질량지수(BMI·...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/01/24/news-p.v1.20240124.d3444a5d6d7d44a6b82522a7b152ae27_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
