@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 00:50:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 01:52:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여전히 전력을 다하는 슈퍼모델 4인의 이야기 ‘더 슈퍼모델’]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202402010956001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202402010956001</guid>
+            <pubDate>Thu, 01 Feb 2024 01:49:55 GMT</pubDate>
+            <content:encoded><![CDATA[얼마 전 영국의 슈퍼모델 케이트 모스가 50세 생일을 맞았다는 기사를 봤습니다. 1974년 1월생인 그는 여전히 여러 매거진의 커버를 장식하며 활발하게 활동 중인 현역 모델입니다. 14살에 데뷔해 평생을 ‘패션의 아이콘’으로 살아간다는 건 어떤 느낌일까요. 애플TV플러스의 &lt;더 슈퍼모델&gt;은 케이트 모스에 대해 찾아보다 우연히 발견한 다큐멘터리입니다.&lt;더 슈퍼모델&gt;의 주인공은 케이트 모스는 아닙니다. 케이트 모스가 등장하기 바로 직전, 1980~1990년대를 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/02/01/news-p.v1.20240130.bcdcb0310a8e407b91490eb8ea39959c_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여성 장관에게 “아줌마 일 잘하네”…시대 착오적인 ‘외모 평가’에 뒤집힌 일본]]></title>
             <link>https://www.khan.co.kr/world/japan/article/202401311043001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 24 Jan 2024 07:10:51 GMT</pubDate>
             <content:encoded><![CDATA[살찐 몸은 우리에게 가장 익숙한 몸 중 하나다. 좀 부었을 뿐인데 “살쪘냐”라는 무심한 지적을 들어본 기억, 살이 쪄서 둔해 보인다는 얘기를 들어본 경험은 누구에게나 한번쯤 있을 것이다.그런데 몸을 향한 타인의 시선이나 압박은 모두에게 똑같은 영향을 미치지 않는다. 지난해 질병관리청이 발표한 2022년 국민건강영양조사 결과를 보면 성인 남성의 비만율은 47.7%인 반면 여성은 25.7%였다. 비만율은 체중(㎏)을 신장(ｍ)의 제곱으로 나눈 체질량지수(BMI·...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/24/news-p.v1.20240124.d3444a5d6d7d44a6b82522a7b152ae27_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남성만 ‘영업직’인 회사, ‘영업직’만 승진했다…‘간접 성차별’ 인정]]></title>
-            <link>https://www.khan.co.kr/national/labor/article/202401240957001</link>
-            <guid>https://www.khan.co.kr/national/labor/article/202401240957001</guid>
-            <pubDate>Wed, 24 Jan 2024 01:56:34 GMT</pubDate>
-            <content:encoded><![CDATA[사실상 남성 직원만 달성 가능한 기준으로 승진심사를 해 온 대기업이 중앙노동위원회로부터 고용상 성차별 시정명령을 받았다. 겉으로 드러나지 않는 간접적 성차별을 인정한 사례다.중노위는 기계 제조·판매기업 A사에게 고용상 성차별 시정명령을 내렸다고 23일 밝혔다.A사 국내사업본부는 직접 영업을 하는 영업관리직은 전원이 남성, 영업활동을 하지 않는 영업지원직은 전원이 여성이었다. A사는 지난해 상반기 2급갑(과장급) 승진심사에서 직접 영업을 했을 때만 쌓을 수 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/24/news-p.v1.20240123.072f579c678a4e68a9ad96c998b02df8_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
