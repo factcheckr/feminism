@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 08:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 09:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/8bc9260f-75c5-412b-88a6-440a3f9ac477.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[파주 용주골, 여기 아직 사람 있어요 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9826</link>
+            <guid>https://ildaro.com/9826</guid>
+            <pubDate>Thu, 01 Feb 2024 09:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[이들의 이야기엔 성매매 찬성, 반대 같은 단순한 이분법에 들어맞지 않는 사람들의 삶이 있었다. 이들을 내쫓고 밀어내기 전에, 적어도 그 이야기를 들어봐야 하지 않...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024020150038047.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우리 사회는 왜 ‘가난을 벗어나’라고 표현할까요? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9825</link>
             <guid>https://ildaro.com/9825</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 07 Jan 2024 00:16:00 GMT</pubDate>
             <content:encoded><![CDATA[자기가 사는 동네인 관악구의 책방 ‘관객의 취향’이 마치 노부에 씨의 레코드 가게 ‘레이코도’와 같다며, 책방과 잘 어울리는 영화였다는 감상이 특별히 기억에 ...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024010724372076.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시위에 나가는 이유, “우리가 여기 있다” 알리려고 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9806</link>
-            <guid>https://ildaro.com/9806</guid>
-            <pubDate>Fri, 12 Jan 2024 00:52:36 GMT</pubDate>
-            <content:encoded><![CDATA[또 다른 친족성폭력 생존자를 만나고 활동을 시작하는 시기만 해도 이렇게 스펙트럼이 넓어질 것이라고 예상하지 못했다고 한다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024010509155740.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
