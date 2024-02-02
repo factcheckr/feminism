@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 00:47:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 01:44:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“사람 죽이는 제품 만들어”…‘아동 성 착취’에 고개 숙인 SNS 경영자들]]></title>
+            <link>https://www.khan.co.kr/world/world-general/article/202402020959001</link>
+            <guid>https://www.khan.co.kr/world/world-general/article/202402020959001</guid>
+            <pubDate>Fri, 02 Feb 2024 01:43:06 GMT</pubDate>
+            <content:encoded><![CDATA[“여러분은 사람들을 죽이는 제품을 만들고 있다”미 연방 상원 법사위원회가 31일(현지시간) 개최한 ‘빅테크와 온라인 아동 성 착취 위기’를 주제로 한 청문회에서 사회관계망서비스(SNS) 플랫폼 최고경영자(CEO)에 대한 질타가 이어졌다. 청문회에서는 플랫폼들이 미성년자 성 착취를 방치하고 있다는 비판이 쏟아졌고, 의회가 미성년자를 보호할 수 있는 법안을 조속히 통과시켜야 한다는 의견이 제기됐다.AP통신 등에 따르면 이날 청문회에는 메타의 마크 저커버그, 스냅챗...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/02/02/news-p.v1.20240201.00975f8f07ba44d9aa09bdb1fe6bf436_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“위안부 매춘” 발언 ‘무죄’…의문만 남은 류석춘 판결]]></title>
             <link>https://www.khan.co.kr/national/court-law/article/202402011532001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 25 Jan 2024 07:10:18 GMT</pubDate>
             <content:encoded><![CDATA[〈※이 기사는 2024년 1월 22일자 경향신문 ‘[사설]여성 간호사 ‘태아 산재’ 첫 인정, 모성 보호 강화 전기로’를 재가공하였습니다.〉근로복지공단이 위험한 근무 환경에 노출돼 선천성 질환아를 낳은 간호사의 산업재해를 인정했다. 2020년 대법원 판결로 제주의료원 간호사 4명의 자녀 질병이 산재로 인정받은 적 있지만, 공단이 인정한 것은 처음이다. 공단은 자녀의 선천성 뇌 기형 질환에 대해 산재 신청을 한 간호사 A씨의 사례를 지난달 15일 업무상...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/25/news-p.v1.20240125.ebad60f0f8944885920f571ec7e59ca8_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“부당한 업무 전환은 퇴사 강요”… 자신의 목소리를 내는 ‘아나운서’ 이산하]]></title>
-            <link>https://www.khan.co.kr/national/labor/article/202401251009001</link>
-            <guid>https://www.khan.co.kr/national/labor/article/202401251009001</guid>
-            <pubDate>Thu, 25 Jan 2024 01:57:14 GMT</pubDate>
-            <content:encoded><![CDATA[“거부 의사를 밝혔는데도 (원래 직무와 전혀 다른) 편집요원으로 배치한 것은 소송에 대한 보복성 징계라고밖에 안 느껴져요.”UBC 울산방송에서 날씨를 알려주고 뉴스를 진행하던 9년 차 아나운서 이산하씨는 지난 17일 기자와 통화하면서 이렇게 말했다. 그는 요즘 회사 앞에서 팻말을 들고 1인시위를 하고 있다. 2015년부터 UBC에서 모닝와이드 뉴스 앵커, 라디오 방송 &lt;이산하의 잠못드는 밤 그대는&gt; 진행, &lt;주말여행, 여기 어때요&gt; 취재·방송 등을 맡아 온...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/25/news-p.v1.20240124.6d35456f76e445449fe89a8bd0a3d505_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
