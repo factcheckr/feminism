@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 03:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 04:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/8bc9260f-75c5-412b-88a6-440a3f9ac477.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[If Bad Food Is Unacceptable, Why Isn’t Bad Housing? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9827</link>
+            <guid>https://ildaro.com/9827</guid>
+            <pubDate>Fri, 02 Feb 2024 00:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[There are far too many real estate listings that barely pass for housing....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/202402025013816.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[파주 용주골, 여기 아직 사람 있어요 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9826</link>
             <guid>https://ildaro.com/9826</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 12 Jan 2024 00:52:36 GMT</pubDate>
             <content:encoded><![CDATA[유정희와 김민영 그리고 수산나는 청주여자고등학교의 삼행시 클럽 해체를 위해 모였다. 학업에 집중하기 위함이었다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024010828381752.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[말이 씨가 된다는 얘기는 사실이었다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9807</link>
-            <guid>https://ildaro.com/9807</guid>
-            <pubDate>Sun, 07 Jan 2024 00:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[자기가 사는 동네인 관악구의 책방 ‘관객의 취향’이 마치 노부에 씨의 레코드 가게 ‘레이코도’와 같다며, 책방과 잘 어울리는 영화였다는 감상이 특별히 기억에 ...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024010724372076.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
