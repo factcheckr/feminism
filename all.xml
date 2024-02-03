@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Feb 2024 02:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Feb 2024 03:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/8bc9260f-75c5-412b-88a6-440a3f9ac477.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[백래시로 침체됐던 페미니즘 미술, 부활시켜야죠 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9828</link>
+            <guid>https://ildaro.com/9828</guid>
+            <pubDate>Sat, 03 Feb 2024 11:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[미술관의 학예연구사 중에 페미니즘에 관심을 가진 사람이 늘어나고 있는 점도 눈부신 변화입니다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024020331533336.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[If Bad Food Is Unacceptable, Why Isn’t Bad Housing? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9827</link>
             <guid>https://ildaro.com/9827</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 12 Jan 2024 00:52:36 GMT</pubDate>
             <content:encoded><![CDATA[My experience is a far cry from theirs. In my opinion, there is no place safe from discrimination in a society full of gender inequality....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024010907074638.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갑자기 어른이 되어버린 모두에게 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9808</link>
-            <guid>https://ildaro.com/9808</guid>
-            <pubDate>Fri, 12 Jan 2024 00:52:36 GMT</pubDate>
-            <content:encoded><![CDATA[유정희와 김민영 그리고 수산나는 청주여자고등학교의 삼행시 클럽 해체를 위해 모였다. 학업에 집중하기 위함이었다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024010828381752.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
