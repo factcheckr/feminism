@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 22:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 23:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노벨평화상 수상자와의 대화]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1615</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1615</guid>
+            <pubDate>Mon, 05 Feb 2024 23:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 인터뷰 하나를 옮겨오는 것으로 뉴스레터 내용을 갈음하려 해요. 바로 2003년 노벨평화상 수상자인 시린 에바디입니다. 그는 이란 최초의 여성 판사였어요. 1979년 국민이 힘을 합쳐 왕을 내쫓고 새로운 나라를 만든 '이란 이슬람 혁명'에 참여한 인물입니다. 정치적 혁명이자 문화적 혁명이었습니다. 이란 내 모든 시스템이 한순간 뒤집어졌습니다. 여성 인권은 7세기로 돌아갔습니다. 여성은 히잡으로 꽁꽁 싸매졌습니다.&nbsp;]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/ad4a8209-e595-494f-84a5-637fa02d3f64.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[저의 생기부를 공개합니다]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1607</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 06 Nov 2023 23:11:23 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 '아름다운재단'의 '희망가게'를 소개하는 내용으로 콘텐츠를 만들었어요. 희망가게는 한부모 여성이 사장님이 되어 경영하는 가게입니다. 아름다운재단은 '세상을 바꾸는 아름다운 여성'이라는 구호 아래&nbsp;자립의지가 강하고 창업준비가 충분히 된 여성들에게 마이크로크레딧 형식으로 창업자금을 지원해요. 상환된 돈은 또 다른 여성들의 희망가게를 여는데 쓰인답니다! 지금까지 500호점이 넘는 희망가게가 탄생했어요. 정말 멋지지 않나요?]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/102dd581-707e-44bd-a272-bdda35885b49.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[여러분, 저 파업합니다...]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1493</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1493</guid>
-            <pubDate>Mon, 30 Oct 2023 23:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[지난 24일, 아이슬란드의 절반이 멈춰 섰어요. 아이슬란드 여성들은 1975년 첫 총파업을 한 뒤로, 특별한 계기가 있을 때마다 파업에 돌입했는데요. 2018년 파업 이후로 7번째 파업이지만, 24시간 전면 파업은 1975년 이후로 처음이라고 합니다. 유치원과 학교, 은행들은 문을 닫았어요. 아빠들은 재택 근무를 하거나 아이를 데리고 출근했습니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/8bc9260f-75c5-412b-88a6-440a3f9ac477.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
