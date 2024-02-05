@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 10:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 11:10:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/8bc9260f-75c5-412b-88a6-440a3f9ac477.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[성차별이 산업재해에 영향을 미친다고요 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9830</link>
+            <guid>https://ildaro.com/9830</guid>
+            <pubDate>Mon, 05 Feb 2024 11:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[주기적으로 제공받는 장갑은 작은 내 손에는 큰 편이었다. 그래서 헐렁한 장갑을 손가락 사이를 꾹꾹 눌러가면서 일했다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024020524594272.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[3.8 세계 여성의 날 ‘꽃보다 여성파업’ (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9829</link>
             <guid>https://ildaro.com/9829</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 12 Jan 2024 00:52:36 GMT</pubDate>
             <content:encoded><![CDATA[연두색과 진녹색, 하얀색 실을 꼬아 소원팔찌를 만들었다. 내가 ‘유진솔’이란 새 이름을 짓고 새 다짐을 할 무렵이다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024011102484605.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[분리교육이 분리된 사회를 만들었다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9810</link>
-            <guid>https://ildaro.com/9810</guid>
-            <pubDate>Fri, 12 Jan 2024 00:52:36 GMT</pubDate>
-            <content:encoded><![CDATA[“선생님이 내 말을 들으려고도 하지 않고, 내가 이야기해도 지원인에게 통역을 시켰어요. 학교에서 나는 말을 하면 안 된다고 생각해, 친구들과도 점점 이야기를 할 ...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024011020132291.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
