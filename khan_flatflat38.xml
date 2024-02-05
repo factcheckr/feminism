@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 00:51:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 01:50:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[받지 못한 임금 4만 1057원, 콜센터 상담사가 수진씨가 소송을 한 이유]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202402051027001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202402051027001</guid>
+            <pubDate>Mon, 05 Feb 2024 01:49:06 GMT</pubDate>
+            <content:encoded><![CDATA[박수진씨(43·가명)는 2019년 1월 서울신용보증재단 고객센터 상담사로 일하기 시작했다. 대표적인 감정노동자인 상담사는 고객의 무리한 요구나 폭언·욕설에 자주 노출된다. 박씨도 예외는 아니었다.박씨는 2022년 7월4일 오전 9시47분쯤 ‘진상’ 고객을 상대했다. 신용보증 신청 후 진행 상황을 묻는 고객으로부터 “XXX아, 말귀 XX 못 알아듣네. 진짜”라는 욕설을 들었다. 욕설을 자제해달라고 했지만 고객은 “말귀를 XX 못 알아듣는데 욕을 해야지, X”라고 했다. 박씨...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/02/05/news-p.v1.20240205.978e1287635645b7bb0f66e15b7cd7f4_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여성의 일은 쉽고 안전하다는 편견이 감춘 것들···‘일하다 아픈 여자들’]]></title>
             <link>https://www.khan.co.kr/culture/book/article/202402021549001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 26 Jan 2024 06:22:19 GMT</pubDate>
             <content:encoded><![CDATA[일제강점기 강제동원 피해자들에게 일본 기업이 손해를 배상해야 한다는 대법원 판결이 25일 또 나왔다. 일본 기업의 배상 책임을 인정하는 확정 판결은 앞으로도 이어질 것으로 보인다. 윤석열 정부가 추진하는 ‘제3자 변제’ 논란도 계속될 것으로 전망된다.대법원 1부(주심 노태악 대법관)는 이날 고 김옥순 할머니 등 강제동원 피해자 23명과 그 가족들이 일본 기업 후지코시를 상대로 낸 손해배상 청구소송 3건의 상고심에서 원고 일부승소 판결한 원심을 확정했다. 이...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/26/news-p.v1.20240126.db416bc5a1bf45b6ac1acb367949a826_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작곡가 진은숙, 아시아인 최초 ‘클래식 노벨상’ 지멘스 음악상 수상]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202401261019001</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202401261019001</guid>
-            <pubDate>Fri, 26 Jan 2024 01:45:32 GMT</pubDate>
-            <content:encoded><![CDATA[한국 작곡가 진은숙이 ‘클래식 음악의 노벨상’으로 불리는 에른스트 폰 지멘스 음악상을 받았다. 이 상을 받은 아시아인은 진은숙이 처음이다.독일 에른스트 폰 지멘스 재단과 바이에른 예술원은 25일(현지시간) 진은숙을 지멘스 음악상 수상자로 선정했다고 발표했다. 이 상은 독일의 발명가이자 기업가였던 에른스트 폰 지멘스가 기금을 출연해 바이에른 예술원이 수여한다. 클래식 음악 작곡·지휘·기악·성악·음악학 분야를 통틀어 ‘인류 문화에 대한 기여도’를 기준으로 매...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/26/news-p.v1.20240126.afe309d415694ab18869d96ed1de2940_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
