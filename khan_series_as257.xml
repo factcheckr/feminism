@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 00:48:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 01:43:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[섭식장애는 음식에 대한 문제가 아니다…‘먹지 못하는 여자들’]]></title>
+            <link>https://www.khan.co.kr/culture/book/article/202402061024011</link>
+            <guid>https://www.khan.co.kr/culture/book/article/202402061024011</guid>
+            <pubDate>Tue, 06 Feb 2024 01:43:10 GMT</pubDate>
+            <content:encoded><![CDATA[몇년 사이 수면 위로 드러난 ‘프로아나’(극단적으로 마른 몸을 추구하는 사람)를 보며 많은 이들이 그 원인으로 지목한 것은 사회관계망서비스(SNS)다. SNS에 노출된 비쩍 마른 몸매의 모델 사진이 ‘마른 몸을 가지고 싶다’는 욕망을 자극해 여성들을 섭식장애로 몰아넣는다는 게 대부분 언론이 반복해 내놓은 진단이다.책 &lt;먹지 못하는 여자들&gt;은 이것이 거식증에 대한 가장 큰 오해라고 말한다. SNS가 존재하기 전인 수천년 전에도 거식증은 존재했으며 이는 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/02/06/news-p.v1.20240206.ead597c2bc87452d9c66c73aafee23cc_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[받지 못한 임금 4만 1057원, ‘콜센터 상담사가 수진씨’가 소송을 한 이유]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202402051027001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 29 Jan 2024 02:17:52 GMT</pubDate>
             <content:encoded><![CDATA[출근 중 일면식도 없는 남성에게 살해당했다. 그것도 한낮의 등산로에서.지난해 8월 17일 서울 관악구에서 발생한 ‘등산로 살인사건’의 전말은 이렇다. 초등학교 교사 A씨는 오후 2시에 시작되는 교직원 연수 준비를 위해 출근길 발걸음을 서둘렀다. 그가 택했던 길은 평범한 생태공원의 한 둘렛길이었다. 운동 겸 출근을 위해 평소에도 자주 다니던 길이다.이곳에서 A씨는 참변을 당했다. 난생처음 보는 남성에게 머리를 여러 번 얻어맞았다. 남성은 소리치며 힘껏 반항하...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/01/29/news-p.v1.20240129.e5a644cd5ac14861bff4833c6def1576_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강제동원 피해자들 또 승소, 대법 “후지코시 1억원씩 배상해야”]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202401261419001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202401261419001</guid>
-            <pubDate>Fri, 26 Jan 2024 06:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[일제강점기 강제동원 피해자들에게 일본 기업이 손해를 배상해야 한다는 대법원 판결이 25일 또 나왔다. 일본 기업의 배상 책임을 인정하는 확정 판결은 앞으로도 이어질 것으로 보인다. 윤석열 정부가 추진하는 ‘제3자 변제’ 논란도 계속될 것으로 전망된다.대법원 1부(주심 노태악 대법관)는 이날 고 김옥순 할머니 등 강제동원 피해자 23명과 그 가족들이 일본 기업 후지코시를 상대로 낸 손해배상 청구소송 3건의 상고심에서 원고 일부승소 판결한 원심을 확정했다. 이...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/01/26/news-p.v1.20240126.db416bc5a1bf45b6ac1acb367949a826_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
