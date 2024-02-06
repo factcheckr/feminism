@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 06:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 07:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[끊임없는 비판에도…‘필리핀 가사노동자’ 올 상반기 도입하는 서울시]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202402061547001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202402061547001</guid>
+            <pubDate>Tue, 06 Feb 2024 07:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[서울시가 올해 상반기 중 이주 가사노동자 100명을 맞벌이 가정 등에 연결하는 ‘외국인 가사관리사 시범사업’을 시작한다. 저출생 해결의 근본 해법이 아닌 데다 일부 소수만 이용 가능한 정책이라는 비판이 지속되는 가운데 이주 노동자가 열악한 노동환경에 놓일 우려도 제기된다.6일 서울시에 따르면 올 상반기 중 맞벌이 가정·한부모 가정·임산부가 있는 가정은 6개월간 이주 가사노동자를 고용할 수 있게 된다. 100가구를 대상으로 고용 자격이 주어지는 시범 사업이다...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/02/06/news-p.v1.20240206.519cb049fb1b4903b78baa1f3a45c4ed_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[섭식장애는 음식에 대한 문제가 아니다…‘먹지 못하는 여자들’]]></title>
             <link>https://www.khan.co.kr/culture/book/article/202402061024011</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 29 Jan 2024 09:11:14 GMT</pubDate>
             <content:encoded><![CDATA[이준석 대표가 이끄는 개혁신당이 29일 경찰·소방 등의 공무원이 되려는 여성에게 병역을 의무화하는 방안을 추진하겠다고 밝혔다. 본인의 정치적 자산으로 거론되는 ‘20대 남성’ 표를 단단히 결집하려는 시도로 분석된다. 국민의힘 대표 시절부터 거듭해온 ‘젠더 갈라치기’를 신당에서도 반복하고 있다는 비판도 나온다.이 대표는 이날 국회에서 기자회견을 열고 “경찰, 해양경찰, 소방, 교정 직렬에서 신규 공무원이 되고자 하는 사람은 남성과 여성에 관계없이 병역을 필...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/29/news-p.v1.20240129.2aa59b15d4674380bf6ae6dc9eba2719_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[범행동기 “모른다”는 최윤종의 변명, 법원 판단은 ‘여성혐오 계획살인’]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202401291112001</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202401291112001</guid>
-            <pubDate>Mon, 29 Jan 2024 02:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[출근 중 일면식도 없는 남성에게 살해당했다. 그것도 한낮의 등산로에서.지난해 8월 17일 서울 관악구에서 발생한 ‘등산로 살인사건’의 전말은 이렇다. 초등학교 교사 A씨는 오후 2시에 시작되는 교직원 연수 준비를 위해 출근길 발걸음을 서둘렀다. 그가 택했던 길은 평범한 생태공원의 한 둘렛길이었다. 운동 겸 출근을 위해 평소에도 자주 다니던 길이다.이곳에서 A씨는 참변을 당했다. 난생처음 보는 남성에게 머리를 여러 번 얻어맞았다. 남성은 소리치며 힘껏 반항하...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/01/29/news-p.v1.20240129.e5a644cd5ac14861bff4833c6def1576_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
