@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 02:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 03:13:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/102dd581-707e-44bd-a272-bdda35885b49.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[‘생산적인 휴학 사유’를 기대하는 사회잖아요 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9831</link>
+            <guid>https://ildaro.com/9831</guid>
+            <pubDate>Wed, 07 Feb 2024 11:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[서현은 “암환자”에서 “암 경험자”로 살아가기 위해 분투중인 다른 청년 암 생존자들에게 당부하고 싶은 말들이 많아서 이 인터뷰에 응하게 되었다고 했다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024020750445812.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[성차별이 산업재해에 영향을 미친다고요 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9830</link>
             <guid>https://ildaro.com/9830</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 13 Jan 2024 10:27:00 GMT</pubDate>
             <content:encoded><![CDATA[가정폭력에 관해서는, 20여 년 전에 양손에 들 수 있는 만큼만 짐을 싸 들고 남편 곁을 떠났던 나 자신의 경험과 겹쳐진다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024011340549101.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그녀들의 이야기가 내 이야기가 될 때 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9811</link>
-            <guid>https://ildaro.com/9811</guid>
-            <pubDate>Fri, 12 Jan 2024 00:52:36 GMT</pubDate>
-            <content:encoded><![CDATA[연두색과 진녹색, 하얀색 실을 꼬아 소원팔찌를 만들었다. 내가 ‘유진솔’이란 새 이름을 짓고 새 다짐을 할 무렵이다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024011102484605.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
