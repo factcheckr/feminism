@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 00:46:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 01:43:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웃지 못할 캐릭터, ‘니퉁’이 보여주는 것]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202402081011001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202402081011001</guid>
+            <pubDate>Thu, 08 Feb 2024 01:42:34 GMT</pubDate>
+            <content:encoded><![CDATA[약 1년 전부터 업로드된 &lt;니퉁의 인간극장&gt;은 유튜브 ‘폭씨네’의 &lt;다문화 고부 열전&gt;과 &lt;인간극장&gt;을 패러디한 콘텐츠로 가상의 필리핀 여성이자 ‘외국인 며느리’인 ‘니퉁(김지영)’이 주인공이다. 여기에 ‘가상’이라는 말이 붙은 것은 필리핀에는 실제로 ‘니퉁’이라는 이름을 쓰는 여성이 없고, 작품 내에서 ‘니퉁’은 필리핀 여성이 되기도, 베트남 여성이 되기도 하기 때문이다. ‘니퉁’이라는 캐릭터가 추구하는 코미디는 기본적으로 ‘어눌한 발음...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/02/08/news-p.v1.20240208.a877337e161044efae886597266b7c06_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성폭행범 형기 끝나도 평가 거쳐 ‘석방’…무기한 수감 가능해진 싱가포르]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202402071034011</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 31 Jan 2024 01:44:18 GMT</pubDate>
             <content:encoded><![CDATA[일본 집권여당인 자민당의 아소 다로 부총재가 여성 장관을 향해 시대 착오적인 ‘외모 평가’ 발언을 내놔 정계에 후폭풍이 일고 있다. 이번 논란을 계기로 열악한 일본의 성평등 현실을 되돌아봐야 한다는 지적도 나온다.30일 교도통신 등에 따르면 아소 부총재는 지난 28일 후쿠오카에서 열린 한 강연에서 가미카와 요코 외무상이 지난해 9월 미국 뉴욕을 방문했을 때 보여준 외교 능력을 평가하던 중 “그리 아름다운 분이라고 말하기는 어렵지만, 당당하게 이야기하고 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/01/31/news-p.v1.20240131.6cc55148f1594989984e8633f2a66080_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“바비 없이는 켄도 없다”… ‘성차별’ 논란 일으킨 오스카의 ‘바비’ 패싱]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202401301001001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202401301001001</guid>
-            <pubDate>Tue, 30 Jan 2024 01:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 전 세계 박스오피스 1위를 차지한 영화 &lt;바비&gt;가 올해 아카데미상(오스카상) 시상식에서 감독상과 여우주연상 후보로 지명되지 않은 것을 두고 미국 내에서 논란이 확산하고 있다.아카데미 시상식을 주관하는 미 영화예술과학아카데미(AMPAS)가 지난 23일(현지시간) 발표한 후보 명단에서 &lt;바비&gt;는 작품상과 각색상, 남우조연상, 여우조연상 등 8개 부문에 올랐다. 그러나 정작 그레타 거윅 감독과 주연 마고 로비는 주요 부문인 감독상과 여우주연상 후보에 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/01/30/news-p.v1.20240129.f75c410b22bf423c958a14153cfc3bee_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
