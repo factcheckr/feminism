@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 05:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 06:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[육아휴직 쓴다니 권고사직한 회사… 신고해도 처벌받는 경우 고작 6.8%]]></title>
+            <link>https://www.khan.co.kr/national/labor/article/202402081428001</link>
+            <guid>https://www.khan.co.kr/national/labor/article/202402081428001</guid>
+            <pubDate>Thu, 08 Feb 2024 06:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[“육아휴직 신청서를 상사에게 제출하자 상사는 ‘서류를 잃어버렸다’고 했습니다. 다시 대표에게 직접 제출하니 대표는 면담을 잡아 ‘육아휴직을 받아줄 수 없다. 권고사직 처리를 하겠다’고 했습니다.”(직장인 A씨)“이른둥이로 태어난 아이가 호흡을 잘 못 해 육아휴직을 쓰려고 하니 회사에서는 ‘너 없으면 누가 일을 하냐, 언제까지 쓸 거냐’라고 물어봐 어쩔 수 없이 3개월만 쓰겠다고 했습니다.”(직장인 B씨)출산·육아휴직 등 모성보호제도 사용을 막거나 이를 이유...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/02/08/news-p.v1.20240208.a9999ce98bd14fb6ac1f28354fa0c89a_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웃지 못할 캐릭터, ‘니퉁’이 보여주는 것]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202402081011001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 01 Feb 2024 01:50:39 GMT</pubDate>
             <content:encoded><![CDATA[얼마 전 영국의 슈퍼모델 케이트 모스가 50세 생일을 맞았다는 기사를 봤습니다. 1974년 1월생인 그는 여전히 여러 매거진의 커버를 장식하며 활발하게 활동 중인 현역 모델입니다. 14살에 데뷔해 평생을 ‘패션의 아이콘’으로 살아간다는 건 어떤 느낌일까요. 애플TV플러스의 &lt;더 슈퍼모델&gt;은 케이트 모스에 대해 찾아보다 우연히 발견한 다큐멘터리입니다.&lt;더 슈퍼모델&gt;의 주인공은 케이트 모스는 아닙니다. 케이트 모스가 등장하기 바로 직전, 1980~1990년대를 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/02/01/news-p.v1.20240130.bcdcb0310a8e407b91490eb8ea39959c_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성 장관에게 “아줌마 일 잘하네”…시대 착오적인 ‘외모 평가’에 뒤집힌 일본]]></title>
-            <link>https://www.khan.co.kr/world/japan/article/202401311043001</link>
-            <guid>https://www.khan.co.kr/world/japan/article/202401311043001</guid>
-            <pubDate>Wed, 31 Jan 2024 01:44:18 GMT</pubDate>
-            <content:encoded><![CDATA[일본 집권여당인 자민당의 아소 다로 부총재가 여성 장관을 향해 시대 착오적인 ‘외모 평가’ 발언을 내놔 정계에 후폭풍이 일고 있다. 이번 논란을 계기로 열악한 일본의 성평등 현실을 되돌아봐야 한다는 지적도 나온다.30일 교도통신 등에 따르면 아소 부총재는 지난 28일 후쿠오카에서 열린 한 강연에서 가미카와 요코 외무상이 지난해 9월 미국 뉴욕을 방문했을 때 보여준 외교 능력을 평가하던 중 “그리 아름다운 분이라고 말하기는 어렵지만, 당당하게 이야기하고 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/01/31/news-p.v1.20240131.6cc55148f1594989984e8633f2a66080_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
