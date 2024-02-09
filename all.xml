@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Feb 2024 00:46:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Feb 2024 01:43:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/102dd581-707e-44bd-a272-bdda35885b49.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[나 지금 쓰고 있어, 나 지금 살아 있어! (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9832</link>
+            <guid>https://ildaro.com/9832</guid>
+            <pubDate>Fri, 09 Feb 2024 10:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[그 내용이 무엇이든 간에, 고야마씨는 그저 ‘쓰는 것’이 필요했던 것이다. 쓰여진 내용에서 누가 어떤 의미나 가치를 발견하든 발견하지 못하든, 그것과는 상관없이...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024020936399460.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘생산적인 휴학 사유’를 기대하는 사회잖아요 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9831</link>
             <guid>https://ildaro.com/9831</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 14 Jan 2024 08:14:28 GMT</pubDate>
             <content:encoded><![CDATA[익숙한 섹스 각본대로 움직이는 게 아니라, 서로의 취약성을 공유하고 살피는 대화가 가능한 섹스에 대해서....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024011447318213.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폭력에서 벗어나지 못하는 ‘오늘’을 보낸 당신에게 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9812</link>
-            <guid>https://ildaro.com/9812</guid>
-            <pubDate>Sat, 13 Jan 2024 10:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[가정폭력에 관해서는, 20여 년 전에 양손에 들 수 있는 만큼만 짐을 싸 들고 남편 곁을 떠났던 나 자신의 경험과 겹쳐진다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024011340549101.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
