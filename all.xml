@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Feb 2024 07:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Feb 2024 08:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/102dd581-707e-44bd-a272-bdda35885b49.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[HIDDEN WORKERS, An Exhibition on Women’s Labor: (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9833</link>
+            <guid>https://ildaro.com/9833</guid>
+            <pubDate>Sat, 10 Feb 2024 08:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[One needs to take stairs down to a basement in order to view this exhibition. At the entrance, detailed descriptions of the exhibition are written on a wall....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024021035134934.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나 지금 쓰고 있어, 나 지금 살아 있어! (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9832</link>
             <guid>https://ildaro.com/9832</guid>
@@ -478,14 +486,6 @@
             <pubDate>Tue, 16 Jan 2024 04:15:11 GMT</pubDate>
             <content:encoded><![CDATA[활동이나 운동에 대한 편견이 없는 사회면 좋겠어요. 분명 내가 노동조합에서 쌓은 전문성이 있을 거고, 그걸로 나를 보여줄 수도 있는 것도 있는 건데....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024011612273329.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성관계에서 ‘동의’를 둘러싼 여성들의 경험과 시도 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9813</link>
-            <guid>https://ildaro.com/9813</guid>
-            <pubDate>Sun, 14 Jan 2024 08:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[익숙한 섹스 각본대로 움직이는 게 아니라, 서로의 취약성을 공유하고 살피는 대화가 가능한 섹스에 대해서....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024011447318213.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
