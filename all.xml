@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Feb 2024 00:52:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Feb 2024 01:50:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/102dd581-707e-44bd-a272-bdda35885b49.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[배웅하는 사람의 마음 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9834</link>
+            <guid>https://ildaro.com/9834</guid>
+            <pubDate>Sun, 11 Feb 2024 10:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[자기 힘으로 움직일 수도, 밖으로 나갈 수도 없는 동생을 돌보며 어느 날 생각했다고 한다. 다양한 친구들을 집으로 초대하는 것으로 동생에게 세상을 보여줄 수 있지...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024021146526873.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[HIDDEN WORKERS, An Exhibition on Women’s Labor: (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9833</link>
             <guid>https://ildaro.com/9833</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 17 Jan 2024 12:21:50 GMT</pubDate>
             <content:encoded><![CDATA[Why were sexual minorities so strongly enraged by the “X Zone incident"? Many factors certainly contributed, but the one I’d like to focus on is the fact that the X Zone was an internet community....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024011713478016.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“노조 경력을 이력서에 써도 되는 사회에 살고 싶어요” (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9814</link>
-            <guid>https://ildaro.com/9814</guid>
-            <pubDate>Tue, 16 Jan 2024 04:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[활동이나 운동에 대한 편견이 없는 사회면 좋겠어요. 분명 내가 노동조합에서 쌓은 전문성이 있을 거고, 그걸로 나를 보여줄 수도 있는 것도 있는 건데....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024011612273329.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
