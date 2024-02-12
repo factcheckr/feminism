@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Feb 2024 22:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Feb 2024 23:12:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["여성은 남성 없이도 잘 산다"]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1626</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1626</guid>
+            <pubDate>Mon, 12 Feb 2024 23:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 인터뷰 한 편을 갖고 왔습니다. 어느 날 유튜브 알고리즘을 통해 최재천 이화여대 석좌교수의 영상 하나를 발견했어요. "대한민국 사회에서 아이를 낳는 사람은 바보"라는 섬네일을 보고 화들짝 놀랐죠. '아니, 이런 말을 공개적으로 해도 되는 건가' 싶었죠. 영상을 클릭하는 순간 더 놀랄 말들이 쏟아집니다. "아이를 낳아서 기른다는 건 아무리 계산을 해봐도 결코 현명한 일이 아니다" "아이 낳는 사람은 IQ 두 자리다" 등등.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/8ab9f5de-bae1-403f-b4f2-4e6df24f8780.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[노벨평화상 수상자와의 대화]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1615</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 13 Nov 2023 23:11:48 GMT</pubDate>
             <content:encoded><![CDATA[몇 주 전, 제가 '인셀 테러(위즈덤하우스 발행)'라는 책을 소개했던 것, 기억하시죠? 제가 썼던 서평과 더불어 말이예요. 영국인 작가 로라 베이츠가 1년 동안 '매노스피어'라고 일컬어지는, 우리나라의 남초 커뮤니티 같은 공간에 잠입하여 '유해한 남성성'이 어떻게 전염되고 확대 재생산되는지, 그리고 어떻게 단단한 하나의 신념 체계가 되었는지를 파헤친 책이었어요. 저는 최근 한국 사회에서 발생한 여러 사건들을 바라보면서 이 책을 다시 한번 들춰보지 않을 수 없었습니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/002918b0-daca-49b5-9093-f8b31cc59d65.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱글맘, 사장님이 되다]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1503</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1503</guid>
-            <pubDate>Mon, 06 Nov 2023 23:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 '아름다운재단'의 '희망가게'를 소개하는 내용으로 콘텐츠를 만들었어요. 희망가게는 한부모 여성이 사장님이 되어 경영하는 가게입니다. 아름다운재단은 '세상을 바꾸는 아름다운 여성'이라는 구호 아래&nbsp;자립의지가 강하고 창업준비가 충분히 된 여성들에게 마이크로크레딧 형식으로 창업자금을 지원해요. 상환된 돈은 또 다른 여성들의 희망가게를 여는데 쓰인답니다! 지금까지 500호점이 넘는 희망가게가 탄생했어요. 정말 멋지지 않나요?]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/102dd581-707e-44bd-a272-bdda35885b49.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
