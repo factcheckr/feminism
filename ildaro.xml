@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Feb 2024 11:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Feb 2024 12:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“무늬만 프리랜서” 고용, 이제 그만합시다!]]></title>
+            <link>https://ildaro.com/9835</link>
+            <guid>https://ildaro.com/9835</guid>
+            <pubDate>Mon, 12 Feb 2024 12:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[콘텐츠 모더레이터 김지윤 씨도 “3개월 단기간으로 반복되는 재계약 구조”로 인해, 장시간 노동, 휴일노동, 최저시급, 초과노동을 겪으면서도 “불만을 이야기하기...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024021235404641.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배웅하는 사람의 마음]]></title>
             <link>https://ildaro.com/9834</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 18 Jan 2024 10:04:00 GMT</pubDate>
             <content:encoded><![CDATA[꿀에 절인 밤, 갓 구운 아몬드와 헤이즐넛, 설탕이 솔솔 뿌려진 쿠키, 바삭하고 고소한 누가와 찰다(cialda), 따스한 핫초코의 냄새와 온도도 글에 담겨있다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024011810372342.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Controversy over Harmful Media for Teens – the Historic “X Zone Incident”]]></title>
-            <link>https://ildaro.com/9815</link>
-            <guid>https://ildaro.com/9815</guid>
-            <pubDate>Wed, 17 Jan 2024 12:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[Why were sexual minorities so strongly enraged by the “X Zone incident"? Many factors certainly contributed, but the one I’d like to focus on is the fact that the X Zone was an internet community....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024011713478016.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
