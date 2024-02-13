@@ -4,9 +4,33 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 06:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 07:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“‘부성이 기본값인 사회’에 질문 던지고 싶다”…‘엄마 성 빛내는’ 법률자문단]]></title>
+            <link>https://www.khan.co.kr/national/gender/article/202402131520011</link>
+            <guid>https://www.khan.co.kr/national/gender/article/202402131520011</guid>
+            <pubDate>Tue, 13 Feb 2024 07:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[2018년 10월 원의림 변호사(법률사무소 의림)가 혼인신고를 할 때 범유경 변호사(법무법인 덕수)와 로스쿨 친구들은 헌법재판소 결정문을 참고해 ‘혼인 축하선언문’을 작성해 선물했다. 이 선언문 ‘판결요지’에는 “현행 민법 상의 부계성본 원칙을 타파하기 위해 사회운동, 헌법소원, 입법청원 등의 수단으로 가족관계등록법과 민법 등 관계법령 개정에 앞장서라”는 내용을 담았고 다같이 법대 건물 앞에서 낭독했다.그로부터 4년여 후 원의림 변호사는 2023년 태어난 아들에게...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/02/13/news-p.v1.20240213.1bd16d192985417caaddeb8326843615_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“잊혀지지 않게 북을 치는 사람 있어야죠”…‘엄마 성 빛내는’ 사람들]]></title>
+            <link>https://www.khan.co.kr/national/gender/article/202402131520001</link>
+            <guid>https://www.khan.co.kr/national/gender/article/202402131520001</guid>
+            <pubDate>Tue, 13 Feb 2024 07:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 12월 플랫 입주자 프로젝트로 시작한 ‘엄마 성 빛내기’ 신청자는 최종 137명으로 집계됐다. ‘엄마 성 빛내기’ 프로젝트는 엄마 성을 쓰고 싶은 사람들이 모여 성평등을 근거로 성·본 변경 청구서를 작성하고 전국 법원에 청구를 하는 프로젝트다. 프로젝트 기획자인 김준영 그림책 작가는 “엄마 성을 쓰는 것이 별나지 않은 사회를 만드는데 기여하고 싶다”고 말했다. 현재 신청자 중 100여명이 3월 8일 세계 여성의 날 전국 법원에 성·본 변경 청구서를 제...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/02/13/news-p.v1.20240213.591cc11185d64fa98de5422dd92f5224_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“3월 8일 세계 여성의 날, 100명이 함께 ‘엄마 성’으로 바꾸러 갑니다”]]></title>
+            <link>https://www.khan.co.kr/national/gender/article/202402131519001</link>
+            <guid>https://www.khan.co.kr/national/gender/article/202402131519001</guid>
+            <pubDate>Tue, 13 Feb 2024 07:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 12월 플랫 입주자 프로젝트로 시작한 ‘엄마 성 빛내기’ 신청자는 최종 137명으로 집계됐다. ‘엄마 성 빛내기’ 프로젝트는 엄마 성을 쓰고 싶은 사람들이 모여 성평등을 근거로 성·본 변경 청구서를 작성하고 전국 법원에 청구를 하는 프로젝트다. 프로젝트 기획자인 김준영 그림책 작가는 “엄마 성을 쓰는 것이 별나지 않은 사회를 만드는데 기여하고 싶다”고 말했다. 현재 신청자 중 103명이 3월 8일 세계 여성의 날 전국 법원에 성·본 변경 청구서를 제출...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/02/13/news-p.v1.20240213.59b399c4379c4c0182e9e9e0d7b3eb5f_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어떤 노동이 우리를 살아가게 하는지]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202402131106001</link>
@@ -62,30 +86,6 @@
             <pubDate>Mon, 05 Feb 2024 01:49:06 GMT</pubDate>
             <content:encoded><![CDATA[박수진씨(43·가명)는 2019년 1월 서울신용보증재단 고객센터 상담사로 일하기 시작했다. 대표적인 감정노동자인 상담사는 고객의 무리한 요구나 폭언·욕설에 자주 노출된다. 박씨도 예외는 아니었다.박씨는 2022년 7월4일 오전 9시47분쯤 ‘진상’ 고객을 상대했다. 신용보증 신청 후 진행 상황을 묻는 고객으로부터 “XXX아, 말귀 XX 못 알아듣네. 진짜”라는 욕설을 들었다. 욕설을 자제해달라고 했지만 고객은 “말귀를 XX 못 알아듣는데 욕을 해야지, X”라고 했다. 박씨...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/02/05/news-p.v1.20240205.978e1287635645b7bb0f66e15b7cd7f4_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성의 일은 쉽고 안전하다는 편견이 감춘 것들···‘일하다 아픈 여자들’]]></title>
-            <link>https://www.khan.co.kr/culture/book/article/202402021549001</link>
-            <guid>https://www.khan.co.kr/culture/book/article/202402021549001</guid>
-            <pubDate>Fri, 02 Feb 2024 07:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[‘선탄(選炭)’은 갱내에서 생산한 석탄에 든 잡석 같은 이물질을 제거하는 작업을 뜻하는 말입니다. 1960~1970년대 이 일은 주로 여성 노동자가 맡았습니다. 이들을 아낙 ‘부(婦)’를 붙여 선탄부(選炭婦)라 불렀죠. 선탄부 중엔 탄광에서 죽거나 다친 남편들의 아내가 많았다고 합니다. 이나래(한국노동안전보건연구소 상임활동가)는 글쓴이들을 대표해 쓴 &lt;일하다 아픈 여자들&gt;(빨간소금) ‘책을 펴내며’를 선탄부(選炭婦...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/02/02/news-p.v1.20240201.59d0590a7662498c9732f30202841cf9_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“사람 죽이는 제품 만들어”…‘아동 성 착취’에 고개 숙인 SNS 경영자들]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202402020959001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202402020959001</guid>
-            <pubDate>Fri, 02 Feb 2024 01:43:06 GMT</pubDate>
-            <content:encoded><![CDATA[“여러분은 사람들을 죽이는 제품을 만들고 있다”미 연방 상원 법사위원회가 31일(현지시간) 개최한 ‘빅테크와 온라인 아동 성 착취 위기’를 주제로 한 청문회에서 사회관계망서비스(SNS) 플랫폼 최고경영자(CEO)에 대한 질타가 이어졌다. 청문회에서는 플랫폼들이 미성년자 성 착취를 방치하고 있다는 비판이 쏟아졌고, 의회가 미성년자를 보호할 수 있는 법안을 조속히 통과시켜야 한다는 의견이 제기됐다.AP통신 등에 따르면 이날 청문회에는 메타의 마크 저커버그, 스냅챗...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/02/02/news-p.v1.20240201.00975f8f07ba44d9aa09bdb1fe6bf436_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“위안부 매춘” 발언 ‘무죄’…의문만 남은 류석춘 판결]]></title>
-            <link>https://www.khan.co.kr/national/court-law/article/202402011532001</link>
-            <guid>https://www.khan.co.kr/national/court-law/article/202402011532001</guid>
-            <pubDate>Thu, 01 Feb 2024 07:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[법원이 “일본군 위안부는 매춘”이라는 류석춘 전 연세대 교수의 발언이 명예훼손에 해당하지 않는다고 판단한 것을 두고 ‘법원의 이번 판단이 과거사 피해자들에 대한 2차 가해를 확산할 수 있다’는 지적이 나오고 있다. 류 전 교수는 31일 위안부 피해자 정기 수요시위 앞 맞불집회를 찾아 “한몫 했다는 보람이 있다”고 했다.역사적 사실이라 처벌할 수 없다?류 전 교수는 2019년 9월 발전사회학 과목에서 “지금 매춘 사업이 있지 않냐. (위안부는) 그거랑 비슷한 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/02/01/news-p.v1.20240201.29e17e17f4cc45bdb3b96b3b4e9a5d6f_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
