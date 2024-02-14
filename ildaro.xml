@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Feb 2024 04:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 05:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임금 성차별, 여성들이 함께 목소리내야 할 때에요]]></title>
+            <link>https://ildaro.com/9836</link>
+            <guid>https://ildaro.com/9836</guid>
+            <pubDate>Wed, 14 Feb 2024 05:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[“‘여성파업’이라고 했을 때 저는 진짜 솔깃했거든요. 이 뭉쳐서 한목소리를 내야만 들어주지, 혼자 외친다고 들어주지 않잖아요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024021410069066.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“무늬만 프리랜서” 고용, 이제 그만합시다!]]></title>
             <link>https://ildaro.com/9835</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 20 Jan 2024 10:11:00 GMT</pubDate>
             <content:encoded><![CDATA[여행자가 오면 여행자의 행운도 같이 와서 일상의 공간이 다르게 느껴진다. 먹고 마시고 걷고 이야기하는 모든 과정에 새로움이 자연스럽게 따라오는 것이다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024012021292691.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“생의 맛”을 맛보게 해준 할머니의 디저트]]></title>
-            <link>https://ildaro.com/9816</link>
-            <guid>https://ildaro.com/9816</guid>
-            <pubDate>Thu, 18 Jan 2024 10:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[꿀에 절인 밤, 갓 구운 아몬드와 헤이즐넛, 설탕이 솔솔 뿌려진 쿠키, 바삭하고 고소한 누가와 찰다(cialda), 따스한 핫초코의 냄새와 온도도 글에 담겨있다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024011810372342.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
