@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 05:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 06:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[교사 ‘성희롱’ 문제 된 ‘교원평가’…교육부“서술형 문항 폐지하겠다”]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202402151500001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202402151500001</guid>
+            <pubDate>Thu, 15 Feb 2024 06:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[국가인권위원회가 학생들의 교사 ‘성희롱’ 문제로 논란이 된 교원능력개발평가(교원평가)와 관련해 ‘재발 방지 대책을 마련하라’는 권고를 교육부가 수용했다고 15일 밝혔다.교원평가 문제는 2022년 세종시 소재 A고등학교에서 교원평가 ‘서술형 문항’에 학생들이 여성 교사를 향해 남긴 성희롱 및 모욕적 발언이 알려지며 공론화했다. 당시 A 학교 교사 4명은 학생들로부터 “XX 크더라. 짜면 모유 나오는 부분이냐” “김정은 기쁨조나 해라” “니 XX 너무 작아” “...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/02/15/news-p.v1.20240215.ae9bd0cc5dc849e2bac0400fe8a4d255_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임신한 노동자가 과로하는 나라]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202402151047001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 07 Feb 2024 01:41:31 GMT</pubDate>
             <content:encoded><![CDATA[성폭행 등을 저지른 중범죄자를 형기가 끝나도 무기한 수감시킬 수 있는 법안이 싱가포르에서 통과됐다.6일 스트레이츠타임스 등에 따르면 싱가포르 의회는 전날 ‘공공보호강화선고’(Sepp) 도입 등을 담은 형사소송법 개정안을 처리했다.Sepp는 살인미수, 과실치사, 성폭행, 미성년자와의 성관계 등 중대한 성범죄·폭력범죄로 유죄 판결을 받은 21세 이상 범죄자 중 재범 위험이 있다고 판단되는 경우를 대상으로 한다. Sepp에 해당하는 범죄자는 5∼20년간 수감되며, 형기...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/02/07/news-p.v1.20240207.733ecde4b20243d4960ececf4d4d840a_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[끊임없는 비판에도…‘필리핀 가사노동자’ 올 상반기 도입하는 서울시]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202402061547001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202402061547001</guid>
-            <pubDate>Tue, 06 Feb 2024 07:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[서울시가 올해 상반기 중 이주 가사노동자 100명을 맞벌이 가정 등에 연결하는 ‘외국인 가사관리사 시범사업’을 시작한다. 저출생 해결의 근본 해법이 아닌 데다 일부 소수만 이용 가능한 정책이라는 비판이 지속되는 가운데 이주 노동자가 열악한 노동환경에 놓일 우려도 제기된다.6일 서울시에 따르면 올 상반기 중 맞벌이 가정·한부모 가정·임산부가 있는 가정은 6개월간 이주 가사노동자를 고용할 수 있게 된다. 100가구를 대상으로 고용 자격이 주어지는 시범 사업이다...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/02/06/news-p.v1.20240206.519cb049fb1b4903b78baa1f3a45c4ed_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
