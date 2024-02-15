@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 01:45:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 02:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임신한 노동자가 과로하는 나라]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202402151047001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202402151047001</guid>
+            <pubDate>Thu, 15 Feb 2024 02:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;※이 기사는 2024년 2월 13일자 경향신문 사설 ‘임신 노동자 과로 막는 것도 저출생 해법이다’를 재가공하였습니다.&gt;유·사산을 겪은 여성 노동자 70%가 임신기간 중 노동시간·업무량을 조절할 수 없었던 것으로 나타났다. 과로, 야간 근무 등 장시간 노동이 임신 유지에 부정적 영향을 미치는데도 모성보호 정책이 직장 내에서 제대로 시행되지 않고 있는 것이다. 임신 노동자를 보호하고 유·사산을 겪은 여성 노동자 회복을 돕는 노동환경, 실질적인 제도 개선이 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/02/15/news-p.v1.20240215.9c70aa36c82f4176bc67837d80b219dc_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[군 간부 ‘임용 제한’…음란물 유포·스토킹 범죄까지 확대한다]]></title>
             <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202402141109001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 06 Feb 2024 07:10:54 GMT</pubDate>
             <content:encoded><![CDATA[서울시가 올해 상반기 중 이주 가사노동자 100명을 맞벌이 가정 등에 연결하는 ‘외국인 가사관리사 시범사업’을 시작한다. 저출생 해결의 근본 해법이 아닌 데다 일부 소수만 이용 가능한 정책이라는 비판이 지속되는 가운데 이주 노동자가 열악한 노동환경에 놓일 우려도 제기된다.6일 서울시에 따르면 올 상반기 중 맞벌이 가정·한부모 가정·임산부가 있는 가정은 6개월간 이주 가사노동자를 고용할 수 있게 된다. 100가구를 대상으로 고용 자격이 주어지는 시범 사업이다...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/02/06/news-p.v1.20240206.519cb049fb1b4903b78baa1f3a45c4ed_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[섭식장애는 음식에 대한 문제가 아니다…‘먹지 못하는 여자들’]]></title>
-            <link>https://www.khan.co.kr/culture/book/article/202402061024011</link>
-            <guid>https://www.khan.co.kr/culture/book/article/202402061024011</guid>
-            <pubDate>Tue, 06 Feb 2024 01:43:10 GMT</pubDate>
-            <content:encoded><![CDATA[몇년 사이 수면 위로 드러난 ‘프로아나’(극단적으로 마른 몸을 추구하는 사람)를 보며 많은 이들이 그 원인으로 지목한 것은 사회관계망서비스(SNS)다. SNS에 노출된 비쩍 마른 몸매의 모델 사진이 ‘마른 몸을 가지고 싶다’는 욕망을 자극해 여성들을 섭식장애로 몰아넣는다는 게 대부분 언론이 반복해 내놓은 진단이다.책 &lt;먹지 못하는 여자들&gt;은 이것이 거식증에 대한 가장 큰 오해라고 말한다. SNS가 존재하기 전인 수천년 전에도 거식증은 존재했으며 이는 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/02/06/news-p.v1.20240206.ead597c2bc87452d9c66c73aafee23cc_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
