@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 01:43:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 02:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/002918b0-daca-49b5-9093-f8b31cc59d65.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[대학 내에서 쓸고 닦고…‘배구’도 한다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9837</link>
+            <guid>https://ildaro.com/9837</guid>
+            <pubDate>Fri, 16 Feb 2024 10:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[배구를 배우고 있는 이들은, 서강대학교에서 일하는 청소노동자들이다. 이들은 어쩌다 체육관에 모여 배구를 하게 됐을까?...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024021651233773.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[임금 성차별, 여성들이 함께 목소리내야 할 때에요 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9836</link>
             <guid>https://ildaro.com/9836</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 21 Jan 2024 06:15:21 GMT</pubDate>
             <content:encoded><![CDATA[2012년 한국 대법원에 제기한 ‘징용공 소송’은 일본에서도 화제가 되었다. 피해자를 지원하는 ‘나고야 미쓰비시 조선여자근로정신대 소송을 지원하는 모임’에 가...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024012138183033.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삶을 믿는 실험, 시작은 작은 날갯짓이었다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9817</link>
-            <guid>https://ildaro.com/9817</guid>
-            <pubDate>Sat, 20 Jan 2024 10:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[여행자가 오면 여행자의 행운도 같이 와서 일상의 공간이 다르게 느껴진다. 먹고 마시고 걷고 이야기하는 모든 과정에 새로움이 자연스럽게 따라오는 것이다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024012021292691.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
