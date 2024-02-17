@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Feb 2024 07:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Feb 2024 08:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동물원 푸바오, 사육농장 반달곰, 그리고 인간의 자리]]></title>
+            <link>https://ildaro.com/9838</link>
+            <guid>https://ildaro.com/9838</guid>
+            <pubDate>Sat, 17 Feb 2024 08:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[곰이 낭떠러지에서 떨어지는 장면에서는 “사람들은 공포에 떨고 있습니다.” 하고 글이 따라온다. 이 어긋남에서 독자는 물을 수밖에 없게 된다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024021753029977.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대학 내에서 쓸고 닦고…‘배구’도 한다]]></title>
             <link>https://ildaro.com/9837</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 22 Jan 2024 10:14:04 GMT</pubDate>
             <content:encoded><![CDATA[‘넌 너대로 살면 된다. 우린 우리가 알아서 살테니’ 하지만, (부모한테) 집이 없다? 안정적인 소득이 없다? 그러면, 청년여성들의 부모돌봄에 대한 불안은 더 증폭되...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024012258265097.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘생을 걸고’ 사죄와 보상 요구한 징용피해자의 마음 떠올려]]></title>
-            <link>https://ildaro.com/9818</link>
-            <guid>https://ildaro.com/9818</guid>
-            <pubDate>Sun, 21 Jan 2024 06:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[2012년 한국 대법원에 제기한 ‘징용공 소송’은 일본에서도 화제가 되었다. 피해자를 지원하는 ‘나고야 미쓰비시 조선여자근로정신대 소송을 지원하는 모임’에 가...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024012138183033.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
