@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Feb 2024 11:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Feb 2024 12:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가 생각하는 좋은 ‘기자’는요]]></title>
+            <link>https://ildaro.com/9839</link>
+            <guid>https://ildaro.com/9839</guid>
+            <pubDate>Sun, 18 Feb 2024 12:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[아무리 노력해도 탈락과는 익숙해지기 어렵다. 취업준비생의 일상은 만만치가 않다. 그런데 현은 말한다. “버틸만하다”고....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024021834234685.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동물원 푸바오, 사육농장 반달곰, 그리고 인간의 자리]]></title>
             <link>https://ildaro.com/9838</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 24 Jan 2024 07:12:02 GMT</pubDate>
             <content:encoded><![CDATA[자살을 비극적인 개인의 선택이라고 본다는 걸 알게 되었다. 친구를 그렇게 보내고 싶지 않았는데, 이 책을 따라 친구의 죽음을 ‘혼맹’으로 부름으로써 조금 다르게...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/202401242607466.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진짜 위기는 “증발하고 싶은 여자들” 이야기를 모르는 것]]></title>
-            <link>https://ildaro.com/9819</link>
-            <guid>https://ildaro.com/9819</guid>
-            <pubDate>Mon, 22 Jan 2024 10:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[‘넌 너대로 살면 된다. 우린 우리가 알아서 살테니’ 하지만, (부모한테) 집이 없다? 안정적인 소득이 없다? 그러면, 청년여성들의 부모돌봄에 대한 불안은 더 증폭되...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024012258265097.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
