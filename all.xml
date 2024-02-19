@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 10:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 11:10:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/002918b0-daca-49b5-9093-f8b31cc59d65.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[After Debuting as a Singer, I Stopped Eating (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9840</link>
+            <guid>https://ildaro.com/9840</guid>
+            <pubDate>Mon, 19 Feb 2024 11:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[Criticisms, like that I was too fat and ugly, blotted out my daily life, and the company’s chief executive even began to show disgust about me eating in front of him....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024021925102318.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[내가 생각하는 좋은 ‘기자’는요 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9839</link>
             <guid>https://ildaro.com/9839</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 25 Jan 2024 09:12:49 GMT</pubDate>
             <content:encoded><![CDATA[I gained new experiences and found things to think about in the place called prison. I met men of all different ages....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024012504317621.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘페미니스트라는 걸 밝히기 어렵지 않았나요?’ (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9820</link>
-            <guid>https://ildaro.com/9820</guid>
-            <pubDate>Wed, 24 Jan 2024 07:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[자살을 비극적인 개인의 선택이라고 본다는 걸 알게 되었다. 친구를 그렇게 보내고 싶지 않았는데, 이 책을 따라 친구의 죽음을 ‘혼맹’으로 부름으로써 조금 다르게...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/202401242607466.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
