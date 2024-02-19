@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 22:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 23:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쥐들이 새끼를 안 낳기 시작했다]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1632</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1632</guid>
+            <pubDate>Mon, 19 Feb 2024 23:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 뉴스레터 허스펙티브입니다. 사실 지난 뉴스레터도 엄격하게 분류하자면 '저출생' 이슈였죠. 3년 동안 100회 넘는 뉴스레터를 보내는 동안 얼마나 많이 저출생 얘기를 했는지 모르겠습니다. 근래의 것만 나열해 봐도 이렇게 되네요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/871d44b8-f7cc-4c01-aa16-c7249ba5022b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["여성은 남성 없이도 잘 산다"]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1626</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 20 Nov 2023 23:12:09 GMT</pubDate>
             <content:encoded><![CDATA[지난주 인셀에 대한 길고 긴 뉴스레터를 보냈어요. 사실 인셀이라고 하면 방구석에 처박힌 사회 부적응자만을 떠올리기 쉽지만, 그렇지만은 않고 오히려 어리고 평범한 남성들마저 인셀 문화에 물들고 있다는 이야기를 나눴어요. 그러면서 인셀 커뮤니티의 도태되어야 할 여론이 공론장을 넘어, 현실의 폭력으로 번지고 있는 양상이죠. 이를 다룬 지 일주일도 채 지나지 않아, 이번엔 이런 사건이 발생했습니다. 서울 도심 한복판인 롯데백화점 본점 전광판에 이런 메시지가 나타났습니다. "나 한국 여자 다 강간할 거야."]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/a474fd03-5563-4566-b1c5-0ce6b4ab916c.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국에도 시작된 '인셀 테러']]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1513</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1513</guid>
-            <pubDate>Mon, 13 Nov 2023 23:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[몇 주 전, 제가 '인셀 테러(위즈덤하우스 발행)'라는 책을 소개했던 것, 기억하시죠? 제가 썼던 서평과 더불어 말이예요. 영국인 작가 로라 베이츠가 1년 동안 '매노스피어'라고 일컬어지는, 우리나라의 남초 커뮤니티 같은 공간에 잠입하여 '유해한 남성성'이 어떻게 전염되고 확대 재생산되는지, 그리고 어떻게 단단한 하나의 신념 체계가 되었는지를 파헤친 책이었어요. 저는 최근 한국 사회에서 발생한 여러 사건들을 바라보면서 이 책을 다시 한번 들춰보지 않을 수 없었습니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/002918b0-daca-49b5-9093-f8b31cc59d65.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
