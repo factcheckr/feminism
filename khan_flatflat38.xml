@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 01:43:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 02:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘인하대 성폭행 추락사’ 후에도 여전히…대학생 절반만 듣는 성폭력예방교육]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202402201044001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202402201044001</guid>
+            <pubDate>Tue, 20 Feb 2024 02:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[법적 강제력이 없어 참여 ‘미적’여가부 디지털교육 예산 4억 전액 삭감여성가족부의 대학생 대상 폭력예방교육 참여율이 절반 수준에 그치는 것으로 나타났다. ‘인하대 성폭행 추락사’ 사건을 계기로 참여율을 끌어올리려고 노력했지만 아직 뚜렷한 변화가 없는 셈이다. 여가부의 올해 대학생 대상 폭력예방 디지털교육 운영예산 4억원은 올해 전액 삭감됐다.여가부와 한국양성평등교육진흥원(양평원)은 오는 20일 한국대학성평등·인권센터협의회 등과 ‘대학생 대상 폭력예방교육 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/02/20/news-p.v1.20240220.011b1142168b4d578bcaf007ed788e13_P1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[“최저임금 받는 통·번역사, 결혼이주여성이면 돈 적게 줘도 되나요?”]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202402191100011</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 13 Feb 2024 02:17:00 GMT</pubDate>
             <content:encoded><![CDATA[누구는 노래를 했고 누구는 악기를 연주했다. 피켓을 들고 캠페인을 하는 사람도, 모니터를 뚫어져라 쳐다보며 영상을 제작하는 사람도 있었다. 인생 그래프를 그리느라 진지한 사람, 혓바닥을 이용해 컴퓨터에 스토리를 입력하는 사람도 있었다. 사진집 제목은 &lt;이것도 노동이다&gt;. 말하고 싶은 바가 선명하다.그것도 노동이라고 맞장구치기는 어렵지 않다. 무언가 해내는 인간의 보편적 활동을 우리는 노동이라 불러왔다. 가수, 연주자, 감독, 작가와 같은 직업의 이름으...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/02/13/news-p.v1.20240213.c8b3f8caec1b432db2f25ec5b9f651ee_P1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[육아휴직 쓴다니 권고사직한 회사… 신고해도 처벌받는 경우 고작 6.8%]]></title>
-            <link>https://www.khan.co.kr/national/labor/article/202402081428001</link>
-            <guid>https://www.khan.co.kr/national/labor/article/202402081428001</guid>
-            <pubDate>Thu, 08 Feb 2024 06:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[“육아휴직 신청서를 상사에게 제출하자 상사는 ‘서류를 잃어버렸다’고 했습니다. 다시 대표에게 직접 제출하니 대표는 면담을 잡아 ‘육아휴직을 받아줄 수 없다. 권고사직 처리를 하겠다’고 했습니다.”(직장인 A씨)“이른둥이로 태어난 아이가 호흡을 잘 못 해 육아휴직을 쓰려고 하니 회사에서는 ‘너 없으면 누가 일을 하냐, 언제까지 쓸 거냐’라고 물어봐 어쩔 수 없이 3개월만 쓰겠다고 했습니다.”(직장인 B씨)출산·육아휴직 등 모성보호제도 사용을 막거나 이를 이유...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/02/08/news-p.v1.20240208.a9999ce98bd14fb6ac1f28354fa0c89a_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
