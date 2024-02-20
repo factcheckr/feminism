@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 05:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 06:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“나는 비정규직 공무원” 내일이 없는 삶]]></title>
+            <link>https://ildaro.com/9841</link>
+            <guid>https://ildaro.com/9841</guid>
+            <pubDate>Tue, 20 Feb 2024 06:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[“직장에서 정규-비정규직이 대등하다고 생각하는가?”라는 질문에 “그렇지 않다”가 78.9%, “괴롭힘이나 차별을 받은 적이 있는가?”라는 질문에 68.9%가 “있다”고...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024022042407540.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[After Debuting as a Singer, I Stopped Eating]]></title>
             <link>https://ildaro.com/9840</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 26 Jan 2024 06:23:40 GMT</pubDate>
             <content:encoded><![CDATA[2000년대부터 간간히 출몰하던 퀴어연극 공연 기록이 2015년 ‘페미니즘 리부트’ 이후로 늘어났다가, 2018년을 기점으로 확 급증하는 게 보여요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024012618504249.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Insight into Feminism I Had in Prison]]></title>
-            <link>https://ildaro.com/9821</link>
-            <guid>https://ildaro.com/9821</guid>
-            <pubDate>Thu, 25 Jan 2024 09:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[I gained new experiences and found things to think about in the place called prison. I met men of all different ages....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024012504317621.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
