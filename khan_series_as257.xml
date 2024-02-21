@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Feb 2024 00:47:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 01:44:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무대 위, 무대 아래에서 변화하는 테일러 스위프트의 역사적 순간들 ‘미스 아메리카나’]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202402211006001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202402211006001</guid>
+            <pubDate>Wed, 21 Feb 2024 01:43:55 GMT</pubDate>
+            <content:encoded><![CDATA[오는 11월 실시되는 미국 대통령 선거의 최대 관심 인물은 조 바이든도 도널드 트럼프도 아닐지 모릅니다. 일각에선 팝의 전설 마이클 잭슨과도 비교하는, 미국 최고 권위의 음악 시상식인 그래미 어워즈 올해의 앨범상을 4번이나 수상한 유일한 가수 테일러 스위프트. 그가 이번에도 바이든을 지지할 것인가를 두고 매일 수많은 추측성 기사들이 쏟아집니다.단순히 인기 가수이기 때문에 대중은 테일러 스위프트의 선택에 주목하는 것일까요. ‘음악 재능이 있는 소녀’에서 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/02/21/news-p.v1.20240220.24242d026fa347faac19fd91578a54a5_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘인하대 성폭행 추락사’ 후에도 여전히…대학생 절반만 듣는 성폭력예방교육]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202402201044001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 13 Feb 2024 07:11:37 GMT</pubDate>
             <content:encoded><![CDATA[지난해 12월 플랫 입주자 프로젝트로 시작한 ‘엄마 성 빛내기’ 신청자는 최종 137명으로 집계됐다. ‘엄마 성 빛내기’는 엄마 성을 쓰고 싶은 사람들이 모여 성평등을 근거로 성·본 변경 청구서를 작성하고 전국 법원에 청구를 하는 프로젝트다. 프로젝트 기획자인 김준영 그림책 작가는 “엄마 성을 쓰는 것이 별나지 않은 사회를 만드는데 기여하고 싶다”고 말했다. 현재 신청자 중 103명이 3월 8일 세계 여성의 날 전국 법원에 성·본 변경 청구서를 제출하겠다고 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/02/13/news-p.v1.20240213.59b399c4379c4c0182e9e9e0d7b3eb5f_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어떤 노동이 우리를 살아가게 하는지]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202402131106001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202402131106001</guid>
-            <pubDate>Tue, 13 Feb 2024 02:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[누구는 노래를 했고 누구는 악기를 연주했다. 피켓을 들고 캠페인을 하는 사람도, 모니터를 뚫어져라 쳐다보며 영상을 제작하는 사람도 있었다. 인생 그래프를 그리느라 진지한 사람, 혓바닥을 이용해 컴퓨터에 스토리를 입력하는 사람도 있었다. 사진집 제목은 &lt;이것도 노동이다&gt;. 말하고 싶은 바가 선명하다.그것도 노동이라고 맞장구치기는 어렵지 않다. 무언가 해내는 인간의 보편적 활동을 우리는 노동이라 불러왔다. 가수, 연주자, 감독, 작가와 같은 직업의 이름으...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/02/13/news-p.v1.20240213.c8b3f8caec1b432db2f25ec5b9f651ee_P1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
