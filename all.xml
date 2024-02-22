@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 01:43:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 02:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[‘56년 만의 미투’ 최말자 노회찬상 수상, 특별상 동성커플 부부 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202402220949001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202402220949001</guid>
-            <pubDate>Thu, 22 Feb 2024 01:42:34 GMT</pubDate>
+            <pubDate>Thu, 22 Feb 2024 01:41:51 GMT</pubDate>
             <content:encoded><![CDATA[‘56년 만의 미투(Me too·나도 고발한다)’ 사건 당사자인 최말자씨(78)가 제5회 노회찬상을 수상했다.노회찬재단은 21일 오후 2시 서울 종로구 전태일기념관에서 시상식을 열고 제5회 노회찬상 수상자로 최씨를 선정했다고 밝혔다. 특별상 수상자로는 박정훈 해병대 대령과 동성 커플인 소성욱·김용민씨 부부가 선정됐다.이덕우 노회찬상심사위원회 위원장은 “최씨 사건은 형법학 교과서와 대법원 역사에 남을 성폭력과 정당방위에 대한 대표적 사례”라면서 “56년 만의 미투를 통...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/02/22/news-p.v1.20240222.223d3144ed42426fbb94a3f7e05c7213_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/a474fd03-5563-4566-b1c5-0ce6b4ab916c.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[“너무 피곤해” 어르신, 손주 돌보는 여성들의 ‘과로’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9842</link>
+            <guid>https://ildaro.com/9842</guid>
+            <pubDate>Thu, 22 Feb 2024 09:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[10대 때는 ‘어린 여자애’라서 무서운 남자 어른들 틈에서 힘들었고, 20대는 ‘젊은 여자’라서 힘들었고, 지금은 ‘나이 든 여자’라서 힘들다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024022239109736.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“나는 비정규직 공무원” 내일이 없는 삶 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9841</link>
             <guid>https://ildaro.com/9841</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 27 Jan 2024 12:17:25 GMT</pubDate>
             <content:encoded><![CDATA[영화는 진실과 거짓이 서로 반대가 아니라는 것을 말하는 매체다. 연출된 진실. 그것을 나는 가짜라고 부를 수 없다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024012726351345.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국의 퀴어연극에 관한 기록이 여기 있다! (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9822</link>
-            <guid>https://ildaro.com/9822</guid>
-            <pubDate>Fri, 26 Jan 2024 06:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[2000년대부터 간간히 출몰하던 퀴어연극 공연 기록이 2015년 ‘페미니즘 리부트’ 이후로 늘어났다가, 2018년을 기점으로 확 급증하는 게 보여요....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024012618504249.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

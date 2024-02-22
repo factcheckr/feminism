@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 01:43:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 02:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“너무 피곤해” 어르신, 손주 돌보는 여성들의 ‘과로’]]></title>
+            <link>https://ildaro.com/9842</link>
+            <guid>https://ildaro.com/9842</guid>
+            <pubDate>Thu, 22 Feb 2024 09:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[10대 때는 ‘어린 여자애’라서 무서운 남자 어른들 틈에서 힘들었고, 20대는 ‘젊은 여자’라서 힘들었고, 지금은 ‘나이 든 여자’라서 힘들다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024022239109736.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“나는 비정규직 공무원” 내일이 없는 삶]]></title>
             <link>https://ildaro.com/9841</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 27 Jan 2024 12:17:25 GMT</pubDate>
             <content:encoded><![CDATA[영화는 진실과 거짓이 서로 반대가 아니라는 것을 말하는 매체다. 연출된 진실. 그것을 나는 가짜라고 부를 수 없다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024012726351345.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국의 퀴어연극에 관한 기록이 여기 있다!]]></title>
-            <link>https://ildaro.com/9822</link>
-            <guid>https://ildaro.com/9822</guid>
-            <pubDate>Fri, 26 Jan 2024 06:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[2000년대부터 간간히 출몰하던 퀴어연극 공연 기록이 2015년 ‘페미니즘 리부트’ 이후로 늘어났다가, 2018년을 기점으로 확 급증하는 게 보여요....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024012618504249.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
