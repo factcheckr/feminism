@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 00:47:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 01:43:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘56년 만의 미투’ 최말자 노회찬상 수상, 특별상 동성커플 부부]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202402220949001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202402220949001</guid>
+            <pubDate>Thu, 22 Feb 2024 01:42:34 GMT</pubDate>
+            <content:encoded><![CDATA[‘56년 만의 미투(Me too·나도 고발한다)’ 사건 당사자인 최말자씨(78)가 제5회 노회찬상을 수상했다.노회찬재단은 21일 오후 2시 서울 종로구 전태일기념관에서 시상식을 열고 제5회 노회찬상 수상자로 최씨를 선정했다고 밝혔다. 특별상 수상자로는 박정훈 해병대 대령과 동성 커플인 소성욱·김용민씨 부부가 선정됐다.이덕우 노회찬상심사위원회 위원장은 “최씨 사건은 형법학 교과서와 대법원 역사에 남을 성폭력과 정당방위에 대한 대표적 사례”라면서 “56년 만의 미투를 통...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/02/22/news-p.v1.20240222.223d3144ed42426fbb94a3f7e05c7213_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무대 위, 무대 아래에서 변화하는 테일러 스위프트의 역사적 순간들 ‘미스 아메리카나’]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202402211006001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 13 Feb 2024 07:11:37 GMT</pubDate>
             <content:encoded><![CDATA[지난해 12월 플랫 입주자 프로젝트로 시작한 ‘엄마 성 빛내기’ 신청자는 최종 137명으로 집계됐다. ‘엄마 성 빛내기’ 프로젝트는 엄마 성을 쓰고 싶은 사람들이 모여 성평등을 근거로 성·본 변경 청구서를 작성하고 전국 법원에 청구를 하는 프로젝트다. 프로젝트 기획자인 김준영 그림책 작가는 “엄마 성을 쓰는 것이 별나지 않은 사회를 만드는데 기여하고 싶다”고 말했다. 현재 신청자 중 100여명이 3월 8일 세계 여성의 날 전국 법원에 성·본 변경 청구서를 제...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/02/13/news-p.v1.20240213.591cc11185d64fa98de5422dd92f5224_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“3월 8일 세계 여성의 날, 100명이 함께 ‘엄마 성’으로 바꾸러 갑니다”]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202402131519001</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202402131519001</guid>
-            <pubDate>Tue, 13 Feb 2024 07:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 12월 플랫 입주자 프로젝트로 시작한 ‘엄마 성 빛내기’ 신청자는 최종 137명으로 집계됐다. ‘엄마 성 빛내기’는 엄마 성을 쓰고 싶은 사람들이 모여 성평등을 근거로 성·본 변경 청구서를 작성하고 전국 법원에 청구를 하는 프로젝트다. 프로젝트 기획자인 김준영 그림책 작가는 “엄마 성을 쓰는 것이 별나지 않은 사회를 만드는데 기여하고 싶다”고 말했다. 현재 신청자 중 103명이 3월 8일 세계 여성의 날 전국 법원에 성·본 변경 청구서를 제출하겠다고 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/02/13/news-p.v1.20240213.59b399c4379c4c0182e9e9e0d7b3eb5f_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
