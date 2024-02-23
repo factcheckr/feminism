@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 07:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 08:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선거 앞두고 ‘또’ 여가부 흔드는 정부, “혐오로 표 얻으려는 시도”]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202402231629001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202402231629001</guid>
+            <pubDate>Fri, 23 Feb 2024 08:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 총선을 앞두고 여성가족부 폐지 추진 움직임을 보이면서 여성계가 “폐지 시도를 당장 중단하고 여가부를 정상화하라”고 촉구했다. 총선을 앞두고 지지층을 결집하려고 다시 ‘성별 갈라치기’를 꺼내들었다는 지적도 나왔다.한국여성민우회·한국여성의전화 등 900여 개 여성·시민사회단체가 모인 ‘여성가족부 폐지 저지와 성평등정책 강화를 위한 범시민사회 전국행동’은 23일 오전 서울 용산구 대통령실 앞에서 기자회견을 열어 이같이 밝혔다.윤석열 대통령은 지난 20일...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/02/23/news-p.v1.20240223.915000d44ced4c709036b59fc80428fc_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동성커플 건보 피부양자 자격 인정 1년, 다시 법원 찾은 소성욱씨 부부]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202402221502001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 14 Feb 2024 02:17:08 GMT</pubDate>
             <content:encoded><![CDATA[음란물 유포죄와 스토킹 범죄로 일정한 형량 이상을 확정받은 사람은 3년간 군 간부로 임용될 수 없게 됐다.정부는 13일 국무회의를 열고 음란물 유포와 스토킹에 대한 사회적 경각심이 높아진 현실을 반영한 군인사법 개정안을 의결했다. 국방부에 따르면 법안은 오는 20일 공포·시행된다.기존 법은 성폭력 범죄로 100만원 이상의 벌금형이 확정된 후 3년이 지나지 않은 사람은 장교·준사관·부사관으로 임용될 수 없도록 했다. 개정안은 임용 결격 사유를 성폭력 범죄에서 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/02/14/news-p.v1.20240214.7c7cfb16ca0b42669dac2b4ccacf20b1_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“‘부성이 기본값인 사회’에 질문 던지고 싶다”…‘엄마 성 빛내는’ 법률자문단]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202402131520011</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202402131520011</guid>
-            <pubDate>Tue, 13 Feb 2024 07:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[2018년 10월 원의림 변호사(법률사무소 의림)가 혼인신고를 할 때 범유경 변호사(법무법인 덕수)와 로스쿨 친구들은 헌법재판소 결정문을 참고해 ‘혼인 축하선언문’을 작성해 선물했다. 이 선언문 ‘판결요지’에는 “현행 민법 상의 부계성본 원칙을 타파하기 위해 사회운동, 헌법소원, 입법청원 등의 수단으로 가족관계등록법과 민법 등 관계법령 개정에 앞장서라”는 내용을 담았고 다같이 법대 건물 앞에서 낭독했다.그로부터 4년여 후 원의림 변호사는 2023년 태어난 아들에게...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/02/13/news-p.v1.20240213.1bd16d192985417caaddeb8326843615_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
