@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Feb 2024 11:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2024 12:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바다 위 기억들, 배 타고 떠나는 여행의 맛]]></title>
+            <link>https://ildaro.com/9844</link>
+            <guid>https://ildaro.com/9844</guid>
+            <pubDate>Sat, 24 Feb 2024 12:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[최초의 기억은 엄마랑 둘이서 통통배를 타고 부산 근교 가덕도로 가는 길. 하늘도 바다도, 굽이굽이 작은 바위섬의 해안을 따라가는 모든 장면이 눈부셨다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024022407211002.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘장애인 이동권’ 노동자와 시민도 연루돼있다]]></title>
             <link>https://ildaro.com/9843</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 31 Jan 2024 09:34:00 GMT</pubDate>
             <content:encoded><![CDATA[자세히 보면 ‘가난을 겪었다, 가난했었다’는 말보다 ‘가난을 극복했다, 벗어났다’는 말을 더 많이 쓴단 말이죠. 가난에서 벗어난다는 거, 누군가에겐 가능할 수도...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024013142488750.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[열악한 콜센터노동 묘사가 기분 나빴던 이유]]></title>
-            <link>https://ildaro.com/9824</link>
-            <guid>https://ildaro.com/9824</guid>
-            <pubDate>Mon, 29 Jan 2024 00:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[최근에 삶의 변화를 준 키워드가 있습니다. 바로, ‘퇴사’입니다. 네, 퇴사하고 나니 지금 당장 저를 소개할 수 있는 마땅한 단어가 없네요....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/202401291236582.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
