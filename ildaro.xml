@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 02:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 03:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차별은 디자인된 것이다]]></title>
+            <link>https://ildaro.com/9845</link>
+            <guid>https://ildaro.com/9845</guid>
+            <pubDate>Mon, 26 Feb 2024 11:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘우리 동네에는 안전하고 사람들이 모일만한 공공장소가 없어. 우리 동네에 와줬으면 좋겠어’...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024022623092741.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바다 위 기억들, 배 타고 떠나는 여행의 맛]]></title>
             <link>https://ildaro.com/9844</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 01 Feb 2024 09:13:27 GMT</pubDate>
             <content:encoded><![CDATA[이들의 이야기엔 성매매 찬성, 반대 같은 단순한 이분법에 들어맞지 않는 사람들의 삶이 있었다. 이들을 내쫓고 밀어내기 전에, 적어도 그 이야기를 들어봐야 하지 않...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024020150038047.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 사회는 왜 ‘가난을 벗어나’라고 표현할까요?]]></title>
-            <link>https://ildaro.com/9825</link>
-            <guid>https://ildaro.com/9825</guid>
-            <pubDate>Wed, 31 Jan 2024 09:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[자세히 보면 ‘가난을 겪었다, 가난했었다’는 말보다 ‘가난을 극복했다, 벗어났다’는 말을 더 많이 쓴단 말이죠. 가난에서 벗어난다는 거, 누군가에겐 가능할 수도...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202401/2024013142488750.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
