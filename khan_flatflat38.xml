@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 00:48:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 01:46:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[40년 만에 금기를 깨다… ‘성교육’ 등장시킨 ‘딩동댕 유치원’]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202402261006001</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202402261006001</guid>
+            <pubDate>Mon, 26 Feb 2024 01:44:35 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;딩동댕 유치원&gt;(이하 ‘딩유’)은 국내 어린이 프로그램 중 최장수 프로그램이다. &lt;딩유&gt;는 EBS의 전신이라고 할 수 있는 KBS 3TV에서 1982년 ‘텔레비전 유치원’으로 시작해 40년에 넘게 아이들 곁을 지켰다. 그런 &lt;딩유&gt;에서 최근에야 시도한 아이템이 있다. ‘유아 성교육’이다.금기를 깨고 최근 ‘성교육 특집 2부작’을 기획한 이지현 PD를 지난 19일 경기도 일산 EBS 사옥에서 만났다. 이 PD는 “(유아 성교육 기획이) 처음이었지만 혁신은 아...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/02/26/news-p.v1.20240226.0d7db419b8db4c639565dc733b3950b2_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[선거 앞두고 ‘또’ 여가부 흔드는 정부, “혐오로 표 얻으려는 시도”]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202402231629001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 15 Feb 2024 02:17:16 GMT</pubDate>
             <content:encoded><![CDATA[&lt;※이 기사는 2024년 2월 13일자 경향신문 사설 ‘임신 노동자 과로 막는 것도 저출생 해법이다’를 재가공하였습니다.&gt;유·사산을 겪은 여성 노동자 70%가 임신기간 중 노동시간·업무량을 조절할 수 없었던 것으로 나타났다. 과로, 야간 근무 등 장시간 노동이 임신 유지에 부정적 영향을 미치는데도 모성보호 정책이 직장 내에서 제대로 시행되지 않고 있는 것이다. 임신 노동자를 보호하고 유·사산을 겪은 여성 노동자 회복을 돕는 노동환경, 실질적인 제도 개선이 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/02/15/news-p.v1.20240215.9c70aa36c82f4176bc67837d80b219dc_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[군 간부 ‘임용 제한’…음란물 유포·스토킹 범죄까지 확대한다]]></title>
-            <link>https://www.khan.co.kr/politics/defense-diplomacy/article/202402141109001</link>
-            <guid>https://www.khan.co.kr/politics/defense-diplomacy/article/202402141109001</guid>
-            <pubDate>Wed, 14 Feb 2024 02:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[음란물 유포죄와 스토킹 범죄로 일정한 형량 이상을 확정받은 사람은 3년간 군 간부로 임용될 수 없게 됐다.정부는 13일 국무회의를 열고 음란물 유포와 스토킹에 대한 사회적 경각심이 높아진 현실을 반영한 군인사법 개정안을 의결했다. 국방부에 따르면 법안은 오는 20일 공포·시행된다.기존 법은 성폭력 범죄로 100만원 이상의 벌금형이 확정된 후 3년이 지나지 않은 사람은 장교·준사관·부사관으로 임용될 수 없도록 했다. 개정안은 임용 결격 사유를 성폭력 범죄에서 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/02/14/news-p.v1.20240214.7c7cfb16ca0b42669dac2b4ccacf20b1_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
