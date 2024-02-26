@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 22:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 23:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[좀비가 된 여성가족부]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1641</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1641</guid>
+            <pubDate>Mon, 26 Feb 2024 23:12:18 GMT</pubDate>
+            <content:encoded><![CDATA[그동안 여성가족부의 수장으로서 열심히 '여성' 지우기에 앞장섰던 김현숙 전 여가부 장관이 자리에서 물러났습니다. 그런데 임명권자인 윤석열 대통령이 김 전 장관의 사표를 수리하면서도 후임을 지명하지 않았습니다. 전례가 없는 일입니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/bda4e317-ad14-470d-a51b-ba6a2b72c094.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쥐들이 새끼를 안 낳기 시작했다]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1632</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 27 Nov 2023 23:11:49 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 주렁주렁 여러 기사들이 엮인 뉴스레터를 보내드려요. 3년째 뉴스레터를 보내면서도 어쩜 이렇게 매주 새로운 소식이 갱신되는지. 지난 한 주 동안, 축구 국가대표 황의조의 불법 촬영과 넥슨 등 게임업계의 페미니즘 검열과 백래시, 최강욱의 '설치는 암컷' 발언 등 온갖 이슈가 범람했답니다. 가장 아래에 최신 뉴스를 엮어 두었어요. 그럼에도 본문은 조금 더 발전적이고 진보적인 이야기를 해야 하지 않겠어요? 지난주 뉴스레터에서 "그들은 저급해도, 우리는 우아하게! (When they go low, we go high)"를 외쳤던 것처럼, 오늘도 '위 고 하이' 해보자고요. 💪]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/a8cd540c-4867-4bed-8896-22acde796d44.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["나 한국여자 다 XX할 거야"]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1521</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1521</guid>
-            <pubDate>Mon, 20 Nov 2023 23:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[지난주 인셀에 대한 길고 긴 뉴스레터를 보냈어요. 사실 인셀이라고 하면 방구석에 처박힌 사회 부적응자만을 떠올리기 쉽지만, 그렇지만은 않고 오히려 어리고 평범한 남성들마저 인셀 문화에 물들고 있다는 이야기를 나눴어요. 그러면서 인셀 커뮤니티의 도태되어야 할 여론이 공론장을 넘어, 현실의 폭력으로 번지고 있는 양상이죠. 이를 다룬 지 일주일도 채 지나지 않아, 이번엔 이런 사건이 발생했습니다. 서울 도심 한복판인 롯데백화점 본점 전광판에 이런 메시지가 나타났습니다. "나 한국 여자 다 강간할 거야."]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/a474fd03-5563-4566-b1c5-0ce6b4ab916c.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
