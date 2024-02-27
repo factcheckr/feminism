@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 05:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 06:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[직장 내 성폭력에 선구적으로 저항했던 ‘버스안내원’]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202402271503011</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202402271503011</guid>
+            <pubDate>Tue, 27 Feb 2024 06:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[조민지 ‘1960~70년대 사례’ 논문 발표‘여성에 대한 폭력’ 등 3가지 주제 다뤄조민지(서울대 강사)가 ‘사회와 역사’ 제 140집(2023년 겨울)에 실은 논문 &lt;1960~70년대 여성 노동자의 ‘인권’ 문제와 버스안내원이라는 사례&gt;는 ‘여성에 대한 폭력’ ‘박정희 정부의 인권 개념 재규정과 버스안내원 활용’ ‘기계와 인간의 대결’이라는 3가지 문제에 주목한다.‘여성에 대한 폭력’에 해당하는 게 몸수색이다. “범죄를 적발하기 위해 돌발적으로 발생하는 일회적인 사...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/02/27/news-p.v1.20240227.665fa43ef80d4032949dc1a10f4e2d7f_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[두 자녀 둔 여성인권운동가 ‘미스 독일’]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202402271041011</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 16 Feb 2024 05:12:17 GMT</pubDate>
             <content:encoded><![CDATA[많은 세계인들이 꽃과 초콜릿으로 사랑을 기념하는 발렌타인데이에 케냐에서 여성을 대상으로 한 폭력을 규탄하는 집회가 열렸다.AFP통신, 가디언, 알자지라에 따르면 14일(현지시간) 나이로비대학 광장에는 검은 옷을 입고 촛불과 빨간 장미를 든 여성 수백명이 모였다. 많은 이들은 스와힐리어로 “관 위의 꽃은 아름답지 않다”고 적힌 셔츠를 입고 나타났다. 이들은 범죄로 희생된 여성을 애도하고 정부에 젠더 기반 폭력과 여성살해(페미사이드)가 급증한 현실에 대해 국가...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/02/16/news-p.v1.20240216.cdb9bec3a46342b09930030260f6c430_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[교사 ‘성희롱’ 문제 된 ‘교원평가’…교육부“서술형 문항 폐지하겠다”]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202402151500001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202402151500001</guid>
-            <pubDate>Thu, 15 Feb 2024 06:13:52 GMT</pubDate>
-            <content:encoded><![CDATA[국가인권위원회가 학생들의 교사 ‘성희롱’ 문제로 논란이 된 교원능력개발평가(교원평가)와 관련해 ‘재발 방지 대책을 마련하라’는 권고를 교육부가 수용했다고 15일 밝혔다.교원평가 문제는 2022년 세종시 소재 A고등학교에서 교원평가 ‘서술형 문항’에 학생들이 여성 교사를 향해 남긴 성희롱 및 모욕적 발언이 알려지며 공론화했다. 당시 A 학교 교사 4명은 학생들로부터 “XX 크더라. 짜면 모유 나오는 부분이냐” “김정은 기쁨조나 해라” “니 XX 너무 작아” “...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/02/15/news-p.v1.20240215.ae9bd0cc5dc849e2bac0400fe8a4d255_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
