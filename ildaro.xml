@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 06:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 07:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Yongjugol, Paju. There Are Still People Here.]]></title>
+            <link>https://ildaro.com/9846</link>
+            <guid>https://ildaro.com/9846</guid>
+            <pubDate>Tue, 27 Feb 2024 07:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[From the outside, Yongjugol might be seen as just a place that should quickly disappear and have its history covered up. However, the fact that there have been people making their livelihoods here for...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024022732321382.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차별은 디자인된 것이다]]></title>
             <link>https://ildaro.com/9845</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 02 Feb 2024 00:42:00 GMT</pubDate>
             <content:encoded><![CDATA[There are far too many real estate listings that barely pass for housing....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/202402025013816.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파주 용주골, 여기 아직 사람 있어요]]></title>
-            <link>https://ildaro.com/9826</link>
-            <guid>https://ildaro.com/9826</guid>
-            <pubDate>Thu, 01 Feb 2024 09:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[이들의 이야기엔 성매매 찬성, 반대 같은 단순한 이분법에 들어맞지 않는 사람들의 삶이 있었다. 이들을 내쫓고 밀어내기 전에, 적어도 그 이야기를 들어봐야 하지 않...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024020150038047.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

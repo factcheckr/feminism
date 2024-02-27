@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 06:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 07:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[직장 내 성폭력에 선구적으로 저항했던 ‘버스안내원’ (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/culture-general/article/202402271503011</link>
             <guid>https://www.khan.co.kr/culture/culture-general/article/202402271503011</guid>
-            <pubDate>Tue, 27 Feb 2024 06:14:46 GMT</pubDate>
+            <pubDate>Tue, 27 Feb 2024 06:14:02 GMT</pubDate>
             <content:encoded><![CDATA[조민지 ‘1960~70년대 사례’ 논문 발표‘여성에 대한 폭력’ 등 3가지 주제 다뤄조민지(서울대 강사)가 ‘사회와 역사’ 제 140집(2023년 겨울)에 실은 논문 &lt;1960~70년대 여성 노동자의 ‘인권’ 문제와 버스안내원이라는 사례&gt;는 ‘여성에 대한 폭력’ ‘박정희 정부의 인권 개념 재규정과 버스안내원 활용’ ‘기계와 인간의 대결’이라는 3가지 문제에 주목한다.‘여성에 대한 폭력’에 해당하는 게 몸수색이다. “범죄를 적발하기 위해 돌발적으로 발생하는 일회적인 사...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/02/27/news-p.v1.20240227.665fa43ef80d4032949dc1a10f4e2d7f_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/a8cd540c-4867-4bed-8896-22acde796d44.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Yongjugol, Paju. There Are Still People Here. (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9846</link>
+            <guid>https://ildaro.com/9846</guid>
+            <pubDate>Tue, 27 Feb 2024 07:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[From the outside, Yongjugol might be seen as just a place that should quickly disappear and have its history covered up. However, the fact that there have been people making their livelihoods here for...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024022732321382.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[차별은 디자인된 것이다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9845</link>
             <guid>https://ildaro.com/9845</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 02 Feb 2024 00:42:00 GMT</pubDate>
             <content:encoded><![CDATA[There are far too many real estate listings that barely pass for housing....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/202402025013816.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파주 용주골, 여기 아직 사람 있어요 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9826</link>
-            <guid>https://ildaro.com/9826</guid>
-            <pubDate>Thu, 01 Feb 2024 09:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[이들의 이야기엔 성매매 찬성, 반대 같은 단순한 이분법에 들어맞지 않는 사람들의 삶이 있었다. 이들을 내쫓고 밀어내기 전에, 적어도 그 이야기를 들어봐야 하지 않...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024020150038047.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
