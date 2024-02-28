@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 06:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 07:11:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/a8cd540c-4867-4bed-8896-22acde796d44.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[위기가 왔을 때, 국가가 생활을 보장해줄까요? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9847</link>
+            <guid>https://ildaro.com/9847</guid>
+            <pubDate>Wed, 28 Feb 2024 07:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[“발굴이 아니라, 실제로 사람들이 위기를 맞이했을 때 사적 자원이나 약탈적 금융을 이용하는 것이 아니라 사회안전망, 공적인 권리로서 급여를 보장받을 수 있는 제...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024022853432656.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Yongjugol, Paju. There Are Still People Here. (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9846</link>
             <guid>https://ildaro.com/9846</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 03 Feb 2024 11:22:00 GMT</pubDate>
             <content:encoded><![CDATA[미술관의 학예연구사 중에 페미니즘에 관심을 가진 사람이 늘어나고 있는 점도 눈부신 변화입니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024020331533336.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[If Bad Food Is Unacceptable, Why Isn’t Bad Housing? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9827</link>
-            <guid>https://ildaro.com/9827</guid>
-            <pubDate>Fri, 02 Feb 2024 00:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[There are far too many real estate listings that barely pass for housing....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/202402025013816.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
