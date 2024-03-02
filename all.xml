@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Mar 2024 04:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Mar 2024 05:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/a8cd540c-4867-4bed-8896-22acde796d44.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[세계는 다양한 사람으로 이루어져 있다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9849</link>
+            <guid>https://ildaro.com/9849</guid>
+            <pubDate>Sat, 02 Mar 2024 00:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[어떤 참가자가 ‘줄 반대쪽에 있는 사람의 무게를 느꼈다. 이 무게를 놓치지 않겠다’라고 말했을 때 울음이 터졌어요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024030251596445.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘여성 대리기사’란 이유로 콜 제외? 성차별 배차 해결해야 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9848</link>
             <guid>https://ildaro.com/9848</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 05 Feb 2024 11:10:31 GMT</pubDate>
             <content:encoded><![CDATA[주기적으로 제공받는 장갑은 작은 내 손에는 큰 편이었다. 그래서 헐렁한 장갑을 손가락 사이를 꾹꾹 눌러가면서 일했다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024020524594272.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3.8 세계 여성의 날 ‘꽃보다 여성파업’ (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9829</link>
-            <guid>https://ildaro.com/9829</guid>
-            <pubDate>Sun, 04 Feb 2024 09:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[혈연/비혈연 가족부터 시작해서 직장과 사회와 국가에게 묻자.‘여성의 노동이 사라진다면, 집-사회-국가-세계는 어떻게 될 것인가.’...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024020450265573.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
