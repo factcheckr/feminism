@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 22:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 23:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['0.65명'이 말해주는 것]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1652</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1652</guid>
+            <pubDate>Mon, 04 Mar 2024 23:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 합계출산율 0.78명 이 숫자는 다시 한번 갱신되어야 할 듯합니다. 지난해 4분기 합계출산율이 사상 처음으로 0.6명대로 추락하면서입니다. 0.65명. 지하까지 내려간 숫자, 그러나 더 무서운 것은 어디가 끝인지 모른다는 겁니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/38d4bcb8-b796-488b-a35b-a5dea1da8ee3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[좀비가 된 여성가족부]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1641</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 04 Dec 2023 23:11:57 GMT</pubDate>
             <content:encoded><![CDATA[광기가 휩쓸고 간 날들이었습니다. 🤏 바로 이 집게손가락 때문입니다. 2년 전 'GS25 포스터'에 쏟아졌던 일부 한국 남성들의 생떼와 판박이입니다. 당시 뉴스레터에서도 조목조목 지적하였고, 앞으로 고민해야 할 지점까지 제시한 바 있는데요. 시간이 꽤 흘렀지만 한국 사회는 조금도 변하지 않은 듯합니다. 넥슨의 게임 메이플스토리 캐릭터 홍보 영상 속 집게손가락 모양을 두고, 또 집단으로 논란을 만들어냅니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/55729013-b3cf-40f6-aaa6-f49c86c16d82.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가스, 석유 <<< 여성의 노동]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1532</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1532</guid>
-            <pubDate>Mon, 27 Nov 2023 23:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 주렁주렁 여러 기사들이 엮인 뉴스레터를 보내드려요. 3년째 뉴스레터를 보내면서도 어쩜 이렇게 매주 새로운 소식이 갱신되는지. 지난 한 주 동안, 축구 국가대표 황의조의 불법 촬영과 넥슨 등 게임업계의 페미니즘 검열과 백래시, 최강욱의 '설치는 암컷' 발언 등 온갖 이슈가 범람했답니다. 가장 아래에 최신 뉴스를 엮어 두었어요. 그럼에도 본문은 조금 더 발전적이고 진보적인 이야기를 해야 하지 않겠어요? 지난주 뉴스레터에서 "그들은 저급해도, 우리는 우아하게! (When they go low, we go high)"를 외쳤던 것처럼, 오늘도 '위 고 하이' 해보자고요. 💪]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/a8cd540c-4867-4bed-8896-22acde796d44.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
