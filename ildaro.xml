@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Mar 2024 00:47:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 01:44:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추워도, 더워도, 배고플 때도 그녀들은 춤춘다]]></title>
+            <link>https://ildaro.com/9851</link>
+            <guid>https://ildaro.com/9851</guid>
+            <pubDate>Tue, 05 Mar 2024 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[눈에 띄게 도움되는 일, 돈이 되는 것을 하면 어떨까 라는 시선이 끊임없이 몰려오고, 그런 것을 하지 않는 것은 ‘제멋대로’라고 여겨져, 낙오되어도 어쩔 수 없다고...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024030520265485.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘톨게이트 수납원’, 여성파업 벌여야하는 현실이 씁쓸해]]></title>
             <link>https://ildaro.com/9850</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 09 Feb 2024 10:19:00 GMT</pubDate>
             <content:encoded><![CDATA[그 내용이 무엇이든 간에, 고야마씨는 그저 ‘쓰는 것’이 필요했던 것이다. 쓰여진 내용에서 누가 어떤 의미나 가치를 발견하든 발견하지 못하든, 그것과는 상관없이...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024020936399460.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘생산적인 휴학 사유’를 기대하는 사회잖아요]]></title>
-            <link>https://ildaro.com/9831</link>
-            <guid>https://ildaro.com/9831</guid>
-            <pubDate>Wed, 07 Feb 2024 11:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[서현은 “암환자”에서 “암 경험자”로 살아가기 위해 분투중인 다른 청년 암 생존자들에게 당부하고 싶은 말들이 많아서 이 인터뷰에 응하게 되었다고 했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024020750445812.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
