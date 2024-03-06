@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 06:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 07:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Impermanence, Mortality, and Immortality]]></title>
+            <link>https://ildaro.com/9852</link>
+            <guid>https://ildaro.com/9852</guid>
+            <pubDate>Wed, 06 Mar 2024 07:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[On October 28th of last year, Wonju city forcefully demolished the Wonju Academy Theater, a cultural landmark that had stood since 1963....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024030617468927.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추워도, 더워도, 배고플 때도 그녀들은 춤춘다]]></title>
             <link>https://ildaro.com/9851</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 10 Feb 2024 08:13:03 GMT</pubDate>
             <content:encoded><![CDATA[One needs to take stairs down to a basement in order to view this exhibition. At the entrance, detailed descriptions of the exhibition are written on a wall....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024021035134934.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나 지금 쓰고 있어, 나 지금 살아 있어!]]></title>
-            <link>https://ildaro.com/9832</link>
-            <guid>https://ildaro.com/9832</guid>
-            <pubDate>Fri, 09 Feb 2024 10:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[그 내용이 무엇이든 간에, 고야마씨는 그저 ‘쓰는 것’이 필요했던 것이다. 쓰여진 내용에서 누가 어떤 의미나 가치를 발견하든 발견하지 못하든, 그것과는 상관없이...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024020936399460.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
