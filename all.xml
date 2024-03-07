@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 05:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 06:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/55729013-b3cf-40f6-aaa6-f49c86c16d82.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[초단시간 알바는 ‘노동하는 사람’ 아닌가요? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9853</link>
+            <guid>https://ildaro.com/9853</guid>
+            <pubDate>Thu, 07 Mar 2024 06:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[‘변동이 있어서 문제가 생기면 네가 알아서 잘 조절해.’라고 많이 말씀하셨어요.  ‘그건 좀 어려울 것 같아요.’라는 말을 하는 게 제일 어려운 것 같아요.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024030708336084.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Impermanence, Mortality, and Immortality (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9852</link>
             <guid>https://ildaro.com/9852</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 11 Feb 2024 10:38:00 GMT</pubDate>
             <content:encoded><![CDATA[자기 힘으로 움직일 수도, 밖으로 나갈 수도 없는 동생을 돌보며 어느 날 생각했다고 한다. 다양한 친구들을 집으로 초대하는 것으로 동생에게 세상을 보여줄 수 있지...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024021146526873.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HIDDEN WORKERS, An Exhibition on Women’s Labor: (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9833</link>
-            <guid>https://ildaro.com/9833</guid>
-            <pubDate>Sat, 10 Feb 2024 08:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[One needs to take stairs down to a basement in order to view this exhibition. At the entrance, detailed descriptions of the exhibition are written on a wall....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024021035134934.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
