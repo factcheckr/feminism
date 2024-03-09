@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Mar 2024 09:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Mar 2024 10:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/55729013-b3cf-40f6-aaa6-f49c86c16d82.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[친구의 친구는 친구! 꼬리에 꼬리를 무는 인연 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9855</link>
+            <guid>https://ildaro.com/9855</guid>
+            <pubDate>Sat, 09 Mar 2024 10:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[두 사람은 태어난 이후로 지금까지 쭉 친구로 지내고 있다. 자기 나이만큼의 시간을 사귄 친구라니, 상상이 잘 안 되는 관계다. 쌍둥이 자매 같은 감각일까....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/202403091000649.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[사상검증과 ‘페미 색출’, 전방위로 여성 노동권 침해 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9854</link>
             <guid>https://ildaro.com/9854</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 14 Feb 2024 05:12:55 GMT</pubDate>
             <content:encoded><![CDATA[“‘여성파업’이라고 했을 때 저는 진짜 솔깃했거든요. 이 뭉쳐서 한목소리를 내야만 들어주지, 혼자 외친다고 들어주지 않잖아요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024021410069066.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“무늬만 프리랜서” 고용, 이제 그만합시다! (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9835</link>
-            <guid>https://ildaro.com/9835</guid>
-            <pubDate>Mon, 12 Feb 2024 12:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[콘텐츠 모더레이터 김지윤 씨도 “3개월 단기간으로 반복되는 재계약 구조”로 인해, 장시간 노동, 휴일노동, 최저시급, 초과노동을 겪으면서도 “불만을 이야기하기...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024021235404641.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
