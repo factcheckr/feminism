@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 22:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 23:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배달왔습니다! 당신을 위한🌹]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1661</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1661</guid>
+            <pubDate>Mon, 11 Mar 2024 23:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[먼저 서울 종로구 보신각 앞을 보랏빛과 분홍빛으로 물들인 '3·8 여성파업대회' 소식입니다.&nbsp;요양보호사, 디자이너, 교사, IT 개발자 등 다양한 직군에 종사하는 여성노동자들이 주축이 된 '여성파업대회'가 처음으로 열렸습니다. 700명 넘게 몰린 이 대회에서 여성들은 "여성이 멈추면 세상도 멈춘다" "독박 집안일 강요 말고 사회가 책임져라" 등의 구호를 외치며, 성별 임금 격차 타파와 돌봄 공공성 강화 등을 주장했어요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/a5f735f4-6de5-4bda-bc97-d8c9cf5a5477.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['0.65명'이 말해주는 것]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1652</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 11 Dec 2023 23:12:51 GMT</pubDate>
             <content:encoded><![CDATA[지난 뉴스레터가 무척이나 버겁고 힘드셨죠? 그래서 이번 주는 조금 쉬어가는 느낌으로 편안한 내용을 가져와 봤습니다. 가부장제라는 조작된 게임에서 번아웃이 온 여성들이 지속 가능한 삶을 살게 하는 '회복 가이드'를 표방하는 책, '재가 된 여자들(책읽는수요일 발행)'을 소개할게요. 이 책은 제가 추천사를 쓰기도 했는데요. 기존의 유사한 도서들이 사회 구조와 문제를 지적한다면, 이 책은 여성들이 실생활에 적용해 볼 수 있는 다양한 방법을 과학적으로 제시합니다. 책의 모든 내용을 담을 수는 없지만, 책을 전반적으로 알 수 있도록 압축적으로 소개해 볼게요.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/ed6fe2b6-70ef-4cf0-aa06-9f3e9a192690.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🤏조금 더 깊게 봅시다]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1541</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1541</guid>
-            <pubDate>Mon, 04 Dec 2023 23:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[광기가 휩쓸고 간 날들이었습니다. 🤏 바로 이 집게손가락 때문입니다. 2년 전 'GS25 포스터'에 쏟아졌던 일부 한국 남성들의 생떼와 판박이입니다. 당시 뉴스레터에서도 조목조목 지적하였고, 앞으로 고민해야 할 지점까지 제시한 바 있는데요. 시간이 꽤 흘렀지만 한국 사회는 조금도 변하지 않은 듯합니다. 넥슨의 게임 메이플스토리 캐릭터 홍보 영상 속 집게손가락 모양을 두고, 또 집단으로 논란을 만들어냅니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/55729013-b3cf-40f6-aaa6-f49c86c16d82.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
