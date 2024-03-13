@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 08:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 09:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나는 고치고 수선하며 살고 싶다]]></title>
+            <link>https://ildaro.com/9858</link>
+            <guid>https://ildaro.com/9858</guid>
+            <pubDate>Wed, 13 Mar 2024 09:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[고쳐쓰는 문화가 우리 사회의 기후변화 문제를 조금이라도 다루게 되고, 또 그것으로 인해 또 다른 선한 문화가 되면 좋지 않을까....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024031308181555.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이를 보내고 어른이 됐다, 세월호 참사 이후 10년]]></title>
             <link>https://ildaro.com/9857</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 18 Feb 2024 12:18:10 GMT</pubDate>
             <content:encoded><![CDATA[아무리 노력해도 탈락과는 익숙해지기 어렵다. 취업준비생의 일상은 만만치가 않다. 그런데 현은 말한다. “버틸만하다”고....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024021834234685.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동물원 푸바오, 사육농장 반달곰, 그리고 인간의 자리]]></title>
-            <link>https://ildaro.com/9838</link>
-            <guid>https://ildaro.com/9838</guid>
-            <pubDate>Sat, 17 Feb 2024 08:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[곰이 낭떠러지에서 떨어지는 장면에서는 “사람들은 공포에 떨고 있습니다.” 하고 글이 따라온다. 이 어긋남에서 독자는 물을 수밖에 없게 된다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024021753029977.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
