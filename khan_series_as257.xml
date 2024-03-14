@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 07:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 08:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남녀 차별 A기업, ‘성차별 시정명령’ 받고도…여성 노동자 ‘또 승진 탈락’]]></title>
+            <link>https://www.khan.co.kr/national/gender/article/202403141641001</link>
+            <guid>https://www.khan.co.kr/national/gender/article/202403141641001</guid>
+            <pubDate>Thu, 14 Mar 2024 08:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[남성에게 유리한 기준을 둬서 여성 직원을 승진 심사에서 차별해 온 기업이 중앙노동위원회로부터 ‘고용상 성차별 시정명령’을 받았다. 겉으로 드러나지 않는 간접 성차별을 인정한 첫 사례다. 그러나 해당 기업은 명령을 받고도 문제제기를 한 당사자만 또 다시 승진에서 제외시켰다.14일 서울여성노동자회에 따르면 기계 제조·판매기업 A사의 여성 노동자 조모씨(41)는 전날 회사로부터 “직급이 현재와 같다”는 통보를 받았다. 조씨는 A사가 “여성 직원을 승진에서 차별했다”며 구제신청을 낸 여성 노동자 2명 중 1명이다. 회사는 중노위 명령을 받은 뒤 다른 1명은 승진시켰다. 신상아 서울여성노동자회 회장은 “언론 인터뷰 등을 통해 적극적으로 문제제기를 여성 직원은 승진시키지 않았다”며 “결과적으로 중노위가 인정한 ‘차별’이 시정되지 않은 것”이라고 말했다.A사 국내사업본부는 직접 영업을 하는 영업관리직은 전원이 남성, 영업활동을 하지 않는 영업지원직은 전원이 여성으로 구성됐다. A사는 지난...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/03/14/news-p.v1.20240314.714c46ce33914e228f8a54997eb110ad_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“일본 성노예 타령 자꾸 할 거냐”는 김용원 인권위원의 “반인권적 망언”]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202403141030001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 08 Mar 2024 00:46:22 GMT</pubDate>
             <content:encoded><![CDATA[2015년 처음으로 여성 고용률(50.1%)이 50%를 넘었다. 30대 여성 고용률은 2015년 56.9%에서 2023년 68%로 가파르게 증가했다. 전문가들은 2015년을 어떤 반응이 폭발적으로 늘어나는 ‘티핑 포인트’로 보고 있다. 이때부터 합계출산율(여성 1명이 15~49세에 낳을 것으로 기대하는 평균 출생아 수)이 급격히 하락했는데 2015년 이후의 하락은 ‘이전과 완전히 다른 하락’이라는 것이다. 실제 2015년 1.24명을 기점으로 매년 출산율이 하락해 올해는 0.6명대로 떨어질 것으로 예측되고 있다.2030 여성들이 ‘일’을 선택하고 있다. ‘아이’는 포기했거나 고민 중이다. 이들은 괜찮은 일자리를 얻어 ‘경제적 자립’을 통해 ‘자기만의 방’을 꾸리는 생애계획을 수립하려 한다. 이들의 생애계획에서 ‘가정’은 후순위다. 이미 선배 세대들을 통해 일과 가정을 양립하는 것이 어렵다는 것을 인지한 2030 여성들은 ‘출산 후 경력단절’을 받아들이는 것이 아니라 ‘비혼, ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/03/08/news-p.v1.20240307.276b8c5763024371b05a7b3c8ee56ce1_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘플랫 아파트’에 입주해 ‘자기만의 방’을 만들어보세요]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202403080600011</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202403080600011</guid>
-            <pubDate>Thu, 07 Mar 2024 21:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[20세기 영국 작가 버지니아 울프는 1929년 펴낸 책 ‘자기만의 방’에서 이렇게 말합니다. “한 개인이 최소한의 행복과 자유를 누리려면 연간 500파운드의 고정 수입과 타인의 방해를 받지 않는 자기만의 방이 필요하다.”여성이 가족이 함께 사용하는 거실에서 벗어나 자신만의 공간을 갖게 된다면, 스스로 생각하는 것을 그대로 쓸 수 있는 용기와 자유로운 습성을 가진다면 누구든 시인이 될 수 있을 거라는 말이죠.2024년 현재, 당신에게는 ‘자기만의 방’이 있나요? 경향신문 플랫팀은 세계 여성의 날을 맞아 데이터저널리즘팀 다이브와 함께 “플랫 아파트-자기만의 방” 인터랙티브 콘텐츠를 선보입니다. 독자들이 온라인 공간에서 직접 자신의 공간을 꾸며 보고, 여기엔 무엇이 담겨야 하는지 고민해보자는 취지입니다.입주자들은 ① 자신의 캐릭터를 만들고, ② 방을 꾸미고, ③ 내가 삶에서 원하는 게 무엇인지 기록하고 ④ 플랫...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/03/08/news-p.v1.20240307.9a48283cc6af4d32bab64dda3774809f_P1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
