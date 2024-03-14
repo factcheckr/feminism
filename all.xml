@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 13:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 14:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/ed6fe2b6-70ef-4cf0-aa06-9f3e9a192690.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[AI가 발달한 미래, 우리는 어떤 관계를 맺을까 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9859</link>
+            <guid>https://ildaro.com/9859</guid>
+            <pubDate>Thu, 14 Mar 2024 14:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[아무리 과학기술이 고도로 발달한 사회이더라도, 진정한 관계를 위해서 필요한 것은 상대의 완성도가 아니라 이 관계를 유지하고자 하는 자신의 의지가 가장 중요하다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/202403143744308.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나는 고치고 수선하며 살고 싶다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9858</link>
             <guid>https://ildaro.com/9858</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 19 Feb 2024 11:10:27 GMT</pubDate>
             <content:encoded><![CDATA[Criticisms, like that I was too fat and ugly, blotted out my daily life, and the company’s chief executive even began to show disgust about me eating in front of him....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024021925102318.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 생각하는 좋은 ‘기자’는요 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9839</link>
-            <guid>https://ildaro.com/9839</guid>
-            <pubDate>Sun, 18 Feb 2024 12:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[아무리 노력해도 탈락과는 익숙해지기 어렵다. 취업준비생의 일상은 만만치가 않다. 그런데 현은 말한다. “버틸만하다”고....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024021834234685.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
