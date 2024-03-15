@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 05:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 06:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“달리는 우리를 막을 수 없다”…한계에 도전하는 ‘여성 울트라 마라토너’]]></title>
+            <link>https://www.khan.co.kr/sports/sports-general/article/202403151512001</link>
+            <guid>https://www.khan.co.kr/sports/sports-general/article/202403151512001</guid>
+            <pubDate>Fri, 15 Mar 2024 06:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[영하 20도의 남극 1402㎞ 질주 “냉동 컨테이너서 10개월 연습”한 명은 남극에서 28일 동안 871마일(약 1402㎞)을 달렸고 또 다른 한 명은 6일 동안 산과 들에서 560마일(약 901㎞)을 질주했다. 도나 어거트(49·호주)는 지난해 12월15일부터 28일 동안 남극을 달리고 걸었다. 영하 20도 혹한, 시속 80㎞가 넘는 강풍을 뚫었다. CNN은 “어거트는 남극지방에서 가장 긴 거리를 달린 기록을 세웠다”고 전했다. 어거트는 “혹독한 환경, 맹렬한 바람, 매서운 추위에다, 발조차 보이지 않을 정도로 시야가 좋지 않았다”며 “정말 힘들었다. 마치 구름 위를 달리는 것 같았다”고 회고했다.어거트는 숙련된 울트라마라토너인 동시에 통증과 지구력 스포츠 사이 관계를 연구하는 ‘통증 과학자’다. 남극 풍경에 매료돼 10개월 동안 도전을 준비했다. 한 컨테이너 회사가 냉동창고에 러닝머신을 설치해줬고 어거트는 주말마다 영하 온도에서 3...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/03/15/news-p.v1.20240315.4c21cf7d620548799c0644c0e7597185_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘육아기 근로시간 단축’ 사용했다고 ‘구내식당 이용 제한’…여전히 심각한 ‘구조적 성차별’]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202403151026001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 08 Mar 2024 07:11:49 GMT</pubDate>
             <content:encoded><![CDATA[“제 성씨를 바꾼다고 하면 아버지가 서운해하실 수 있어요. 하지만 그 속에 감춰져 있는 어머니의 존재를 드러내고, 이상하고 불합리한 제도를 바꿀 수 있다면 저는 기꺼이 특이한 사람이 되겠습니다. 성평등 사회를 만드는데 함께 도와주세요.”(‘엄마 성 빛내기 프로젝트’ 참여자 김정현씨)8일 세계여성의날을 맞아 어머니 성을 쓰고자 하는 40여명이 전국 법원에 성·본 변경을 청구했다. ‘엄마 성 빛내기 프로젝트’ 참여자들은 이날 서울 서초구 서울가정법원 앞에서 기자회견을 열고 “스스로 어머니의 성을 쓰는 사람이 되어 부성 우선주의에 균열을 내고, 아빠 성 만큼이나 엄마 성을 쓰는 것 또한 자연스러운 세상을 만들고자 한다”고 밝혔다.‘엄마 성 빛내기’는 지난해 12월 경향신문 플랫의 ‘입주자 프로젝트’로 시작했다. 어머니의 성·본을 쓰고 싶은 사람들이 모여 성평등을 근거로 법원에 성·본 변경 청구를 하는 프로젝트다. 온라인과 오프라인에서 활발히 진행 상황이 공유되...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/03/08/news-p.v1.20240308.18c0fbe657794bfcacb79e440feee695_P1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금, 2030 여성에게 ‘일은 시민권’이다]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202403080815001</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202403080815001</guid>
-            <pubDate>Fri, 08 Mar 2024 00:45:40 GMT</pubDate>
-            <content:encoded><![CDATA[2015년 처음으로 여성 고용률(50.1%)이 50%를 넘었다. 30대 여성 고용률은 2015년 56.9%에서 2023년 68%로 가파르게 증가했다. 전문가들은 2015년을 어떤 반응이 폭발적으로 늘어나는 ‘티핑 포인트’로 보고 있다. 이때부터 합계출산율(여성 1명이 15~49세에 낳을 것으로 기대하는 평균 출생아 수)이 급격히 하락했는데 2015년 이후의 하락은 ‘이전과 완전히 다른 하락’이라는 것이다. 실제 2015년 1.24명을 기점으로 매년 출산율이 하락해 올해는 0.6명대로 떨어질 것으로 예측되고 있다.2030 여성들이 ‘일’을 선택하고 있다. ‘아이’는 포기했거나 고민 중이다. 이들은 괜찮은 일자리를 얻어 ‘경제적 자립’을 통해 ‘자기만의 방’을 꾸리는 생애계획을 수립하려 한다. 이들의 생애계획에서 ‘가정’은 후순위다. 이미 선배 세대들을 통해 일과 가정을 양립하는 것이 어렵다는 것을 인지한 2030 여성들은 ‘출산 후 경력단절’을 받아들이는 것이 아니라 ‘비혼, ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/03/08/news-p.v1.20240308.42891f037038479799132de73a98dd4b_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
