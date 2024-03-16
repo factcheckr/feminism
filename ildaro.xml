@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Mar 2024 03:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Mar 2024 04:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재일조선인, 부락민, 아이누, 난민…차별당하지 않을 권리를]]></title>
+            <link>https://ildaro.com/9860</link>
+            <guid>https://ildaro.com/9860</guid>
+            <pubDate>Sat, 16 Mar 2024 00:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[2013년의 유행어 대상에 ‘혐오발언(hate speech)’이 올랐고, 2016년에는 ‘혐오발언 해소법’이 만들어졌다. 하지만 처벌 규정이 없어 실효성은 미미하다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024031613243261.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI가 발달한 미래, 우리는 어떤 관계를 맺을까]]></title>
             <link>https://ildaro.com/9859</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 20 Feb 2024 06:15:24 GMT</pubDate>
             <content:encoded><![CDATA[“직장에서 정규-비정규직이 대등하다고 생각하는가?”라는 질문에 “그렇지 않다”가 78.9%, “괴롭힘이나 차별을 받은 적이 있는가?”라는 질문에 68.9%가 “있다”고...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024022042407540.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[After Debuting as a Singer, I Stopped Eating]]></title>
-            <link>https://ildaro.com/9840</link>
-            <guid>https://ildaro.com/9840</guid>
-            <pubDate>Mon, 19 Feb 2024 11:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[Criticisms, like that I was too fat and ugly, blotted out my daily life, and the company’s chief executive even began to show disgust about me eating in front of him....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024021925102318.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
