@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Mar 2024 02:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Mar 2024 03:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/ed6fe2b6-70ef-4cf0-aa06-9f3e9a192690.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[복직 투쟁으로 “사랑을 잃어버린 한국 교회에 전하는 메시지” (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9861</link>
+            <guid>https://ildaro.com/9861</guid>
+            <pubDate>Sun, 17 Mar 2024 10:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[이동환 목사는 “교회 내에서 바른 말을 하는 사람이 적어질수록 사회적인 반인권 행태는 점점 더 거세질 것”이라며 “교회를 바꾸는 일이 세상을 바꾸는 일과 다르...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024031758532292.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[재일조선인, 부락민, 아이누, 난민…차별당하지 않을 권리를 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9860</link>
             <guid>https://ildaro.com/9860</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 22 Feb 2024 09:32:00 GMT</pubDate>
             <content:encoded><![CDATA[10대 때는 ‘어린 여자애’라서 무서운 남자 어른들 틈에서 힘들었고, 20대는 ‘젊은 여자’라서 힘들었고, 지금은 ‘나이 든 여자’라서 힘들다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024022239109736.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“나는 비정규직 공무원” 내일이 없는 삶 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9841</link>
-            <guid>https://ildaro.com/9841</guid>
-            <pubDate>Tue, 20 Feb 2024 06:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[“직장에서 정규-비정규직이 대등하다고 생각하는가?”라는 질문에 “그렇지 않다”가 78.9%, “괴롭힘이나 차별을 받은 적이 있는가?”라는 질문에 68.9%가 “있다”고...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024022042407540.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
