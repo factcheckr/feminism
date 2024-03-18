@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 22:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 23:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/03/12/news-p.v1.20240312.8a0f124f33ac479790e322a44d2decfe_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[1인 가구 위한 경제적 자립 팁 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1671</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1671</guid>
+            <pubDate>Mon, 18 Mar 2024 23:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[요 몇 주 동안 분노하거나, 답답한 뉴스를 많이 보내드렸죠? 이번에는 조금 실용적인 내용으로 돌아왔습니다! 독자 피드백함에 들어오는 요청 중 많은 분들이 여성의 경제적 자립, 재테크, 투자 등을 궁금해하셨어요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/e07413a7-331a-49e1-8989-4f17bf0e9d60.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[배달왔습니다! 당신을 위한🌹 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1661</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1661</guid>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 18 Dec 2023 23:11:58 GMT</pubDate>
             <content:encoded><![CDATA[최근 들어 고개를 어느 쪽으로 돌려도 '출산' '저출생' '인구' 같은 단어만 들리는 거, 저 뿐인가요? 14일 통계청이 발표한 '2022~2072년 장래인구추계' 자료 때문에 아마 관련 보도가 많아졌을텐데요. 저출생의 근본적 해법은 '성평등'이라는 여성과 여성계의 목소리에도 불구하고, 계속해서 헛발질 대책만 이어지고 있는 것이 무척 안타깝습니다.&nbsp;]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/57d7f580-a353-408c-ba6a-10b89fc5cbce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[독자님, 함께 쉬어볼까요? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1550</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1550</guid>
-            <pubDate>Mon, 11 Dec 2023 23:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[지난 뉴스레터가 무척이나 버겁고 힘드셨죠? 그래서 이번 주는 조금 쉬어가는 느낌으로 편안한 내용을 가져와 봤습니다. 가부장제라는 조작된 게임에서 번아웃이 온 여성들이 지속 가능한 삶을 살게 하는 '회복 가이드'를 표방하는 책, '재가 된 여자들(책읽는수요일 발행)'을 소개할게요. 이 책은 제가 추천사를 쓰기도 했는데요. 기존의 유사한 도서들이 사회 구조와 문제를 지적한다면, 이 책은 여성들이 실생활에 적용해 볼 수 있는 다양한 방법을 과학적으로 제시합니다. 책의 모든 내용을 담을 수는 없지만, 책을 전반적으로 알 수 있도록 압축적으로 소개해 볼게요.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/ed6fe2b6-70ef-4cf0-aa06-9f3e9a192690.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[My Uterus, My Decisions (일다 ─ 전체기사)]]></title>
