@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 00:48:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 01:44:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세상을 전쟁터가 아닌 “놀이터”로 만드는 것]]></title>
+            <link>https://ildaro.com/9863</link>
+            <guid>https://ildaro.com/9863</guid>
+            <pubDate>Tue, 19 Mar 2024 09:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[작가는 “좋은 그림을 그리는 것은 진짜로 좋은 거짓말을 하는 것과 같다.”고 한 인터뷰에서 말했다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024031954483974.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[My Uterus, My Decisions]]></title>
             <link>https://ildaro.com/9862</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 24 Feb 2024 12:17:37 GMT</pubDate>
             <content:encoded><![CDATA[최초의 기억은 엄마랑 둘이서 통통배를 타고 부산 근교 가덕도로 가는 길. 하늘도 바다도, 굽이굽이 작은 바위섬의 해안을 따라가는 모든 장면이 눈부셨다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024022407211002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘장애인 이동권’ 노동자와 시민도 연루돼있다]]></title>
-            <link>https://ildaro.com/9843</link>
-            <guid>https://ildaro.com/9843</guid>
-            <pubDate>Fri, 23 Feb 2024 08:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[사람들이 그러더라고요. 이런 사고 나면 유가족은 보상금 받고, 위령탑 같은 걸로 마무리가 되는 거 아니냐, 왜 당신들은 ‘안전한 지하철을 만들어야 한다’는 공적 ...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024022302459672.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
