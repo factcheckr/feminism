@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 01:44:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 02:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나무를 만지고, 모래사장을 기어다니는 경험]]></title>
+            <link>https://ildaro.com/9865</link>
+            <guid>https://ildaro.com/9865</guid>
+            <pubDate>Fri, 22 Mar 2024 10:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[하지만 ‘내가 다 구한다’와 ‘내가 다 망친다’는 두 가지의 인간중심적인 사고를 넘어서 존재하는, 웅웅거리는 지구의 진동이 있습니다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024032257459632.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내가 버린 쓰레기의 생애를 따라가다]]></title>
             <link>https://ildaro.com/9864</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 27 Feb 2024 07:13:07 GMT</pubDate>
             <content:encoded><![CDATA[From the outside, Yongjugol might be seen as just a place that should quickly disappear and have its history covered up. However, the fact that there have been people making their livelihoods here for...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024022732321382.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차별은 디자인된 것이다]]></title>
-            <link>https://ildaro.com/9845</link>
-            <guid>https://ildaro.com/9845</guid>
-            <pubDate>Mon, 26 Feb 2024 11:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘우리 동네에는 안전하고 사람들이 모일만한 공공장소가 없어. 우리 동네에 와줬으면 좋겠어’...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024022623092741.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

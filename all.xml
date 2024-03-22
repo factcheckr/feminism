@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 01:44:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 02:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[‘성폭력 2차 가해 논란’ 민주 강북을 조수진…“국민 눈높이 달랐다”사퇴 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/politics/politics-general/article/202403220954001</link>
             <guid>https://www.khan.co.kr/politics/politics-general/article/202403220954001</guid>
-            <pubDate>Fri, 22 Mar 2024 01:43:03 GMT</pubDate>
+            <pubDate>Fri, 22 Mar 2024 01:42:16 GMT</pubDate>
             <content:encoded><![CDATA[현역 박용진 의원을 꺾고 더불어민주당 경선에서 4·10 총선 강북을 후보로 결정된 조수진 변호사가 22일 후보직을 사퇴한다고 밝혔다. 다수의 성폭력 가해자 변호 과정에서 피해자에 대한 2차 가해 비판이 걷잡을 수 없이 커진 데 따른 것이다.조 변호사는 이날 자신의 페이스북에 올린 글에서 “제가 완주한다면 선거기간 이 논란은 계속될 것”이라며 사퇴 의사를 밝혔다.그는 “저는 변호사로서 언제나 의뢰인을 위해 최선을 다했다”며 “국회의원이 되면 똑같은 자세로 오로지 강북구 주민과 국민을 위해 할 수 있는 모든 일을 다하려고 했다”고 말했다.조 변호사는 “그러나 (제 각오가) 국민께서 바라는 눈높이와 달랐던 것 같다”며 “더 이상의 당에 대한 공격을 멈춰달라”고 했다.이어 “짧은 시간 유례없는 압도적 지지로 성원해 주셨던 당원 여러분께 감사하다”며 “반드시 총선에 승리해 달라”고 덧붙였다.조 변호사의 사퇴는 지난 19일 박 의원과의 경선을 통해 후보로 확정된 지 사흘 만이...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/03/22/news-p.v1.20240321.782dad9c08b74246935c49555b9694ad_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/57d7f580-a353-408c-ba6a-10b89fc5cbce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나무를 만지고, 모래사장을 기어다니는 경험 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9865</link>
+            <guid>https://ildaro.com/9865</guid>
+            <pubDate>Fri, 22 Mar 2024 10:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[하지만 ‘내가 다 구한다’와 ‘내가 다 망친다’는 두 가지의 인간중심적인 사고를 넘어서 존재하는, 웅웅거리는 지구의 진동이 있습니다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024032257459632.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[내가 버린 쓰레기의 생애를 따라가다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9864</link>
             <guid>https://ildaro.com/9864</guid>
@@ -478,14 +486,6 @@
             <pubDate>Tue, 27 Feb 2024 07:13:07 GMT</pubDate>
             <content:encoded><![CDATA[From the outside, Yongjugol might be seen as just a place that should quickly disappear and have its history covered up. However, the fact that there have been people making their livelihoods here for...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024022732321382.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차별은 디자인된 것이다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9845</link>
-            <guid>https://ildaro.com/9845</guid>
-            <pubDate>Mon, 26 Feb 2024 11:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘우리 동네에는 안전하고 사람들이 모일만한 공공장소가 없어. 우리 동네에 와줬으면 좋겠어’...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/2024022623092741.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
