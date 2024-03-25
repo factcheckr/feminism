@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 03:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 04:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[This International Women’s Day, Women Want a Strike, Not Flowers]]></title>
+            <link>https://ildaro.com/9868</link>
+            <guid>https://ildaro.com/9868</guid>
+            <pubDate>Mon, 25 Mar 2024 00:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘If women’s labor disappears, what will happen to the home, to society, to the nation, and to the world?’...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024032506505726.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘2차 피해’, 성폭력만큼이나 큰 고통 겪었다]]></title>
             <link>https://ildaro.com/9867</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 02 Mar 2024 00:46:00 GMT</pubDate>
             <content:encoded><![CDATA[어떤 참가자가 ‘줄 반대쪽에 있는 사람의 무게를 느꼈다. 이 무게를 놓치지 않겠다’라고 말했을 때 울음이 터졌어요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024030251596445.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘여성 대리기사’란 이유로 콜 제외? 성차별 배차 해결해야]]></title>
-            <link>https://ildaro.com/9848</link>
-            <guid>https://ildaro.com/9848</guid>
-            <pubDate>Thu, 29 Feb 2024 11:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[바로 옆에서 핸드폰을 보고 있던 남성 기사들에게 오더가 왔다는 알람 소리와 진동이 울린다. 그러나 여성 대리운전기사에게는 아무것도 안 보이고 안 들린다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202402/202402295208907.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
