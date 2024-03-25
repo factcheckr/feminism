@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 22:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 23:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금지된 책들의 목록]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1680</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1680</guid>
+            <pubDate>Mon, 25 Mar 2024 23:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 '어떤' 청소년 책에 대해 이야기를 해볼까 해요. 이 책의 제목들을 한번 살펴보시겠어요?&nbsp;△ 나도 엄마 배 속에 있었어요? △아빠는 페미니스트 △우리 할머니는 페미니스트 △안녕 내 친구는 페미니즘이야 △여자와 남자는 같아요 △아들 인권선언 △아빠 인권선언 △엄마 인권선언 △딸 인권선언 △안녕, 나의 사춘기 △내 동생이 태어났어 △성 터놓고 얘기해요 △소녀 몸 교과서 △안녕 생리야 △생리와 생명에 관한 이야기 ...&nbsp;]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/9efb3dfa-129e-4121-978f-12008a893edd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1인 가구 위한 경제적 자립 팁]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1671</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 22 Jan 2024 23:12:02 GMT</pubDate>
             <content:encoded><![CDATA[오래간만에 돌아와 본문 주제로 '여성' '기자'로 산다는 것을 가져온 건, 조금 이기적인 선택일까요? 하지만 동료 여성 기자들에 대한 애정을 담아, 더 나아가 우리 사회의 성평등을 이끄는데 여성 기자들의 분투가 분명히 존재했다는 자부심과 존경심으로 이 뉴스레터를 작성해봅니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/2f28694d-5e3e-4aea-82d7-b67ba55580a2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젊은이들 '나혼산' 금지령]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1559</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1559</guid>
-            <pubDate>Mon, 18 Dec 2023 23:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[최근 들어 고개를 어느 쪽으로 돌려도 '출산' '저출생' '인구' 같은 단어만 들리는 거, 저 뿐인가요? 14일 통계청이 발표한 '2022~2072년 장래인구추계' 자료 때문에 아마 관련 보도가 많아졌을텐데요. 저출생의 근본적 해법은 '성평등'이라는 여성과 여성계의 목소리에도 불구하고, 계속해서 헛발질 대책만 이어지고 있는 것이 무척 안타깝습니다.&nbsp;]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/57d7f580-a353-408c-ba6a-10b89fc5cbce.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
