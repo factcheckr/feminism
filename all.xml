@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Mar 2024 04:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 05:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/2f28694d-5e3e-4aea-82d7-b67ba55580a2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[달력, 빵 끈, 채소 묶은 ‘폐철사’로 작업합니다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9871</link>
+            <guid>https://ildaro.com/9871</guid>
+            <pubDate>Fri, 29 Mar 2024 05:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[저는 버려지는 철사를 구하기 어려워서 더는 작업할 수 없길 간절히 바라고 있어요. 그러려면 불필요한 생산, 소비, 폐기를 끝내야겠죠....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024032942437457.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여전히 농담이 아닌 우리들 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9870</link>
             <guid>https://ildaro.com/9870</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 06 Mar 2024 07:11:44 GMT</pubDate>
             <content:encoded><![CDATA[On October 28th of last year, Wonju city forcefully demolished the Wonju Academy Theater, a cultural landmark that had stood since 1963....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024030617468927.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추워도, 더워도, 배고플 때도 그녀들은 춤춘다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9851</link>
-            <guid>https://ildaro.com/9851</guid>
-            <pubDate>Tue, 05 Mar 2024 10:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[눈에 띄게 도움되는 일, 돈이 되는 것을 하면 어떨까 라는 시선이 끊임없이 몰려오고, 그런 것을 하지 않는 것은 ‘제멋대로’라고 여겨져, 낙오되어도 어쩔 수 없다고...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024030520265485.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
