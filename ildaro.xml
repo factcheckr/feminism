@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Mar 2024 12:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Mar 2024 13:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[환대와 공감의 ‘정신장애인 서사’ 따듯하지만 아쉬워]]></title>
+            <link>https://ildaro.com/9872</link>
+            <guid>https://ildaro.com/9872</guid>
+            <pubDate>Sat, 30 Mar 2024 13:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[〈정신병동에도 아침이 와요〉의 가장 큰 미덕이라면, 정신장애를 생물학적으로만 환원하지 않고 사회적이며 문화적이며 개인적인 상황과 맥락이 있는 이야기로 만들...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024033021136130.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[달력, 빵 끈, 채소 묶은 ‘폐철사’로 작업합니다]]></title>
             <link>https://ildaro.com/9871</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Mar 2024 06:15:51 GMT</pubDate>
             <content:encoded><![CDATA[‘변동이 있어서 문제가 생기면 네가 알아서 잘 조절해.’라고 많이 말씀하셨어요.  ‘그건 좀 어려울 것 같아요.’라는 말을 하는 게 제일 어려운 것 같아요.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024031121304529.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Impermanence, Mortality, and Immortality]]></title>
-            <link>https://ildaro.com/9852</link>
-            <guid>https://ildaro.com/9852</guid>
-            <pubDate>Wed, 06 Mar 2024 07:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[On October 28th of last year, Wonju city forcefully demolished the Wonju Academy Theater, a cultural landmark that had stood since 1963....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024030617468927.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
