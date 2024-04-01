@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 03:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 04:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[여성선수에 ‘강제 입맞춤’한 전 스페인축구협회장…징역 2년 6개월 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/world/world-general/article/202404011128001</link>
             <guid>https://www.khan.co.kr/world/world-general/article/202404011128001</guid>
-            <pubDate>Mon, 01 Apr 2024 03:12:37 GMT</pubDate>
+            <pubDate>Mon, 01 Apr 2024 03:11:54 GMT</pubDate>
             <content:encoded><![CDATA[지난해 호주 뉴질랜드 여자 월드컵에서 스페인이 우승했을 때 자국 선수에게 강제로 입맞춤해 물의를 빚은 루이스 루비알레스 전 스페인축구협회 회장에게 징역형이 구형됐다.로이터, AFP 등 외신은 스페인 검찰이 루비알레스에게 성추행 혐의 1년, 강요 혐의 18개월 등 징역 2년 6개월을 구형했다고 27일(현지시간) 일제히 보도했다.루비알레스는 지난해 8월 열린 2023 국제축구연맹(FIFA) 여자 월드컵에서 스페인이 우승한 뒤 스페인 국가대표 헤니페르 에르모소에게 강제로 입맞춤한 혐의를 받는다. 이 행위로 논란이 벌어지자 자신에게 유리하게 말해달라며 에르모소에게 압력을 가한 혐의도 받는다.📌[플랫]월드컵 시상식 ‘강제 입맞춤 사건’이 일으킨 스페인 페미니즘 물결📌[플랫]여성선수에 ‘강제 입맞춤’한 스페인 축구협회장, 결국 사임루비알레스는 키스가 에르모소의 동의를 받은 행동이었다고 주장했으나 에르모소와 동료들은 에르모소가 키스를 원치 않았...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/04/01/news-p.v1.20240401.ebfa65ebaf234f0ab102366f1cafc66f_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/2f28694d-5e3e-4aea-82d7-b67ba55580a2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[성소수자 학생에게 포용적인 학교 환경 만들자 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9873</link>
+            <guid>https://ildaro.com/9873</guid>
+            <pubDate>Mon, 01 Apr 2024 00:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[“성소수자 학생 건강의 핵심 결정 요인은 부모의 수용과 가족 지원입니다. 학생 지원팀, 지도 직원, 지역사회 파트너는 가족과 학생에게 도움이 되는 자원을 제공해야...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024040153176641.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[환대와 공감의 ‘정신장애인 서사’ 따듯하지만 아쉬워 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9872</link>
             <guid>https://ildaro.com/9872</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 08 Mar 2024 07:13:01 GMT</pubDate>
             <content:encoded><![CDATA[“이미 피해 사례가 여럿이고, 피해자들이 어디에 어떻게 말해야 할지 모르겠다는 이야기를 해서, 공동대응위원회를 꾸리게 됐다”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024030849296176.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초단시간 알바는 ‘노동하는 사람’ 아닌가요? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9853</link>
-            <guid>https://ildaro.com/9853</guid>
-            <pubDate>Thu, 07 Mar 2024 06:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[‘변동이 있어서 문제가 생기면 네가 알아서 잘 조절해.’라고 많이 말씀하셨어요.  ‘그건 좀 어려울 것 같아요.’라는 말을 하는 게 제일 어려운 것 같아요.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024031121304529.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 03:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 04:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성소수자 학생에게 포용적인 학교 환경 만들자]]></title>
+            <link>https://ildaro.com/9873</link>
+            <guid>https://ildaro.com/9873</guid>
+            <pubDate>Mon, 01 Apr 2024 00:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[“성소수자 학생 건강의 핵심 결정 요인은 부모의 수용과 가족 지원입니다. 학생 지원팀, 지도 직원, 지역사회 파트너는 가족과 학생에게 도움이 되는 자원을 제공해야...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024040153176641.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[환대와 공감의 ‘정신장애인 서사’ 따듯하지만 아쉬워]]></title>
             <link>https://ildaro.com/9872</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 08 Mar 2024 07:13:01 GMT</pubDate>
             <content:encoded><![CDATA[“이미 피해 사례가 여럿이고, 피해자들이 어디에 어떻게 말해야 할지 모르겠다는 이야기를 해서, 공동대응위원회를 꾸리게 됐다”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024030849296176.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초단시간 알바는 ‘노동하는 사람’ 아닌가요?]]></title>
-            <link>https://ildaro.com/9853</link>
-            <guid>https://ildaro.com/9853</guid>
-            <pubDate>Thu, 07 Mar 2024 06:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[‘변동이 있어서 문제가 생기면 네가 알아서 잘 조절해.’라고 많이 말씀하셨어요.  ‘그건 좀 어려울 것 같아요.’라는 말을 하는 게 제일 어려운 것 같아요.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024031121304529.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
