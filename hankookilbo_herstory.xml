@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 22:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 23:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부처는 페미니스트였을까?]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1689</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1689</guid>
+            <pubDate>Mon, 01 Apr 2024 23:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[사실 문화예술계에서 '페미니즘' 물결이 일어난 것은 익숙한 이야기입니다. 허스펙티브도 그간, 특히 대중문화 프로그램 내에서의 여성의 역할 변화와 여성 서사를 집중해서 들여다 보기도 했죠. '82년생 김지영'이 등장한 이후로 범람하는 페미니즘 문학은 또 어떻고요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/cb19c76b-5234-4d5a-a31c-d408c364ccbb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[금지된 책들의 목록]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1680</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 29 Jan 2024 23:12:53 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 무려 저의 '생활기록부'를 공개하려고 해요. 오늘 나눌 이야기와 저의 생기부 속 과거가 무척 맞닿아 있기 때문이죠. 책 '직업을 때려치운 여자들(직때녀)' 리뷰로 이야기를 나눠볼게요.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/737b694d-d5b0-4502-8347-9ec71ad3bf47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['여성 + 기자'로 사는 법]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1598</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1598</guid>
-            <pubDate>Mon, 22 Jan 2024 23:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[오래간만에 돌아와 본문 주제로 '여성' '기자'로 산다는 것을 가져온 건, 조금 이기적인 선택일까요? 하지만 동료 여성 기자들에 대한 애정을 담아, 더 나아가 우리 사회의 성평등을 이끄는데 여성 기자들의 분투가 분명히 존재했다는 자부심과 존경심으로 이 뉴스레터를 작성해봅니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/2f28694d-5e3e-4aea-82d7-b67ba55580a2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
