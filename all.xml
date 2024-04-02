@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Apr 2024 04:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2024 05:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/737b694d-d5b0-4502-8347-9ec71ad3bf47.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Happiest I’ve Been in My 25 Years (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9874</link>
+            <guid>https://ildaro.com/9874</guid>
+            <pubDate>Tue, 02 Apr 2024 00:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[Once a week, the hand holding the mouse becomes tense. Unlike most days, when I just read the posts on my phone, I swallow nervously and click....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024040209267834.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[성소수자 학생에게 포용적인 학교 환경 만들자 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9873</link>
             <guid>https://ildaro.com/9873</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 09 Mar 2024 10:13:07 GMT</pubDate>
             <content:encoded><![CDATA[두 사람은 태어난 이후로 지금까지 쭉 친구로 지내고 있다. 자기 나이만큼의 시간을 사귄 친구라니, 상상이 잘 안 되는 관계다. 쌍둥이 자매 같은 감각일까....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/202403091000649.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사상검증과 ‘페미 색출’, 전방위로 여성 노동권 침해 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9854</link>
-            <guid>https://ildaro.com/9854</guid>
-            <pubDate>Fri, 08 Mar 2024 07:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[“이미 피해 사례가 여럿이고, 피해자들이 어디에 어떻게 말해야 할지 모르겠다는 이야기를 해서, 공동대응위원회를 꾸리게 됐다”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024030849296176.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
