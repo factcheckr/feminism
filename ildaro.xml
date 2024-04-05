@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 03:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 04:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이주의 시대 생겨난 ‘업무 공백’ 누가 메워야 하는가?]]></title>
+            <link>https://ildaro.com/9877</link>
+            <guid>https://ildaro.com/9877</guid>
+            <pubDate>Fri, 05 Apr 2024 04:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[2월, 3월이 되면 우리 기관은 유치원을 찾는 가정들, 아이를 초등학교에 보내려는 가정들을 돕느라 분주하다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024040515324408.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미래가 있는 정치란, 기후정의와 돌봄사회 공약해야]]></title>
             <link>https://ildaro.com/9876</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 13 Mar 2024 09:13:02 GMT</pubDate>
             <content:encoded><![CDATA[고쳐쓰는 문화가 우리 사회의 기후변화 문제를 조금이라도 다루게 되고, 또 그것으로 인해 또 다른 선한 문화가 되면 좋지 않을까....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024031308181555.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이를 보내고 어른이 됐다, 세월호 참사 이후 10년]]></title>
-            <link>https://ildaro.com/9857</link>
-            <guid>https://ildaro.com/9857</guid>
-            <pubDate>Tue, 12 Mar 2024 10:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[사고가 났던 곳 등은 아무래도 조금 힘들 수 있지만, 공원이 생기면 조금 더 편한 마음으로 갈 수 있다고 봐요. 솔직히 언제까지 ‘아프고 슬프니까 피할래’ 할 수는 ...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/202403122724456.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
