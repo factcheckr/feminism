@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Apr 2024 12:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Apr 2024 13:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/737b694d-d5b0-4502-8347-9ec71ad3bf47.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[미등록 체류 여성 백여명, 수용소에서 ‘항의 행동’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9878</link>
+            <guid>https://ildaro.com/9878</guid>
+            <pubDate>Sat, 06 Apr 2024 13:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[쌓였던 스트레스가 폭발하여 결국 100명 가까운 여성들이 수용소 홀에 모여 “책임자 나와라”, “대화에 응하라!”며 항의했다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024040629183449.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이주의 시대 생겨난 ‘업무 공백’ 누가 메워야 하는가? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9877</link>
             <guid>https://ildaro.com/9877</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 14 Mar 2024 14:11:48 GMT</pubDate>
             <content:encoded><![CDATA[아무리 과학기술이 고도로 발달한 사회이더라도, 진정한 관계를 위해서 필요한 것은 상대의 완성도가 아니라 이 관계를 유지하고자 하는 자신의 의지가 가장 중요하다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/202403143744308.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 고치고 수선하며 살고 싶다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9858</link>
-            <guid>https://ildaro.com/9858</guid>
-            <pubDate>Wed, 13 Mar 2024 09:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[고쳐쓰는 문화가 우리 사회의 기후변화 문제를 조금이라도 다루게 되고, 또 그것으로 인해 또 다른 선한 문화가 되면 좋지 않을까....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024031308181555.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
