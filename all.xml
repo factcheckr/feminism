@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Apr 2024 23:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 00:51:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/737b694d-d5b0-4502-8347-9ec71ad3bf47.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘기후위기 당사자들이 만든 보험’ 가입 후기 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9879</link>
+            <guid>https://ildaro.com/9879</guid>
+            <pubDate>Mon, 08 Apr 2024 08:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[흥미로운 점은 보험료를 돈이 아닌 것으로 지불한다는 점이다. 보험료는 “‘시간’일 수도, ‘정치적 행동’일 수도, ‘함께할 동료’일수도 있”다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024040858274721.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미등록 체류 여성 백여명, 수용소에서 ‘항의 행동’ (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9878</link>
             <guid>https://ildaro.com/9878</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 16 Mar 2024 00:05:00 GMT</pubDate>
             <content:encoded><![CDATA[2013년의 유행어 대상에 ‘혐오발언(hate speech)’이 올랐고, 2016년에는 ‘혐오발언 해소법’이 만들어졌다. 하지만 처벌 규정이 없어 실효성은 미미하다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024031613243261.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI가 발달한 미래, 우리는 어떤 관계를 맺을까 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9859</link>
-            <guid>https://ildaro.com/9859</guid>
-            <pubDate>Thu, 14 Mar 2024 14:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[아무리 과학기술이 고도로 발달한 사회이더라도, 진정한 관계를 위해서 필요한 것은 상대의 완성도가 아니라 이 관계를 유지하고자 하는 자신의 의지가 가장 중요하다...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/202403143744308.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
