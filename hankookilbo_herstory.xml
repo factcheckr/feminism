@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Apr 2024 06:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 07:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4월 10일 당신의 선택]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1698</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1698</guid>
+            <pubDate>Tue, 09 Apr 2024 07:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 뉴스레터는 이 한장으로 짧게 마무리하려고 합니다. 총선을 코 앞에 둔 만큼 긴 말을 하는 것이 필요하지 않을 거라 생각합니다. 오늘 뉴스레터가 제공하는 정보를 통해 숙고하신 후, 각자 소중한 한 표를 꼭 행사하시길 바라겠습니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/42ae19a9-b8aa-4f78-a662-d6ad6da7e10d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부처는 페미니스트였을까?]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1689</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 05 Feb 2024 23:12:27 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 인터뷰 하나를 옮겨오는 것으로 뉴스레터 내용을 갈음하려 해요. 바로 2003년 노벨평화상 수상자인 시린 에바디입니다. 그는 이란 최초의 여성 판사였어요. 1979년 국민이 힘을 합쳐 왕을 내쫓고 새로운 나라를 만든 '이란 이슬람 혁명'에 참여한 인물입니다. 정치적 혁명이자 문화적 혁명이었습니다. 이란 내 모든 시스템이 한순간 뒤집어졌습니다. 여성 인권은 7세기로 돌아갔습니다. 여성은 히잡으로 꽁꽁 싸매졌습니다.&nbsp;]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/ad4a8209-e595-494f-84a5-637fa02d3f64.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저의 생기부를 공개합니다]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1607</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1607</guid>
-            <pubDate>Mon, 29 Jan 2024 23:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 무려 저의 '생활기록부'를 공개하려고 해요. 오늘 나눌 이야기와 저의 생기부 속 과거가 무척 맞닿아 있기 때문이죠. 책 '직업을 때려치운 여자들(직때녀)' 리뷰로 이야기를 나눠볼게요.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/737b694d-d5b0-4502-8347-9ec71ad3bf47.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
