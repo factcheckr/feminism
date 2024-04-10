@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Apr 2024 06:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Apr 2024 07:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I’m Still a Prospective Playwright]]></title>
+            <link>https://ildaro.com/9881</link>
+            <guid>https://ildaro.com/9881</guid>
+            <pubDate>Wed, 10 Apr 2024 07:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[It’s one of those things a person has to do; sometime a person has to go a very long distance out of his way to come back a short distance correctly....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024041056105606.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성폭력 피해자가 용서를 이야기할 때]]></title>
             <link>https://ildaro.com/9880</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 18 Mar 2024 07:13:06 GMT</pubDate>
             <content:encoded><![CDATA[“Women are not machines that give birth, they have the right to a complete set of choices over their bodies.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024031817506448.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[복직 투쟁으로 “사랑을 잃어버린 한국 교회에 전하는 메시지”]]></title>
-            <link>https://ildaro.com/9861</link>
-            <guid>https://ildaro.com/9861</guid>
-            <pubDate>Sun, 17 Mar 2024 10:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[이동환 목사는 “교회 내에서 바른 말을 하는 사람이 적어질수록 사회적인 반인권 행태는 점점 더 거세질 것”이라며 “교회를 바꾸는 일이 세상을 바꾸는 일과 다르...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024031758532292.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
