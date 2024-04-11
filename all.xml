@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 03:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 04:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/ad4a8209-e595-494f-84a5-637fa02d3f64.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[돌들이 마침내 말한다면, 그 이야기 들어볼래요? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9882</link>
+            <guid>https://ildaro.com/9882</guid>
+            <pubDate>Thu, 11 Apr 2024 09:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[제주 4.3사건을 겪은 다섯 여성의 증언을 담은 다큐멘터리 영화 〈돌들이 말할 때까지〉(김경만 감독)가 4월 17일 개봉한다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024041145099640.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[I’m Still a Prospective Playwright (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9881</link>
             <guid>https://ildaro.com/9881</guid>
@@ -478,14 +486,6 @@
             <pubDate>Tue, 19 Mar 2024 09:50:00 GMT</pubDate>
             <content:encoded><![CDATA[작가는 “좋은 그림을 그리는 것은 진짜로 좋은 거짓말을 하는 것과 같다.”고 한 인터뷰에서 말했다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024031954483974.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[My Uterus, My Decisions (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9862</link>
-            <guid>https://ildaro.com/9862</guid>
-            <pubDate>Mon, 18 Mar 2024 07:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[“Women are not machines that give birth, they have the right to a complete set of choices over their bodies.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024031817506448.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
