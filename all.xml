@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Apr 2024 05:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Apr 2024 06:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/ad4a8209-e595-494f-84a5-637fa02d3f64.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“혼인평등은 헌법적 권리” (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9883</link>
+            <guid>https://ildaro.com/9883</guid>
+            <pubDate>Fri, 12 Apr 2024 06:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[혼인평등 캠페인을 펼치며, 바로 옆 나라에서 5년째 진행 중인 “모두에게 결혼의 자유를”(Marriage for ALL) 소송 운동의 경험이 점점 더 궁금해졌다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024041218577343.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[돌들이 마침내 말한다면, 그 이야기 들어볼래요? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9882</link>
             <guid>https://ildaro.com/9882</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 20 Mar 2024 11:17:00 GMT</pubDate>
             <content:encoded><![CDATA[“재활용 쓰레기에 음식물을 함께 버리면 악취 뿐만 아니라 곰팡이 등의 문제가 발생해, 지금은 그래도 좀 낫지만 여름엔 일하기 힘들다."...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024032033117121.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세상을 전쟁터가 아닌 “놀이터”로 만드는 것 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9863</link>
-            <guid>https://ildaro.com/9863</guid>
-            <pubDate>Tue, 19 Mar 2024 09:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[작가는 “좋은 그림을 그리는 것은 진짜로 좋은 거짓말을 하는 것과 같다.”고 한 인터뷰에서 말했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024031954483974.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
