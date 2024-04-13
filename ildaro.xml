@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Apr 2024 11:09:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Apr 2024 12:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“그 엄청난 집에 가 보겠네요!” 과연 엄청났다]]></title>
+            <link>https://ildaro.com/9884</link>
+            <guid>https://ildaro.com/9884</guid>
+            <pubDate>Sat, 13 Apr 2024 12:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[이고코치는 장소(地)보다 마음(心)에 따라 정해진다. 마음의 자리가 자주 흔들리는 만큼, 보이지 않는 뿌리를 기억해야 한다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024041339094949.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“혼인평등은 헌법적 권리”]]></title>
             <link>https://ildaro.com/9883</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 22 Mar 2024 10:44:00 GMT</pubDate>
             <content:encoded><![CDATA[하지만 ‘내가 다 구한다’와 ‘내가 다 망친다’는 두 가지의 인간중심적인 사고를 넘어서 존재하는, 웅웅거리는 지구의 진동이 있습니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024032257459632.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 버린 쓰레기의 생애를 따라가다]]></title>
-            <link>https://ildaro.com/9864</link>
-            <guid>https://ildaro.com/9864</guid>
-            <pubDate>Wed, 20 Mar 2024 11:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[“재활용 쓰레기에 음식물을 함께 버리면 악취 뿐만 아니라 곰팡이 등의 문제가 발생해, 지금은 그래도 좀 낫지만 여름엔 일하기 힘들다."...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024032033117121.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
