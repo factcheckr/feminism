@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Apr 2024 07:54:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Apr 2024 10:39:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기후우울, 제대로 들여다보아야 하는 이유]]></title>
+            <link>https://ildaro.com/9885</link>
+            <guid>https://ildaro.com/9885</guid>
+            <pubDate>Sun, 14 Apr 2024 10:39:54 GMT</pubDate>
+            <content:encoded><![CDATA[사실 우울한 것만은 아니죠. 거기에는 정말 많은 감정이 있어요. 화가 나기도 하죠. 이런 문제에 무관심한 사람들과 제도와 정치에 화가 나고요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024041422057274.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“그 엄청난 집에 가 보겠네요!” 과연 엄청났다]]></title>
             <link>https://ildaro.com/9884</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 23 Mar 2024 09:12:08 GMT</pubDate>
             <content:encoded><![CDATA[아리타는 90% 주민이 도자기 관련 일을 하는 마을이다. 도자기를 빚는 사람, 굽는 사람, 그림 그리는 사람, 파는 사람 등 분업이 철저해, 예술가보다는 직업인에 가깝다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024032329197720.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나무를 만지고, 모래사장을 기어다니는 경험]]></title>
-            <link>https://ildaro.com/9865</link>
-            <guid>https://ildaro.com/9865</guid>
-            <pubDate>Fri, 22 Mar 2024 10:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[하지만 ‘내가 다 구한다’와 ‘내가 다 망친다’는 두 가지의 인간중심적인 사고를 넘어서 존재하는, 웅웅거리는 지구의 진동이 있습니다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024032257459632.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
