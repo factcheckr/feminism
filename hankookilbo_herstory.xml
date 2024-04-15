@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 22:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Apr 2024 23:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[처음으로 '20%'를 돌파했다]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1708</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1708</guid>
+            <pubDate>Mon, 15 Apr 2024 23:11:49 GMT</pubDate>
+            <content:encoded><![CDATA['60'이라는 숫자를 외워 두시면 좋을 것 같습니다. 혹은 '20'이라는 숫자도 괜찮겠습니다. 22대 총선 결과 여성 당선인 수와 그 비율을 나타내는 숫자입니다. 이번 선거,&nbsp; 지역구와 비례대표를 포함한 여성 당선자 수는 60명입니다. 드디어, 전체 의원의 5분의 1이 여성으로 채워진 겁니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/7e28b64f-28e7-426d-bd7c-0adc4fac3d9f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4월 10일 당신의 선택]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1698</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 12 Feb 2024 23:12:10 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 인터뷰 한 편을 갖고 왔습니다. 어느 날 유튜브 알고리즘을 통해 최재천 이화여대 석좌교수의 영상 하나를 발견했어요. "대한민국 사회에서 아이를 낳는 사람은 바보"라는 섬네일을 보고 화들짝 놀랐죠. '아니, 이런 말을 공개적으로 해도 되는 건가' 싶었죠. 영상을 클릭하는 순간 더 놀랄 말들이 쏟아집니다. "아이를 낳아서 기른다는 건 아무리 계산을 해봐도 결코 현명한 일이 아니다" "아이 낳는 사람은 IQ 두 자리다" 등등.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/8ab9f5de-bae1-403f-b4f2-4e6df24f8780.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노벨평화상 수상자와의 대화]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1615</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1615</guid>
-            <pubDate>Mon, 05 Feb 2024 23:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 인터뷰 하나를 옮겨오는 것으로 뉴스레터 내용을 갈음하려 해요. 바로 2003년 노벨평화상 수상자인 시린 에바디입니다. 그는 이란 최초의 여성 판사였어요. 1979년 국민이 힘을 합쳐 왕을 내쫓고 새로운 나라를 만든 '이란 이슬람 혁명'에 참여한 인물입니다. 정치적 혁명이자 문화적 혁명이었습니다. 이란 내 모든 시스템이 한순간 뒤집어졌습니다. 여성 인권은 7세기로 돌아갔습니다. 여성은 히잡으로 꽁꽁 싸매졌습니다.&nbsp;]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/ad4a8209-e595-494f-84a5-637fa02d3f64.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
