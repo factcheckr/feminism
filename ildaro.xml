@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 23:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 00:48:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세월호가 묻다, 우리를 기억하고 있나요?]]></title>
+            <link>https://ildaro.com/9886</link>
+            <guid>https://ildaro.com/9886</guid>
+            <pubDate>Tue, 16 Apr 2024 08:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[“단 하나의 원인이라도 제거되었다면 나는 바닷속으로 가라앉지 않았을 텐데…….” 『세월 1994-2014』는 세월호의 일생을 배의 시점에서 그려냈다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024041658252458.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기후우울, 제대로 들여다보아야 하는 이유]]></title>
             <link>https://ildaro.com/9885</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 24 Mar 2024 10:12:11 GMT</pubDate>
             <content:encoded><![CDATA[“성실하게 환자 곁을 지켜온 사목이 억울한 죄를 뒤집어썼다” 등, A목사가 마치 피해자인 듯한 내용을 SNS에서 퍼트렸다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024032423506452.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“아무것도 없을 거”라던 아리타에 있는 네 가지]]></title>
-            <link>https://ildaro.com/9866</link>
-            <guid>https://ildaro.com/9866</guid>
-            <pubDate>Sat, 23 Mar 2024 09:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[아리타는 90% 주민이 도자기 관련 일을 하는 마을이다. 도자기를 빚는 사람, 굽는 사람, 그림 그리는 사람, 파는 사람 등 분업이 철저해, 예술가보다는 직업인에 가깝다...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024032329197720.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
