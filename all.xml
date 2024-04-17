@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Apr 2024 23:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Apr 2024 00:49:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/8ab9f5de-bae1-403f-b4f2-4e6df24f8780.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한국도 ‘혼인평등의 길’ 한걸음씩 내디디면 된다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9887</link>
+            <guid>https://ildaro.com/9887</guid>
+            <pubDate>Wed, 17 Apr 2024 09:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[조이스 대표는 “혼인평등법이 통과된 후 사회가 점점 우호적으로 바뀌고 있다는 걸 느끼고 있다.”고 했다. 성소수자 자녀를 둔 부모의 경우의 반응도 마찬가지다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024041714558569.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[세월호가 묻다, 우리를 기억하고 있나요? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9886</link>
             <guid>https://ildaro.com/9886</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 25 Mar 2024 00:55:00 GMT</pubDate>
             <content:encoded><![CDATA[‘If women’s labor disappears, what will happen to the home, to society, to the nation, and to the world?’...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024032506505726.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘2차 피해’, 성폭력만큼이나 큰 고통 겪었다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9867</link>
-            <guid>https://ildaro.com/9867</guid>
-            <pubDate>Sun, 24 Mar 2024 10:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[“성실하게 환자 곁을 지켜온 사목이 억울한 죄를 뒤집어썼다” 등, A목사가 마치 피해자인 듯한 내용을 SNS에서 퍼트렸다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024032423506452.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
