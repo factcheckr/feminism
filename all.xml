@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Apr 2024 11:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Apr 2024 12:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/8ab9f5de-bae1-403f-b4f2-4e6df24f8780.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Can We Date as Equals? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9888</link>
+            <guid>https://ildaro.com/9888</guid>
+            <pubDate>Thu, 18 Apr 2024 12:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[He was six years older than me, my first boyfriend. When we first got together, I dreamt of the romantic love that I had seen in the media....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024041820292652.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한국도 ‘혼인평등의 길’ 한걸음씩 내디디면 된다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9887</link>
             <guid>https://ildaro.com/9887</guid>
@@ -478,14 +486,6 @@
             <pubDate>Tue, 26 Mar 2024 10:25:00 GMT</pubDate>
             <content:encoded><![CDATA[더이상 포기하지 않고 살았으면 좋겠어요. 내가 원하는 대로 살 수 있는 세상을 만들고 싶어요. 그걸 위해서 변희수재단에서 할 수 있는 일들을 해나갈 거고요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024032634019799.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[This International Women’s Day, Women Want a Strike, Not Flowers (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9868</link>
-            <guid>https://ildaro.com/9868</guid>
-            <pubDate>Mon, 25 Mar 2024 00:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘If women’s labor disappears, what will happen to the home, to society, to the nation, and to the world?’...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024032506505726.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
