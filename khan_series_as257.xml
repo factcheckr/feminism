@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Apr 2024 05:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Apr 2024 06:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“가사노동은 아내가”…3년 전보다 늘어난 여성의 가사노동]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202404181456001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202404181456001</guid>
+            <pubDate>Thu, 18 Apr 2024 06:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[가사노동과 자녀 돌봄 등을 부부가 동등하게 분담하는 비율이 예전보다 늘었지만, 여전히 아내 부담이 훨씬 큰 것으로 나타났다. 가사노동의 경우 30대를 제외하면 3년 전에 비해 여성 분담률이 오히려 더 커졌다.여성가족부가 17일 공개한 2023년 가족실태조사 결과를 보면, 12세 미만 자녀 돌봄을 9개 항목으로 나눠 물었더니 자녀 학습관리(17.3%→26.9%), 함께 놀아주기(32.7%→44.8%), 훈육(40.5%→58.8%) 등에서 ‘남편과 아내가 똑같이’ 비율이 3년 전에 비해 늘었다.여전히 식사·취침·외출 준비·위생관리 등 일상생활 돌봄이나 학교, 보육시설 등의 준비물 챙기기 등은 아내가 하는 비중이 80%에 가까웠다. 자녀의 일상생활 돌봄을 ‘아내가’ 하는 비율은 지난해 78.3%로 집계됐다. 3년 전인 2020년(77.3%)과도 큰 차이가 없었다. ‘남편과 아내가 똑같이’ 자녀의 일상생활 돌봄을 분담한다는 비율은 2020년 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/04/18/news-p.v1.20240418.0db775609d81420d8d8c48c0c0644a5b_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경기 중 여성 심판 밀친 전남 김용환 ‘상벌위 회부’ 검토된다]]></title>
             <link>https://www.khan.co.kr/sports/sports-general/article/202404181037011</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 12 Apr 2024 01:46:22 GMT</pubDate>
             <content:encoded><![CDATA[20대 여성 박모씨(25)는 온라인 쇼핑몰에서 옷을 고를 때마다 고민이다. 여성복은 단일 치수인 ‘프리사이즈’로만 판매하는 경우가 많은데 옷 크기를 짐작하기 어렵고 대체로 작기 때문이다. 최근 몸무게를 감량한 20대 여성 송모씨는 “살 빼기 전에는 프리사이즈는 그냥 걸러야 했다”며 “살 빼고 이제는 맞겠지 싶어 프리사이즈를 샀는데 여전히 작아서 못 입고 있다”고 말했다.8일 경향신문 데이터저널리즘팀 다이브가 대표적인 의류 온라인 쇼핑몰인 무신사와 29CM에서 최근 올라온 여성복 4만5678개의 상품 데이터를 수집해 분석한 결과 전체의 39%(1만7835개)가 프리사이즈로 판매되고 있었다. 5개 중 2개가 프리사이즈인 셈이다. 남성복이 4만4939개 중 6.8%(3034개)만 프리사이즈인 것과 비교해 보면 여성복의 프리사이즈 판매가 두드러진 편이다. 여성복은 사이즈 숫자 자체도 적었다. 남성복은 의복 한 벌당 평균 3.3종의 사이즈를 갖고 있는 반면, 여성복은 사이즈가 한 벌...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/04/12/news-p.v1.20240411.dc7d40b933ae443da2da86ada49aaa19_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아직도 여성에겐 ‘첫’ 수식어…15%도 안되는 ‘여성 지역구 국회의원’]]></title>
-            <link>https://www.khan.co.kr/politics/assembly/article/202404111733011</link>
-            <guid>https://www.khan.co.kr/politics/assembly/article/202404111733011</guid>
-            <pubDate>Thu, 11 Apr 2024 09:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[4·10 총선 지역구 여성 당선인은 총 36명이다. 역대 총선 중 최다 기록이지만 전체 지역구 당선인 중 15%도 되지 않는다. 대전에선 ‘첫 여성 지역구 국회의원’이 나왔다. 민주화 이후 10번째 총선에서 아직도 여성 의원에겐 ‘첫’ 수식어가 붙는다.이번 선거에서 더불어민주당이 24명, 국민의힘이 12명의 지역구 여성 당선인을 배출했다. 각각 1석씩 지역구 의석을 가져간 새로운미래·개혁신당·진보당 당선인은 모두 남성이다.민주당에선 대전 첫 여성 지역구 국회의원 2명이 나란히 탄생했다. 황정아 당선인은 대전 유성을에서 5선 이상민 국민의힘 후보를 꺾었다. 황 당선인은 카이스트 출신 우주과학 전문가로 드라마 &lt;카이스트&gt; 주인공의 실제 모델이다. 대덕연구단지를 품은 지역구에서 윤석열 정부의 연구·개발(R&amp;D) 예산 삭감을 비판하며 여성 과학자 출신 후보로 활약했다. 박정현 당선인은 대전 대덕을에서 현역 박영순 새로운미래 후보를 이겼다. 전남 순천광양곡성구례에...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/04/11/news-p.v1.20240412.22e4f270666e4a1094715f6efd2b5b69_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
