@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Apr 2024 04:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Apr 2024 05:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삿포로 ‘혼인평등 판결’이 한국사회에 던지는 질문]]></title>
+            <link>https://ildaro.com/9890</link>
+            <guid>https://ildaro.com/9890</guid>
+            <pubDate>Sun, 21 Apr 2024 05:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[국제면 기사를 통해 알게 되는 이 소식을 통해서는 이면에 수많은 노력과 손에 잡히는 변화를 다 담지는 못한다. 10여년 동안 일본 사회가 어떻게 차근차근 한발씩 나아...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024042133082943.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“그때 당신은 무얼 입고 있었나?” 강간 신화 깨다]]></title>
             <link>https://ildaro.com/9889</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 29 Mar 2024 05:12:27 GMT</pubDate>
             <content:encoded><![CDATA[저는 버려지는 철사를 구하기 어려워서 더는 작업할 수 없길 간절히 바라고 있어요. 그러려면 불필요한 생산, 소비, 폐기를 끝내야겠죠....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024032942437457.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여전히 농담이 아닌 우리들]]></title>
-            <link>https://ildaro.com/9870</link>
-            <guid>https://ildaro.com/9870</guid>
-            <pubDate>Wed, 27 Mar 2024 10:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[내가 퀴어인 것이 두려운 게 아니었다.아무도 내 이야기를 말하지 않는, 들어주지 않는 그런 세상이 두려웠다.어른이 곁에 좀 있어줬으면 좋겠다고 생각했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024032735343521.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
