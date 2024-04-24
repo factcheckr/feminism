@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Apr 2024 02:22:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Apr 2024 03:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[성추행, 폭언으로 생긴 요양보호사의 ‘우울증’…서울시사회서비스원 첫 ‘산재’ 인정 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202404241110001</link>
             <guid>https://www.khan.co.kr/national/national-general/article/202404241110001</guid>
-            <pubDate>Wed, 24 Apr 2024 02:21:54 GMT</pubDate>
+            <pubDate>Wed, 24 Apr 2024 02:21:13 GMT</pubDate>
             <content:encoded><![CDATA[서울시사회서비스원(서사원) 요양보호사가 근무 과정에서 겪은 성추행과 폭언 등으로 발현한 우울증이 산업재해 인정을 받았다. 2019년 서사원이 문을 연 후 감정노동 등에 따른 정신질환으로 산재 승인을 받은 것은 이번이 처음이다.서사원 노조 측은 공공돌봄을 위해 열악한 처우를 견디는 이들이 많지만 사측이 재발 방지 대책을 마련하기는커녕 예산 삭감과 기관 폐지 논의에 휘둘려 서비스의 질을 떨어뜨린다고 반발하고 있다. 서울시의회는 오는 25일 임시회에서 서사원 폐지와 관련 조례안을 논의한다.23일 경향신문 취재를 종합하면, 서사원 산하 돌봄센터 소속 40대 여성 요양보호사 A씨는 지난해 8월 근무 중 서비스 이용자의 가족으로부터 성추행을 당했다. 사건 전후로 이용자에게 폭언과 폭행을 당한 사례도 있어 이 같은 사실을 센터에 보고했지만, 근무지 변경이나 심리상담 등 관련 조치는 즉각 이뤄지지 않았다.A씨는 오히려 센터로부터 자신이 제대로 근무하지 않았다는 지적을 받았다고 했다...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/04/24/news-p.v1.20240424.0c8cda24e3974ca1a1c9a65e5dc587f2_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/8ab9f5de-bae1-403f-b4f2-4e6df24f8780.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[기후정의는 젠더정의다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9892</link>
+            <guid>https://ildaro.com/9892</guid>
+            <pubDate>Wed, 24 Apr 2024 11:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[특정 성에게 피해가 더욱 치중되고, 특정 성의 경험이 비가시화되고, 특정 성의 정치적인 의사결정권이 배제되는 사회에서 ‘기후정의’는 이루어질 수 없습니다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024042443039941.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[내 삶을 끈질기게 차지하고 있는 그녀들 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9891</link>
             <guid>https://ildaro.com/9891</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 01 Apr 2024 00:46:00 GMT</pubDate>
             <content:encoded><![CDATA[“성소수자 학생 건강의 핵심 결정 요인은 부모의 수용과 가족 지원입니다. 학생 지원팀, 지도 직원, 지역사회 파트너는 가족과 학생에게 도움이 되는 자원을 제공해야...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024040153176641.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환대와 공감의 ‘정신장애인 서사’ 따듯하지만 아쉬워 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9872</link>
-            <guid>https://ildaro.com/9872</guid>
-            <pubDate>Sat, 30 Mar 2024 13:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[〈정신병동에도 아침이 와요〉의 가장 큰 미덕이라면, 정신장애를 생물학적으로만 환원하지 않고 사회적이며 문화적이며 개인적인 상황과 맥락이 있는 이야기로 만들...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202403/2024033021136130.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
