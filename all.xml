@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Apr 2024 09:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 10:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/8ab9f5de-bae1-403f-b4f2-4e6df24f8780.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[모은과 진우가 서로에게 계속 질문할 수 있다면 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9893</link>
+            <guid>https://ildaro.com/9893</guid>
+            <pubDate>Thu, 25 Apr 2024 10:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[지난 겨울, 나는 그저 나만큼 소심하고 딱히 멋질 것도 없는 모은과 진우를 만나서 좋았고, 헤어질 땐 다시 못 볼 사람을 배웅하듯 울적했다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024042544019801.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기후정의는 젠더정의다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9892</link>
             <guid>https://ildaro.com/9892</guid>
@@ -478,14 +486,6 @@
             <pubDate>Tue, 02 Apr 2024 00:05:00 GMT</pubDate>
             <content:encoded><![CDATA[Once a week, the hand holding the mouse becomes tense. Unlike most days, when I just read the posts on my phone, I swallow nervously and click....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024040209267834.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성소수자 학생에게 포용적인 학교 환경 만들자 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9873</link>
-            <guid>https://ildaro.com/9873</guid>
-            <pubDate>Mon, 01 Apr 2024 00:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[“성소수자 학생 건강의 핵심 결정 요인은 부모의 수용과 가족 지원입니다. 학생 지원팀, 지도 직원, 지역사회 파트너는 가족과 학생에게 도움이 되는 자원을 제공해야...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024040153176641.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
