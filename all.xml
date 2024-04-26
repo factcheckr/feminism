@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Apr 2024 02:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 03:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/8ab9f5de-bae1-403f-b4f2-4e6df24f8780.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[I’m a Peer Counselor for People with Disabilities (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9894</link>
+            <guid>https://ildaro.com/9894</guid>
+            <pubDate>Fri, 26 Apr 2024 10:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[The double discrimination and exclusion for being not only a PWD but a woman, the financial difficulties this causes, and so on....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024042656454652.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[모은과 진우가 서로에게 계속 질문할 수 있다면 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9893</link>
             <guid>https://ildaro.com/9893</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 03 Apr 2024 09:22:00 GMT</pubDate>
             <content:encoded><![CDATA[그럼에도 불구하고, 대한민국 정치는 과거가 아니라 미래로 나아가야 하기 때문이고요. 그럼에도 불구하고, 누군가는 원칙을 지키는 정치를 해야 하기 때문입니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024040335325906.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Happiest I’ve Been in My 25 Years (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9874</link>
-            <guid>https://ildaro.com/9874</guid>
-            <pubDate>Tue, 02 Apr 2024 00:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[Once a week, the hand holding the mouse becomes tense. Unlike most days, when I just read the posts on my phone, I swallow nervously and click....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024040209267834.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
