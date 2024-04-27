@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Apr 2024 23:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Apr 2024 00:48:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[학교에선 급식도 아리타 도자기에 담아 줬어]]></title>
+            <link>https://ildaro.com/9895</link>
+            <guid>https://ildaro.com/9895</guid>
+            <pubDate>Sat, 27 Apr 2024 09:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[가장 인상적인 것은 ‘모따이나이(もたいない, 아깝다)’ 정신이었다. 깨진 야키모노를 바닥  장식으로 사용하고, 수명이 다한 가마의 벽돌을 마을 담장으로 재사용했...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024042739372316.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[I’m a Peer Counselor for People with Disabilities]]></title>
             <link>https://ildaro.com/9894</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 04 Apr 2024 09:23:00 GMT</pubDate>
             <content:encoded><![CDATA[이 선거의 과정을 통해 우리가 우리도 모르게 포기했던 ‘정치를 통해 세상을 바꿀 수 있다’는 꿈과 희망을 되살려내는 일인 거 같아요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024040436403598.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘여성’ ‘청년’ 정치인을 바라보는 낡은 관점에 도전한다]]></title>
-            <link>https://ildaro.com/9875</link>
-            <guid>https://ildaro.com/9875</guid>
-            <pubDate>Wed, 03 Apr 2024 09:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[그럼에도 불구하고, 대한민국 정치는 과거가 아니라 미래로 나아가야 하기 때문이고요. 그럼에도 불구하고, 누군가는 원칙을 지키는 정치를 해야 하기 때문입니다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024040335325906.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
