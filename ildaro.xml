@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Apr 2024 10:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Apr 2024 11:10:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수백명 피해자 나오도록 ‘방관’…대형기획사 대표 성폭력]]></title>
+            <link>https://ildaro.com/9896</link>
+            <guid>https://ildaro.com/9896</guid>
+            <pubDate>Sun, 28 Apr 2024 11:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[“사과를 받은들, 뭘 받은들 상처는 낫지 않는다. 나을 수 없는 것을 낫게 해달라는 말이 아니다. 이 일을 뛰어넘어 앞으로 나아갈 수 있는 정의가 필요하다.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024042849521470.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[학교에선 급식도 아리타 도자기에 담아 줬어]]></title>
             <link>https://ildaro.com/9895</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 27 Apr 2024 07:10:47 GMT</pubDate>
             <content:encoded><![CDATA[2월, 3월이 되면 우리 기관은 유치원을 찾는 가정들, 아이를 초등학교에 보내려는 가정들을 돕느라 분주하다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024040515324408.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미래가 있는 정치란, 기후정의와 돌봄사회 공약해야]]></title>
-            <link>https://ildaro.com/9876</link>
-            <guid>https://ildaro.com/9876</guid>
-            <pubDate>Thu, 04 Apr 2024 09:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[이 선거의 과정을 통해 우리가 우리도 모르게 포기했던 ‘정치를 통해 세상을 바꿀 수 있다’는 꿈과 희망을 되살려내는 일인 거 같아요....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024040436403598.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
