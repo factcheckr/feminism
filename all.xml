@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Apr 2024 03:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Apr 2024 04:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/871d44b8-f7cc-4c01-aa16-c7249ba5022b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우리를 중독으로 이끄는 것과 거리 두기 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9897</link>
+            <guid>https://ildaro.com/9897</guid>
+            <pubDate>Tue, 30 Apr 2024 10:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[나의 중독의 역사는 길다. 중학교 땐 리듬게임에 중독되어 새벽까지 게임을 했고, 대학교 땐 술과 담배 없인 살 수 없었다. 잔뜩 취해 이성을 잃어야만 시간이 흐르는 ...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024043049059228.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[수백명 피해자 나오도록 ‘방관’…대형기획사 대표 성폭력 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9896</link>
             <guid>https://ildaro.com/9896</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 27 Apr 2024 07:10:47 GMT</pubDate>
             <content:encoded><![CDATA[쌓였던 스트레스가 폭발하여 결국 100명 가까운 여성들이 수용소 홀에 모여 “책임자 나와라”, “대화에 응하라!”며 항의했다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024040629183449.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이주의 시대 생겨난 ‘업무 공백’ 누가 메워야 하는가? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9877</link>
-            <guid>https://ildaro.com/9877</guid>
-            <pubDate>Sat, 27 Apr 2024 07:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[2월, 3월이 되면 우리 기관은 유치원을 찾는 가정들, 아이를 초등학교에 보내려는 가정들을 돕느라 분주하다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024040515324408.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
