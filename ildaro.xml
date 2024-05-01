@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 May 2024 10:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 May 2024 11:10:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아동학대 주목해도, ‘구조적 폭력’은 간과하는 사회]]></title>
+            <link>https://ildaro.com/9898</link>
+            <guid>https://ildaro.com/9898</guid>
+            <pubDate>Wed, 01 May 2024 11:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[아동인권에 관심이 있는 사람이라면 ‘아동 최선의 이익’이란 문구를 들어봤을 것이다. 유엔아동권리협약에 나오는 이 표현은 아동인권과 관련한 핵심적인 원칙이다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024050125183532.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리를 중독으로 이끄는 것과 거리 두기]]></title>
             <link>https://ildaro.com/9897</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 08 Apr 2024 08:44:00 GMT</pubDate>
             <content:encoded><![CDATA[흥미로운 점은 보험료를 돈이 아닌 것으로 지불한다는 점이다. 보험료는 “‘시간’일 수도, ‘정치적 행동’일 수도, ‘함께할 동료’일수도 있”다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024040858274721.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미등록 체류 여성 백여명, 수용소에서 ‘항의 행동’]]></title>
-            <link>https://ildaro.com/9878</link>
-            <guid>https://ildaro.com/9878</guid>
-            <pubDate>Sat, 27 Apr 2024 07:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[쌓였던 스트레스가 폭발하여 결국 100명 가까운 여성들이 수용소 홀에 모여 “책임자 나와라”, “대화에 응하라!”며 항의했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024040629183449.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
