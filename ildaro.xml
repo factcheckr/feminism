@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 May 2024 01:55:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 02:25:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성폭력 역고소 범람…가해자 변론 시장 형성돼있어]]></title>
+            <link>https://ildaro.com/9899</link>
+            <guid>https://ildaro.com/9899</guid>
+            <pubDate>Fri, 03 May 2024 08:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[미투 운동 이후 피해자들의 인식과 태도가 변화되어 고소/공론화 사례가 많아졌고, 이를 두려워하는 가해자도 늘어났다. 하지만, 사죄로 이어지는게 아니라 오히려 역...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024050305126625.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아동학대 주목해도, ‘구조적 폭력’은 간과하는 사회]]></title>
             <link>https://ildaro.com/9898</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 02 May 2024 06:16:37 GMT</pubDate>
             <content:encoded><![CDATA[나는 용서라는 것을 한 번 해보고 싶어 『용서의 나라』라는 책을 읽기 시작했다. 저자 한 명은 성폭력 피해자, 다른 한 명은 다름 아닌 그 성폭력 사건의 가해자이다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024040935041005.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘기후위기 당사자들이 만든 보험’ 가입 후기]]></title>
-            <link>https://ildaro.com/9879</link>
-            <guid>https://ildaro.com/9879</guid>
-            <pubDate>Mon, 08 Apr 2024 08:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[흥미로운 점은 보험료를 돈이 아닌 것으로 지불한다는 점이다. 보험료는 “‘시간’일 수도, ‘정치적 행동’일 수도, ‘함께할 동료’일수도 있”다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024040858274721.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
