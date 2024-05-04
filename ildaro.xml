@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 May 2024 02:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 May 2024 03:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[A struggle for reinstatement and the ‘message it sends to a Korean church that has lost its love’]]></title>
+            <link>https://ildaro.com/9900</link>
+            <guid>https://ildaro.com/9900</guid>
+            <pubDate>Sat, 04 May 2024 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[In December of last year, the Vatican's Dicastery for the Doctrine of the Faith issued a declaration called “Supplicating Trust” and allowed Catholic priests to bless same-sex couples. Pope Francis also said, “God ...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024050408587124.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성폭력 역고소 범람…가해자 변론 시장 형성돼있어]]></title>
             <link>https://ildaro.com/9899</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 02 May 2024 06:16:37 GMT</pubDate>
             <content:encoded><![CDATA[It’s one of those things a person has to do; sometime a person has to go a very long distance out of his way to come back a short distance correctly....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024041056105606.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성폭력 피해자가 용서를 이야기할 때]]></title>
-            <link>https://ildaro.com/9880</link>
-            <guid>https://ildaro.com/9880</guid>
-            <pubDate>Thu, 02 May 2024 06:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[나는 용서라는 것을 한 번 해보고 싶어 『용서의 나라』라는 책을 읽기 시작했다. 저자 한 명은 성폭력 피해자, 다른 한 명은 다름 아닌 그 성폭력 사건의 가해자이다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024040935041005.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
