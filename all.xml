@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 May 2024 06:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 May 2024 07:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/871d44b8-f7cc-4c01-aa16-c7249ba5022b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지속가능성, 포용성 담은 투어…어느 밴드의 도전 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9901</link>
+            <guid>https://ildaro.com/9901</guid>
+            <pubDate>Sun, 05 May 2024 07:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[콜드플레이는 월드 투어를 준비하면서 두 가지를 구현하고자 했다. 하나는 ‘지속 가능성’으로, 탄소 배출을 줄이고자 노력하는 것이다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024050543196934.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[A struggle for reinstatement and the ‘message it sends to a Korean church that has lost its love’ (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9900</link>
             <guid>https://ildaro.com/9900</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 11 Apr 2024 09:39:00 GMT</pubDate>
             <content:encoded><![CDATA[제주 4.3사건을 겪은 다섯 여성의 증언을 담은 다큐멘터리 영화 〈돌들이 말할 때까지〉(김경만 감독)가 4월 17일 개봉한다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024041145099640.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I’m Still a Prospective Playwright (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9881</link>
-            <guid>https://ildaro.com/9881</guid>
-            <pubDate>Thu, 02 May 2024 06:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[It’s one of those things a person has to do; sometime a person has to go a very long distance out of his way to come back a short distance correctly....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024041056105606.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
