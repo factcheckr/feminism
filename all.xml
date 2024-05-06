@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 May 2024 22:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 May 2024 23:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/04/26/news-p.v1.20240426.1e1b065e3fc14423ab02a146497d2512_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[제가 오조오억번 말했잖아요... (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1732</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1732</guid>
+            <pubDate>Mon, 06 May 2024 23:11:43 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 또 '저출생'을 가지고 왔습니다. 맞습니다. 또출생입니다. 이제는 몇 번을 다뤘는지도 가물가물합니다. 솔직히 말씀드리자면 이 뉴스레터는 2021년부터 지금까지 허스펙티브가 주구장창 해온 이야기의 반복일 겁니다. 다만 다른 점이 있다면 바로 이것입니다. 그간 허스펙티브 뿐 아니라 수많은 여성학자와 단체 등의 저출생 관련 주장을 증명하는 '2024년 결혼·출산·양육 인식조사' 결과가 발표됐다는 겁니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/03cd4a70-c178-4f55-942d-a39058ee4f31.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[민희진과 유리 절벽 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1726</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1726</guid>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 26 Feb 2024 23:12:18 GMT</pubDate>
             <content:encoded><![CDATA[그동안 여성가족부의 수장으로서 열심히 '여성' 지우기에 앞장섰던 김현숙 전 여가부 장관이 자리에서 물러났습니다. 그런데 임명권자인 윤석열 대통령이 김 전 장관의 사표를 수리하면서도 후임을 지명하지 않았습니다. 전례가 없는 일입니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/bda4e317-ad14-470d-a51b-ba6a2b72c094.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쥐들이 새끼를 안 낳기 시작했다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1632</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1632</guid>
-            <pubDate>Mon, 19 Feb 2024 23:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 뉴스레터 허스펙티브입니다. 사실 지난 뉴스레터도 엄격하게 분류하자면 '저출생' 이슈였죠. 3년 동안 100회 넘는 뉴스레터를 보내는 동안 얼마나 많이 저출생 얘기를 했는지 모르겠습니다. 근래의 것만 나열해 봐도 이렇게 되네요.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/871d44b8-f7cc-4c01-aa16-c7249ba5022b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지속가능성, 포용성 담은 투어…어느 밴드의 도전 (일다 ─ 전체기사)]]></title>
