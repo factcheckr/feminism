@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 May 2024 08:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 May 2024 09:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/bda4e317-ad14-470d-a51b-ba6a2b72c094.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[인용과 범죄 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9903</link>
+            <guid>https://ildaro.com/9903</guid>
+            <pubDate>Wed, 08 May 2024 09:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[. 『아홀로틀 로드킬』에서 작가가 보고 읽고 수집한 텍스트들은 작품의 권위를 높이는 장식이 아니라 오히려 망치고 더럽히는 오물처럼 기능한다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024050826381245.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[상실의 슬픔을 ‘자기책임’으로 돌리지 않기 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9902</link>
             <guid>https://ildaro.com/9902</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 02 May 2024 06:16:37 GMT</pubDate>
             <content:encoded><![CDATA[이고코치는 장소(地)보다 마음(心)에 따라 정해진다. 마음의 자리가 자주 흔들리는 만큼, 보이지 않는 뿌리를 기억해야 한다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024041339094949.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“혼인평등은 헌법적 권리” (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9883</link>
-            <guid>https://ildaro.com/9883</guid>
-            <pubDate>Thu, 02 May 2024 06:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[혼인평등 캠페인을 펼치며, 바로 옆 나라에서 5년째 진행 중인 “모두에게 결혼의 자유를”(Marriage for ALL) 소송 운동의 경험이 점점 더 궁금해졌다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024041218577343.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
