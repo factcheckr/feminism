@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 May 2024 05:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 May 2024 06:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[불허, 불허, 불허, 불허를 넘어 축제가 열린다!]]></title>
+            <link>https://ildaro.com/9904</link>
+            <guid>https://ildaro.com/9904</guid>
+            <pubDate>Thu, 09 May 2024 06:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[서울시는 서울시공익활동지원센터 다목적홀 대관 신청을 반려했고, 4월 19일 예정됐던 “퀴어문화축제: 민주주의를 실현하는 문화의 힘” 토론회의 서울시청 시민청 ...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024050910282632.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인용과 범죄]]></title>
             <link>https://ildaro.com/9903</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 02 May 2024 06:16:37 GMT</pubDate>
             <content:encoded><![CDATA[사실 우울한 것만은 아니죠. 거기에는 정말 많은 감정이 있어요. 화가 나기도 하죠. 이런 문제에 무관심한 사람들과 제도와 정치에 화가 나고요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024041422057274.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“그 엄청난 집에 가 보겠네요!” 과연 엄청났다]]></title>
-            <link>https://ildaro.com/9884</link>
-            <guid>https://ildaro.com/9884</guid>
-            <pubDate>Thu, 02 May 2024 06:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[이고코치는 장소(地)보다 마음(心)에 따라 정해진다. 마음의 자리가 자주 흔들리는 만큼, 보이지 않는 뿌리를 기억해야 한다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024041339094949.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
