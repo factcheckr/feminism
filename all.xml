@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 May 2024 22:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 23:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/bda4e317-ad14-470d-a51b-ba6a2b72c094.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나의 일본 데뷔 공연 이야기 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9905</link>
+            <guid>https://ildaro.com/9905</guid>
+            <pubDate>Sat, 11 May 2024 07:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘토모스야’는 아리타에서 마을 만들기 활동을 하는 NPO법인으로 한 달에 한번 빈집에서 팝업 행사를 여는데, 2023년 7월 이벤트로 내 공연이 함께 진행된 것이다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024051114001745.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[불허, 불허, 불허, 불허를 넘어 축제가 열린다! (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9904</link>
             <guid>https://ildaro.com/9904</guid>
@@ -478,14 +486,6 @@
             <pubDate>Tue, 16 Apr 2024 08:51:00 GMT</pubDate>
             <content:encoded><![CDATA[“단 하나의 원인이라도 제거되었다면 나는 바닷속으로 가라앉지 않았을 텐데…….” 『세월 1994-2014』는 세월호의 일생을 배의 시점에서 그려냈다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024041658252458.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기후우울, 제대로 들여다보아야 하는 이유 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9885</link>
-            <guid>https://ildaro.com/9885</guid>
-            <pubDate>Thu, 02 May 2024 06:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[사실 우울한 것만은 아니죠. 거기에는 정말 많은 감정이 있어요. 화가 나기도 하죠. 이런 문제에 무관심한 사람들과 제도와 정치에 화가 나고요....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024041422057274.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
