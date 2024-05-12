@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 May 2024 04:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 May 2024 05:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/bda4e317-ad14-470d-a51b-ba6a2b72c094.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Paying Attention to Division and the Lives of North Korean Women through a Feminist Gaze (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9906</link>
+            <guid>https://ildaro.com/9906</guid>
+            <pubDate>Sun, 12 May 2024 05:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[“If we apply a feminist perspective, what are the issues raised by the system of division we live under, and how do we solve them?”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024051226425156.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나의 일본 데뷔 공연 이야기 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9905</link>
             <guid>https://ildaro.com/9905</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 17 Apr 2024 09:02:00 GMT</pubDate>
             <content:encoded><![CDATA[조이스 대표는 “혼인평등법이 통과된 후 사회가 점점 우호적으로 바뀌고 있다는 걸 느끼고 있다.”고 했다. 성소수자 자녀를 둔 부모의 경우의 반응도 마찬가지다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024041714558569.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세월호가 묻다, 우리를 기억하고 있나요? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9886</link>
-            <guid>https://ildaro.com/9886</guid>
-            <pubDate>Tue, 16 Apr 2024 08:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[“단 하나의 원인이라도 제거되었다면 나는 바닷속으로 가라앉지 않았을 텐데…….” 『세월 1994-2014』는 세월호의 일생을 배의 시점에서 그려냈다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024041658252458.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
