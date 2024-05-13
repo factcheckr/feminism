@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 May 2024 22:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 23:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/05/08/news-p.v1.20240508.18afd06c9b5d47c28cac416d6e60dcc8_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여자를 더 이상 죽이지 말라 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1743</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1743</guid>
+            <pubDate>Mon, 13 May 2024 23:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[지난 6일 또 여성이 살해 당했습니다. '남자친구'라고 불렀던 친밀한 관계의 남성으로부터 말입니다. 지난 3월에도 경기 화성에서 이별을 통보한 여자친구를 그녀의 어머니 앞에서 살해한 사건이 발생했었습니다. 4월, 경남 거제에서는 20대 여성이 전 남자친구에게 폭행을 당해 병원에서 입원 치료를 받다가 숨졌고요. 1월에는 전 남자친구로부터 스토킹을 당했던 20대 여성이 부산의 오피스텔에서 추락해 사망했죠. 4월에는 결별 후 옛 연인에 앙심을 품고 스토킹과 자해, 협박을 일삼다가 여성의 직장에서 갈비뼈가 잘릴 정도로 폭행한 '몽키스패너 사건'의 가해자에게 징역 15년형이 확정됐습니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/23f2ecbd-6b86-4630-b726-2d088151b46e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[제가 오조오억번 말했잖아요... (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1732</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1732</guid>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 04 Mar 2024 23:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022년 합계출산율 0.78명 이 숫자는 다시 한번 갱신되어야 할 듯합니다. 지난해 4분기 합계출산율이 사상 처음으로 0.6명대로 추락하면서입니다. 0.65명. 지하까지 내려간 숫자, 그러나 더 무서운 것은 어디가 끝인지 모른다는 겁니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/38d4bcb8-b796-488b-a35b-a5dea1da8ee3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[좀비가 된 여성가족부 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1641</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1641</guid>
-            <pubDate>Mon, 26 Feb 2024 23:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[그동안 여성가족부의 수장으로서 열심히 '여성' 지우기에 앞장섰던 김현숙 전 여가부 장관이 자리에서 물러났습니다. 그런데 임명권자인 윤석열 대통령이 김 전 장관의 사표를 수리하면서도 후임을 지명하지 않았습니다. 전례가 없는 일입니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/bda4e317-ad14-470d-a51b-ba6a2b72c094.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“따뜻하고 푸른 오키나와에는 수많은 폭력이 숨어있다” (일다 ─ 전체기사)]]></title>
