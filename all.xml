@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 May 2024 23:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 May 2024 00:51:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/38d4bcb8-b796-488b-a35b-a5dea1da8ee3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[첫발 내디딘 신입/새내기를 타깃 삼는 성폭력 가해자들 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9908</link>
+            <guid>https://ildaro.com/9908</guid>
+            <pubDate>Wed, 15 May 2024 08:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[우리 사회는 성폭력, 가정폭력, 데이트 폭력이 일어나기 쉬운 사회다. 언제까지 이런 일이 반복되어야 하는 것일까....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024051543374320.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“따뜻하고 푸른 오키나와에는 수많은 폭력이 숨어있다” (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9907</link>
             <guid>https://ildaro.com/9907</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 19 Apr 2024 09:00:00 GMT</pubDate>
             <content:encoded><![CDATA[전시장 거울에는 “what you wore should not matter”(당신이 무엇을 입고 있었는지는 상관없다)라는 강력한 메시지가 적혀 있었다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024041912407057.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Can We Date as Equals? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9888</link>
-            <guid>https://ildaro.com/9888</guid>
-            <pubDate>Thu, 02 May 2024 06:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[He was six years older than me, my first boyfriend. When we first got together, I dreamt of the romantic love that I had seen in the media....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024041820292652.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
