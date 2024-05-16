@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 08:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 09:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그날의 민주광장과 오늘의 나]]></title>
+            <link>https://ildaro.com/9909</link>
+            <guid>https://ildaro.com/9909</guid>
+            <pubDate>Thu, 16 May 2024 09:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[“철커덕!” 이 책의 화자는 계엄군 총으로 쓰였던 엠씩스틴(M16)이다. 엠식스틴은 ‘가해 행위에 동원된 형태로서의 가해자’를 의미하기도 한다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024051610252183.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[첫발 내디딘 신입/새내기를 타깃 삼는 성폭력 가해자들]]></title>
             <link>https://ildaro.com/9908</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 02 May 2024 06:16:37 GMT</pubDate>
             <content:encoded><![CDATA[국제면 기사를 통해 알게 되는 이 소식을 통해서는 이면에 수많은 노력과 손에 잡히는 변화를 다 담지는 못한다. 10여년 동안 일본 사회가 어떻게 차근차근 한발씩 나아...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024042133082943.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“그때 당신은 무얼 입고 있었나?” 강간 신화 깨다]]></title>
-            <link>https://ildaro.com/9889</link>
-            <guid>https://ildaro.com/9889</guid>
-            <pubDate>Fri, 19 Apr 2024 09:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[전시장 거울에는 “what you wore should not matter”(당신이 무엇을 입고 있었는지는 상관없다)라는 강력한 메시지가 적혀 있었다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024041912407057.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
