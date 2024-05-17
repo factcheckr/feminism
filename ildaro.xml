@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 May 2024 09:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2024 10:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대체복무의 범위, 돌봄으로 넓힐 수 있지 않을까?]]></title>
+            <link>https://ildaro.com/9910</link>
+            <guid>https://ildaro.com/9910</guid>
+            <pubDate>Fri, 17 May 2024 10:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[양심적 병역거부에 대한 관심도 줄어들었다. 대체복무를 하니까, 이제 다 괜찮은 걸까? 그런데 왜 대체복무자는 여전히 교도소에 있는 걸까?...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024051712456254.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그날의 민주광장과 오늘의 나]]></title>
             <link>https://ildaro.com/9909</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 23 Apr 2024 08:04:00 GMT</pubDate>
             <content:encoded><![CDATA[나에겐 혈연이 아닌 청주라는 지역으로 묶여 내 삶을 차지하고 있는 여성들이 있다. 2021년 11월, 청주페미니스트네트워크 〈걔네〉가 만들어졌다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024042317012259.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삿포로 ‘혼인평등 판결’이 한국사회에 던지는 질문]]></title>
-            <link>https://ildaro.com/9890</link>
-            <guid>https://ildaro.com/9890</guid>
-            <pubDate>Thu, 02 May 2024 06:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[국제면 기사를 통해 알게 되는 이 소식을 통해서는 이면에 수많은 노력과 손에 잡히는 변화를 다 담지는 못한다. 10여년 동안 일본 사회가 어떻게 차근차근 한발씩 나아...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024042133082943.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
