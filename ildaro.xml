@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 May 2024 02:30:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 May 2024 03:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[학교 화장실에 월경용품 무상 지원 시스템을!]]></title>
+            <link>https://ildaro.com/9911</link>
+            <guid>https://ildaro.com/9911</guid>
+            <pubDate>Sun, 19 May 2024 00:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[“생리통이 심해서 힘들었는데, 누군가가 곁에서 돌봐주는 느낌”, “안심이 된다” 등 심리 면에서의 긍정적인 영향을 확인할 수 있었다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/202405190556537.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대체복무의 범위, 돌봄으로 넓힐 수 있지 않을까?]]></title>
             <link>https://ildaro.com/9910</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 24 Apr 2024 11:31:00 GMT</pubDate>
             <content:encoded><![CDATA[특정 성에게 피해가 더욱 치중되고, 특정 성의 경험이 비가시화되고, 특정 성의 정치적인 의사결정권이 배제되는 사회에서 ‘기후정의’는 이루어질 수 없습니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024042443039941.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 삶을 끈질기게 차지하고 있는 그녀들]]></title>
-            <link>https://ildaro.com/9891</link>
-            <guid>https://ildaro.com/9891</guid>
-            <pubDate>Tue, 23 Apr 2024 08:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[나에겐 혈연이 아닌 청주라는 지역으로 묶여 내 삶을 차지하고 있는 여성들이 있다. 2021년 11월, 청주페미니스트네트워크 〈걔네〉가 만들어졌다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024042317012259.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
