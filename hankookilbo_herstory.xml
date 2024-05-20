@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 May 2024 22:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 23:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[커리어 원톱 여성 배우의 말]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1752</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1752</guid>
+            <pubDate>Mon, 20 May 2024 23:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 뉴스레터는 8,000km 넘게 떨어진 프랑스 칸에서 일어나고 있는 소식을 전합니다. '위민 인 모션'은 프랑스 명품패션그룹 케어링이 2015년부터 매년 칸국제영화제 기간 동안 여는 행사인데요. 문화예술계 내 유명 여성 인사의 생각을 듣는 자리인데, 국내 매체 중에서는 한국일보가 유일하게 참석했어요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/46c6a214-4035-467a-9dd7-3a160a2e7428.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여자를 더 이상 죽이지 말라]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1743</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 11 Mar 2024 23:12:35 GMT</pubDate>
             <content:encoded><![CDATA[먼저 서울 종로구 보신각 앞을 보랏빛과 분홍빛으로 물들인 '3·8 여성파업대회' 소식입니다.&nbsp;요양보호사, 디자이너, 교사, IT 개발자 등 다양한 직군에 종사하는 여성노동자들이 주축이 된 '여성파업대회'가 처음으로 열렸습니다. 700명 넘게 몰린 이 대회에서 여성들은 "여성이 멈추면 세상도 멈춘다" "독박 집안일 강요 말고 사회가 책임져라" 등의 구호를 외치며, 성별 임금 격차 타파와 돌봄 공공성 강화 등을 주장했어요.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/a5f735f4-6de5-4bda-bc97-d8c9cf5a5477.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['0.65명'이 말해주는 것]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1652</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1652</guid>
-            <pubDate>Mon, 04 Mar 2024 23:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 합계출산율 0.78명 이 숫자는 다시 한번 갱신되어야 할 듯합니다. 지난해 4분기 합계출산율이 사상 처음으로 0.6명대로 추락하면서입니다. 0.65명. 지하까지 내려간 숫자, 그러나 더 무서운 것은 어디가 끝인지 모른다는 겁니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/38d4bcb8-b796-488b-a35b-a5dea1da8ee3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
