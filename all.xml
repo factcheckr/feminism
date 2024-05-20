@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 May 2024 04:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 05:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/38d4bcb8-b796-488b-a35b-a5dea1da8ee3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“Can’t You Even Do This Right? Anyone Can Do This!” (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9912</link>
+            <guid>https://ildaro.com/9912</guid>
+            <pubDate>Mon, 20 May 2024 10:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[Even when I was watering this plant called “the office,” my work was considered trivial compared to the task of bearing fruit from that soil....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024052059292961.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[학교 화장실에 월경용품 무상 지원 시스템을! (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9911</link>
             <guid>https://ildaro.com/9911</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 02 May 2024 06:16:37 GMT</pubDate>
             <content:encoded><![CDATA[지난 겨울, 나는 그저 나만큼 소심하고 딱히 멋질 것도 없는 모은과 진우를 만나서 좋았고, 헤어질 땐 다시 못 볼 사람을 배웅하듯 울적했다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024042544019801.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기후정의는 젠더정의다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9892</link>
-            <guid>https://ildaro.com/9892</guid>
-            <pubDate>Wed, 24 Apr 2024 11:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[특정 성에게 피해가 더욱 치중되고, 특정 성의 경험이 비가시화되고, 특정 성의 정치적인 의사결정권이 배제되는 사회에서 ‘기후정의’는 이루어질 수 없습니다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024042443039941.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
