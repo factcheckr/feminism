@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 May 2024 08:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 May 2024 09:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[배우와 시민이 함께 만든 뮤지컬 ‘다시, 봄’…중년 여배우들 “이건 내 얘기” (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/culture/performance/article/202405221647001</link>
             <guid>https://www.khan.co.kr/culture/performance/article/202405221647001</guid>
-            <pubDate>Wed, 22 May 2024 08:16:26 GMT</pubDate>
+            <pubDate>Wed, 22 May 2024 08:15:44 GMT</pubDate>
             <content:encoded><![CDATA[서울시뮤지컬단의 &lt;다시, 봄&gt;은 창작 뮤지컬 중에서도 특이한 작품이다. 뮤지컬에서 좀처럼 다뤄지지 않는 중년 여성이 주인공으로 등장했고, 실제 50대 배우와 시민이 참여하는 생애전환기 워크숍을 통해 극을 개발했다. 중년의 여고 동창들이 여행길에 버스 사고를 당한 뒤 인생 2막이라는 화두를 생각한다는 내용의 이 뮤지컬은 반신반의의 시선을 이겨내고 좋은 평가를 받았다. 2022년 초연, 지난해 재연에 이어 6월7일까지 LG아트센터 서울 U+스테이지에서 삼연 중이다. 지금까지 공연된 13회차 중 9회가 매진이었을 정도로 반응이 좋다.&lt;다시, 봄&gt; 주역들이 20일 서울 세종문화회관에서 기자들과 만났다. 서울시뮤지컬단원이자 초연부터 함께한 왕은숙, 재연부터 출연한 문희경, 이번에 처음 참여한 황석정·예지원이다.배우들은 하나같이 작품이 관객과 강력한 공감대를 형성한다고 했다. 왕은숙은 “배우의 대사에 ‘나도 그래요’ 하고 끼어드는 관객도 있다”고 전했다. 문...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/05/22/news-p.v1.20240521.e18efaffff9e43ffbd0995ba4e756832_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/a5f735f4-6de5-4bda-bc97-d8c9cf5a5477.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[너와 함께 비를 맞으며 무지개를 기다릴 거야 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9914</link>
+            <guid>https://ildaro.com/9914</guid>
+            <pubDate>Wed, 22 May 2024 09:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[꿈은 ‘아니면 말고’의 세계가 아니다. 꼭 해야 할 일의 세계다. 진짜 꿈이 있는 사람들은 꿈 때문에 많은 것을 참을 수밖에 없다. 그러나 용감하게 선택하고 대가를 ...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024052218054852.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“학생인권이 너무 ‘보장받는’ 현실은 없다” (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9913</link>
             <guid>https://ildaro.com/9913</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 27 Apr 2024 09:29:00 GMT</pubDate>
             <content:encoded><![CDATA[가장 인상적인 것은 ‘모따이나이(もたいない, 아깝다)’ 정신이었다. 깨진 야키모노를 바닥  장식으로 사용하고, 수명이 다한 가마의 벽돌을 마을 담장으로 재사용했...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024042739372316.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I’m a Peer Counselor for People with Disabilities (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9894</link>
-            <guid>https://ildaro.com/9894</guid>
-            <pubDate>Fri, 26 Apr 2024 10:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[The double discrimination and exclusion for being not only a PWD but a woman, the financial difficulties this causes, and so on....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024042656454652.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
