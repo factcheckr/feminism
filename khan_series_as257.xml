@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 05:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 06:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[44년 전 일인데 … ‘신체 장해 정도’ 기준으로 5·18 성폭력 피해 보상한다는 정부]]></title>
+            <link>https://www.khan.co.kr/national/gender/article/202405241514001</link>
+            <guid>https://www.khan.co.kr/national/gender/article/202405241514001</guid>
+            <pubDate>Fri, 24 May 2024 06:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[광주광역시가 6월부터 5·18 성폭력 피해자들에 대한 보상 절차를 시작한다. 성폭력 피해자들은 5·18민주화운동 보상 심의 대상에 처음 포함됐다. 그러나 보상 판정이 ‘신체 장해 정도’로 구분되는 데다 ‘정신적 피해’에 대한 기준도 따로 마련돼 있지 않기 때문에 정작 피해를 인정받을 수 있는 피해자가 적을 수 있다는 우려가 나온다. 여성단체와 광주광역시의회는 성폭력 ‘피해자 중심적 접근’을 토대로 한 별도의 가이드라인이 필요하고 정신적 트라우마에 대한 상담·치료를 연계한 체계적인 시스템이 필요하다고 제언했다.광주시는 “5·18성폭력 피해자에 대한 8차 보상 절차를 6월부터 본격화할 예정”이라고 23일 밝혔다. 성폭력 피해자에 대한 보상이 검토되는 것은 34년 만에 처음이다. 지난해 6월 개정된 5·18 보상법은 성폭력 피해자를 5·18민주화운동 관련자로 규정했다. 이번 8차 보상 심사 대상자 중 성폭력 피해자는 26명으로 이들은 지난해 7~12월 광주시에 보상을 신청했다....]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/05/24/news-p.v1.20240524.986b8bf56dc94b74906d462629add762_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안희정, 손배소송 패소···“피해자에 8347만원 지급하라”]]></title>
             <link>https://www.khan.co.kr/national/court-law/article/202405241204001</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 20 May 2024 07:12:55 GMT</pubDate>
             <content:encoded><![CDATA[지난해 12월 ‘5·18민주화운동진상규명조사위원회(이하 조사위)’는 일부 계엄군 등이 자행한 강제추행·강간·성고문 등 피해 사건 중 16건에 대해 ‘진상규명’ 결정을 내렸다. 과거사 조사에서 정식 조사 대상으로 성폭력 피해를 명시하고 종합적인 피해 실상을 규명한 건 처음이다. 피해자의 증언이 담긴 조사보고서가 공개된 것도 처음이다.처음 길을 만들어내는 일은 많은 난관에 부딪힐 수밖에 없었다. 조사위는 출범 후 ‘성폭력’을 조사 범위에 포함시키는 법률 개정을 해냈지만, 조사 방법론, 진상규명 판단 기준을 만들어내는 일련의 과정은 시행착오의 연속이었다. 처음 길을 만들어나간 윤경회 조사위 조사4과 3팀장과 이다감 상담전문가의 이야기를 지난달 27~28일 광주 전남대에서 만나 듣고 이후 전화로 인터뷰했다. 윤 팀장은 고양성폭력상담소, 사회적참사특별조사위에서 일했고 지난해 3월 조사를 본격화했다. 이다감 상담전문가는 조사위 전문위원으로 성폭력 피해 조사와 상담을 지원했다. 두 사람의...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/05/20/news-p.v1.20240520.7cece467d9f94c4ab078b58b20948c07_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[40년 전 성폭력을 규명한다는 것…한 명의 ‘기억’은 다른 피해의 ‘증언’이 됐다]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202405201052001</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202405201052001</guid>
-            <pubDate>Mon, 20 May 2024 01:56:54 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 말 5·18 성폭력 사건 16건에 대해 진상규명 결정을 내린 ‘5·18 민주화운동 진상규명조사위원회’의 큰 성과는 과거사 성폭력 사건을 조사하는 방식의 새로운 기준점을 세웠다는 점이다. ‘약 반세기 전의 성폭력 사건을 어떻게 조사할 것인가’라는 물음에 조사위는 “성폭력 진상조사의 목적은 형사처벌을 전제로 한 범죄 발견이 아니다. 진상을 규명해 국가의 책임을 묻고, 피해자의 치유와 명예 회복 방안을 권고하는 데 있다”는 방향을 세웠다.지난해 조사위는 피해 실태에 부합하는 실효적 권고를 하는 것으로 의견을 모으고, 과거사 성폭력 사건의 판단 기준을 만드는 작업부터 시작했다. 현재 성폭력 수사 기준으로 따진다면 과거 사건 중 다시 들여다볼 수 있는 게 없었다. 군사 쿠데타로 정권을 잡은 전두환과 신군부 세력이 1990년대까지 집권하면서 각종 기록이나 자료조차 제대로 남아있지 않았다.‘과거사 성폭력’ 판단 기준부터…“가해자 특정 아닌 피해자 치유 목적”조사위...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/05/20/news-p.v1.20240520.c90c2b0e16674a25b3c6f06b668c2f89_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
