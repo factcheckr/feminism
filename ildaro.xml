@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 00:53:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 01:56:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[침묵되었던 5.18 성폭력 수면위로, ‘미투 운동’은 계속된다]]></title>
+            <link>https://ildaro.com/9915</link>
+            <guid>https://ildaro.com/9915</guid>
+            <pubDate>Fri, 24 May 2024 08:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[『피해조사 신청서』를 제출하였는데, 이때 피해자 12명이 자신의 피해 사실 발화의 계기로 ‘김선옥과 서지현 검사의 미투(MeToo)’를 나란히 언급했다”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024052433541158.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[너와 함께 비를 맞으며 무지개를 기다릴 거야]]></title>
             <link>https://ildaro.com/9914</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 02 May 2024 06:16:37 GMT</pubDate>
             <content:encoded><![CDATA[“사과를 받은들, 뭘 받은들 상처는 낫지 않는다. 나을 수 없는 것을 낫게 해달라는 말이 아니다. 이 일을 뛰어넘어 앞으로 나아갈 수 있는 정의가 필요하다.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024042849521470.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[학교에선 급식도 아리타 도자기에 담아 줬어]]></title>
-            <link>https://ildaro.com/9895</link>
-            <guid>https://ildaro.com/9895</guid>
-            <pubDate>Sat, 27 Apr 2024 09:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[가장 인상적인 것은 ‘모따이나이(もたいない, 아깝다)’ 정신이었다. 깨진 야키모노를 바닥  장식으로 사용하고, 수명이 다한 가마의 벽돌을 마을 담장으로 재사용했...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024042739372316.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
