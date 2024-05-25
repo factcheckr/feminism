@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 May 2024 10:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 May 2024 11:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5.18 성폭력 피해자들의 ‘회복’ 가능한 사회로]]></title>
+            <link>https://ildaro.com/9916</link>
+            <guid>https://ildaro.com/9916</guid>
+            <pubDate>Sat, 25 May 2024 11:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[얼마나 그 폭력이 거칠었냐가 아니라 ‘그 폭력으로 인해서 그 생애사 동안에 어떤 피해를 겪었는가?’라는 질문이 새롭게 필요할 수 있다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024052532385175.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[침묵되었던 5.18 성폭력 수면위로, ‘미투 운동’은 계속된다]]></title>
             <link>https://ildaro.com/9915</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 30 Apr 2024 10:39:00 GMT</pubDate>
             <content:encoded><![CDATA[나의 중독의 역사는 길다. 중학교 땐 리듬게임에 중독되어 새벽까지 게임을 했고, 대학교 땐 술과 담배 없인 살 수 없었다. 잔뜩 취해 이성을 잃어야만 시간이 흐르는 ...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024043049059228.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수백명 피해자 나오도록 ‘방관’…대형기획사 대표 성폭력]]></title>
-            <link>https://ildaro.com/9896</link>
-            <guid>https://ildaro.com/9896</guid>
-            <pubDate>Thu, 02 May 2024 06:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[“사과를 받은들, 뭘 받은들 상처는 낫지 않는다. 나을 수 없는 것을 낫게 해달라는 말이 아니다. 이 일을 뛰어넘어 앞으로 나아갈 수 있는 정의가 필요하다.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024042849521470.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
