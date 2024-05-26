@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 May 2024 10:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 May 2024 11:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임금체불 당하면서 이주노동자가 차린 한국의 밥상]]></title>
+            <link>https://ildaro.com/9917</link>
+            <guid>https://ildaro.com/9917</guid>
+            <pubDate>Sun, 26 May 2024 11:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[쓰레이응 씨는 22살에 한국에 입국해서 벌써 30세가 되었다. 임금도 받지 못해 돈이 늘 없어서 생일 케이크를 한 번도 사본 적이 없었다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024052637332019.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[5.18 성폭력 피해자들의 ‘회복’ 가능한 사회로]]></title>
             <link>https://ildaro.com/9916</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 02 May 2024 06:16:37 GMT</pubDate>
             <content:encoded><![CDATA[아동인권에 관심이 있는 사람이라면 ‘아동 최선의 이익’이란 문구를 들어봤을 것이다. 유엔아동권리협약에 나오는 이 표현은 아동인권과 관련한 핵심적인 원칙이다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024050125183532.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리를 중독으로 이끄는 것과 거리 두기]]></title>
-            <link>https://ildaro.com/9897</link>
-            <guid>https://ildaro.com/9897</guid>
-            <pubDate>Tue, 30 Apr 2024 10:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[나의 중독의 역사는 길다. 중학교 땐 리듬게임에 중독되어 새벽까지 게임을 했고, 대학교 땐 술과 담배 없인 살 수 없었다. 잔뜩 취해 이성을 잃어야만 시간이 흐르는 ...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202404/2024043049059228.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
