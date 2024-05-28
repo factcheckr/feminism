@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 May 2024 04:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 05:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/a5f735f4-6de5-4bda-bc97-d8c9cf5a5477.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘거기에 없는 것처럼’ 대기하세요, 엄마니까 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9918</link>
+            <guid>https://ildaro.com/9918</guid>
+            <pubDate>Tue, 28 May 2024 05:13:15 GMT</pubDate>
+            <content:encoded><![CDATA[‘어머니’는 여러 기준으로 구분되지만, 존재가 삭제되는 공통의 감각이 있기 때문에 가까이 다가갔는지도 모르겠어요. ‘아버지는 어디 갔지?’라는 질문도 던지고...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024052807322438.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[임금체불 당하면서 이주노동자가 차린 한국의 밥상 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9917</link>
             <guid>https://ildaro.com/9917</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 03 May 2024 08:59:00 GMT</pubDate>
             <content:encoded><![CDATA[미투 운동 이후 피해자들의 인식과 태도가 변화되어 고소/공론화 사례가 많아졌고, 이를 두려워하는 가해자도 늘어났다. 하지만, 사죄로 이어지는게 아니라 오히려 역...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024050305126625.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아동학대 주목해도, ‘구조적 폭력’은 간과하는 사회 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9898</link>
-            <guid>https://ildaro.com/9898</guid>
-            <pubDate>Thu, 02 May 2024 06:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[아동인권에 관심이 있는 사람이라면 ‘아동 최선의 이익’이란 문구를 들어봤을 것이다. 유엔아동권리협약에 나오는 이 표현은 아동인권과 관련한 핵심적인 원칙이다...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024050125183532.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
