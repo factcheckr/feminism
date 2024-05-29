@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 May 2024 10:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 May 2024 11:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/a5f735f4-6de5-4bda-bc97-d8c9cf5a5477.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘보호출산제’…여성과 아동의 권리 거꾸로 가나? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9919</link>
+            <guid>https://ildaro.com/9919</guid>
+            <pubDate>Wed, 29 May 2024 11:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[보육원에서 자란 자립준비청년 홍진수 씨는 “아이를 경제적, 심리적, 신체적 사유로 부모가 ‘익명’ 처리하고 정부에 맡기면, 아이는 어떻게 하라는 것이냐?”라고...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024052938222585.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘거기에 없는 것처럼’ 대기하세요, 엄마니까 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9918</link>
             <guid>https://ildaro.com/9918</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 04 May 2024 10:00:00 GMT</pubDate>
             <content:encoded><![CDATA[In December of last year, the Vatican's Dicastery for the Doctrine of the Faith issued a declaration called “Supplicating Trust” and allowed Catholic priests to bless same-sex couples. Pope Francis also said, “God ...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024050408587124.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성폭력 역고소 범람…가해자 변론 시장 형성돼있어 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9899</link>
-            <guid>https://ildaro.com/9899</guid>
-            <pubDate>Fri, 03 May 2024 08:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[미투 운동 이후 피해자들의 인식과 태도가 변화되어 고소/공론화 사례가 많아졌고, 이를 두려워하는 가해자도 늘어났다. 하지만, 사죄로 이어지는게 아니라 오히려 역...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024050305126625.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
