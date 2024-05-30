@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 10:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 11:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/a5f735f4-6de5-4bda-bc97-d8c9cf5a5477.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[퀴어 영화와 드라마에서 기쁨을 끄집어내기 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9920</link>
+            <guid>https://ildaro.com/9920</guid>
+            <pubDate>Thu, 30 May 2024 11:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[“자신의 이야기가 세상에 없거나 보이지 않아서 필사적으로 찾아다녀야 했던 사람들”(314쪽)에게는 퀴어 콘텐츠를 찾아다니는 일의 기쁨이 필요하다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024053007491561.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘보호출산제’…여성과 아동의 권리 거꾸로 가나? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9919</link>
             <guid>https://ildaro.com/9919</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 30 May 2024 05:12:37 GMT</pubDate>
             <content:encoded><![CDATA[콜드플레이는 월드 투어를 준비하면서 두 가지를 구현하고자 했다. 하나는 ‘지속 가능성’으로, 탄소 배출을 줄이고자 노력하는 것이다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024050543196934.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A struggle for reinstatement and the ‘message it sends to a Korean church that has lost its love’ (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9900</link>
-            <guid>https://ildaro.com/9900</guid>
-            <pubDate>Sat, 04 May 2024 10:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[In December of last year, the Vatican's Dicastery for the Doctrine of the Faith issued a declaration called “Supplicating Trust” and allowed Catholic priests to bless same-sex couples. Pope Francis also said, “God ...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024050408587124.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
