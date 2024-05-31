@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 13:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 14:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아리타에서 만난 얼굴들, 하나하나 반짝이는]]></title>
+            <link>https://ildaro.com/9921</link>
+            <guid>https://ildaro.com/9921</guid>
+            <pubDate>Fri, 31 May 2024 14:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[아리타가 위치한 사가현은 ‘가장 가고 싶은 일본 국내 여행지’ 설문조사에서 대체로 꼴찌를 담당한다고 했다. “아무것도 없기 때문”이라는데, 같은 이유로 나는 ...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024053100379483.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[퀴어 영화와 드라마에서 기쁨을 끄집어내기]]></title>
             <link>https://ildaro.com/9920</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 07 May 2024 10:32:00 GMT</pubDate>
             <content:encoded><![CDATA[‘스스로 최선을 다해 극복하세요.’라는 말은 결국 자기책임을 강요하는 거죠. 자신의 슬픔에 연루된 누군가가 있다는 사실이 도움을 줍니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024050740441730.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지속가능성, 포용성 담은 투어…어느 밴드의 도전]]></title>
-            <link>https://ildaro.com/9901</link>
-            <guid>https://ildaro.com/9901</guid>
-            <pubDate>Thu, 30 May 2024 05:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[콜드플레이는 월드 투어를 준비하면서 두 가지를 구현하고자 했다. 하나는 ‘지속 가능성’으로, 탄소 배출을 줄이고자 노력하는 것이다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024050543196934.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
