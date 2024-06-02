@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jun 2024 05:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jun 2024 06:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/a5f735f4-6de5-4bda-bc97-d8c9cf5a5477.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[건강보험 재정 악화가 ‘외국인 탓’이라 믿는 당신에게 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9922</link>
+            <guid>https://ildaro.com/9922</guid>
+            <pubDate>Sun, 02 Jun 2024 00:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[2019년 7월부터 국내 6개월 이상 체류한 외국인들의 국민건강보험 가입이 의무화되었다. 하지만 난민심사 과정에 있는 난민신청자들은 여전히 가입이 불가능하다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024060217513244.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아리타에서 만난 얼굴들, 하나하나 반짝이는 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9921</link>
             <guid>https://ildaro.com/9921</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 30 May 2024 05:12:37 GMT</pubDate>
             <content:encoded><![CDATA[. 『아홀로틀 로드킬』에서 작가가 보고 읽고 수집한 텍스트들은 작품의 권위를 높이는 장식이 아니라 오히려 망치고 더럽히는 오물처럼 기능한다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024050826381245.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상실의 슬픔을 ‘자기책임’으로 돌리지 않기 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9902</link>
-            <guid>https://ildaro.com/9902</guid>
-            <pubDate>Tue, 07 May 2024 10:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘스스로 최선을 다해 극복하세요.’라는 말은 결국 자기책임을 강요하는 거죠. 자신의 슬픔에 연루된 누군가가 있다는 사실이 도움을 줍니다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024050740441730.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
