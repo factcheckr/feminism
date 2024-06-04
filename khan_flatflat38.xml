@@ -4,9 +4,25 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 00:54:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 01:58:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여성이 결혼·출산을 꺼리는 이유는 듣지 않으면서, 책임만 미뤄서]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202406041029001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202406041029001</guid>
+            <pubDate>Tue, 04 Jun 2024 01:56:59 GMT</pubDate>
+            <content:encoded><![CDATA[이명박 정부 때인 2009년 ‘여성의 몸, 그리고 저출산’이라는 칼럼을 썼다. 저출산 문제는 여성의 선택을 압박하거나 국가주의 이데올로기를 동원해 해결될 일이 아니라고 지적했다. 양성평등 사회일수록 출산율이 안정적이라는 연구 결과도 소개했다.당시 합계출산율(2009년)은 1.15명이었다. 지금 생각하면 ‘꿈같은’ 수준이다. 통계청은 올해 합계출산율이 0.68명까지 떨어질 것으로 예상한다. 15년 사이 거의 반토막이 난 셈이다. 왜? 아무것도 바뀌지 않아서다. 여성이 결혼·출산을 꺼리는 이유는 듣지 않으면서, 책임만 여성에게 미뤄서다.국책연구기관인 한국조세재정연구원(조세연)의 연구자가 저출생 해결을 위해 ‘여성을 조기 입학시키자’고 해 논란이 됐다. 조세연이 펴내는 ‘재정포럼’ 5월호에 실린 ‘생산가능인구 비중 감소에 대응하기 위한 재정정책 방향에 대한 제언’에서다. 보고서는 “남성의 발달 정도가 여성의 발달 정도보다 느리다는 점을 고려하면, 여성들은 1년 조기 입학시키는 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/06/04/news-p.v1.20240604.abf6f4c8966941a789c2d45405bd96fd_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후대까지 대물림된 ‘5·18 성폭력’의 상처…“국가치유센터가 적극 나서야”]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202406031729011</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202406031729011</guid>
+            <pubDate>Tue, 04 Jun 2024 01:56:59 GMT</pubDate>
+            <content:encoded><![CDATA[5·18민주화운동 당시 벌어진 성폭력은 피해 당사자뿐 아니라 가족 등 가까운 사람들에게도 큰 트라우마를 남겼다. 치유되지 않은 고통의 기억과 외상 후 스트레스 장애(PTSD)는 반세기 가까운 시간이 흐르며 자녀 세대로 대물림되는 양상까지 보이고 있다.조사위 분석 결과를 보면 아이를 낳은 피해자들은 자녀를 학대·방치하거나, 자녀와 소통을 원활하게 하지 못하는 문제를 겪었다. 5·18민주화운동 진상규명조사위원회에서 성폭력 피해자들의 이야기를 직접 듣고 분석한 이다감 상담전문가는 “대부분 자신의 피해 사실을 자녀에게 털어놓지 못했고 자녀는 영문도 모른 채 성장 과정에서 어려움을 겪을 수밖에 없었다”며 “자녀들이 성인이 된 후 엄마의 피해 사실을 알게 됐을 때, 안타까움과 원망스러움이라는 양가감정을 겪는 이유”라고 했다.이 상담가는 이들의 후유증, 사회적 관계 단절 등 복합적 문제를 해결하기 위해 “충분한 애도 기회와 피해자 개인의 처지에 맞춘 치유 방법을 제공하고, ‘국립국...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/06/03/news-p.v1.20240430.77feb842bf53407596a04977ea5b355a_P1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[“여성 1년 ‘조기 입학’ 시키면 남녀가 매력 느낄 것”…국책연구기관의 황당한 주장]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202406031048001</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 27 May 2024 09:12:58 GMT</pubDate>
             <content:encoded><![CDATA[이혼을 금지하는 필리핀에서 이혼 합법화 법안이 하원을 통과했다. 여성·인권 단체는 상원 문턱까지 넘어서길 촉구하고 있으나 보수적 종교계가 반대하고 나서, 상원 통과 여부는 아직 미지수다.26일 필리핀 매체 래플러에 따르면, 필리핀 하원은 지난 22일 부부가 완전한 이혼을 통해 결혼을 종료할 수 있도록 허용하는 법안을 찬성 126표, 반대 109표로 통과시켰다. 기권은 20표였다.이에 따라 이 법안은 상원으로 넘어가게 됐다. 필리핀에서 이혼 합법화 법안이 하원을 통과한 건 이번이 두 번째다. 2018년 하원에서 이혼 합법화 법안이 찬성 134표, 반대 57표, 기권 2표로 통과한 적 있으나 상원에서 좌절된 바 있다. 이번에는 당시보다 근소한 표 차로 안건이 통과됐다.바티칸을 제외하면 필리핀은 법적 이혼을 합법화하지 않은 유일한 국가다. 필리핀은 국교는 없으나 가톨릭 신자가 약 80%를 차지한다. 가족·성 문화에 보수적인 가톨릭 영향 탓에, 임신 중지와 피임에도 엄...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/05/27/news-p.v1.20240527.06962998c6d04192a7ebb92571c908b0_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 아는 최고령의 할매, 엄마]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202405271018001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202405271018001</guid>
-            <pubDate>Mon, 27 May 2024 01:56:07 GMT</pubDate>
-            <content:encoded><![CDATA[내가 아는 최고령의 할매는 엄마다. 이 글을 쓰기 전까지 내 엄마도 할매라는 당연한 사실을 자각하지 못했다. 엄마는 할매가 아니고 그냥 엄마였으니까.내 엄마는 1926년생, 올해 98세다. 구례 내려오기 전까지 나는 우리 엄마가 그 세대 중 고생으로는 상위 0.1%에 들 거라 확신했다. 1948년 겨울부터 1954년 봄까지 지리산에서, 체포된 이후 7년간 감옥에서 어떤 고초를 겪었을지 경험하지 않은 나로서는 상상조차 하기 어려웠다. 엄마는 마흔이 다 되어 세상으로 돌아왔다. 가난과 산에서 얻은 위장병이 천형처럼 찰싹 들러붙은 엄마의 삶은 내내 고달팠다. 노년에는 고된 노동으로 척추협착증까지 얻었다. 구례 내려와 알았다. 시골 할매치고 엄마보다 고달프지 않은 사람이 거의 없다는 것을. 그 시대의 누구나 엄마만 한, 때로는 엄마보다 더한 삶의 무게를 견뎌냈다는 것을. 그 사실을 깨닫고 난 뒤 엄마가 아픈 추억을 들먹일 때마다 나는 야무지게 엄마 말을 뚝 잘랐다.알고 보니 엄마...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/05/27/news-p.v1.20240527.ba1aaabd874343da818905bd1a35c0bf_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[44년 전 일인데 … ‘신체 장해 정도’ 기준으로 5·18 성폭력 피해 보상한다는 정부]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202405241514001</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202405241514001</guid>
-            <pubDate>Fri, 24 May 2024 06:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[광주광역시가 6월부터 5·18 성폭력 피해자들에 대한 보상 절차를 시작한다. 성폭력 피해자들은 5·18민주화운동 보상 심의 대상에 처음 포함됐다. 그러나 보상 판정이 ‘신체 장해 정도’로 구분되는 데다 ‘정신적 피해’에 대한 기준도 따로 마련돼 있지 않기 때문에 정작 피해를 인정받을 수 있는 피해자가 적을 수 있다는 우려가 나온다. 여성단체와 광주광역시의회는 성폭력 ‘피해자 중심적 접근’을 토대로 한 별도의 가이드라인이 필요하고 정신적 트라우마에 대한 상담·치료를 연계한 체계적인 시스템이 필요하다고 제언했다.광주시는 “5·18성폭력 피해자에 대한 8차 보상 절차를 6월부터 본격화할 예정”이라고 23일 밝혔다. 성폭력 피해자에 대한 보상이 검토되는 것은 34년 만에 처음이다. 지난해 6월 개정된 5·18 보상법은 성폭력 피해자를 5·18민주화운동 관련자로 규정했다. 이번 8차 보상 심사 대상자 중 성폭력 피해자는 26명으로 이들은 지난해 7~12월 광주시에 보상을 신청했다....]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/05/24/news-p.v1.20240524.986b8bf56dc94b74906d462629add762_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
