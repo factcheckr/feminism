@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 07:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 08:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“조국을 준 영웅들과 어머니, 딸들, 손녀들과 함께해냈다” 멕시코, 첫 여성 대통령 탄생]]></title>
+            <link>https://www.khan.co.kr/world/america/article/202406041647001</link>
+            <guid>https://www.khan.co.kr/world/america/article/202406041647001</guid>
+            <pubDate>Tue, 04 Jun 2024 08:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[2일(현지시간) 멕시코 대선에서 집권 국가재생운동(모레나)의 클라우디아 셰인바움 후보(62)가 압도적 득표율로 당선되며 1824년 정부가 수립된 지 200년 만에 첫 여성 대통령이 됐다. 환경공학자 출신인 셰인바움 당선인은 안드레스 마누엘 로페스 오브라도르 현 대통령의 정책 방향을 계승하고 친환경적인 개발 등을 추진하겠다고 공약했다. 그는 마약 카르텔과 갱단폭력 문제를 해결해야 하는 짐도 짊어지고 있다.멕시코 선거관리위원회(INE)는 표본을 토대로 득표율을 추산하는 신속 표본 집계 결과, 셰인바움 후보가 득표율 58.3∼60.7%를 기록, 26.6~28.6%를 얻은 우파 야당 연합 ‘멕시코를 위한 힘과 마음’ 소치틀 갈베스 후보(61)를 누르고 승리했다고 밝혔다. 셰인바움 당선인은 멕시코시티의 한 호텔에서 취재진에게 “나는 혼자서 해낼 수 없었다. 조국을 준 영웅들과 어머니, 딸들, 손녀들과 함께해냈다”며 “우리는 멕시코가 평화로운 선거제도를 가진 민주주의 국가라...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/06/04/news-p.v1.20240604.a3230f1a37fe4d65b377ff7356c40aba_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여성이 결혼·출산을 꺼리는 이유는 듣지 않으면서, 책임만 미뤄서]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202406041029001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 28 May 2024 01:56:14 GMT</pubDate>
             <content:encoded><![CDATA[“모르는 사람이 죽었어요. 모르는 사람… 얼굴도 본 적 없는 사람….”2020년 12월 어느 날. 그녀는 ‘모르는 여자’의 영정을 들고 안산의 어느 농장으로 향한다. 한국에 이주노동자로 온 캄보디아 여자가 살았던 숙소를 찾아가기 위해서다. 영정 속 여자의 이름은 속헹. 간경화를 앓던 속헹은 12월20일 혹한에도 난방이 되지 않는 비닐하우스 숙소에서 식도정맥류 파열로 숨진 채 발견됐다. 곰팡이로 뒤덮여 있던 숙소로 들어서기 전부터 그녀는 흐느껴 운다. 눈물이 그냥 마구 쏟아진다. 그녀는 무섭다. 슬프다. 소름 끼친다. 처음 경험하는 무서움이고 슬픔이다. 밤에 되고 집에 돌아온 그녀는 소름이 바늘처럼 온몸에 꽂혀 있어서, 찌르고 찔러서 잠들지 못한다.시간이 흘러 2024년 4월, 그녀는 또 ‘모르는 여자(이주노동자)’의 사연을 통역하며 운다. 모르는 여자의 사연이 너무 가슴 아파서 눈물이 흐른다. 그녀는 울고, 울어서 죄송하다고 사과하고, 통역을 계속한다. 캄보디아어 통번역사...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/05/28/news-p.v1.20240528.93dda5749092485d8479f306d565bbe5_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“여성이 학대적인 관계에서 벗어날 기회”…‘이혼 금지’ 필리핀, ‘이혼법’ 제정될까]]></title>
-            <link>https://www.khan.co.kr/world/world-general/article/202405271725001</link>
-            <guid>https://www.khan.co.kr/world/world-general/article/202405271725001</guid>
-            <pubDate>Mon, 27 May 2024 09:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[이혼을 금지하는 필리핀에서 이혼 합법화 법안이 하원을 통과했다. 여성·인권 단체는 상원 문턱까지 넘어서길 촉구하고 있으나 보수적 종교계가 반대하고 나서, 상원 통과 여부는 아직 미지수다.26일 필리핀 매체 래플러에 따르면, 필리핀 하원은 지난 22일 부부가 완전한 이혼을 통해 결혼을 종료할 수 있도록 허용하는 법안을 찬성 126표, 반대 109표로 통과시켰다. 기권은 20표였다.이에 따라 이 법안은 상원으로 넘어가게 됐다. 필리핀에서 이혼 합법화 법안이 하원을 통과한 건 이번이 두 번째다. 2018년 하원에서 이혼 합법화 법안이 찬성 134표, 반대 57표, 기권 2표로 통과한 적 있으나 상원에서 좌절된 바 있다. 이번에는 당시보다 근소한 표 차로 안건이 통과됐다.바티칸을 제외하면 필리핀은 법적 이혼을 합법화하지 않은 유일한 국가다. 필리핀은 국교는 없으나 가톨릭 신자가 약 80%를 차지한다. 가족·성 문화에 보수적인 가톨릭 영향 탓에, 임신 중지와 피임에도 엄...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/05/27/news-p.v1.20240527.06962998c6d04192a7ebb92571c908b0_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
