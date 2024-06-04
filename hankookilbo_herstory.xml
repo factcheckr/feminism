@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jun 2024 23:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 00:54:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1980년 5월 광주에서의 일]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1768</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1768</guid>
+            <pubDate>Tue, 04 Jun 2024 00:54:01 GMT</pubDate>
+            <content:encoded><![CDATA[온갖 여성 대상 폭력 사건 소식으로 뉴스가 도배됐던 날들이었습니다. (어떤 뉴스인지는 아래에 묶어 두었어요) 어느 것 하나 중요하게 다루지 않을 뉴스가 없었지만, 2주 만에 찾아온 허스펙티브가 선정한 이번 주의 소식은 5·18민주화운동 진상규명조사위원회의 성폭력 사건 조사입니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/c3f4c096-6ae5-4551-b7be-cba7f86d79ff.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[커리어 원톱 여성 배우의 말]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1752</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 18 Mar 2024 23:13:10 GMT</pubDate>
             <content:encoded><![CDATA[요 몇 주 동안 분노하거나, 답답한 뉴스를 많이 보내드렸죠? 이번에는 조금 실용적인 내용으로 돌아왔습니다! 독자 피드백함에 들어오는 요청 중 많은 분들이 여성의 경제적 자립, 재테크, 투자 등을 궁금해하셨어요.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/e07413a7-331a-49e1-8989-4f17bf0e9d60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배달왔습니다! 당신을 위한🌹]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1661</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1661</guid>
-            <pubDate>Mon, 11 Mar 2024 23:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[먼저 서울 종로구 보신각 앞을 보랏빛과 분홍빛으로 물들인 '3·8 여성파업대회' 소식입니다.&nbsp;요양보호사, 디자이너, 교사, IT 개발자 등 다양한 직군에 종사하는 여성노동자들이 주축이 된 '여성파업대회'가 처음으로 열렸습니다. 700명 넘게 몰린 이 대회에서 여성들은 "여성이 멈추면 세상도 멈춘다" "독박 집안일 강요 말고 사회가 책임져라" 등의 구호를 외치며, 성별 임금 격차 타파와 돌봄 공공성 강화 등을 주장했어요.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/a5f735f4-6de5-4bda-bc97-d8c9cf5a5477.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

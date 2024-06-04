@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jun 2024 23:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 00:54:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폭염으로 입원…장애인이 기후재난에 더 위협받고 있다]]></title>
+            <link>https://ildaro.com/9923</link>
+            <guid>https://ildaro.com/9923</guid>
+            <pubDate>Tue, 04 Jun 2024 09:34:00 GMT</pubDate>
+            <content:encoded><![CDATA["여름에 휠체어를 만지면 손이 뜨겁고, 온몸이 열로 가득해 땀이 많이 난다. 해가 거듭될수록 지구의 온도가 올라가고 이와 동시에 내 휠체어 온도도 올라가고 있다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024060441026747.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[건강보험 재정 악화가 ‘외국인 탓’이라 믿는 당신에게]]></title>
             <link>https://ildaro.com/9922</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 30 May 2024 05:12:37 GMT</pubDate>
             <content:encoded><![CDATA[서울시는 서울시공익활동지원센터 다목적홀 대관 신청을 반려했고, 4월 19일 예정됐던 “퀴어문화축제: 민주주의를 실현하는 문화의 힘” 토론회의 서울시청 시민청 ...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024050910282632.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인용과 범죄]]></title>
-            <link>https://ildaro.com/9903</link>
-            <guid>https://ildaro.com/9903</guid>
-            <pubDate>Thu, 30 May 2024 05:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[. 『아홀로틀 로드킬』에서 작가가 보고 읽고 수집한 텍스트들은 작품의 권위를 높이는 장식이 아니라 오히려 망치고 더럽히는 오물처럼 기능한다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024050826381245.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
