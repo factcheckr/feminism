@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 01:58:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 02:30:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“우리는 조금 더 다정할 수 있어요”]]></title>
+            <link>https://ildaro.com/9924</link>
+            <guid>https://ildaro.com/9924</guid>
+            <pubDate>Wed, 05 Jun 2024 11:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[“두려움 없이 서로를 만날 수 있고 무례하지 않게 반대의견을 낼 수 있으며 자신과 하나도 닮지 않은 사람들과도 친구가 될 수 있는 공간을 설계할 필요가 있다.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/202406050822912.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폭염으로 입원…장애인이 기후재난에 더 위협받고 있다]]></title>
             <link>https://ildaro.com/9923</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 11 May 2024 07:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘토모스야’는 아리타에서 마을 만들기 활동을 하는 NPO법인으로 한 달에 한번 빈집에서 팝업 행사를 여는데, 2023년 7월 이벤트로 내 공연이 함께 진행된 것이다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024051114001745.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불허, 불허, 불허, 불허를 넘어 축제가 열린다!]]></title>
-            <link>https://ildaro.com/9904</link>
-            <guid>https://ildaro.com/9904</guid>
-            <pubDate>Thu, 30 May 2024 05:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[서울시는 서울시공익활동지원센터 다목적홀 대관 신청을 반려했고, 4월 19일 예정됐던 “퀴어문화축제: 민주주의를 실현하는 문화의 힘” 토론회의 서울시청 시민청 ...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024050910282632.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
