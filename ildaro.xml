@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jun 2024 08:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jun 2024 09:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정신장애 여성이 의료권력에 저항하는 법]]></title>
+            <link>https://ildaro.com/9925</link>
+            <guid>https://ildaro.com/9925</guid>
+            <pubDate>Thu, 06 Jun 2024 09:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[〈55 steps〉의 의미는 엘리노어가 자신에게 행해진 정신의학 권력의 실상을 폭로하기 위해 오르던 법원의 계단의 수를 말한다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024060633031591.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“우리는 조금 더 다정할 수 있어요”]]></title>
             <link>https://ildaro.com/9924</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 30 May 2024 05:12:37 GMT</pubDate>
             <content:encoded><![CDATA[“If we apply a feminist perspective, what are the issues raised by the system of division we live under, and how do we solve them?”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024051226425156.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 일본 데뷔 공연 이야기]]></title>
-            <link>https://ildaro.com/9905</link>
-            <guid>https://ildaro.com/9905</guid>
-            <pubDate>Sat, 11 May 2024 07:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘토모스야’는 아리타에서 마을 만들기 활동을 하는 NPO법인으로 한 달에 한번 빈집에서 팝업 행사를 여는데, 2023년 7월 이벤트로 내 공연이 함께 진행된 것이다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024051114001745.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
