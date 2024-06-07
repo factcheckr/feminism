@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jun 2024 09:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 10:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/e07413a7-331a-49e1-8989-4f17bf0e9d60.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Hotel Workers’ Big-Character Posters Sparked Class Action Sexual Harassment Lawsuit (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9926</link>
+            <guid>https://ildaro.com/9926</guid>
+            <pubDate>Fri, 07 Jun 2024 10:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[“Lotte Hotel Strike and Class Action Sexual Harassment Lawsuit” Series, Part 1: The Truth Revealed On the Third Day of the Strike...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024060738589537.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[정신장애 여성이 의료권력에 저항하는 법 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9925</link>
             <guid>https://ildaro.com/9925</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 13 May 2024 08:33:00 GMT</pubDate>
             <content:encoded><![CDATA[‘난 외지인이니까’고 발을 빼고, 오키나와 사람들도 가족이 기지에서 일해서, 미군과 친구여서, ‘혼혈’이어서 등의 이유로 오키나와의 ‘문제’를 쉽게 이야기하...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024051342346753.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Paying Attention to Division and the Lives of North Korean Women through a Feminist Gaze (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9906</link>
-            <guid>https://ildaro.com/9906</guid>
-            <pubDate>Thu, 30 May 2024 05:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[“If we apply a feminist perspective, what are the issues raised by the system of division we live under, and how do we solve them?”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024051226425156.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
