@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jun 2024 12:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jun 2024 13:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘난민 구제’가 사회를 구제하는 일이 될 겁니다]]></title>
+            <link>https://ildaro.com/9928</link>
+            <guid>https://ildaro.com/9928</guid>
+            <pubDate>Sun, 09 Jun 2024 13:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[그제야 마음으로 알게 된 것 같아요. 난민이 된다는 것이 무엇을 의미하는지. 그리고 그런 환경에서 도망친 청년이 난민으로 인정을 받지 못하는 것은 말이 안 된다는...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024060948325736.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도시퀴어농부의 꿈을 안고, 퍼머컬처 디자이너에게 물었다]]></title>
             <link>https://ildaro.com/9927</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 30 May 2024 05:12:37 GMT</pubDate>
             <content:encoded><![CDATA[“철커덕!” 이 책의 화자는 계엄군 총으로 쓰였던 엠씩스틴(M16)이다. 엠식스틴은 ‘가해 행위에 동원된 형태로서의 가해자’를 의미하기도 한다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024051610252183.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫발 내디딘 신입/새내기를 타깃 삼는 성폭력 가해자들]]></title>
-            <link>https://ildaro.com/9908</link>
-            <guid>https://ildaro.com/9908</guid>
-            <pubDate>Wed, 15 May 2024 08:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[우리 사회는 성폭력, 가정폭력, 데이트 폭력이 일어나기 쉬운 사회다. 언제까지 이런 일이 반복되어야 하는 것일까....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024051543374320.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
