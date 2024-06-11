@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 23:12:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 00:54:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헐리우드 명예의 거리에 최초로 오른 힙합 음악가는]]></title>
+            <link>https://ildaro.com/9929</link>
+            <guid>https://ildaro.com/9929</guid>
+            <pubDate>Tue, 11 Jun 2024 09:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[래퍼로 길을 열고, 래퍼에게 노래도 같이 불러도 된다는 걸 알려줬고, 연기로 새로운 길을 여는가 하면, 이제는 프로듀서로서의 길도 열고 있다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/202406112615176.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘난민 구제’가 사회를 구제하는 일이 될 겁니다]]></title>
             <link>https://ildaro.com/9928</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 30 May 2024 05:12:37 GMT</pubDate>
             <content:encoded><![CDATA[양심적 병역거부에 대한 관심도 줄어들었다. 대체복무를 하니까, 이제 다 괜찮은 걸까? 그런데 왜 대체복무자는 여전히 교도소에 있는 걸까?...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024051712456254.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그날의 민주광장과 오늘의 나]]></title>
-            <link>https://ildaro.com/9909</link>
-            <guid>https://ildaro.com/9909</guid>
-            <pubDate>Thu, 30 May 2024 05:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[“철커덕!” 이 책의 화자는 계엄군 총으로 쓰였던 엠씩스틴(M16)이다. 엠식스틴은 ‘가해 행위에 동원된 형태로서의 가해자’를 의미하기도 한다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024051610252183.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
