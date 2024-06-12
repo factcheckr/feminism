@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 07:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 08:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하우스까지 망쳐…농민에겐 일상이 된 기후재난]]></title>
+            <link>https://ildaro.com/9930</link>
+            <guid>https://ildaro.com/9930</guid>
+            <pubDate>Wed, 12 Jun 2024 08:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[정부는 근본적인 기후위기 대책은 뒷전이고 당장 수입농산물로 위기를 모면하려 한다. 언제까지 수입농산물이 더 싸다는 보장도 없고 수입 자체가 불가능할 날이 올 ...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024061248157879.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헐리우드 명예의 거리에 최초로 오른 힙합 음악가는]]></title>
             <link>https://ildaro.com/9929</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 19 May 2024 00:01:00 GMT</pubDate>
             <content:encoded><![CDATA[“생리통이 심해서 힘들었는데, 누군가가 곁에서 돌봐주는 느낌”, “안심이 된다” 등 심리 면에서의 긍정적인 영향을 확인할 수 있었다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/202405190556537.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대체복무의 범위, 돌봄으로 넓힐 수 있지 않을까?]]></title>
-            <link>https://ildaro.com/9910</link>
-            <guid>https://ildaro.com/9910</guid>
-            <pubDate>Thu, 30 May 2024 05:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[양심적 병역거부에 대한 관심도 줄어들었다. 대체복무를 하니까, 이제 다 괜찮은 걸까? 그런데 왜 대체복무자는 여전히 교도소에 있는 걸까?...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024051712456254.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
