@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 23:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 00:54:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/9efb3dfa-129e-4121-978f-12008a893edd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[정부는 청년 82.5%의 주거권 이야기를 들어라! (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9931</link>
+            <guid>https://ildaro.com/9931</guid>
+            <pubDate>Fri, 14 Jun 2024 09:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[경기 지역 청년 교사의 “주거 형태는 월세가 가장 많았고, 월세 비용으로 40~60만원 사이 지출 비율이 62%로 가장 높았다.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024061438163751.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하우스까지 망쳐…농민에겐 일상이 된 기후재난 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9930</link>
             <guid>https://ildaro.com/9930</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 20 May 2024 10:56:00 GMT</pubDate>
             <content:encoded><![CDATA[Even when I was watering this plant called “the office,” my work was considered trivial compared to the task of bearing fruit from that soil....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024052059292961.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[학교 화장실에 월경용품 무상 지원 시스템을! (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9911</link>
-            <guid>https://ildaro.com/9911</guid>
-            <pubDate>Sun, 19 May 2024 00:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[“생리통이 심해서 힘들었는데, 누군가가 곁에서 돌봐주는 느낌”, “안심이 된다” 등 심리 면에서의 긍정적인 영향을 확인할 수 있었다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/202405190556537.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
