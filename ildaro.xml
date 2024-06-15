@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ildaro.com/sub_view.html</id>
-    <title>일다 ─ 전체기사</title>
-    <updated>2024-06-15T19:11:55.495Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ildaro.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>일다 ─ 전체기사</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 15 Jun 2024 20:13:41 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시간이 사라진, 항구마을 오노미치의 ‘마지막 밤’]]></title>
+            <link>https://ildaro.com/9932</link>
+            <guid>https://ildaro.com/9932</guid>
+            <pubDate>Sat, 15 Jun 2024 00:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[최근 이태원에 다녀온 일본 청년과 오노미치 여행 중인 아마짱, 노동 후 사케를 마시는 타카 씨, 잠을 너무 적게 자는 소라와 나의 피곤한 몸뚱이가 시간이 사라진 공간...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024061558052113.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정부는 청년 82.5%의 주거권 이야기를 들어라!]]></title>
+            <link>https://ildaro.com/9931</link>
+            <guid>https://ildaro.com/9931</guid>
+            <pubDate>Fri, 14 Jun 2024 09:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[경기 지역 청년 교사의 “주거 형태는 월세가 가장 많았고, 월세 비용으로 40~60만원 사이 지출 비율이 62%로 가장 높았다.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024061438163751.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하우스까지 망쳐…농민에겐 일상이 된 기후재난]]></title>
+            <link>https://ildaro.com/9930</link>
+            <guid>https://ildaro.com/9930</guid>
+            <pubDate>Sat, 15 Jun 2024 20:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[정부는 근본적인 기후위기 대책은 뒷전이고 당장 수입농산물로 위기를 모면하려 한다. 언제까지 수입농산물이 더 싸다는 보장도 없고 수입 자체가 불가능할 날이 올 ...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024061248157879.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헐리우드 명예의 거리에 최초로 오른 힙합 음악가는]]></title>
+            <link>https://ildaro.com/9929</link>
+            <guid>https://ildaro.com/9929</guid>
+            <pubDate>Tue, 11 Jun 2024 09:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[래퍼로 길을 열고, 래퍼에게 노래도 같이 불러도 된다는 걸 알려줬고, 연기로 새로운 길을 여는가 하면, 이제는 프로듀서로서의 길도 열고 있다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/202406112615176.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘난민 구제’가 사회를 구제하는 일이 될 겁니다]]></title>
+            <link>https://ildaro.com/9928</link>
+            <guid>https://ildaro.com/9928</guid>
+            <pubDate>Sat, 15 Jun 2024 20:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[그제야 마음으로 알게 된 것 같아요. 난민이 된다는 것이 무엇을 의미하는지. 그리고 그런 환경에서 도망친 청년이 난민으로 인정을 받지 못하는 것은 말이 안 된다는...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024060948325736.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도시퀴어농부의 꿈을 안고, 퍼머컬처 디자이너에게 물었다]]></title>
+            <link>https://ildaro.com/9927</link>
+            <guid>https://ildaro.com/9927</guid>
+            <pubDate>Sat, 08 Jun 2024 11:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[밭 입구에 커다란 원을 그리며 서서, 옆에 선 낯선 존재들의 손을 잡았다. 언뜻 보면 살짝 이상한 풍경처럼 보일지 모르는 장면이 펼쳐진 곳은 ‘퀴어텃밭’ 현장이다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024060821559480.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hotel Workers’ Big-Character Posters Sparked Class Action Sexual Harassment Lawsuit]]></title>
+            <link>https://ildaro.com/9926</link>
+            <guid>https://ildaro.com/9926</guid>
+            <pubDate>Sat, 15 Jun 2024 20:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[“Lotte Hotel Strike and Class Action Sexual Harassment Lawsuit” Series, Part 1: The Truth Revealed On the Third Day of the Strike...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024060738589537.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정신장애 여성이 의료권력에 저항하는 법]]></title>
+            <link>https://ildaro.com/9925</link>
+            <guid>https://ildaro.com/9925</guid>
+            <pubDate>Sat, 15 Jun 2024 20:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[〈55 steps〉의 의미는 엘리노어가 자신에게 행해진 정신의학 권력의 실상을 폭로하기 위해 오르던 법원의 계단의 수를 말한다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024060633031591.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“우리는 조금 더 다정할 수 있어요”]]></title>
+            <link>https://ildaro.com/9924</link>
+            <guid>https://ildaro.com/9924</guid>
+            <pubDate>Wed, 05 Jun 2024 11:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[“두려움 없이 서로를 만날 수 있고 무례하지 않게 반대의견을 낼 수 있으며 자신과 하나도 닮지 않은 사람들과도 친구가 될 수 있는 공간을 설계할 필요가 있다.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/202406050822912.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[폭염으로 입원…장애인이 기후재난에 더 위협받고 있다]]></title>
+            <link>https://ildaro.com/9923</link>
+            <guid>https://ildaro.com/9923</guid>
+            <pubDate>Tue, 04 Jun 2024 09:34:00 GMT</pubDate>
+            <content:encoded><![CDATA["여름에 휠체어를 만지면 손이 뜨겁고, 온몸이 열로 가득해 땀이 많이 난다. 해가 거듭될수록 지구의 온도가 올라가고 이와 동시에 내 휠체어 온도도 올라가고 있다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024060441026747.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[건강보험 재정 악화가 ‘외국인 탓’이라 믿는 당신에게]]></title>
+            <link>https://ildaro.com/9922</link>
+            <guid>https://ildaro.com/9922</guid>
+            <pubDate>Sun, 02 Jun 2024 00:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[2019년 7월부터 국내 6개월 이상 체류한 외국인들의 국민건강보험 가입이 의무화되었다. 하지만 난민심사 과정에 있는 난민신청자들은 여전히 가입이 불가능하다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024060217513244.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아리타에서 만난 얼굴들, 하나하나 반짝이는]]></title>
+            <link>https://ildaro.com/9921</link>
+            <guid>https://ildaro.com/9921</guid>
+            <pubDate>Sat, 15 Jun 2024 20:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[아리타가 위치한 사가현은 ‘가장 가고 싶은 일본 국내 여행지’ 설문조사에서 대체로 꼴찌를 담당한다고 했다. “아무것도 없기 때문”이라는데, 같은 이유로 나는 ...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024053100379483.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[퀴어 영화와 드라마에서 기쁨을 끄집어내기]]></title>
+            <link>https://ildaro.com/9920</link>
+            <guid>https://ildaro.com/9920</guid>
+            <pubDate>Sat, 15 Jun 2024 20:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[“자신의 이야기가 세상에 없거나 보이지 않아서 필사적으로 찾아다녀야 했던 사람들”(314쪽)에게는 퀴어 콘텐츠를 찾아다니는 일의 기쁨이 필요하다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024053007491561.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘보호출산제’…여성과 아동의 권리 거꾸로 가나?]]></title>
+            <link>https://ildaro.com/9919</link>
+            <guid>https://ildaro.com/9919</guid>
+            <pubDate>Sat, 15 Jun 2024 20:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[보육원에서 자란 자립준비청년 홍진수 씨는 “아이를 경제적, 심리적, 신체적 사유로 부모가 ‘익명’ 처리하고 정부에 맡기면, 아이는 어떻게 하라는 것이냐?”라고...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024052938222585.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘거기에 없는 것처럼’ 대기하세요, 엄마니까]]></title>
+            <link>https://ildaro.com/9918</link>
+            <guid>https://ildaro.com/9918</guid>
+            <pubDate>Sat, 15 Jun 2024 20:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[‘어머니’는 여러 기준으로 구분되지만, 존재가 삭제되는 공통의 감각이 있기 때문에 가까이 다가갔는지도 모르겠어요. ‘아버지는 어디 갔지?’라는 질문도 던지고...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024052807322438.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임금체불 당하면서 이주노동자가 차린 한국의 밥상]]></title>
+            <link>https://ildaro.com/9917</link>
+            <guid>https://ildaro.com/9917</guid>
+            <pubDate>Sat, 15 Jun 2024 20:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[쓰레이응 씨는 22살에 한국에 입국해서 벌써 30세가 되었다. 임금도 받지 못해 돈이 늘 없어서 생일 케이크를 한 번도 사본 적이 없었다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024052637332019.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[5.18 성폭력 피해자들의 ‘회복’ 가능한 사회로]]></title>
+            <link>https://ildaro.com/9916</link>
+            <guid>https://ildaro.com/9916</guid>
+            <pubDate>Sat, 15 Jun 2024 20:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[얼마나 그 폭력이 거칠었냐가 아니라 ‘그 폭력으로 인해서 그 생애사 동안에 어떤 피해를 겪었는가?’라는 질문이 새롭게 필요할 수 있다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024052532385175.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[침묵되었던 5.18 성폭력 수면위로, ‘미투 운동’은 계속된다]]></title>
+            <link>https://ildaro.com/9915</link>
+            <guid>https://ildaro.com/9915</guid>
+            <pubDate>Fri, 24 May 2024 08:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[『피해조사 신청서』를 제출하였는데, 이때 피해자 12명이 자신의 피해 사실 발화의 계기로 ‘김선옥과 서지현 검사의 미투(MeToo)’를 나란히 언급했다”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024052433541158.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너와 함께 비를 맞으며 무지개를 기다릴 거야]]></title>
+            <link>https://ildaro.com/9914</link>
+            <guid>https://ildaro.com/9914</guid>
+            <pubDate>Sat, 15 Jun 2024 20:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[꿈은 ‘아니면 말고’의 세계가 아니다. 꼭 해야 할 일의 세계다. 진짜 꿈이 있는 사람들은 꿈 때문에 많은 것을 참을 수밖에 없다. 그러나 용감하게 선택하고 대가를 ...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024052218054852.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“학생인권이 너무 ‘보장받는’ 현실은 없다”]]></title>
+            <link>https://ildaro.com/9913</link>
+            <guid>https://ildaro.com/9913</guid>
+            <pubDate>Tue, 21 May 2024 09:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[학생으로 십년 이상, 교사로서 20년 이상을 살아온 사람으로서, 학교를 인권적으로 변화시키는 데 가장 큰 진전을 가져온 학생인권조례 폐지를 받아들일 수 없다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024052159443148.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
