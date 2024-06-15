@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jun 2024 03:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jun 2024 04:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시간이 사라진, 항구마을 오노미치의 ‘마지막 밤’]]></title>
+            <link>https://ildaro.com/9932</link>
+            <guid>https://ildaro.com/9932</guid>
+            <pubDate>Sat, 15 Jun 2024 00:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[최근 이태원에 다녀온 일본 청년과 오노미치 여행 중인 아마짱, 노동 후 사케를 마시는 타카 씨, 잠을 너무 적게 자는 소라와 나의 피곤한 몸뚱이가 시간이 사라진 공간...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024061558052113.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정부는 청년 82.5%의 주거권 이야기를 들어라!]]></title>
             <link>https://ildaro.com/9931</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 21 May 2024 09:51:00 GMT</pubDate>
             <content:encoded><![CDATA[학생으로 십년 이상, 교사로서 20년 이상을 살아온 사람으로서, 학교를 인권적으로 변화시키는 데 가장 큰 진전을 가져온 학생인권조례 폐지를 받아들일 수 없다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024052159443148.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“Can’t You Even Do This Right? Anyone Can Do This!”]]></title>
-            <link>https://ildaro.com/9912</link>
-            <guid>https://ildaro.com/9912</guid>
-            <pubDate>Mon, 20 May 2024 10:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[Even when I was watering this plant called “the office,” my work was considered trivial compared to the task of bearing fruit from that soil....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024052059292961.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
