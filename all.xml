@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jun 2024 08:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jun 2024 09:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/9efb3dfa-129e-4121-978f-12008a893edd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘밀양 성폭력’ 재조명, 피해자의 눈으로! (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9933</link>
+            <guid>https://ildaro.com/9933</guid>
+            <pubDate>Sun, 16 Jun 2024 09:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[“지금의 사태, 유튜버들이 가해자를 응징하겠다고 하는 방식이 어떤 도전 프로젝트처럼 콘텐츠화되는 측면을 경계해야 한다”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/202406160425820.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[시간이 사라진, 항구마을 오노미치의 ‘마지막 밤’ (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9932</link>
             <guid>https://ildaro.com/9932</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 15 Jun 2024 20:13:41 GMT</pubDate>
             <content:encoded><![CDATA[꿈은 ‘아니면 말고’의 세계가 아니다. 꼭 해야 할 일의 세계다. 진짜 꿈이 있는 사람들은 꿈 때문에 많은 것을 참을 수밖에 없다. 그러나 용감하게 선택하고 대가를 ...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024052218054852.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“학생인권이 너무 ‘보장받는’ 현실은 없다” (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9913</link>
-            <guid>https://ildaro.com/9913</guid>
-            <pubDate>Tue, 21 May 2024 09:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[학생으로 십년 이상, 교사로서 20년 이상을 살아온 사람으로서, 학교를 인권적으로 변화시키는 데 가장 큰 진전을 가져온 학생인권조례 폐지를 받아들일 수 없다...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024052159443148.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
