@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jun 2024 22:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jun 2024 23:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/06/11/news-p.v1.20240611.87b97ac7270f413cba0f488634a273c9_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[목숨 걸고 하는 연애 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1786</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1786</guid>
+            <pubDate>Mon, 17 Jun 2024 23:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[어디 교제 폭력이 '젊은 여성'만의 일일까요? 이미 뉴스레터에서 한번 다뤘습니다만, 얼마 전에는 60대 남성이 이별을 요구한 60대 여성과 그 딸을 살해한 사건도 있었죠. 고령화 추세 속에서 교제 폭력은 연령을 가리지 않습니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/0c1d77fa-a398-4947-93d7-bacdc240ac58.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['일본약자남성센터'의 등장 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1780</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1780</guid>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 01 Apr 2024 23:13:25 GMT</pubDate>
             <content:encoded><![CDATA[사실 문화예술계에서 '페미니즘' 물결이 일어난 것은 익숙한 이야기입니다. 허스펙티브도 그간, 특히 대중문화 프로그램 내에서의 여성의 역할 변화와 여성 서사를 집중해서 들여다 보기도 했죠. '82년생 김지영'이 등장한 이후로 범람하는 페미니즘 문학은 또 어떻고요.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/cb19c76b-5234-4d5a-a31c-d408c364ccbb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금지된 책들의 목록 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1680</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1680</guid>
-            <pubDate>Mon, 25 Mar 2024 23:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 '어떤' 청소년 책에 대해 이야기를 해볼까 해요. 이 책의 제목들을 한번 살펴보시겠어요?&nbsp;△ 나도 엄마 배 속에 있었어요? △아빠는 페미니스트 △우리 할머니는 페미니스트 △안녕 내 친구는 페미니즘이야 △여자와 남자는 같아요 △아들 인권선언 △아빠 인권선언 △엄마 인권선언 △딸 인권선언 △안녕, 나의 사춘기 △내 동생이 태어났어 △성 터놓고 얘기해요 △소녀 몸 교과서 △안녕 생리야 △생리와 생명에 관한 이야기 ...&nbsp;]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/9efb3dfa-129e-4121-978f-12008a893edd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘밀양 성폭력’ 재조명, 피해자의 눈으로! (일다 ─ 전체기사)]]></title>
