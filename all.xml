@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jun 2024 11:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 12:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/cb19c76b-5234-4d5a-a31c-d408c364ccbb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[재주껏 형편껏 색깔대로 짓는 밭농사, 책농사를 권함 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9936</link>
+            <guid>https://ildaro.com/9936</guid>
+            <pubDate>Thu, 20 Jun 2024 12:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[“물이 염소 오줌만큼 나와요.” 이례적인 가뭄으로 힘겨웠던 여름, 카페 화장실을 쓰고 돌아오더니 말했다. “여기는 물이 콸콸 나오는 게 이상하고 무서워요.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024062058126031.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방문 요양보호사들 ‘임금 올려라’ 국가에 소송 제기 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9935</link>
             <guid>https://ildaro.com/9935</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 15 Jun 2024 20:13:41 GMT</pubDate>
             <content:encoded><![CDATA[쓰레이응 씨는 22살에 한국에 입국해서 벌써 30세가 되었다. 임금도 받지 못해 돈이 늘 없어서 생일 케이크를 한 번도 사본 적이 없었다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024052637332019.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5.18 성폭력 피해자들의 ‘회복’ 가능한 사회로 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9916</link>
-            <guid>https://ildaro.com/9916</guid>
-            <pubDate>Sat, 15 Jun 2024 20:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[얼마나 그 폭력이 거칠었냐가 아니라 ‘그 폭력으로 인해서 그 생애사 동안에 어떤 피해를 겪었는가?’라는 질문이 새롭게 필요할 수 있다...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024052532385175.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
