@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jun 2024 12:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 13:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/cb19c76b-5234-4d5a-a31c-d408c364ccbb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[성폭력으로 인한 임신, ‘DNA 검사’해야 임신중단 지원? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9937</link>
+            <guid>https://ildaro.com/9937</guid>
+            <pubDate>Fri, 21 Jun 2024 13:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[면접참여자들의 공통적인 대답이 “임신중단 지원에서 가장 어려웠던 점은 임신중단 의료를 제공하는 의료인을 찾기까지의 과정이었다고 말한 점”을 언급했다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024062144271162.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[재주껏 형편껏 색깔대로 짓는 밭농사, 책농사를 권함 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9936</link>
             <guid>https://ildaro.com/9936</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 15 Jun 2024 20:13:41 GMT</pubDate>
             <content:encoded><![CDATA[‘어머니’는 여러 기준으로 구분되지만, 존재가 삭제되는 공통의 감각이 있기 때문에 가까이 다가갔는지도 모르겠어요. ‘아버지는 어디 갔지?’라는 질문도 던지고...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024052807322438.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임금체불 당하면서 이주노동자가 차린 한국의 밥상 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9917</link>
-            <guid>https://ildaro.com/9917</guid>
-            <pubDate>Sat, 15 Jun 2024 20:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[쓰레이응 씨는 22살에 한국에 입국해서 벌써 30세가 되었다. 임금도 받지 못해 돈이 늘 없어서 생일 케이크를 한 번도 사본 적이 없었다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024052637332019.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
