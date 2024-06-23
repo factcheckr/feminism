@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jun 2024 23:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jun 2024 00:57:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/cb19c76b-5234-4d5a-a31c-d408c364ccbb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[할아버지의 옛 무지개 축제 깃발이 펼쳐진 미래 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9938</link>
+            <guid>https://ildaro.com/9938</guid>
+            <pubDate>Sun, 23 Jun 2024 09:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[구시대의 답습을 끊고 나온 새로운 세대의 출현을 상징하는 이야기이자, 혼인이나 혈연으로 묶이지 않으면서도 더 가까운 가족으로 살아가는 이들의 생활이야기로 다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024062353498216.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[성폭력으로 인한 임신, ‘DNA 검사’해야 임신중단 지원? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9937</link>
             <guid>https://ildaro.com/9937</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 15 Jun 2024 20:13:41 GMT</pubDate>
             <content:encoded><![CDATA[보육원에서 자란 자립준비청년 홍진수 씨는 “아이를 경제적, 심리적, 신체적 사유로 부모가 ‘익명’ 처리하고 정부에 맡기면, 아이는 어떻게 하라는 것이냐?”라고...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024052938222585.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘거기에 없는 것처럼’ 대기하세요, 엄마니까 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9918</link>
-            <guid>https://ildaro.com/9918</guid>
-            <pubDate>Sat, 15 Jun 2024 20:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[‘어머니’는 여러 기준으로 구분되지만, 존재가 삭제되는 공통의 감각이 있기 때문에 가까이 다가갔는지도 모르겠어요. ‘아버지는 어디 갔지?’라는 질문도 던지고...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024052807322438.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
