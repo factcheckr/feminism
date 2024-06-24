@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jun 2024 22:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jun 2024 23:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['인구전략기획'이라는 위험한 발상]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1796</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1796</guid>
+            <pubDate>Mon, 24 Jun 2024 23:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령이 19일 '인구 국가비상사태'를 선언하고 저출생 대책을 발표했습니다. '인구전략기획부'를 신설한다고도 했습니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/dc96cf42-45cd-448d-a8d8-4ac2a0b34250.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[목숨 걸고 하는 연애]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1786</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 09 Apr 2024 07:13:28 GMT</pubDate>
             <content:encoded><![CDATA[오늘 뉴스레터는 이 한장으로 짧게 마무리하려고 합니다. 총선을 코 앞에 둔 만큼 긴 말을 하는 것이 필요하지 않을 거라 생각합니다. 오늘 뉴스레터가 제공하는 정보를 통해 숙고하신 후, 각자 소중한 한 표를 꼭 행사하시길 바라겠습니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/42ae19a9-b8aa-4f78-a662-d6ad6da7e10d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부처는 페미니스트였을까?]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1689</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1689</guid>
-            <pubDate>Mon, 01 Apr 2024 23:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[사실 문화예술계에서 '페미니즘' 물결이 일어난 것은 익숙한 이야기입니다. 허스펙티브도 그간, 특히 대중문화 프로그램 내에서의 여성의 역할 변화와 여성 서사를 집중해서 들여다 보기도 했죠. '82년생 김지영'이 등장한 이후로 범람하는 페미니즘 문학은 또 어떻고요.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/cb19c76b-5234-4d5a-a31c-d408c364ccbb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
