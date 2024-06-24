@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jun 2024 03:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jun 2024 04:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/cb19c76b-5234-4d5a-a31c-d408c364ccbb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“띨띨이” 욕설, 구타…이주노동자에 대한 폭력, 왜 처벌은? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9939</link>
+            <guid>https://ildaro.com/9939</guid>
+            <pubDate>Mon, 24 Jun 2024 00:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[사업주 부부는 그를 “돌머리, 띨띨이, 바보”라고 불렀다. 이제 막 한국에 온 이주노동자 쏘퍼리 씨는 그런 일상적인 폭언에 제대로 항변도 하지 못했다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024062437335590.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[할아버지의 옛 무지개 축제 깃발이 펼쳐진 미래 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9938</link>
             <guid>https://ildaro.com/9938</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 15 Jun 2024 20:13:41 GMT</pubDate>
             <content:encoded><![CDATA[“자신의 이야기가 세상에 없거나 보이지 않아서 필사적으로 찾아다녀야 했던 사람들”(314쪽)에게는 퀴어 콘텐츠를 찾아다니는 일의 기쁨이 필요하다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024053007491561.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘보호출산제’…여성과 아동의 권리 거꾸로 가나? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9919</link>
-            <guid>https://ildaro.com/9919</guid>
-            <pubDate>Sat, 15 Jun 2024 20:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[보육원에서 자란 자립준비청년 홍진수 씨는 “아이를 경제적, 심리적, 신체적 사유로 부모가 ‘익명’ 처리하고 정부에 맡기면, 아이는 어떻게 하라는 것이냐?”라고...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202405/2024052938222585.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
