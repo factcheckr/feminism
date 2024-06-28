@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 08:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 09:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[UN에 가서 ‘한국의 시설수용’ 문제를 말할 거예요]]></title>
+            <link>https://ildaro.com/9942</link>
+            <guid>https://ildaro.com/9942</guid>
+            <pubDate>Fri, 28 Jun 2024 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[돕는다는 말보다, 같이 힘내서 견뎌줘야 한다는 말이 맞는 것 같아요. 그게 더 나은 삶을 살게 한다고 생각해요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024062823013170.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘살아남은 당신이 팔레스타인의 이야기를 전해주세요’]]></title>
             <link>https://ildaro.com/9941</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 04 Jun 2024 09:34:00 GMT</pubDate>
             <content:encoded><![CDATA["여름에 휠체어를 만지면 손이 뜨겁고, 온몸이 열로 가득해 땀이 많이 난다. 해가 거듭될수록 지구의 온도가 올라가고 이와 동시에 내 휠체어 온도도 올라가고 있다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024060441026747.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건강보험 재정 악화가 ‘외국인 탓’이라 믿는 당신에게]]></title>
-            <link>https://ildaro.com/9922</link>
-            <guid>https://ildaro.com/9922</guid>
-            <pubDate>Sun, 02 Jun 2024 00:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[2019년 7월부터 국내 6개월 이상 체류한 외국인들의 국민건강보험 가입이 의무화되었다. 하지만 난민심사 과정에 있는 난민신청자들은 여전히 가입이 불가능하다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024060217513244.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
