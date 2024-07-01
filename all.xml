@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jul 2024 22:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jul 2024 23:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/06/25/news-p.v1.20240625.3205d521d2e54f7d97ee618d68fad3f4_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[언론계 내 '단톡방 성희롱' (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1805</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1805</guid>
+            <pubDate>Mon, 01 Jul 2024 23:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 최근 언론계 내에서 발생한 '단톡방 성희롱' 사건에 대해 가져왔습니다. 어쩌면 기자들의 세계에서 발생한 '내부적 문제'이기에, 뉴스레터에 전면적으로 소개하기에는 부담스러운 부분도 있었습니다. 하지만 이번 사안의 진행 과정을 보면서 꼭 여러분과 나누고 싶은 화두가 있었습니다. 하나하나 차근차근 같이 볼까요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/3495a164-0148-4deb-917b-080e70e53ab1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['인구전략기획'이라는 위험한 발상 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1796</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1796</guid>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 15 Apr 2024 23:11:49 GMT</pubDate>
             <content:encoded><![CDATA['60'이라는 숫자를 외워 두시면 좋을 것 같습니다. 혹은 '20'이라는 숫자도 괜찮겠습니다. 22대 총선 결과 여성 당선인 수와 그 비율을 나타내는 숫자입니다. 이번 선거,&nbsp; 지역구와 비례대표를 포함한 여성 당선자 수는 60명입니다. 드디어, 전체 의원의 5분의 1이 여성으로 채워진 겁니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/7e28b64f-28e7-426d-bd7c-0adc4fac3d9f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4월 10일 당신의 선택 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1698</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1698</guid>
-            <pubDate>Tue, 09 Apr 2024 07:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 뉴스레터는 이 한장으로 짧게 마무리하려고 합니다. 총선을 코 앞에 둔 만큼 긴 말을 하는 것이 필요하지 않을 거라 생각합니다. 오늘 뉴스레터가 제공하는 정보를 통해 숙고하신 후, 각자 소중한 한 표를 꼭 행사하시길 바라겠습니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/42ae19a9-b8aa-4f78-a662-d6ad6da7e10d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘엄마에서 후보로’ 대만의 오바상(아줌마) 정당 이야기 (일다 ─ 전체기사)]]></title>
