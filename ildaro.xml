@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jul 2024 01:01:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jul 2024 02:11:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘엄마에서 후보로’ 대만의 오바상(아줌마) 정당 이야기]]></title>
+            <link>https://ildaro.com/9944</link>
+            <guid>https://ildaro.com/9944</guid>
+            <pubDate>Mon, 01 Jul 2024 10:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[누군가의 딸, 며느리, 엄마, 아내가 아니라 무엇이든 할 수 있다는 것을 모든 사람들에게, 그리고 자기 자신에게 보여주었다는 것이 우리 정당의 가장 큰 성과입니다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024070112054289.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[만남과 배움이 있다면, 여행은 끝나지 않은 거야]]></title>
             <link>https://ildaro.com/9943</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 15 Jun 2024 20:13:41 GMT</pubDate>
             <content:encoded><![CDATA[〈55 steps〉의 의미는 엘리노어가 자신에게 행해진 정신의학 권력의 실상을 폭로하기 위해 오르던 법원의 계단의 수를 말한다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024060633031591.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“우리는 조금 더 다정할 수 있어요”]]></title>
-            <link>https://ildaro.com/9924</link>
-            <guid>https://ildaro.com/9924</guid>
-            <pubDate>Wed, 05 Jun 2024 11:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[“두려움 없이 서로를 만날 수 있고 무례하지 않게 반대의견을 낼 수 있으며 자신과 하나도 닮지 않은 사람들과도 친구가 될 수 있는 공간을 설계할 필요가 있다.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/202406050822912.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
