@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jul 2024 00:54:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 02:01:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헌재 “16세 미만 미성년자와 성관계, 동의했어도 ‘강간’ 합헌”]]></title>
+            <link>https://www.khan.co.kr/national/court-law/article/202407021020001</link>
+            <guid>https://www.khan.co.kr/national/court-law/article/202407021020001</guid>
+            <pubDate>Tue, 02 Jul 2024 02:00:12 GMT</pubDate>
+            <content:encoded><![CDATA[헌법재판소가 성인이 13세 이상 16세 미만 미성년자와 성관계했다면 미성년자가 동의했더라도 강간으로 보고 성인을 처벌하도록 한 형법 조항이 헌법에 어긋나지 않는다고 판단했다.헌재는 지난달 27일 이런 내용이 담긴 형법 305조2항에 대해 재판관 전원일치 의견으로 합헌 결정했다고 1일 밝혔다.형법 305조2항은 2020년 의제강간 연령 기준이 상향되면서 신설된 조항이다. 의제강간은 성인이 ‘성교 동의 연령’에 이르지 못한 미성년자와 성관계를 했다면 미성년자의 동의가 있었더라도 강간으로 보고 처벌하는 것이다. 개정 전에는 ‘13세 미만’을 대상으로 의제강간이 적용됐는데, 이른바 ‘N번방’ 사건을 계기로 10대를 대상으로 한 성착취 문제가 논란이 되면서 ‘16세 미만’으로 상향됐다.이 조항을 두고 2022년부터 총 8건의 헌법소원이 청구됐다. 청구인들은 13세 이상 16세 미만 미성년자를 강간 또는 추행한 혐의로 기소된 사건에서 상고했지만 기각되자 헌재에 위헌성을 판단해 달...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/02/news-p.v1.20240702.474a20720a9e414689bd4d33d170c9a4_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미성년자 아이돌을 전쟁터에 세우는 ‘배틀그라운드’의 ‘뉴진스’ 컬래버]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202407011508001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 25 Jun 2024 06:16:41 GMT</pubDate>
             <content:encoded><![CDATA[프랑스 총선을 일주일 남겨둔 23일(현지시간) 독일 총리도 극우 정당의 집권 가능성에 우려를 표했다. 프랑스에선 만 명이 넘는 여성들이 거리로 나서 극우 집권을 막아야 한다고 촉구했다.올라프 숄츠 독일 총리는 이날 공영라디오 ARD에 출연해 “프랑스 선거가 걱정된다”며 “르펜이 없는 정당이 이겼으면 좋겠지만, 이는 프랑스 국민들이 결정할 일”이라고 말했다. 마린 르펜 하원의원은 프랑스 극우정당 국민연합(RN)의 지도자로 통하는 인물이다.숄츠 총리의 이날 발언에는 프랑스와 마찬가지로 극우 정당인 독일을위한대안(AfD)이 몸집을 키우고 있는 자국 상황에 대한 우려가 깔린 것으로 풀이된다. AfD는 지난 9일 마무리된 유럽의회 선거에서 15.9%를 득표해 숄츠 총리가 속한 독일사회민주당(13.9%)에 이어 2위를 차지했다.같은 날 프랑스에서는 수만 명의 여성들이 RN의 집권을 막아야 한다고 외치며 거리를 행진했다.프랑스 일간 르몽드에 따르면 이날 프랑스의 30개 도시에...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/06/25/news-p.v1.20240625.625ad7a19e5a467cbf6ecd205e5c46d5_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저출생 주요대책 ‘워라밸’ 다루면서…13명 전원 ‘남성’인 ‘일·생활 균형 위원회’]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202406251026011</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202406251026011</guid>
-            <pubDate>Tue, 25 Jun 2024 01:58:33 GMT</pubDate>
-            <content:encoded><![CDATA[저출생 대책의 핵심인 노동시간 관련 제도를 논의할 대통령 소속 경제사회노동위원회 산하 위원회가 13명 전원 남성으로 구성된 것을 두고 비판이 나온다. 일·생활 균형을 위한 정책을 설계하는 데 여성의 목소리가 직접 반영되기 어려운 위원회 구조라는 지적이다.경사노위 산하 ‘일·생활 균형 위원회’는 지난 21일 발족식을 갖고 첫 전체회의를 열었다. 위원회는 ‘주 4일제’ 등 노동시간 단축과 노동시간 유연화, 노동자 건강권 보호, 근무형태·휴가, 일·육아 양립 지원방안 등을 다룬다.위원회는 위원장 1명과 노·사·정 위원 7명, 공익위원 5명 등 총 13명이다. 최저임금위원회 위원장이기도 한 이인재 인천대 경제학과 교수가 위원장을 맡았다. 노동계에서는 유정엽 한국노총 정책1본부장과 류제강 정책2본부장이, 경영계에서는 황용연 한국경총 노동정책본부장과 이명로 중소기업중앙회 인력정책본부장이 위원으로 위촉됐다. 정부위원은 권창준 고용노동부 노동개혁정책관, 주환욱 기획재정부 경제구조개혁...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/06/25/news-p.v1.20240625.3205d521d2e54f7d97ee618d68fad3f4_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
