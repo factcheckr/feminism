@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jul 2024 06:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 07:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내 일자리는 사라지지 않을 것이다]]></title>
+            <link>https://ildaro.com/9945</link>
+            <guid>https://ildaro.com/9945</guid>
+            <pubDate>Tue, 02 Jul 2024 07:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[그 어떤 의미도 생산하지 않는 이 무의미한 작업이 나를 위로했다면 믿을 수 있겠는가? 전체 직업에서 이 ‘불쉿 잡’이 차지하는 비율은 무려 약 40%에 육박한다고 한...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024070257494572.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘엄마에서 후보로’ 대만의 오바상(아줌마) 정당 이야기]]></title>
             <link>https://ildaro.com/9944</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 15 Jun 2024 20:13:41 GMT</pubDate>
             <content:encoded><![CDATA[“Lotte Hotel Strike and Class Action Sexual Harassment Lawsuit” Series, Part 1: The Truth Revealed On the Third Day of the Strike...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024060738589537.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정신장애 여성이 의료권력에 저항하는 법]]></title>
-            <link>https://ildaro.com/9925</link>
-            <guid>https://ildaro.com/9925</guid>
-            <pubDate>Sat, 15 Jun 2024 20:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[〈55 steps〉의 의미는 엘리노어가 자신에게 행해진 정신의학 권력의 실상을 폭로하기 위해 오르던 법원의 계단의 수를 말한다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024060633031591.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
