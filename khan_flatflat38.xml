@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jul 2024 08:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 09:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성적 함의를 갖지 않는 몸 ‘자유로운 몸의 문화’]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202407031804001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202407031804001</guid>
+            <pubDate>Wed, 03 Jul 2024 09:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[독일에 와서 신기했던 것 중에 하나는 나체가 그 자체로 성적인 함의를 갖지 않는다는 것이었다. 대부분의 사우나가 남녀공용으로 운영되고 수영장·탈의실 등은 성별로 공간이 나뉘어 있지 않아 모두 섞여 옷을 갈아입는다.이것은 ‘자유로운 몸의 문화’를 뜻하는, 100년의 역사를 가진 독일의 나체주의 운동 에프카카(FKK; Frei-korper-kultur)에 영향을 받은 것이다. 19세기 말 레벤스레폼 운동의 일환으로 시작된 FKK는 산업화와 도시화로 인해 자연과 멀어진 사람들이 사회적 지위와 관계없이 모두가 평등하게 벗은 몸으로 만나 자연 속에서 휴식을 취하자는 반권위주의 운동이었다. 아무래도 벌거벗은 몸으로 자신의 사회적 지위를 뽐내기는 어려울 테니까. 지금도 독일 전역에는 국가가 지정한 FKK 해변과 공원, 사우나 등이 많다.몇주 전 나는 2박3일 동안 열린 나체 축제에 다녀왔다. 평소 다니던 요가원에서 우연히 이 행사를 알게 되었는데 순전히 호기심이 발동하여 혼자 가보기...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/03/news-p.v1.20240703.0f165bf20f364343be90653aee3aea6a_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘교제폭력’ 신고했다가 도리어 ‘무고죄’…피고인이 된 피해자, 사과없는 가해자]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202407031044011</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 27 Jun 2024 01:58:18 GMT</pubDate>
             <content:encoded><![CDATA[캐시 박 홍 미국 UC버클리대 영문과 교수는 26일 서울 중구 롯데호텔에서 열린 &lt;2024 경향포럼&gt; 대담에서 ‘모범 소수자’ 신화를 언급했다. 모범 소수자는 근면하고 우등하며 사회적 성공을 이룩한 소수자를 뜻한다. 미국계 아시아인들 사이에 자리 잡은 모범 소수자 신화는 다른 소수 인종을 낮춰보는 차별 기제로 작동하기도 한다. 모범 소수자는 박 홍 교수의 책 &lt;마이너 필링스&gt;에서 소개된 개념이다.이날 박 홍 교수와 김지혜 강릉원주대 다문화학과 교수의 대담에서는 역사적 맥락과 제도 속에 담긴 ‘차별’을 둘러싼 이야기가 오갔다. 박 홍 교수는 모범 소수자 신화의 제도적 근원을 살펴봐야 한다면서 “미국은 (아시아인의) 아메리칸드림을 이야기하지만 (미국에서) 아시아인의 성공은 미국의 이민정책 때문에 구조적으로 만들어진 것”이라고 말했다.박 홍 교수는 미국은 1965년 이후 의사나 공학자 등 고등교육을 받은 아시아계 이민자를 선별해 받으면서 아시아인 사이...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/06/27/news-p.v1.20240627.7c7e776e9da348a1862e7d9f959a8398_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“내가 못 버티면 후배들은 기회 없을 거라 생각했죠”···여성 최초 ‘소방감’ 이오숙 전북소방본부장]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202406261619001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202406261619001</guid>
-            <pubDate>Wed, 26 Jun 2024 08:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[“후배들 길을 터주면 좋겠네.”이오숙 전북소방본부장(57)이 2009년 대전 동부소방서 구조구급계장으로 근무할 당시 소방방재청 전입 제의를 받으면서 들었던 말이다. 이전까지 방재청(현 소방청) 본청에 여성 간부는 없었다. 방재청 소방장비과로 배치된 그는 본청에서 근무하는 사상 첫 여성 간부(소방경-일반직 6급 해당)가 됐다. 그는 “못 버티면 후배들에겐 기회가 없을지도 모른다는 생각으로 임했다”고 했다.그는 지난달 여성 최초로 소방감(일반직 2급 상당)으로 승진하며 전북소방본부장에 임명됐다. 7만여 명의 소방공무원 중 그보다 높은 사람은 이제 소방청장을 포함 5명뿐이다. 그는 ‘첫 여성 소방청 대변인’, ‘대구·경북 최초의 여성소방서장’, ‘대전·충남 최초의 여성 119안전센터장’이기도 했다.공무원 조직 중 남성 비율이 가장 높은 곳이 소방이다. 가장 두꺼운 ‘유리천장’을 깨뜨려 온 그를 지난 21일 전북소방본부에서 만났다.그는 “의용소방대장이었던 부친의 영향을 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/06/26/news-p.v1.20240626.2ff5445a01ff47d598470a6a9b29ae6b_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
