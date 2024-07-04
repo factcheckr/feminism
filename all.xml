@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jul 2024 23:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jul 2024 00:55:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://image.hankookilbo.com/board/7e28b64f-28e7-426d-bd7c-0adc4fac3d9f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘장시간, 불안정 노동’ 그대로 두고 저출생 대책? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9946</link>
+            <guid>https://ildaro.com/9946</guid>
+            <pubDate>Thu, 04 Jul 2024 09:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[성별 임금격차가 보여주는 ‘구조적 성차별’을 해소하지 않는 한, 여성들은 한국이 아이를 낳고 키우기에 적합하지 않은 사회라고 인식할 것이라고, 여성/노동계는 ...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024070431598242.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[내 일자리는 사라지지 않을 것이다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9945</link>
             <guid>https://ildaro.com/9945</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 08 Jun 2024 11:09:00 GMT</pubDate>
             <content:encoded><![CDATA[밭 입구에 커다란 원을 그리며 서서, 옆에 선 낯선 존재들의 손을 잡았다. 언뜻 보면 살짝 이상한 풍경처럼 보일지 모르는 장면이 펼쳐진 곳은 ‘퀴어텃밭’ 현장이다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024060821559480.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hotel Workers’ Big-Character Posters Sparked Class Action Sexual Harassment Lawsuit (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9926</link>
-            <guid>https://ildaro.com/9926</guid>
-            <pubDate>Sat, 15 Jun 2024 20:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[“Lotte Hotel Strike and Class Action Sexual Harassment Lawsuit” Series, Part 1: The Truth Revealed On the Third Day of the Strike...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024060738589537.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
