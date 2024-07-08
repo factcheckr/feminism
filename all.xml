@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jul 2024 22:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2024 23:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,15 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/07/02/news-p.v1.20240702.474a20720a9e414689bd4d33d170c9a4_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[영국 2인자 된 흙수저 여성 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1815</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1815</guid>
+            <pubDate>Mon, 08 Jul 2024 23:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[키어 스타머 신임 영국 총리가 지난 5일 내각 주요 장관을 발표했어요.&nbsp;
+중도좌파 정당인 노동당이 얼마 전 총선에서 2010년 이후 14년간 집권했던 보수당에 압승한 결과입니다. 내각 25명 중 11명(44%)이 여성입니다. 한국은요? 제가 얼마 전 계산해 봤더니 26%더군요. 여성가족부 장관은 여전히 공석입니다. 앞서 유엔여성차별철폐협약(CEDAW) 위원회가 "여가부 페지 법안을 철회하고 지체 없이 장관을 임명하라"고 권고했음에도 말이죠.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/fc893a96-7dbe-4742-95bc-25d60cc7aef4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[언론계 내 '단톡방 성희롱' (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1805</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1805</guid>
@@ -318,14 +327,6 @@
             <pubDate>Mon, 29 Apr 2024 23:11:33 GMT</pubDate>
             <content:encoded><![CDATA[지난주 세상에 떠들썩했던 '하이브와 어도어의 갈등' 이슈를 갖고 왔습니다. 우선 종합적으로 사안을 바라보실 수 있도록, 한국일보 기사를 묶은 링크를 함께 엮었습니다. 다만! 젠더 뉴스레터라는 허스펙티브의 정체성을 고려해, 연예 산업 기사에서 다룰 만한 구체적인 쟁점을 이야기하지는 않습니다. 누가 옳다, 그르다 같은 진위를 따지지도 않습니다. 시야를 조금만 더 확장해 이 사안에서 함께 고민할 거리를 건져 봅시다. 오늘 우리가 주목할 주제는 바로&nbsp;'고위직 여성의 일 경험'입니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/0052ed18-7018-4af4-a385-6a0bc700a135.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[처음으로 '20%'를 돌파했다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1708</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1708</guid>
-            <pubDate>Mon, 15 Apr 2024 23:11:49 GMT</pubDate>
-            <content:encoded><![CDATA['60'이라는 숫자를 외워 두시면 좋을 것 같습니다. 혹은 '20'이라는 숫자도 괜찮겠습니다. 22대 총선 결과 여성 당선인 수와 그 비율을 나타내는 숫자입니다. 이번 선거,&nbsp; 지역구와 비례대표를 포함한 여성 당선자 수는 60명입니다. 드디어, 전체 의원의 5분의 1이 여성으로 채워진 겁니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/7e28b64f-28e7-426d-bd7c-0adc4fac3d9f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고된 농장일 하는 이주노동자들 ‘아프면 해고’? (일다 ─ 전체기사)]]></title>
