@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jul 2024 04:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2024 05:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고된 농장일 하는 이주노동자들 ‘아프면 해고’?]]></title>
+            <link>https://ildaro.com/9949</link>
+            <guid>https://ildaro.com/9949</guid>
+            <pubDate>Mon, 08 Jul 2024 05:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[가장 젊은 나이에, 검증된 체력의 건강 상태에서 한국에 와서 일반적인 노동 강도보다 훨씬 더 높은 강도를 일하니까, 이분들한테 나타나는 대부분의 근골계 질환은 다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024070811026372.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[교육은 이제 ‘총체적인 전환’을 목적으로 해야 한다]]></title>
             <link>https://ildaro.com/9948</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 15 Jun 2024 20:13:41 GMT</pubDate>
             <content:encoded><![CDATA[정부는 근본적인 기후위기 대책은 뒷전이고 당장 수입농산물로 위기를 모면하려 한다. 언제까지 수입농산물이 더 싸다는 보장도 없고 수입 자체가 불가능할 날이 올 ...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024061248157879.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헐리우드 명예의 거리에 최초로 오른 힙합 음악가는]]></title>
-            <link>https://ildaro.com/9929</link>
-            <guid>https://ildaro.com/9929</guid>
-            <pubDate>Tue, 11 Jun 2024 09:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[래퍼로 길을 열고, 래퍼에게 노래도 같이 불러도 된다는 걸 알려줬고, 연기로 새로운 길을 여는가 하면, 이제는 프로듀서로서의 길도 열고 있다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/202406112615176.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
