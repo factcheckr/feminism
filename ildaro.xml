@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jul 2024 10:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 11:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[International Marriage Support Ordinances Are Systematized Discrimination and It’s Time to Get Rid of Them]]></title>
+            <link>https://ildaro.com/9950</link>
+            <guid>https://ildaro.com/9950</guid>
+            <pubDate>Tue, 09 Jul 2024 11:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[First, that it presented immigrant women (Vietnamese exchange students) as potential spouses. A belief in the superiority of one country, race, and gender is implicit in this program...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024070917009648.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고된 농장일 하는 이주노동자들 ‘아프면 해고’?]]></title>
             <link>https://ildaro.com/9949</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 14 Jun 2024 09:29:00 GMT</pubDate>
             <content:encoded><![CDATA[경기 지역 청년 교사의 “주거 형태는 월세가 가장 많았고, 월세 비용으로 40~60만원 사이 지출 비율이 62%로 가장 높았다.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024061438163751.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하우스까지 망쳐…농민에겐 일상이 된 기후재난]]></title>
-            <link>https://ildaro.com/9930</link>
-            <guid>https://ildaro.com/9930</guid>
-            <pubDate>Sat, 15 Jun 2024 20:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[정부는 근본적인 기후위기 대책은 뒷전이고 당장 수입농산물로 위기를 모면하려 한다. 언제까지 수입농산물이 더 싸다는 보장도 없고 수입 자체가 불가능할 날이 올 ...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024061248157879.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
