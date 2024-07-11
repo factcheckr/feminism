@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jul 2024 00:56:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jul 2024 02:02:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“전 남자친구가 불법촬영, 폭행 당했다”…‘사이버렉카’ 의혹에 반박한 쯔양]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202407111015001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202407111015001</guid>
+            <pubDate>Thu, 11 Jul 2024 02:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[구독자 1010만명의 유명 ‘먹방’ 유튜버 쯔양이 4년간 전 남자 친구로부터 폭행과 협박을 당하고 수십억원을 빼앗겼다고 밝혔다.쯔양은 11일 새벽 자신의 유튜브 채널에서 ‘모두 말씀드리겠습니다’라는 제목의 라이브 방송을 진행하고 “(전 남자친구) A씨가 저 몰래 찍은 불법촬영 동영상을 유포하겠다고 협박을 했고, 우산 등의 둔기로 폭행을 당하기도 했다”며 이같이 말했다. 유튜브 채널 가로세로연구소 측이 ‘쯔양이 사이버 렉카(온라인의 부정적 이슈에 관한 영상을 제작해 이익을 챙기는 사람)로부터 과거를 빌미로 협박을 당해 돈을 갈취당했다’는 취지로 주장하자 이를 반박한 것이다.쯔양은 유튜브 방송을 시작하기 전 만났던 A씨가 교제를 거부하자 자신을 동영상으로 협박했다고 했다. 쯔양은 “헤어지자니까 저 몰래 찍은 동영상이 있더라, 그래서 그걸 보고하겠다고 헤어지지 못하게 협박했었고 그 뒤로 엄청 많이 맞고 우산 같은 거로도 맞고 둔탁한 물건으로 맞고 그렇게 폭력적인 일들이 있었다...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/07/11/news-p.v1.20240711.699d268b1a784b409140d3c57877da7d_P1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[가사노동자 법적 보호 강화하는 일본, 최저임금도 못주겠다는 한국]]></title>
             <link>https://www.khan.co.kr/economy/economy-general/article/202407101602001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 04 Jul 2024 08:16:09 GMT</pubDate>
             <content:encoded><![CDATA[냉동감자 포대는 땀흘려 일한 노동자의 피부 같아한 번 쓰고 버려지는 노동력 표현하기 적합맥도날드 냉동 감자포대로 만든 거대한 조각상. 잔뜩 화가 난 표정을 한 얼굴의 뒤통수에는 리본 달린 머리망이 달려 있다. 패스트푸드점, 커피숍에서 매일같이 마주하는 서비스직 여성 노동자들이다. 신민 작가가 만든 조각들은 상냥하게 미소 짓는 ‘여성 서비스직 노동자’에 대한 고정관념과 거리가 멀다. 장대한 기골, 찌푸린 미간, 치켜뜬 눈썹, 어딘가 돌아있는 눈동자….신민 작가의 작품을 한 번 보면 잊기 힘들다. 투박하고 거칠지만 작품이 뿜어내는 에너지가 대단하다. 요즘 말로 ‘미친 존재감’이다. 최근 열리는 전시에서 신민의 작품을 자주 만날 수 있다. 부산현대미술관에서 오는 7일까지 열리는 ‘능수능란한 관종’, 북서울미술관에서 8월4일까지 열리는 ‘소원을 말해봐’, 전북도립미술관에서 지난달 30일까지 열린 ‘버릴 것 없는 전시’, 서울 강남구 쾨닉 서울 갤러리에서 오는 27일까지 열리는...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/07/04/news-p.v1.20240704.5bddb042f29a4c67be350ee3366511c0_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해결되지 않는 ‘법의 빈틈’ 사이…남자친구에게 죽는 여성들]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202407041056001</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202407041056001</guid>
-            <pubDate>Thu, 04 Jul 2024 02:00:20 GMT</pubDate>
-            <content:encoded><![CDATA[‘거제 교제폭력(데이트폭력) 사건’으로 숨진 이효정씨의 어머니가 교제폭력 관련 제도를 개선해 달라며 올린 국회 국민동의청원이 지난 6월 18일 시민 5만명 동의를 받았다. 이씨의 어머니는 청원글에서 “국회에서 지금 당장 교제폭력 가해자들이 제대로 처벌받고, 피해자들은 보호받을 수 있는 교제폭력처벌법을 마련할 것을 강력히 요구한다”고 했다. 잇따르는 교제폭력 사건에 국민의힘은 지난 6월 20일 교제폭력방지법 정책토론회를 열고 대책을 논의했다. 22대 국회에서 어떤 방식으로든 개선 입법이 이뤄질 것으로 보인다.전문가들은 교제폭력이 발생하는 맥락과 특성을 제대로 고려한 정책이 만들어져야 한다고 제언한다. 사건이 터질 때마다 보여주기식으로 새로운 법만 추가할 게 아니라 기존의 성폭력 법체계를 정확한 책임 추궁과 피해자 보호 취지에 맞춰 근본적으로 재정비해야 한다는 것이다. 교제폭력을 단순 사랑싸움으로 치부해온 수사 관행, 가정폭력을 협소하게 정의하고 가정의 유지에 방점을 둔 가정폭...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/07/04/news-p.v1.20240704.23b82d5416784770b7a4270d928d9587_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
