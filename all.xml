@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jul 2024 06:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jul 2024 07:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/0052ed18-7018-4af4-a385-6a0bc700a135.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사라져가는 존재들에 대하여 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9952</link>
+            <guid>https://ildaro.com/9952</guid>
+            <pubDate>Thu, 11 Jul 2024 07:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[아주 소수의 언어지만, 놀랍게도 이 언어를 쓰는 사람들이 주인공인 영화가 있다. 사라져가는 존재들에 대해 무던해지는 이 사회가 무섭다고 느낄 때, 다른 이야기를 ...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024071106044323.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[앙젤, 새 시대의 페미니즘 아이콘이 되기까지 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9951</link>
             <guid>https://ildaro.com/9951</guid>
@@ -479,14 +487,6 @@
             <pubDate>Sun, 16 Jun 2024 09:14:54 GMT</pubDate>
             <content:encoded><![CDATA[“지금의 사태, 유튜버들이 가해자를 응징하겠다고 하는 방식이 어떤 도전 프로젝트처럼 콘텐츠화되는 측면을 경계해야 한다”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/202406160425820.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시간이 사라진, 항구마을 오노미치의 ‘마지막 밤’ (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9932</link>
-            <guid>https://ildaro.com/9932</guid>
-            <pubDate>Sat, 15 Jun 2024 00:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[최근 이태원에 다녀온 일본 청년과 오노미치 여행 중인 아마짱, 노동 후 사케를 마시는 타카 씨, 잠을 너무 적게 자는 소라와 나의 피곤한 몸뚱이가 시간이 사라진 공간...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024061558052113.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
