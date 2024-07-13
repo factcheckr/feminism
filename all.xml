@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jul 2024 02:36:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jul 2024 03:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/0052ed18-7018-4af4-a385-6a0bc700a135.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[살상무기 수출 허용…‘죽음 장사 국가’로 추락하는 것 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9953</link>
+            <guid>https://ildaro.com/9953</guid>
+            <pubDate>Sat, 13 Jul 2024 09:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[5년 만에 43조엔(한화 약 361조원), 무기 대출까지 포함하면 60조엔(한화 약 516조원)을 넘는 군사비 팽창에 일본 내외의 ‘죽음의 장사치’들이 몰려들고 있습니다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024071305241103.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[사라져가는 존재들에 대하여 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9952</link>
             <guid>https://ildaro.com/9952</guid>
@@ -479,14 +487,6 @@
             <pubDate>Tue, 18 Jun 2024 09:29:00 GMT</pubDate>
             <content:encoded><![CDATA[함께한다는 것만큼 지금 사회에서 추상적인 말이 있을까? 그럼에도 우리는 대학에서 ‘함께’ 모여 해결하자는 이야기를 한다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024061835485471.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘밀양 성폭력’ 재조명, 피해자의 눈으로! (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9933</link>
-            <guid>https://ildaro.com/9933</guid>
-            <pubDate>Sun, 16 Jun 2024 09:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[“지금의 사태, 유튜버들이 가해자를 응징하겠다고 하는 방식이 어떤 도전 프로젝트처럼 콘텐츠화되는 측면을 경계해야 한다”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/202406160425820.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
