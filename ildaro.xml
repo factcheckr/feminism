@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jul 2024 02:04:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jul 2024 03:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[변방은 사실 풍요로운 곳이다]]></title>
+            <link>https://ildaro.com/9955</link>
+            <guid>https://ildaro.com/9955</guid>
+            <pubDate>Tue, 16 Jul 2024 10:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[둘 이상의 환경이 만나는 경계는 생태계가 중첩되어 다양한 자원과 생존 조건을 만들어 생물다양성이 확장하는 공간이다. 생태학에서는 ‘가장자리 효과’라고 부른...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024071623471351.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[페미니스트는 울면 안 돼?]]></title>
             <link>https://ildaro.com/9954</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 20 Jun 2024 12:22:40 GMT</pubDate>
             <content:encoded><![CDATA[“물이 염소 오줌만큼 나와요.” 이례적인 가뭄으로 힘겨웠던 여름, 카페 화장실을 쓰고 돌아오더니 말했다. “여기는 물이 콸콸 나오는 게 이상하고 무서워요.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024062058126031.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방문 요양보호사들 ‘임금 올려라’ 국가에 소송 제기]]></title>
-            <link>https://ildaro.com/9935</link>
-            <guid>https://ildaro.com/9935</guid>
-            <pubDate>Wed, 19 Jun 2024 04:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[30년 이상 요양보호사 일을 하면서 지금의 내가 있다. 서비스 시간이 점점 더 세세하게 구분되면서, 일의 보람이 사라지고 있다. 아무도 이 직무에 들어오지 않는다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024061912353840.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jul 2024 02:04:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jul 2024 03:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[‘36주 임신중지 브이로그’ 수사…낙태죄 폐지 후 입법 공백이 부른 소동 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/incident/article/202407161010011</link>
             <guid>https://www.khan.co.kr/national/incident/article/202407161010011</guid>
-            <pubDate>Tue, 16 Jul 2024 02:03:28 GMT</pubDate>
+            <pubDate>Tue, 16 Jul 2024 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[임신 36주째에 임신중지 수술을 했다는 경험담을 담은 유튜브 영상이 논란을 빚자 정부와 수사당국이 대응에 나섰다. 영상의 내용이 사실이라면 살인죄 등으로 처벌할 수 있다고 보고 검증에 나선 것이다. 여성단체와 관련 전문가들은 2019년 낙태죄 헌법 불합치 판결 이후 후속 입법 미비로 초래된 법적 공백 상태를 해소하는 등 보완이 시급하다고 강조했다.경찰은 이른바 ‘36주 태아 낙태 브이로그’ 유튜브 영상을 올린 신원미상의 유튜버와 수술을 집도한 의사에 대한 수사에 착수했다. 조지호 서울경찰청장은 15일 출입기자단 정례 회견에서 “일반적인 낙태 사건과 다르게, 무게 있게 수사를 할 생각”이라고 밝혔다.📌[플랫]먹는 임신중단약 ‘미프진’, 국내 도입 무산됐다지난달 27일 유튜브에 ‘총 수술비용 900만원, 지옥 같던 120시간’이라는 제목의 영상이 올라왔다. 이 영상은 온라인 커뮤니티에 ‘36주 태아 낙태 브이로그’라는 제목으로 퍼져나갔다. 영상에는 익명...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/07/16/news-p.v1.20240716.c6c8dbfb2f8f42b2917f1a73f028ec79_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/03cd4a70-c178-4f55-942d-a39058ee4f31.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[변방은 사실 풍요로운 곳이다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9955</link>
+            <guid>https://ildaro.com/9955</guid>
+            <pubDate>Tue, 16 Jul 2024 10:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[둘 이상의 환경이 만나는 경계는 생태계가 중첩되어 다양한 자원과 생존 조건을 만들어 생물다양성이 확장하는 공간이다. 생태학에서는 ‘가장자리 효과’라고 부른...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024071623471351.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[페미니스트는 울면 안 돼? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9954</link>
             <guid>https://ildaro.com/9954</guid>
@@ -479,14 +487,6 @@
             <pubDate>Thu, 20 Jun 2024 12:22:40 GMT</pubDate>
             <content:encoded><![CDATA[“물이 염소 오줌만큼 나와요.” 이례적인 가뭄으로 힘겨웠던 여름, 카페 화장실을 쓰고 돌아오더니 말했다. “여기는 물이 콸콸 나오는 게 이상하고 무서워요.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024062058126031.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방문 요양보호사들 ‘임금 올려라’ 국가에 소송 제기 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9935</link>
-            <guid>https://ildaro.com/9935</guid>
-            <pubDate>Wed, 19 Jun 2024 04:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[30년 이상 요양보호사 일을 하면서 지금의 내가 있다. 서비스 시간이 점점 더 세세하게 구분되면서, 일의 보람이 사라지고 있다. 아무도 이 직무에 들어오지 않는다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024061912353840.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
