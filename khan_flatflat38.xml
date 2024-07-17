@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jul 2024 05:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jul 2024 06:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장애는 “아무것도 아닌 일에 거절 당하는 일”…그럼에도 삶을 축제로 만드는 법]]></title>
+            <link>https://www.khan.co.kr/culture/culture-general/article/202407171448011</link>
+            <guid>https://www.khan.co.kr/culture/culture-general/article/202407171448011</guid>
+            <pubDate>Wed, 17 Jul 2024 06:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[열다섯 살 때부터 서서히 시력을 잃어갔다. 병원에서는 10년 정도 시력이 남아 있을 거라고 했다. 마음이 급해졌다. 아침마다 교복을 입고 집을 나섰지만 발걸음은 학교 대신 도서관을 향했다. 카프카, 무라카미 하루키, 윤대녕, 레이먼드 챈들러…손에 닿는 대로 책을 꺼내 활자를 눈에 담았다. ‘작가’는 가난 때문에 한 번도 입 밖으로 꺼내 본 적 없는, 남몰래 품고 있던 꿈이었다. 그땐 책을 눈으로만 읽는 것으로 생각했기에 남은 시간이 별로 없다고 생각했다. 시각이 사라져간다는 두려움도 책을 읽는 순간에는 잊을 수 있었다.20여 년이 지난 후, 30대가 된 열다섯 소녀는 작가가 됐다. 2023년 샘터 에세이 공모전에서 대상을 수상한 조승리는 최근 &lt;이 지랄맞음이 쌓여 축제가 되겠지&gt;(달)라는 첫 책을 펴냈다. 책은 출간 3개월여 만에 입소문을 타고 6쇄에 들어갔다. 다소 엉뚱하면서도 달관의 느낌이 전해지는 책 제목처럼 그의 글은 슬픔, 아픔, 쓸쓸함 등 가난과 장애...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/17/news-p.v1.20240717.919e3fe905f94b05a17ab24b32cfc30c_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화성 참사 피해자 절반 이상은 ‘여성 이주노동자’…‘위험 최전선’에 놓인 이주여성의 노동]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202407171026001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 11 Jul 2024 02:01:38 GMT</pubDate>
             <content:encoded><![CDATA[구독자 1010만명의 유명 ‘먹방’ 유튜버 쯔양이 4년간 전 남자 친구로부터 폭행과 협박을 당하고 수십억원을 빼앗겼다고 밝혔다.쯔양은 11일 새벽 자신의 유튜브 채널에서 ‘모두 말씀드리겠습니다’라는 제목의 라이브 방송을 진행하고 “(전 남자친구) A씨가 저 몰래 찍은 불법촬영 동영상을 유포하겠다고 협박을 했고, 우산 등의 둔기로 폭행을 당하기도 했다”며 이같이 말했다. 유튜브 채널 가로세로연구소 측이 ‘쯔양이 사이버 렉카(온라인의 부정적 이슈에 관한 영상을 제작해 이익을 챙기는 사람)로부터 과거를 빌미로 협박을 당해 돈을 갈취당했다’는 취지로 주장하자 이를 반박한 것이다.쯔양은 유튜브 방송을 시작하기 전 만났던 A씨가 교제를 거부하자 자신을 동영상으로 협박했다고 했다. 쯔양은 “헤어지자니까 저 몰래 찍은 동영상이 있더라, 그래서 그걸 보고하겠다고 헤어지지 못하게 협박했었고 그 뒤로 엄청 많이 맞고 우산 같은 거로도 맞고 둔탁한 물건으로 맞고 그렇게 폭력적인 일들이 있었다...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/11/news-p.v1.20240711.699d268b1a784b409140d3c57877da7d_P1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가사노동자 법적 보호 강화하는 일본, 최저임금도 못주겠다는 한국]]></title>
-            <link>https://www.khan.co.kr/economy/economy-general/article/202407101602001</link>
-            <guid>https://www.khan.co.kr/economy/economy-general/article/202407101602001</guid>
-            <pubDate>Wed, 10 Jul 2024 07:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[일본 정부가 개별 가정과 직접 계약을 맺고 일하는 가사노동자에게 노동기준법(근로기준법)을 적용하는 방안을 추진한다. 개별 가사노동자의 노동권을 전보다 두텁게 보호하고 안전망을 촘촘하게 짜겠다는 취지다. 법의 허점을 이용해 외국인 가사노동자에 대한 최저임금 적용 제외를 추진하는 한국 정부와 대조된다.일본 후생노동성은 지난달 27일 열린 노동기준법제연구회에서 그동안 노동기준법 적용 대상에서 제외됐던 가사노동자에 대한 법 적용을 검토해야 한다는 뜻을 밝혔다. 개별 가사노동자 보호를 위한 ‘가사노동자(도우미) 고용 가이드라인’을 마련한 데 이은 후속 조치다.현재 일본 노동기준법은 개별 가정에 직접 고용된 가사노동자는 법적 보호 대상에서 제외하고 있다. 노동기준법 116조2항은 “이 법률은 동거친족만을 사용하는 사업 및 가사 사용인(개별 가구)에는 적용하지 않는다”고 규정한다. 이에 따라 개별 가사노동자는 휴일, 노동 시간, 연차유급휴가, 산업재해보상 등 노동자의 권리를 하나도 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/10/news-p.v1.20240710.e800e4c01a15404a95b1a9bc94823f10_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
