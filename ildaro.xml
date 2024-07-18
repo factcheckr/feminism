@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jul 2024 10:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jul 2024 11:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Burden of My Existence as an Intersex Person]]></title>
+            <link>https://ildaro.com/9957</link>
+            <guid>https://ildaro.com/9957</guid>
+            <pubDate>Thu, 18 Jul 2024 11:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[Even among queer groups, intersex people have a very close yet very uncomfortable relationship with the medical field....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024071850139763.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울혁신파크 ‘내쫓고 부수고 쇼핑몰?’…반신반의했죠]]></title>
             <link>https://ildaro.com/9956</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 23 Jun 2024 09:46:00 GMT</pubDate>
             <content:encoded><![CDATA[구시대의 답습을 끊고 나온 새로운 세대의 출현을 상징하는 이야기이자, 혼인이나 혈연으로 묶이지 않으면서도 더 가까운 가족으로 살아가는 이들의 생활이야기로 다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024062353498216.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성폭력으로 인한 임신, ‘DNA 검사’해야 임신중단 지원?]]></title>
-            <link>https://ildaro.com/9937</link>
-            <guid>https://ildaro.com/9937</guid>
-            <pubDate>Fri, 21 Jun 2024 13:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[면접참여자들의 공통적인 대답이 “임신중단 지원에서 가장 어려웠던 점은 임신중단 의료를 제공하는 의료인을 찾기까지의 과정이었다고 말한 점”을 언급했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024062144271162.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

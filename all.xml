@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jul 2024 10:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jul 2024 11:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[“본질적으로 동일한 집단”…대법원이 본 동성부부 ‘생활 공동체’ (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202407181821001</link>
             <guid>https://www.khan.co.kr/national/gender/article/202407181821001</guid>
-            <pubDate>Thu, 18 Jul 2024 10:13:57 GMT</pubDate>
+            <pubDate>Thu, 18 Jul 2024 10:13:12 GMT</pubDate>
             <content:encoded><![CDATA[“성적 지향에 의한 차별은 없어야 한다.”18일 대법원 대법정에서 가슴을 졸이며 판결을 기다린 동성 부부 소성욱·김용민씨에게 박힌 한 문장은 ‘차별’이라는 단어가 포함된 이 문장이었다. 이날 대법원이 부부의 건강보험 피부양자 자격을 인정하며 내린 선고로 공적 제도에서 동성 부부도 차별 없이 법적 지위를 부여받게 됐다. 법률상 부부가 되지 못하는 동성 커플이 사회보장제도로부터 보호받을 길이 열린 것이다.대법원은 이날 판결을 통해 소씨 부부가 사실혼 관계와 마찬가지로 ‘생활공동체’를 이루고 있다고 봤다. 그럼에도 동성이라는 이유로 피부양자 자격을 부여하지 않는 것은 “성적 지향을 이유로 본질적으로 동일한 집단을 차별하는 행위”라고 명시했다. 또 국민건강보험공단이 사실혼 관계에 있는 사람을 피부양자로 인정하는 것은 ‘이성 동반자’라서가 아니라고 했다. 이성이든 동성이든 서로 경제적·정서적으로 의존하는 관계라면 차별 없이 피부양자로 인정해야 한다는 것이다.대법원은 기본적인 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/07/18/news-p.v1.20240718.637de5ca6048408083393035b62c0470_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/03cd4a70-c178-4f55-942d-a39058ee4f31.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Burden of My Existence as an Intersex Person (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9957</link>
+            <guid>https://ildaro.com/9957</guid>
+            <pubDate>Thu, 18 Jul 2024 11:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[Even among queer groups, intersex people have a very close yet very uncomfortable relationship with the medical field....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024071850139763.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[서울혁신파크 ‘내쫓고 부수고 쇼핑몰?’…반신반의했죠 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9956</link>
             <guid>https://ildaro.com/9956</guid>
@@ -479,14 +487,6 @@
             <pubDate>Sun, 23 Jun 2024 09:46:00 GMT</pubDate>
             <content:encoded><![CDATA[구시대의 답습을 끊고 나온 새로운 세대의 출현을 상징하는 이야기이자, 혼인이나 혈연으로 묶이지 않으면서도 더 가까운 가족으로 살아가는 이들의 생활이야기로 다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024062353498216.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성폭력으로 인한 임신, ‘DNA 검사’해야 임신중단 지원? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9937</link>
-            <guid>https://ildaro.com/9937</guid>
-            <pubDate>Fri, 21 Jun 2024 13:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[면접참여자들의 공통적인 대답이 “임신중단 지원에서 가장 어려웠던 점은 임신중단 의료를 제공하는 의료인을 찾기까지의 과정이었다고 말한 점”을 언급했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024062144271162.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
