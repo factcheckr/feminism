@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jul 2024 22:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 01:58:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[질병이 찾아와도 나는 여전히 ‘나’]]></title>
+            <link>https://ildaro.com/9958</link>
+            <guid>https://ildaro.com/9958</guid>
+            <pubDate>Fri, 19 Jul 2024 10:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[처음 이 영화의 제목을 ‘Steal Alice’(앨리스를 빼앗다)로 읽었다. 그러나 제목은 ‘Still Alice’(여전히 앨리스)였다. 영문 제목을 확인하고서 많이 울었다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024071932157067.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Burden of My Existence as an Intersex Person]]></title>
             <link>https://ildaro.com/9957</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 24 Jun 2024 00:26:00 GMT</pubDate>
             <content:encoded><![CDATA[사업주 부부는 그를 “돌머리, 띨띨이, 바보”라고 불렀다. 이제 막 한국에 온 이주노동자 쏘퍼리 씨는 그런 일상적인 폭언에 제대로 항변도 하지 못했다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024062437335590.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[할아버지의 옛 무지개 축제 깃발이 펼쳐진 미래]]></title>
-            <link>https://ildaro.com/9938</link>
-            <guid>https://ildaro.com/9938</guid>
-            <pubDate>Sun, 23 Jun 2024 09:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[구시대의 답습을 끊고 나온 새로운 세대의 출현을 상징하는 이야기이자, 혼인이나 혈연으로 묶이지 않으면서도 더 가까운 가족으로 살아가는 이들의 생활이야기로 다...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024062353498216.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
