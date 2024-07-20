@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Jul 2024 09:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jul 2024 10:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘5분만 쓰자’…무의식을 끄집어내는 글쓰기의 신세계]]></title>
+            <link>https://ildaro.com/9959</link>
+            <guid>https://ildaro.com/9959</guid>
+            <pubDate>Sat, 20 Jul 2024 10:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[『치유하는 글쓰기』에서 저자는 ‘죽도록 미운 당신에게’ 부치지 않을 편지를 쓰라고 했다. 이런 글쓰기가 가능하다고? 완전히 신세계였다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024072041219890.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[질병이 찾아와도 나는 여전히 ‘나’]]></title>
             <link>https://ildaro.com/9958</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 26 Jun 2024 11:19:00 GMT</pubDate>
             <content:encoded><![CDATA[남아프리카공화국이 만델라 정신을 상기하며 손을 내민 것처럼, 우리도 국제법에 대한 신뢰를 지속적으로 유지하며 팔레스타인의 평화적 생존권을 위해 연대할 필요...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024062627047722.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“띨띨이” 욕설, 구타…이주노동자에 대한 폭력, 왜 처벌은?]]></title>
-            <link>https://ildaro.com/9939</link>
-            <guid>https://ildaro.com/9939</guid>
-            <pubDate>Mon, 24 Jun 2024 00:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[사업주 부부는 그를 “돌머리, 띨띨이, 바보”라고 불렀다. 이제 막 한국에 온 이주노동자 쏘퍼리 씨는 그런 일상적인 폭언에 제대로 항변도 하지 못했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024062437335590.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
