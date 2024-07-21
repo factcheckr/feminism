@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Jul 2024 11:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jul 2024 12:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘이주노동자의 임신’은 고려하지 않는 사회]]></title>
+            <link>https://ildaro.com/9960</link>
+            <guid>https://ildaro.com/9960</guid>
+            <pubDate>Sun, 21 Jul 2024 12:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[이주노동자는 ‘인력’ 그 자체가 아니다. 20~30대 이주노동자가 한국에 최대 9년 8개월을 머무르는 그 기간은 임신과 출산이라는 생애주기도 맞물린다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024072125234934.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘5분만 쓰자’…무의식을 끄집어내는 글쓰기의 신세계]]></title>
             <link>https://ildaro.com/9959</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 27 Jun 2024 08:16:31 GMT</pubDate>
             <content:encoded><![CDATA[작년에 가자에서 사망한 라파아트 아르아리(Refaat Alareer) 교수가 남긴 시가 있습니다. 내가 죽어야만 한다면, 당신은 꼭 살아서 내 이야기를 전해 주세요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/202406273714562.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제노사이드 멈춰! 이스라엘 제소…‘만델라 정신’ 남아공]]></title>
-            <link>https://ildaro.com/9940</link>
-            <guid>https://ildaro.com/9940</guid>
-            <pubDate>Wed, 26 Jun 2024 11:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[남아프리카공화국이 만델라 정신을 상기하며 손을 내민 것처럼, 우리도 국제법에 대한 신뢰를 지속적으로 유지하며 팔레스타인의 평화적 생존권을 위해 연대할 필요...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024062627047722.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
