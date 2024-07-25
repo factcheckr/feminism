@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jul 2024 00:56:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jul 2024 02:03:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“교제폭력은 여성을 폭행·살해하면 ‘용서받을 수 없음’을 보여주지 못해 나타난 결과”]]></title>
+            <link>https://www.khan.co.kr/national/gender/article/202407251037001</link>
+            <guid>https://www.khan.co.kr/national/gender/article/202407251037001</guid>
+            <pubDate>Thu, 25 Jul 2024 02:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[“헤어지자”고 했을 뿐이다. 그 말이 방아쇠가 됐다. 지난달 7일 경기 하남시 아파트단지에서, 지난 5월 서울 강남 건물 옥상에서 여성이 살해당한 까닭은 모두 이별 통보 때문이었다. 한국여성의전화가 언론보도를 취합한 집계를 보면, 지난해 ‘친밀한 관계의 남성 파트너’에 의해 살해된 여성은 최소 138명에 이른다. 국내에서만 한 해 100명이 넘는 여성의 목숨을 빼앗는 이 범죄엔 아직 법적 정의가 없다. 이름이 없으니 교제폭력은 형법상 폭행·살인 등과 합산될 뿐 정부 공식 통계도 없다. 그러는 사이 교제폭력 신고는 2017년 1만4136건에서 2023년 7만790건으로 400% 증가했다. 정부의 무관심과 교제폭력 범죄의 특수성을 반영하지 못한 입법 공백 등이 겹쳐진 결과다. 이별에 목숨을 걸어야 하는 여성들을 위해 국가와 사회는 무엇을 해야 할까.지난달 ‘거절살인, 친밀한 관계 폭력 규율에 실패해 온 이유’라는 보고서를 낸 허민숙 국회입법조사처 보건복지여성팀 입법조사연구관을 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/07/25/news-p.v1.20240725.4b1c124223914b78987d615a32fe9faa_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국 첫 여성대통령 도전하는 해리스 “우리는 생식의 자유를 위해 싸울 것”]]></title>
             <link>https://www.khan.co.kr/world/america/article/202407241455001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 18 Jul 2024 10:13:57 GMT</pubDate>
             <content:encoded><![CDATA[“성적 지향에 의한 차별은 없어야 한다.”18일 대법원 대법정에서 가슴을 졸이며 판결을 기다린 동성 부부 소성욱·김용민씨에게 박힌 한 문장은 ‘차별’이라는 단어가 포함된 이 문장이었다. 이날 대법원이 부부의 건강보험 피부양자 자격을 인정하며 내린 선고로 공적 제도에서 동성 부부도 차별 없이 법적 지위를 부여받게 됐다. 법률상 부부가 되지 못하는 동성 커플이 사회보장제도로부터 보호받을 길이 열린 것이다.대법원은 이날 판결을 통해 소씨 부부가 사실혼 관계와 마찬가지로 ‘생활공동체’를 이루고 있다고 봤다. 그럼에도 동성이라는 이유로 피부양자 자격을 부여하지 않는 것은 “성적 지향을 이유로 본질적으로 동일한 집단을 차별하는 행위”라고 명시했다. 또 국민건강보험공단이 사실혼 관계에 있는 사람을 피부양자로 인정하는 것은 ‘이성 동반자’라서가 아니라고 했다. 이성이든 동성이든 서로 경제적·정서적으로 의존하는 관계라면 차별 없이 피부양자로 인정해야 한다는 것이다.대법원은 기본적인 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/07/18/news-p.v1.20240718.637de5ca6048408083393035b62c0470_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피해자 1주기에…‘인천 스토킹 살해’ 남성, 2심 징역 30년]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202407181050001</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202407181050001</guid>
-            <pubDate>Thu, 18 Jul 2024 02:01:33 GMT</pubDate>
-            <content:encoded><![CDATA[법원의 접근금지 명령을 무시하고 전 연인을 스토킹하다가 살해한 남성이 17일 항소심에서 형량이 늘어 징역 30년을 선고받았다. 이날은 피해자가 희생된 지 1주기가 된 날이었다.서울고법 형사6-3부(재판장 이예슬)는 이날 보복살인, 살인, 스토킹 범죄의 처벌 등에 관한 법률 위반 등 혐의로 재판에 넘겨진 ‘인천 스토킹 살인 사건’ 가해자 설모씨(31)에게 징역 25년을 선고한 1심 판결을 파기하고 징역 30년을 선고했다. 재판부는 40시간의 스토킹 치료 프로그램 이수와 10년간의 위치추적장치 부착도 명했다.설씨는 지난해 7월17일 전 연인 A씨의 아파트 엘리베이터 앞에서 A씨를 살해했다. 설씨와 A씨는 동호회에서 만나 연인관계로 발전했고, A씨의 소개로 같은 회사에서 근무하기도 했다. 그러다 A씨가 이별을 통보하자 설씨는 A씨를 폭행했고 스토킹을 일삼았다. 설씨는 스토킹처벌법 위반 혐의로 체포돼 접근금지 잠정조치 처분을 받았으나 약 한 달 만에 이를 어기고 A씨를 다시 찾...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/07/18/news-p.v1.20240718.bc5dbf69849a482bb5f7b006bf6628a6_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
