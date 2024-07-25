@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jul 2024 23:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jul 2024 00:56:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['임신중지 전사' 대선주자가 되다]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1835</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1835</guid>
+            <pubDate>Thu, 25 Jul 2024 00:56:22 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 뉴스레터는 최신의 뉴스를 전달함과 동시에 '임신중지'라는 이슈를 우리가 어떻게 바라보면 좋을지 함께 고민하는 시간이 됐으면 좋겠어요. 조 바이든 미국 대통령의 대선 후보 사퇴로, 11월 대선 민주당 주자로 사실상 확정된 ①카멀라 해리스 부통령 이야기를 먼저 꺼내봅니다. 그리고 근래 가장 충격적인 소식으로 알려진 ②'36주 임신중지 브이로그' 이슈를 놓고 함께 생각을 정리해 봐요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/2a7bd0ce-8855-4ca5-a6ef-2888a94132f3.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[여성을 착취하는 방법의 진화]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1821</link>
@@ -79,14 +87,6 @@
             <pubDate>Mon, 13 May 2024 23:12:47 GMT</pubDate>
             <content:encoded><![CDATA[지난 6일 또 여성이 살해 당했습니다. '남자친구'라고 불렀던 친밀한 관계의 남성으로부터 말입니다. 지난 3월에도 경기 화성에서 이별을 통보한 여자친구를 그녀의 어머니 앞에서 살해한 사건이 발생했었습니다. 4월, 경남 거제에서는 20대 여성이 전 남자친구에게 폭행을 당해 병원에서 입원 치료를 받다가 숨졌고요. 1월에는 전 남자친구로부터 스토킹을 당했던 20대 여성이 부산의 오피스텔에서 추락해 사망했죠. 4월에는 결별 후 옛 연인에 앙심을 품고 스토킹과 자해, 협박을 일삼다가 여성의 직장에서 갈비뼈가 잘릴 정도로 폭행한 '몽키스패너 사건'의 가해자에게 징역 15년형이 확정됐습니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/23f2ecbd-6b86-4630-b726-2d088151b46e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제가 오조오억번 말했잖아요...]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1732</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1732</guid>
-            <pubDate>Mon, 06 May 2024 23:11:43 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 또 '저출생'을 가지고 왔습니다. 맞습니다. 또출생입니다. 이제는 몇 번을 다뤘는지도 가물가물합니다. 솔직히 말씀드리자면 이 뉴스레터는 2021년부터 지금까지 허스펙티브가 주구장창 해온 이야기의 반복일 겁니다. 다만 다른 점이 있다면 바로 이것입니다. 그간 허스펙티브 뿐 아니라 수많은 여성학자와 단체 등의 저출생 관련 주장을 증명하는 '2024년 결혼·출산·양육 인식조사' 결과가 발표됐다는 겁니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/03cd4a70-c178-4f55-942d-a39058ee4f31.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
