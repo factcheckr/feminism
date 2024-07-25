@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jul 2024 05:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jul 2024 06:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘미투’ 성공 드문 중국, 지도교수 괴롭힘 폭로에…인민대 ‘교수 즉각 해임’]]></title>
+            <link>https://www.khan.co.kr/world/china/article/202407251505001</link>
+            <guid>https://www.khan.co.kr/world/china/article/202407251505001</guid>
+            <pubDate>Thu, 25 Jul 2024 06:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[중국 인민대 박사과정 여성이 지도교수에게 성적 괴롭힘을 당했다고 폭로하자 학교 측이 교수를 즉각 해임했다. ‘미투’ 운동의 성공 사례가 드문 중국에서 이례적 조치다.지난 21일 중국 사회관계망서비스(SNS) 웨이보에 인민대 문학부 박사과정생 왕디라고 밝힌 여성이 지도교수에게 성적 괴롭힘을 당했다고 폭로하는 59분 분량의 영상을 올렸다. 왕디는 2022년 5월 왕구이위안의 성적 요구를 거절하자 그가 “졸업을 못하게 하겠다”며 2년 동안 협박해왔다고 말했다. 왕구이위안이 언어·신체적으로 괴롭혔다고도 밝혔다. 왕구이위안은 인민대 문학부 전 당서기이기도 하다.왕디는 괴롭힘의 증거라면서 음성 녹음파일도 공개했다. 녹음파일에는 키스를 요구하는 남성의 음성과 “안 돼요. 안 됩니다, 선생님”이라며 거부하는 여성의 목소리가 담겨 있다. 그는 “더는 참을 수도 없고, 물러설 곳도 없어서 목소리를 내고 있다”고 밝혔다.왕디의 게시물에는 220만개의 ‘좋아요’와 왕디를 지지하는 댓글이 달...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/07/25/news-p.v1.20240725.a70347a1c7794914a130c64487bc096c_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“교제폭력은 여성을 폭행·살해하면 ‘용서받을 수 없음’을 보여주지 못해 나타난 결과”]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202407251037001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 19 Jul 2024 01:57:27 GMT</pubDate>
             <content:encoded><![CDATA[A씨는 고 이예람 중사(순직 당시 23세)의 첫 룸메이트였다. 공군항공과학고를 함께 다니며 같이 웃고, 때론 서로 도닥이며 공군 부사관의 꿈을 나란히 키웠다. 친구의 모닝콜 알람이었던 버벌진트의 &lt;굿모닝&gt; 노래를 퍽 잘했던 맑은 목소리, 어디서든 먼저 나서서 친구들을 챙기던 씩씩한 모습을 A씨는 다시 떠올렸다. “친구를 죽인 곳으로 출근하기 싫었다”며 진작에 군을 떠난 A씨는 18일 대구에서부터 비를 뚫고 경기 성남 국군수도병원을 찾았다.상관의 성폭력과 군의 조직적 은폐로 목숨을 끊은 이 중사의 빈소가 이날 국군수도병원에 차려졌다. 이 중사가 순직한 지 3년 2개월만이었다. 빈소에 들어서자마자 눈물을 터뜨린 A씨를 이 중사의 어머니 박순정씨가 껴안아 다독였다. “예람이가 반가워하겠네.”공군 제20전투비행단에서 근무하던 이 중사는 2021년 3월2일 상관 장모 중사로부터 성추행을 당했다. 피해 사실을 알렸지만 상급자들은 가해자를 감싸고 사건을 은폐하려 했다. 군...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/07/19/news-p.v1.20240719.29992b95c7df4f09ab06bc1926f81e1e_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“본질적으로 동일한 집단”…대법원이 본 동성부부 ‘생활 공동체’]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202407181821001</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202407181821001</guid>
-            <pubDate>Thu, 18 Jul 2024 10:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[“성적 지향에 의한 차별은 없어야 한다.”18일 대법원 대법정에서 가슴을 졸이며 판결을 기다린 동성 부부 소성욱·김용민씨에게 박힌 한 문장은 ‘차별’이라는 단어가 포함된 이 문장이었다. 이날 대법원이 부부의 건강보험 피부양자 자격을 인정하며 내린 선고로 공적 제도에서 동성 부부도 차별 없이 법적 지위를 부여받게 됐다. 법률상 부부가 되지 못하는 동성 커플이 사회보장제도로부터 보호받을 길이 열린 것이다.대법원은 이날 판결을 통해 소씨 부부가 사실혼 관계와 마찬가지로 ‘생활공동체’를 이루고 있다고 봤다. 그럼에도 동성이라는 이유로 피부양자 자격을 부여하지 않는 것은 “성적 지향을 이유로 본질적으로 동일한 집단을 차별하는 행위”라고 명시했다. 또 국민건강보험공단이 사실혼 관계에 있는 사람을 피부양자로 인정하는 것은 ‘이성 동반자’라서가 아니라고 했다. 이성이든 동성이든 서로 경제적·정서적으로 의존하는 관계라면 차별 없이 피부양자로 인정해야 한다는 것이다.대법원은 기본적인 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/07/18/news-p.v1.20240718.637de5ca6048408083393035b62c0470_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
