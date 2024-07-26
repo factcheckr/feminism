@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jul 2024 03:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jul 2024 04:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/23f2ecbd-6b86-4630-b726-2d088151b46e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[기후재난…대안 농업 제시한 ‘농생태학’의 선구자들 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9963</link>
+            <guid>https://ildaro.com/9963</guid>
+            <pubDate>Fri, 26 Jul 2024 00:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[“자연이 제일 재생력이 생기는 것 같은 거죠. 스스로가… 확실히 그 피해가 덜 오고.” (민수, 50대 여성, 대안농업 경력 5년, 제주 동드레우영공동체)...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024072655191671.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[페미니스트 딸에게 ‘엄마’라는 화두 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9962</link>
             <guid>https://ildaro.com/9962</guid>
@@ -479,14 +487,6 @@
             <pubDate>Mon, 01 Jul 2024 10:04:00 GMT</pubDate>
             <content:encoded><![CDATA[누군가의 딸, 며느리, 엄마, 아내가 아니라 무엇이든 할 수 있다는 것을 모든 사람들에게, 그리고 자기 자신에게 보여주었다는 것이 우리 정당의 가장 큰 성과입니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024070112054289.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[만남과 배움이 있다면, 여행은 끝나지 않은 거야 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9943</link>
-            <guid>https://ildaro.com/9943</guid>
-            <pubDate>Sun, 30 Jun 2024 09:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[“배운다는 건 다시 태어나는 것과 같대.” 지금까지와는 다른 형태의 협업을 배우기 위해 시작했고, 시간과 몸의 근육을 다르게 쓰는 중이다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202406/2024063040174628.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
