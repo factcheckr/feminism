@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jul 2024 01:01:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jul 2024 02:10:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/23f2ecbd-6b86-4630-b726-2d088151b46e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[분쟁 속 세계…‘여성국제전범법정’의 경험 재조명되길 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9965</link>
+            <guid>https://ildaro.com/9965</guid>
+            <pubDate>Sun, 28 Jul 2024 10:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[“법정을 완성시킨 것은 국가와 지역을 넘어 연결된 페미니스트들이었습니다. 고생도 많았고 몇 번이나 울었지만, 반드시 끝까지 해내야 한다는 결의로 해냈던, 가슴...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024072842269162.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Can We Die as a Protagonist of a Story Instead of a Number? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9964</link>
             <guid>https://ildaro.com/9964</guid>
@@ -479,14 +487,6 @@
             <pubDate>Thu, 04 Jul 2024 09:25:00 GMT</pubDate>
             <content:encoded><![CDATA[성별 임금격차가 보여주는 ‘구조적 성차별’을 해소하지 않는 한, 여성들은 한국이 아이를 낳고 키우기에 적합하지 않은 사회라고 인식할 것이라고, 여성/노동계는 ...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024070431598242.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 일자리는 사라지지 않을 것이다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9945</link>
-            <guid>https://ildaro.com/9945</guid>
-            <pubDate>Tue, 02 Jul 2024 07:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[그 어떤 의미도 생산하지 않는 이 무의미한 작업이 나를 위로했다면 믿을 수 있겠는가? 전체 직업에서 이 ‘불쉿 잡’이 차지하는 비율은 무려 약 40%에 육박한다고 한...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024070257494572.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
