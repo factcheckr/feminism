@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jul 2024 22:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jul 2024 23:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/07/23/news-p.v1.20240723.83ecad83f06648e785b5d72d99837dc2_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[고양이+여자=맘껏 욕하자? (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1841</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1841</guid>
+            <pubDate>Mon, 29 Jul 2024 23:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[포문은 힐러리 클린턴 전 국무장관이 엑스(X)에 밴스 후보의 2021년 인터뷰를 '끌올'하면서 열었어요. 밴스는 알렉산드리아 오카시오-코르테즈 하원의원, 피트 부티지지 교통부 장관과 함께 해리스 부통령을 언급하며 "자녀도 없이 고양이나 키우는 비참한 삶을 사는 여성들(cat ladies)이 나라의 미래도 비참하게 만든다"고 말했습니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/9def5647-9dfc-409b-b969-f36d90bf1dac.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['임신중지 전사' 대선주자가 되다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1835</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1835</guid>
@@ -319,14 +327,6 @@
             <pubDate>Mon, 20 May 2024 23:12:54 GMT</pubDate>
             <content:encoded><![CDATA[오늘 뉴스레터는 8,000km 넘게 떨어진 프랑스 칸에서 일어나고 있는 소식을 전합니다. '위민 인 모션'은 프랑스 명품패션그룹 케어링이 2015년부터 매년 칸국제영화제 기간 동안 여는 행사인데요. 문화예술계 내 유명 여성 인사의 생각을 듣는 자리인데, 국내 매체 중에서는 한국일보가 유일하게 참석했어요.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/46c6a214-4035-467a-9dd7-3a160a2e7428.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여자를 더 이상 죽이지 말라 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1743</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1743</guid>
-            <pubDate>Mon, 13 May 2024 23:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[지난 6일 또 여성이 살해 당했습니다. '남자친구'라고 불렀던 친밀한 관계의 남성으로부터 말입니다. 지난 3월에도 경기 화성에서 이별을 통보한 여자친구를 그녀의 어머니 앞에서 살해한 사건이 발생했었습니다. 4월, 경남 거제에서는 20대 여성이 전 남자친구에게 폭행을 당해 병원에서 입원 치료를 받다가 숨졌고요. 1월에는 전 남자친구로부터 스토킹을 당했던 20대 여성이 부산의 오피스텔에서 추락해 사망했죠. 4월에는 결별 후 옛 연인에 앙심을 품고 스토킹과 자해, 협박을 일삼다가 여성의 직장에서 갈비뼈가 잘릴 정도로 폭행한 '몽키스패너 사건'의 가해자에게 징역 15년형이 확정됐습니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/23f2ecbd-6b86-4630-b726-2d088151b46e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드러누워서 본 풍경 (일다 ─ 전체기사)]]></title>
