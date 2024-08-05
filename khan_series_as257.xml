@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Aug 2024 02:06:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Aug 2024 03:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숭례문 지하차도 살인사건…60대 여성 청소노동자는 새벽 5시, 나홀로 일했다]]></title>
+            <link>https://www.khan.co.kr/national/gender/article/202408051110001</link>
+            <guid>https://www.khan.co.kr/national/gender/article/202408051110001</guid>
+            <pubDate>Mon, 05 Aug 2024 03:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2일 서울 숭례문 인근 지하보도에서 새벽 근무를 하던 서울 중구 용역업체 소속 60대 여성 청소노동자가 흉기에 찔려 숨졌다. 피해자 A씨는 인적이 드문 시간대에 홀로 근무하다가 피습당했다. 인명피해가 발생한 후에야 지방자치단체는 청소노동자들의 근무를 ‘2인1조’로 전환하기로 했다고 밝혔다.전문가들은 4일 경향신문에 ‘인파를 피해 일해야 하는 노동’이 A씨를 비롯한 ‘유령노동자’들의 안전을 위협한다고 말했다. 배진경 한국여성노동자회 대표는 “오전 5시가 아니라, 사람들이 오가는 오전 7시였더라도 가해자가 흉기를 휘두를 수 있었을까”라며 “지켜보는 이가 적은 시간대라면 한 사람보다는 두 사람이 위험에 대응하는 게 보다 안전할 수 있었을텐데 그러지 못했다”고 말했다.청소 노동은 다수 대중이 이용하는 시설에서 눈에 띄지 않게 이뤄진다는 점에서 대표적인 ‘유령노동’으로 분류된다. 청소일은 노동자의 출근과 업무가 모두 사람들의 눈에 보이지 않는 시간대에 이뤄진다. A씨도 마찬...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/08/05/news-p.v1.20240805.b7e9a3cdb03a4fa1ac43b8d7bab9c3b0_P1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[‘교제폭력’ 밝힌 쯔양, 2차 피해 이어지는데 …여가부는 왜 침묵할까]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202408021623001</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 30 Jul 2024 02:02:54 GMT</pubDate>
             <content:encoded><![CDATA[마지막 2발이 9.9, 9.6에 맞았다. 1.3점의 넉넉한 리드를 빼앗기고 슛오프에 들어갔지만 반효진은 흔들리지 않았다.황위팅(중국)보다 살짝 늦게 방아쇠를 당긴 반효진은 10.4를 쏘며 0.1점 차 극적인 금메달을 목에 걸었다. 사격을 시작한 지 채 3년밖에 안 된 선수라고는 믿을 수 없을 정도로 냉정하고 침착한 경기력이었다.한국 하계올림픽 100번째 금메달의 주인공 반효진은 중학생 때인 2021년 7월 친구 따라 사격을 시작했다. 겨우 3년 만에 태극마크를 달고 올림픽 무대에서 금메달을 획득할 정도로 ‘사격 천재’라고 평가받아왔다.반효진은 친구가 “사격이 매력 있다면서 ‘네가 하면 엄청나게 잘할 것 같다’고 설득했다”며 “시작하고 2개월 만에 대구광역시장배에서 1등을 했다. 반대하던 엄마도 본격적으로 밀어주게 된 계기”라고 떠올렸다.중학교 때 반효진을 지도한 고훈 코치는 통화에서 “보통 아이가 아니었다. 습득이 굉장히 빨랐고, 자신에게 맞지 않는 건 맞지 않다고...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/07/30/news-p.v1.20240730.d52d3cc8b8384e59861c53a41caf0a58_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실력 좋으면 ‘아동 성범죄’도 괜찮나···야유 쏟아진 ‘올림픽 출전’]]></title>
-            <link>https://www.khan.co.kr/sports/olympic-asian_games/article/202407291532001</link>
-            <guid>https://www.khan.co.kr/sports/olympic-asian_games/article/202407291532001</guid>
-            <pubDate>Mon, 29 Jul 2024 07:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[12세 소녀를 성폭행한 혐의로 유죄 판결을 받은 네덜란드 남성이 28일(현지시간) 열린 파리 올림픽 비치 발리볼 경기에 등장해 관중들의 야유를 받았다고 가디언 등이 보도했다.이 남성은 네덜란드의 비치 발리볼 국가대표 선수인 스티븐 판더펠더(29)로, 2016년 영국 법원에서 아동 성폭행 혐의로 4년형을 선고받았다.그는 19살이었던 2014년 페이스북 채팅을 통해 알게 된 12세 영국인 소녀를 만나 세 차례 성폭행을 저질렀다. 이후 피해자가 이 같은 사실을 관련 기간에 신고하면서 판더펠더가 리우 올림픽 대표팀 합류를 앞두고 있던 2016년 징역형이 선고됐다.다만 실제 복역 기간은 약 13개월에 불과했다. 영국에서 1년간 수감된 이후 본국으로 송환됐지만, 네덜란드 법원에서 감형을 받아 한 달 만에 출소했다. 2017년부터는 각종 경기에 참가했다. 현지 언론 인터뷰에서 판더펠더는 성폭행 사건이 “어릴 때 저지른 인생 최악의 실수”였다고 해명했다.판더펠더의 올림픽 출...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/07/29/news-p.v1.20240729.6498b81233cb44b495dc24403d03984e_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
