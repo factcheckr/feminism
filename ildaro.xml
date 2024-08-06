@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Aug 2024 03:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Aug 2024 04:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘한국에서 제2의집 만났다’…아랍여성들이 6년간 꾸려온 공간]]></title>
+            <link>https://ildaro.com/9972</link>
+            <guid>https://ildaro.com/9972</guid>
+            <pubDate>Tue, 06 Aug 2024 00:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[많은 여성들이 직장을 찾기를 원했다. 그러나 정부나 지자체에서 운영하는 일자리센터는 극소수인 난민인정자를 제외하고는 직업훈련이나 직업정보를 제공하지 않고...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024080604097925.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘팔레스타인, 따뜻한 집’ 전시에 100인 아티스트 참여]]></title>
             <link>https://ildaro.com/9971</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 13 Jul 2024 09:56:00 GMT</pubDate>
             <content:encoded><![CDATA[5년 만에 43조엔(한화 약 361조원), 무기 대출까지 포함하면 60조엔(한화 약 516조원)을 넘는 군사비 팽창에 일본 내외의 ‘죽음의 장사치’들이 몰려들고 있습니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024071305241103.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사라져가는 존재들에 대하여]]></title>
-            <link>https://ildaro.com/9952</link>
-            <guid>https://ildaro.com/9952</guid>
-            <pubDate>Thu, 11 Jul 2024 07:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[아주 소수의 언어지만, 놀랍게도 이 언어를 쓰는 사람들이 주인공인 영화가 있다. 사라져가는 존재들에 대해 무던해지는 이 사회가 무섭다고 느낄 때, 다른 이야기를 ...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024071106044323.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
