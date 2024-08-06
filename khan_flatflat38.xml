@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Aug 2024 00:56:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Aug 2024 02:03:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“집게손가락 동작 금기시는 현재의 풍토”…‘사이버 괴롭힘’ 면죄부 준 경찰]]></title>
+            <link>https://www.khan.co.kr/national/gender/article/202408061040001</link>
+            <guid>https://www.khan.co.kr/national/gender/article/202408061040001</guid>
+            <pubDate>Tue, 06 Aug 2024 02:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[게임업체 넥슨의 게임 홍보영상에 ‘집게손가락’을 그려넣어 ‘남성혐오’를 했다면서 해당 장면을 그리지도 않은 하청업체 직원의 신상을 인터넷에 공개하고 모욕했던 남초 커뮤니티 이용자들에 대해 경찰이 ‘불송치’ 결정했다. 경찰은 ‘피해자가 이전에도 페미니스트를 동조하는 듯한 내용의 글을 올렸으므로 이용자들이 피해자를 비판한 건 논리적으로 인정된다’는 취지로 불송치 결정 이유를 설명했다. 경찰이 남초 커뮤니티가 제기하는 여성 혐오 음모론에 동조해 사실상 2차 가해를 하고 혐오 범죄를 용인했다는 비판이 나온다.5일 경향신문 취재 결과 서울 서초경찰서는 ‘스튜디오 뿌리’의 일러스트레이터 A씨가 온라인 커뮤니티에 자신에 대한 게시글을 올린 사람들을 정보통신망법(명예훼손), 성폭력범죄처벌법(통신매체이용음란) 등 혐의로 고소한 사건을 지난달 24일 불송치(각하) 결정했다고 통보한 것으로 확인됐다.불송치 결정서를 보면 경찰은 “비록 고소인(A씨)이 관련 그림 담당자가 아닌 것으로 확인되나...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/08/06/news-p.v1.20240806.4081d816164343ce9706254684e5f35a_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[확신만으로 성공할 수는 없지만]]></title>
             <link>https://www.khan.co.kr/opinion/column/article/202408051751001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 31 Jul 2024 01:39:33 GMT</pubDate>
             <content:encoded><![CDATA[메달 종목으로 기대를 모은 한국 여자 에페 대표팀이 개최국 프랑스에 져 8강에서 탈락했다. 서로의 어깨를 감싸 안은 채 믹스트존(공동취재구역)에 들어온 선수들은 뜨거운 눈물을 흘렸다.한국은 30일(한국시간) 프랑스 파리의 그랑팔레에서 열린 2024 파리 올림픽 펜싱 여자 에페 단체전 첫 경기 8강에서 프랑스에 31-37로 패했다. 한국은 이날 송세라(부산시청)-강영미(광주서구청)-이혜인(강원도청) 순으로 피스트에 섰다. 그러나 초반 라운드부터 마리 플로랑스 칸다시미-오리안 말로-코랄리네 비탈리스로 이뤄진 프랑스에 조금씩 밀리며 19-23, 4점 차 열세로 마지막 9라운드에 돌입했다. 대표팀 ‘에이스’ 송세라가 주어진 3분 안에 경기를 뒤집어 보려고 했으나 여의치 않았다. 굳히기에 들어간 상대에게 끝까지 달려들어 득점을 노렸지만 끝내 격차를 좁히지 못했다.선수들도 홈팀 프랑스와의 일전이 어려울 것이란 예상은 했지만, 패배를 생각하진 못했다. 2020 도쿄 올림픽에서 은메달...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/31/rcv.YNA.20240730.PYH2024073026460001300_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘경찰 불송치’…‘게임업계 페미니즘 사상검증’에 맞선 활동가들의 1년]]></title>
-            <link>https://www.khan.co.kr/national/national-general/article/202407301542011</link>
-            <guid>https://www.khan.co.kr/national/national-general/article/202407301542011</guid>
-            <pubDate>Tue, 30 Jul 2024 07:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 7월 26일 게임 회사 ‘프로젝트문’이 모바일 게임 ‘림버스 컴퍼니’ 제작에 참여한 여성 일러스트레이터(일러스트 작가) A씨와의 계약을 해지했다. 남초 커뮤니티에서 활동하는 게임 이용자(유저)를 중심으로 “여성 캐릭터 복장에서 노출이 적다, 회사에 페미니스트가 있다”며 직원 ‘신상털기’에 나선 뒤의 일이었다. 이들은 A씨가 과거 사회관계망서비스(SNS)에 낙태죄 폐지 옹호, 불법 촬영 반대 시위 등의 글을 올렸다는 이유로 회사까지 찾아와 항의했고, 사측은 ‘계약 종료’로 대응했다.김민성 한국게임소비자협회 대표는 당시 “A씨의 계약 종료는 ‘페미니즘 사상 검증(페미니즘에 대한 부당한 공격)’으로 인한 부당 해고”라며 프로젝트문에 맞섰던 사람들 중 하나다. 그가 협회의 전신인 ‘PM유저협회’를 만들어 문제를 제기하고 공론화하자 사측은 지난해 11월 그를 포함한 활동가 3명에 대해 허위사실 적시에 의한 명예훼손, 업무방해 등으로 고소했다. 지난 19일 경찰은 이들이 ‘사상...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/07/30/news-p.v1.20240730.5a315ef3d4f3426c94064d52ef6e4fe0_P1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
