@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Aug 2024 00:57:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Aug 2024 02:05:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나의 ‘약점’이 하는 이야기]]></title>
+            <link>https://ildaro.com/9973</link>
+            <guid>https://ildaro.com/9973</guid>
+            <pubDate>Thu, 08 Aug 2024 10:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[나를 속속들이 알게 되는 여정의 끝에, 생각했던 것만큼 잘나거나 멋진 내가 기다리고 있는 게 아닐까 봐 두렵다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024080859316756.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘한국에서 제2의집 만났다’…아랍여성들이 6년간 꾸려온 공간]]></title>
             <link>https://ildaro.com/9972</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 14 Jul 2024 00:07:00 GMT</pubDate>
             <content:encoded><![CDATA[번번이 내 목소리는 팀장 앞에서 차장 앞에서 선배 앞에서 수그러들곤 했다. 그래서 나는 내가 페미니스트가 되기엔 좀 모자란 사람이라고 오래 생각했다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024071413059683.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[살상무기 수출 허용…‘죽음 장사 국가’로 추락하는 것]]></title>
-            <link>https://ildaro.com/9953</link>
-            <guid>https://ildaro.com/9953</guid>
-            <pubDate>Sat, 13 Jul 2024 09:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[5년 만에 43조엔(한화 약 361조원), 무기 대출까지 포함하면 60조엔(한화 약 516조원)을 넘는 군사비 팽창에 일본 내외의 ‘죽음의 장사치’들이 몰려들고 있습니다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024071305241103.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
