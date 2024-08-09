@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Aug 2024 11:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Aug 2024 12:24:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/c3f4c096-6ae5-4551-b7be-cba7f86d79ff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘우먼 인 테크’, 퀴어, 크리스천인 홍콩 싱어송라이터 조야 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9974</link>
+            <guid>https://ildaro.com/9974</guid>
+            <pubDate>Fri, 09 Aug 2024 12:24:02 GMT</pubDate>
+            <content:encoded><![CDATA[이 에너지 넘치는 예술가가 음악을 취미로만 다루었다면, 2023년 홍콩에서 아시아 최초로 열렸던 성소수자 스포츠 축제인 게이 게임(Gay Games) 폐막식 무대를 장식하지 못...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024080905276073.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나의 ‘약점’이 하는 이야기 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9973</link>
             <guid>https://ildaro.com/9973</guid>
@@ -479,14 +487,6 @@
             <pubDate>Tue, 16 Jul 2024 10:08:00 GMT</pubDate>
             <content:encoded><![CDATA[둘 이상의 환경이 만나는 경계는 생태계가 중첩되어 다양한 자원과 생존 조건을 만들어 생물다양성이 확장하는 공간이다. 생태학에서는 ‘가장자리 효과’라고 부른...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024071623471351.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페미니스트는 울면 안 돼? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9954</link>
-            <guid>https://ildaro.com/9954</guid>
-            <pubDate>Sun, 14 Jul 2024 00:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[번번이 내 목소리는 팀장 앞에서 차장 앞에서 선배 앞에서 수그러들곤 했다. 그래서 나는 내가 페미니스트가 되기엔 좀 모자란 사람이라고 오래 생각했다...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024071413059683.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
