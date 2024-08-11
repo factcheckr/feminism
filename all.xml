@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Aug 2024 03:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Aug 2024 04:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/c3f4c096-6ae5-4551-b7be-cba7f86d79ff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[성장주의 포기하라, ‘공유경제’가 기후 살린다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9975</link>
+            <guid>https://ildaro.com/9975</guid>
+            <pubDate>Sun, 11 Aug 2024 00:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[공유 공간, 공유 차량, 공유 공구, 공유 농기구 등을 함께 사용합니다. 자원을 사유화하고 상품화하는 자본주의의 셈법과 다른 커먼즈는 소유하지 않더라도 삶을 풍요...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024081127371147.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘우먼 인 테크’, 퀴어, 크리스천인 홍콩 싱어송라이터 조야 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9974</link>
             <guid>https://ildaro.com/9974</guid>
@@ -479,14 +487,6 @@
             <pubDate>Wed, 17 Jul 2024 05:13:33 GMT</pubDate>
             <content:encoded><![CDATA[지금 서울혁신파크에 남아 있는 단체가 두 곳 더 있는데, 저희는 카페니까. 그래도 좀 더 노출이 되잖아요. 사람들이 오가며 ‘아, 여긴 계속 하네?’라고 알아주기도 ...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024071752563659.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[변방은 사실 풍요로운 곳이다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9955</link>
-            <guid>https://ildaro.com/9955</guid>
-            <pubDate>Tue, 16 Jul 2024 10:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[둘 이상의 환경이 만나는 경계는 생태계가 중첩되어 다양한 자원과 생존 조건을 만들어 생물다양성이 확장하는 공간이다. 생태학에서는 ‘가장자리 효과’라고 부른...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024071623471351.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
