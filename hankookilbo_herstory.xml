@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Aug 2024 22:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Aug 2024 23:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여성들은 과연 연대할 수 있을까]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1861</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1861</guid>
+            <pubDate>Mon, 12 Aug 2024 23:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 뉴스가 아닌 저의 잡다한 수다로 본문을 메우려 합니다. 왜냐하면, 리뉴얼에 들어가기 전 마지막 뉴스레터이기 때문이죠! 가장 중요한 본론부터 말씀드리자면, '이혜미의 허스펙티브'는 오늘 뉴스레터를 마지막으로 문을 닫습니다.......]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/8b5a2be5-c7a2-4b53-986a-8f90352fa10e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고위 간부가 된 여성들의 이 비법]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1853</link>
@@ -79,14 +87,6 @@
             <pubDate>Mon, 10 Jun 2024 23:12:35 GMT</pubDate>
             <content:encoded><![CDATA[여러분, 최근 일본에서는 '약자 남성 1,500만 명 시대'라는 책이 출간됐습니다. 이 책은 일본 아마존 인기 도서 상위에 이름을 올릴 정도로 화제예요. 저자는 "일본 남성의 24%, 4명 중 1명이 약자 남성의 특성을 갖고 있다"고 주장해요.&nbsp;]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/cdee76f9-4413-4690-b886-b44c8ab2e79a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1980년 5월 광주에서의 일]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1768</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1768</guid>
-            <pubDate>Tue, 04 Jun 2024 00:54:01 GMT</pubDate>
-            <content:encoded><![CDATA[온갖 여성 대상 폭력 사건 소식으로 뉴스가 도배됐던 날들이었습니다. (어떤 뉴스인지는 아래에 묶어 두었어요) 어느 것 하나 중요하게 다루지 않을 뉴스가 없었지만, 2주 만에 찾아온 허스펙티브가 선정한 이번 주의 소식은 5·18민주화운동 진상규명조사위원회의 성폭력 사건 조사입니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/c3f4c096-6ae5-4551-b7be-cba7f86d79ff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
