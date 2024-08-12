@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Aug 2024 03:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Aug 2024 04:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“After #MeToo—I realized I am still valuable”]]></title>
+            <link>https://ildaro.com/9976</link>
+            <guid>https://ildaro.com/9976</guid>
+            <pubDate>Mon, 12 Aug 2024 00:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[I felt helpless. I believed that I couldn’t live a happy, normal life, and I was ruined by the sexual violence that happened to me, at that young age, so routinely and as if it were natural....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024081211512408.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성장주의 포기하라, ‘공유경제’가 기후 살린다]]></title>
             <link>https://ildaro.com/9975</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 18 Jul 2024 11:12:28 GMT</pubDate>
             <content:encoded><![CDATA[Even among queer groups, intersex people have a very close yet very uncomfortable relationship with the medical field....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024071850139763.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울혁신파크 ‘내쫓고 부수고 쇼핑몰?’…반신반의했죠]]></title>
-            <link>https://ildaro.com/9956</link>
-            <guid>https://ildaro.com/9956</guid>
-            <pubDate>Wed, 17 Jul 2024 05:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[지금 서울혁신파크에 남아 있는 단체가 두 곳 더 있는데, 저희는 카페니까. 그래도 좀 더 노출이 되잖아요. 사람들이 오가며 ‘아, 여긴 계속 하네?’라고 알아주기도 ...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024071752563659.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
