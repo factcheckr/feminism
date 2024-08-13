@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Aug 2024 23:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 00:58:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전쟁 무기 수익이 예술을 지탱하게 해선 안됩니다]]></title>
+            <link>https://ildaro.com/9977</link>
+            <guid>https://ildaro.com/9977</guid>
+            <pubDate>Tue, 13 Aug 2024 07:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[“전쟁을 위한 무기가 가져다준 이익이 미술관으로 흘러들어 예술을 지탱하는 것은 윤리적으로 이상하지 않나요?”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024081321218734.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“After #MeToo—I realized I am still valuable”]]></title>
             <link>https://ildaro.com/9976</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 19 Jul 2024 10:26:00 GMT</pubDate>
             <content:encoded><![CDATA[처음 이 영화의 제목을 ‘Steal Alice’(앨리스를 빼앗다)로 읽었다. 그러나 제목은 ‘Still Alice’(여전히 앨리스)였다. 영문 제목을 확인하고서 많이 울었다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024071932157067.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Burden of My Existence as an Intersex Person]]></title>
-            <link>https://ildaro.com/9957</link>
-            <guid>https://ildaro.com/9957</guid>
-            <pubDate>Thu, 18 Jul 2024 11:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[Even among queer groups, intersex people have a very close yet very uncomfortable relationship with the medical field....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024071850139763.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
