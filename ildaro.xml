@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Aug 2024 22:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Aug 2024 02:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가족결합권 없지만, 이주노동자도 가족이 있습니다]]></title>
+            <link>https://ildaro.com/9978</link>
+            <guid>https://ildaro.com/9978</guid>
+            <pubDate>Thu, 15 Aug 2024 09:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[언니는 한국에서 다시 4년 10개월 일할 수 있는 기회를 잡았다. 그 사이 동생도 고용허가제 한국어 시험에 합격했다. 자매가 한국에 와서 일하지만, 함께 살 수 있는 권...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/202408152026362.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전쟁 무기 수익이 예술을 지탱하게 해선 안됩니다]]></title>
             <link>https://ildaro.com/9977</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 20 Jul 2024 10:14:03 GMT</pubDate>
             <content:encoded><![CDATA[『치유하는 글쓰기』에서 저자는 ‘죽도록 미운 당신에게’ 부치지 않을 편지를 쓰라고 했다. 이런 글쓰기가 가능하다고? 완전히 신세계였다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024072041219890.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[질병이 찾아와도 나는 여전히 ‘나’]]></title>
-            <link>https://ildaro.com/9958</link>
-            <guid>https://ildaro.com/9958</guid>
-            <pubDate>Fri, 19 Jul 2024 10:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[처음 이 영화의 제목을 ‘Steal Alice’(앨리스를 빼앗다)로 읽었다. 그러나 제목은 ‘Still Alice’(여전히 앨리스)였다. 영문 제목을 확인하고서 많이 울었다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024071932157067.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
