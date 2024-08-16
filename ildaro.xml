@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Aug 2024 12:25:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 13:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여성 리더십, 지금 한국에서 왜 아이슬란드인가?]]></title>
+            <link>https://ildaro.com/9979</link>
+            <guid>https://ildaro.com/9979</guid>
+            <pubDate>Fri, 16 Aug 2024 13:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[아이슬란드에서 큰 성공을 거뒀던 ‘여성 총파업’은 도대체 어떻게 가능했던 것일까, 하는 질문을 품게 되었다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024081656316271.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가족결합권 없지만, 이주노동자도 가족이 있습니다]]></title>
             <link>https://ildaro.com/9978</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 21 Jul 2024 12:22:21 GMT</pubDate>
             <content:encoded><![CDATA[이주노동자는 ‘인력’ 그 자체가 아니다. 20~30대 이주노동자가 한국에 최대 9년 8개월을 머무르는 그 기간은 임신과 출산이라는 생애주기도 맞물린다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024072125234934.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘5분만 쓰자’…무의식을 끄집어내는 글쓰기의 신세계]]></title>
-            <link>https://ildaro.com/9959</link>
-            <guid>https://ildaro.com/9959</guid>
-            <pubDate>Sat, 20 Jul 2024 10:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[『치유하는 글쓰기』에서 저자는 ‘죽도록 미운 당신에게’ 부치지 않을 편지를 쓰라고 했다. 이런 글쓰기가 가능하다고? 완전히 신세계였다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024072041219890.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
