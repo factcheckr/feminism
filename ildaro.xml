@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Aug 2024 01:00:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Aug 2024 02:10:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가 정말 원하는 게 뭘까? 선택의 기로에서 쓰는 글]]></title>
+            <link>https://ildaro.com/9980</link>
+            <guid>https://ildaro.com/9980</guid>
+            <pubDate>Sun, 18 Aug 2024 10:09:00 GMT</pubDate>
+            <content:encoded><![CDATA["이사한 뒤 그곳에서 사는 것처럼 일상을 묘사하고, 그다음엔 현재의 집에서 계속 사는 삶을 글로 써 보는 겁니다. 글로 써 보면 진정으로 원했던 선택이 무엇인지...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024081818049705.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여성 리더십, 지금 한국에서 왜 아이슬란드인가?]]></title>
             <link>https://ildaro.com/9979</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 23 Jul 2024 09:57:00 GMT</pubDate>
             <content:encoded><![CDATA[사실 이 편백숲 사업은 은평구청만의 문제도 아니에요. 산림청에서 전국적으로 하고 있거든요. 어떤 유행처럼 하는 것 같은데… 문제가 많죠....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024072312274362.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘이주노동자의 임신’은 고려하지 않는 사회]]></title>
-            <link>https://ildaro.com/9960</link>
-            <guid>https://ildaro.com/9960</guid>
-            <pubDate>Sun, 21 Jul 2024 12:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[이주노동자는 ‘인력’ 그 자체가 아니다. 20~30대 이주노동자가 한국에 최대 9년 8개월을 머무르는 그 기간은 임신과 출산이라는 생애주기도 맞물린다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024072125234934.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
