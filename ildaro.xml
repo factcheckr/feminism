@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Aug 2024 03:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Aug 2024 04:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아직 우리가 본 적 없는 ‘다양성’]]></title>
+            <link>https://ildaro.com/9981</link>
+            <guid>https://ildaro.com/9981</guid>
+            <pubDate>Mon, 19 Aug 2024 00:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[“이 나이가 되니 부모나 친구, 누구도 ‘파트너 만들어, 섹스 해, 애 낳아.’라고 저에게 말하지 않게 됐고, 저도 필요 없다고 자신있게 말할 수 있게 됐어요. 정말 최...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024081927458853.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내가 정말 원하는 게 뭘까? 선택의 기로에서 쓰는 글]]></title>
             <link>https://ildaro.com/9980</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 25 Jul 2024 10:11:00 GMT</pubDate>
             <content:encoded><![CDATA[내 화두가 ‘엄마처럼 살지 않겠다’가 아니라, ‘엄마, 다시 살게 되면 나 낳지 말고 마음대로 살아’로 바뀌는 건 순식간이었다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024072517138622.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[70여종 새들이 봉산 보존의 필요성 알려주죠]]></title>
-            <link>https://ildaro.com/9961</link>
-            <guid>https://ildaro.com/9961</guid>
-            <pubDate>Tue, 23 Jul 2024 09:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[사실 이 편백숲 사업은 은평구청만의 문제도 아니에요. 산림청에서 전국적으로 하고 있거든요. 어떤 유행처럼 하는 것 같은데… 문제가 많죠....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024072312274362.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
