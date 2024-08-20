@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Aug 2024 03:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Aug 2024 04:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/cdee76f9-4413-4690-b886-b44c8ab2e79a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘결혼이라는 해피엔딩’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9982</link>
+            <guid>https://ildaro.com/9982</guid>
+            <pubDate>Tue, 20 Aug 2024 00:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[극 중에서 파라다의 엄마는 ‘불가능한 결혼’을 이유로, 두 사람의 사랑을 인정하지 않는다. 하지만 이건 곧 이유가 안 되는 핑계가 될 예정이다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024082001119344.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아직 우리가 본 적 없는 ‘다양성’ (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9981</link>
             <guid>https://ildaro.com/9981</guid>
@@ -479,14 +487,6 @@
             <pubDate>Fri, 26 Jul 2024 00:42:00 GMT</pubDate>
             <content:encoded><![CDATA[“자연이 제일 재생력이 생기는 것 같은 거죠. 스스로가… 확실히 그 피해가 덜 오고.” (민수, 50대 여성, 대안농업 경력 5년, 제주 동드레우영공동체)...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024072655191671.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페미니스트 딸에게 ‘엄마’라는 화두 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9962</link>
-            <guid>https://ildaro.com/9962</guid>
-            <pubDate>Thu, 25 Jul 2024 10:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[내 화두가 ‘엄마처럼 살지 않겠다’가 아니라, ‘엄마, 다시 살게 되면 나 낳지 말고 마음대로 살아’로 바뀌는 건 순식간이었다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024072517138622.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
