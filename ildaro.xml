@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Aug 2024 23:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Aug 2024 00:58:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소비자는 모르는, 여성 농민이 앓는 ‘기후재난병’]]></title>
+            <link>https://ildaro.com/9983</link>
+            <guid>https://ildaro.com/9983</guid>
+            <pubDate>Thu, 22 Aug 2024 08:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[2년에 걸쳐 수해를 당하다 보니 더 이상 농업에 종사할 수 있을지 막막하기만 한 상황이다. 자고 일어나면 생각이 나고 수해를 입은 작물들을 볼 때마다 속이 상한다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024082200412875.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘결혼이라는 해피엔딩’]]></title>
             <link>https://ildaro.com/9982</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 27 Jul 2024 07:13:58 GMT</pubDate>
             <content:encoded><![CDATA[An overwhelming number of deaths due to COVID-19 have been that of the elderly. Moreover, the over-80 make up the majority of the number. We need to ask what the COVID-19 ‘disaster’ is and for whom...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024072754303897.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기후재난…대안 농업 제시한 ‘농생태학’의 선구자들]]></title>
-            <link>https://ildaro.com/9963</link>
-            <guid>https://ildaro.com/9963</guid>
-            <pubDate>Fri, 26 Jul 2024 00:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[“자연이 제일 재생력이 생기는 것 같은 거죠. 스스로가… 확실히 그 피해가 덜 오고.” (민수, 50대 여성, 대안농업 경력 5년, 제주 동드레우영공동체)...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024072655191671.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
