@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Aug 2024 08:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 09:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/cdee76f9-4413-4690-b886-b44c8ab2e79a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[동성혼 합법화에 비혼 여성 대통령의 기여 컸다?! (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9984</link>
+            <guid>https://ildaro.com/9984</guid>
+            <pubDate>Fri, 23 Aug 2024 09:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[“제 이름은 차이잉원입니다. 저는 혼인평등권을 지지합니다.”라는 15초 분량의 비디오를 공식 페이스북 페이지에 올려 대만 최초로 동성혼을 공개 지지한 총통 후보...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024082309429352.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[소비자는 모르는, 여성 농민이 앓는 ‘기후재난병’ (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9983</link>
             <guid>https://ildaro.com/9983</guid>
@@ -479,14 +487,6 @@
             <pubDate>Sun, 28 Jul 2024 10:35:00 GMT</pubDate>
             <content:encoded><![CDATA[“법정을 완성시킨 것은 국가와 지역을 넘어 연결된 페미니스트들이었습니다. 고생도 많았고 몇 번이나 울었지만, 반드시 끝까지 해내야 한다는 결의로 해냈던, 가슴...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024072842269162.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Can We Die as a Protagonist of a Story Instead of a Number? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9964</link>
-            <guid>https://ildaro.com/9964</guid>
-            <pubDate>Sat, 27 Jul 2024 07:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[An overwhelming number of deaths due to COVID-19 have been that of the elderly. Moreover, the over-80 make up the majority of the number. We need to ask what the COVID-19 ‘disaster’ is and for whom...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024072754303897.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
