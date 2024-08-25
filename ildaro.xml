@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Aug 2024 03:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Aug 2024 04:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어쩌면 조금 ‘다른’, 소녀들의 청춘]]></title>
+            <link>https://ildaro.com/9985</link>
+            <guid>https://ildaro.com/9985</guid>
+            <pubDate>Sun, 25 Aug 2024 00:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[1999년, 대도시가 아닌 거제의 상고를 다니는 ‘여학생’들에겐 수행해야 하는 노동이 있다. 그것이 꼭 임금노동은 아니라 할지라도 말이다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024082527538937.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동성혼 합법화에 비혼 여성 대통령의 기여 컸다?!]]></title>
             <link>https://ildaro.com/9984</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 29 Jul 2024 06:18:49 GMT</pubDate>
             <content:encoded><![CDATA[“길에서 만나는 사람들 모두를 바라보았어요. 하지만 아무도 나를 쳐다보지 않았어요. 미니나와 나는 대도시에선 사람들도 보이지 않는 점이 될 수 있다는 사실을 알...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024072924485209.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[분쟁 속 세계…‘여성국제전범법정’의 경험 재조명되길]]></title>
-            <link>https://ildaro.com/9965</link>
-            <guid>https://ildaro.com/9965</guid>
-            <pubDate>Sun, 28 Jul 2024 10:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[“법정을 완성시킨 것은 국가와 지역을 넘어 연결된 페미니스트들이었습니다. 고생도 많았고 몇 번이나 울었지만, 반드시 끝까지 해내야 한다는 결의로 해냈던, 가슴...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024072842269162.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
