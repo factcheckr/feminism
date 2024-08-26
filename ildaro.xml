@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Aug 2024 02:07:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2024 03:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘가족’의 범위, ‘동성애’에 대한 규범적 판단이 변화했다]]></title>
+            <link>https://ildaro.com/9986</link>
+            <guid>https://ildaro.com/9986</guid>
+            <pubDate>Mon, 26 Aug 2024 11:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[헌법상 평등권의 실현을 위하여 성소수자에 대한 차별은 더 이상 용납될 수 없을 뿐 아니라, 국가의 적극적인 보호 및 결단이 필요함을 사법부가 천명한 것....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024082606066477.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어쩌면 조금 ‘다른’, 소녀들의 청춘]]></title>
             <link>https://ildaro.com/9985</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 30 Jul 2024 12:23:37 GMT</pubDate>
             <content:encoded><![CDATA[건강한 사람들만 입국하죠. 그런데 몇 년 지나지 않아서 많은 이들이 자다가 갑작스럽게 죽어요. 왜 그러는지 알 수도 없고 그냥 사건이 처리가 되죠....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024073042197615.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드러누워서 본 풍경]]></title>
-            <link>https://ildaro.com/9966</link>
-            <guid>https://ildaro.com/9966</guid>
-            <pubDate>Mon, 29 Jul 2024 06:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[“길에서 만나는 사람들 모두를 바라보았어요. 하지만 아무도 나를 쳐다보지 않았어요. 미니나와 나는 대도시에선 사람들도 보이지 않는 점이 될 수 있다는 사실을 알...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024072924485209.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

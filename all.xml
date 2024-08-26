@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Aug 2024 02:07:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2024 03:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[“다 아는 사이라, 앞길 망칠라…딸 위험신호 그냥 넘긴 것 후회” (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/incident/article/202408260600071</link>
             <guid>https://www.khan.co.kr/national/incident/article/202408260600071</guid>
-            <pubDate>Mon, 26 Aug 2024 02:06:34 GMT</pubDate>
+            <pubDate>Mon, 26 Aug 2024 02:05:51 GMT</pubDate>
             <content:encoded><![CDATA[대한민국에선 만 17세가 되면 주민등록증을 발급받을 수 있다. 국내에 거주하는 주민으로서, 시민의 한 사람으로서 그 존재와 자격을 증명하는 문서다. ‘효도 효’에 ‘곧을 정’, 효도하며 곧게 살라는 뜻을 담아 지은 이효정씨(20)의 이름, 그 이름이 쓰인 주민등록증은 발급된 지 겨우 2년도 되지 않아 폐기됐다. 지난 4월 10일 동갑내기 전 남자친구 A씨에게 폭행당해 사망하면서다.4월 1일, A씨는 헤어진 효정씨가 전화와 메시지에 응답하지 않자 자신을 무시했다며 새벽에 경남 거제에 있는 효정씨 원룸에 무단침입했다. 그는 효정씨 몸 위에 올라타 목을 조르고 머리와 온몸을 무차별 폭행했다. 피해자는 외상성 경막하 출혈 등으로 전치 6주 진단을 받고 치료받다가 패혈증에 의한 다발성 장기 부전으로 열흘 만에 사망했다. 뇌를 둘러싸고 있는 경막 안쪽 뇌혈관이 터져 피가 고이고, 그 피가 썩어서 장기 기능이 상실되면서 생명을 잃었다는 뜻이다.지난달 17일 거제에서 만난 효정씨의 어머...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/08/26/news-p.v1.20240826.f03e85836ac54fc681b06c796e356538_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/cdee76f9-4413-4690-b886-b44c8ab2e79a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘가족’의 범위, ‘동성애’에 대한 규범적 판단이 변화했다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9986</link>
+            <guid>https://ildaro.com/9986</guid>
+            <pubDate>Mon, 26 Aug 2024 11:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[헌법상 평등권의 실현을 위하여 성소수자에 대한 차별은 더 이상 용납될 수 없을 뿐 아니라, 국가의 적극적인 보호 및 결단이 필요함을 사법부가 천명한 것....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024082606066477.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[어쩌면 조금 ‘다른’, 소녀들의 청춘 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9985</link>
             <guid>https://ildaro.com/9985</guid>
@@ -479,14 +487,6 @@
             <pubDate>Tue, 30 Jul 2024 12:23:37 GMT</pubDate>
             <content:encoded><![CDATA[건강한 사람들만 입국하죠. 그런데 몇 년 지나지 않아서 많은 이들이 자다가 갑작스럽게 죽어요. 왜 그러는지 알 수도 없고 그냥 사건이 처리가 되죠....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024073042197615.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드러누워서 본 풍경 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9966</link>
-            <guid>https://ildaro.com/9966</guid>
-            <pubDate>Mon, 29 Jul 2024 06:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[“길에서 만나는 사람들 모두를 바라보았어요. 하지만 아무도 나를 쳐다보지 않았어요. 미니나와 나는 대도시에선 사람들도 보이지 않는 점이 될 수 있다는 사실을 알...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024072924485209.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
