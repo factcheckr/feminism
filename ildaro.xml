@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Aug 2024 04:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Aug 2024 05:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[No Happy Memories, No Evidence—The Perpetrator’s Hard-to-Believe “Relationship” Argument]]></title>
+            <link>https://ildaro.com/9987</link>
+            <guid>https://ildaro.com/9987</guid>
+            <pubDate>Tue, 27 Aug 2024 00:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[Local civil activists, including those from women’s groups, came to court during the criminal trials in order to support the #MeToo accusation made by Ms. Shin. The picture above captured the moment...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024082750535217.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘가족’의 범위, ‘동성애’에 대한 규범적 판단이 변화했다]]></title>
             <link>https://ildaro.com/9986</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 01 Aug 2024 11:37:00 GMT</pubDate>
             <content:encoded><![CDATA[친절함은 한국 사회에서 요구하는 여성상에 들어맞아서 그 강점을 과하게 발휘하면서 살아왔을 수 있다. 그런데 어느 날 사람들이 나를 호구로 생각한다는 느낌이 든...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024080143143696.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“한국에 죽으러 오지 않았다” 폭염 속 이주노동자]]></title>
-            <link>https://ildaro.com/9967</link>
-            <guid>https://ildaro.com/9967</guid>
-            <pubDate>Tue, 30 Jul 2024 12:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[건강한 사람들만 입국하죠. 그런데 몇 년 지나지 않아서 많은 이들이 자다가 갑작스럽게 죽어요. 왜 그러는지 알 수도 없고 그냥 사건이 처리가 되죠....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202407/2024073042197615.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
