@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Aug 2024 23:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 00:58:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나를 찾아온 감정 손님을 어떻게 맞이할 것인가?]]></title>
+            <link>https://ildaro.com/9988</link>
+            <guid>https://ildaro.com/9988</guid>
+            <pubDate>Wed, 28 Aug 2024 09:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[당신을 자주 찾아와 힘들게 하는 감정은 무엇인가? 그 감정 손님을 맞이하는 당신만의 방법은 무엇인가?...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024082835578666.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[No Happy Memories, No Evidence—The Perpetrator’s Hard-to-Believe “Relationship” Argument]]></title>
             <link>https://ildaro.com/9987</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 03 Aug 2024 09:57:00 GMT</pubDate>
             <content:encoded><![CDATA[20년이 넘는 시간을 한국 사회에서 남성으로 사회화되었다. 여느 남자들이 그렇듯이 가부장적이고 성차별적인 사고에서 나 역시도 자유롭지 못했다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024080303525791.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘강점’의 빛과 그림자]]></title>
-            <link>https://ildaro.com/9968</link>
-            <guid>https://ildaro.com/9968</guid>
-            <pubDate>Thu, 01 Aug 2024 11:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[친절함은 한국 사회에서 요구하는 여성상에 들어맞아서 그 강점을 과하게 발휘하면서 살아왔을 수 있다. 그런데 어느 날 사람들이 나를 호구로 생각한다는 느낌이 든...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024080143143696.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
