@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Aug 2024 11:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Aug 2024 12:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성교육 어느 때보다 절실한데, 성평등 도서 열람 제한?]]></title>
+            <link>https://ildaro.com/9990</link>
+            <guid>https://ildaro.com/9990</guid>
+            <pubDate>Sat, 31 Aug 2024 12:23:17 GMT</pubDate>
+            <content:encoded><![CDATA[“공공, 지역도서관 예산이 삭감될 때 연대해 달라. 책 읽는 사회를 두려워하는 누군가에게 주목해 달라. 열람이 제한되는 책이 있다면 그 이유에 관심을 가져달라.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024083113453382.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘성차별 임금’ 한국, 여성파업이 성공한 나라에게 배울 것]]></title>
             <link>https://ildaro.com/9989</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 05 Aug 2024 09:27:00 GMT</pubDate>
             <content:encoded><![CDATA[미술계는 남성중심 사회이고, 권력 구조도 있고, 수업에서 미대생이 성희롱을 당하고, 거장 아티스트의 갑질이 일상화되어 있어 다양성과는 한참 먼 세계입니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024080532043881.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What Happens to the Trash I Throw Away]]></title>
-            <link>https://ildaro.com/9970</link>
-            <guid>https://ildaro.com/9970</guid>
-            <pubDate>Sun, 04 Aug 2024 11:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[How many citizens are aware that from 2026, waste (everyday waste disposed of in the white trash bags)  from the metropolitan area will no longer be placed in landfills?...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024080451255615.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
