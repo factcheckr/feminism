@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Sep 2024 07:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 08:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“규제하라” 요청해도…플랫폼에 ‘방치’되는 불법·유해정보 매년 ‘20만건’ (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/incident/article/202409021618001</link>
+            <guid>https://www.khan.co.kr/national/incident/article/202409021618001</guid>
+            <pubDate>Mon, 02 Sep 2024 08:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 국내외 온라인 플랫폼 사업자에게 ‘불법·유해정보를 자율 규제하라’는 요청을 해마다 수십만건씩 하고 있지만 매년 10만~20만건이 ‘미조치’ 되고 있는 것으로 나타났다. 최근 딥페이크 성착취물 범죄 확산에 따른 대응으로 정부는 “텔레그램이 불법 정보를 자율 규제할 수 있도록 상시 협의하는 ‘핫라인’을 확보하겠다”고 밝혔지만, 그동안 범죄 피해를 방치하고 책임을 회피해 온 플랫폼 사업자가 얼마나 협조할지는 미지수라는 지적이 나온다.김남희 더불어민주당 의원실이 1일 여성가족부에서 받은 ‘2021~2024년 6월 국내외 플랫폼 사업자 자율규제 활성화 지원 현황’ 자료를 보면, 2021년 정부가 플랫폼 사업자에게 자율규제를 요청한 불법·유해 정보는 모두 28만2186건이었다. 이 중 52%(14만7382건)만이 규제 조치가 이뤄졌다. 2022년엔 67만4178건 중 67%(45만2296건), 2023년엔 96만2328건 중 79%(76만6470건)에 대해 플랫폼 사업자가 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/09/02/news-p.v1.20240902.401366d61d274e64ba08139bb13753c8_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[10대 ‘딥페이크 성착취’ 가해자 늘어나는데… ‘AI 교육’ 손놓은 학교 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202409021411011</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 29 Aug 2024 09:14:36 GMT</pubDate>
             <content:encoded><![CDATA[“우리는 쫓겨나지 않을 것입니다. 디지털 공간에서, 학교에서, 군대에서, 화장실과 공공장소에서 활보하고 다니기 위해 우리는 싸울 것입니다.”서울여성회와 산하 페미니스트 대학생 연합동아리(서페대연) 등 14개 단체에서 온 40여명이 29일 서울 서초구 강남역 10번 출구 인근에서 “#너희는 우리를 능욕할 수 없다”는 제목으로 딥페이크 성범죄 규탄 기자회견을 열었다. 이들은 “딥페이크 성범죄가 여성의 삶을 무너뜨리려 하는데도 우리 사회는 여성에게 조심하라고 말한다”며 “국가가 철저한 진실규명과 가해자 처벌, 근본적인 재발 방지 대책에 나서라”고 요구했다. 이들은 “딥페이크 성범죄는 놀이가 아니라 성폭력”이라며 시민들의 연대를 촉구했다.기자회견 참석자들은 학교와 군대 등에 확산한 디지털 성범죄로 인한 불안을 호소했다. 경희대 학생소수자인권위원회의 송소영씨는 “단순히 내 사진을 사회관계망서비스(SNS)에 올리는 것만으로도 딥페이크 범죄에 도용될 수 있다”며 “내 일상이 언제든 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/08/29/news-p.v1.20240829.78243a4e44f44aa8920efe21c9f9dbfd_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전교조 딥페이크 피해 실태조사 “피해 건수 2492건, 직·간접 피해 517건” (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202408291649001</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202408291649001</guid>
-            <pubDate>Thu, 29 Aug 2024 08:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[전국 학교에서 학생, 교사, 교직원 등이 딥페이크 성착취물로 직·간접적인 피해를 당한 사례가 517건인 것으로 전국교직원노동조합(전교조) 조사에서 확인됐다.전교조는 29일 오전 서울 종로구 정부서울청사 앞에서 기자회견을 열고 지난 27일부터 이틀간 진행된 딥페이크 실태조사에 접수된 피해 건수가 2492건에 달한다면서 이렇게 밝혔다.전체 신고 건수 가운데 직·간접 피해는 517건이었다. 자신의 사진으로 딥페이크 성착취물이 만들어진 것을 직접 확인한 피해자는 29명(학생 13명, 교사 16명)이었다. 딥페이크 성착취물 제작 및 관련 협박을 주변으로부터 전달받는 등 간접 피해를 겪은 이는 488명(학생 291명, 교사 188명, 교직원 9명)이었다. 응답자 4명 중 1명(26.3%)은 ‘의혹은 있으나 피해를 당했는지 확인할 수 없다고 답했다.피해 사례들은 학교 현장에서 제대로 된 피해 지원과 재발 방지 대책이 크게 미흡함을 드러냈다. 피해 학생 A양은 중학교 때 초등학교 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/08/29/news-p.v1.20240829.c0062f14729040809601707eb339b4c5_P1.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“규제하라” 요청해도…플랫폼에 ‘방치’되는 불법·유해정보 매년 ‘20만건’ (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/national/incident/article/202409021618001</link>
+            <guid>https://www.khan.co.kr/national/incident/article/202409021618001</guid>
+            <pubDate>Mon, 02 Sep 2024 08:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 국내외 온라인 플랫폼 사업자에게 ‘불법·유해정보를 자율 규제하라’는 요청을 해마다 수십만건씩 하고 있지만 매년 10만~20만건이 ‘미조치’ 되고 있는 것으로 나타났다. 최근 딥페이크 성착취물 범죄 확산에 따른 대응으로 정부는 “텔레그램이 불법 정보를 자율 규제할 수 있도록 상시 협의하는 ‘핫라인’을 확보하겠다”고 밝혔지만, 그동안 범죄 피해를 방치하고 책임을 회피해 온 플랫폼 사업자가 얼마나 협조할지는 미지수라는 지적이 나온다.김남희 더불어민주당 의원실이 1일 여성가족부에서 받은 ‘2021~2024년 6월 국내외 플랫폼 사업자 자율규제 활성화 지원 현황’ 자료를 보면, 2021년 정부가 플랫폼 사업자에게 자율규제를 요청한 불법·유해 정보는 모두 28만2186건이었다. 이 중 52%(14만7382건)만이 규제 조치가 이뤄졌다. 2022년엔 67만4178건 중 67%(45만2296건), 2023년엔 96만2328건 중 79%(76만6470건)에 대해 플랫폼 사업자가 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/09/02/news-p.v1.20240902.401366d61d274e64ba08139bb13753c8_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[10대 ‘딥페이크 성착취’ 가해자 늘어나는데… ‘AI 교육’ 손놓은 학교 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202409021411011</link>
             <guid>https://www.khan.co.kr/national/gender/article/202409021411011</guid>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 29 Aug 2024 09:14:36 GMT</pubDate>
             <content:encoded><![CDATA[“우리는 쫓겨나지 않을 것입니다. 디지털 공간에서, 학교에서, 군대에서, 화장실과 공공장소에서 활보하고 다니기 위해 우리는 싸울 것입니다.”서울여성회와 산하 페미니스트 대학생 연합동아리(서페대연) 등 14개 단체에서 온 40여명이 29일 서울 서초구 강남역 10번 출구 인근에서 “#너희는 우리를 능욕할 수 없다”는 제목으로 딥페이크 성범죄 규탄 기자회견을 열었다. 이들은 “딥페이크 성범죄가 여성의 삶을 무너뜨리려 하는데도 우리 사회는 여성에게 조심하라고 말한다”며 “국가가 철저한 진실규명과 가해자 처벌, 근본적인 재발 방지 대책에 나서라”고 요구했다. 이들은 “딥페이크 성범죄는 놀이가 아니라 성폭력”이라며 시민들의 연대를 촉구했다.기자회견 참석자들은 학교와 군대 등에 확산한 디지털 성범죄로 인한 불안을 호소했다. 경희대 학생소수자인권위원회의 송소영씨는 “단순히 내 사진을 사회관계망서비스(SNS)에 올리는 것만으로도 딥페이크 범죄에 도용될 수 있다”며 “내 일상이 언제든 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/08/29/news-p.v1.20240829.78243a4e44f44aa8920efe21c9f9dbfd_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전교조 딥페이크 피해 실태조사 “피해 건수 2492건, 직·간접 피해 517건” (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202408291649001</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202408291649001</guid>
-            <pubDate>Thu, 29 Aug 2024 08:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[전국 학교에서 학생, 교사, 교직원 등이 딥페이크 성착취물로 직·간접적인 피해를 당한 사례가 517건인 것으로 전국교직원노동조합(전교조) 조사에서 확인됐다.전교조는 29일 오전 서울 종로구 정부서울청사 앞에서 기자회견을 열고 지난 27일부터 이틀간 진행된 딥페이크 실태조사에 접수된 피해 건수가 2492건에 달한다면서 이렇게 밝혔다.전체 신고 건수 가운데 직·간접 피해는 517건이었다. 자신의 사진으로 딥페이크 성착취물이 만들어진 것을 직접 확인한 피해자는 29명(학생 13명, 교사 16명)이었다. 딥페이크 성착취물 제작 및 관련 협박을 주변으로부터 전달받는 등 간접 피해를 겪은 이는 488명(학생 291명, 교사 188명, 교직원 9명)이었다. 응답자 4명 중 1명(26.3%)은 ‘의혹은 있으나 피해를 당했는지 확인할 수 없다고 답했다.피해 사례들은 학교 현장에서 제대로 된 피해 지원과 재발 방지 대책이 크게 미흡함을 드러냈다. 피해 학생 A양은 중학교 때 초등학교 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/08/29/news-p.v1.20240829.c0062f14729040809601707eb339b4c5_P1.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[여성들은 과연 연대할 수 있을까 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
