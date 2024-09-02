@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Sep 2024 05:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 06:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[10대 ‘딥페이크 성착취’ 가해자 늘어나는데… ‘AI 교육’ 손놓은 학교 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202409021411011</link>
             <guid>https://www.khan.co.kr/national/gender/article/202409021411011</guid>
-            <pubDate>Mon, 02 Sep 2024 05:14:15 GMT</pubDate>
+            <pubDate>Mon, 02 Sep 2024 05:13:30 GMT</pubDate>
             <content:encoded><![CDATA[딥페이크 성 착취물 확산으로 청소년 피해자가 증가하고 있지만, 불법합성물을 제작하는 데 사용되는 ‘생성형 인공지능(AI)’에 대한 교육을 받은 중고등학생이 3명 중 1명으로 나타났다. 반면 생성형 AI 기술을 이용한 적 있다고 답한 이들은 절반이 넘었다. 다수의 학생들이 생성형 AI를 이용하면서도 관련 교육은 제대로 받지 않고 있어 관련 분야 교육을 강화해야 한다는 목소리가 나온다.2일 한국청소년정책연구원이 발표한 ‘청소년 디지털 인재를 어떻게 양성할까’ 보고서를 보면, 지난해 7∼8월 전국 중·고등학교에 다니는 청소년 2261명을 대상으로 조사한 결과 지난 6개월 동안 학교에서 ‘생성형 AI 기술 활용 교육’을 받은 비율은 35.7%로 집계됐다. 연구진이 설문한 인터넷·스마트폰 과의존 방지 교육, 개인정보 보호 교육, 스미싱 등 디지털 금융 사기 예방 교육 등 10가지 항목 가운데 7번째로 낮은 수치다.📌[플랫]모르는 연락 100통···선생님은...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/09/02/news-p.v1.20240902.3befa6b7634d412880b99cf11e80bfb8_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/cdee76f9-4413-4690-b886-b44c8ab2e79a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘마초’ 국가 멕시코 변화 오나, 여성 대통령 탄생 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9991</link>
+            <guid>https://ildaro.com/9991</guid>
+            <pubDate>Mon, 02 Sep 2024 06:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[멕시코 헌정사상 최초의 여성 대통령으로, 마치스모(마초에서 기원한 말로 남성우월주의 문화를 뜻함)가 강한 멕시코의 유리 천장을 깨뜨리는 일이 된다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024090241185375.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[성교육 어느 때보다 절실한데, 성평등 도서 열람 제한? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9990</link>
             <guid>https://ildaro.com/9990</guid>
@@ -479,14 +487,6 @@
             <pubDate>Tue, 06 Aug 2024 00:53:00 GMT</pubDate>
             <content:encoded><![CDATA[많은 여성들이 직장을 찾기를 원했다. 그러나 정부나 지자체에서 운영하는 일자리센터는 극소수인 난민인정자를 제외하고는 직업훈련이나 직업정보를 제공하지 않고...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024080604097925.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘팔레스타인, 따뜻한 집’ 전시에 100인 아티스트 참여 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9971</link>
-            <guid>https://ildaro.com/9971</guid>
-            <pubDate>Mon, 05 Aug 2024 09:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[미술계는 남성중심 사회이고, 권력 구조도 있고, 수업에서 미대생이 성희롱을 당하고, 거장 아티스트의 갑질이 일상화되어 있어 다양성과는 한참 먼 세계입니다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024080532043881.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
