@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Sep 2024 07:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Sep 2024 08:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/cdee76f9-4413-4690-b886-b44c8ab2e79a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여자들이 ‘안전하게’ 헤엄치는 상상 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9992</link>
+            <guid>https://ildaro.com/9992</guid>
+            <pubDate>Tue, 03 Sep 2024 08:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[“매일 잘못된 이름으로 호명 당하는 세계에서, 스스로를 찾고 사랑하기 위해, 시적 실천을 하기 위해.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024090323136730.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘마초’ 국가 멕시코 변화 오나, 여성 대통령 탄생 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9991</link>
             <guid>https://ildaro.com/9991</guid>
@@ -479,14 +487,6 @@
             <pubDate>Thu, 08 Aug 2024 10:54:00 GMT</pubDate>
             <content:encoded><![CDATA[나를 속속들이 알게 되는 여정의 끝에, 생각했던 것만큼 잘나거나 멋진 내가 기다리고 있는 게 아닐까 봐 두렵다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024080859316756.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘한국에서 제2의집 만났다’…아랍여성들이 6년간 꾸려온 공간 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9972</link>
-            <guid>https://ildaro.com/9972</guid>
-            <pubDate>Tue, 06 Aug 2024 00:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[많은 여성들이 직장을 찾기를 원했다. 그러나 정부나 지자체에서 운영하는 일자리센터는 극소수인 난민인정자를 제외하고는 직업훈련이나 직업정보를 제공하지 않고...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024080604097925.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
