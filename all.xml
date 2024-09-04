@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Sep 2024 07:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Sep 2024 08:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/cdee76f9-4413-4690-b886-b44c8ab2e79a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[누구도 미치지 않는 세상을 꿈꾸는가? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9993</link>
+            <guid>https://ildaro.com/9993</guid>
+            <pubDate>Wed, 04 Sep 2024 08:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[우리에게 필요한 것은 모두가 순백의 결점 없는 정신건강을 장착하는 것이 아니라, 우울하거나 불안해도 괜찮은 세상, 미쳐도 괜찮은 세상이다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024090414441258.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여자들이 ‘안전하게’ 헤엄치는 상상 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9992</link>
             <guid>https://ildaro.com/9992</guid>
@@ -479,14 +487,6 @@
             <pubDate>Wed, 28 Aug 2024 20:15:23 GMT</pubDate>
             <content:encoded><![CDATA[이 에너지 넘치는 예술가가 음악을 취미로만 다루었다면, 2023년 홍콩에서 아시아 최초로 열렸던 성소수자 스포츠 축제인 게이 게임(Gay Games) 폐막식 무대를 장식하지 못...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024080905276073.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 ‘약점’이 하는 이야기 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9973</link>
-            <guid>https://ildaro.com/9973</guid>
-            <pubDate>Thu, 08 Aug 2024 10:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[나를 속속들이 알게 되는 여정의 끝에, 생각했던 것만큼 잘나거나 멋진 내가 기다리고 있는 게 아닐까 봐 두렵다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024080859316756.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
