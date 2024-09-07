@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Sep 2024 10:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Sep 2024 11:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/cdee76f9-4413-4690-b886-b44c8ab2e79a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘수용소 없는 세상’을 상상할 수 있을까 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9995</link>
+            <guid>https://ildaro.com/9995</guid>
+            <pubDate>Sat, 07 Sep 2024 11:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[‘수용소’의 경험을 마치 사회로부터의 ‘피난소’처럼 느꼈다고 구술한 경우도 있었다. 그만큼 사회 전체가 특정 존재를 배제하고 박탈하는 ‘수용소화된 상태’였...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024090743281294.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지구를 식히려면, 관행농 아닌 탄소저장농법 지원해야 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9994</link>
             <guid>https://ildaro.com/9994</guid>
@@ -479,14 +487,6 @@
             <pubDate>Mon, 12 Aug 2024 00:04:00 GMT</pubDate>
             <content:encoded><![CDATA[I felt helpless. I believed that I couldn’t live a happy, normal life, and I was ruined by the sexual violence that happened to me, at that young age, so routinely and as if it were natural....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024081211512408.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성장주의 포기하라, ‘공유경제’가 기후 살린다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9975</link>
-            <guid>https://ildaro.com/9975</guid>
-            <pubDate>Sun, 11 Aug 2024 00:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[공유 공간, 공유 차량, 공유 공구, 공유 농기구 등을 함께 사용합니다. 자원을 사유화하고 상품화하는 자본주의의 셈법과 다른 커먼즈는 소유하지 않더라도 삶을 풍요...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024081127371147.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
