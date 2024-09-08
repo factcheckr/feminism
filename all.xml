@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Sep 2024 12:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Sep 2024 13:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/cdee76f9-4413-4690-b886-b44c8ab2e79a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[딥페이크 성폭력 사태…‘정치가 제 역할 못한 것’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9996</link>
+            <guid>https://ildaro.com/9996</guid>
+            <pubDate>Sun, 08 Sep 2024 13:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[박지현 씨는 “‘자율 규제’는 딥페이크 범죄를 비롯한 디지털 성범죄의 해결에 한발자국도 제대로 다가가지 못한다”고 강조했다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024090842449312.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘수용소 없는 세상’을 상상할 수 있을까 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9995</link>
             <guid>https://ildaro.com/9995</guid>
@@ -479,14 +487,6 @@
             <pubDate>Tue, 13 Aug 2024 07:12:00 GMT</pubDate>
             <content:encoded><![CDATA[“전쟁을 위한 무기가 가져다준 이익이 미술관으로 흘러들어 예술을 지탱하는 것은 윤리적으로 이상하지 않나요?”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024081321218734.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“After #MeToo—I realized I am still valuable” (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9976</link>
-            <guid>https://ildaro.com/9976</guid>
-            <pubDate>Mon, 12 Aug 2024 00:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[I felt helpless. I believed that I couldn’t live a happy, normal life, and I was ruined by the sexual violence that happened to me, at that young age, so routinely and as if it were natural....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024081211512408.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
