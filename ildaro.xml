@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Sep 2024 02:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Sep 2024 03:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탈레반 재집권한 아프간 ‘여성의 현실 알립니다’]]></title>
+            <link>https://ildaro.com/9997</link>
+            <guid>https://ildaro.com/9997</guid>
+            <pubDate>Tue, 10 Sep 2024 10:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[RAWA는 국내에 남아 활동하기로 결정했습니다. 멤버의 실명과 거주지, 활동거점 등은 비밀입니다. 지금은 이렇게 싸우는 것만이 사회를 바꾸는 유일한 방법이라고 생각...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024091042096334.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[딥페이크 성폭력 사태…‘정치가 제 역할 못한 것’]]></title>
             <link>https://ildaro.com/9996</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 15 Aug 2024 09:10:00 GMT</pubDate>
             <content:encoded><![CDATA[언니는 한국에서 다시 4년 10개월 일할 수 있는 기회를 잡았다. 그 사이 동생도 고용허가제 한국어 시험에 합격했다. 자매가 한국에 와서 일하지만, 함께 살 수 있는 권...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/202408152026362.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전쟁 무기 수익이 예술을 지탱하게 해선 안됩니다]]></title>
-            <link>https://ildaro.com/9977</link>
-            <guid>https://ildaro.com/9977</guid>
-            <pubDate>Tue, 13 Aug 2024 07:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[“전쟁을 위한 무기가 가져다준 이익이 미술관으로 흘러들어 예술을 지탱하는 것은 윤리적으로 이상하지 않나요?”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024081321218734.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Sep 2024 02:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Sep 2024 03:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[“여성을 ‘능욕’할 수 있다는 생각은 ‘대단한 착각’, 너희는 우리를 능욕할 수 없다” (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202409101056001</link>
             <guid>https://www.khan.co.kr/national/gender/article/202409101056001</guid>
-            <pubDate>Tue, 10 Sep 2024 02:15:12 GMT</pubDate>
+            <pubDate>Tue, 10 Sep 2024 02:14:29 GMT</pubDate>
             <content:encoded><![CDATA[“너희는 우리를 능욕할 수 없다.”지난 8월 29일 서울 지하철 강남역 앞에 모인 여성들은 이렇게 외쳤다. 불법합성물(딥페이크) 성범죄가 전국적으로 학교, 군대, 직장, 가정에 이르기까지 만연해 있다는 것이 드러난 후 여성들이 내놓은 메시지였다. 여기에는 디지털 성범죄가 반복적으로 일어났음에도 이를 방치한 정부, 정치권, 사회 여론에 대한 ‘분노’, 그리고 범죄에 ‘위축되지 않겠다’는 의지가 담겼다.이 구호를 외쳤던 기자회견에는 서울여성회와 산하 페미니스트 대학생 연합동아리(서페대연), 정의당 페미니스트 여성정치클럽(정의당 페미클럽) 등 14개 단체가 참여했다. 이들 단체는 ‘딥페이크 성범죄 아웃(OUT) 공동행동’을 꾸리고 8월 30일부터 매주 금요일 강남역 앞에서 여성들의 말하기 대회를 연다. 참여단체는 40여개로 늘었다.거리로 나온 여성들은 무엇을 말하려고 하는가. 지난 9월 4일 서울 영등포구 대림동에 있는 서울여성회 부설 언니네작은도서관에서 최지수 서페...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/09/10/news-p.v1.20240910.650e1afce0a2413aadf5e079179d4af7_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/cdee76f9-4413-4690-b886-b44c8ab2e79a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[탈레반 재집권한 아프간 ‘여성의 현실 알립니다’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/9997</link>
+            <guid>https://ildaro.com/9997</guid>
+            <pubDate>Tue, 10 Sep 2024 10:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[RAWA는 국내에 남아 활동하기로 결정했습니다. 멤버의 실명과 거주지, 활동거점 등은 비밀입니다. 지금은 이렇게 싸우는 것만이 사회를 바꾸는 유일한 방법이라고 생각...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024091042096334.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[딥페이크 성폭력 사태…‘정치가 제 역할 못한 것’ (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/9996</link>
             <guid>https://ildaro.com/9996</guid>
@@ -479,14 +487,6 @@
             <pubDate>Thu, 15 Aug 2024 09:10:00 GMT</pubDate>
             <content:encoded><![CDATA[언니는 한국에서 다시 4년 10개월 일할 수 있는 기회를 잡았다. 그 사이 동생도 고용허가제 한국어 시험에 합격했다. 자매가 한국에 와서 일하지만, 함께 살 수 있는 권...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/202408152026362.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전쟁 무기 수익이 예술을 지탱하게 해선 안됩니다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9977</link>
-            <guid>https://ildaro.com/9977</guid>
-            <pubDate>Tue, 13 Aug 2024 07:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[“전쟁을 위한 무기가 가져다준 이익이 미술관으로 흘러들어 예술을 지탱하는 것은 윤리적으로 이상하지 않나요?”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024081321218734.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
