@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Sep 2024 09:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Sep 2024 10:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/cdee76f9-4413-4690-b886-b44c8ab2e79a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[디지털 성폭력, 이대로 두면 ‘지옥 펼쳐질 것’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10003</link>
+            <guid>https://ildaro.com/10003</guid>
+            <pubDate>Wed, 18 Sep 2024 10:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[남성의 ‘성적 욕구’를 해소하기 위해 여성의 신체 자체이든, 촬영된 신체 이미지든, 합성/편집한 신체 이미지든, 신체를 본 따 만든 리얼돌이든 무엇이든 제공되어야...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024091859303294.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[성별 격차와 양극화 해소는 ‘국가 계획의 문제’ (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10002</link>
             <guid>https://ildaro.com/10002</guid>
@@ -479,14 +487,6 @@
             <pubDate>Wed, 28 Aug 2024 20:15:23 GMT</pubDate>
             <content:encoded><![CDATA[“제 이름은 차이잉원입니다. 저는 혼인평등권을 지지합니다.”라는 15초 분량의 비디오를 공식 페이스북 페이지에 올려 대만 최초로 동성혼을 공개 지지한 총통 후보...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024082309429352.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소비자는 모르는, 여성 농민이 앓는 ‘기후재난병’ (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9983</link>
-            <guid>https://ildaro.com/9983</guid>
-            <pubDate>Thu, 22 Aug 2024 08:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[2년에 걸쳐 수해를 당하다 보니 더 이상 농업에 종사할 수 있을지 막막하기만 한 상황이다. 자고 일어나면 생각이 나고 수해를 입은 작물들을 볼 때마다 속이 상한다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024082200412875.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
