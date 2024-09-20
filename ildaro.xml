@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Sep 2024 01:01:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 02:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사과 택배, 친환경 포장재로 보내고 싶어요]]></title>
+            <link>https://ildaro.com/10004</link>
+            <guid>https://ildaro.com/10004</guid>
+            <pubDate>Fri, 20 Sep 2024 09:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[기업에 요청해 주문 제작으로 한 번에 3,000장을 구입해야 하는데, 나 같은 작은 농가에서 뛰어들기에는 시중에 나와있는 발포폴리어쩌구를 구매해 쓰는 게 금전적으로...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024092007321591.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디지털 성폭력, 이대로 두면 ‘지옥 펼쳐질 것’]]></title>
             <link>https://ildaro.com/10003</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 25 Aug 2024 00:19:00 GMT</pubDate>
             <content:encoded><![CDATA[1999년, 대도시가 아닌 거제의 상고를 다니는 ‘여학생’들에겐 수행해야 하는 노동이 있다. 그것이 꼭 임금노동은 아니라 할지라도 말이다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024082527538937.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동성혼 합법화에 비혼 여성 대통령의 기여 컸다?!]]></title>
-            <link>https://ildaro.com/9984</link>
-            <guid>https://ildaro.com/9984</guid>
-            <pubDate>Wed, 28 Aug 2024 20:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[“제 이름은 차이잉원입니다. 저는 혼인평등권을 지지합니다.”라는 15초 분량의 비디오를 공식 페이스북 페이지에 올려 대만 최초로 동성혼을 공개 지지한 총통 후보...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024082309429352.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
