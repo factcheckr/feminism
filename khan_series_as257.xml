@@ -4,9 +4,17 @@
         <title>경향신문 ─ 연재 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Sep 2024 06:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 07:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“일본군 위안부 가족에게 팔려 갔지, 강제징용 증거 별로 없다”…한신대 교수의 망언]]></title>
+            <link>https://www.khan.co.kr/national/national-general/article/202409201552001</link>
+            <guid>https://www.khan.co.kr/national/national-general/article/202409201552001</guid>
+            <pubDate>Fri, 20 Sep 2024 07:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[한신대학교 교수가 수업에서 일본군 ‘위안부’ 피해자가 가족에 의해 팔려간 증거는 있어도 일제에 의해 강제로 끌려갔다는 증거는 별로 없다고 주장한 것으로 확인됐다. 이 교수는 일본이 한반도 식민지배에 대해 수십번 사과했는데도 한국인들은 사과를 안 한다고 주장한다며 비판하기도 했다. 이 교수의 주장을 두고 ‘사실을 왜곡하고 위안부 피해자들을 모욕했다’고 규탄하는 대자보가 학내에 붙는 등 논란이 일고 있다.20일 경향신문 취재를 종합하면, 한신대 사회학과 A교수는 지난 12일 ‘사회조사방법1’ 수업에서 “사실 위안부가 강제 징용됐다는 증거는 별로 없다”며 “팔려 갔다는 것은 있어도, 팔려갔다는 게 지네(자기네) 아버지나 삼촌이 다 팔아 처먹은 것”이라고 했다. 그는 이어 “먹고 살기 힘드니까 자기들이 다 선불로 받았다”며 “그 기록까지 다 있는데 무슨 위안부가 강제로냐?”라고 했다.A교수는 가족이 일본군 위안부로 강제로 끌려갔다면 사람들이 가만히 있지 않았을 텐데 그런 사건...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/09/20/news-p.v1.20240920.52fe0b5177d6458e8dbc1ab2455f6f1e_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[딥페이크 알기 전부터 ‘더 빨리, 더 자주’…‘불편함’ 깨달을 때, 아이들은 배운다]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202409201005001</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 12 Sep 2024 06:19:37 GMT</pubDate>
             <content:encoded><![CDATA[정부 예산을 지원받는 과학기술계 석학 단체인 한국과학기술한림원 이창희 총괄부원장이 직원들에게 성희롱과 갑질을 했다는 의혹이 제기됐다. 해당 직원들은 고용노동부에 진정서를 냈다. 최근 이 단체의 원장 등이 출장 일정을 부풀려 골프와 관광을 했다는 의혹을 현장 조사 중인 과학기술정보통신부는 이번 사안도 추가해 조사를 진행할 예정이다.12일 국회 과학기술정보방송통신위원회 소속 이해민 조국혁신당 의원이 과기한림원에서 제출 받은 자료 등에 따르면 이 총괄부원장은 재임이 시작된 2022년 3월부터 최근까지 직원들에게 성희롱을 하거나 사적 심부름 등을 시킨 것으로 나타났다.진정서에 따르면 이 총괄부원장은 지난 4월 한림원 회관 복도에서 남직원 A씨의 주요 부위에 자신의 손을 가까이 대고 쥐는 모양을 취하며 “(저쪽에서)○○을 자꾸 이렇게 움직여. 내가 자꾸 이러면 기분 나쁘지. 걔들한테 절대로 따라가지 마”라며 성희롱했다. 그는 한림원에서 진행 중인 사업과 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/09/12/news-p.v1.20240912.7a719c7a9d564b17a5f32a070658c0f8_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘딥페이크 성착취’ 방치한 정부와 국회, 빅테크 책임 어디까지 물을까]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202409121012001</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202409121012001</guid>
-            <pubDate>Thu, 12 Sep 2024 02:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[n번방 사태가 생성형 인공지능(AI)과 만나 더 악랄하게 돌아왔다. 딥페이크(AI 기반 이미지 합성) 성범죄가 기업과 군대 등의 일터를 넘어 전국 초·중·고등학교까지 확산했다. 가디언과 월스트리트저널 등 주요 외신은 “몰카를 근절하려 분투한 한국이 이제는 딥페이크와 전투를 벌이고 있다”며 “한국이 세계적 (딥페이크 성착취물) 문제의 진앙”이라고 집중적으로 보도했다.AI 발전으로 딥페이크를 악용한 부작용 사태는 이미 ‘예견된’ 일이었다. 세계 각국은 작년 선거철을 맞아 딥페이크를 악용한 가짜뉴스 등으로 몸살을 앓았다. 한국도 지난해 12월 선거를 앞두고 딥페이크를 악용한 사례가 늘자 공직선거법을 개정해 선거운동 목적의 딥페이크 영상을 제작·편집·유포·상영·게시할 수 없게 했다. 정부와 국회의 관심은 선거에서 끝났다. AI를 악용한 딥페이크 성범죄가 발생해도 느슨한 제재와 처벌로 방치했다.IT(정보기술) 전문가들은 기술적인 접근만으로는 딥페이크 성범죄를 원천적으로 차단할 수...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/09/12/news-p.v1.20240903.da41900e481147aea774eb180b2400f8_P1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
