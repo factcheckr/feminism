@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Sep 2024 07:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Sep 2024 08:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/cdee76f9-4413-4690-b886-b44c8ab2e79a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Because Our Love Doesn’t Hurt Anyone (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10006</link>
+            <guid>https://ildaro.com/10006</guid>
+            <pubDate>Sun, 22 Sep 2024 08:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[“I’m going to start cutting now.” The hairstylist seemed to be asking for confirmation. I cheerfully replied, “Yes, of course.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024092207229619.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘n번방’ 재판 방청 연대기를 다시 읽다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10005</link>
             <guid>https://ildaro.com/10005</guid>
@@ -479,14 +487,6 @@
             <pubDate>Tue, 27 Aug 2024 00:41:00 GMT</pubDate>
             <content:encoded><![CDATA[Local civil activists, including those from women’s groups, came to court during the criminal trials in order to support the #MeToo accusation made by Ms. Shin. The picture above captured the moment...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024082750535217.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘가족’의 범위, ‘동성애’에 대한 규범적 판단이 변화했다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9986</link>
-            <guid>https://ildaro.com/9986</guid>
-            <pubDate>Mon, 26 Aug 2024 11:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[헌법상 평등권의 실현을 위하여 성소수자에 대한 차별은 더 이상 용납될 수 없을 뿐 아니라, 국가의 적극적인 보호 및 결단이 필요함을 사법부가 천명한 것....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024082606066477.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
