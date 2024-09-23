@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Sep 2024 01:03:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 02:46:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[교제살인 막으려면 ‘친밀한 관계 내 폭력’ 처벌법 필요]]></title>
+            <link>https://ildaro.com/10007</link>
+            <guid>https://ildaro.com/10007</guid>
+            <pubDate>Mon, 23 Sep 2024 10:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[“친밀한 관계 내 여성폭력(범죄)의 중대성이 과소평가되는 등 교제폭력 등에 대한 사회적인 인식과 이해가 부족한 측면도 존재한다”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/202409231843161.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Because Our Love Doesn’t Hurt Anyone]]></title>
             <link>https://ildaro.com/10006</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 28 Aug 2024 09:30:00 GMT</pubDate>
             <content:encoded><![CDATA[당신을 자주 찾아와 힘들게 하는 감정은 무엇인가? 그 감정 손님을 맞이하는 당신만의 방법은 무엇인가?...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024082835578666.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[No Happy Memories, No Evidence—The Perpetrator’s Hard-to-Believe “Relationship” Argument]]></title>
-            <link>https://ildaro.com/9987</link>
-            <guid>https://ildaro.com/9987</guid>
-            <pubDate>Tue, 27 Aug 2024 00:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[Local civil activists, including those from women’s groups, came to court during the criminal trials in order to support the #MeToo accusation made by Ms. Shin. The picture above captured the moment...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024082750535217.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
