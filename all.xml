@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Sep 2024 10:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2024 11:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/cdee76f9-4413-4690-b886-b44c8ab2e79a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오키나와 미군 성폭력, “없었던 일로 만들지 말라” (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10008</link>
+            <guid>https://ildaro.com/10008</guid>
+            <pubDate>Tue, 24 Sep 2024 11:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[형법의 성범죄 규정은 개정(비동의 성교죄)되었지만, 오키나와에서는 미성년이 성폭력을 당한 사실이 은폐된다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024092433306250.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[교제살인 막으려면 ‘친밀한 관계 내 폭력’ 처벌법 필요 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10007</link>
             <guid>https://ildaro.com/10007</guid>
@@ -479,14 +487,6 @@
             <pubDate>Fri, 30 Aug 2024 09:30:00 GMT</pubDate>
             <content:encoded><![CDATA[2023년 여성파업에서는 “당신은 이것을 평등이라 부르나요?”(You call this equality?)라는 슬로건 아래, 48년 만에 온종일 파업을 했다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024083047155503.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나를 찾아온 감정 손님을 어떻게 맞이할 것인가? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9988</link>
-            <guid>https://ildaro.com/9988</guid>
-            <pubDate>Wed, 28 Aug 2024 09:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[당신을 자주 찾아와 힘들게 하는 감정은 무엇인가? 그 감정 손님을 맞이하는 당신만의 방법은 무엇인가?...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024082835578666.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
