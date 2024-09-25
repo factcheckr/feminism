@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Sep 2024 01:05:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Sep 2024 02:49:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘시골 우리 어머니’만 찾는 당신들에게 (경향신문 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202409251019001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202409251019001</guid>
+            <pubDate>Wed, 25 Sep 2024 02:47:46 GMT</pubDate>
+            <content:encoded><![CDATA[장면 하나. 요즘 식당에 가보면 바닥에 앉던 자리가 없어지고 식탁과 의자로 바뀐 것을 흔히 볼 수 있다. 이유를 물으면 일할 사람을 구하기 어려워서라 한다. 무릎을 자주 꿇고, 허리를 구부려가며 묵묵히 일하는 사람들이 한때는 있었는데, 이제는 찾을 수 없게 된 것이다.장면 둘. 가사 청소 노동자 매칭 플랫폼 기업에서 들은 얘기다. 이 시장은 서비스 이용 희망자는 넘치는데 일할 사람은 늘 모자라는 공급자 위주 시장이다. 이 때문에 비즈니스의 핵심은 50대 이하 여성 노동자들을 확보하는 것이다. 서비스 이용 조건에 ‘무릎 꿇는 손걸레질, 손빨래는 하지 않습니다’라고 명시하고, 분쟁이 생기면 회사가 적극 개입해 노동자를 보호하는 것도 그런 이유에서다. 달리 말하면, 이 시장을 이미 떠난 고령 노동자들은 오랜 세월 어떤 보호도 없이 궂은 일을 도맡아 해왔다는 의미다.장면 셋. 내가 사회생활을 시작한 20여년 전만 해도 시골에서 올라와 손주를 돌봐주는 어머니 덕에 맘 놓고 회사 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/09/25/news-p.v1.20240924.d06aa9e287014da7b966161917b16619_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘종교적 신념’ 주장에도…“조산사는 임신중지를 수행할 수 있어야 한다”는 스웨덴의 결론 (경향신문 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202409241458001</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 13 Sep 2024 08:16:48 GMT</pubDate>
             <content:encoded><![CDATA[명절이 다가온다. 메타인지를 총동원할 시기가 온다. 닷새 연휴 중 며칠을 가족과 함께하고 며칠은 나만의 휴가로 쓸 것인지, 무더운 날씨에 추석 선물은 무얼 준비해 어떻게 나를 것인지, 어떤 말은 덜 하고 덜 들을 수 있을지 등등 생각할 것이 한두 가지가 아니다.가장 신경 쓰이는 것은 역시 운전이다. 뉴스 채널들이 이전 데이터를 토대로 교통 정체 예측을 보도해주기는 하지만, 그때부턴 어쩐지 눈치싸움이 시작되는 것만 같다. “오후 4~5시 사이 귀경길이 가장 막힐 거라고 예측했으니 모두 이 시간에는 안 움직이겠지?”라는 생각에 길을 나섰다가 역시나 차량정체를 겪기도 하고, “밤 10시 이후 이동이 낫다”는 말을 금쪽같이 믿었다가 비슷한 뉴스를 본 인파와 함께 오랜 시간을 도로에서 보내기도 한다. 도로 위에서 하염없이 보내는 시간을 싫어하지만, 인공지능이 인간보다 그림을 잘 그리는 시절이 왔다고 해도 이 싫은 것을 피할 도리가 없다.싫은 말을 듣는 것을 피하는 일은 더 어렵다...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/09/13/news-p.v1.20240913.62b4ca6d3c2846e981fea48785b8a93c_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자식없는 캣 레이디 (경향신문 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202409131437001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202409131437001</guid>
-            <pubDate>Fri, 13 Sep 2024 06:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[〈※이 기사는 2024년 9월 13일자 경향신문 ‘[여적]캣 레이디’를 재가공하였습니다.〉로버트 앤슨 하인라인의 소설 &lt;여름으로 가는 문&gt;에는 고양이에 대한 재미있는 찬사가 있다. “고양이에 대한 의례는 외교 의전보다 더 까다롭다”는 것이다. 애묘인 하인라인은 인간이 고양이를 세심하게 대해야 한다고 조언한다. 시대를 풍미한 작가나 예술가들 중 고양이를 각별히 사랑한 ‘캣 맨’은 이 밖에도 많다.그러나 고양이 애호가가 많은 서양에서도 유독 ‘캣 레이디’는 부정적인 의미로 쓰인다. 이 말은 보통 아이를 낳지 않고 고양이만 키우는 중년 독신 여성을 비하할 때 쓴다. 미국 애니메이션 &lt;심슨 가족&gt;을 좋아한다면 종종 등장하는 ‘크레이지 캣 레이디’를 알고 있을 것이다.미국 대선에서도 캣 레이디가 소환됐다. “자녀도 없이 고양이나 키우는 비참한 삶을 사는 여성들(cat ladies)이 나라의 미래도 비참하게 만든다.” 공화당 대선...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/09/13/news-p.v1.20240913.848e829018a1470d8d47c98b8e893e9e_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘여성의 알몸’에 기울어진 축을 ‘본연의 모습’으로 끌어오는 (여자)아이들의 ‘Nxde’ (경향신문 ─ 연재 ─ 플랫)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2022/11/02/news-p.v1.20221101.3a8f4a95dae84129a4c69df05a636b20_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘시골 우리 어머니’만 찾는 당신들에게 (경향신문 ─ 연재 ─ 플랫)]]></title>
+            <link>https://www.khan.co.kr/opinion/column/article/202409251019001</link>
+            <guid>https://www.khan.co.kr/opinion/column/article/202409251019001</guid>
+            <pubDate>Wed, 25 Sep 2024 02:48:41 GMT</pubDate>
+            <content:encoded><![CDATA[장면 하나. 요즘 식당에 가보면 바닥에 앉던 자리가 없어지고 식탁과 의자로 바뀐 것을 흔히 볼 수 있다. 이유를 물으면 일할 사람을 구하기 어려워서라 한다. 무릎을 자주 꿇고, 허리를 구부려가며 묵묵히 일하는 사람들이 한때는 있었는데, 이제는 찾을 수 없게 된 것이다.장면 둘. 가사 청소 노동자 매칭 플랫폼 기업에서 들은 얘기다. 이 시장은 서비스 이용 희망자는 넘치는데 일할 사람은 늘 모자라는 공급자 위주 시장이다. 이 때문에 비즈니스의 핵심은 50대 이하 여성 노동자들을 확보하는 것이다. 서비스 이용 조건에 ‘무릎 꿇는 손걸레질, 손빨래는 하지 않습니다’라고 명시하고, 분쟁이 생기면 회사가 적극 개입해 노동자를 보호하는 것도 그런 이유에서다. 달리 말하면, 이 시장을 이미 떠난 고령 노동자들은 오랜 세월 어떤 보호도 없이 궂은 일을 도맡아 해왔다는 의미다.장면 셋. 내가 사회생활을 시작한 20여년 전만 해도 시골에서 올라와 손주를 돌봐주는 어머니 덕에 맘 놓고 회사 ...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/09/25/news-p.v1.20240924.d06aa9e287014da7b966161917b16619_P1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘종교적 신념’ 주장에도…“조산사는 임신중지를 수행할 수 있어야 한다”는 스웨덴의 결론 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202409241458001</link>
             <guid>https://www.khan.co.kr/national/gender/article/202409241458001</guid>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 13 Sep 2024 08:16:48 GMT</pubDate>
             <content:encoded><![CDATA[명절이 다가온다. 메타인지를 총동원할 시기가 온다. 닷새 연휴 중 며칠을 가족과 함께하고 며칠은 나만의 휴가로 쓸 것인지, 무더운 날씨에 추석 선물은 무얼 준비해 어떻게 나를 것인지, 어떤 말은 덜 하고 덜 들을 수 있을지 등등 생각할 것이 한두 가지가 아니다.가장 신경 쓰이는 것은 역시 운전이다. 뉴스 채널들이 이전 데이터를 토대로 교통 정체 예측을 보도해주기는 하지만, 그때부턴 어쩐지 눈치싸움이 시작되는 것만 같다. “오후 4~5시 사이 귀경길이 가장 막힐 거라고 예측했으니 모두 이 시간에는 안 움직이겠지?”라는 생각에 길을 나섰다가 역시나 차량정체를 겪기도 하고, “밤 10시 이후 이동이 낫다”는 말을 금쪽같이 믿었다가 비슷한 뉴스를 본 인파와 함께 오랜 시간을 도로에서 보내기도 한다. 도로 위에서 하염없이 보내는 시간을 싫어하지만, 인공지능이 인간보다 그림을 잘 그리는 시절이 왔다고 해도 이 싫은 것을 피할 도리가 없다.싫은 말을 듣는 것을 피하는 일은 더 어렵다...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/09/13/news-p.v1.20240913.62b4ca6d3c2846e981fea48785b8a93c_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자식없는 캣 레이디 (경향신문 ─ 연재 ─ 플랫)]]></title>
-            <link>https://www.khan.co.kr/opinion/column/article/202409131437001</link>
-            <guid>https://www.khan.co.kr/opinion/column/article/202409131437001</guid>
-            <pubDate>Fri, 13 Sep 2024 06:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[〈※이 기사는 2024년 9월 13일자 경향신문 ‘[여적]캣 레이디’를 재가공하였습니다.〉로버트 앤슨 하인라인의 소설 &lt;여름으로 가는 문&gt;에는 고양이에 대한 재미있는 찬사가 있다. “고양이에 대한 의례는 외교 의전보다 더 까다롭다”는 것이다. 애묘인 하인라인은 인간이 고양이를 세심하게 대해야 한다고 조언한다. 시대를 풍미한 작가나 예술가들 중 고양이를 각별히 사랑한 ‘캣 맨’은 이 밖에도 많다.그러나 고양이 애호가가 많은 서양에서도 유독 ‘캣 레이디’는 부정적인 의미로 쓰인다. 이 말은 보통 아이를 낳지 않고 고양이만 키우는 중년 독신 여성을 비하할 때 쓴다. 미국 애니메이션 &lt;심슨 가족&gt;을 좋아한다면 종종 등장하는 ‘크레이지 캣 레이디’를 알고 있을 것이다.미국 대선에서도 캣 레이디가 소환됐다. “자녀도 없이 고양이나 키우는 비참한 삶을 사는 여성들(cat ladies)이 나라의 미래도 비참하게 만든다.” 공화당 대선...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/09/13/news-p.v1.20240913.848e829018a1470d8d47c98b8e893e9e_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여성들은 과연 연대할 수 있을까 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
