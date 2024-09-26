@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Sep 2024 06:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 07:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“동생의 조현병이 재발할 것 같아요”]]></title>
+            <link>https://ildaro.com/10009</link>
+            <guid>https://ildaro.com/10009</guid>
+            <pubDate>Thu, 26 Sep 2024 07:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[J는 30대 초반의 여성으로 결혼해 원 가족과 따로 살고 있지만 중요한 순간마다 부모님을 도와 조현병 당사자를 돌본다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024092649158933.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오키나와 미군 성폭력, “없었던 일로 만들지 말라”]]></title>
             <link>https://ildaro.com/10008</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 31 Aug 2024 12:23:17 GMT</pubDate>
             <content:encoded><![CDATA[“공공, 지역도서관 예산이 삭감될 때 연대해 달라. 책 읽는 사회를 두려워하는 누군가에게 주목해 달라. 열람이 제한되는 책이 있다면 그 이유에 관심을 가져달라.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024083113453382.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘성차별 임금’ 한국, 여성파업이 성공한 나라에게 배울 것]]></title>
-            <link>https://ildaro.com/9989</link>
-            <guid>https://ildaro.com/9989</guid>
-            <pubDate>Fri, 30 Aug 2024 09:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 여성파업에서는 “당신은 이것을 평등이라 부르나요?”(You call this equality?)라는 슬로건 아래, 48년 만에 온종일 파업을 했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024083047155503.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
