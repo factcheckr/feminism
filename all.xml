@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Sep 2024 02:45:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Sep 2024 03:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/cdee76f9-4413-4690-b886-b44c8ab2e79a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘대화 기법 글쓰기’로 만나는 내 안의 비판자 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10010</link>
+            <guid>https://ildaro.com/10010</guid>
+            <pubDate>Sat, 28 Sep 2024 10:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘너 별 볼 일 없구나?’라는 말이 내 안에서 들릴 때, 그것이 진실이라고 생각하지 않고 ‘아, 나를 별 볼 일 없다고 말하는 인격이 또 나를 사로잡았구나.’ 생각하며...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/202409285028319.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“동생의 조현병이 재발할 것 같아요” (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10009</link>
             <guid>https://ildaro.com/10009</guid>
@@ -479,14 +487,6 @@
             <pubDate>Mon, 02 Sep 2024 06:20:04 GMT</pubDate>
             <content:encoded><![CDATA[멕시코 헌정사상 최초의 여성 대통령으로, 마치스모(마초에서 기원한 말로 남성우월주의 문화를 뜻함)가 강한 멕시코의 유리 천장을 깨뜨리는 일이 된다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024090241185375.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성교육 어느 때보다 절실한데, 성평등 도서 열람 제한? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9990</link>
-            <guid>https://ildaro.com/9990</guid>
-            <pubDate>Sat, 31 Aug 2024 12:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[“공공, 지역도서관 예산이 삭감될 때 연대해 달라. 책 읽는 사회를 두려워하는 누군가에게 주목해 달라. 열람이 제한되는 책이 있다면 그 이유에 관심을 가져달라.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202408/2024083113453382.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
