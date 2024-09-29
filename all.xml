@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Sep 2024 08:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Sep 2024 09:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/cdee76f9-4413-4690-b886-b44c8ab2e79a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[알 수 없는 죽음으로 ‘지워진 고모의 이야기’를 찾아서 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10011</link>
+            <guid>https://ildaro.com/10011</guid>
+            <pubDate>Sun, 29 Sep 2024 09:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[‘얼굴도 이름도 모르는 고모의 일이 왜 그렇게 혼란스럽고 충격이었을까?’ 질문하다 보니, 어쩌면 이건 나와 관련된 문제일 수 있겠다 싶더라고요...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024092906224787.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘대화 기법 글쓰기’로 만나는 내 안의 비판자 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10010</link>
             <guid>https://ildaro.com/10010</guid>
@@ -479,14 +487,6 @@
             <pubDate>Tue, 03 Sep 2024 08:18:29 GMT</pubDate>
             <content:encoded><![CDATA[“매일 잘못된 이름으로 호명 당하는 세계에서, 스스로를 찾고 사랑하기 위해, 시적 실천을 하기 위해.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024090323136730.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘마초’ 국가 멕시코 변화 오나, 여성 대통령 탄생 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9991</link>
-            <guid>https://ildaro.com/9991</guid>
-            <pubDate>Mon, 02 Sep 2024 06:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[멕시코 헌정사상 최초의 여성 대통령으로, 마치스모(마초에서 기원한 말로 남성우월주의 문화를 뜻함)가 강한 멕시코의 유리 천장을 깨뜨리는 일이 된다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024090241185375.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
