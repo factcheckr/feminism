@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Oct 2024 06:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Oct 2024 07:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/cdee76f9-4413-4690-b886-b44c8ab2e79a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가장 큰 규모의 ‘노동시간 단축 실험’ 그 효과 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10013</link>
+            <guid>https://ildaro.com/10013</guid>
+            <pubDate>Tue, 01 Oct 2024 07:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[일주일에 노동시간을 4~5시간 단축하자, 생산성과 서비스는 유지되거나 향상됐고, 아이슬란드 사람들의 웰빙과 일상에도 여러 긍정적 효과가 생겨났다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024100108497626.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Female Gukgeuk: Surviving and Reviving at the Brink (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10012</link>
             <guid>https://ildaro.com/10012</guid>
@@ -479,14 +487,6 @@
             <pubDate>Fri, 06 Sep 2024 10:55:00 GMT</pubDate>
             <content:encoded><![CDATA[무경운이 탄소를 저장하는 지속가능한 농법이라는데 동의하는 이가 늘어나고 있지만, 무경운 농법을 자신의 농법으로 받아들여 실천하는 데는 여러 가지 한계가 있다...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024090735173602.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누구도 미치지 않는 세상을 꿈꾸는가? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9993</link>
-            <guid>https://ildaro.com/9993</guid>
-            <pubDate>Wed, 04 Sep 2024 08:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[우리에게 필요한 것은 모두가 순백의 결점 없는 정신건강을 장착하는 것이 아니라, 우울하거나 불안해도 괜찮은 세상, 미쳐도 괜찮은 세상이다...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024090414441258.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
