@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Oct 2024 01:03:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 02:46:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘익명’으로 남은 ‘5·18 성폭력 조사 보고서’…‘본명’으로 나타난 ‘증언자’들]]></title>
+            <link>https://www.khan.co.kr/national/gender/article/202410021043001</link>
+            <guid>https://www.khan.co.kr/national/gender/article/202410021043001</guid>
+            <pubDate>Wed, 02 Oct 2024 02:45:03 GMT</pubDate>
+            <content:encoded><![CDATA[‘1번’ 피해자는 1980년 5월 19일에서 20일 저녁 무렵, 광주 전남여고 후문에서 총을 찬 계엄군들에게 구타당한 뒤 당시 그가 몰던 브리샤 자동차 뒷좌석에서 2명에게 강간당했다. 시부모가 집을 담보로 대출받아 마련해준 차에서 피해를 당한 뒤 한동안 일을 하지 못했다. 아직도 계엄군이 입고 있던 얼룩무늬 군복만 보면 속이 울렁거리고, 그때 맡았던 술냄새, 땀냄새와 비슷한 냄새를 맡으면 구토한다.‘77번’ 피해자는 5월 20일 오후 양림동에서 학동 집으로 가는 길에 군인들에게 붙잡혀 벽에 밀쳐진 뒤 가슴과 엉덩이를 추행당했다. 이후 대검으로 어깨 부근을 찔려 쓰러졌는데, 지금도 남은 이 흉터는 비만 오면 쑤신다. 가슴에 몽우리가 생기고 아픈 생리 때마다 피해 당시가 떠올라 힘들다.‘35번’ 피해자는 5월 22일 연인의 죽음을 목격한 뒤 정신이 반쯤 나간 상태로 구 전남도청에 갔다가 27일 새벽 연행됐다. 수사관들은 그의 옷과 속옷을 벗긴 채로 조사하며 뺨을 때렸다. 자리...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/10/02/news-p.v1.20240929.41b9ec8812de46b184e09e8cfc283ec1_P1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[‘5·18 성폭력’ 피해자, 44년 만에 손잡고 세상으로]]></title>
             <link>https://www.khan.co.kr/national/national-general/article/202409301835001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 25 Sep 2024 02:47:46 GMT</pubDate>
             <content:encoded><![CDATA[장면 하나. 요즘 식당에 가보면 바닥에 앉던 자리가 없어지고 식탁과 의자로 바뀐 것을 흔히 볼 수 있다. 이유를 물으면 일할 사람을 구하기 어려워서라 한다. 무릎을 자주 꿇고, 허리를 구부려가며 묵묵히 일하는 사람들이 한때는 있었는데, 이제는 찾을 수 없게 된 것이다.장면 둘. 가사 청소 노동자 매칭 플랫폼 기업에서 들은 얘기다. 이 시장은 서비스 이용 희망자는 넘치는데 일할 사람은 늘 모자라는 공급자 위주 시장이다. 이 때문에 비즈니스의 핵심은 50대 이하 여성 노동자들을 확보하는 것이다. 서비스 이용 조건에 ‘무릎 꿇는 손걸레질, 손빨래는 하지 않습니다’라고 명시하고, 분쟁이 생기면 회사가 적극 개입해 노동자를 보호하는 것도 그런 이유에서다. 달리 말하면, 이 시장을 이미 떠난 고령 노동자들은 오랜 세월 어떤 보호도 없이 궂은 일을 도맡아 해왔다는 의미다.장면 셋. 내가 사회생활을 시작한 20여년 전만 해도 시골에서 올라와 손주를 돌봐주는 어머니 덕에 맘 놓고 회사 ...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/09/25/news-p.v1.20240924.d06aa9e287014da7b966161917b16619_P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘종교적 신념’ 주장에도…“조산사는 임신중지를 수행할 수 있어야 한다”는 스웨덴의 결론]]></title>
-            <link>https://www.khan.co.kr/national/gender/article/202409241458001</link>
-            <guid>https://www.khan.co.kr/national/gender/article/202409241458001</guid>
-            <pubDate>Tue, 24 Sep 2024 06:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[2019년 헌법재판소의 헌법불합치 결정 이후 ‘낙태죄’는 폐지됐지만 4년이 넘도록 정부와 국회는 임신중지 시스템을 어떻게 보건의료 시스템으로 들여놓을지 논의하지 않고 있습니다. 7월 초 임신 36주째에 ‘낙태 수술’을 했다는 유튜브 영상이 논란이 되자 보건복지부는 며칠 만에 살인죄 혐의로 경찰에 수사를 의뢰했죠. 이렇게 정부가 빨리 대처할 수 있는데 임신중지 시스템에 대한 고민은 왜 더뎠을까요.경향신문 여성 서사 아카이브 ‘플랫’은 그간 정부와 국회가 무엇을 해야했는지 ‘낙태죄 폐지 이후 상상력’을 보여주기 위해 윤정원 국립중앙의료원 산부인과 전문의의 ‘스웨덴 연수기’를 연재합니다. 성적권리와 재생산정의를 위한 센터 셰어(SHARE)의 연구위원인 윤 전문의는 지난해 12월부터 두 달간 스웨덴 연수를 다녀왔는데요. 스웨덴은 80년 전부터 포괄적 성교육을 도입했고 재생산 건강을 인권의 영역에서 다루고 있는 국가입니다. 그는 임신중지가 필수 의료인 스웨덴의 제도, 클리닉 운영 사례 등...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2024/09/24/news-p.v1.20240924.2366d0f8f952418cb524a35618fa4f5f_P1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
