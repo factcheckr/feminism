@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Oct 2024 02:47:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Oct 2024 03:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/cdee76f9-4413-4690-b886-b44c8ab2e79a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[관습을 깬 여자는 전진하여 새 길을 찾는다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10014</link>
+            <guid>https://ildaro.com/10014</guid>
+            <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[오소리 작가는 자신의 작업이 ‘기승전결의 문법에서 벗어난 작업’이라고 표현한 바 있는데, 우리 삶도 마찬가지인 것 같다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024100305025030.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가장 큰 규모의 ‘노동시간 단축 실험’ 그 효과 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10013</link>
             <guid>https://ildaro.com/10013</guid>
@@ -479,14 +487,6 @@
             <pubDate>Sat, 07 Sep 2024 11:12:28 GMT</pubDate>
             <content:encoded><![CDATA[‘수용소’의 경험을 마치 사회로부터의 ‘피난소’처럼 느꼈다고 구술한 경우도 있었다. 그만큼 사회 전체가 특정 존재를 배제하고 박탈하는 ‘수용소화된 상태’였...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024090743281294.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지구를 식히려면, 관행농 아닌 탄소저장농법 지원해야 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9994</link>
-            <guid>https://ildaro.com/9994</guid>
-            <pubDate>Fri, 06 Sep 2024 10:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[무경운이 탄소를 저장하는 지속가능한 농법이라는데 동의하는 이가 늘어나고 있지만, 무경운 농법을 자신의 농법으로 받아들여 실천하는 데는 여러 가지 한계가 있다...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024090735173602.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
