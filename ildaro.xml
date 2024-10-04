@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Oct 2024 07:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 08:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도쿄의 소중한 녹지, 뻐꾸기 우는 천문대 숲 지킨다]]></title>
+            <link>https://ildaro.com/10015</link>
+            <guid>https://ildaro.com/10015</guid>
+            <pubDate>Fri, 04 Oct 2024 08:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[백 년이나 지켜져 온 숲이라면 그것을 보호하고 보존해서, 보다 좋은 상태로 자연공원을 만들어 후대에 넘겨주는 것이야말로 시의 사명이 아닐까....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024100415275347.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[관습을 깬 여자는 전진하여 새 길을 찾는다]]></title>
             <link>https://ildaro.com/10014</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 08 Sep 2024 13:16:52 GMT</pubDate>
             <content:encoded><![CDATA[박지현 씨는 “‘자율 규제’는 딥페이크 범죄를 비롯한 디지털 성범죄의 해결에 한발자국도 제대로 다가가지 못한다”고 강조했다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024090842449312.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘수용소 없는 세상’을 상상할 수 있을까]]></title>
-            <link>https://ildaro.com/9995</link>
-            <guid>https://ildaro.com/9995</guid>
-            <pubDate>Sat, 07 Sep 2024 11:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[‘수용소’의 경험을 마치 사회로부터의 ‘피난소’처럼 느꼈다고 구술한 경우도 있었다. 그만큼 사회 전체가 특정 존재를 배제하고 박탈하는 ‘수용소화된 상태’였...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024090743281294.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
