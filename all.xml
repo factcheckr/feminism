@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Oct 2024 01:07:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Oct 2024 02:52:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/cdee76f9-4413-4690-b886-b44c8ab2e79a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[돌봄이 자기 과제가 된 이상 ‘배워야만 했다’ (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10016</link>
+            <guid>https://ildaro.com/10016</guid>
+            <pubDate>Sun, 06 Oct 2024 11:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[알기 이전에는 보이지 않는 것이 있다. 보이지 않으면 이해가 안 되고 이해가 안 되면 마음으로 버티게 되는데, 의지에는 한계가 있다. 하지만, 앎은 마음의 낭비를 줄...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024100611114722.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[도쿄의 소중한 녹지, 뻐꾸기 우는 천문대 숲 지킨다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10015</link>
             <guid>https://ildaro.com/10015</guid>
@@ -479,14 +487,6 @@
             <pubDate>Tue, 10 Sep 2024 10:36:00 GMT</pubDate>
             <content:encoded><![CDATA[RAWA는 국내에 남아 활동하기로 결정했습니다. 멤버의 실명과 거주지, 활동거점 등은 비밀입니다. 지금은 이렇게 싸우는 것만이 사회를 바꾸는 유일한 방법이라고 생각...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024091042096334.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[딥페이크 성폭력 사태…‘정치가 제 역할 못한 것’ (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9996</link>
-            <guid>https://ildaro.com/9996</guid>
-            <pubDate>Sun, 08 Sep 2024 13:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[박지현 씨는 “‘자율 규제’는 딥페이크 범죄를 비롯한 디지털 성범죄의 해결에 한발자국도 제대로 다가가지 못한다”고 강조했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024090842449312.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
