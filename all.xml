@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Oct 2024 11:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 12:28:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/cdee76f9-4413-4690-b886-b44c8ab2e79a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[그녀들이 ‘무슬림 문화를 알리고 싶다’ 말하는 이유 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10017</link>
+            <guid>https://ildaro.com/10017</guid>
+            <pubDate>Mon, 07 Oct 2024 12:28:23 GMT</pubDate>
+            <content:encoded><![CDATA[자신들의 문화를 이야기하고 싶다는 ‘와하’의 여성들, 그것에 ‘거부감’을 느끼는 몇몇 한국 사람을 통해서, 이주민의 ‘다름’을 수용해 줄 생각이 없는 한국 사...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024100709108039.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[돌봄이 자기 과제가 된 이상 ‘배워야만 했다’ (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10016</link>
             <guid>https://ildaro.com/10016</guid>
@@ -479,14 +487,6 @@
             <pubDate>Wed, 11 Sep 2024 08:19:00 GMT</pubDate>
             <content:encoded><![CDATA[관객들이 색자가 “넌 고귀하게 태어났어.”라고 하는 말을 들었으면 좋겠어요. 적어도 며칠을 더 살아갈 힘을 얻지 않을까?...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024091116415586.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탈레반 재집권한 아프간 ‘여성의 현실 알립니다’ (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9997</link>
-            <guid>https://ildaro.com/9997</guid>
-            <pubDate>Tue, 10 Sep 2024 10:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[RAWA는 국내에 남아 활동하기로 결정했습니다. 멤버의 실명과 거주지, 활동거점 등은 비밀입니다. 지금은 이렇게 싸우는 것만이 사회를 바꾸는 유일한 방법이라고 생각...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024091042096334.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
