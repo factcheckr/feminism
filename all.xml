@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Oct 2024 06:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 07:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[가정폭력 피해자 ‘신상 보호’ 필요한데…“주민증 내라” 는 병원들 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/health-welfare/article/202410081441001</link>
             <guid>https://www.khan.co.kr/national/health-welfare/article/202410081441001</guid>
-            <pubDate>Tue, 08 Oct 2024 06:20:05 GMT</pubDate>
+            <pubDate>Tue, 08 Oct 2024 06:19:24 GMT</pubDate>
             <content:encoded><![CDATA[건강보험 본인 확인 의무화 제도가 가정폭력 피해자의 개인정보 노출에 악용될 수 있다는 우려가 나오고 있다.가정폭력 피해자 보호시설 입소자들은 대부분 의료급여 수급자라 건보 적용을 위한 주민등록증 확인이 필요하지 않은데, 이를 잘 모르는 병원에서 주민등록증을 내라고 요구하는 사례가 있기 때문이다.6일 국회 보건복지위원회·여성가족위원회 소속 김남희 더불어민주당 의원실과 전국 가정폭력 피해자 보호시설 협의회가 취합한 사례를 보면, 서울·강원·전남·광주·대구·경북·부산·울산 등에서 보호시설 입소자가 병원에 전산관리번호로 받은 의료급여증을 냈는데도 추가로 주민등록증 확인을 요구받은 것으로 조사됐다.서울에선 입소자가 주민등록증을 제시하지 않자 의료기관이 진료를 거부한 일이 있었다. 경기와 인천에선 입소자가 응급실에서 전산관리번호로 진료받는 것을 거절당해 생년월일을 알려줬더니 진료 이후 입소자의 개인정보가 노출돼 다른 보호시설로 옮기기도 했다.📌[플랫]가정폭력 교...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/10/08/news-p.v1.20241008.3a1525976a1643b087963b70ab92fb51_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/cdee76f9-4413-4690-b886-b44c8ab2e79a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Sexual Minoritie Have a Difficult Time Gaining Permanent Employment Status (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10018</link>
+            <guid>https://ildaro.com/10018</guid>
+            <pubDate>Tue, 08 Oct 2024 07:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[If their gender expression does not match the categorization on their government-issued ID, they are not even given the chance to interview....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024100832014797.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[그녀들이 ‘무슬림 문화를 알리고 싶다’ 말하는 이유 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10017</link>
             <guid>https://ildaro.com/10017</guid>
@@ -479,14 +487,6 @@
             <pubDate>Fri, 13 Sep 2024 07:27:00 GMT</pubDate>
             <content:encoded><![CDATA[‘생산자와 소비자 간의 연결고리 만들기’, ‘먹거리를 통해 다양한 존재와 연대하기’를 목표로 ‘농부와 밥-pal 맺기’ 프로그램을 기획했다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024091338404360.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너는 아주 고귀해서, 네가 없으면 세상이 없을 수도 있어 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/9998</link>
-            <guid>https://ildaro.com/9998</guid>
-            <pubDate>Wed, 11 Sep 2024 08:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[관객들이 색자가 “넌 고귀하게 태어났어.”라고 하는 말을 들었으면 좋겠어요. 적어도 며칠을 더 살아갈 힘을 얻지 않을까?...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024091116415586.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
