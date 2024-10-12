@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Oct 2024 01:01:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Oct 2024 02:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/0c1d77fa-a398-4947-93d7-bacdc240ac58.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우리가 사랑하고 돌보겠다는데, 국가가 왜 거부하지? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10021</link>
+            <guid>https://ildaro.com/10021</guid>
+            <pubDate>Sat, 12 Oct 2024 10:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[세상과 맞서 싸울 용기를 가진 너희에게 이제 작은 힘을 보태고 싶구나. 이제는 얼굴을 가진 두 손을 열고 하늘을 바라보아야겠다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024101205558958.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우린 모모(母母) 가족, 이제 법적으로도 인정받아야죠 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10020</link>
             <guid>https://ildaro.com/10020</guid>
@@ -479,14 +487,6 @@
             <pubDate>Tue, 17 Sep 2024 11:04:00 GMT</pubDate>
             <content:encoded><![CDATA[여성의 직업이 과소평가 되는 이유가 역사적, 문화적, 제도적 요인에서 기인하며, 무의식적인 성별 편견과 같은 ‘비과학적’ 요소가 직무 평가에 영향을 미치고 있기...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024091721247741.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마음속 ‘그림자’를 들여다보는 글쓰기 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10001</link>
-            <guid>https://ildaro.com/10001</guid>
-            <pubDate>Sun, 15 Sep 2024 11:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[낭만적 사랑에 빠지는 것도 투사다. 내 안에 그런 측면이 있다는 것을 모른 채 상대에게서 좋은 점을 발견하고 사랑에 빠진다. 그리고 계속 기대하고 요구한다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024091534195835.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
