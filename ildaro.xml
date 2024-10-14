@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Oct 2024 02:52:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Oct 2024 03:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘몸’에게 편지를 쓰다]]></title>
+            <link>https://ildaro.com/10022</link>
+            <guid>https://ildaro.com/10022</guid>
+            <pubDate>Mon, 14 Oct 2024 11:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[“페미니스트라면서 왜 자기 몸은 그렇게 가부장처럼 대해요?” 우리는 몸을 머리나 정신에 딸린 도구로 여기는 경우가 많다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024101422033576.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리가 사랑하고 돌보겠다는데, 국가가 왜 거부하지?]]></title>
             <link>https://ildaro.com/10021</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 18 Sep 2024 10:15:38 GMT</pubDate>
             <content:encoded><![CDATA[남성의 ‘성적 욕구’를 해소하기 위해 여성의 신체 자체이든, 촬영된 신체 이미지든, 합성/편집한 신체 이미지든, 신체를 본 따 만든 리얼돌이든 무엇이든 제공되어야...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024091859303294.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성별 격차와 양극화 해소는 ‘국가 계획의 문제’]]></title>
-            <link>https://ildaro.com/10002</link>
-            <guid>https://ildaro.com/10002</guid>
-            <pubDate>Tue, 17 Sep 2024 11:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[여성의 직업이 과소평가 되는 이유가 역사적, 문화적, 제도적 요인에서 기인하며, 무의식적인 성별 편견과 같은 ‘비과학적’ 요소가 직무 평가에 영향을 미치고 있기...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024091721247741.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

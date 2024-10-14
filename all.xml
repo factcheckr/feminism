@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Oct 2024 02:52:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Oct 2024 03:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[NYT “한강 작품은 가부장·여성혐오적 한국 문화에 대한 저항” (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202410141047001</link>
             <guid>https://www.khan.co.kr/national/gender/article/202410141047001</guid>
-            <pubDate>Mon, 14 Oct 2024 02:51:15 GMT</pubDate>
+            <pubDate>Mon, 14 Oct 2024 02:50:31 GMT</pubDate>
             <content:encoded><![CDATA[“소설가 한강의 노벨문학상 수상은 한국 최고의 문화적 업적으로 축하받았지만, 그의 작품은 한국 문화에 대한 저항의 한 형태를 표현하고 있다.”미국 일간 뉴욕타임스(NYT)는 12일 ‘한 여성이 한국 최초의 노벨문학상을 받았다. 이는 많은 것을 말해준다’ 제하의 기사에서 이같이 진단했다.NYT는 한강 작가를 비롯해 한국 여성 작가들이 보여주는 글쓰기는 여전히 매우 가부장적이고, 때로는 여성 혐오적인 한국 문화에 대한 저항의 한 형태라고 보도했다.📌[플랫]한강 “숨쉬는 공기속에 흐르는 혐오, 직면하고 질문하지 않는다면 위험해”문화체육관광부가 현재의 이름을 갖춘 2008년 이후 여성 수장은 단 한명이었다. 이전까지 남성 중심의 한국 문학 평론계는 첫 노벨문학상 유력 후보로 고은 시인을 꼽아왔다. NYT는 “고은 작가가 성 추문에 휩싸이기 전까지 노벨문학상 발표 시기가 되면 작가의 집 앞에 기자들이 모여 대기했지만, 한강 작가는 이 같은 군중을 모은 적이 없...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/10/14/news-p.v1.20241014.e490d98acf854afb858d1bce6454e2a1_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/0c1d77fa-a398-4947-93d7-bacdc240ac58.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘몸’에게 편지를 쓰다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10022</link>
+            <guid>https://ildaro.com/10022</guid>
+            <pubDate>Mon, 14 Oct 2024 11:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[“페미니스트라면서 왜 자기 몸은 그렇게 가부장처럼 대해요?” 우리는 몸을 머리나 정신에 딸린 도구로 여기는 경우가 많다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024101422033576.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우리가 사랑하고 돌보겠다는데, 국가가 왜 거부하지? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10021</link>
             <guid>https://ildaro.com/10021</guid>
@@ -479,14 +487,6 @@
             <pubDate>Wed, 18 Sep 2024 10:15:38 GMT</pubDate>
             <content:encoded><![CDATA[남성의 ‘성적 욕구’를 해소하기 위해 여성의 신체 자체이든, 촬영된 신체 이미지든, 합성/편집한 신체 이미지든, 신체를 본 따 만든 리얼돌이든 무엇이든 제공되어야...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024091859303294.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성별 격차와 양극화 해소는 ‘국가 계획의 문제’ (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10002</link>
-            <guid>https://ildaro.com/10002</guid>
-            <pubDate>Tue, 17 Sep 2024 11:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[여성의 직업이 과소평가 되는 이유가 역사적, 문화적, 제도적 요인에서 기인하며, 무의식적인 성별 편견과 같은 ‘비과학적’ 요소가 직무 평가에 영향을 미치고 있기...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024091721247741.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
