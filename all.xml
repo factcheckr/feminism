@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Oct 2024 09:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Oct 2024 10:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/0c1d77fa-a398-4947-93d7-bacdc240ac58.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Not a Woman but a “Mere” Disabled Person? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10024</link>
+            <guid>https://ildaro.com/10024</guid>
+            <pubDate>Wed, 16 Oct 2024 10:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[I always wonder: what would it mean to be able to live confidently as a disabled woman in Korea?...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024101642387082.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여성들의 자립을 지원하는 주택 방문기 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10023</link>
             <guid>https://ildaro.com/10023</guid>
@@ -479,14 +487,6 @@
             <pubDate>Sat, 21 Sep 2024 13:17:50 GMT</pubDate>
             <content:encoded><![CDATA[언젠가 우리는 세상을 바꾼 이들로서 역사에 기억될 것이다. 우리의 이름 한 글자 한 글자가 퍼질 수는 없어도 우리의 목소리는 하나로 모여 퍼지게 될 것이다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024092144502177.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사과 택배, 친환경 포장재로 보내고 싶어요 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10004</link>
-            <guid>https://ildaro.com/10004</guid>
-            <pubDate>Fri, 20 Sep 2024 09:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[기업에 요청해 주문 제작으로 한 번에 3,000장을 구입해야 하는데, 나 같은 작은 농가에서 뛰어들기에는 시중에 나와있는 발포폴리어쩌구를 구매해 쓰는 게 금전적으로...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024092007321591.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
