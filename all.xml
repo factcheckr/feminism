@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Oct 2024 22:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Oct 2024 23:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/10/10/news-p.v1.20241010.bae5e65ce24e4917869d826f934ddd72_P1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[세상이 '미친 여자'라고 불러도 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1921</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1921</guid>
+            <pubDate>Wed, 16 Oct 2024 23:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[한강 작가님의 수상은 ‘한국인 최초’, ‘아시아 여성 최초’라는 수식어만으로도 빛나는 성취인데요. 하지만 한국에 사는 30대 여성인 제게는 우리나라 노벨문학상 수상의 포문을 연 작가가 ①70~80대 남성 원로 작가가 아닌 비교적 젊은 50대 중반 여성 작가인 점 ②'가부장제·여성혐오를 향한 저항'을 작품을 통해 말해 온 작가인 점 ③중층의 '소수자성'을 상징하는 동시에 사회적 약자와 연대해 온 작가인 점이 특히 더&nbsp;뜻깊고 벅차게 느껴지더라고요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/19e1dcd7-da06-4e2d-a168-78090a4da380.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[약속의 날, 10월 10일 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1906</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1906</guid>
@@ -319,14 +327,6 @@
             <pubDate>Mon, 24 Jun 2024 23:14:55 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 대통령이 19일 '인구 국가비상사태'를 선언하고 저출생 대책을 발표했습니다. '인구전략기획부'를 신설한다고도 했습니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/dc96cf42-45cd-448d-a8d8-4ac2a0b34250.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[목숨 걸고 하는 연애 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1786</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1786</guid>
-            <pubDate>Mon, 17 Jun 2024 23:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[어디 교제 폭력이 '젊은 여성'만의 일일까요? 이미 뉴스레터에서 한번 다뤘습니다만, 얼마 전에는 60대 남성이 이별을 요구한 60대 여성과 그 딸을 살해한 사건도 있었죠. 고령화 추세 속에서 교제 폭력은 연령을 가리지 않습니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/0c1d77fa-a398-4947-93d7-bacdc240ac58.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Not a Woman but a “Mere” Disabled Person? (일다 ─ 전체기사)]]></title>
