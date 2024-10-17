@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Oct 2024 01:04:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2024 02:47:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조현병 당사자의 보호자, 자립을 말하다]]></title>
+            <link>https://ildaro.com/10025</link>
+            <guid>https://ildaro.com/10025</guid>
+            <pubDate>Thu, 17 Oct 2024 09:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[100명 중 1명이 걸릴 수 있다는 이 확률은 결코 작지 않고, ‘내’가 혹은 나의 사랑하는 누군가가 겪을 수 있는 일이라는 것을 생각할 수 있도록 인식이 바뀌어야 해요...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024101702491751.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Not a Woman but a “Mere” Disabled Person?]]></title>
             <link>https://ildaro.com/10024</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 22 Sep 2024 08:16:37 GMT</pubDate>
             <content:encoded><![CDATA[“I’m going to start cutting now.” The hairstylist seemed to be asking for confirmation. I cheerfully replied, “Yes, of course.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024092207229619.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘n번방’ 재판 방청 연대기를 다시 읽다]]></title>
-            <link>https://ildaro.com/10005</link>
-            <guid>https://ildaro.com/10005</guid>
-            <pubDate>Sat, 21 Sep 2024 13:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[언젠가 우리는 세상을 바꾼 이들로서 역사에 기억될 것이다. 우리의 이름 한 글자 한 글자가 퍼질 수는 없어도 우리의 목소리는 하나로 모여 퍼지게 될 것이다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024092144502177.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
