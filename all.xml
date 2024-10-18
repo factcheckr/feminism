@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Oct 2024 09:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 10:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[“대학은 딥페이크 성범죄가 발생하는 하나의 ‘플랫폼’”…대학생 1108명의 ‘연대 서명’ (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202410181734001</link>
             <guid>https://www.khan.co.kr/national/gender/article/202410181734001</guid>
-            <pubDate>Fri, 18 Oct 2024 09:16:02 GMT</pubDate>
+            <pubDate>Fri, 18 Oct 2024 09:15:19 GMT</pubDate>
             <content:encoded><![CDATA[26개 대학생 단체 연합인 ‘딥페이크 성범죄 OUT 대학생 공동행동’이 18일 “교육부와 대학 당국이 대학 내 딥페이크 성범죄를 방치하고 있다”며 규탄했다. 대학생들은 이날 서울 광화문광장에서 기자회견을 열고 교육부와 대학 당국에 학내 딥페이크 성범죄 전수조사, 피해자 보호 및 지원 대책 수립, 학내인권센터 예산·인력 확충, 포괄적 성교육 지원 강화 등 딥페이크 성범죄 예방·대응 체계를 만들 것을 요구했다.이들은 대학의 현주소를 “딥페이크 성범죄가 발생하는 하나의 ‘플랫폼’”이라고 진단했다. 페미니스트 대학생 연합동아리의 강나연 운영위원은 “서울대·인하대를 비롯해 전국 70여개 대학에서 학생들을 대상으로 한 성착취물의 제작·유통·판매되고 있다”며 “해당 학교의 학생들은 그 학교에 다닌다는 이유만으로 딥페이크 성범죄 가해자들이 즐기는 하나의 콘텐츠가 됐다”고 말했다.이들은 상황이 악화한 이유로 대학 당국의 무책임을 꼽았다. 딥페이크 성착취물 사태가 ‘청소년의 문제’로만 국...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/10/18/news-p.v1.20241018.5d6795abbb5e43e3b239ddfb34f53cfc_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/dc96cf42-45cd-448d-a8d8-4ac2a0b34250.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[도시 생활에 드는 플라스틱 값을 계산해 보았다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10026</link>
+            <guid>https://ildaro.com/10026</guid>
+            <pubDate>Fri, 18 Oct 2024 10:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[도시에 사는 현대 한국인이 삶의 비용을 계산하는 일은 여간 복잡하지 않다. 나는 너무 작고 가벼워서 간과하기 십상이지만 전체를 계산해 보면 너무나 무거운 물질을...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024101855332075.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[조현병 당사자의 보호자, 자립을 말하다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10025</link>
             <guid>https://ildaro.com/10025</guid>
@@ -479,14 +487,6 @@
             <pubDate>Mon, 23 Sep 2024 10:08:00 GMT</pubDate>
             <content:encoded><![CDATA[“친밀한 관계 내 여성폭력(범죄)의 중대성이 과소평가되는 등 교제폭력 등에 대한 사회적인 인식과 이해가 부족한 측면도 존재한다”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/202409231843161.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Because Our Love Doesn’t Hurt Anyone (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10006</link>
-            <guid>https://ildaro.com/10006</guid>
-            <pubDate>Sun, 22 Sep 2024 08:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[“I’m going to start cutting now.” The hairstylist seemed to be asking for confirmation. I cheerfully replied, “Yes, of course.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024092207229619.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
