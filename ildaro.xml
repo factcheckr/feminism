@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Oct 2024 02:55:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Oct 2024 03:25:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아직도, 부르지 못하는 그 이름?]]></title>
+            <link>https://ildaro.com/10027</link>
+            <guid>https://ildaro.com/10027</guid>
+            <pubDate>Sun, 20 Oct 2024 10:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[퀴어 서사의 가려짐, 부재 그리고 삭제는 우리 사회가 변화하고 나아갈 수 있는 기회가 사라지는 일이라고. 언제까지 이렇게 부끄러운 일이 반복되게 둘 것인가?...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024102004261946.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도시 생활에 드는 플라스틱 값을 계산해 보았다]]></title>
             <link>https://ildaro.com/10026</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 24 Sep 2024 11:13:28 GMT</pubDate>
             <content:encoded><![CDATA[형법의 성범죄 규정은 개정(비동의 성교죄)되었지만, 오키나와에서는 미성년이 성폭력을 당한 사실이 은폐된다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024092433306250.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[교제살인 막으려면 ‘친밀한 관계 내 폭력’ 처벌법 필요]]></title>
-            <link>https://ildaro.com/10007</link>
-            <guid>https://ildaro.com/10007</guid>
-            <pubDate>Mon, 23 Sep 2024 10:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[“친밀한 관계 내 여성폭력(범죄)의 중대성이 과소평가되는 등 교제폭력 등에 대한 사회적인 인식과 이해가 부족한 측면도 존재한다”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/202409231843161.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
