@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Oct 2024 09:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2024 10:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/dc96cf42-45cd-448d-a8d8-4ac2a0b34250.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아태지역 페미니스트…폭력의 구조도, 연대도 연결돼있다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10029</link>
+            <guid>https://ildaro.com/10029</guid>
+            <pubDate>Wed, 23 Oct 2024 10:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[한 사람의 이야기가 다른 사람에게 용기가 되어 마음속에 꽁꽁 안고 있던 이야기를 밖으로 꺼낼 수 있게 하기 때문에 ‘우리는 더 많이 말해야 한다’...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024102355101519.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[내 옷장에 플라스틱 옷이 몇 벌이나 있을까 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10028</link>
             <guid>https://ildaro.com/10028</guid>
@@ -479,14 +487,6 @@
             <pubDate>Sat, 28 Sep 2024 10:43:00 GMT</pubDate>
             <content:encoded><![CDATA[‘너 별 볼 일 없구나?’라는 말이 내 안에서 들릴 때, 그것이 진실이라고 생각하지 않고 ‘아, 나를 별 볼 일 없다고 말하는 인격이 또 나를 사로잡았구나.’ 생각하며...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/202409285028319.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“동생의 조현병이 재발할 것 같아요” (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10009</link>
-            <guid>https://ildaro.com/10009</guid>
-            <pubDate>Thu, 26 Sep 2024 07:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[J는 30대 초반의 여성으로 결혼해 원 가족과 따로 살고 있지만 중요한 순간마다 부모님을 도와 조현병 당사자를 돌본다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024092649158933.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
