@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Oct 2024 22:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2024 23:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국가는 언제까지 공범일까]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1927</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1927</guid>
+            <pubDate>Wed, 23 Oct 2024 23:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[딥페이크(인공지능 기반 이미지 합성) 성 착취 범죄가 본격적으로 공론화된 지 2개월여가 지났습니다. 새로 시행된 '딥페이크 처벌법'으로 우리는 일상을 되찾을 수 있을지, 정부는 딥페이크 현황을 잘 파악하고 있는지 살펴보겠습니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/2cb77510-7f1b-4a60-9324-7fe16b4ce682.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[세상이 '미친 여자'라고 불러도]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1921</link>
@@ -79,14 +87,6 @@
             <pubDate>Mon, 01 Jul 2024 23:13:22 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 최근 언론계 내에서 발생한 '단톡방 성희롱' 사건에 대해 가져왔습니다. 어쩌면 기자들의 세계에서 발생한 '내부적 문제'이기에, 뉴스레터에 전면적으로 소개하기에는 부담스러운 부분도 있었습니다. 하지만 이번 사안의 진행 과정을 보면서 꼭 여러분과 나누고 싶은 화두가 있었습니다. 하나하나 차근차근 같이 볼까요.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/3495a164-0148-4deb-917b-080e70e53ab1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['인구전략기획'이라는 위험한 발상]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1796</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1796</guid>
-            <pubDate>Mon, 24 Jun 2024 23:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 대통령이 19일 '인구 국가비상사태'를 선언하고 저출생 대책을 발표했습니다. '인구전략기획부'를 신설한다고도 했습니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/dc96cf42-45cd-448d-a8d8-4ac2a0b34250.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
