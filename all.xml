@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Oct 2024 06:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Oct 2024 07:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/3495a164-0148-4deb-917b-080e70e53ab1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[상실의 공포 앞에서…유쾌하게 죽음을 준비하기 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10031</link>
+            <guid>https://ildaro.com/10031</guid>
+            <pubDate>Fri, 25 Oct 2024 07:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[아마도 딕 존슨이 살아있을 때 미리 찍어둔 장면이겠지만. 이 영화 안에서 딕 존슨은 감독의 염원대로 영원히 살아있을 것이다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024102526142181.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘돌봄 권리’ 국가가 보장해야 할 보편적 인권 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10030</link>
             <guid>https://ildaro.com/10030</guid>
@@ -479,14 +487,6 @@
             <pubDate>Mon, 30 Sep 2024 11:57:00 GMT</pubDate>
             <content:encoded><![CDATA[I wish for female gukgeuk to be widely loved. I also want it to become a regular entertainment choice just like a movie or a play....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024093013494395.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알 수 없는 죽음으로 ‘지워진 고모의 이야기’를 찾아서 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10011</link>
-            <guid>https://ildaro.com/10011</guid>
-            <pubDate>Sun, 29 Sep 2024 09:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[‘얼굴도 이름도 모르는 고모의 일이 왜 그렇게 혼란스럽고 충격이었을까?’ 질문하다 보니, 어쩌면 이건 나와 관련된 문제일 수 있겠다 싶더라고요...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024092906224787.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
