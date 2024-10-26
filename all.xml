@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Oct 2024 09:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Oct 2024 10:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/3495a164-0148-4deb-917b-080e70e53ab1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아파트에도, 성소수자 커플이 살아요 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10032</link>
+            <guid>https://ildaro.com/10032</guid>
+            <pubDate>Sat, 26 Oct 2024 10:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[현실의 많은 퀴어 커플들이 그렇듯이 연결망이나 지지자가 없으면 너무 쉽게 고립되죠. 그게 그들의 관계를 위태롭게 하고요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024102624308127.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[상실의 공포 앞에서…유쾌하게 죽음을 준비하기 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10031</link>
             <guid>https://ildaro.com/10031</guid>
@@ -479,14 +487,6 @@
             <pubDate>Tue, 01 Oct 2024 07:15:48 GMT</pubDate>
             <content:encoded><![CDATA[일주일에 노동시간을 4~5시간 단축하자, 생산성과 서비스는 유지되거나 향상됐고, 아이슬란드 사람들의 웰빙과 일상에도 여러 긍정적 효과가 생겨났다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024100108497626.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Female Gukgeuk: Surviving and Reviving at the Brink (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10012</link>
-            <guid>https://ildaro.com/10012</guid>
-            <pubDate>Mon, 30 Sep 2024 11:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[I wish for female gukgeuk to be widely loved. I also want it to become a regular entertainment choice just like a movie or a play....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202409/2024093013494395.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
