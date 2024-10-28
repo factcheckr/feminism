@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Oct 2024 02:54:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Oct 2024 03:25:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘나는 하기 싫고 누군가 싸게 해줬으면’ 하는 돌봄?]]></title>
+            <link>https://ildaro.com/10033</link>
+            <guid>https://ildaro.com/10033</guid>
+            <pubDate>Mon, 28 Oct 2024 09:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[돌봄 공공성 강화가 국가의 책임을 호출하는 것으로만 집약되어선 안 된다. 돌봄은 국가가 맡고, 일터에서 영혼을 털어 노동에 집중하는 게 우리가 바라는 미래는 아니...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024102803352546.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아파트에도, 성소수자 커플이 살아요]]></title>
             <link>https://ildaro.com/10032</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[오소리 작가는 자신의 작업이 ‘기승전결의 문법에서 벗어난 작업’이라고 표현한 바 있는데, 우리 삶도 마찬가지인 것 같다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024100305025030.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가장 큰 규모의 ‘노동시간 단축 실험’ 그 효과]]></title>
-            <link>https://ildaro.com/10013</link>
-            <guid>https://ildaro.com/10013</guid>
-            <pubDate>Tue, 01 Oct 2024 07:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[일주일에 노동시간을 4~5시간 단축하자, 생산성과 서비스는 유지되거나 향상됐고, 아이슬란드 사람들의 웰빙과 일상에도 여러 긍정적 효과가 생겨났다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024100108497626.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
