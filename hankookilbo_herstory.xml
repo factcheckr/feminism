@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Oct 2024 22:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 23:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페미니즘을 회개하게 하옵소서!]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1938</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1938</guid>
+            <pubDate>Wed, 30 Oct 2024 23:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[갑자기 회개로 시작하니 아침부터 뉴스레터를 잘못 열었나 싶지 않으신가요? 회개도 회개인데, 내용도 뜨악 소리가 나오지요? 시대착오적, 성차별적, 가부장적, 역사 퇴행적... 어떤 표현을 써도 모자랄 정도로 '혐오스러운' 이 기도 내용은 사실 지난 주말 서울 시내를 가득 메운 목소리였습니다. 광화문, 서울시청, 남대문 일대에서 열린 대규모 기도회 '10·27 연합예배'에서 말입니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/5550b74f-727b-4a52-a33f-8cb40a18f4e4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국가는 언제까지 공범일까]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1927</link>
@@ -79,14 +87,6 @@
             <content:encoded><![CDATA[키어 스타머 신임 영국 총리가 지난 5일 내각 주요 장관을 발표했어요.&nbsp;
 중도좌파 정당인 노동당이 얼마 전 총선에서 2010년 이후 14년간 집권했던 보수당에 압승한 결과입니다. 내각 25명 중 11명(44%)이 여성입니다. 한국은요? 제가 얼마 전 계산해 봤더니 26%더군요. 여성가족부 장관은 여전히 공석입니다. 앞서 유엔여성차별철폐협약(CEDAW) 위원회가 "여가부 페지 법안을 철회하고 지체 없이 장관을 임명하라"고 권고했음에도 말이죠.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/fc893a96-7dbe-4742-95bc-25d60cc7aef4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[언론계 내 '단톡방 성희롱']]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1805</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1805</guid>
-            <pubDate>Mon, 01 Jul 2024 23:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 최근 언론계 내에서 발생한 '단톡방 성희롱' 사건에 대해 가져왔습니다. 어쩌면 기자들의 세계에서 발생한 '내부적 문제'이기에, 뉴스레터에 전면적으로 소개하기에는 부담스러운 부분도 있었습니다. 하지만 이번 사안의 진행 과정을 보면서 꼭 여러분과 나누고 싶은 화두가 있었습니다. 하나하나 차근차근 같이 볼까요.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/3495a164-0148-4deb-917b-080e70e53ab1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
