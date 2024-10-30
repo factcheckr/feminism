@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Oct 2024 02:50:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 03:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[수억원 들여도…‘여성 참가자’ 없어 공무원 차출하는 지자체 ‘결혼 주선행사’ (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/national/gender/article/202410301040001</link>
             <guid>https://www.khan.co.kr/national/gender/article/202410301040001</guid>
-            <pubDate>Wed, 30 Oct 2024 02:49:02 GMT</pubDate>
+            <pubDate>Wed, 30 Oct 2024 02:48:18 GMT</pubDate>
             <content:encoded><![CDATA[‘너랑나랑 두근대구’ ‘하늘이 무너져도 내 짝은 있다’ ‘오늘은 썸데이’…. 전국 지방자치단체들이 경쟁적으로 지역 내 ‘중매쟁이’를 자처하고 나섰다.미국 코미디언 아지즈 안사리와 사회학자 에릭 클라이넨버그는 책 &lt;모던 로맨스&gt;에서 “국가가 싱글들의 만남에 돈을 대주거나 젊은이들이 얼큰하게 취할 수 있게 도와주는 나라는 일본 외에 어디에도 없다”고 했지만 바로 옆 한국에서도 연간 수천만~수억원의 예산을 들인 지자체 주도의 만남주선 행사가 열린다.29일 전국 17개 광역·226개 기초자치단체에 정보공개청구로 입수한 사업계획서·결과보고서와 이연희 더불어민주당 의원실을 통해 받은 ‘미혼남녀 결혼 행사 건수’를 보면 올해 만남 주선에 관여한 지자체는 최소 54곳이다. 지자체의 만남 주선은 유행처럼 번지며 2019년 48곳에서 행사가 열렸다가, 이듬해 코로나19 확산으로 일부 지자체만 비대면으로 진행했다. 이후 회복세를 보여 현재까지 만남 주선 행사를 최소 1번 이상 개...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/190x140/2024/10/30/news-p.v1.20241030.502f32a7e5284eb9a2e3ffebfdf30290_P1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/3495a164-0148-4deb-917b-080e70e53ab1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[반짝이던 여성들의 시공간, 돌멩이의 역사에 접속하기 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10034</link>
+            <guid>https://ildaro.com/10034</guid>
+            <pubDate>Wed, 30 Oct 2024 11:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[맹렬한 산업화의 흐름 속에서 오직 개인의 몫으로만 난폭하게 떠넘겨졌던 노동과 삶, 돌봄의 요구는 이 가려진 운동의 역사 안에서 전복적인 방식으로 ‘우리의 것’...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024103021022650.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘나는 하기 싫고 누군가 싸게 해줬으면’ 하는 돌봄? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10033</link>
             <guid>https://ildaro.com/10033</guid>
@@ -479,14 +487,6 @@
             <pubDate>Fri, 04 Oct 2024 08:19:13 GMT</pubDate>
             <content:encoded><![CDATA[백 년이나 지켜져 온 숲이라면 그것을 보호하고 보존해서, 보다 좋은 상태로 자연공원을 만들어 후대에 넘겨주는 것이야말로 시의 사명이 아닐까....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024100415275347.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[관습을 깬 여자는 전진하여 새 길을 찾는다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10014</link>
-            <guid>https://ildaro.com/10014</guid>
-            <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[오소리 작가는 자신의 작업이 ‘기승전결의 문법에서 벗어난 작업’이라고 표현한 바 있는데, 우리 삶도 마찬가지인 것 같다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024100305025030.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

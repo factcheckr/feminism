@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Oct 2024 02:50:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 03:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반짝이던 여성들의 시공간, 돌멩이의 역사에 접속하기]]></title>
+            <link>https://ildaro.com/10034</link>
+            <guid>https://ildaro.com/10034</guid>
+            <pubDate>Wed, 30 Oct 2024 11:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[맹렬한 산업화의 흐름 속에서 오직 개인의 몫으로만 난폭하게 떠넘겨졌던 노동과 삶, 돌봄의 요구는 이 가려진 운동의 역사 안에서 전복적인 방식으로 ‘우리의 것’...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024103021022650.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘나는 하기 싫고 누군가 싸게 해줬으면’ 하는 돌봄?]]></title>
             <link>https://ildaro.com/10033</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 04 Oct 2024 08:19:13 GMT</pubDate>
             <content:encoded><![CDATA[백 년이나 지켜져 온 숲이라면 그것을 보호하고 보존해서, 보다 좋은 상태로 자연공원을 만들어 후대에 넘겨주는 것이야말로 시의 사명이 아닐까....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024100415275347.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[관습을 깬 여자는 전진하여 새 길을 찾는다]]></title>
-            <link>https://ildaro.com/10014</link>
-            <guid>https://ildaro.com/10014</guid>
-            <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[오소리 작가는 자신의 작업이 ‘기승전결의 문법에서 벗어난 작업’이라고 표현한 바 있는데, 우리 삶도 마찬가지인 것 같다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024100305025030.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
