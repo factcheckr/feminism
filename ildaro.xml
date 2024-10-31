@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Oct 2024 06:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Oct 2024 07:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재난 상황에서 나의 역할은?]]></title>
+            <link>https://ildaro.com/10035</link>
+            <guid>https://ildaro.com/10035</guid>
+            <pubDate>Thu, 31 Oct 2024 07:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[“가치의 방향으로 걸어간다는 것은 좋은 느낌을 느끼는 것(feeling good)이 아니라, 좋은 삶을 사는 것(living good)이다.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024103137317617.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반짝이던 여성들의 시공간, 돌멩이의 역사에 접속하기]]></title>
             <link>https://ildaro.com/10034</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 06 Oct 2024 11:01:00 GMT</pubDate>
             <content:encoded><![CDATA[알기 이전에는 보이지 않는 것이 있다. 보이지 않으면 이해가 안 되고 이해가 안 되면 마음으로 버티게 되는데, 의지에는 한계가 있다. 하지만, 앎은 마음의 낭비를 줄...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024100611114722.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도쿄의 소중한 녹지, 뻐꾸기 우는 천문대 숲 지킨다]]></title>
-            <link>https://ildaro.com/10015</link>
-            <guid>https://ildaro.com/10015</guid>
-            <pubDate>Fri, 04 Oct 2024 08:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[백 년이나 지켜져 온 숲이라면 그것을 보호하고 보존해서, 보다 좋은 상태로 자연공원을 만들어 후대에 넘겨주는 것이야말로 시의 사명이 아닐까....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024100415275347.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
