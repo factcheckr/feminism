@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 07:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 08:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,6 +329,14 @@
             <enclosure url="https://image.hankookilbo.com/board/fc893a96-7dbe-4742-95bc-25d60cc7aef4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[침묵을 깨고 교문을 넘어, 그리하여 친구가 되는 여자들 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10036</link>
+            <guid>https://ildaro.com/10036</guid>
+            <pubDate>Fri, 01 Nov 2024 08:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[“왜 그냥공방에 오게 됐어?”라고 청소년들에게 물으면, 돈이 필요해서 왔다는 대답이 먼저 돌아온다. 어쩌면 그 이상의 극적인 이야기를 기대하는 것이 이상한 게 아...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024110115392323.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[재난 상황에서 나의 역할은? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10035</link>
             <guid>https://ildaro.com/10035</guid>
@@ -479,14 +487,6 @@
             <pubDate>Mon, 07 Oct 2024 12:28:23 GMT</pubDate>
             <content:encoded><![CDATA[자신들의 문화를 이야기하고 싶다는 ‘와하’의 여성들, 그것에 ‘거부감’을 느끼는 몇몇 한국 사람을 통해서, 이주민의 ‘다름’을 수용해 줄 생각이 없는 한국 사...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024100709108039.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돌봄이 자기 과제가 된 이상 ‘배워야만 했다’ (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10016</link>
-            <guid>https://ildaro.com/10016</guid>
-            <pubDate>Sun, 06 Oct 2024 11:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[알기 이전에는 보이지 않는 것이 있다. 보이지 않으면 이해가 안 되고 이해가 안 되면 마음으로 버티게 되는데, 의지에는 한계가 있다. 하지만, 앎은 마음의 낭비를 줄...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024100611114722.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
