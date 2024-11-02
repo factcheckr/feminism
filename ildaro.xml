@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Nov 2024 01:02:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Nov 2024 02:44:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[욕실의 플라스틱, 수요 넘어서는 공급]]></title>
+            <link>https://ildaro.com/10037</link>
+            <guid>https://ildaro.com/10037</guid>
+            <pubDate>Sat, 02 Nov 2024 10:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[사회적 미의 기준에 길들여진 탓인지, 여드름 없는 피부는 포기하지 못하겠다. 아마 올해 한 번쯤은 더 클렌징폼을 살 것 같다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024110213277848.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[침묵을 깨고 교문을 넘어, 그리하여 친구가 되는 여자들]]></title>
             <link>https://ildaro.com/10036</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 08 Oct 2024 07:14:50 GMT</pubDate>
             <content:encoded><![CDATA[If their gender expression does not match the categorization on their government-issued ID, they are not even given the chance to interview....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024100832014797.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그녀들이 ‘무슬림 문화를 알리고 싶다’ 말하는 이유]]></title>
-            <link>https://ildaro.com/10017</link>
-            <guid>https://ildaro.com/10017</guid>
-            <pubDate>Mon, 07 Oct 2024 12:28:23 GMT</pubDate>
-            <content:encoded><![CDATA[자신들의 문화를 이야기하고 싶다는 ‘와하’의 여성들, 그것에 ‘거부감’을 느끼는 몇몇 한국 사람을 통해서, 이주민의 ‘다름’을 수용해 줄 생각이 없는 한국 사...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024100709108039.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
