@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Nov 2024 01:06:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Nov 2024 02:53:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재일조선인 서사를 2개의 언어에 담아서…]]></title>
+            <link>https://ildaro.com/10038</link>
+            <guid>https://ildaro.com/10038</guid>
+            <pubDate>Mon, 04 Nov 2024 08:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[“일본 사회에서 미래에 대한 희망을 갖기 어려운 재일조선인 젊은이들에게 ‘밤길을 비추는 달빛’이 되었으면 좋겠다고 생각해, 극단 이름(달오름)을 지었습니다.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024110436053274.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[욕실의 플라스틱, 수요 넘어서는 공급]]></title>
             <link>https://ildaro.com/10037</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 09 Oct 2024 09:32:00 GMT</pubDate>
             <content:encoded><![CDATA[수잔나는 정상적인 세계 안으로 편입하는 데 성공한다. 그리고 자신은 일 년을 허비했다고 자조한다. 이들의 역사는 왜 쓰이지 않는가? 왜 가장 사랑스러운 시간에의 ...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024100935317228.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sexual Minoritie Have a Difficult Time Gaining Permanent Employment Status]]></title>
-            <link>https://ildaro.com/10018</link>
-            <guid>https://ildaro.com/10018</guid>
-            <pubDate>Tue, 08 Oct 2024 07:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[If their gender expression does not match the categorization on their government-issued ID, they are not even given the chance to interview....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024100832014797.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
