@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Nov 2024 08:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Nov 2024 09:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OTT 드라마, 폭력씬이 이렇게 많았어?]]></title>
+            <link>https://ildaro.com/10039</link>
+            <guid>https://ildaro.com/10039</guid>
+            <pubDate>Tue, 05 Nov 2024 09:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[“비교적 입체적 성격을 지녔던 여성 캐릭터들이 후반부로 가면서 ‘모성’이라는 동일한 기제로 묶이고, 자신을 희생해서 자녀를 지키려는 모성이 부각되는 점은 한...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/202411054412951.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재일조선인 서사를 2개의 언어에 담아서…]]></title>
             <link>https://ildaro.com/10038</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 10 Oct 2024 11:44:00 GMT</pubDate>
             <content:encoded><![CDATA[라니가 학교에 갔을 때 “엄마가 둘이야.”라는 말을 부끄럽게 이야기하면 안되잖아요. 차별이 없는 세상을 조금 더 당기기 위해선 우리가 열심히 뛰어야 하는 거죠....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024101058075279.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘미친’ ‘소녀들’의 공동체, 이들의 역사가 기록되길]]></title>
-            <link>https://ildaro.com/10019</link>
-            <guid>https://ildaro.com/10019</guid>
-            <pubDate>Wed, 09 Oct 2024 09:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[수잔나는 정상적인 세계 안으로 편입하는 데 성공한다. 그리고 자신은 일 년을 허비했다고 자조한다. 이들의 역사는 왜 쓰이지 않는가? 왜 가장 사랑스러운 시간에의 ...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024100935317228.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
