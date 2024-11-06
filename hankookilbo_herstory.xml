@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Nov 2024 22:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2024 23:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 웹툰과 멀어진 이유]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1947</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1947</guid>
+            <pubDate>Wed, 06 Nov 2024 23:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 온라인에서 화제인 '네이버 웹툰 불매 운동' 소식을 가져왔어요. 여성 혐오적 작품을 방치하는 네이버 웹툰에 독자들이 들고 일어선 건데요, 금방 사그라질 거라는 일부 예상과는 달리 벌써 한 달 가까이 이어지고 있습니다. 이번 불매운동은 어떻게 진행돼왔는지, 쟁점은 무엇이 있는지 살펴봤어요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/2b07f062-d12a-4026-a293-9cab84f1d0c1.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[페미니즘을 회개하게 하옵소서!]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1938</link>
@@ -78,15 +86,6 @@
             <pubDate>Mon, 15 Jul 2024 23:14:00 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 최근 많은 분들이 분노하셨을 유튜버 쯔양의 소식을 갖고 왔습니다. 시작은 지난 11일 쯔양이 유튜브 채널에서 전 남자친구로부터 당했던 교제폭력 피해를 라이브로 설명하면서였습니다. 전날, 유튜브 채널 '가로세로연구소'가 "쯔양이 다수의 사이버렉카로부터 과거를 빌미로 협박 받아 돈을 갈취당했다"고 폭로했는데요. 이 '과거'를 해명하는 취지였습니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/13b6738a-47a9-4fe8-b58d-ce23cc44d2e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영국 2인자 된 흙수저 여성]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1815</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1815</guid>
-            <pubDate>Mon, 08 Jul 2024 23:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[키어 스타머 신임 영국 총리가 지난 5일 내각 주요 장관을 발표했어요.&nbsp;
-중도좌파 정당인 노동당이 얼마 전 총선에서 2010년 이후 14년간 집권했던 보수당에 압승한 결과입니다. 내각 25명 중 11명(44%)이 여성입니다. 한국은요? 제가 얼마 전 계산해 봤더니 26%더군요. 여성가족부 장관은 여전히 공석입니다. 앞서 유엔여성차별철폐협약(CEDAW) 위원회가 "여가부 페지 법안을 철회하고 지체 없이 장관을 임명하라"고 권고했음에도 말이죠.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/fc893a96-7dbe-4742-95bc-25d60cc7aef4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
