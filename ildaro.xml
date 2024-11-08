@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Nov 2024 08:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 09:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑 영화가 아닌 돌봄에 관한 영화였다]]></title>
+            <link>https://ildaro.com/10041</link>
+            <guid>https://ildaro.com/10041</guid>
+            <pubDate>Fri, 08 Nov 2024 09:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[질병과 장애를 가진 여성이 세상을 살아나가는 방식에 대해 수많은 고민거리를 던지는 영화다. 그리고 묻고 싶다. 사랑이란 무엇인가. 우리는 어떤 사랑을 원하는가....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024110809077099.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지하철 타기 시위, ‘시민은 무엇인가요?’]]></title>
             <link>https://ildaro.com/10040</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 14 Oct 2024 11:15:00 GMT</pubDate>
             <content:encoded><![CDATA[“페미니스트라면서 왜 자기 몸은 그렇게 가부장처럼 대해요?” 우리는 몸을 머리나 정신에 딸린 도구로 여기는 경우가 많다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024101422033576.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리가 사랑하고 돌보겠다는데, 국가가 왜 거부하지?]]></title>
-            <link>https://ildaro.com/10021</link>
-            <guid>https://ildaro.com/10021</guid>
-            <pubDate>Sat, 12 Oct 2024 10:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[세상과 맞서 싸울 용기를 가진 너희에게 이제 작은 힘을 보태고 싶구나. 이제는 얼굴을 가진 두 손을 열고 하늘을 바라보아야겠다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024101205558958.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
