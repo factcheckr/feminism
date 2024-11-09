@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Nov 2024 05:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Nov 2024 06:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[A Solution for the Climate Crisis: “Being Aware that We are Connected”]]></title>
+            <link>https://ildaro.com/10042</link>
+            <guid>https://ildaro.com/10042</guid>
+            <pubDate>Sat, 09 Nov 2024 06:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[There is a packaging section in the back where farmers can bring their produce and decide on the weight and amount....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024110942303954.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑 영화가 아닌 돌봄에 관한 영화였다]]></title>
             <link>https://ildaro.com/10041</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 15 Oct 2024 11:18:00 GMT</pubDate>
             <content:encoded><![CDATA[“집을 빌리기 위한 보증인도 없고, 저소득이며, 저축액도 적다. 아이까지 있으면 빌릴 수 있는 집은 극히 적으며, 그나마도 굉장히 열악한 곳들이다. 그 사실이 너무도...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/202410152733871.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘몸’에게 편지를 쓰다]]></title>
-            <link>https://ildaro.com/10022</link>
-            <guid>https://ildaro.com/10022</guid>
-            <pubDate>Mon, 14 Oct 2024 11:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[“페미니스트라면서 왜 자기 몸은 그렇게 가부장처럼 대해요?” 우리는 몸을 머리나 정신에 딸린 도구로 여기는 경우가 많다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024101422033576.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
