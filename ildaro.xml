@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Nov 2024 01:06:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Nov 2024 02:47:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온라인으로 확산된 스토킹, ‘끝이 없다’는 느낌…]]></title>
+            <link>https://ildaro.com/10043</link>
+            <guid>https://ildaro.com/10043</guid>
+            <pubDate>Sun, 10 Nov 2024 10:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[“피해자가 피해 사실을 조금이라도 털어놓았을 때 주변에서 가볍게 듣고 넘기지 않고 진지하게 반응한다면, 피해자의 상황 인지도 더 뚜렷해지고 이후의 대응 경험도...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024111015468847.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[A Solution for the Climate Crisis: “Being Aware that We are Connected”]]></title>
             <link>https://ildaro.com/10042</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Oct 2024 10:15:42 GMT</pubDate>
             <content:encoded><![CDATA[I always wonder: what would it mean to be able to live confidently as a disabled woman in Korea?...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024101642387082.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성들의 자립을 지원하는 주택 방문기]]></title>
-            <link>https://ildaro.com/10023</link>
-            <guid>https://ildaro.com/10023</guid>
-            <pubDate>Tue, 15 Oct 2024 11:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[“집을 빌리기 위한 보증인도 없고, 저소득이며, 저축액도 적다. 아이까지 있으면 빌릴 수 있는 집은 극히 적으며, 그나마도 굉장히 열악한 곳들이다. 그 사실이 너무도...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/202410152733871.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
