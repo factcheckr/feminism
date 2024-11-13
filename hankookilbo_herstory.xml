@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Nov 2024 22:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Nov 2024 23:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어쩌고저쩌고]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1956</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1956</guid>
+            <pubDate>Wed, 13 Nov 2024 23:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[지난 5일 치러진 미국 대선에서 도널드 트럼프 전 대통령이 당선되었죠. 2017년부터 4년 간의 기억이 강렬해서일까요. 혹은 '미국 최초의 성범죄자 대통령' 타이틀을 얻은 그가 다시 한번 국민의 선택을 받은 것이 충격적이어서일까요. 지난 한주 간 트럼프 당선에 해설을 요청하시는 분들이 많았어요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/d5f837c0-d25d-4884-812e-316e335788f2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버 웹툰과 멀어진 이유]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1947</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 25 Jul 2024 00:56:22 GMT</pubDate>
             <content:encoded><![CDATA[오늘 뉴스레터는 최신의 뉴스를 전달함과 동시에 '임신중지'라는 이슈를 우리가 어떻게 바라보면 좋을지 함께 고민하는 시간이 됐으면 좋겠어요. 조 바이든 미국 대통령의 대선 후보 사퇴로, 11월 대선 민주당 주자로 사실상 확정된 ①카멀라 해리스 부통령 이야기를 먼저 꺼내봅니다. 그리고 근래 가장 충격적인 소식으로 알려진 ②'36주 임신중지 브이로그' 이슈를 놓고 함께 생각을 정리해 봐요.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/2a7bd0ce-8855-4ca5-a6ef-2888a94132f3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[여성을 착취하는 방법의 진화]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1821</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1821</guid>
-            <pubDate>Mon, 15 Jul 2024 23:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 최근 많은 분들이 분노하셨을 유튜버 쯔양의 소식을 갖고 왔습니다. 시작은 지난 11일 쯔양이 유튜브 채널에서 전 남자친구로부터 당했던 교제폭력 피해를 라이브로 설명하면서였습니다. 전날, 유튜브 채널 '가로세로연구소'가 "쯔양이 다수의 사이버렉카로부터 과거를 빌미로 협박 받아 돈을 갈취당했다"고 폭로했는데요. 이 '과거'를 해명하는 취지였습니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/13b6738a-47a9-4fe8-b58d-ce23cc44d2e0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
