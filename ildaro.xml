@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Nov 2024 01:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Nov 2024 02:53:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로션부터 립밥과 선크림까지 ‘바르는’ 경제]]></title>
+            <link>https://ildaro.com/10047</link>
+            <guid>https://ildaro.com/10047</guid>
+            <pubDate>Sat, 16 Nov 2024 08:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[주로 사용하는 바디로션에는 펌프가 있다. 언니가 이사 가면서 주고 간 바디로션이다. 펌프형은 끝까지 쓰기 정말 곤란하다. 내 돈으로 산다면 나는 항상 단지형으로 ...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024111624152650.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여자가 원했다?…성매매 여성을 처벌하는 사회]]></title>
             <link>https://ildaro.com/10046</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 22 Oct 2024 10:08:00 GMT</pubDate>
             <content:encoded><![CDATA[현대인의 옷 중 다수는 플라스틱으로 만들어진다. 기숙사에 있는 내 옷장을 열어 보자. 옷장의 왼쪽 위부터 오른쪽 아래까지 훑은 내역이다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024102217379766.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아직도, 부르지 못하는 그 이름?]]></title>
-            <link>https://ildaro.com/10027</link>
-            <guid>https://ildaro.com/10027</guid>
-            <pubDate>Sun, 20 Oct 2024 10:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[퀴어 서사의 가려짐, 부재 그리고 삭제는 우리 사회가 변화하고 나아갈 수 있는 기회가 사라지는 일이라고. 언제까지 이렇게 부끄러운 일이 반복되게 둘 것인가?...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024102004261946.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
