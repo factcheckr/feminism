@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Nov 2024 01:07:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Nov 2024 02:55:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[물은 원래 ‘지구별’ 것이니까]]></title>
+            <link>https://ildaro.com/10049</link>
+            <guid>https://ildaro.com/10049</guid>
+            <pubDate>Tue, 19 Nov 2024 10:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘제주에서 사용되는 물은 천연 암반을 따라 정수된 지하수라는데, 왜 제주 사람들조차 플라스틱병에 담긴 생수를 사서 마실까?’...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024111951584832.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대우받는 노동이 질 높은 돌봄을 보장할 수밖에]]></title>
             <link>https://ildaro.com/10048</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 24 Oct 2024 09:15:45 GMT</pubDate>
             <content:encoded><![CDATA[돌봄은 사회적, 공적 권리로 자리잡아야 한다. 이러한 배경에서 ‘돌봄 권리’라는 개념이 등장하였고, 생명의 존엄성이 존중되는 삶을 위한 필수적인 권리로 인식되...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024102447151748.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아태지역 페미니스트…폭력의 구조도, 연대도 연결돼있다]]></title>
-            <link>https://ildaro.com/10029</link>
-            <guid>https://ildaro.com/10029</guid>
-            <pubDate>Wed, 23 Oct 2024 10:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[한 사람의 이야기가 다른 사람에게 용기가 되어 마음속에 꽁꽁 안고 있던 이야기를 밖으로 꺼낼 수 있게 하기 때문에 ‘우리는 더 많이 말해야 한다’...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024102355101519.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
