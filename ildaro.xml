@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Nov 2024 01:06:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 02:54:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신의 돌봄 경험은 어땠나요? 1000명이 답하다]]></title>
+            <link>https://ildaro.com/10051</link>
+            <guid>https://ildaro.com/10051</guid>
+            <pubDate>Thu, 21 Nov 2024 11:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[인터뷰이들은 돌봄의 어려움이자 필요한 일로, “눈에 명확하게 보이지는 않지만 돌봄에서 빠져서는 안 될 것은 기획, 매니징의 역할”이라고 강조했다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024112109249219.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Self-reflection in the Activist World: We Need Feminism!]]></title>
             <link>https://ildaro.com/10050</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 26 Oct 2024 10:15:20 GMT</pubDate>
             <content:encoded><![CDATA[현실의 많은 퀴어 커플들이 그렇듯이 연결망이나 지지자가 없으면 너무 쉽게 고립되죠. 그게 그들의 관계를 위태롭게 하고요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024102624308127.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상실의 공포 앞에서…유쾌하게 죽음을 준비하기]]></title>
-            <link>https://ildaro.com/10031</link>
-            <guid>https://ildaro.com/10031</guid>
-            <pubDate>Fri, 25 Oct 2024 07:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[아마도 딕 존슨이 살아있을 때 미리 찍어둔 장면이겠지만. 이 영화 안에서 딕 존슨은 감독의 염원대로 영원히 살아있을 것이다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024102526142181.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
