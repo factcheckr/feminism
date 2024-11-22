@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 01:08:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 02:55:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팀 활동과 연주로 여성들의 자존감 높이는 음악캠프]]></title>
+            <link>https://ildaro.com/10052</link>
+            <guid>https://ildaro.com/10052</guid>
+            <pubDate>Fri, 22 Nov 2024 11:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[악기를 처음 만져보는 여성들이 그날 만난 멤버들과 밴드를 꾸려 하루를 지내고, 캠프 마지막에는 라이브 연주를 실현한다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024112254492945.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당신의 돌봄 경험은 어땠나요? 1000명이 답하다]]></title>
             <link>https://ildaro.com/10051</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 28 Oct 2024 09:57:00 GMT</pubDate>
             <content:encoded><![CDATA[돌봄 공공성 강화가 국가의 책임을 호출하는 것으로만 집약되어선 안 된다. 돌봄은 국가가 맡고, 일터에서 영혼을 털어 노동에 집중하는 게 우리가 바라는 미래는 아니...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024102803352546.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아파트에도, 성소수자 커플이 살아요]]></title>
-            <link>https://ildaro.com/10032</link>
-            <guid>https://ildaro.com/10032</guid>
-            <pubDate>Sat, 26 Oct 2024 10:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[현실의 많은 퀴어 커플들이 그렇듯이 연결망이나 지지자가 없으면 너무 쉽게 고립되죠. 그게 그들의 관계를 위태롭게 하고요....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024102624308127.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
