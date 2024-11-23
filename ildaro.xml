@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Nov 2024 01:05:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Nov 2024 02:51:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[거울을 들고 내면의 칼을 벼린 여자들]]></title>
+            <link>https://ildaro.com/10053</link>
+            <guid>https://ildaro.com/10053</guid>
+            <pubDate>Sat, 23 Nov 2024 10:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[나는 특히 아이가 혼자 무서운 밤을 통과하는 장면을 주목하게 된다. 그 장면에서 아이는 숨 쉴 틈 없이 꽉 찬 어둠 속에 혼자 덩그러니 앉아 있다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024112341507520.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팀 활동과 연주로 여성들의 자존감 높이는 음악캠프]]></title>
             <link>https://ildaro.com/10052</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 30 Oct 2024 11:11:00 GMT</pubDate>
             <content:encoded><![CDATA[맹렬한 산업화의 흐름 속에서 오직 개인의 몫으로만 난폭하게 떠넘겨졌던 노동과 삶, 돌봄의 요구는 이 가려진 운동의 역사 안에서 전복적인 방식으로 ‘우리의 것’...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024103021022650.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘나는 하기 싫고 누군가 싸게 해줬으면’ 하는 돌봄?]]></title>
-            <link>https://ildaro.com/10033</link>
-            <guid>https://ildaro.com/10033</guid>
-            <pubDate>Mon, 28 Oct 2024 09:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[돌봄 공공성 강화가 국가의 책임을 호출하는 것으로만 집약되어선 안 된다. 돌봄은 국가가 맡고, 일터에서 영혼을 털어 노동에 집중하는 게 우리가 바라는 미래는 아니...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024102803352546.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
