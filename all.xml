@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Nov 2024 10:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Nov 2024 11:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,6 +438,14 @@
             <enclosure url="https://image.hankookilbo.com/board/9def5647-9dfc-409b-b969-f36d90bf1dac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[질병이 생기면 쉴 수 있는 ‘상병수당’ 보편적 제도되길 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10054</link>
+            <guid>https://ildaro.com/10054</guid>
+            <pubDate>Sun, 24 Nov 2024 11:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[항암치료를 오래 받았다는 한 참여자는 상병수당에 대한 설명을 듣자마자, 만약 상병수당이 있었다면 자신은 암에 걸리지 않았을지도 모른다고 했다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/202411240015419.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[거울을 들고 내면의 칼을 벼린 여자들 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10053</link>
             <guid>https://ildaro.com/10053</guid>
@@ -588,14 +596,6 @@
             <pubDate>Thu, 31 Oct 2024 07:15:04 GMT</pubDate>
             <content:encoded><![CDATA[“가치의 방향으로 걸어간다는 것은 좋은 느낌을 느끼는 것(feeling good)이 아니라, 좋은 삶을 사는 것(living good)이다.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024103137317617.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반짝이던 여성들의 시공간, 돌멩이의 역사에 접속하기 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10034</link>
-            <guid>https://ildaro.com/10034</guid>
-            <pubDate>Wed, 30 Oct 2024 11:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[맹렬한 산업화의 흐름 속에서 오직 개인의 몫으로만 난폭하게 떠넘겨졌던 노동과 삶, 돌봄의 요구는 이 가려진 운동의 역사 안에서 전복적인 방식으로 ‘우리의 것’...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024103021022650.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
