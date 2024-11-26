@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Nov 2024 01:07:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Nov 2024 02:56:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리가 플라스틱에 대해 모르거나 잘못 알고 있는 것들]]></title>
+            <link>https://ildaro.com/10055</link>
+            <guid>https://ildaro.com/10055</guid>
+            <pubDate>Tue, 26 Nov 2024 10:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[인류는 성공의 경험이 있습니다. 미나마타 협약을 통해 수은의 생산, 거래, 사용을 대폭 줄였고, 몬트리올 의정서를 통해 프레온 가스를 규제해서, 오존층이 다시 두꺼...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024112633056321.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[질병이 생기면 쉴 수 있는 ‘상병수당’ 보편적 제도되길]]></title>
             <link>https://ildaro.com/10054</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 01 Nov 2024 08:19:10 GMT</pubDate>
             <content:encoded><![CDATA[“왜 그냥공방에 오게 됐어?”라고 청소년들에게 물으면, 돈이 필요해서 왔다는 대답이 먼저 돌아온다. 어쩌면 그 이상의 극적인 이야기를 기대하는 것이 이상한 게 아...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024110115392323.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재난 상황에서 나의 역할은?]]></title>
-            <link>https://ildaro.com/10035</link>
-            <guid>https://ildaro.com/10035</guid>
-            <pubDate>Thu, 31 Oct 2024 07:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[“가치의 방향으로 걸어간다는 것은 좋은 느낌을 느끼는 것(feeling good)이 아니라, 좋은 삶을 사는 것(living good)이다.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202410/2024103137317617.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
