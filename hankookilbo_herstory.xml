@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Nov 2024 22:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 23:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['비혼 출산'을 논하려면]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1976</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1976</guid>
+            <pubDate>Wed, 27 Nov 2024 23:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[모델 문가비와 배우 정우성의 혼인 외 출산 소식을 둘러싸고, 온라인에선 ‘비혼 출산’ ‘다양한 가족 형태 존중’을 키워드로 여러 의견들이 불쑥불쑥 등장했습니다. 우리 사회는 이번 일을 계기로 드디어 이성간 결혼에 기반한 ‘정상가족’ 이데올로기에서 한 걸음 탈피하게 된 걸까요? 혹시 그 이면에 우리가 놓치고 있는 또다른 현실이 있지는 않을까요?]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/bae7700d-b385-4bb4-b637-2a8c63f7b4d9.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["요즘 세상에 여대가 왜 필요해?"]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1967</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 05 Aug 2024 23:14:51 GMT</pubDate>
             <content:encoded><![CDATA[파리 올림픽은 특히 역사상 처음으로 남녀 선수가 동등한 비율로 참여하는 '성평등 올림픽'이라는 점에서 주목을 받고 있는데요. 오늘은 유엔여성기구의 자료를 토대로, 우리가 조금 더 알아야 할 여성 스포츠에 관한 5가지 사실을 소개할게요.&nbsp;]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/99c84daf-5f81-4a2e-ab01-ffd22b956f5c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고양이+여자=맘껏 욕하자?]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1841</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1841</guid>
-            <pubDate>Mon, 29 Jul 2024 23:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[포문은 힐러리 클린턴 전 국무장관이 엑스(X)에 밴스 후보의 2021년 인터뷰를 '끌올'하면서 열었어요. 밴스는 알렉산드리아 오카시오-코르테즈 하원의원, 피트 부티지지 교통부 장관과 함께 해리스 부통령을 언급하며 "자녀도 없이 고양이나 키우는 비참한 삶을 사는 여성들(cat ladies)이 나라의 미래도 비참하게 만든다"고 말했습니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/9def5647-9dfc-409b-b969-f36d90bf1dac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
