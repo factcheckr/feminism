@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Nov 2024 06:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Nov 2024 07:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돌봄 사회, 구체적으로 무엇이 바뀌어야 할까?]]></title>
+            <link>https://ildaro.com/10058</link>
+            <guid>https://ildaro.com/10058</guid>
+            <pubDate>Sat, 30 Nov 2024 07:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[‘공적돌봄’을 주장하는 한 명의 사회복지사로서, 회사가 해산되며 노동자들이 일터를 떠나고 서울시의 공적돌봄 시도가 종료되어가는 일련의 과정을 지켜보며 좌절...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/202411300826827.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폭력을 피해 ‘집’ 떠난 피해자들…주거권 보장해야]]></title>
             <link>https://ildaro.com/10057</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 05 Nov 2024 09:16:20 GMT</pubDate>
             <content:encoded><![CDATA[“비교적 입체적 성격을 지녔던 여성 캐릭터들이 후반부로 가면서 ‘모성’이라는 동일한 기제로 묶이고, 자신을 희생해서 자녀를 지키려는 모성이 부각되는 점은 한...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/202411054412951.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재일조선인 서사를 2개의 언어에 담아서…]]></title>
-            <link>https://ildaro.com/10038</link>
-            <guid>https://ildaro.com/10038</guid>
-            <pubDate>Mon, 04 Nov 2024 08:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[“일본 사회에서 미래에 대한 희망을 갖기 어려운 재일조선인 젊은이들에게 ‘밤길을 비추는 달빛’이 되었으면 좋겠다고 생각해, 극단 이름(달오름)을 지었습니다.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024110436053274.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
