@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Dec 2024 04:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Dec 2024 05:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,6 +438,14 @@
             <enclosure url="https://image.hankookilbo.com/board/99c84daf-5f81-4a2e-ab01-ffd22b956f5c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[When a Daughter Opens her Mouth: Baring the Truth of “Sweet Home” (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10059</link>
+            <guid>https://ildaro.com/10059</guid>
+            <pubDate>Sun, 01 Dec 2024 05:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[The label “family” always came with responsibilities, not born out of love but self-guilt. What I wanted to protect wasn’t patriarchal practices or others’ well-being but myself....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024120145228964.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[돌봄 사회, 구체적으로 무엇이 바뀌어야 할까? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10058</link>
             <guid>https://ildaro.com/10058</guid>
@@ -588,14 +596,6 @@
             <pubDate>Thu, 07 Nov 2024 08:55:00 GMT</pubDate>
             <content:encoded><![CDATA[출근길이 막힌다는 것, 불편한 일이다. 혼란의 현장을 보는 것 또한 마음 편치 않다. 하지만 저 말들을 천천히 곱씹어 보고 질문할 필요가 있다. 시민이란 무엇인가?...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024110702259563.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OTT 드라마, 폭력씬이 이렇게 많았어? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10039</link>
-            <guid>https://ildaro.com/10039</guid>
-            <pubDate>Tue, 05 Nov 2024 09:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[“비교적 입체적 성격을 지녔던 여성 캐릭터들이 후반부로 가면서 ‘모성’이라는 동일한 기제로 묶이고, 자신을 희생해서 자녀를 지키려는 모성이 부각되는 점은 한...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/202411054412951.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
