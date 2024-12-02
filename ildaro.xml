@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Dec 2024 03:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 04:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘장애인을 도와야 한다’는 생각은 구시대적이야]]></title>
+            <link>https://ildaro.com/10060</link>
+            <guid>https://ildaro.com/10060</guid>
+            <pubDate>Mon, 02 Dec 2024 00:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[훌륭한 사람이 될 필요는 없어요. 실패해도, 진흙투성이가 되더라도, 눈앞에 있는 장애인과 대화하고 합리적 배려란 무엇인지를 함께 생각하고 싶습니다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024120241397198.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[When a Daughter Opens her Mouth: Baring the Truth of “Sweet Home”]]></title>
             <link>https://ildaro.com/10059</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 08 Nov 2024 09:15:16 GMT</pubDate>
             <content:encoded><![CDATA[질병과 장애를 가진 여성이 세상을 살아나가는 방식에 대해 수많은 고민거리를 던지는 영화다. 그리고 묻고 싶다. 사랑이란 무엇인가. 우리는 어떤 사랑을 원하는가....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024110809077099.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지하철 타기 시위, ‘시민은 무엇인가요?’]]></title>
-            <link>https://ildaro.com/10040</link>
-            <guid>https://ildaro.com/10040</guid>
-            <pubDate>Thu, 07 Nov 2024 08:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[출근길이 막힌다는 것, 불편한 일이다. 혼란의 현장을 보는 것 또한 마음 편치 않다. 하지만 저 말들을 천천히 곱씹어 보고 질문할 필요가 있다. 시민이란 무엇인가?...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024110702259563.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
