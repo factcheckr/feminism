@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Dec 2024 11:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 12:29:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘여성에 대한 통제’를 기반으로 굴러가는 성매매 산업]]></title>
+            <link>https://ildaro.com/10061</link>
+            <guid>https://ildaro.com/10061</guid>
+            <pubDate>Tue, 03 Dec 2024 12:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[‘원래’ 유흥업소 종사 여성인가, 강압으로 원치 않는 일을 한 것인가가 판단의 분기점으로 작동하는 것을 보며, ‘창녀/성녀’ 구분을 통한 여성 전반에 대한 규율이...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024120313033941.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘장애인을 도와야 한다’는 생각은 구시대적이야]]></title>
             <link>https://ildaro.com/10060</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 09 Nov 2024 06:17:58 GMT</pubDate>
             <content:encoded><![CDATA[There is a packaging section in the back where farmers can bring their produce and decide on the weight and amount....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024110942303954.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑 영화가 아닌 돌봄에 관한 영화였다]]></title>
-            <link>https://ildaro.com/10041</link>
-            <guid>https://ildaro.com/10041</guid>
-            <pubDate>Fri, 08 Nov 2024 09:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[질병과 장애를 가진 여성이 세상을 살아나가는 방식에 대해 수많은 고민거리를 던지는 영화다. 그리고 묻고 싶다. 사랑이란 무엇인가. 우리는 어떤 사랑을 원하는가....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024110809077099.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
