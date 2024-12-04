@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Dec 2024 22:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Dec 2024 23:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024년을 빛낸 '올해의 여성들']]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1987</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1987</guid>
+            <pubDate>Wed, 04 Dec 2024 23:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[이번 레터에선 BBC가 선정한 '올해의 여성 100인' 중 실제로 '전시·사변 또는 이에 준하는 국가비상사태'를 살아내는 분들을 소개해보려고 합니다. 민주주의, 여성 교육권 등을 지켜내기 위해 훨씬 더 많은 위험을 감수하고 용기를 내고 있을 테니까요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/c10dd16b-8783-4bbe-82a0-881db8fc6d07.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA['비혼 출산'을 논하려면]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1976</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 12 Aug 2024 23:14:20 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 뉴스가 아닌 저의 잡다한 수다로 본문을 메우려 합니다. 왜냐하면, 리뉴얼에 들어가기 전 마지막 뉴스레터이기 때문이죠! 가장 중요한 본론부터 말씀드리자면, '이혜미의 허스펙티브'는 오늘 뉴스레터를 마지막으로 문을 닫습니다.......]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/8b5a2be5-c7a2-4b53-986a-8f90352fa10e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고위 간부가 된 여성들의 이 비법]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1853</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1853</guid>
-            <pubDate>Mon, 05 Aug 2024 23:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[파리 올림픽은 특히 역사상 처음으로 남녀 선수가 동등한 비율로 참여하는 '성평등 올림픽'이라는 점에서 주목을 받고 있는데요. 오늘은 유엔여성기구의 자료를 토대로, 우리가 조금 더 알아야 할 여성 스포츠에 관한 5가지 사실을 소개할게요.&nbsp;]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/99c84daf-5f81-4a2e-ab01-ffd22b956f5c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
