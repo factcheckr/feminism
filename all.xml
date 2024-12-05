@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Dec 2024 03:01:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 03:38:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[미완의 1980, 밝혀야 할 2024 (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/article/202412051009001</link>
             <guid>https://www.khan.co.kr/article/202412051009001</guid>
-            <pubDate>Thu, 05 Dec 2024 03:01:07 GMT</pubDate>
+            <pubDate>Thu, 05 Dec 2024 03:00:25 GMT</pubDate>
             <content:encoded><![CDATA[<div class="thumb">
                                         <picture>
                                             <source type="image/webp" srcset="https://img.khan.co.kr/news/c/190x140/2024/12/05/news-p.v1.20241205.f99dfb7b99ff4dda9fdf9a35ce6d3469_P1.webp" loading="lazy">
@@ -182,7 +182,7 @@
                                         <h2 class="tit">
                                             <a href="https://www.khan.co.kr/article/202412051009001" onclick="sendGAAttrEvent(event);" title="미완의 1980, 밝혀야 할 2024 [플랫]" ep_event_page="pc_list_common" ep_event_area="플랫_기사" ep_event_label="미완의 1980, 밝혀야 할 2024 [플랫]">미완의 1980, 밝혀야 할 2024</a>
                                         </h2>
-                                        <span class="byline">1시간 전</span>
+                                        <span class="byline">2시간 전</span>
                                         <span class="lead line_clamp2">정부 수립 이래 가장 길었던 계엄은 1979년 10월27일부터 440일간 지속된 비상계엄이다. 신군부 세력의 군사쿠데타로 시작된 계엄은 5·18이라는 비극을 불러왔다. 과거처럼 보였던 ‘역사’가 ‘현실’로 들어온 것은 지난 4월 44년 만에 5·18 당시 계엄군 등으로부터 성폭력을 당한 피해자들이 처음 만나는 자리를 취재하면서다. 여전히 일상에서 계엄의 시대를 지우지 못한 사람들을 만났기 때문이다. 계엄군 여럿에게 강간을 당한 피해자는 아직도 계엄군이 입고 있던 얼룩무늬 군복만 보면 속이 울렁거리고, 그때 맡았던 술 냄새, 땀 냄새와 비슷한 냄새를 맡으면 구토한다고 했다.1981년 해제됐던 계엄령이 2024년 다시 선포됐다. 스웨덴에서 열릴 한강 작가의 노벨 문학상 시상식을 일주일 앞두고 윤석열 대통령은 광주의 상처를 들춰냈고 ‘친위쿠데타’나 다름없는 ‘비상계엄’을 선포해 한국의 민주주의를 후퇴시키려 했다. 국회 본청 진입을 시도한 계엄군에 1979년 12·12 군사반란 당...</span>
                                     </div>]]></content:encoded>
         </item>
@@ -438,6 +438,14 @@
             <enclosure url="https://image.hankookilbo.com/board/8b5a2be5-c7a2-4b53-986a-8f90352fa10e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[재일조선인 모녀 감독이 ‘기록투쟁’으로 되살린 목소리 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10062</link>
+            <guid>https://ildaro.com/10062</guid>
+            <pubDate>Thu, 05 Dec 2024 00:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[기록영화의 힘이란 이런 것이 아닐까. 우리가 이 사회를 건설한다는 핑계로 잊어버렸던, 피해의 증언들을 정성스럽게 끌어올려 다시 상기시키는 것....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024120523574882.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘여성에 대한 통제’를 기반으로 굴러가는 성매매 산업 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10061</link>
             <guid>https://ildaro.com/10061</guid>
@@ -588,14 +596,6 @@
             <pubDate>Sun, 10 Nov 2024 10:07:00 GMT</pubDate>
             <content:encoded><![CDATA[“피해자가 피해 사실을 조금이라도 털어놓았을 때 주변에서 가볍게 듣고 넘기지 않고 진지하게 반응한다면, 피해자의 상황 인지도 더 뚜렷해지고 이후의 대응 경험도...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024111015468847.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A Solution for the Climate Crisis: “Being Aware that We are Connected” (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10042</link>
-            <guid>https://ildaro.com/10042</guid>
-            <pubDate>Sat, 09 Nov 2024 06:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[There is a packaging section in the back where farmers can bring their produce and decide on the weight and amount....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024110942303954.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

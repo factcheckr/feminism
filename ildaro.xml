@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Dec 2024 03:01:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 03:38:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재일조선인 모녀 감독이 ‘기록투쟁’으로 되살린 목소리]]></title>
+            <link>https://ildaro.com/10062</link>
+            <guid>https://ildaro.com/10062</guid>
+            <pubDate>Thu, 05 Dec 2024 00:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[기록영화의 힘이란 이런 것이 아닐까. 우리가 이 사회를 건설한다는 핑계로 잊어버렸던, 피해의 증언들을 정성스럽게 끌어올려 다시 상기시키는 것....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024120523574882.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘여성에 대한 통제’를 기반으로 굴러가는 성매매 산업]]></title>
             <link>https://ildaro.com/10061</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 10 Nov 2024 10:07:00 GMT</pubDate>
             <content:encoded><![CDATA[“피해자가 피해 사실을 조금이라도 털어놓았을 때 주변에서 가볍게 듣고 넘기지 않고 진지하게 반응한다면, 피해자의 상황 인지도 더 뚜렷해지고 이후의 대응 경험도...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024111015468847.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A Solution for the Climate Crisis: “Being Aware that We are Connected”]]></title>
-            <link>https://ildaro.com/10042</link>
-            <guid>https://ildaro.com/10042</guid>
-            <pubDate>Sat, 09 Nov 2024 06:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[There is a packaging section in the back where farmers can bring their produce and decide on the weight and amount....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024110942303954.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
