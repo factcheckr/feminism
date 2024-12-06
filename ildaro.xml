@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Dec 2024 07:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Dec 2024 08:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘폭주하는 남성성’ 尹대통령을 여성시민들이 파면한다]]></title>
+            <link>https://ildaro.com/10063</link>
+            <guid>https://ildaro.com/10063</guid>
+            <pubDate>Fri, 06 Dec 2024 08:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[“우리 사회가 해결하지 못한 성차별, 혐오, 폭력의 문제가 ‘폭주하는 남성성’, ‘폭주하는 제왕 대통령’으로 나타난 현실을 우리가 막읍시다!”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024120644186442.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재일조선인 모녀 감독이 ‘기록투쟁’으로 되살린 목소리]]></title>
             <link>https://ildaro.com/10062</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 12 Nov 2024 09:30:00 GMT</pubDate>
             <content:encoded><![CDATA[어느 날 그들이 “인도 카레가 먹고 싶다”고 하기에 “그럼 같이 기획하자”고 제안. 함께 준비를 해나가는 과정에서 노인들과 인도의 육아 세대가 처음으로 어울리...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024111243533430.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온라인으로 확산된 스토킹, ‘끝이 없다’는 느낌…]]></title>
-            <link>https://ildaro.com/10043</link>
-            <guid>https://ildaro.com/10043</guid>
-            <pubDate>Sun, 10 Nov 2024 10:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[“피해자가 피해 사실을 조금이라도 털어놓았을 때 주변에서 가볍게 듣고 넘기지 않고 진지하게 반응한다면, 피해자의 상황 인지도 더 뚜렷해지고 이후의 대응 경험도...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024111015468847.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
