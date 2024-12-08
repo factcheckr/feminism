@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Dec 2024 04:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Dec 2024 05:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,6 +438,14 @@
             <enclosure url="https://image.hankookilbo.com/board/8b5a2be5-c7a2-4b53-986a-8f90352fa10e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[카말라 해리스와 유리절벽 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10064</link>
+            <guid>https://ildaro.com/10064</guid>
+            <pubDate>Sun, 08 Dec 2024 05:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[〈젠더와 정치〉 수업의 종강일. 이번 학기의 마지막 질문을 던졌다. “이번 선거 결과 때문에 미국에서 여성 대통령이 나오는 것이 더 어려워질까요?”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024120829428502.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘폭주하는 남성성’ 尹대통령을 여성시민들이 파면한다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10063</link>
             <guid>https://ildaro.com/10063</guid>
@@ -588,14 +596,6 @@
             <pubDate>Wed, 13 Nov 2024 10:44:00 GMT</pubDate>
             <content:encoded><![CDATA[이제는 꿀벌이 줄어 사람이 손으로 직접 수분(受粉)을 하는 시대가 되어버렸다. 그리고 곤충을 비롯한 생물 종의 감소에 대한 심각한 징후는 세계 곳곳에서 감지되고 ...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024111354214561.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노인, 아이, 외국인이 ‘공생’하는 단지를 만들어요 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10044</link>
-            <guid>https://ildaro.com/10044</guid>
-            <pubDate>Tue, 12 Nov 2024 09:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[어느 날 그들이 “인도 카레가 먹고 싶다”고 하기에 “그럼 같이 기획하자”고 제안. 함께 준비를 해나가는 과정에서 노인들과 인도의 육아 세대가 처음으로 어울리...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024111243533430.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
