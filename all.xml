@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Dec 2024 01:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 03:04:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,6 +438,14 @@
             <enclosure url="https://image.hankookilbo.com/board/8b5a2be5-c7a2-4b53-986a-8f90352fa10e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Our Daughter Has Two Moms and It’s Time for Our Family to be Legally Recognized (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10065</link>
+            <guid>https://ildaro.com/10065</guid>
+            <pubDate>Mon, 09 Dec 2024 11:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[A lawsuit raising the possibility for marriage equality in Korea will begin on October 10, 2024....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024120950291666.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[카말라 해리스와 유리절벽 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10064</link>
             <guid>https://ildaro.com/10064</guid>
@@ -588,14 +596,6 @@
             <pubDate>Thu, 14 Nov 2024 11:12:49 GMT</pubDate>
             <content:encoded><![CDATA[많은 사람이 자신의 섹슈얼리티를 자원화하는 여성을 향해 ‘음지에 머물라’고 말한다. 이러한 사회적 처벌은 실제 (성매매 여성이든 아니든) 여성들을 옭아매는 장...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024111432136268.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야생의 감각, 자연의 눈으로 세상을 봐 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10045</link>
-            <guid>https://ildaro.com/10045</guid>
-            <pubDate>Wed, 13 Nov 2024 10:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[이제는 꿀벌이 줄어 사람이 손으로 직접 수분(受粉)을 하는 시대가 되어버렸다. 그리고 곤충을 비롯한 생물 종의 감소에 대한 심각한 징후는 세계 곳곳에서 감지되고 ...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024111354214561.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
