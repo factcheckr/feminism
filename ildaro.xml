@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Dec 2024 13:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Dec 2024 14:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2030 여성들이 민주주의 정치의 ‘주체’임을 잊지 말라]]></title>
+            <link>https://ildaro.com/10067</link>
+            <guid>https://ildaro.com/10067</guid>
+            <pubDate>Wed, 11 Dec 2024 14:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[남성만을 위한 민주주의는 위험하며, 반드시 실패한다는 사실을 기억하라. 여기, 민주주의를 위해 여성들이 있었고 앞으로도 있을 것이다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024121137557320.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[단지 또 하나의 공학이 탄생하는 게 무슨 의미인가?]]></title>
             <link>https://ildaro.com/10066</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 17 Nov 2024 08:22:00 GMT</pubDate>
             <content:encoded><![CDATA[20년 전부터 줄기차게 각종 연구기관에서 자격증 제도와 이와 연동된 교육훈련, 업무의 표준화를 제안했지만 아직 이루어지지 않았다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024111729498734.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로션부터 립밤과 선크림까지 ‘바르는’ 경제]]></title>
-            <link>https://ildaro.com/10047</link>
-            <guid>https://ildaro.com/10047</guid>
-            <pubDate>Sat, 16 Nov 2024 08:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[주로 사용하는 바디로션에는 펌프가 있다. 언니가 이사 가면서 주고 간 바디로션이다. 펌프형은 끝까지 쓰기 정말 곤란하다. 내 돈으로 산다면 나는 항상 단지형으로 ...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024111624152650.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
