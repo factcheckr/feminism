@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Dec 2024 22:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Dec 2024 23:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안티 페미 대통령의 말로]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1997</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1997</guid>
+            <pubDate>Wed, 11 Dec 2024 23:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[왜 여성 청년이 유독 광장에 많이 모였을까. "차별과 혐오를 부끄러워하지 않는 윤 대통령에 대한 그들의 분노가 가장 크기 때문"이라고 한국일보 최문선 논설위원은 짚습니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/f6b6fd56-8379-4ec5-b15f-ea8807ad2200.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2024년을 빛낸 '올해의 여성들']]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1987</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 09 Oct 2024 23:15:39 GMT</pubDate>
             <content:encoded><![CDATA[녕하세요. 뉴스레터 허스펙티브입니다. 2024년 10월 10일, 설레는 마음으로 여러분에게 메일을 띄웁니다. 오늘 뉴스레터는 앞으로 매주 허스펙티브 뉴스레터를 통해 찾아갈 기자들을 소개하는 내용으로 채웁니다. 오랫동안 기다려주셔서 정말 감사합니다!&nbsp;]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/69c0e661-6c6b-4c97-9ee0-73b730d41f70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성들은 과연 연대할 수 있을까]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1861</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1861</guid>
-            <pubDate>Mon, 12 Aug 2024 23:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 뉴스가 아닌 저의 잡다한 수다로 본문을 메우려 합니다. 왜냐하면, 리뉴얼에 들어가기 전 마지막 뉴스레터이기 때문이죠! 가장 중요한 본론부터 말씀드리자면, '이혜미의 허스펙티브'는 오늘 뉴스레터를 마지막으로 문을 닫습니다.......]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/8b5a2be5-c7a2-4b53-986a-8f90352fa10e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
