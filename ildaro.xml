@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Dec 2024 07:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 08:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탄핵을 촉구한다…그러나 탄핵만 원하는 건 아니다]]></title>
+            <link>https://ildaro.com/10068</link>
+            <guid>https://ildaro.com/10068</guid>
+            <pubDate>Fri, 13 Dec 2024 08:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[우리는 대통령 탄핵을 이미 경험해본 바 있는 시민들이다. ‘탄핵 이후 사회’라는 것을 체험한 시민들이다. 그렇다면 이번에는 달라야 하고, 우리도 분명 달라져야 한...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024121333544565.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2030 여성들이 민주주의 정치의 ‘주체’임을 잊지 말라]]></title>
             <link>https://ildaro.com/10067</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 19 Nov 2024 10:42:00 GMT</pubDate>
             <content:encoded><![CDATA[‘제주에서 사용되는 물은 천연 암반을 따라 정수된 지하수라는데, 왜 제주 사람들조차 플라스틱병에 담긴 생수를 사서 마실까?’...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024111951584832.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대우받는 노동이 질 높은 돌봄을 보장할 수밖에]]></title>
-            <link>https://ildaro.com/10048</link>
-            <guid>https://ildaro.com/10048</guid>
-            <pubDate>Sun, 17 Nov 2024 08:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[20년 전부터 줄기차게 각종 연구기관에서 자격증 제도와 이와 연동된 교육훈련, 업무의 표준화를 제안했지만 아직 이루어지지 않았다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024111729498734.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
