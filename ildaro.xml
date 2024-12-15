@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Dec 2024 03:07:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Dec 2024 04:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“노동자들은 이미 비상계엄 상황이었다”]]></title>
+            <link>https://ildaro.com/10069</link>
+            <guid>https://ildaro.com/10069</guid>
+            <pubDate>Sun, 15 Dec 2024 00:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[거리에 사람들로 가득하다. 박근혜 탄핵 집회를 떠올리면 무척 익숙한 풍경이고, 근 몇 년의 비정규직 투쟁을 떠올리면 매우 생경한 풍경이다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/202412150724697.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[탄핵을 촉구한다…그러나 탄핵만 원하는 건 아니다]]></title>
             <link>https://ildaro.com/10068</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 20 Nov 2024 00:50:00 GMT</pubDate>
             <content:encoded><![CDATA[I’m so thankful to the female activists who stand beside me and defend our position stoutly, and I think that I must do the same....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024112059212155.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[물은 원래 ‘지구별’ 것이니까]]></title>
-            <link>https://ildaro.com/10049</link>
-            <guid>https://ildaro.com/10049</guid>
-            <pubDate>Tue, 19 Nov 2024 10:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘제주에서 사용되는 물은 천연 암반을 따라 정수된 지하수라는데, 왜 제주 사람들조차 플라스틱병에 담긴 생수를 사서 마실까?’...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024111951584832.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
