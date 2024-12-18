@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Dec 2024 10:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 11:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세상을 바꾸는 모든 여자를 응원해]]></title>
+            <link>https://ildaro.com/10072</link>
+            <guid>https://ildaro.com/10072</guid>
+            <pubDate>Wed, 18 Dec 2024 11:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[언론사 보도국은 비상계엄 관련 비상 체제로 전환했다. 직전까지 하던 ‘보도를 통해 세상을 바꿀 수 있을까?’와 같은 평생 숙제같던 고민이 멈춘 밤이었다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024121829178239.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성매매 산업에 왜 종사하고 있나요?]]></title>
             <link>https://ildaro.com/10071</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 23 Nov 2024 10:36:00 GMT</pubDate>
             <content:encoded><![CDATA[나는 특히 아이가 혼자 무서운 밤을 통과하는 장면을 주목하게 된다. 그 장면에서 아이는 숨 쉴 틈 없이 꽉 찬 어둠 속에 혼자 덩그러니 앉아 있다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024112341507520.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팀 활동과 연주로 여성들의 자존감 높이는 음악캠프]]></title>
-            <link>https://ildaro.com/10052</link>
-            <guid>https://ildaro.com/10052</guid>
-            <pubDate>Fri, 22 Nov 2024 11:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[악기를 처음 만져보는 여성들이 그날 만난 멤버들과 밴드를 꾸려 하루를 지내고, 캠프 마지막에는 라이브 연주를 실현한다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024112254492945.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
