@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Dec 2024 22:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 23:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여성이 많았던 건 우연이 아니다]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/2007</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/2007</guid>
+            <pubDate>Wed, 18 Dec 2024 23:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령 탄핵안 가결을 환영하는 여성 단체들의 입장문을 소개합니다. 젊은 여성이 국가 의제에 앞장서는 일이 당연해지는 그날까지, 이 문장들에 힘입어 나아가자고요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/d05f0712-29bf-4e4c-929a-f24191a97459.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[안티 페미 대통령의 말로]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1997</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Oct 2024 23:14:40 GMT</pubDate>
             <content:encoded><![CDATA[한강 작가님의 수상은 ‘한국인 최초’, ‘아시아 여성 최초’라는 수식어만으로도 빛나는 성취인데요. 하지만 한국에 사는 30대 여성인 제게는 우리나라 노벨문학상 수상의 포문을 연 작가가 ①70~80대 남성 원로 작가가 아닌 비교적 젊은 50대 중반 여성 작가인 점 ②'가부장제·여성혐오를 향한 저항'을 작품을 통해 말해 온 작가인 점 ③중층의 '소수자성'을 상징하는 동시에 사회적 약자와 연대해 온 작가인 점이 특히 더&nbsp;뜻깊고 벅차게 느껴지더라고요.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/19e1dcd7-da06-4e2d-a168-78090a4da380.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[약속의 날, 10월 10일]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1906</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1906</guid>
-            <pubDate>Wed, 09 Oct 2024 23:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[녕하세요. 뉴스레터 허스펙티브입니다. 2024년 10월 10일, 설레는 마음으로 여러분에게 메일을 띄웁니다. 오늘 뉴스레터는 앞으로 매주 허스펙티브 뉴스레터를 통해 찾아갈 기자들을 소개하는 내용으로 채웁니다. 오랫동안 기다려주셔서 정말 감사합니다!&nbsp;]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/69c0e661-6c6b-4c97-9ee0-73b730d41f70.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
