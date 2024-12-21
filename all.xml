@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Dec 2024 06:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Dec 2024 07:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,6 +438,14 @@
             <enclosure url="https://image.hankookilbo.com/board/19e1dcd7-da06-4e2d-a168-78090a4da380.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[퀴어를 위한 장소와 지지그룹이 만들어가는 변화 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10074</link>
+            <guid>https://ildaro.com/10074</guid>
+            <pubDate>Sat, 21 Dec 2024 07:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[“프라이드 하우스 도쿄 레거시”는 도쿄를 대표하는 부도심 중 하나이자 도쿄의 중심인 신주쿠에 위치하고 있다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024122153172688.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘여기’서 살기 위해, 열린 광장을 만드는 페미니스트들 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10073</link>
             <guid>https://ildaro.com/10073</guid>
@@ -588,14 +596,6 @@
             <pubDate>Tue, 26 Nov 2024 10:25:00 GMT</pubDate>
             <content:encoded><![CDATA[인류는 성공의 경험이 있습니다. 미나마타 협약을 통해 수은의 생산, 거래, 사용을 대폭 줄였고, 몬트리올 의정서를 통해 프레온 가스를 규제해서, 오존층이 다시 두꺼...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024112633056321.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[질병이 생기면 쉴 수 있는 ‘상병수당’ 보편적 제도되길 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10054</link>
-            <guid>https://ildaro.com/10054</guid>
-            <pubDate>Sun, 24 Nov 2024 11:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[항암치료를 오래 받았다는 한 참여자는 상병수당에 대한 설명을 듣자마자, 만약 상병수당이 있었다면 자신은 암에 걸리지 않았을지도 모른다고 했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/202411240015419.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
