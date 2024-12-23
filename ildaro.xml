@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 01:05:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 02:49:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열은 방 빼고, 나는 방 뺄 수 없고]]></title>
+            <link>https://ildaro.com/10075</link>
+            <guid>https://ildaro.com/10075</guid>
+            <pubDate>Mon, 23 Dec 2024 11:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[“급박한 시기라서 이런 얘기하기가 좀 그렇지만… 임대인이 보증금 떼먹었어요”  대통령을 탄핵하는 일과 내 보증금 떼인 일 중에 무엇이 더 급박한 일일까?...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024122311496639.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[퀴어를 위한 장소와 지지그룹이 만들어가는 변화]]></title>
             <link>https://ildaro.com/10074</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 27 Nov 2024 11:13:51 GMT</pubDate>
             <content:encoded><![CDATA[(피해자가) 언제고 가해자를 고소할 수 있는 마음을 먹을 수 있도록, 단단한 심리적 골격을 갖출 때까지, 부러진 마음의 뼈가 다시 붙을 때까지 기다려 주는 시간이 필...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024112741062184.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리가 플라스틱에 대해 모르거나 잘못 알고 있는 것들]]></title>
-            <link>https://ildaro.com/10055</link>
-            <guid>https://ildaro.com/10055</guid>
-            <pubDate>Tue, 26 Nov 2024 10:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[인류는 성공의 경험이 있습니다. 미나마타 협약을 통해 수은의 생산, 거래, 사용을 대폭 줄였고, 몬트리올 의정서를 통해 프레온 가스를 규제해서, 오존층이 다시 두꺼...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024112633056321.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
