@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Dec 2024 02:46:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Dec 2024 03:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,6 +438,14 @@
             <enclosure url="https://image.hankookilbo.com/board/19e1dcd7-da06-4e2d-a168-78090a4da380.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Is a “City Where Poor People are Invisible” the Future of Development? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10076</link>
+            <guid>https://ildaro.com/10076</guid>
+            <pubDate>Tue, 24 Dec 2024 11:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[Currently we are protesting against the budget cuts to public rental housing. We’re calling it ‘Bring Out the Public Rental Housing.’...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024122447156411.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤석열은 방 빼고, 나는 방 뺄 수 없고 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10075</link>
             <guid>https://ildaro.com/10075</guid>
@@ -588,14 +596,6 @@
             <pubDate>Fri, 29 Nov 2024 11:13:22 GMT</pubDate>
             <content:encoded><![CDATA[“가정폭력이 피해자의 삶에 오랜 기간 미치는 부정적인 영향을 ‘주거취약 요인’으로 고려하여, ‘저렴한 주거’ 공급이 필요하다”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024112942382119.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘공소시효 없애라’ 친족성폭력 생존자들이 외치고 있어 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10056</link>
-            <guid>https://ildaro.com/10056</guid>
-            <pubDate>Wed, 27 Nov 2024 11:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[(피해자가) 언제고 가해자를 고소할 수 있는 마음을 먹을 수 있도록, 단단한 심리적 골격을 갖출 때까지, 부러진 마음의 뼈가 다시 붙을 때까지 기다려 주는 시간이 필...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/2024112741062184.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
