@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Dec 2024 06:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2024 07:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“K팝 플라스틱 앨범 과잉생산과 폐기” 계속 항의할 것]]></title>
+            <link>https://ildaro.com/10078</link>
+            <guid>https://ildaro.com/10078</guid>
+            <pubDate>Thu, 26 Dec 2024 07:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[케이팝포플래닛은 팬들에게 앨범 중복 구매를 조장하는 마케팅 상술을 중단하고, 앨범 관련 온실가스 배출량을 공개하고 감축 계획을 세울 것을 4대 엔터사에 요구하...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024122645491321.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[광장에서 떠올린 “내가 아는 기쁨의 이름들”]]></title>
             <link>https://ildaro.com/10077</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 01 Dec 2024 05:15:55 GMT</pubDate>
             <content:encoded><![CDATA[The label “family” always came with responsibilities, not born out of love but self-guilt. What I wanted to protect wasn’t patriarchal practices or others’ well-being but myself....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024120145228964.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돌봄 사회, 구체적으로 무엇이 바뀌어야 할까?]]></title>
-            <link>https://ildaro.com/10058</link>
-            <guid>https://ildaro.com/10058</guid>
-            <pubDate>Sat, 30 Nov 2024 07:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[‘공적돌봄’을 주장하는 한 명의 사회복지사로서, 회사가 해산되며 노동자들이 일터를 떠나고 서울시의 공적돌봄 시도가 종료되어가는 일련의 과정을 지켜보며 좌절...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202411/202411300826827.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
