@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Dec 2024 10:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2024 11:12:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,6 +438,14 @@
             <enclosure url="https://image.hankookilbo.com/board/19e1dcd7-da06-4e2d-a168-78090a4da380.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[성적 권리로서 ‘동의’를 말한다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10082</link>
+            <guid>https://ildaro.com/10082</guid>
+            <pubDate>Tue, 31 Dec 2024 11:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[어느 여성의 경험이든 동의/비동의라는 이분법의 세계에 딱 들어맞지 않았다. 그리고 모두 어떠한 사회문화적, 경제적 처지에 따른 영향을 받지 않는 자율적 개인의 모...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024123116035577.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여성의 몸을 ‘모체’로 보는 법, 이상하지 않나요? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10081</link>
             <guid>https://ildaro.com/10081</guid>
@@ -588,14 +596,6 @@
             <pubDate>Fri, 06 Dec 2024 08:20:48 GMT</pubDate>
             <content:encoded><![CDATA[“우리 사회가 해결하지 못한 성차별, 혐오, 폭력의 문제가 ‘폭주하는 남성성’, ‘폭주하는 제왕 대통령’으로 나타난 현실을 우리가 막읍시다!”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024120644186442.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재일조선인 모녀 감독이 ‘기록투쟁’으로 되살린 목소리 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10062</link>
-            <guid>https://ildaro.com/10062</guid>
-            <pubDate>Thu, 05 Dec 2024 00:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[기록영화의 힘이란 이런 것이 아닐까. 우리가 이 사회를 건설한다는 핑계로 잊어버렸던, 피해의 증언들을 정성스럽게 끌어올려 다시 상기시키는 것....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024120523574882.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
