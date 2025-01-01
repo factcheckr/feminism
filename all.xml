@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jan 2025 22:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jan 2025 23:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -358,6 +358,14 @@
                                     </div>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[새해를 밝힌 남태령의 '기적' (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/2015</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/2015</guid>
+            <pubDate>Wed, 01 Jan 2025 23:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[전처럼 떠들썩한 송년회도, 연말 행사도 없이 조용하게 한해를 마무리하면서 다들 마음이 가라앉으셨을 것 같아요. 그런 시기를 유일하게 밝히는 촛불, 아니 응원봉과 같은 뉴스가 바로 '남태령 시위' 소식이 아니었을까 싶습니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/7021b2d5-f457-4f11-a291-553d4b50dc45.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[여성이 많았던 건 우연이 아니다 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/2007</link>
             <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/2007</guid>
@@ -428,14 +436,6 @@
             <pubDate>Wed, 23 Oct 2024 23:15:06 GMT</pubDate>
             <content:encoded><![CDATA[딥페이크(인공지능 기반 이미지 합성) 성 착취 범죄가 본격적으로 공론화된 지 2개월여가 지났습니다. 새로 시행된 '딥페이크 처벌법'으로 우리는 일상을 되찾을 수 있을지, 정부는 딥페이크 현황을 잘 파악하고 있는지 살펴보겠습니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/2cb77510-7f1b-4a60-9324-7fe16b4ce682.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세상이 '미친 여자'라고 불러도 (한국일보 ─ 뉴스레터 ─ 허스토리)]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1921</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1921</guid>
-            <pubDate>Wed, 16 Oct 2024 23:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[한강 작가님의 수상은 ‘한국인 최초’, ‘아시아 여성 최초’라는 수식어만으로도 빛나는 성취인데요. 하지만 한국에 사는 30대 여성인 제게는 우리나라 노벨문학상 수상의 포문을 연 작가가 ①70~80대 남성 원로 작가가 아닌 비교적 젊은 50대 중반 여성 작가인 점 ②'가부장제·여성혐오를 향한 저항'을 작품을 통해 말해 온 작가인 점 ③중층의 '소수자성'을 상징하는 동시에 사회적 약자와 연대해 온 작가인 점이 특히 더&nbsp;뜻깊고 벅차게 느껴지더라고요.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/19e1dcd7-da06-4e2d-a168-78090a4da380.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지속가능한 플라스틱 지구는 없다 (일다 ─ 전체기사)]]></title>
