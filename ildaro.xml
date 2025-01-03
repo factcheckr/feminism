@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jan 2025 06:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jan 2025 07:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Why Are Homeless Women Invisible?]]></title>
+            <link>https://ildaro.com/10084</link>
+            <guid>https://ildaro.com/10084</guid>
+            <pubDate>Fri, 03 Jan 2025 07:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[Why have homeless women’s stories hardly ever been told? Is it because there didn’t used to be any homeless women? The answer is “no.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025010323324435.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지속가능한 플라스틱 지구는 없다]]></title>
             <link>https://ildaro.com/10083</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 09 Dec 2024 11:38:00 GMT</pubDate>
             <content:encoded><![CDATA[A lawsuit raising the possibility for marriage equality in Korea will begin on October 10, 2024....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024120950291666.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카말라 해리스와 유리절벽]]></title>
-            <link>https://ildaro.com/10064</link>
-            <guid>https://ildaro.com/10064</guid>
-            <pubDate>Sun, 08 Dec 2024 05:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[〈젠더와 정치〉 수업의 종강일. 이번 학기의 마지막 질문을 던졌다. “이번 선거 결과 때문에 미국에서 여성 대통령이 나오는 것이 더 어려워질까요?”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024120829428502.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
