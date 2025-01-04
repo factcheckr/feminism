@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jan 2025 04:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jan 2025 05:13:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,6 +438,14 @@
             <enclosure url="https://image.hankookilbo.com/board/2cb77510-7f1b-4a60-9324-7fe16b4ce682.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[‘남태령 대첩’ 이후, 여성과 소수자가 열어갈 세상 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10085</link>
+            <guid>https://ildaro.com/10085</guid>
+            <pubDate>Sat, 04 Jan 2025 05:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[전국농민회총연맹 하원오 의장은 “혐오와 차별 속에 주류사회에서 배제되어온 여성, 성소수자, 청소년, 노인, 도시빈민, 농민이 만든 승리”라며 고맙고, 또 고맙다고...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025010417426817.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Why Are Homeless Women Invisible? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10084</link>
             <guid>https://ildaro.com/10084</guid>
@@ -588,14 +596,6 @@
             <pubDate>Tue, 10 Dec 2024 10:42:00 GMT</pubDate>
             <content:encoded><![CDATA[여성의 공간이 소멸되고, 기계적인 남녀 평등만이 정답이며, 교육자가 압도적으로 남성인, 단지 또 하나의 공학이 탄생하는 것에 그친다면 여대의 공학 전환은 아무런...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024121051457445.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Our Daughter Has Two Moms and It’s Time for Our Family to be Legally Recognized (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10065</link>
-            <guid>https://ildaro.com/10065</guid>
-            <pubDate>Mon, 09 Dec 2024 11:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[A lawsuit raising the possibility for marriage equality in Korea will begin on October 10, 2024....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024120950291666.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
