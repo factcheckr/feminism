@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jan 2025 23:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jan 2025 01:06:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,6 +438,14 @@
             <enclosure url="https://image.hankookilbo.com/board/2cb77510-7f1b-4a60-9324-7fe16b4ce682.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[당사자 자조모임과 ‘동료’가 왜 중요하냐고요? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10086</link>
+            <guid>https://ildaro.com/10086</guid>
+            <pubDate>Mon, 06 Jan 2025 08:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[섭식장애 당사자 자조모임이 대부분 가지고 있는 규칙은 “말한 채로 들은 채로”라고 한다. 말한 채로 들은 채로는 평가를 하지 않고 그저 순서대로 자신의 이야기를...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025010649006488.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘남태령 대첩’ 이후, 여성과 소수자가 열어갈 세상 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10085</link>
             <guid>https://ildaro.com/10085</guid>
@@ -588,14 +596,6 @@
             <pubDate>Wed, 11 Dec 2024 14:15:29 GMT</pubDate>
             <content:encoded><![CDATA[남성만을 위한 민주주의는 위험하며, 반드시 실패한다는 사실을 기억하라. 여기, 민주주의를 위해 여성들이 있었고 앞으로도 있을 것이다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024121137557320.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단지 또 하나의 공학이 탄생하는 게 무슨 의미인가? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10066</link>
-            <guid>https://ildaro.com/10066</guid>
-            <pubDate>Tue, 10 Dec 2024 10:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[여성의 공간이 소멸되고, 기계적인 남녀 평등만이 정답이며, 교육자가 압도적으로 남성인, 단지 또 하나의 공학이 탄생하는 것에 그친다면 여대의 공학 전환은 아무런...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024121051457445.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
