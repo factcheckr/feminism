@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jan 2025 03:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jan 2025 04:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내 쓰레기통에서 가장 큰 부피를 차지하는 것은]]></title>
+            <link>https://ildaro.com/10087</link>
+            <guid>https://ildaro.com/10087</guid>
+            <pubDate>Tue, 07 Jan 2025 00:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[내 도시 생활에 관한 이야기가 끝났다. 총계를 내자면, 나는 1년에 플라스틱이 들어간 물건을 사는 데 521,700원을 사용한다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025010724054825.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당사자 자조모임과 ‘동료’가 왜 중요하냐고요?]]></title>
             <link>https://ildaro.com/10086</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 13 Dec 2024 08:20:51 GMT</pubDate>
             <content:encoded><![CDATA[우리는 대통령 탄핵을 이미 경험해본 바 있는 시민들이다. ‘탄핵 이후 사회’라는 것을 체험한 시민들이다. 그렇다면 이번에는 달라야 하고, 우리도 분명 달라져야 한...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024121333544565.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2030 여성들이 민주주의 정치의 ‘주체’임을 잊지 말라]]></title>
-            <link>https://ildaro.com/10067</link>
-            <guid>https://ildaro.com/10067</guid>
-            <pubDate>Wed, 11 Dec 2024 14:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[남성만을 위한 민주주의는 위험하며, 반드시 실패한다는 사실을 기억하라. 여기, 민주주의를 위해 여성들이 있었고 앞으로도 있을 것이다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024121137557320.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
