@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jan 2025 01:05:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jan 2025 02:45:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해일 앞에서, 우리는 용감한 우정을 나눌 것이다]]></title>
+            <link>https://ildaro.com/10088</link>
+            <guid>https://ildaro.com/10088</guid>
+            <pubDate>Wed, 08 Jan 2025 09:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[“우리가 친구로 시작했고 서로 비슷하기 때문에 갈등하는 것이 더 어려운 것 같아.”라는 민아의 말처럼, 공통점을 찾는 것은 즐거운 일이지만 차이를 마주하는 과정...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025010810586304.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내 쓰레기통에서 가장 큰 부피를 차지하는 것은]]></title>
             <link>https://ildaro.com/10087</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 15 Dec 2024 00:56:00 GMT</pubDate>
             <content:encoded><![CDATA[거리에 사람들로 가득하다. 박근혜 탄핵 집회를 떠올리면 무척 익숙한 풍경이고, 근 몇 년의 비정규직 투쟁을 떠올리면 매우 생경한 풍경이다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/202412150724697.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탄핵을 촉구한다…그러나 탄핵만 원하는 건 아니다]]></title>
-            <link>https://ildaro.com/10068</link>
-            <guid>https://ildaro.com/10068</guid>
-            <pubDate>Fri, 13 Dec 2024 08:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[우리는 대통령 탄핵을 이미 경험해본 바 있는 시민들이다. ‘탄핵 이후 사회’라는 것을 체험한 시민들이다. 그렇다면 이번에는 달라야 하고, 우리도 분명 달라져야 한...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024121333544565.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
