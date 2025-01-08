@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jan 2025 22:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jan 2025 23:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한남동에 모인 키세스들]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/2023</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/2023</guid>
+            <pubDate>Wed, 08 Jan 2025 23:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 허스펙티브 뉴스레터는 4주 연속 '윤석열 퇴진 집회'로 찾아갑니다. 원래는 한두 주면 다른 주제를 다룰 수 있을 줄 알았는데, 이렇게 새해가 되어서도 같은 이야기를 반복할지는 몰랐습니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/7c9d2049-cd9a-495a-9801-720431242b56.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새해를 밝힌 남태령의 '기적']]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/2015</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 30 Oct 2024 23:14:42 GMT</pubDate>
             <content:encoded><![CDATA[갑자기 회개로 시작하니 아침부터 뉴스레터를 잘못 열었나 싶지 않으신가요? 회개도 회개인데, 내용도 뜨악 소리가 나오지요? 시대착오적, 성차별적, 가부장적, 역사 퇴행적... 어떤 표현을 써도 모자랄 정도로 '혐오스러운' 이 기도 내용은 사실 지난 주말 서울 시내를 가득 메운 목소리였습니다. 광화문, 서울시청, 남대문 일대에서 열린 대규모 기도회 '10·27 연합예배'에서 말입니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/5550b74f-727b-4a52-a33f-8cb40a18f4e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국가는 언제까지 공범일까]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1927</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1927</guid>
-            <pubDate>Wed, 23 Oct 2024 23:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[딥페이크(인공지능 기반 이미지 합성) 성 착취 범죄가 본격적으로 공론화된 지 2개월여가 지났습니다. 새로 시행된 '딥페이크 처벌법'으로 우리는 일상을 되찾을 수 있을지, 정부는 딥페이크 현황을 잘 파악하고 있는지 살펴보겠습니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/2cb77510-7f1b-4a60-9324-7fe16b4ce682.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
