@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jan 2025 11:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jan 2025 12:27:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리가 함께 만든 광장, 배제하지 않고 연결되어]]></title>
+            <link>https://ildaro.com/10089</link>
+            <guid>https://ildaro.com/10089</guid>
+            <pubDate>Thu, 09 Jan 2025 12:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[소외되고 어려운 이웃에게 따뜻한 밥 한끼 나눌 수 있는 넉넉한 마음은 있습니다. 그것이 연대의 원천 아니겠습니까? 부족하더라도 꾸준하게 그리고 게으르지 않게 변...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025010954198721.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해일 앞에서, 우리는 용감한 우정을 나눌 것이다]]></title>
             <link>https://ildaro.com/10088</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 16 Dec 2024 06:22:33 GMT</pubDate>
             <content:encoded><![CDATA[외국에서는 불임수술을 받고 아이를 낳지 않는 삶의 방식을 선택할 수 있는데, (일본에 사는) 저에게는 불가능하다는 사실을 알았습니다. 국가가 생식능력을 가지도록...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024121622188024.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“노동자들은 이미 비상계엄 상황이었다”]]></title>
-            <link>https://ildaro.com/10069</link>
-            <guid>https://ildaro.com/10069</guid>
-            <pubDate>Sun, 15 Dec 2024 00:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[거리에 사람들로 가득하다. 박근혜 탄핵 집회를 떠올리면 무척 익숙한 풍경이고, 근 몇 년의 비정규직 투쟁을 떠올리면 매우 생경한 풍경이다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/202412150724697.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
