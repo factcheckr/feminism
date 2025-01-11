@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jan 2025 04:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jan 2025 05:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,6 +438,14 @@
             <enclosure url="https://image.hankookilbo.com/board/5550b74f-727b-4a52-a33f-8cb40a18f4e4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[암 진단받았을 때만 해도 직장을 잃을 줄 몰랐다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10090</link>
+            <guid>https://ildaro.com/10090</guid>
+            <pubDate>Sat, 11 Jan 2025 00:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[암 환자로서의 경험을 공개하면서, 지민은 생각보다 많은 사람들이 암과 같은 중증 질병을 가진 사람을 만난 적이 없다는 사실에 놀랐다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/202501112347133.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우리가 함께 만든 광장, 배제하지 않고 연결되어 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10089</link>
             <guid>https://ildaro.com/10089</guid>
@@ -588,14 +596,6 @@
             <pubDate>Tue, 17 Dec 2024 00:33:00 GMT</pubDate>
             <content:encoded><![CDATA[성매매가 젠더 권력관계로 인해 여성들이 겪는 ‘구조적 폭력’이라는 문제와 함께, 성매매가 여성의 ‘생계’라는 지점 또한 함께 고민해야 할 성매매 문제의 핵심이...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024121740516564.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불임수술 금하는 日 ‘내 몸은 모체가 아니다’ 소송 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10070</link>
-            <guid>https://ildaro.com/10070</guid>
-            <pubDate>Mon, 16 Dec 2024 06:22:33 GMT</pubDate>
-            <content:encoded><![CDATA[외국에서는 불임수술을 받고 아이를 낳지 않는 삶의 방식을 선택할 수 있는데, (일본에 사는) 저에게는 불가능하다는 사실을 알았습니다. 국가가 생식능력을 가지도록...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024121622188024.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
