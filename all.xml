@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jan 2025 03:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jan 2025 04:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,6 +438,14 @@
             <enclosure url="https://image.hankookilbo.com/board/2b07f062-d12a-4026-a293-9cab84f1d0c1.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[‘안부만 나눠도 힘이 돼’ HIV/AIDS 감염인의 서로돌봄 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10096</link>
+            <guid>https://ildaro.com/10096</guid>
+            <pubDate>Sun, 19 Jan 2025 11:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[사람이 아무것도 돌보지 않으면 힘든 거구나 생각하게 된 것 같아요. 반려식물, 반려동물이 됐든, 무언가 덕질하든, 지켜보고 살펴보는 존재가 필요하고 그게 사람을 ...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025011913009020.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘한국 시민사회와 연결되고 싶어’ 찾아온 일본 청년여성들 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10095</link>
             <guid>https://ildaro.com/10095</guid>
@@ -588,14 +596,6 @@
             <pubDate>Wed, 25 Dec 2024 10:56:00 GMT</pubDate>
             <content:encoded><![CDATA[“어쩌면 그곳은 눈을 가늘게 뜨고 한참 바라보아야 비로소 발견할 수 있을지도 몰라요. 아니, 스스로 나서서 만들어야만 하는 곳일지도 모르지요.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024122502411026.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Is a “City Where Poor People are Invisible” the Future of Development? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10076</link>
-            <guid>https://ildaro.com/10076</guid>
-            <pubDate>Tue, 24 Dec 2024 11:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[Currently we are protesting against the budget cuts to public rental housing. We’re calling it ‘Bring Out the Public Rental Housing.’...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024122447156411.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
