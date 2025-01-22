@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jan 2025 01:03:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jan 2025 02:44:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누락되는 전쟁범죄, 강간 피해와 에코사이드]]></title>
+            <link>https://ildaro.com/10098</link>
+            <guid>https://ildaro.com/10098</guid>
+            <pubDate>Wed, 22 Jan 2025 11:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[우리는 인종 억압, 성 억압, 이성애 중심주의, 계급 억압에 대항하는 투쟁에 적극적으로 참여하고 있으며, 주요한 억압 체계가 맞물려 있다는 사실에 기반을 둔다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025012216097779.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[작가의 ‘시간’, 구석진 ‘공간’, 노동자의 ‘얼굴’]]></title>
             <link>https://ildaro.com/10097</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 27 Dec 2024 12:26:22 GMT</pubDate>
             <content:encoded><![CDATA[나는 중노동을 하지 않으니 대식(大食)할 필요가 없고, 학식 값으로 아주 적은 돈만 지출하지만, 학식은 대식을 전제로 다량의 음식을 제공한...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024122705547447.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“K팝 플라스틱 앨범 과잉생산과 폐기” 계속 항의할 것]]></title>
-            <link>https://ildaro.com/10078</link>
-            <guid>https://ildaro.com/10078</guid>
-            <pubDate>Thu, 26 Dec 2024 07:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[케이팝포플래닛은 팬들에게 앨범 중복 구매를 조장하는 마케팅 상술을 중단하고, 앨범 관련 온실가스 배출량을 공개하고 감축 계획을 세울 것을 4대 엔터사에 요구하...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024122645491321.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
