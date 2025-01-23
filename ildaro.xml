@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jan 2025 01:02:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 02:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Her Decision to Stop Writing to Hear More]]></title>
+            <link>https://ildaro.com/10099</link>
+            <guid>https://ildaro.com/10099</guid>
+            <pubDate>Thu, 23 Jan 2025 10:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[the creative mind behind women’s writing programs such as “Quiet Liberation: The Writing Journey to Find My Own Voice” and “How to Write to Fill the Gaps in Life....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025012348061470.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[누락되는 전쟁범죄, 강간 피해와 에코사이드]]></title>
             <link>https://ildaro.com/10098</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 28 Dec 2024 09:14:22 GMT</pubDate>
             <content:encoded><![CDATA[“아픈 노동자가 쉬어야 한다는 말은 당연히 맞지만, 그 ‘아프다’는 것조차 건강한 노동자를 기준으로 생각하는 건 아닌가 생각하게 됐다”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024122822216950.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식생활과 쓰레기]]></title>
-            <link>https://ildaro.com/10079</link>
-            <guid>https://ildaro.com/10079</guid>
-            <pubDate>Fri, 27 Dec 2024 12:26:22 GMT</pubDate>
-            <content:encoded><![CDATA[나는 중노동을 하지 않으니 대식(大食)할 필요가 없고, 학식 값으로 아주 적은 돈만 지출하지만, 학식은 대식을 전제로 다량의 음식을 제공한...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024122705547447.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
