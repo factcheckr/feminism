@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jan 2025 06:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 07:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성매매특별법의 한계, 한국 성매매 산업의 현재]]></title>
+            <link>https://ildaro.com/10100</link>
+            <guid>https://ildaro.com/10100</guid>
+            <pubDate>Fri, 24 Jan 2025 07:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[이룸은 성매매에 관한 ‘자유주의 수요-공급 담론’과 ‘여성 피해자화 담론’의 틈새에서, ‘불처벌’이라는 여성주의 반성매매 정치를 제안하였다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025012445545296.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Her Decision to Stop Writing to Hear More]]></title>
             <link>https://ildaro.com/10099</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 30 Dec 2024 08:58:00 GMT</pubDate>
             <content:encoded><![CDATA[무엇보다 우리 대리인들이 이상하다고 느낀 것은, 모체보호법이 여성의 몸을 전부 ‘모체’로서 ‘보호’해야 하는 것으로 보고 있다는 점입니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024123002054925.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어떻게 하면 잘 아프고, 잘 쉬고, 또 일할 수 있을까?]]></title>
-            <link>https://ildaro.com/10080</link>
-            <guid>https://ildaro.com/10080</guid>
-            <pubDate>Sat, 28 Dec 2024 09:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[“아픈 노동자가 쉬어야 한다는 말은 당연히 맞지만, 그 ‘아프다’는 것조차 건강한 노동자를 기준으로 생각하는 건 아닌가 생각하게 됐다”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024122822216950.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
