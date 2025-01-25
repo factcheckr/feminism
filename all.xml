@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jan 2025 12:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jan 2025 13:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,6 +438,14 @@
             <enclosure url="https://image.hankookilbo.com/board/d5f837c0-d25d-4884-812e-316e335788f2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤석열 퇴진 광장의 목소리를 넓히는 사람들 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10101</link>
+            <guid>https://ildaro.com/10101</guid>
+            <pubDate>Sat, 25 Jan 2025 13:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[“우리가 포기하지 않으면, 현장에 희망의 물리적 근거를 만드는 투쟁이 계속된다면, 그걸 승리라고 하고 싶다.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025012512176360.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[성매매특별법의 한계, 한국 성매매 산업의 현재 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10100</link>
             <guid>https://ildaro.com/10100</guid>
@@ -588,14 +596,6 @@
             <pubDate>Tue, 31 Dec 2024 11:12:39 GMT</pubDate>
             <content:encoded><![CDATA[어느 여성의 경험이든 동의/비동의라는 이분법의 세계에 딱 들어맞지 않았다. 그리고 모두 어떠한 사회문화적, 경제적 처지에 따른 영향을 받지 않는 자율적 개인의 모...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024123116035577.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성의 몸을 ‘모체’로 보는 법, 이상하지 않나요? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10081</link>
-            <guid>https://ildaro.com/10081</guid>
-            <pubDate>Mon, 30 Dec 2024 08:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[무엇보다 우리 대리인들이 이상하다고 느낀 것은, 모체보호법이 여성의 몸을 전부 ‘모체’로서 ‘보호’해야 하는 것으로 보고 있다는 점입니다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024123002054925.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
