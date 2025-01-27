@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jan 2025 05:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jan 2025 06:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,6 +438,14 @@
             <enclosure url="https://image.hankookilbo.com/board/d5f837c0-d25d-4884-812e-316e335788f2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[인권의 문제입니다, ‘조현병의 문제’가 아니고요 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10102</link>
+            <guid>https://ildaro.com/10102</guid>
+            <pubDate>Mon, 27 Jan 2025 06:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[“저에게 누나는, 제가 만든 지금까지의 작품들과 마찬가지로 인권의 문제입니다. ‘조현병의 문제’가 아니고요.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025012747545004.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤석열 퇴진 광장의 목소리를 넓히는 사람들 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10101</link>
             <guid>https://ildaro.com/10101</guid>
@@ -588,14 +596,6 @@
             <pubDate>Wed, 01 Jan 2025 13:20:16 GMT</pubDate>
             <content:encoded><![CDATA[선진국들에게 ‘플라스틱 쓰레기 수출을 멈춰달라’며 호소하던 인도네시아 소녀 니나. 5년 후인 2023년에도 똑같은 시위를 하고 있었어요....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025010116423638.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성적 권리로서 ‘동의’를 말한다 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10082</link>
-            <guid>https://ildaro.com/10082</guid>
-            <pubDate>Tue, 31 Dec 2024 11:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[어느 여성의 경험이든 동의/비동의라는 이분법의 세계에 딱 들어맞지 않았다. 그리고 모두 어떠한 사회문화적, 경제적 처지에 따른 영향을 받지 않는 자율적 개인의 모...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202412/2024123116035577.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
