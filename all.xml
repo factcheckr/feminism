@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jan 2025 10:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jan 2025 11:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,6 +438,14 @@
             <enclosure url="https://image.hankookilbo.com/board/d5f837c0-d25d-4884-812e-316e335788f2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘현대적 빈곤의 여성화’, 성산업 안의 여성들 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10104</link>
+            <guid>https://ildaro.com/10104</guid>
+            <pubDate>Thu, 30 Jan 2025 11:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[‘처벌을 무릅쓰고’ 업소에 종사하고, 성판매에 나서는 여성들의 삶에 대한 더 많은 관심과 분석이 필요하다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025013032324578.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[저출생 문제, 값싼 가사도우미 들여온다는 기괴한 발상으론 해결 안돼 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10103</link>
             <guid>https://ildaro.com/10103</guid>
@@ -588,14 +596,6 @@
             <pubDate>Sat, 04 Jan 2025 05:13:59 GMT</pubDate>
             <content:encoded><![CDATA[전국농민회총연맹 하원오 의장은 “혐오와 차별 속에 주류사회에서 배제되어온 여성, 성소수자, 청소년, 노인, 도시빈민, 농민이 만든 승리”라며 고맙고, 또 고맙다고...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025010417426817.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why Are Homeless Women Invisible? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10084</link>
-            <guid>https://ildaro.com/10084</guid>
-            <pubDate>Fri, 03 Jan 2025 07:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[Why have homeless women’s stories hardly ever been told? Is it because there didn’t used to be any homeless women? The answer is “no.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025010323324435.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
