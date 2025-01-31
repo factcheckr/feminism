@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Jan 2025 05:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jan 2025 06:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“Are You Normal?”: Questioning Normality]]></title>
+            <link>https://ildaro.com/10105</link>
+            <guid>https://ildaro.com/10105</guid>
+            <pubDate>Fri, 31 Jan 2025 06:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[Through art, Jacob narrates the discomfort of living as “a part of humanity that will no longer exist in the future, and eventually will be extinct.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025013141103513.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘현대적 빈곤의 여성화’, 성산업 안의 여성들]]></title>
             <link>https://ildaro.com/10104</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 06 Jan 2025 08:40:00 GMT</pubDate>
             <content:encoded><![CDATA[섭식장애 당사자 자조모임이 대부분 가지고 있는 규칙은 “말한 채로 들은 채로”라고 한다. 말한 채로 들은 채로는 평가를 하지 않고 그저 순서대로 자신의 이야기를...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025010649006488.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘남태령 대첩’ 이후, 여성과 소수자가 열어갈 세상]]></title>
-            <link>https://ildaro.com/10085</link>
-            <guid>https://ildaro.com/10085</guid>
-            <pubDate>Sat, 04 Jan 2025 05:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[전국농민회총연맹 하원오 의장은 “혐오와 차별 속에 주류사회에서 배제되어온 여성, 성소수자, 청소년, 노인, 도시빈민, 농민이 만든 승리”라며 고맙고, 또 고맙다고...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025010417426817.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
