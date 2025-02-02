@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Feb 2025 12:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Feb 2025 13:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,6 +438,14 @@
             <enclosure url="https://image.hankookilbo.com/board/d5f837c0-d25d-4884-812e-316e335788f2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[청년들은 ‘왜’ 윤석열 퇴진을 외치는 광장에 나왔나 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10107</link>
+            <guid>https://ildaro.com/10107</guid>
+            <pubDate>Sun, 02 Feb 2025 13:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[“한겨울 아스팔트 위에서 핫팩과 간식을 나눠가며, 눈비를 다 맞아가며 시민들이 지켜낸 광장의 정신이 무엇인지를 담아내고 싶어 이 설문을 실시했다.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025020239442384.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[민주인권, 빼앗긴 다음에는 돌이킬 수 없는 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10106</link>
             <guid>https://ildaro.com/10106</guid>
@@ -588,14 +596,6 @@
             <pubDate>Wed, 08 Jan 2025 09:59:00 GMT</pubDate>
             <content:encoded><![CDATA[“우리가 친구로 시작했고 서로 비슷하기 때문에 갈등하는 것이 더 어려운 것 같아.”라는 민아의 말처럼, 공통점을 찾는 것은 즐거운 일이지만 차이를 마주하는 과정...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025010810586304.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 쓰레기통에서 가장 큰 부피를 차지하는 것은 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10087</link>
-            <guid>https://ildaro.com/10087</guid>
-            <pubDate>Tue, 07 Jan 2025 00:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[내 도시 생활에 관한 이야기가 끝났다. 총계를 내자면, 나는 1년에 플라스틱이 들어간 물건을 사는 데 521,700원을 사용한다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025010724054825.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
