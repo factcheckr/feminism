@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Feb 2025 02:43:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 03:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘소수민족 여성’과 ‘코끼리를 탄 군인’이 찍힌 한 장의 사진]]></title>
+            <link>https://ildaro.com/10108</link>
+            <guid>https://ildaro.com/10108</guid>
+            <pubDate>Tue, 04 Feb 2025 10:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[숲에서 커다란 코끼리를 타고 총을 든 베트남 군인의 모습과 그 아래 짐 바구니를 어깨에 메고 지나가는 소수민족 여성들의 모습이 함께 담긴 사진 한 장....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025020459515105.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청년들은 ‘왜’ 윤석열 퇴진을 외치는 광장에 나왔나]]></title>
             <link>https://ildaro.com/10107</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 09 Jan 2025 12:27:51 GMT</pubDate>
             <content:encoded><![CDATA[소외되고 어려운 이웃에게 따뜻한 밥 한끼 나눌 수 있는 넉넉한 마음은 있습니다. 그것이 연대의 원천 아니겠습니까? 부족하더라도 꾸준하게 그리고 게으르지 않게 변...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025010954198721.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해일 앞에서, 우리는 용감한 우정을 나눌 것이다]]></title>
-            <link>https://ildaro.com/10088</link>
-            <guid>https://ildaro.com/10088</guid>
-            <pubDate>Wed, 08 Jan 2025 09:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[“우리가 친구로 시작했고 서로 비슷하기 때문에 갈등하는 것이 더 어려운 것 같아.”라는 민아의 말처럼, 공통점을 찾는 것은 즐거운 일이지만 차이를 마주하는 과정...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025010810586304.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
