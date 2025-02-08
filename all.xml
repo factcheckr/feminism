@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Feb 2025 10:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Feb 2025 11:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,6 +438,14 @@
             <enclosure url="https://image.hankookilbo.com/board/80b17a2e-f5df-443e-8dda-40e973fe4d68.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Yoon Suk Yeol Is Leaving, But We’re Stuck (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10111</link>
+            <guid>https://ildaro.com/10111</guid>
+            <pubDate>Sat, 08 Feb 2025 11:11:36 GMT</pubDate>
+            <content:encoded><![CDATA[Housing is not an individual issue, but a right that society must guarantee together....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025020836523407.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[배제된 사람들이 겪는 무명(無名)의 경험에 이름 붙이기 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10110</link>
             <guid>https://ildaro.com/10110</guid>
@@ -588,14 +596,6 @@
             <pubDate>Tue, 14 Jan 2025 08:18:55 GMT</pubDate>
             <content:encoded><![CDATA[재판장이 “자연생식만이 아니라 다양한 가족이 아이를 키우고 있다.”라고 인정해줘서 정말 기뻤다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025011428394876.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전쟁에서 일어난 일을 어떻게 기록하고 애도할 것인가? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10091</link>
-            <guid>https://ildaro.com/10091</guid>
-            <pubDate>Mon, 13 Jan 2025 10:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[지금도 곳곳에서 진행되고 있는 전쟁에 직간접적인 영향을 받고 있는 우리들이 추궁해야 할 ‘전쟁 책임’과 ‘전후 책임’이 무엇인지 묻고자 한다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025011336464051.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
