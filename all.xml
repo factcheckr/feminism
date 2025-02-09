@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Feb 2025 09:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Feb 2025 10:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,6 +438,14 @@
             <enclosure url="https://image.hankookilbo.com/board/80b17a2e-f5df-443e-8dda-40e973fe4d68.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[태평양전쟁 당시 ‘풍선폭탄’ 만들기에 동원된 소녀들 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10112</link>
+            <guid>https://ildaro.com/10112</guid>
+            <pubDate>Sun, 09 Feb 2025 10:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[그 소중한 여학교 시절에 청춘의 모든 것을 걸고 애써온 것이, 아무것도 알려지지 않은 채 살인에 가담했다는 사실의 억울함을, 저로서는 헤아릴 길이 없습니다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025020900005532.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Yoon Suk Yeol Is Leaving, But We’re Stuck (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10111</link>
             <guid>https://ildaro.com/10111</guid>
@@ -588,14 +596,6 @@
             <pubDate>Wed, 15 Jan 2025 10:25:00 GMT</pubDate>
             <content:encoded><![CDATA[“I hope that alternative service personnel can move into society a little more, and that our existence becomes more visible instead of being confined to a certain space like now.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025011531105486.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도쿄고등법원 ‘동성혼 인정’ 5가지 핵심 근거 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10092</link>
-            <guid>https://ildaro.com/10092</guid>
-            <pubDate>Tue, 14 Jan 2025 08:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[재판장이 “자연생식만이 아니라 다양한 가족이 아이를 키우고 있다.”라고 인정해줘서 정말 기뻤다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025011428394876.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
