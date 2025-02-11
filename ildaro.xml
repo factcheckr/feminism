@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Feb 2025 01:03:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 02:45:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리는 바위와 나무와 소와 어떻게 대화할 것인가?]]></title>
+            <link>https://ildaro.com/10113</link>
+            <guid>https://ildaro.com/10113</guid>
+            <pubDate>Tue, 11 Feb 2025 10:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[그레타 가드는 현재의 기후 위기의 근본적 원인을 자연의 행위자성을 무시하고 인간을 모든 지구타자들보다 우월한 존재로 여기는 근대 인본주의 사상에 있다고 본다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025021156019751.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태평양전쟁 당시 ‘풍선폭탄’ 만들기에 동원된 소녀들]]></title>
             <link>https://ildaro.com/10112</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 16 Jan 2025 09:22:00 GMT</pubDate>
             <content:encoded><![CDATA[지역사회, 다양한 분야의 풀뿌리 여성들, 이주 여성들을 위해 내가 할 수 있는 모든 지지를 표하고, 기존 운동을 지원할 수 있는 모든 기회와 자원을 최대한 활용해야 ...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025011623596729.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Couldn’t alternative military service be expanded to include care work?]]></title>
-            <link>https://ildaro.com/10093</link>
-            <guid>https://ildaro.com/10093</guid>
-            <pubDate>Wed, 15 Jan 2025 10:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[“I hope that alternative service personnel can move into society a little more, and that our existence becomes more visible instead of being confined to a certain space like now.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025011531105486.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
