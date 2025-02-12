@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Feb 2025 09:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 10:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,7 +182,7 @@
                                         <h2 class="tit">
                                             <a href="https://www.khan.co.kr/article/202502121439001" onclick="sendGAAttrEvent(event);" title="‘친구’에게도 드러내기 어려운 남자의 ‘약한 모습’…‘남자는 왜 친구가 없을까’ [플랫]" ep_event_page="pc_list_common" ep_event_area="플랫_기사" ep_event_label="‘친구’에게도 드러내기 어려운 남자의 ‘약한 모습’…‘남자는 왜 친구가 없을까’ [플랫]">‘친구’에게도 드러내기 어려운 남자의 ‘약한 모습’…‘남자는 왜 친구가 없을까’</a>
                                         </h2>
-                                        <span class="byline">3시간 전</span>
+                                        <span class="byline">4시간 전</span>
                                         <span class="lead line_clamp2">코미디언 맥스 디킨스는 영국 런던에 사는 30대 중반의 남성이다. 여자친구와 결혼을 준비하려던 어느 날, 그는 신랑 측 들러리로 세울 ‘남사친’(남자 사람 친구)이 한 명도 없다는 사실을 깨닫는다. 아는 사람이야 많지만 ‘친구’라고 할 순 없는 사이이고, 온라인 메신저에서 가장 최근 친구와 대화한 것은 몇 달 전이었다. 구글에 “신랑 들러리가 없는데 어떻게 하나요?”라고 검색하자 이미 많은 남성들이 작성한 비슷한 게시물이 쏟아진다. 디킨스의 머릿 속엔 커다란 질문이 떠오른다. ‘남자는 왜, 친구가 없을까?’&lt;남자는 왜 친구가 없을까&gt;는 도발적인 제목만큼이나 흥미로운 책이다. 디킨스는 결혼식 들러리 찾기라는 지극히 개인적인 고민으로부터 출발해 점점 넓고 깊게 ‘남성의 우정’을 파고들어간다. 자신이 왜 남성 친구들과 자주 연락하지 않게 되었는지, 남성 간 우정이 어떤 과정을 통해 형성되는지, 남성들이 동성 친구 앞에서 왜 ‘약함’을 드러내지 못하는지 질문은 꼬리에 ...</span>
                                     </div>]]></content:encoded>
         </item>
@@ -438,6 +438,14 @@
             <enclosure url="https://image.hankookilbo.com/board/80b17a2e-f5df-443e-8dda-40e973fe4d68.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[광장과 페미니즘의 상관관계를 밝혀라 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10114</link>
+            <guid>https://ildaro.com/10114</guid>
+            <pubDate>Wed, 12 Feb 2025 10:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[사회운동은 지배체제와 남성성의 관계를 탐구해야 하고, 페미니즘을 지지했다가 감추었다가 하는 게 아니라, 진보정치를 젠더 관점에서 소화하고 숙성하는 과정이 필...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025021240467383.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우리는 바위와 나무와 소와 어떻게 대화할 것인가? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10113</link>
             <guid>https://ildaro.com/10113</guid>
@@ -588,14 +596,6 @@
             <pubDate>Fri, 17 Jan 2025 06:19:43 GMT</pubDate>
             <content:encoded><![CDATA[때로는 출발점이나 방법을 알 수 없는 어려움과 난감함, 위화감을 느끼기도 하지만, 그러한 마음을 함께 나눌 수 있는 ‘동료’들이야말로 나아갈 방향을 확인하고 내...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025011741397929.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가난한 나라 여성 노동력을 ‘가정에 투입’하는 국가 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10094</link>
-            <guid>https://ildaro.com/10094</guid>
-            <pubDate>Thu, 16 Jan 2025 09:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[지역사회, 다양한 분야의 풀뿌리 여성들, 이주 여성들을 위해 내가 할 수 있는 모든 지지를 표하고, 기존 운동을 지원할 수 있는 모든 기회와 자원을 최대한 활용해야 ...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025011623596729.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
