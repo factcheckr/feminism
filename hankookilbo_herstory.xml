@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Feb 2025 22:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 23:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대세를 넘어 공식이 되다]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/2061</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/2061</guid>
+            <pubDate>Wed, 12 Feb 2025 23:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[출판계를 여성 독자와 작가가 함께 이끄는 현상은 어느덧 대세를 넘어 공식으로 자리잡고 있어요. 올해는 여성 작가·독자들의 멋진 행보에 먼저 주목해보는 건 어떨까요?]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/ea7f7e68-e168-4415-851a-4605c33721a7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[텔레그램으로 숨어도 소용없습니다만]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/2054</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 27 Nov 2024 23:14:50 GMT</pubDate>
             <content:encoded><![CDATA[모델 문가비와 배우 정우성의 혼인 외 출산 소식을 둘러싸고 ‘비혼 출산’ ‘다양한 가족 형태 존중’을 키워드로 여러 의견들이 등장했습니다. 우리 사회는 드디어 ‘정상가족’ 이데올로기에서 한 걸음 탈피하게 된 걸까요? 혹시 그 이면에 우리가 놓치고 있는 또다른 현실이 있지는 않을까요?]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/bae7700d-b385-4bb4-b637-2a8c63f7b4d9.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["요즘 세상에 여대가 왜 필요해?"]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1967</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1967</guid>
-            <pubDate>Wed, 20 Nov 2024 23:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[지난주 레터 말미에 예고한 것처럼 이번 레터에서는 '동덕여대 남녀공학 전환 반대 시위'와 다른 여대의 시위 상황들, 들불처럼 번진 여성들의 연대와 이를 둘러싼 각계 사회 반응에 대해 다뤄보려 합니다.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/80b17a2e-f5df-443e-8dda-40e973fe4d68.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
