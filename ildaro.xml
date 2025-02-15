@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Feb 2025 09:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Feb 2025 10:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“이 사나운” 조선소에서 여성 노동자로 일한다는 것]]></title>
+            <link>https://ildaro.com/10116</link>
+            <guid>https://ildaro.com/10116</guid>
+            <pubDate>Sat, 15 Feb 2025 10:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[남성 노동자가 일당 오천 원을 더 받는 일. 남성 노동자는 누구 씨라고 부르는데, 여성 노동자들은 “이모”라 불리는 일. 여자 화장실은 한 칸밖에 없는데 남자 화장실...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/202502153601880.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에코사이드는 침략 범죄이다?!]]></title>
             <link>https://ildaro.com/10115</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 20 Jan 2025 12:27:07 GMT</pubDate>
             <content:encoded><![CDATA[공분이나 협동심이 부족하고 게으른 나를 움직이게 한 것은 주로 특정한 얼굴들이었다. 이 책에도 ‘얼굴들’이 제법 많이 나온다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025012039328996.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘안부만 나눠도 힘이 돼’ HIV/AIDS 감염인의 서로돌봄]]></title>
-            <link>https://ildaro.com/10096</link>
-            <guid>https://ildaro.com/10096</guid>
-            <pubDate>Sun, 19 Jan 2025 11:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[사람이 아무것도 돌보지 않으면 힘든 거구나 생각하게 된 것 같아요. 반려식물, 반려동물이 됐든, 무언가 덕질하든, 지켜보고 살펴보는 존재가 필요하고 그게 사람을 ...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025011913009020.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
