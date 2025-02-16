@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Feb 2025 08:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Feb 2025 09:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[You Can’t Raise the Birth Rate Without Addressing Long Working Hours and Job Instability]]></title>
+            <link>https://ildaro.com/10117</link>
+            <guid>https://ildaro.com/10117</guid>
+            <pubDate>Sun, 16 Feb 2025 09:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[“nowhere in the government’s policies is there is an indication of the will to solve the fundamental causes of the low birth rate problem."...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025021640398452.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“이 사나운” 조선소에서 여성 노동자로 일한다는 것]]></title>
             <link>https://ildaro.com/10116</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 22 Jan 2025 11:02:00 GMT</pubDate>
             <content:encoded><![CDATA[우리는 인종 억압, 성 억압, 이성애 중심주의, 계급 억압에 대항하는 투쟁에 적극적으로 참여하고 있으며, 주요한 억압 체계가 맞물려 있다는 사실에 기반을 둔다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025012216097779.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작가의 ‘시간’, 구석진 ‘공간’, 노동자의 ‘얼굴’]]></title>
-            <link>https://ildaro.com/10097</link>
-            <guid>https://ildaro.com/10097</guid>
-            <pubDate>Mon, 20 Jan 2025 12:27:07 GMT</pubDate>
-            <content:encoded><![CDATA[공분이나 협동심이 부족하고 게으른 나를 움직이게 한 것은 주로 특정한 얼굴들이었다. 이 책에도 ‘얼굴들’이 제법 많이 나온다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025012039328996.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
