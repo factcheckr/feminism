@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Feb 2025 01:07:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 02:49:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[58년만에 누명 벗은, 복서 출신의 사형수 이야기]]></title>
+            <link>https://ildaro.com/10118</link>
+            <guid>https://ildaro.com/10118</guid>
+            <pubDate>Mon, 17 Feb 2025 09:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[작년에야 검찰에 의해 개재된 이와오 씨(88세)의 재심에서 ‘무죄’ 판결이 나왔다. 많은 사람이 기다리던 결말을 삽입해 영화 〈주먹과 기도-하카마다 이와오의 생애...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025021755255150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[You Can’t Raise the Birth Rate Without Addressing Long Working Hours and Job Instability]]></title>
             <link>https://ildaro.com/10117</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 23 Jan 2025 10:43:00 GMT</pubDate>
             <content:encoded><![CDATA[the creative mind behind women’s writing programs such as “Quiet Liberation: The Writing Journey to Find My Own Voice” and “How to Write to Fill the Gaps in Life....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025012348061470.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누락되는 전쟁범죄, 강간 피해와 에코사이드]]></title>
-            <link>https://ildaro.com/10098</link>
-            <guid>https://ildaro.com/10098</guid>
-            <pubDate>Wed, 22 Jan 2025 11:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[우리는 인종 억압, 성 억압, 이성애 중심주의, 계급 억압에 대항하는 투쟁에 적극적으로 참여하고 있으며, 주요한 억압 체계가 맞물려 있다는 사실에 기반을 둔다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025012216097779.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
