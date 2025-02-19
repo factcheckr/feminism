@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Feb 2025 22:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 23:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성범죄자 대통령의 '여성 보호']]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/2073</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/2073</guid>
+            <pubDate>Wed, 19 Feb 2025 23:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[이번 레터에서는 △DEI 정책 폐지 △여성의 '재생산권' 후퇴 △트랜스젠더 관련 조치 등 트럼프 복귀 후 여성과 관련해 혹은 '여성 보호'를 명분 삼아 단행된 정책들을 살펴볼게요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/59d409f7-3b1a-45ad-bf54-291152b0f134.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대세를 넘어 공식이 되다]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/2061</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 04 Dec 2024 23:15:18 GMT</pubDate>
             <content:encoded><![CDATA[이번 레터에선 BBC가 선정한 '올해의 여성 100인' 중 실제로 '전시·사변 또는 이에 준하는 국가비상사태'를 살아내는 분들을 소개해보려고 합니다. 민주주의, 여성 교육권 등을 지켜내기 위해 훨씬 더 많은 위험을 감수하고 용기를 내고 있을 테니까요.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/c10dd16b-8783-4bbe-82a0-881db8fc6d07.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA['비혼 출산'을 논하려면]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1976</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1976</guid>
-            <pubDate>Wed, 27 Nov 2024 23:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[모델 문가비와 배우 정우성의 혼인 외 출산 소식을 둘러싸고 ‘비혼 출산’ ‘다양한 가족 형태 존중’을 키워드로 여러 의견들이 등장했습니다. 우리 사회는 드디어 ‘정상가족’ 이데올로기에서 한 걸음 탈피하게 된 걸까요? 혹시 그 이면에 우리가 놓치고 있는 또다른 현실이 있지는 않을까요?]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/bae7700d-b385-4bb4-b637-2a8c63f7b4d9.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
