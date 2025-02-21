@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Feb 2025 01:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 02:46:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[직감을 따라 묵묵히 만들어낸 ‘용기의 장소’]]></title>
+            <link>https://ildaro.com/10120</link>
+            <guid>https://ildaro.com/10120</guid>
+            <pubDate>Fri, 21 Feb 2025 09:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[코자리노모리(古材の森)를 직역하면 ‘고재의 숲’ 내지는 ‘헌 목재의 숲’이라는 뜻이다. 지역의 역사와 문화를 보존하면서도 새롭고 개방적인 문화를 창조한다는...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025022148155871.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘우유’가 아니라 ‘소젖’이라 부를 때]]></title>
             <link>https://ildaro.com/10119</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 25 Jan 2025 13:15:34 GMT</pubDate>
             <content:encoded><![CDATA[“우리가 포기하지 않으면, 현장에 희망의 물리적 근거를 만드는 투쟁이 계속된다면, 그걸 승리라고 하고 싶다.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025012512176360.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성매매특별법의 한계, 한국 성매매 산업의 현재]]></title>
-            <link>https://ildaro.com/10100</link>
-            <guid>https://ildaro.com/10100</guid>
-            <pubDate>Fri, 24 Jan 2025 07:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[이룸은 성매매에 관한 ‘자유주의 수요-공급 담론’과 ‘여성 피해자화 담론’의 틈새에서, ‘불처벌’이라는 여성주의 반성매매 정치를 제안하였다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025012445545296.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
