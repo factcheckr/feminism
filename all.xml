@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Feb 2025 11:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Feb 2025 12:24:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,6 +438,14 @@
             <enclosure url="https://image.hankookilbo.com/board/c10dd16b-8783-4bbe-82a0-881db8fc6d07.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[연기 입시 준비가 ‘키빼몸 120’ 만들기라고요? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10122</link>
+            <guid>https://ildaro.com/10122</guid>
+            <pubDate>Sun, 23 Feb 2025 12:24:52 GMT</pubDate>
+            <content:encoded><![CDATA[“다이어트라는 게 도달하기 어려운 목표를 두고 하는 거기 때문에, 그 과정에서 계속 실패를 하니까 스스로에 대한 수치심이 커...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025022345042289.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[소유가 아닌 순환…‘지역창생’의 비결은 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10121</link>
             <guid>https://ildaro.com/10121</guid>
@@ -588,14 +596,6 @@
             <pubDate>Tue, 28 Jan 2025 12:26:41 GMT</pubDate>
             <content:encoded><![CDATA[인구 고령화와 돌봄 수요를 채우기 위해 값싼 노동력인 이주 가사노동자에 의존하는 것은 지속 가능하지 않을뿐더러, 신뢰할 수 있는 해결책도 아니기 때문에 말도 안...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/202501285051419.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인권의 문제입니다, ‘조현병의 문제’가 아니고요 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10102</link>
-            <guid>https://ildaro.com/10102</guid>
-            <pubDate>Mon, 27 Jan 2025 06:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[“저에게 누나는, 제가 만든 지금까지의 작품들과 마찬가지로 인권의 문제입니다. ‘조현병의 문제’가 아니고요.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025012747545004.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
