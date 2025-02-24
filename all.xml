@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Feb 2025 23:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 01:06:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,6 +438,14 @@
             <enclosure url="https://image.hankookilbo.com/board/c10dd16b-8783-4bbe-82a0-881db8fc6d07.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[Where are the Measures to Deal with Workplace Sexual Harassment of LGBTQI People? (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10123</link>
+            <guid>https://ildaro.com/10123</guid>
+            <pubDate>Mon, 24 Feb 2025 09:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[“Because of my identity, people in the company gossiped about my partners and some of my friends and excluded me, and eventually I quit.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/202502245401857.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연기 입시 준비가 ‘키빼몸 120’ 만들기라고요? (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10122</link>
             <guid>https://ildaro.com/10122</guid>
@@ -588,14 +596,6 @@
             <pubDate>Thu, 30 Jan 2025 11:13:24 GMT</pubDate>
             <content:encoded><![CDATA[‘처벌을 무릅쓰고’ 업소에 종사하고, 성판매에 나서는 여성들의 삶에 대한 더 많은 관심과 분석이 필요하다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/202501301909999.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저출생 문제, 값싼 가사도우미 들여온다는 기괴한 발상으론 해결 안돼 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10103</link>
-            <guid>https://ildaro.com/10103</guid>
-            <pubDate>Tue, 28 Jan 2025 12:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[인구 고령화와 돌봄 수요를 채우기 위해 값싼 노동력인 이주 가사노동자에 의존하는 것은 지속 가능하지 않을뿐더러, 신뢰할 수 있는 해결책도 아니기 때문에 말도 안...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/202501285051419.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
