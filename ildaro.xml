@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Feb 2025 04:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Feb 2025 05:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘애도’가 터부시되는 묘지와 유해 앞에서]]></title>
+            <link>https://ildaro.com/10124</link>
+            <guid>https://ildaro.com/10124</guid>
+            <pubDate>Tue, 25 Feb 2025 05:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[‘용기’와 ‘희생’을 상찬하고 함께 애도하려는 그들의 기획 속에 그 전쟁이 무엇이었는지에 대한 근본적인 고민이 빠져있음을 알 수 있다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025022532061518.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Where are the Measures to Deal with Workplace Sexual Harassment of LGBTQI People?]]></title>
             <link>https://ildaro.com/10123</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 31 Jan 2025 06:20:13 GMT</pubDate>
             <content:encoded><![CDATA[Through art, Jacob narrates the discomfort of living as “a part of humanity that will no longer exist in the future, and eventually will be extinct.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025013141103513.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘현대적 빈곤의 여성화’, 성산업 안의 여성들]]></title>
-            <link>https://ildaro.com/10104</link>
-            <guid>https://ildaro.com/10104</guid>
-            <pubDate>Thu, 30 Jan 2025 11:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[‘처벌을 무릅쓰고’ 업소에 종사하고, 성판매에 나서는 여성들의 삶에 대한 더 많은 관심과 분석이 필요하다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/202501301909999.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
