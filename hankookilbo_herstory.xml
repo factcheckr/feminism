@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Feb 2025 22:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Feb 2025 23:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삶으로 역사를 증언한 여성]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/2080</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/2080</guid>
+            <pubDate>Wed, 26 Feb 2025 23:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[부당한 세력이 피해자들의 경험을 축소·부정한다 해도 그게 결코 진실을 바꾸지는 못해요. 후대가 제대로 기억한다면 일본군 '위안부' 피해의 역사는 사라지지 않을 겁니다.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/672db329-5b94-40df-aa4c-5433eb01471c.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[성범죄자 대통령의 '여성 보호']]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/2073</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 11 Dec 2024 23:15:04 GMT</pubDate>
             <content:encoded><![CDATA[왜 여성 청년이 유독 광장에 많이 모였을까. "차별과 혐오를 부끄러워하지 않는 윤 대통령에 대한 그들의 분노가 가장 크기 때문"이라고 한국일보 최문선 논설위원은 짚습니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/f6b6fd56-8379-4ec5-b15f-ea8807ad2200.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024년을 빛낸 '올해의 여성들']]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/1987</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/1987</guid>
-            <pubDate>Wed, 04 Dec 2024 23:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[이번 레터에선 BBC가 선정한 '올해의 여성 100인' 중 실제로 '전시·사변 또는 이에 준하는 국가비상사태'를 살아내는 분들을 소개해보려고 합니다. 민주주의, 여성 교육권 등을 지켜내기 위해 훨씬 더 많은 위험을 감수하고 용기를 내고 있을 테니까요.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/c10dd16b-8783-4bbe-82a0-881db8fc6d07.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
