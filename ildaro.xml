@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Feb 2025 11:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Feb 2025 12:28:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[섭식장애 원인 ‘엄마 탓’에서 사회로 시선 돌려]]></title>
+            <link>https://ildaro.com/10125</link>
+            <guid>https://ildaro.com/10125</guid>
+            <pubDate>Wed, 26 Feb 2025 12:28:40 GMT</pubDate>
+            <content:encoded><![CDATA[섭식장애에서 뚜렷한 성별 차이가 나타나기 때문에, 이 현상을 분석할 때 젠더 관점은 필수적이라고 믿습니다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025022658592259.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘애도’가 터부시되는 묘지와 유해 앞에서]]></title>
             <link>https://ildaro.com/10124</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 01 Feb 2025 14:12:27 GMT</pubDate>
             <content:encoded><![CDATA[‘민주인권이라는 것은 뺏기지 않았을 때는 생각조차 안 나는 것이지만, 폭력을 당하고 빼앗긴 다음에는 돌이키기 어렵다. 그러니 빼앗기지 않도록 지켜야 하는 것.’...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025020144402548.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“Are You Normal?”: Questioning Normality]]></title>
-            <link>https://ildaro.com/10105</link>
-            <guid>https://ildaro.com/10105</guid>
-            <pubDate>Fri, 31 Jan 2025 06:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[Through art, Jacob narrates the discomfort of living as “a part of humanity that will no longer exist in the future, and eventually will be extinct.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202501/2025013141103513.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
