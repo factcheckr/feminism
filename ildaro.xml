@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Feb 2025 23:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 01:06:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지구를 떠나지 않는 해법을 모색할 때]]></title>
+            <link>https://ildaro.com/10126</link>
+            <guid>https://ildaro.com/10126</guid>
+            <pubDate>Fri, 28 Feb 2025 09:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[국가주의 이데올로기에서 시작된 우주탐사는 지구 밖에서도 인간이 거주할 수 있는 피난처 건설을 위한 실험으로 이어졌다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025022815412076.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[섭식장애 원인 ‘엄마 탓’에서 사회로 시선 돌려]]></title>
             <link>https://ildaro.com/10125</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 02 Feb 2025 13:15:26 GMT</pubDate>
             <content:encoded><![CDATA[“한겨울 아스팔트 위에서 핫팩과 간식을 나눠가며, 눈비를 다 맞아가며 시민들이 지켜낸 광장의 정신이 무엇인지를 담아내고 싶어 이 설문을 실시했다.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025020239442384.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민주인권, 빼앗긴 다음에는 돌이킬 수 없는]]></title>
-            <link>https://ildaro.com/10106</link>
-            <guid>https://ildaro.com/10106</guid>
-            <pubDate>Sat, 01 Feb 2025 14:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[‘민주인권이라는 것은 뺏기지 않았을 때는 생각조차 안 나는 것이지만, 폭력을 당하고 빼앗긴 다음에는 돌이키기 어렵다. 그러니 빼앗기지 않도록 지켜야 하는 것.’...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025020144402548.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
