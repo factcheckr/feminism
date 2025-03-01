@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Mar 2025 03:29:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Mar 2025 04:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,6 +438,14 @@
             <enclosure url="https://image.hankookilbo.com/board/f6b6fd56-8379-4ec5-b15f-ea8807ad2200.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[성폭력 피해학생들 돕다가 거리에서 시위하는 교사 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10127</link>
+            <guid>https://ildaro.com/10127</guid>
+            <pubDate>Sat, 01 Mar 2025 00:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[“스쿨미투 이후 학교는 과연 무엇이 달라졌나? 지혜복 교사의 투쟁은 개인의 투쟁이 아니라, 평등하고 안전한 학교를 만들기 위한, 모두의 투쟁이다.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025030159094599.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지구를 떠나지 않는 해법을 모색할 때 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10126</link>
             <guid>https://ildaro.com/10126</guid>
@@ -588,14 +596,6 @@
             <pubDate>Tue, 04 Feb 2025 10:49:00 GMT</pubDate>
             <content:encoded><![CDATA[숲에서 커다란 코끼리를 타고 총을 든 베트남 군인의 모습과 그 아래 짐 바구니를 어깨에 메고 지나가는 소수민족 여성들의 모습이 함께 담긴 사진 한 장....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025020459515105.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청년들은 ‘왜’ 윤석열 퇴진을 외치는 광장에 나왔나 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10107</link>
-            <guid>https://ildaro.com/10107</guid>
-            <pubDate>Sun, 02 Feb 2025 13:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[“한겨울 아스팔트 위에서 핫팩과 간식을 나눠가며, 눈비를 다 맞아가며 시민들이 지켜낸 광장의 정신이 무엇인지를 담아내고 싶어 이 설문을 실시했다.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025020239442384.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
