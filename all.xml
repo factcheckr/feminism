@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Mar 2025 01:08:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Mar 2025 02:53:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,6 +438,14 @@
             <enclosure url="https://image.hankookilbo.com/board/f6b6fd56-8379-4ec5-b15f-ea8807ad2200.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[탄핵 이후의 세계가 고졸, 여성, 약자에게 친절했으면 좋겠다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10128</link>
+            <guid>https://ildaro.com/10128</guid>
+            <pubDate>Mon, 03 Mar 2025 11:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[사회는 내게도 딱히 친절했던 적 없었다. 고졸의 신분으로는 취업할 수 있는 곳이 제한적이었다. 나는 굉장히 자주, 내게는 살 자격이 없다는 느낌을 받았다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025030344301766.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[성폭력 피해학생들 돕다가 거리에서 시위하는 교사 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10127</link>
             <guid>https://ildaro.com/10127</guid>
@@ -588,14 +596,6 @@
             <pubDate>Thu, 06 Feb 2025 09:57:00 GMT</pubDate>
             <content:encoded><![CDATA[성실한 교인이면서 동시에 퀴퍼에 나가는 퀴어 할머니라는 수현의 캐릭터는 종교인에 대한 새로운 해석을 가능하게 한다는 점에서 주목해야 할 지점이다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025020606153441.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘소수민족 여성’과 ‘코끼리를 탄 군인’이 찍힌 한 장의 사진 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10108</link>
-            <guid>https://ildaro.com/10108</guid>
-            <pubDate>Tue, 04 Feb 2025 10:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[숲에서 커다란 코끼리를 타고 총을 든 베트남 군인의 모습과 그 아래 짐 바구니를 어깨에 메고 지나가는 소수민족 여성들의 모습이 함께 담긴 사진 한 장....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025020459515105.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
