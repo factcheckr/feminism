@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Mar 2025 04:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 05:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘알아차림’이라는 감각적 지식을 향해]]></title>
+            <link>https://ildaro.com/10130</link>
+            <guid>https://ildaro.com/10130</guid>
+            <pubDate>Wed, 05 Mar 2025 00:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[“우리가 현재와 다른 사유를 원한다면, 사유는 예술을 향해서 방향을 틀어야 합니다.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025030552497149.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sharing a Brave Friendship in the Face of a Tsunami]]></title>
             <link>https://ildaro.com/10129</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 08 Feb 2025 11:11:36 GMT</pubDate>
             <content:encoded><![CDATA[Housing is not an individual issue, but a right that society must guarantee together....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025020836523407.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배제된 사람들이 겪는 무명(無名)의 경험에 이름 붙이기]]></title>
-            <link>https://ildaro.com/10110</link>
-            <guid>https://ildaro.com/10110</guid>
-            <pubDate>Fri, 07 Feb 2025 07:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[어떤 말이 다른 말에 비해 사회의 신뢰를 얻지 못하는 현실에 대해, 페미니즘의 관점에서 사회인식론을 연구하는 철학자 미란다 프리커는 “인식적 부정의”라고 부른...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025020714239176.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
