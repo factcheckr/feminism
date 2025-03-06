@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Mar 2025 04:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 05:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구조적 성차별이 없다면, 여성파업을 왜 하겠어?]]></title>
+            <link>https://ildaro.com/10131</link>
+            <guid>https://ildaro.com/10131</guid>
+            <pubDate>Thu, 06 Mar 2025 05:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[여성 억압에 관한 문제를 제기하면 남성의 고통을 답으로 내미는 사회다. ‘여성 대 남성’의 이분법적 성별 갈라치기가 일상 깊숙이 파고들어, 성차별 문제를 성 대결...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025030609161404.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘알아차림’이라는 감각적 지식을 향해]]></title>
             <link>https://ildaro.com/10130</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 09 Feb 2025 10:15:32 GMT</pubDate>
             <content:encoded><![CDATA[그 소중한 여학교 시절에 청춘의 모든 것을 걸고 애써온 것이, 아무것도 알려지지 않은 채 살인에 가담했다는 사실의 억울함을, 저로서는 헤아릴 길이 없습니다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025020900005532.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yoon Suk Yeol Is Leaving, But We’re Stuck]]></title>
-            <link>https://ildaro.com/10111</link>
-            <guid>https://ildaro.com/10111</guid>
-            <pubDate>Sat, 08 Feb 2025 11:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[Housing is not an individual issue, but a right that society must guarantee together....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025020836523407.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
