@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Mar 2025 10:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Mar 2025 11:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,6 +438,14 @@
             <enclosure url="https://image.hankookilbo.com/board/d05f0712-29bf-4e4c-929a-f24191a97459.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[‘자발적으로’ ‘음란한’ 피해자들의 손을 잡는 일 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10133</link>
+            <guid>https://ildaro.com/10133</guid>
+            <pubDate>Sun, 09 Mar 2025 11:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[딥페이크로 전국이 들썩였을 때, 여성운동은 여전히 “문제는 남성문화”라고 지적했다. 우리가 싸우는 전선은 여성혐오다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025030907123591.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이주 여성노동자의 외침 “우리는 기계가 아니다” (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10132</link>
             <guid>https://ildaro.com/10132</guid>
@@ -588,14 +596,6 @@
             <pubDate>Wed, 12 Feb 2025 10:16:18 GMT</pubDate>
             <content:encoded><![CDATA[사회운동은 지배체제와 남성성의 관계를 탐구해야 하고, 페미니즘을 지지했다가 감추었다가 하는 게 아니라, 진보정치를 젠더 관점에서 소화하고 숙성하는 과정이 필...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025021240467383.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리는 바위와 나무와 소와 어떻게 대화할 것인가? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10113</link>
-            <guid>https://ildaro.com/10113</guid>
-            <pubDate>Tue, 11 Feb 2025 10:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[그레타 가드는 현재의 기후 위기의 근본적 원인을 자연의 행위자성을 무시하고 인간을 모든 지구타자들보다 우월한 존재로 여기는 근대 인본주의 사상에 있다고 본다...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025021156019751.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
