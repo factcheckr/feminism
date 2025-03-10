@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Mar 2025 11:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 12:29:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[93세와 93년생이 함께…‘여성국극은 영원하다’]]></title>
+            <link>https://ildaro.com/10134</link>
+            <guid>https://ildaro.com/10134</guid>
+            <pubDate>Mon, 10 Mar 2025 12:29:27 GMT</pubDate>
+            <content:encoded><![CDATA[아흔이 넘은 조영숙 선생이 공연을 다니며 소리를 자아내는 모습을, 제자를 가르치며 소리를 하나씩 짚어내는 모습을 관람할 수 있다는 것은 이 영화가 지닌 매력 중 ...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025031040363165.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘자발적으로’ ‘음란한’ 피해자들의 손을 잡는 일]]></title>
             <link>https://ildaro.com/10133</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 14 Feb 2025 10:10:00 GMT</pubDate>
             <content:encoded><![CDATA[저는 국민/시민(people)이 스스로 선택한 방식으로 살아갈 수 있는 환경을 고의적이고 영구적으로 파괴하는 행위도 마찬가지로 반인도적 범죄로 간주하여야 한다고 생각...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/202502142459481.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[광장과 페미니즘의 상관관계를 밝혀라]]></title>
-            <link>https://ildaro.com/10114</link>
-            <guid>https://ildaro.com/10114</guid>
-            <pubDate>Wed, 12 Feb 2025 10:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[사회운동은 지배체제와 남성성의 관계를 탐구해야 하고, 페미니즘을 지지했다가 감추었다가 하는 게 아니라, 진보정치를 젠더 관점에서 소화하고 숙성하는 과정이 필...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025021240467383.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
