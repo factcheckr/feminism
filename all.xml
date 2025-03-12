@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Mar 2025 06:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 07:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,7 +182,7 @@
                                         <h2 class="tit">
                                             <a href="https://www.khan.co.kr/article/202503121321001" onclick="sendGAAttrEvent(event);" title="청년 직장인에게 ‘결혼’이란…“슬픔” 32%, “공포” 25%, “행복” 9% [플랫]" ep_event_page="pc_list_common" ep_event_area="플랫_기사" ep_event_label="청년 직장인에게 ‘결혼’이란…“슬픔” 32%, “공포” 25%, “행복” 9% [플랫]">청년 직장인에게 ‘결혼’이란…“슬픔” 32%, “공포” 25%, “행복” 9%</a>
                                         </h2>
-                                        <span class="byline">1시간 전</span>
+                                        <span class="byline">2시간 전</span>
                                         <span class="lead line_clamp2">직장생활을 하는 청년들이 결혼과 출산에 대해 느끼는 인식은 슬픔, 공포, 혐오 등 부정적 감정이 우세하다는 데이터 분석 결과가 나왔다. ‘돈’과 ‘집’ 등 경제적 요소가 결혼·출산에 있어 핵심적인 요인으로 작용한다는 점도 확인됐다.비영리 민간 연구기관인 한반도미래인구연구원은 직장인 커뮤니티 ‘블라인드’에 2017년 12월부터 지난해 11월까지 게시된 결혼·출산·육아 관련 게시글 약 5만건을 분석해 11일 발표했다. 연구원은 결혼, 출산, 육아, 육아휴직, 수도권 인구, 지방인구 등의 인구 관련 주요 키워드가 포함된 게시글을 수집해 네트워크 분석 등의 기법으로 주요 감정을 분석했다.청년 세대는 결혼, 출산, 육아에 긍정적인 감정보다 부정적인 감정을 크게 가지고 있는 것으로 나타났다. 결혼 관련 게시글의 32.3%가 ‘슬픔’, 24.6%가 ‘공포’ 감정으로 분류됐다. 출산 관련 게시글에서는 ‘혐오’(23.8%)와 ‘공포’(21.3%) 감정이 높게 나타났다.반면 행복한 감...</span>
                                     </div>]]></content:encoded>
         </item>
@@ -438,6 +438,14 @@
             <enclosure url="https://image.hankookilbo.com/board/d05f0712-29bf-4e4c-929a-f24191a97459.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[극우 정당의 득세…불안이 독일을 잠식했다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10135</link>
+            <guid>https://ildaro.com/10135</guid>
+            <pubDate>Wed, 12 Mar 2025 00:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[나 같은 외국인은 테러의 범인이 이민자 출신일 때도, 테러의 범인이 극우주의자일 때도 가슴이 철렁 내려앉는다. 이민자는 근심 걱정이 더 많은 존재다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025031231486421.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[93세와 93년생이 함께…‘여성국극은 영원하다’ (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10134</link>
             <guid>https://ildaro.com/10134</guid>
@@ -588,14 +596,6 @@
             <pubDate>Sat, 15 Feb 2025 10:14:10 GMT</pubDate>
             <content:encoded><![CDATA[남성 노동자가 일당 오천 원을 더 받는 일. 남성 노동자는 누구 씨라고 부르는데, 여성 노동자들은 “이모”라 불리는 일. 여자 화장실은 한 칸밖에 없는데 남자 화장실...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/202502153601880.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에코사이드는 침략 범죄이다?! (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10115</link>
-            <guid>https://ildaro.com/10115</guid>
-            <pubDate>Fri, 14 Feb 2025 10:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[저는 국민/시민(people)이 스스로 선택한 방식으로 살아갈 수 있는 환경을 고의적이고 영구적으로 파괴하는 행위도 마찬가지로 반인도적 범죄로 간주하여야 한다고 생각...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/202502142459481.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
