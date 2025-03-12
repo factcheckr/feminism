@@ -4,9 +4,17 @@
         <title>한국일보 ─ 뉴스레터 ─ 허스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Mar 2025 22:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 23:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['유리천장 지수' 꼴찌 탈출한 한국?]]></title>
+            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/2097</link>
+            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/2097</guid>
+            <pubDate>Wed, 12 Mar 2025 23:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[경제적 주체로서 한국 여성들이 지금껏 일궈 온 변화와 2025년에도 여전히 깨 부셔야 할 '유리천장'과 '유리벽'에 대해 알아보려고 해요.]]></content:encoded>
+            <enclosure url="https://image.hankookilbo.com/board/5d74dd88-4869-4032-827a-cf895be19e68.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[거울 앞에서 좌절해봤다면]]></title>
             <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/2091</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 01 Jan 2025 23:13:55 GMT</pubDate>
             <content:encoded><![CDATA[전처럼 떠들썩한 송년회도, 연말 행사도 없이 조용하게 한해를 마무리하면서 다들 마음이 가라앉으셨을 것 같아요. 그런 시기를 유일하게 밝히는 촛불, 아니 응원봉과 같은 뉴스가 바로 '남태령 시위' 소식이 아니었을까 싶습니다.]]></content:encoded>
             <enclosure url="https://image.hankookilbo.com/board/7021b2d5-f457-4f11-a291-553d4b50dc45.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[여성이 많았던 건 우연이 아니다]]></title>
-            <link>https://www.hankookilbo.com/NewsLetter/herspective/Read/2007</link>
-            <guid>https://www.hankookilbo.com/NewsLetter/herspective/Read/2007</guid>
-            <pubDate>Wed, 18 Dec 2024 23:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 대통령 탄핵안 가결을 환영하는 여성 단체들의 입장문을 소개합니다. 젊은 여성이 국가 의제에 앞장서는 일이 당연해지는 그날까지, 이 문장들에 힘입어 나아가자고요.]]></content:encoded>
-            <enclosure url="https://image.hankookilbo.com/board/d05f0712-29bf-4e4c-929a-f24191a97459.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
