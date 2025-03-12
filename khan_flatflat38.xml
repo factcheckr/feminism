@@ -4,9 +4,17 @@
         <title>경향신문 ─ 플랫</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Mar 2025 04:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 05:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청년 직장인에게 ‘결혼’이란…“슬픔” 32%, “공포” 25%, “행복” 9%]]></title>
+            <link>https://www.khan.co.kr/article/202503121321001</link>
+            <guid>https://www.khan.co.kr/article/202503121321001</guid>
+            <pubDate>Wed, 12 Mar 2025 05:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[직장생활을 하는 청년들이 결혼과 출산에 대해 느끼는 인식은 슬픔, 공포, 혐오 등 부정적 감정이 우세하다는 데이터 분석 결과가 나왔다. ‘돈’과 ‘집’ 등 경제적 요소가 결혼·출산에 있어 핵심적인 요인으로 작용한다는 점도 확인됐다.비영리 민간 연구기관인 한반도미래인구연구원은 직장인 커뮤니티 ‘블라인드’에 2017년 12월부터 지난해 11월까지 게시된 결혼·출산·육아 관련 게시글 약 5만건을 분석해 11일 발표했다. 연구원은 결혼, 출산, 육아, 육아휴직, 수도권 인구, 지방인구 등의 인구 관련 주요 키워드가 포함된 게시글을 수집해 네트워크 분석 등의 기법으로 주요 감정을 분석했다.청년 세대는 결혼, 출산, 육아에 긍정적인 감정보다 부정적인 감정을 크게 가지고 있는 것으로 나타났다. 결혼 관련 게시글의 32.3%가 ‘슬픔’, 24.6%가 ‘공포’ 감정으로 분류됐다. 출산 관련 게시글에서는 ‘혐오’(23.8%)와 ‘공포’(21.3%) 감정이 높게 나타났다.반면 행복한 감...]]></content:encoded>
+            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/03/12/news-p.v1.20250312.3fa273064dbb4dc58ed26c1ae2da1e89_P1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘늘려도 시원찮은데’ 줄어든 ‘디지털성범죄’ 예산…직원 1명이 2만건 삭제해야]]></title>
             <link>https://www.khan.co.kr/article/202503111508001</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 05 Mar 2025 02:51:16 GMT</pubDate>
             <content:encoded><![CDATA[회사 내 여성 비율이 높은 콜센터 노동자들이 ‘3·8 세계여성의 날’을 앞두고 콜센터 내부의 괴롭힘 문제를 근절해야 한다고 목소리를 높였다.민주노총 전국공공운수사회서비스노조(공공운수노조) 여성위원회, 콜센터사업장 연석회의, 감정노동전국네트워크 등은 4일 서울지방고용노동청 앞에서 ‘콜센터 현장 내 괴롭힘 고발 기자회견’을 열었다.이들은 “콜센터 업계에는 40만명으로 추산되는 여성 노동자들이 있지만 원청-하청, 센터장-중간관리자-상담사로 이어지는 수직적 구조는 콜센터 현장 내 괴롭힘을 묵인하고 방조한다. 폭력의 구조 그 마지막에 여성 노동자가 있다”며 “2018년 ‘감정노동자 보호법’이, 2019년 ‘직장 내 괴롭힘 금지법’이 시행됐지만 콜센터 내 관리자들의 괴롭힘은 계속되고 있다”고 했다.[플랫] “아프다” 말 못하는 콜센터 노동자실제 노동자들을 괴롭혔던 사례에 대한 증언이 이어졌다. 김민정 더불어사는희망연대본부 공동본부장 후보는 LG헬로비전 콜센터에서 한 관리...]]></content:encoded>
             <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/03/05/news-p.v1.20250305.5c2676a211d04a5d8f675fa602365c63_P1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[“여성이 멈추면 세상도 멈춘다”…3·8 여성의날 앞두고 ‘파업’ 선포한 여성들]]></title>
-            <link>https://www.khan.co.kr/article/202503041653001</link>
-            <guid>https://www.khan.co.kr/article/202503041653001</guid>
-            <pubDate>Tue, 04 Mar 2025 08:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[‘3·8 세계여성의 날’을 앞두고 여성노동 관련 시민사회단체들이 4일 ‘3·8 여성 파업’을 선포했다. 이들은 “여성이 멈추면 세상이 멈춘다”며 여성의 열악한 노동환경과 노동현장에서의 성차별·가부장제 타파를 촉구했다.여성노동 관련 시민사회단체 41개가 모인 ‘2025년 3·8 여성파업 조직위원회’는 이날 서울 중구 명동역 인근 세종호텔 앞에서 여성파업 선포 기자회견을 열었다. 세종호텔은 고진수 세종호텔 노조위원장이 고공농성을 하는 곳이다.회견에서는 먼저 여전히 열악한 여성 노동환경을 비판하는 목소리가 나왔다. 허지희 세종호텔노조 사무국장은 “노조원 대부분을 해고하고 용역직원을 들이면서 여성 호텔직원의 노동은 비정규직화됐다”며 “아무리 열심히 일해도 최저임금에서 벗어날 수 없게 됐다”고 말했다. 세종호텔은 코로나19 유행시기인 2021년 경영 악화를 이유로 전환배치와 희망퇴직 등을 실시했다. 32명이 희망퇴직했고 퇴직을 거부한 12명은 정리해고됐다. 이에 해고노동자들은 ...]]></content:encoded>
-            <enclosure url="https://img.khan.co.kr/news/c/320x220/2025/03/04/news-p.v1.20250304.13e86d8af73b47c7ae541e5ff4e3db3a_P1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
