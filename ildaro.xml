@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Mar 2025 09:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 10:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘기후를 퀴어링’하는 에코페미니즘]]></title>
+            <link>https://ildaro.com/10136</link>
+            <guid>https://ildaro.com/10136</guid>
+            <pubDate>Thu, 13 Mar 2025 10:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[퀴어를 탄압하기 위해 근거로 제시된 것이 ‘자연스럽지 못함’이었는데, 퀴어 에콜로지라는 학문의 연구 결과는 ‘자연 또한 상당히 퀴어하다’는 사실이었다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025031344113543.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[극우 정당의 득세…불안이 독일을 잠식했다]]></title>
             <link>https://ildaro.com/10135</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 16 Feb 2025 09:14:15 GMT</pubDate>
             <content:encoded><![CDATA[“nowhere in the government’s policies is there is an indication of the will to solve the fundamental causes of the low birth rate problem."...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025021640398452.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“이 사나운” 조선소에서 여성 노동자로 일한다는 것]]></title>
-            <link>https://ildaro.com/10116</link>
-            <guid>https://ildaro.com/10116</guid>
-            <pubDate>Sat, 15 Feb 2025 10:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[남성 노동자가 일당 오천 원을 더 받는 일. 남성 노동자는 누구 씨라고 부르는데, 여성 노동자들은 “이모”라 불리는 일. 여자 화장실은 한 칸밖에 없는데 남자 화장실...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/202502153601880.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
