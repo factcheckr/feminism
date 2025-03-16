@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Mar 2025 10:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Mar 2025 11:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,6 +438,14 @@
             <enclosure url="https://image.hankookilbo.com/board/7021b2d5-f457-4f11-a291-553d4b50dc45.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA["Stability," Word Extinct in Our Era (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10138</link>
+            <guid>https://ildaro.com/10138</guid>
+            <pubDate>Sun, 16 Mar 2025 11:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[As a joke, I could say it was an employment scam, and to put it objectively, it was indeed an employment scan....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025031627134142.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[평등한 광장을 만드는 페미니스트, 여기 있다 (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10137</link>
             <guid>https://ildaro.com/10137</guid>
@@ -588,14 +596,6 @@
             <pubDate>Wed, 19 Feb 2025 10:08:00 GMT</pubDate>
             <content:encoded><![CDATA[의식하지 못하지만 우리는 매일의 일상에서 우유와 여러 유제품을 수많은 종류의 가공식품의 형태로 소비한다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025021915078187.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[58년만에 누명 벗은, 복서 출신의 사형수 이야기 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10118</link>
-            <guid>https://ildaro.com/10118</guid>
-            <pubDate>Mon, 17 Feb 2025 09:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[작년에야 검찰에 의해 개재된 이와오 씨(88세)의 재심에서 ‘무죄’ 판결이 나왔다. 많은 사람이 기다리던 결말을 삽입해 영화 〈주먹과 기도-하카마다 이와오의 생애...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025021755255150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
