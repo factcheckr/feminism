@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Mar 2025 09:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 10:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“연극계 미투 이후, 우리의 시간은 거꾸로 흐르지 않았다”]]></title>
+            <link>https://ildaro.com/10142</link>
+            <guid>https://ildaro.com/10142</guid>
+            <pubDate>Fri, 21 Mar 2025 10:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[이 행위가 무언가 잘못되었다고 (피해자들이) 인지는 했지만, 이것을 폭력 혹은 비윤리적인 행위로 해석하거나 말하는 것이 굉장히 어려웠다는 것이다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025032146577076.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기후위기 시대 에코페미니즘은 더욱 비판적이어야 한다!]]></title>
             <link>https://ildaro.com/10141</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 24 Feb 2025 09:48:00 GMT</pubDate>
             <content:encoded><![CDATA[“Because of my identity, people in the company gossiped about my partners and some of my friends and excluded me, and eventually I quit.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/202502245401857.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연기 입시 준비가 ‘키빼몸 120’ 만들기라고요?]]></title>
-            <link>https://ildaro.com/10122</link>
-            <guid>https://ildaro.com/10122</guid>
-            <pubDate>Sun, 23 Feb 2025 12:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[“다이어트라는 게 도달하기 어려운 목표를 두고 하는 거기 때문에, 그 과정에서 계속 실패를 하니까 스스로에 대한 수치심이 커...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025022345042289.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
