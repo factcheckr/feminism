@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Mar 2025 01:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Mar 2025 03:01:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,6 +438,14 @@
             <enclosure url="https://image.hankookilbo.com/board/7021b2d5-f457-4f11-a291-553d4b50dc45.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[민주주의 후퇴하는 세계, ‘다양성 훈련’ 필요한 시기 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10143</link>
+            <guid>https://ildaro.com/10143</guid>
+            <pubDate>Sun, 23 Mar 2025 10:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘스타파워’ 게임 중 세모 팀과 동그라미 팀이 ‘골드칩’을 가진 네모 팀에게 찾아가 규칙을 바꾸는 것에 대한 ‘협상’을 시도하는 장면이다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025032307478200.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“연극계 미투 이후, 우리의 시간은 거꾸로 흐르지 않았다” (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10142</link>
             <guid>https://ildaro.com/10142</guid>
@@ -588,14 +596,6 @@
             <pubDate>Tue, 25 Feb 2025 05:15:20 GMT</pubDate>
             <content:encoded><![CDATA[‘용기’와 ‘희생’을 상찬하고 함께 애도하려는 그들의 기획 속에 그 전쟁이 무엇이었는지에 대한 근본적인 고민이 빠져있음을 알 수 있다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025022532061518.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Where are the Measures to Deal with Workplace Sexual Harassment of LGBTQI People? (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10123</link>
-            <guid>https://ildaro.com/10123</guid>
-            <pubDate>Mon, 24 Feb 2025 09:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[“Because of my identity, people in the company gossiped about my partners and some of my friends and excluded me, and eventually I quit.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/202502245401857.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
