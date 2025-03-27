@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Mar 2025 01:08:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 02:57:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘동성애 반대’, ‘안티 페미’ 내걸고 세력화한 극우]]></title>
+            <link>https://ildaro.com/10146</link>
+            <guid>https://ildaro.com/10146</guid>
+            <pubDate>Thu, 27 Mar 2025 10:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[“보수 세력이 어떤 방식으로 사회적인 타자를 만들고, 그들을 공격함으로써 자신들의 정치적인 입지를 다지려고 했는지 살펴봐야 한다”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/202503271838326.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전쟁으로 돈 버는 기업이 없어야 평화가 온다]]></title>
             <link>https://ildaro.com/10145</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 01 Mar 2025 00:53:00 GMT</pubDate>
             <content:encoded><![CDATA[“스쿨미투 이후 학교는 과연 무엇이 달라졌나? 지혜복 교사의 투쟁은 개인의 투쟁이 아니라, 평등하고 안전한 학교를 만들기 위한, 모두의 투쟁이다.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025030159094599.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지구를 떠나지 않는 해법을 모색할 때]]></title>
-            <link>https://ildaro.com/10126</link>
-            <guid>https://ildaro.com/10126</guid>
-            <pubDate>Fri, 28 Feb 2025 09:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[국가주의 이데올로기에서 시작된 우주탐사는 지구 밖에서도 인간이 거주할 수 있는 피난처 건설을 위한 실험으로 이어졌다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202502/2025022815412076.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
