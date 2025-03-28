@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Mar 2025 08:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 09:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자궁절제술 남용 문제에 대한 페미니즘 시각의 분석]]></title>
+            <link>https://ildaro.com/10147</link>
+            <guid>https://ildaro.com/10147</guid>
+            <pubDate>Fri, 28 Mar 2025 09:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[달라 코스따는 자궁절제술의 남용을 ‘가부장제와 자본주의의 여성의 재생산 능력에 대한 폭력과 수탈’의 구조에 위치시킨다....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025032806032246.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘동성애 반대’, ‘안티 페미’ 내걸고 세력화한 극우]]></title>
             <link>https://ildaro.com/10146</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 03 Mar 2025 11:38:00 GMT</pubDate>
             <content:encoded><![CDATA[사회는 내게도 딱히 친절했던 적 없었다. 고졸의 신분으로는 취업할 수 있는 곳이 제한적이었다. 나는 굉장히 자주, 내게는 살 자격이 없다는 느낌을 받았다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025030344301766.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성폭력 피해학생들 돕다가 거리에서 시위하는 교사]]></title>
-            <link>https://ildaro.com/10127</link>
-            <guid>https://ildaro.com/10127</guid>
-            <pubDate>Sat, 01 Mar 2025 00:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[“스쿨미투 이후 학교는 과연 무엇이 달라졌나? 지혜복 교사의 투쟁은 개인의 투쟁이 아니라, 평등하고 안전한 학교를 만들기 위한, 모두의 투쟁이다.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025030159094599.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
