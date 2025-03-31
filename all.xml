@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Mar 2025 03:05:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 04:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[여성 한부모가족 소득, 전체 가구의 ‘절반 수준’ (경향신문 ─ 연재 ─ 플랫)]]></title>
             <link>https://www.khan.co.kr/article/202503311034001</link>
             <guid>https://www.khan.co.kr/article/202503311034001</guid>
-            <pubDate>Mon, 31 Mar 2025 03:04:24 GMT</pubDate>
+            <pubDate>Mon, 31 Mar 2025 03:03:41 GMT</pubDate>
             <content:encoded><![CDATA[<div class="thumb">
                                         <picture>
                                             <source type="image/webp" srcset="https://img.khan.co.kr/news/c/190x140/2025/03/31/news-p.v1.20250331.e1ef3df8094c4ca29bc6616828c20a62_P1.webp" loading="lazy">
@@ -182,7 +182,7 @@
                                         <h2 class="tit">
                                             <a href="https://www.khan.co.kr/article/202503311034001" onclick="sendGAAttrEvent(event);" title="여성 한부모가족 소득, 전체 가구의 ‘절반 수준’[플랫]" ep_event_page="pc_list_common" ep_event_area="플랫_기사" ep_event_label="여성 한부모가족 소득, 전체 가구의 ‘절반 수준’[플랫]">여성 한부모가족 소득, 전체 가구의 ‘절반 수준’</a>
                                         </h2>
-                                        <span class="byline">1시간 전</span>
+                                        <span class="byline">2시간 전</span>
                                         <span class="lead line_clamp2">한부모가족의 한달 평균 소득이 전체 가구 평균소득의 60%, 여성 한부모의 경우 절반 수준에 그치는 것으로 나타났다. 한부모 10명 중 7명은 양육비를 한번도 받지 못했다고 응답했다.여성가족부가 30일 발표한 ‘2024년 한부모가족 실태조사’ 결과를 보면 지난해 한부모가족의 월평균소득은 294만6000원으로 전체 가구 월평균소득인 488만7000원의 60.3% 수준에 머물렀다. 특히 어머니와 자녀로 구성된 여성 한부모가족의 월평균소득은 250만6000원으로 전체 평균의 51%에 그쳤다. 아버지와 자녀로 구성된 한부모가족의 월평균소득은 325만3000원이었다.여성가족부는 3년 주기로 한부모가족 실태조사를 진행하며, 이번 조사는 18세 이하 자녀를 양육하는 전국 한부모가족 가구주 3315명을 대상으로 지난해 진행됐다.금융자산과 부동산, 부채를 더한 순자산에서도 한부모가족과 전체 가구 사이 격차가 드러났다. 한부모가족의 평균 순자산액은 1억1568만원으로, 전체 가구 평균...</span>
                                     </div>]]></content:encoded>
         </item>
@@ -438,6 +438,14 @@
             <enclosure url="https://image.hankookilbo.com/board/7021b2d5-f457-4f11-a291-553d4b50dc45.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[“30년지기 파트너이자 가족이자 친구이자 전우” (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10149</link>
+            <guid>https://ildaro.com/10149</guid>
+            <pubDate>Mon, 31 Mar 2025 00:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[1993년에 미국 하와이주 대법원이 “동성 커플에게 결혼의 권리를 인정하지 않는 것은 평등 원칙에 반한다”는 판결을 했다는 뉴스를 들었을 때 깜짝 놀랐어요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025033120013369.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[비폭력 저항이 폭력 투쟁보다 ‘성공했다’ (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10148</link>
             <guid>https://ildaro.com/10148</guid>
@@ -588,14 +596,6 @@
             <pubDate>Wed, 05 Mar 2025 00:40:00 GMT</pubDate>
             <content:encoded><![CDATA[“우리가 현재와 다른 사유를 원한다면, 사유는 예술을 향해서 방향을 틀어야 합니다.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025030552497149.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sharing a Brave Friendship in the Face of a Tsunami (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10129</link>
-            <guid>https://ildaro.com/10129</guid>
-            <pubDate>Tue, 04 Mar 2025 00:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[The experience of courageous friendship between diverse bodies banding together in solidarity will change our future....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025030410417034.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

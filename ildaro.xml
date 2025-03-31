@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Mar 2025 03:05:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 04:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“30년지기 파트너이자 가족이자 친구이자 전우”]]></title>
+            <link>https://ildaro.com/10149</link>
+            <guid>https://ildaro.com/10149</guid>
+            <pubDate>Mon, 31 Mar 2025 00:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[1993년에 미국 하와이주 대법원이 “동성 커플에게 결혼의 권리를 인정하지 않는 것은 평등 원칙에 반한다”는 판결을 했다는 뉴스를 들었을 때 깜짝 놀랐어요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025033120013369.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비폭력 저항이 폭력 투쟁보다 ‘성공했다’]]></title>
             <link>https://ildaro.com/10148</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 05 Mar 2025 00:40:00 GMT</pubDate>
             <content:encoded><![CDATA[“우리가 현재와 다른 사유를 원한다면, 사유는 예술을 향해서 방향을 틀어야 합니다.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025030552497149.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sharing a Brave Friendship in the Face of a Tsunami]]></title>
-            <link>https://ildaro.com/10129</link>
-            <guid>https://ildaro.com/10129</guid>
-            <pubDate>Tue, 04 Mar 2025 00:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[The experience of courageous friendship between diverse bodies banding together in solidarity will change our future....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025030410417034.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
