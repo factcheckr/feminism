@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Apr 2025 01:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Apr 2025 03:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Universities in the US that Guarantee the Right to Study for Parenting Students]]></title>
+            <link>https://ildaro.com/10150</link>
+            <guid>https://ildaro.com/10150</guid>
+            <pubDate>Tue, 01 Apr 2025 11:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[After only visiting a few universities here, I already feel as if I might understand her feelings. The universities in the US feel like paradise, at least to ‘students with children.’...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202504/2025040115314894.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“30년지기 파트너이자 가족이자 친구이자 전우”]]></title>
             <link>https://ildaro.com/10149</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 06 Mar 2025 05:16:04 GMT</pubDate>
             <content:encoded><![CDATA[여성 억압에 관한 문제를 제기하면 남성의 고통을 답으로 내미는 사회다. ‘여성 대 남성’의 이분법적 성별 갈라치기가 일상 깊숙이 파고들어, 성차별 문제를 성 대결...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025030609161404.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘알아차림’이라는 감각적 지식을 향해]]></title>
-            <link>https://ildaro.com/10130</link>
-            <guid>https://ildaro.com/10130</guid>
-            <pubDate>Wed, 05 Mar 2025 00:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[“우리가 현재와 다른 사유를 원한다면, 사유는 예술을 향해서 방향을 틀어야 합니다.”...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025030552497149.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
