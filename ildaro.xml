@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Apr 2025 12:30:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Apr 2025 13:27:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[야금이와 호두, 그리고 우리]]></title>
+            <link>https://ildaro.com/10152</link>
+            <guid>https://ildaro.com/10152</guid>
+            <pubDate>Thu, 03 Apr 2025 13:27:37 GMT</pubDate>
+            <content:encoded><![CDATA[“네가 죽을 뻔했어.”라거나 “세상이 참 흉하지. 지켜주지 못해서 미안해.”라는 말 대신 “살아줘서 고마워. 너를 살리고 싶어 하는 이들이 네 곁에 있어.”라는 희...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202504/2025040313345181.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사회구성원들이 행복할 수 있는, 민주주의를 향해]]></title>
             <link>https://ildaro.com/10151</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 09 Mar 2025 11:11:42 GMT</pubDate>
             <content:encoded><![CDATA[딥페이크로 전국이 들썩였을 때, 여성운동은 여전히 “문제는 남성문화”라고 지적했다. 우리가 싸우는 전선은 여성혐오다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025030907123591.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이주 여성노동자의 외침 “우리는 기계가 아니다”]]></title>
-            <link>https://ildaro.com/10132</link>
-            <guid>https://ildaro.com/10132</guid>
-            <pubDate>Sat, 08 Mar 2025 11:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[줄리엣 에가(Juliet Egar) 필리핀이주노동자단체연합 카사마코(KASAMMA-KO) 활동가는 “돌봄노동자를 인간으로서 대우하�...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/202503083016228.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
