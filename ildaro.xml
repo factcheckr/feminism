@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Apr 2025 02:57:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Apr 2025 03:29:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노동 변호사, 당신의 노동에 “안녕”을 묻습니다]]></title>
+            <link>https://ildaro.com/10153</link>
+            <guid>https://ildaro.com/10153</guid>
+            <pubDate>Sat, 05 Apr 2025 10:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[“유가족은 이재학 씨뿐만 아니라 청주방송 내 다른 비정규직의 실태 규명까지 요구했다. 이렇게 되면 문제 해결이 힘들어지는데도, 유가족은 그 길을 택했다.”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202504/2025040517553273.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[야금이와 호두, 그리고 우리]]></title>
             <link>https://ildaro.com/10152</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 10 Mar 2025 12:29:27 GMT</pubDate>
             <content:encoded><![CDATA[아흔이 넘은 조영숙 선생이 공연을 다니며 소리를 자아내는 모습을, 제자를 가르치며 소리를 하나씩 짚어내는 모습을 관람할 수 있다는 것은 이 영화가 지닌 매력 중 ...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025031040363165.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘자발적으로’ ‘음란한’ 피해자들의 손을 잡는 일]]></title>
-            <link>https://ildaro.com/10133</link>
-            <guid>https://ildaro.com/10133</guid>
-            <pubDate>Sun, 09 Mar 2025 11:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[딥페이크로 전국이 들썩였을 때, 여성운동은 여전히 “문제는 남성문화”라고 지적했다. 우리가 싸우는 전선은 여성혐오다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025030907123591.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
