@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Apr 2025 04:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 05:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성소수자 청소년을 위해 어른이 할 수 있는 일]]></title>
+            <link>https://ildaro.com/10154</link>
+            <guid>https://ildaro.com/10154</guid>
+            <pubDate>Mon, 07 Apr 2025 10:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[성소수자 청소년들과 ‘어쩌면 내가 성소수자일 수도 있다’라고 생각하는 청소년들을 위한 공간을 만들어 온 사단법인 니지즈(にじーず, ‘무지개들’이라는 뜻)...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202504/2025040743571662.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[노동 변호사, 당신의 노동에 “안녕”을 묻습니다]]></title>
             <link>https://ildaro.com/10153</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 12 Mar 2025 00:17:00 GMT</pubDate>
             <content:encoded><![CDATA[나 같은 외국인은 테러의 범인이 이민자 출신일 때도, 테러의 범인이 극우주의자일 때도 가슴이 철렁 내려앉는다. 이민자는 근심 걱정이 더 많은 존재다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025031231486421.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[93세와 93년생이 함께…‘여성국극은 영원하다’]]></title>
-            <link>https://ildaro.com/10134</link>
-            <guid>https://ildaro.com/10134</guid>
-            <pubDate>Mon, 10 Mar 2025 12:29:27 GMT</pubDate>
-            <content:encoded><![CDATA[아흔이 넘은 조영숙 선생이 공연을 다니며 소리를 자아내는 모습을, 제자를 가르치며 소리를 하나씩 짚어내는 모습을 관람할 수 있다는 것은 이 영화가 지닌 매력 중 ...]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025031040363165.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
