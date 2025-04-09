@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Apr 2025 01:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 03:00:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Revealing the Relationship Between the Public Square and Feminism]]></title>
+            <link>https://ildaro.com/10156</link>
+            <guid>https://ildaro.com/10156</guid>
+            <pubDate>Wed, 09 Apr 2025 10:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[“Wasn’t it feminist citizens who had been wishing for Yoon Suk Yeol’s resignation the earliest?”...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202504/2025040910222619.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘주5일’ ‘9to6’ 직장인의 시간, 이대로 괜찮은가요?]]></title>
             <link>https://ildaro.com/10155</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 15 Mar 2025 10:35:00 GMT</pubDate>
             <content:encoded><![CDATA[물론 ‘평등약속문’이 있다고 해서 한 순간에 집회 현장이 평등해질 순 없을 거에요. 그래도 주최 측이 어떤 방향을 제시하는지가 아주 중요하죠....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025031546209416.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘기후를 퀴어링’하는 에코페미니즘]]></title>
-            <link>https://ildaro.com/10136</link>
-            <guid>https://ildaro.com/10136</guid>
-            <pubDate>Thu, 13 Mar 2025 10:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[퀴어를 탄압하기 위해 근거로 제시된 것이 ‘자연스럽지 못함’이었는데, 퀴어 에콜로지라는 학문의 연구 결과는 ‘자연 또한 상당히 퀴어하다’는 사실이었다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025031344113543.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
