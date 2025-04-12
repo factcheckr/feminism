@@ -4,9 +4,17 @@
         <title>일다 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Apr 2025 01:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Apr 2025 02:58:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성소수자 시민들이 윤석열 퇴진 광장에 있었다!]]></title>
+            <link>https://ildaro.com/10158</link>
+            <guid>https://ildaro.com/10158</guid>
+            <pubDate>Sat, 12 Apr 2025 09:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[사람들이 “무지개존을 못 찾겠어요.”라고 했어요. 무지개 깃발이 곳곳에 너무 많아서, 어디가 무지개존인지 모르겠다고요....]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202504/2025041209051940.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“요즘 누가 월급 밀려가면서 일을 해요?”]]></title>
             <link>https://ildaro.com/10157</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 17 Mar 2025 09:18:30 GMT</pubDate>
             <content:encoded><![CDATA[이스라엘의 가자 지구 공격 후에 혼돈에 빠진 골목을 걸으며 다양한 사람들을 만난다. “이스라엘 사람과 팔레스타인 사람의 오랜 싸움에 해결의 실마리는 있을까.”...]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025031726403375.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["Stability," Word Extinct in Our Era]]></title>
-            <link>https://ildaro.com/10138</link>
-            <guid>https://ildaro.com/10138</guid>
-            <pubDate>Sun, 16 Mar 2025 11:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[As a joke, I could say it was an employment scam, and to put it objectively, it was indeed an employment scan....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025031627134142.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
