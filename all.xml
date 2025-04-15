@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Apr 2025 03:05:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Apr 2025 04:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,6 +438,14 @@
             <enclosure url="https://image.hankookilbo.com/board/7021b2d5-f457-4f11-a291-553d4b50dc45.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[생활고에 시달리는 웹소설 작가입니다 (일다 ─ 전체기사)]]></title>
+            <link>https://ildaro.com/10160</link>
+            <guid>https://ildaro.com/10160</guid>
+            <pubDate>Tue, 15 Apr 2025 11:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[이 글을 쓰고 있는 나는 지금 목이 한껏 늘어난 맨투맨을 입고 있다. 옷에는 고양이 털이 덕지덕지 붙어있고, 대충 말린 머리는 하루 종일 까치집이다...]]></content:encoded>
+            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202504/2025041536575685.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[희귀암 투병 이후 ‘1년마다 갱신되는 삶’ (일다 ─ 전체기사)]]></title>
             <link>https://ildaro.com/10159</link>
             <guid>https://ildaro.com/10159</guid>
@@ -588,14 +596,6 @@
             <pubDate>Thu, 20 Mar 2025 10:29:00 GMT</pubDate>
             <content:encoded><![CDATA[2019년 아이슬란드에서는 약 100명의 사람이 모여 오크요쿨(Okjokull)빙하의 장례식을 열었다. 이들은 시 낭송과 연설로 빙하의 사라짐을 애도했다....]]></content:encoded>
             <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025032039539054.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불화하는 존재들의 ‘19호실’을 상상하며 (일다 ─ 전체기사)]]></title>
-            <link>https://ildaro.com/10140</link>
-            <guid>https://ildaro.com/10140</guid>
-            <pubDate>Tue, 18 Mar 2025 07:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[이른 독립과 함께 갑작스레 ‘혼자됨’의 순간이 찾아왔다. 하지만 내게 혼자됨의 다른 이름은 불안이기도 했다....]]></content:encoded>
-            <enclosure url="https://ildaro.com/data/ildaro_com/mainimages/202503/2025031807217622.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
